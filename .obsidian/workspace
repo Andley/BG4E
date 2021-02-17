@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "easily confused words.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "easily confused words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "easily confused words.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "width": 380
   },
   "lastOpenFiles": [
+    "容易混淆的字.md",
+    "雅 2.14.md",
     "README.md",
+    "Untitled.md",
     "參考書目.md",
     "Syntax/IBG4E-Syntax.md",
     "Syntax/IG4E-Syntax.md",
     "全民希臘文進階.md",
     "全民希臘文初階.md",
-    "Syntax/IG4E.md",
-    "Syntax/$3b.md",
-    "Syntax/§3a.md",
-    "Syntax/Untitled.md"
+    "Syntax/IG4E.md"
   ]
 }
