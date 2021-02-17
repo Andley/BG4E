@@ -1,5 +1,6 @@
 # 全民希臘文進階句法 (IG4E–Syntax) <br>Intermediate Greek for Everyone — Syntax
 
+---
 
 - Part I—希臘文基礎
 	- Chapter 1: 希臘文源流 §1
