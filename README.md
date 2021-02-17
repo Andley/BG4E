@@ -15,7 +15,7 @@
  
 
 ## 進階句法 (IBG4E–Syntax)
-- [全民希臘文進階語法](Syntax/IBG4E-Syntax.md)
+- [全民希臘文進階句法](Syntax/IBG4E-Syntax.md)
 - [Wallace GGBB 句法摘要中英對照](Syntax/GGBB.md)
 
 

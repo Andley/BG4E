@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "easily confused words.md",
+            "file": "Syntax/IBG4E-Syntax.md",
             "mode": "preview"
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "easily confused words.md",
+                "file": "Syntax/IBG4E-Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "easily confused words.md"
+                "file": "Syntax/IBG4E-Syntax.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "width": 380
   },
   "lastOpenFiles": [
+    "Syntax/IBG4E-Syntax.md",
+    "Syntax/GGBB.md",
+    "Porter-IGNT/IGNT.md",
+    "參考書目.md",
+    "README.md",
+    "easily confused words.md",
     "容易混淆的字.md",
     "雅 2.14.md",
-    "README.md",
     "Untitled.md",
-    "參考書目.md",
-    "Syntax/IBG4E-Syntax.md",
-    "Syntax/IG4E-Syntax.md",
-    "全民希臘文進階.md",
-    "全民希臘文初階.md",
-    "Syntax/IG4E.md"
+    "Syntax/IG4E-Syntax.md"
   ]
 }
