@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "46860815f32cbf2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ed5ca1ae29d4f45",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Syntax/IG4E.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6fb1be0223e7d086",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GGBB.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d89ef4303833cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8198aa995c74f604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ac520a8ccc59a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "971c7a8a329ef702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8253e41627d2fedb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 192
+  },
+  "right": {
+    "id": "92fec9da4657ec59",
+    "type": "split",
+    "children": [
+      {
+        "id": "6475f8733433b7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d357a25b83637fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Syntax/IG4E.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8cb03e335959f3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "775222d07aaa15a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Syntax/IG4E.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Syntax/IG4E.md",
+    "Syntax/$3b.md",
+    "Syntax/§3a.md",
+    "Syntax/Untitled.md",
+    "GGBB.md",
+    "Syntax/§311.md",
+    "Syntax/Syntax-00.md",
+    "Syntax/§610.md",
+    "Syntax/§400.md",
+    "Syntax/§310.md"
+  ]
+}

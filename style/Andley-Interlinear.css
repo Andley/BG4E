@@ -1,0 +1,105 @@
+/* ============= 列印 PDF 設定 ============= */
+  @media print {
+    /* -------- 列印強調 ---------- */
+    a, strong, em {
+      color: black !important;
+    }
+
+  /* -------- 列印 Interlinear 經文段落---------- */
+  ruby {
+    font-size: 19px !important; /* 14pt 字體大小*/
+    line-height: 19px !important;
+    padding-bottom: 10px !important;
+  }
+  rt {
+    font-size: 16px !important; /* 12pt 字體大小*/
+    line-height: 16px !important;
+  }
+
+  /* -------- 列印 Interlinear 圖析 ---------- */
+  ul ruby {
+    font-size: 16px !important; /* 12pt 字體大小*/
+    line-height: 16px !important;
+    padding-bottom: 2px !important;
+  }
+  ul rt {
+    font-size: 13px !important; /* 10pt 字體大小*/
+    line-height: 13px !important;
+  }
+
+  /* -------- 列印其他文字 ---------- */
+    html, body {
+      background-color: white !important;
+      color: black !important;
+      font-size: 16px !important; /* 12pt 字體大小*/
+    }
+
+  }
+
+
+  /* ============= 銀幕顯示 & 列印設定 ============= */
+    /* -------- 銀幕標題 ---------- */
+    h1, h2, h3, h4, h5, h6 {
+      font-family: "Noto Sans Black", "Noto Sans CJK TC Black";
+    }
+    h1 {
+      color: darkred;
+      font-size:26px; /* 20pt 字體大小*/
+      text-align: center;
+      border-bottom: 3px double darkred !important;
+    }
+    h2 {
+      color: darkblue;
+      font-size:24px; /* 18pt 字體大小*/
+      text-align: center;
+    }
+    h3 {
+      color: darkgreen;
+      font-size:22px; /* 16pt 字體大小*/
+      text-indent: -21px;
+    }
+    h4 {
+      color: darkmagenta;
+      font-size:19px; /* 14pt 字體大小*/
+      text-indent: -14px;
+    }
+    h5 { 
+      font-size:16px; /* 12pt 字體大小*/
+      text-indent: -7px;
+    }
+    h6 {
+      font-size:16px; /* 12pt 字體大小*/
+      font-style: italic;
+    }
+
+    /* -------- 銀幕 Interlinear ---------- */
+    ruby {
+      display: inline-flex;
+      flex-direction: column-reverse ;
+      align-items: center;
+      font-size: 22px; /* 16pt 字體大小*/
+      line-height: 23px;
+      padding-bottom: 10px;
+      font-family: "SBL BibLit";
+    }
+    ul ruby {
+      padding-bottom: 5px;
+    }
+    rt {
+      font-size: 17px; /* 13pt 字體大小*/
+      line-height: 18px;
+      font-family: "Arial Narrow", "Noto Sans CJK TC";
+    }
+
+    /* -------- 其他文字 ---------- */
+    html, body {
+      background-color: white;
+      color: black;
+      font-size:16px; /* 12pt 字體大小*/
+      font-family: "Noto Sans", "Noto Sans CJK TC", "Ezra SIL";
+    }
+
+    th {
+      border-bottom: 3px double black !important;
+    }
+
