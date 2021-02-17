@@ -10,19 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax/IG4E.md",
+            "file": "README.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6fb1be0223e7d086",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GGBB.md",
-            "mode": "preview"
           }
         }
       }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/IG4E.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/IG4E.md"
+                "file": "README.md"
               }
             }
           }
@@ -123,19 +112,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592,
-    "collapsed": true
+    "width": 380
   },
   "lastOpenFiles": [
+    "README.md",
+    "參考書目.md",
+    "Syntax/IBG4E-Syntax.md",
+    "Syntax/IG4E-Syntax.md",
+    "全民希臘文進階.md",
+    "全民希臘文初階.md",
     "Syntax/IG4E.md",
     "Syntax/$3b.md",
     "Syntax/§3a.md",
-    "Syntax/Untitled.md",
-    "GGBB.md",
-    "Syntax/§311.md",
-    "Syntax/Syntax-00.md",
-    "Syntax/§610.md",
-    "Syntax/§400.md",
-    "Syntax/§310.md"
+    "Syntax/Untitled.md"
   ]
 }

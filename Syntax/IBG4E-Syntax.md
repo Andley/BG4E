@@ -1,4 +1,4 @@
-# 全民希臘文進階句法 (IG4E–Syntax) <br>Intermediate Greek for Everyone — Syntax
+# 全民希臘文進階語法 (IBG4E–Syntax) <br>Intermediate Biblcal Greek for Everyone — Syntax
 
 ---
 
