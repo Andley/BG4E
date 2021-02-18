@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HW/Untitled.md",
+            "file": "IBG4E Course/2021-CTTS.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW/Untitled.md",
+                "file": "IBG4E Course/2021-CTTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW/Untitled.md"
+                "file": "IBG4E Course/2021-CTTS.md"
               }
             }
           }
@@ -116,6 +116,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "IBG4E/Home Work.md",
+    "IBG4E/HW1-Answer.md",
     "HW/Untitled.md",
     "HW/HW9.md",
     "HW/HW8.md",
@@ -123,8 +125,6 @@
     "HW/HW6.md",
     "HW/HW5.md",
     "HW/HW4.md",
-    "HW/HW3.md",
-    "HW/HW2.md",
-    "HW/HW1.md"
+    "HW/HW3.md"
   ]
 }
