@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed5ca1ae29d4f45",
+        "id": "17b88559c15a3b3b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "數位工具.md",
+            "file": "HW/Untitled.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "數位工具.md",
+                "file": "HW/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "數位工具.md"
+                "file": "HW/Untitled.md"
               }
             }
           }
@@ -112,18 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "數位工具.md",
-    "Mounce-Reader/GRBG.md",
-    "Syntax/IBG4E-Syntax.md",
-    "Syntax/GGBB.md",
-    "Porter-IGNT/IGNT.md",
-    "參考書目.md",
-    "README.md",
-    "easily confused words.md",
-    "容易混淆的字.md",
-    "雅 2.14.md"
+    "HW/Untitled.md",
+    "HW/HW9.md",
+    "HW/HW8.md",
+    "HW/HW7.md",
+    "HW/HW6.md",
+    "HW/HW5.md",
+    "HW/HW4.md",
+    "HW/HW3.md",
+    "HW/HW2.md",
+    "HW/HW1.md"
   ]
 }

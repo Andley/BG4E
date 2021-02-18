@@ -110,9 +110,9 @@ The PDF link should work[^3]
 
 ## 連結
 [[
-[其他文章連結](IGNT-01)：IGNT/01.md
+[其他文章連結](IGNT/IGNT-01.md)：IGNT/01.md
 
-[其他文章內的段落](IGNT-01#11-%E4%B8%89%E5%80%8B%E5%8B%95%E8%A9%9E%E8%A7%80%E9%BB%9E-The-Three-Verbal-Aspects)：1.1 三個動詞觀點 (The Three Verbal Aspects)
+[其他文章內的段落](IGNT/IGNT-01.md#11-%E4%B8%89%E5%80%8B%E5%8B%95%E8%A9%9E%E8%A7%80%E9%BB%9E-The-Three-Verbal-Aspects)：1.1 三個動詞觀點 (The Three Verbal Aspects)
 
 [本文內的段落](#bottom)：bottom
 [qq](#%5E88f4c1)
