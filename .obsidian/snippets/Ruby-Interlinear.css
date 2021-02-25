@@ -171,23 +171,35 @@
 /***************************************/
 /*           Ruby Interlinear          */
 /***************************************/
-ruby {
-	display: inline-flex;
-	flex-direction: column-reverse ;
-  align-items: center;
-  font-size: 17px; /* 13pt 字體大小*/
-  line-height: 17px;
-  padding-bottom: 7px;
-  font-family: AndleyFont;
-}
-ul ruby {
-  padding-bottom: 3px;
-}
-rt {
-  font-size: 13px; /* 10pt 字體大小*/
-  line-height: 13px;
-  font-family: InterlinearFont;
-}
+  /* -------- 銀幕 Interlinear 經文段落---------- */
+  ruby {
+    display: inline-flex;
+    flex-direction: column-reverse ;
+    align-items: center;
+    font-size: 19px !important; /* 14pt 字體大小*/
+    line-height: 19px !important;
+    padding-bottom: 10px !important;
+    font-family: AndleyFont;
+  }
+  rt {
+    font-size: 16px !important; /* 12pt 字體大小*/
+    line-height: 16px !important;
+    font-family: InterlinearFont;
+  }
+
+  /* -------- 銀幕 Interlinear 圖析 ---------- */
+  ul ruby {
+    display: inline-flex;
+    flex-direction: column-reverse ;
+    align-items: center;
+    font-size: 19px !important; /* 12pt 字體大小*/
+    line-height: 16px !important;
+    padding-bottom: 2px !important;
+  }
+  ul rt {
+    font-size: 13px !important; /* 10pt 字體大小*/
+    line-height: 13px !important;
+  }
 
 html, body {
   font-family: AndleyFont;
