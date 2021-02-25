@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GGBB/GGBB.md",
+            "file": "IBG4E Course/HW1-Key.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ef1ae424627310ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E Course/HW1-Key.md",
             "mode": "preview"
           }
         }
@@ -61,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGBB/GGBB.md",
+                "file": "IBG4E Course/HW1-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGBB/GGBB.md"
+                "file": "IBG4E Course/HW1-Key.md"
               }
             }
           }
@@ -116,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "IBG4E Course/HW1-Key.md",
+    "IBG4E Course/2021-CTTS.md",
     "GGBB/GGBB.md",
     "Syntax/Syntax-00.md",
     "Syntax/IBG4E-Syntax.md",
-    "IBG4E Course/2021-CTTS.md",
     "IBG4E/Home Work.md",
     "IBG4E/HW1-Answer.md",
     "HW/Untitled.md",
     "HW/HW9.md",
-    "HW/HW8.md",
-    "HW/HW7.md"
+    "HW/HW8.md"
   ]
 }
