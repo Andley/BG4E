@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "17b88559c15a3b3b",
+        "id": "ef1ae424627310ed",
         "type": "leaf",
         "active": true,
         "state": {
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "ef1ae424627310ed",
+        "id": "3de6e1ae83a31d88",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -129,6 +129,7 @@
   },
   "lastOpenFiles": [
     "IBG4E Course/HW1-Key.md",
+    "IBG4E Course/Untitled.md",
     "IBG4E Course/2021-CTTS.md",
     "GGBB/GGBB.md",
     "Syntax/Syntax-00.md",
@@ -136,7 +137,6 @@
     "IBG4E/Home Work.md",
     "IBG4E/HW1-Answer.md",
     "HW/Untitled.md",
-    "HW/HW9.md",
-    "HW/HW8.md"
+    "HW/HW9.md"
   ]
 }
