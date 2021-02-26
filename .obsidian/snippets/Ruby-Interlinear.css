@@ -100,6 +100,10 @@
   --opacity-translucency: 0;
 }
 
+.workspace-leaf.mod-active .view-header-title {
+  color: var(--text-faint);
+}
+
 /* 粗體、斜體 in preview and editor */
 .cm-strong, .markdown-preview-view strong {
   font-weight:bolder;
