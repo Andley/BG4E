@@ -36,7 +36,6 @@
   src: local("Noto Sans CJK TC");
 }
 
-
 /* ============= 列印 PDF 設定 ============= */
 @media print {
   /* -------- 列印強調 ---------- */
@@ -74,7 +73,8 @@
   }
 }
 
-/* ============= Obsidian 介面設定 ============= */
+/* ============= 銀幕顯示 設定 ============= */
+/* Obsidian 介面 */
 .theme-dark {
   --text-tag: #778899;
   --text-muted: #D3D3D3;
@@ -100,13 +100,22 @@
   --opacity-translucency: 0;
 }
 
-.workspace-leaf.mod-active .view-header-title {
+/* 標題顏色 */
+.titlebar-inner {
   color: var(--text-faint);
+  width: 100%;
+}
+
+.view-header-title {
+  color: var(--text-faint);
+}
+.workspace-leaf.mod-active .view-header-title {
+  color: var(--text-accent);
 }
 
 /* 粗體、斜體 in preview and editor */
 .cm-strong, .markdown-preview-view strong {
-  font-weight:bolder;
+  font-weight: bolder;
   color: var(--text-accent);
 }
 .cm-em, .markdown-preview-view em {
@@ -191,21 +200,8 @@
     font-family: InterlinearFont;
   }
 
-  /* -------- 銀幕 Interlinear 圖析 ---------- */
-  ul ruby {
-    display: inline-flex;
-    flex-direction: column-reverse ;
-    align-items: center;
-    font-size: 19px ; /* 12pt 字體大小*/
-    line-height: 19px ;
-    padding-bottom: 7px ;
-  }
-  ul rt {
-    font-size: 16px ; /* 10pt 字體大小*/
-    line-height: 16px ;
-  }
 
 html, body {
   font-family: AndleyFont;
-  font-size:16px;
+  font-size:14px;
 }

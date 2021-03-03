@@ -4,27 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1ae424627310ed",
+        "id": "05dd8cb6a88e6cb9",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax/否定.md",
+            "file": "IBG4E/HW1-Key.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "22b6860b633cec3b"
       },
       {
-        "id": "05dd8cb6a88e6cb9",
+        "id": "3cd54d584833fec8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax/否定.md",
+            "file": "IBG4E/HW1-Key.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "22b6860b633cec3b"
       }
     ],
     "direction": "vertical"
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/否定.md",
+                "file": "IBG4E/HW1-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/否定.md"
+                "file": "IBG4E/HW1-Key.md"
               }
             }
           }
@@ -128,15 +130,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "IBG4E/HW1-Key.md",
     "Syntax/否定.md",
+    "IBG4E/HW1.md",
+    "Mounce-Reader/Syntax-Summary.md",
     "Syntax/Untitled.md",
     "Syntax/IBG4E-Syntax.md",
-    "IBG4E/HW1-Key.md",
     "Syntax/Syntax-00.md",
     "IBG4E Course/HW1-Key.md",
     "IBG4E Course/Untitled.md",
-    "IBG4E Course/2021-CTTS.md",
-    "GGBB/GGBB.md",
-    "IBG4E/Home Work.md"
+    "IBG4E Course/2021-CTTS.md"
   ]
 }
