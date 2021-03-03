@@ -6,24 +6,22 @@
       {
         "id": "ef1ae424627310ed",
         "type": "leaf",
-        "dimension": 42.99698795180722,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E Course/HW1-Key.md",
+            "file": "Syntax/否定.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3de6e1ae83a31d88",
+        "id": "05dd8cb6a88e6cb9",
         "type": "leaf",
-        "dimension": 57.00301204819278,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E Course/HW1-Key.md",
+            "file": "Syntax/否定.md",
             "mode": "preview"
           }
         }
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E Course/HW1-Key.md",
+                "file": "Syntax/否定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E Course/HW1-Key.md"
+                "file": "Syntax/否定.md"
               }
             }
           }
@@ -130,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Syntax/否定.md",
+    "Syntax/Untitled.md",
+    "Syntax/IBG4E-Syntax.md",
+    "IBG4E/HW1-Key.md",
+    "Syntax/Syntax-00.md",
     "IBG4E Course/HW1-Key.md",
     "IBG4E Course/Untitled.md",
     "IBG4E Course/2021-CTTS.md",
     "GGBB/GGBB.md",
-    "Syntax/Syntax-00.md",
-    "Syntax/IBG4E-Syntax.md",
-    "IBG4E/Home Work.md",
-    "IBG4E/HW1-Answer.md",
-    "HW/Untitled.md",
-    "HW/HW9.md"
+    "IBG4E/Home Work.md"
   ]
 }

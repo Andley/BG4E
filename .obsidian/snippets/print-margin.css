@@ -74,6 +74,12 @@
   }
 }
 
+@page {
+  size: A4 portrait;
+  margin-right: 5.5cm;
+  margin-left: -0.5cm;
+}
+
 /* ============= Obsidian 介面設定 ============= */
 .theme-dark {
   --text-tag: #778899;
