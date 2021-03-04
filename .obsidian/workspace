@@ -6,12 +6,25 @@
       {
         "id": "f403e98099030716",
         "type": "leaf",
+        "dimension": 48.49570200573066,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "數位工具.md",
+            "file": "IBG4E/HW1-Key.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "729801fe6de0fbb2",
+        "type": "leaf",
+        "dimension": 51.50429799426934,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW1-Key.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "數位工具.md",
+                "file": "IBG4E/HW1-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +117,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "數位工具.md"
+                "file": "IBG4E/HW1-Key.md"
               }
+            }
+          },
+          {
+            "id": "c1efe367d6e23c05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -113,18 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 280,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "數位工具.md",
-    "GGBB/GGBB.md",
-    "Mounce-Reader/Syntax-Summary.md",
     "IBG4E/HW1-Key.md",
-    "Syntax/否定.md",
+    "IBG4E/2021-CTTS.md",
     "IBG4E/HW1.md",
-    "Syntax/Untitled.md",
-    "Syntax/IBG4E-Syntax.md",
-    "Syntax/Syntax-00.md",
-    "IBG4E Course/HW1-Key.md"
+    "Mounce-Reader/GRBG-01c.md",
+    "Mounce-Reader/GRBG-01b.md",
+    "Mounce-Reader/GRBG-01a.md",
+    "Mounce-Reader/GRBG-02a.md",
+    "Mounce-Reader/Syntax-Summary.md",
+    "Mounce-Reader/GRBG.md",
+    "Syntax/Syntax-00.md"
   ]
 }
