@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1-Key.md",
+            "file": "數位工具.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1-Key.md",
+            "file": "數位工具.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW1-Key.md",
+                "file": "數位工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW1-Key.md"
+                "file": "數位工具.md"
               }
             }
           }
@@ -130,6 +130,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "數位工具.md",
     "IBG4E/HW1-Key.md",
     "Syntax/否定.md",
     "IBG4E/HW1.md",
@@ -138,7 +139,6 @@
     "Syntax/IBG4E-Syntax.md",
     "Syntax/Syntax-00.md",
     "IBG4E Course/HW1-Key.md",
-    "IBG4E Course/Untitled.md",
-    "IBG4E Course/2021-CTTS.md"
+    "IBG4E Course/Untitled.md"
   ]
 }

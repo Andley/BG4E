@@ -87,6 +87,7 @@
   --color3:#34a853;
   --color4:#ff8a00;
   --opacity-translucency: 0.8;
+  --background-primary: #202124;
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
