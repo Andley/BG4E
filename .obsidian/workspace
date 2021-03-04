@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GGBB/GGBB.md",
+            "file": "數位工具.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGBB/GGBB.md",
+                "file": "數位工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGBB/GGBB.md"
+                "file": "數位工具.md"
               }
             }
           }
@@ -116,9 +116,9 @@
     "width": 380
   },
   "lastOpenFiles": [
+    "數位工具.md",
     "GGBB/GGBB.md",
     "Mounce-Reader/Syntax-Summary.md",
-    "數位工具.md",
     "IBG4E/HW1-Key.md",
     "Syntax/否定.md",
     "IBG4E/HW1.md",
