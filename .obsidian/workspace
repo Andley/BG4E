@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f403e98099030716",
+        "id": "a97045607b16fd78",
         "type": "leaf",
-        "dimension": 48.49570200573066,
         "active": true,
         "state": {
           "type": "markdown",
@@ -17,9 +16,8 @@
         }
       },
       {
-        "id": "729801fe6de0fbb2",
+        "id": "bac3f8f0243882ad",
         "type": "leaf",
-        "dimension": 51.50429799426934,
         "state": {
           "type": "markdown",
           "state": {
