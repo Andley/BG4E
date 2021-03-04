@@ -94,7 +94,7 @@
 - *Instrumental Dative Uses (158-71)•指明工具 (163-76)*
 	- (1) ‡ Dative of Association/Accompaniment (159-61)•表達關連 (163-65)
 	- (2) Dative of Manner (or Adverbial Dative) (161-62)•表達態度 (165-66)
-	- (3) ‡ Dative of Means/Instrument (162-63)•表達方法 (167-68)
+	- (3) ‡ Dative of Means/Instrument (162-63)•表達方法或工具 (167-68)
 	- (4) Dative of Agency (163-66)•指明動作的施做者 (168-71)
 	- (5) Dative of Measure/Degree of Difference (166-67)•指明程度的差異 (171-72)
 	- (6) ‡ Dative of Cause (167-68)•指明原因 (172司 73)
