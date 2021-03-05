@@ -6,23 +6,25 @@
       {
         "id": "a97045607b16fd78",
         "type": "leaf",
+        "dimension": 57.456472369417114,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW1-Key.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
         "id": "bac3f8f0243882ad",
         "type": "leaf",
+        "dimension": 42.543527630582886,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW1-Key.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
