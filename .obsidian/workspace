@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a97045607b16fd78",
+        "id": "5b458d578d38a732",
         "type": "leaf",
-        "dimension": 57.456472369417114,
+        "dimension": 50.590372388737514,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1-Key.md",
-            "mode": "preview"
+            "file": "Syntax/#3 類條件句.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "bac3f8f0243882ad",
         "type": "leaf",
-        "dimension": 42.543527630582886,
-        "active": true,
+        "dimension": 49.40962761126249,
         "state": {
           "type": "markdown",
           "state": {
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW1-Key.md",
+                "file": "Syntax/#3 類條件句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW1-Key.md"
+                "file": "Syntax/#3 類條件句.md"
               }
             }
           },
@@ -138,15 +137,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Syntax/#3 類條件句.md",
     "IBG4E/HW1-Key.md",
+    "IBG4E/#3 類條件句.md",
+    "IBG4E/Untitled 1.md",
     "IBG4E/2021-CTTS.md",
     "IBG4E/HW1.md",
     "Mounce-Reader/GRBG-01c.md",
     "Mounce-Reader/GRBG-01b.md",
     "Mounce-Reader/GRBG-01a.md",
-    "Mounce-Reader/GRBG-02a.md",
-    "Mounce-Reader/Syntax-Summary.md",
-    "Mounce-Reader/GRBG.md",
-    "Syntax/Syntax-00.md"
+    "Mounce-Reader/GRBG-02a.md"
   ]
 }
