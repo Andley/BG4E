@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BBG4E/子句結構.md",
+            "file": "IBG4E/HW1-Key.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "92535c4e144af5a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW1-Key.md",
             "mode": "preview"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/子句結構.md",
+                "file": "IBG4E/HW1-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/子句結構.md"
+                "file": "IBG4E/HW1-Key.md"
               }
             }
           },
@@ -125,15 +136,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "IBG4E/HW1-Key.md",
+    "IBG4E/2021-CTTS.md",
     "BBG4E/子句結構.md",
     "IBG4E/Untitled 2.md",
     "easily confused words.md",
-    "IBG4E/HW1-Key.md",
     "Syntax/IBG4E-Syntax.md",
     "Syntax/#3 類條件句.md",
     "IBG4E/Untitled 1.md",
     "IBG4E/#3 類條件句.md",
-    "IBG4E/2021-CTTS.md",
     "IBG4E/HW1.md"
   ]
 }
