@@ -75,9 +75,8 @@
 }
 
 @page {
-  size: A4 portrait;
-  margin-right: 8cm;
-  margin-left: -0.5cm;
+  size: A3 portrait;
+  margin-right: 12cm;
 }
 
 /* ============= Obsidian 介面設定 ============= */

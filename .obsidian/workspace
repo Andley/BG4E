@@ -6,22 +6,22 @@
       {
         "id": "f67d6612ee9d2a37",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1.md",
-            "mode": "preview"
+            "file": "IBG4E/Untitled.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "92535c4e144af5a6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1-Key.md",
+            "file": "IBG4E/Untitled.md",
             "mode": "preview"
           }
         }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW1.md",
+                "file": "IBG4E/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW1.md"
+                "file": "IBG4E/Untitled.md"
               }
             }
           },
@@ -135,15 +136,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "IBG4E/HW1.md",
+    "IBG4E/Untitled.md",
     "IBG4E/HW1-Key.md",
-    "IBG4E/2021-CTTS.md",
-    "BBG4E/子句結構.md",
-    "IBG4E/Untitled 2.md",
-    "easily confused words.md",
-    "Syntax/IBG4E-Syntax.md",
-    "Syntax/#3 類條件句.md",
-    "IBG4E/Untitled 1.md",
-    "IBG4E/#3 類條件句.md"
+    "IBG4E/HW1.md",
+    "IBG4E/HW8.md",
+    "IBG4E/HW7.md",
+    "IBG4E/HW6.md",
+    "IBG4E/HW5.md",
+    "IBG4E/HW4.md",
+    "IBG4E/HW3.md",
+    "IBG4E/HW2.md"
   ]
 }
