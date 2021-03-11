@@ -6,11 +6,22 @@
       {
         "id": "4156374ac3d6fcdf",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW2-Key.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9d050a12f8a8444c",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cheatsheet.md",
+            "file": "IBG4E/HW2-Key.md",
             "mode": "source"
           }
         }
@@ -61,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheatsheet.md",
+                "file": "IBG4E/HW2-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheet.md"
+                "file": "IBG4E/HW2-Key.md"
               }
             }
           },
@@ -124,15 +136,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "cheatsheet.md",
-    "Mounce-Reader/Syntax-Summary.md",
-    "Mounce-Reader/GRBG-02a.md",
-    "Mounce-Reader/GRBG-01c.md",
-    "Mounce-Reader/GRBG-01b.md",
-    "Mounce-Reader/GRBG-01a.md",
-    "Mounce-Reader/GRBG.md",
-    "Mounce-BBG/複習 2 (1Jo4.1–6) 解答.md",
+    "IBG4E/HW2-Key.md",
+    "IBG4E/HW1-Key.md",
     "IBG4E/Gal 6.1–5.md",
-    "IBG4E/Untitled.md"
+    "IBG4E/Untitled.md",
+    "IBG4E/Untitled 1.md",
+    "IBG4E/HW2.md",
+    "IBG4E/Untitled 2.md",
+    "IBG4E/HW4.md",
+    "IBG4E/HW3-Key.md",
+    "IBG4E/HW1.md"
   ]
 }
