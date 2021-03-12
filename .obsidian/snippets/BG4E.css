@@ -104,6 +104,10 @@
   --font-monospace: "Noto Sans Mono CJK TC";
 
 }
+/* highlight active line */
+.workspace-leaf.mod-active .CodeMirror-activeline .CodeMirror-linebackground{
+  background-color: hsl(0, 0%, 0%);
+  }
 
 /* 標題顏色 */
 .titlebar-inner {
@@ -209,4 +213,21 @@
 html, body {
   font-family: AndleyFont;
   font-size:16px;
+}
+
+
+/* ----------------- */
+/* List guides CSS */
+.cm-hmd-list-indent > .cm-tab {
+  border-left: 1px solid grey;
+  margin-left: 3px;
+}
+
+.cm-s-obsidian pre.HyperMD-list-line {
+  padding-top: 0 !important;
+  min-height: 1.8em;
+}
+
+.cm-s-obsidian pre.HyperMD-list-line > span * {
+  padding-top: 0.61em !important;
 }
