@@ -6,23 +6,23 @@
       {
         "id": "bcf31c7cc2381600",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW1-Key.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "36b4e8816bb7fe34",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW1-Key.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "36b4e8816bb7fe34",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW1-Key.md",
+            "mode": "preview"
           }
         }
       }
