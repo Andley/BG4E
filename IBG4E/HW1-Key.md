@@ -30,19 +30,19 @@
 	- 3:2f  (<RUBY><ruby>ὅμοιοι<rt>like</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby>αὐτῷ<rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)C (<RUBY><ruby>ἐσόμεθα‚<rt>we will be‚</rt></ruby><rt>V-FDI-1P</rt></RUBY>)P 
 		- 3:2g <RUBY><ruby>ὅτι<rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>ὀψόμεθα<rt>we will see</rt></ruby><rt>V-FDI-1P</rt></RUBY>)P (<RUBY><ruby>αὐτὸν‚<rt>Him</rt></ruby><rt>P-ASM</rt></RUBY>)C 
 			- 3:2h</rt>  <RUBY><ruby>καθώς<rt>as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>ἐστιν.<rt>He is.</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
--   3:3a</rt> <RUBY><ruby>καὶ<rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby>ἔχων<rt>having</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby>τὴν<rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>ἐλπίδα<rt>hope</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby>ταύτην<rt>this</rt></ruby><rt>D-ASF</rt></RUBY>)S (<RUBY><ruby>ἐπ᾽<rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτῷ<rt>Him‚</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby>ἁγνίζει<rt>purifies</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby>ἑαυτὸν‚<rt>himself‚</rt></ruby><rt>F-3ASM</rt></RUBY>)C 
+-   3:3a</rt> <RUBY><ruby>καὶ<rt>And</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> (<RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY>)s (<RUBY><ruby>ἔχων<rt>having</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby>τὴν<rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>ἐλπίδα<rt>hope</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby>ταύτην<rt>this</rt></ruby><rt>D-ASF</rt></RUBY>)c (<RUBY><ruby>ἐπ᾽<rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτῷ<rt>Him‚</rt></ruby><rt>P-DSM</rt></RUBY>)a }S (<RUBY><ruby>ἁγνίζει<rt>purifies</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby>ἑαυτὸν‚<rt>himself‚</rt></ruby><rt>F-3ASM</rt></RUBY>)C 
 	- 3:3b</rt>  <RUBY><ruby>καθὼς<rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>ἐκεῖνος<rt>He</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby>ἁγνός<rt>pure</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby>ἐστιν.¶<rt>is.</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 
 
 ## 解經 (Exegesis)
-- 2:28a–d 是一個句子，主要子句是 2:28a，用從屬連接詞 ἵνα 帶出第三類條件句 (GGBB 696–99 = 中希 734–37) 當從屬子句 (2:28bcd)，表達希望藉由「住在基督裡」(μένετε ἐν αὐτῷ) 這個命令所產生出來的兩個目的 (GGBB 676 = 中希 714)：
+- 2:28abcd 是一個句子，主要子句是 2:28a，用 2:28b 的從屬連接詞 ἵνα 帶出第三類條件句 (GGBB 696–99 = 中希 734–37) 當作從屬子句，表達藉由「住在基督裡」(μένετε ἐν αὐτῷ) 這個命令所產生出來的兩個目的 (GGBB 676 = 中希 714)：
 	- (1) 基督顯現時有膽量 (2:28bc)
 	- (2) 基督再來時不丟臉 (2:28d)
 	- 2:28a
 		-  μένετε 可以是 PAI-2P or PAM-2P。但因為呼格 τεκνία 有呼籲、勸勉的含意，因此在這裡當作 PAM-2P 比較恰當，表達意願和企圖，傳達持續動作的命令 (GGBB 485–86 = 中希 510–11)。
 		- 至於動作發生的時間，因為不是直說語氣[^1]，所以不能從時態來判斷，要從上下文來判斷。
 		- 時間副詞 νῦν 固然可以指「現在」，但在這裡比較不是要強調時間的「現在」，而是在語氣上總結上文 (2:18–27) 的勸勉 [BAGD, s.v. "νῦν" 二](https://bible.fhl.net/new/s.php?N=0&k=03568&m=)。
-		- ἐν αὐτῷ 表達空間 (GGBB 372 = 中希 389–90)。
+		- ἐν αὐτῷ 表達空間 (GGBB 372 = 中希 389–90)，呼應 1:5–7 的「在光明中」
 		- αὐτῷ 可能是 DSM 或 DSN。如果是 DSN，可能指 2:27 的恩膏 (τὸ χρῖσμα)；如果是 DSM，則是指 2:24 的聖子或聖父。從上下文看，聖子或聖父比較可能。但對照 2:28d 「在他顯現的時候」以及 Joh 15:4–7，這裡應該是指：住在聖子裡面。
 	- 2:28b 是條件子句 (protasis )
 		- 這裡 ἐὰν 的意思接近 ὅταν「無論何時」([BAGD, s.v. "ἐὰν" 甲一D](https://bible.fhl.net/new/s.php?N=0&k=01437&m=))
