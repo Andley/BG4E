@@ -9,13 +9,13 @@
 	- 2:28c (<RUBY><ruby>σχῶμεν<rt>we might have</rt></ruby><rt>V-2AAS-1P</rt></RUBY>)P (<RUBY><ruby>παρρησίαν<rt>boldness</rt></ruby><rt>N-ASF</rt></RUBY>)C 
 	- 2:28d <RUBY><ruby>καὶ<rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>μὴ<rt>not</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby>αἰσχυνθῶμεν<rt>be ashamed</rt></ruby><rt>V-APS-1P</rt></RUBY>)P (<RUBY><ruby>ἀπ᾽<rt>before</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>ἐν<rt>at</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>τῇ<rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby>παρουσίᾳ<rt>coming</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby>αὐτοῦ.<rt>of Him.</rt></ruby><rt>P-GSM</rt></RUBY>)A3 
 	- ---
-	- 2:29a <RUBY><ruby>Ἐὰν<rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>εἰδῆτε<rt>you know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P 
+	- 2:29a <RUBY><ruby>Ἐὰν<rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>==εἰδῆτε==<rt>you know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P 
 		-  2:29b <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>δίκαιός<rt>righteous</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby>ἐστιν‚<rt>He is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - 2:29c (<RUBY><ruby>γινώσκετε<rt>you know</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
-	- 2:29d <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>καὶ<rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A1 {<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> (<RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY>)s (<RUBY><ruby>ποιῶν<rt>practicing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby>τὴν<rt>‑</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>δικαιοσύνην<rt>righteousness‚</rt></ruby><rt>N-ASF</rt></RUBY>)c }S (<RUBY><ruby>ἐξ<rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>γεγέννηται.¶<rt>has been begotten.</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P
+	- 2:29d <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>καὶ<rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A1 {<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> (<RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY>)s (<RUBY><ruby>ποιῶν<rt>practicing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby>τὴν<rt>‑</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>δικαιοσύνην<rt>righteousness‚</rt></ruby><rt>N-ASF</rt></RUBY>)c }S (<RUBY><ruby>ἐξ<rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>==γεγέννηται.¶==<rt>has been begotten.</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P
 - ---
 - 3:1a</rt> <RUBY><ruby>Ἴδετε<rt>Behold</rt></ruby><rt>V-2AAM-2P</rt></RUBY>
-- 3:1b</rt> (<RUBY><ruby>ποταπὴν<rt>what</rt></ruby><rt>I-ASF</rt></RUBY> <RUBY><ruby>ἀγάπην<rt>love</rt></ruby><rt>N-ASF</rt></RUBY>)C1 (<RUBY><ruby>δέδωκεν<rt>has given</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby>ἡμῖν<rt>to us</rt></ruby><rt>P-1DP</rt></RUBY>)C2 (<RUBY><ruby>ὁ<rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby>Πατὴρ‚<rt>Father‚</rt></ruby><rt>N-NSM</rt></RUBY>)S 
+- 3:1b</rt> (<RUBY><ruby>ποταπὴν<rt>what</rt></ruby><rt>I-ASF</rt></RUBY> <RUBY><ruby>ἀγάπην<rt>love</rt></ruby><rt>N-ASF</rt></RUBY>)C1 (<RUBY><ruby>==δέδωκεν==<rt>has given</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby>ἡμῖν<rt>to us</rt></ruby><rt>P-1DP</rt></RUBY>)C2 (<RUBY><ruby>ὁ<rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby>Πατὴρ‚<rt>Father‚</rt></ruby><rt>N-NSM</rt></RUBY>)S 
 	- 3:1c <RUBY><ruby>ἵνα<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>τέκνα<rt>children</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby>Θεοῦ<rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby>κληθῶμεν‚<rt>we should be called -</rt></ruby><rt>V-APS-1P</rt></RUBY>)P
 - 3:1d <RUBY><ruby>καὶ<rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>ἐσμέν.<rt>we are!</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 - 3:1e (<RUBY><ruby>διὰ<rt>Because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>τοῦτο<rt>this‚</rt></ruby><rt>D-ASN</rt></RUBY>)A1 (<RUBY><ruby>ὁ<rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby>κόσμος<rt>world</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby>οὐ<rt>not</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby>γινώσκει<rt>knows</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby>ἡμᾶς‚<rt>us‚</rt></ruby><rt>P-1AP</rt></RUBY>)C 
@@ -24,7 +24,7 @@
 -  3:2a <RUBY><ruby>Ἀγαπητοί<rt>Beloved‚</rt></ruby><rt>A-VPM</rt></RUBY>
 -  3:2b (<RUBY><ruby>νῦν<rt>now</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby>τέκνα<rt>children</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby>Θεοῦ<rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby>ἐσμεν‚<rt>are we‚</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 - 3:2c <RUBY><ruby>καὶ<rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>οὔπω<rt>not yet</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby>ἐφανερώθη<rt>has been revealed</rt></ruby><rt>V-API-3S</rt></RUBY>)P { (<RUBY><ruby>τί<rt>what</rt></ruby><rt>I-NSN</rt></RUBY>)c (<RUBY><ruby>ἐσόμεθα.<rt>we will be.</rt></ruby><rt>V-FDI-1P</rt></RUBY>)p }S 
-- 3:2d (<RUBY><ruby>οἴδαμεν<rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P 
+- 3:2d (<RUBY><ruby>==οἴδαμεν==<rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P 
 	- 3:2e <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby>ἐὰν<rt>when</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby>φανερωθῇ‚<rt>He appears‚</rt></ruby><rt>V-APS-3S</rt></RUBY>
 	- 3:2f  (<RUBY><ruby>ὅμοιοι<rt>like</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby>αὐτῷ<rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)C (<RUBY><ruby>ἐσόμεθα‚<rt>we will be‚</rt></ruby><rt>V-FDI-1P</rt></RUBY>)P 
@@ -38,7 +38,7 @@
 - 2:28abcd 是一個句子，主要子句是 2:28a，用 2:28b 的從屬連接詞 ἵνα 帶出第三類條件句 (GGBB 696–99 = 中希 734–37) 當作從屬子句，表達藉由「住在基督裡」(μένετε ἐν αὐτῷ) 這個命令所產生出來的兩個目的 (GGBB 676 = 中希 714)：
 	- (1) 基督顯現時有膽量 (2:28bc)
 	- (2) 基督再來時不丟臉 (2:28d)
-	- 2:28a
+	- 2:28a 是主要的勸勉「住在祂裡面」
 		-  μένετε 可以是 PAI-2P or PAM-2P。但因為呼格 τεκνία 有呼籲、勸勉的含意，因此在這裡當作 PAM-2P 比較恰當，表達意願和企圖，傳達持續動作的命令 (GGBB 485–86 = 中希 510–11)。
 		- 至於動作發生的時間，因為不是直說語氣，所以不能從時態來判斷，要從上下文來判斷 (GGBB 497–49 = 中希 523–24)。
 		- 時間副詞 νῦν 固然可以指「現在」，但在這裡比較不是要強調時間的「現在」，而是在語氣上總結上文 (2:18–27) 的勸勉(BAGD)。
@@ -51,8 +51,10 @@
 		- ἀπ᾽ αὐτοῦ 表示「丟臉、羞辱」從誰而來(BAGD)，也有「因耶穌而羞愧」的意思。
 		- παρουσίᾳ 用於基督，以及常用於彌賽亞在這末世中榮耀的降臨，要審判世界 [BAGD, s.v. "παρουσία" 二B1](https://bible.fhl.net/new/s.php?N=0&k=03952&m=)
 - 2:29abcd 是第三類條件句，合起來是一個句子：條件子句 (2:29ab)＋結果子句 (2:29cd)。
-	- 2:29ab εἰδῆτε 是假設語氣，沒有時間；現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，意思是強調：你們如果處在「知道」的狀態，如果你們真知道的話 。
-		- ὅτι
+	- 2:29a εἰδῆτε 是假設語氣，沒有時間；現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，表示約翰刻意要強調 (GGBB 573 = 中希 604)：你們如果處在「知道」的狀態，或者：如果你們「真」知道的話。
+	- 2:29b
+		- ὅτι+直說語氣，帶出直述句，當作知道的受詞 (GGBB 454–55 = 中希 477–-=78)。
+		- δίκαιός 
 
 ## 大綱 (Outline)
 
