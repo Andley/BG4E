@@ -13,7 +13,6 @@
 		-  2:29b <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>δίκαιός<rt>righteous</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby>ἐστιν‚<rt>He is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - 2:29c (<RUBY><ruby>γινώσκετε<rt>you know</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
 	- 2:29d <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>καὶ<rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A1 {<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> (<RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY>)s (<RUBY><ruby>ποιῶν<rt>practicing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby>τὴν<rt>‑</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>δικαιοσύνην<rt>righteousness‚</rt></ruby><rt>N-ASF</rt></RUBY>)c }S (<RUBY><ruby>ἐξ<rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>==γεγέννηται.¶==<rt>has been begotten.</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P
-- ---
 - 3:1a</rt> <RUBY><ruby>Ἴδετε<rt>Behold</rt></ruby><rt>V-2AAM-2P</rt></RUBY>
 - 3:1b</rt> (<RUBY><ruby>ποταπὴν<rt>what</rt></ruby><rt>I-ASF</rt></RUBY> <RUBY><ruby>ἀγάπην<rt>love</rt></ruby><rt>N-ASF</rt></RUBY>)C1 (<RUBY><ruby>==δέδωκεν==<rt>has given</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby>ἡμῖν<rt>to us</rt></ruby><rt>P-1DP</rt></RUBY>)C2 (<RUBY><ruby>ὁ<rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby>Πατὴρ‚<rt>Father‚</rt></ruby><rt>N-NSM</rt></RUBY>)S 
 	- 3:1c <RUBY><ruby>ἵνα<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>τέκνα<rt>children</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby>Θεοῦ<rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby>κληθῶμεν‚<rt>we should be called -</rt></ruby><rt>V-APS-1P</rt></RUBY>)P
@@ -50,12 +49,14 @@
 	- 2:28d 是第二個結果子句，進一步說明：不只有膽量、不懼怕；而且不蒙羞受辱、不丟臉。αἰσχυνθῶμεν 在新約中僅有關身和被動語態 (BAGD)，這裡雖是被動語態的形式，但還是關身的含意。傳統文法標示成 deponent (GGBB 428–30, 441 = 中希 449–52, 463)，但新的文法觀念就直接當成 middle(IGNT ，表示主詞和動作密不可分。
 		- ἀπ᾽ αὐτοῦ 表示「丟臉、羞辱」從誰而來(BAGD)，也有「因耶穌而羞愧」的意思。
 		- παρουσίᾳ 用於基督，以及常用於彌賽亞在這末世中榮耀的降臨，要審判世界 (BAGD)。
-- 2:29abcd 是第三類條件句，合起來是一個句子：條件子句 (2:29ab)＋結果子句 (2:29cd)。
+- 2:29abcd 是第三類條件句，合起來是一個句子：條件子句 (2:29ab)＋結果子句 (2:29cd)。把 2:28 「住在祂裡面」所帶來的好處，從負面表列 (不害怕、不羞愧)，更進一步提升的正面論述 (從神生的。
 	- 2:29a εἰδῆτε 是假設語氣，沒有時間；現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，表示約翰刻意要強調 (GGBB 573 = 中希 604)：你們如果處在「知道」的狀態，或者：如果你們「真」知道的話。
 	- 2:29b
 		- ὅτι+直說語氣，帶出直述句，當作知道的受詞 (GGBB 454–55 = 中希 477–78)。
 		- δίκαιός 指聖子的公平、公義 (BAGD)，對照 2:29d 勸勉人要行義來看，這裡的意思側重於公平，代表要按照人的行為來審判——呼應了 2:28 的基督顯現，以及 4:17–18 基督再來時的審判。不過對照啟示錄 20:11–15 白色大寶座前的審判可以發現：最後審判時信徒得救的依據，還是「生命冊」(啟21:15)，還是「因信稱義」，不是「行為稱義」。
 	- 2:29c γινώσκετε(γινώσκω) 跟 2:29a 的 εἰδῆτε (οἶδα) 意思有重疊之處，都是「知道」。但根據 LN 仔細推敲，γινώσκω 可能有「 終於理解或明白過來 (LN 32.16)」的意思；而 οἶδα 則是「理解事物的意義，焦點在於由此而產生的知識 (LN 32.4)」。
-- 2:29d 的主語是內嵌子句，把分詞當ㄗㄨ
-## 大綱 (Outline)
+	- 2:29d 的主語是分詞的內嵌子句，屬於 T—分 (冠詞—分詞) 當作名詞使用的結構 (GGBB 619–21 = 中希 655–57)。因為分詞也有動詞的特性，所以可以接直接受格 τὴν δικαιοσύνην 當作補語。
+		- 行義的意思，廣義地說就是「不犯罪」(1Jo 1:9; 2:1; 5:17)；狹義地說，就是愛弟兄、彼此相愛 (1Jo 3:10, 12)
+- 3:1
+## 大綱 (Outline) 
 
