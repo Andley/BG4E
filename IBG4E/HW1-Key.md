@@ -34,6 +34,7 @@
 
 
 <div style="page-break-after: always;"></div>
+
 ## 解經 (Exegesis)
 - 2:28abcd 是一個句子，主要子句是 2:28a，用 2:28b 的從屬連接詞 ἵνα 帶出第三類條件句 (GGBB 696–99 = 中希 734–37) 當作從屬子句，表達藉由「住在基督裡」(μένετε ἐν αὐτῷ) 這個命令所產生出來的兩個目的 (GGBB 676 = 中希 714)：
 	- (1) 基督顯現時有膽量 (2:28bc)
@@ -88,6 +89,7 @@
 
 
 <div style="page-break-after: always;"></div>
+
 ## 大綱 #1 (Outline #1) 
 
 題目：住得安心；有福的居所；
@@ -118,8 +120,8 @@
 
 
 <div style="page-break-after: always;"></div>
+
 ## 大綱 #2 (Outline #2)
-出處：Bateman IV, Herbert W. _John’s Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Ideas. Grand Rapids, MI.: Kregel Academic, 2018. 
 
 - God's Presence and Right Living Determines Paternity (vv. 27–29)
 	- God's presence reminds believers that Jesus is God's Messiah (v. 27)
@@ -133,3 +135,14 @@
 	- God's children anticipate and imitate Jesus (vv. 2–3)
 	- God's children differ from selfish self-serving people (vv. 4–5)
 	- God's children differ from those who persist in wrongdoing (v. 6)
+
+出處：Bateman IV, Herbert W. _John’s Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Ideas. Grand Rapids, MI.: Kregel Academic, 2018. 
+
+## 大綱 #3 (Outline #3)
+
+- The Confidence of God's Children (2:28–29)
+- The Identity and Purity of God's Children (3:1–3)
+- God's Children and the Children of the Devil (3:4–10)
+
+出處：Gary M. Burge, *Letters of John*, The NIV Application Commentary (Grand Rapids, MI: Zondervan Publishing House, 1996).
+
