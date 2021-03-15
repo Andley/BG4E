@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW1-Key.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "IBG4E/HW1-Key.md",
