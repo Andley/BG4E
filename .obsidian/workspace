@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf31c7cc2381600",
+        "id": "36b4e8816bb7fe34",
         "type": "leaf",
         "active": true,
         "state": {
@@ -12,17 +12,6 @@
           "state": {
             "file": "IBG4E/HW1-Key.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "36b4e8816bb7fe34",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW1-Key.md",
-            "mode": "preview"
           }
         }
       }
@@ -72,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -137,6 +125,7 @@
   },
   "lastOpenFiles": [
     "IBG4E/HW1-Key.md",
+    "cheatsheet.md",
     "IBG4E/HW2-Key.md",
     "IBG4E/Gal 6.1–5.md",
     "IBG4E/Untitled.md",
@@ -144,7 +133,6 @@
     "IBG4E/HW2.md",
     "IBG4E/Untitled 2.md",
     "IBG4E/HW4.md",
-    "IBG4E/HW3-Key.md",
-    "IBG4E/HW1.md"
+    "IBG4E/HW3-Key.md"
   ]
 }
