@@ -9,7 +9,7 @@
 	- 2:28c (<RUBY><ruby>σχῶμεν<rt>we might have</rt></ruby><rt>V-2AAS-1P</rt></RUBY>)P (<RUBY><ruby>παρρησίαν<rt>boldness</rt></ruby><rt>N-ASF</rt></RUBY>)C 
 	- 2:28d <RUBY><ruby>καὶ<rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>μὴ<rt>not</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby>αἰσχυνθῶμεν<rt>be ashamed</rt></ruby><rt>V-APS-1P</rt></RUBY>)P (<RUBY><ruby>ἀπ᾽<rt>before</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>ἐν<rt>at</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>τῇ<rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby>παρουσίᾳ<rt>coming</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby>αὐτοῦ.<rt>of Him.</rt></ruby><rt>P-GSM</rt></RUBY>)A3 
 	- ---
-	- 2:29a <RUBY><ruby>Ἐὰν<rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>==εἰδῆτε==<rt>you know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P 
+	- 2:29a <RUBY><ruby>Ἐὰν<rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>εἰδῆτε<rt>you know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P 
 		-  2:29b <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>δίκαιός<rt>righteous</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby>ἐστιν‚<rt>He is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - 2:29c (<RUBY><ruby>γινώσκετε<rt>you know</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
 	- 2:29d <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>καὶ<rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A1 {<RUBY><ruby>πᾶς<rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> (<RUBY><ruby>ὁ<rt>‑</rt></ruby><rt>T-NSM</rt></RUBY>)s (<RUBY><ruby>ποιῶν<rt>practicing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby>τὴν<rt>‑</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby>δικαιοσύνην<rt>righteousness‚</rt></ruby><rt>N-ASF</rt></RUBY>)c }S (<RUBY><ruby>ἐξ<rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby>==γεγέννηται.¶==<rt>has been begotten.</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P
@@ -23,7 +23,7 @@
 -  3:2a <RUBY><ruby>Ἀγαπητοί<rt>Beloved‚</rt></ruby><rt>A-VPM</rt></RUBY>
 -  3:2b (<RUBY><ruby>νῦν<rt>now</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby>τέκνα<rt>children</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby>Θεοῦ<rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby>ἐσμεν‚<rt>are we‚</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 - 3:2c <RUBY><ruby>καὶ<rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby>οὔπω<rt>not yet</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby>ἐφανερώθη<rt>has been revealed</rt></ruby><rt>V-API-3S</rt></RUBY>)P { (<RUBY><ruby>τί<rt>what</rt></ruby><rt>I-NSN</rt></RUBY>)c (<RUBY><ruby>ἐσόμεθα.<rt>we will be.</rt></ruby><rt>V-FDI-1P</rt></RUBY>)p }S 
-- 3:2d (<RUBY><ruby>==οἴδαμεν==<rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P 
+- 3:2d (<RUBY><ruby>οἴδαμεν<rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P 
 	- 3:2e <RUBY><ruby>ὅτι<rt>that</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby>ἐὰν<rt>when</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby>φανερωθῇ‚<rt>He appears‚</rt></ruby><rt>V-APS-3S</rt></RUBY>
 	- 3:2f  (<RUBY><ruby>ὅμοιοι<rt>like</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby>αὐτῷ<rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)C (<RUBY><ruby>ἐσόμεθα‚<rt>we will be‚</rt></ruby><rt>V-FDI-1P</rt></RUBY>)P 
@@ -51,11 +51,12 @@
 		- παρουσίᾳ 用於基督，以及常用於彌賽亞在這末世中榮耀的降臨，要審判世界 (BAGD)。
 - ---
 - 2:29 把 2:28 「住在祂裡面」所帶來的好處，從負面表列 (不害怕、不羞愧)，更進一步提升到正面論述 (為神所生)。abcd 合起來是一個第三類條件句：條件子句 (2:29ab)＋結果子句 (2:29cd)。
-	- 2:29a εἰδῆτε 是假設語氣，沒有時間；現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，表示約翰刻意要強調 (GGBB 573 = 中希 604)：你們如果處在「知道」的狀態，或者：如果你們「真」知道的話 (。
+	- 2:29a εἰδῆτε 是假設語氣，沒有時間；現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，但因為動詞 οἶδα 在新約幾乎以完成式出現，所以 Wallace 認為語意上跟現在式雷同 (GGBB 579–80 = 中希 610–12)
 	- 2:29b
 		- ὅτι+直說語氣，帶出直述句，當作知道的受詞 (GGBB 454–55 = 中希 477–78)。
 		- δίκαιός 指聖子的公平、公義 (BAGD)，對照 2:29d 勸勉人要行義來看，這裡的意思側重於公平，代表要按照人的行為來審判——呼應了 2:28 的基督顯現，以及 4:17–18 基督再來時的審判。不過對照啟示錄 20:11–15 白色大寶座前的審判可以發現：最後審判時信徒得救的依據，還是「生命冊」(啟21:15)，還是「因信稱義」，不是「行為稱義」。
 	- 2:29c γινώσκετε(γινώσκω) 跟 2:29a 的 εἰδῆτε (οἶδα) 意思有重疊之處，都是「知道」。但根據 LN 推敲，γινώσκω 可能有「終於理解或明白過來 (LN 32.16)」的意思；而 οἶδα 則是「理解事物的意義，焦點在於由此而產生的知識 (LN 32.4)」。
+		- γεγέννηται 現在完成式，表示「完成—狀態的觀點」(GGBB 500–01 = 中希 526–28)，表示約翰刻意要強調 (GGBB 573 = 中希 604)，持續行義的人 (ποιῶν 現在式)，乃是先前行動 (被神所生) 所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08)。
 	- 2:29d 的主語是分詞的內嵌子句，屬於「冠詞—分詞」當作名詞使用的結構 (GGBB 619–21 = 中希 655–57)。因為分詞也有動詞的特性，所以可以接直接受格 τὴν δικαιοσύνην 當作補語。
 		- 行義的意思，廣義地說就是「不犯罪」(1Jo 1:9; 2:1; 5:17)；狹義地說，就是愛弟兄、彼此相愛 (1Jo 3:10, 12)
 - 3:1 闡述 2:29「為神所生」的由來 (神所賜的愛)，肯定宣告信徒的身分 (真是神的兒女)，也說明信徒與世人道不同不相為謀的原因 (世人不認識神)。
@@ -68,6 +69,9 @@
 		- 3:1f ὅτι 從屬子句說明理由：因為世人不認識祂 (神，因為上文 3:1bcd 都在講神)。
 - ---
 - 3:2 用 Ἀγαπητοί 開始新的段落，延續上文「我們是神兒女」(身分轉變) 的主題，進一步推展出兩大勸勉：積極面，要潔淨自己 (3:2–3)；消極面，不要犯罪 (3:4–9)。最後 (3:10) 再度呼應神兒女的主題，並且聚焦在愛弟兄 (3:10)，為下文 3:11–24 的彼此相愛鋪路。
+- 3:2b νῦν 從功能上 (function) 來看是表示現在 (BAGD 一A1)，但在語意上 (semantics) 也可以表達「既然我們是神兒女」的轉折 (BAGD 二)。
+- 3:2c 疑問代名詞 τί 帶出的內嵌子句 (我們將來會是如何) 當作整個子句的主語。
+- 3:2d 沒有連接詞 (Ø)，但在語意上
 
 
 ## 大綱 (Outline) 
