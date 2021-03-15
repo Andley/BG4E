@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW1-Key.md",
-            "mode": "source"
+            "file": "Mounce-Reader/Syntax-Summary.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW1-Key.md",
+                "file": "Mounce-Reader/Syntax-Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW1-Key.md"
+                "file": "Mounce-Reader/Syntax-Summary.md"
               }
             }
           },
@@ -125,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Mounce-Reader/Syntax-Summary.md",
+    "Mounce-Reader/GRBG.md",
     "IBG4E/HW1-Key.md",
     "cheatsheet.md",
     "IBG4E/HW2-Key.md",
@@ -132,8 +133,6 @@
     "IBG4E/Untitled.md",
     "IBG4E/Untitled 1.md",
     "IBG4E/HW2.md",
-    "IBG4E/Untitled 2.md",
-    "IBG4E/HW4.md",
-    "IBG4E/HW3-Key.md"
+    "IBG4E/Untitled 2.md"
   ]
 }
