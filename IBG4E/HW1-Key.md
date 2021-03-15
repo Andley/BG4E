@@ -84,10 +84,10 @@
 	- 3:3a 分詞內嵌子句 (凡因祂有這盼望的人) 當作主語。現在式 ἔχων，勸勉信徒要有信心 (來 11:1)，雖然還沒看見 (3:2c)，但仍要持續保有此一盼望 (轉變成像聖子那樣)。
 	- ἁγνίζει 指在道德行為上潔淨自己。而信徒的榜樣，就是 3:3b 「如同祂是潔淨的那樣」。換言之，心存永生榮耀盼望 (像祂那樣) 的人，在今生就要持續地 (現在式 ἁγνίζει) 操練自己，以耶穌基督為榜樣。這也是登山寶訓 (太 5:48) 的期待：你們要完全，像你們的天父完全一樣。
 
-## 大綱 (Outline) 
+## 大綱 #1 (Outline #1) 
 
-題目：住
-- (1) 住在基督裡 (2:28)
+題目：住得安心；有福的居所；
+- (1) 當下的抉擇：住在基督裡 (2:28)
 	- (1a) 你可以不害怕
 		- 今生已經很可怕：老病死、愛嗔癡、離合苦 ⇒ 罪的影響無所不及 (創 3) ⇒ 如果「死」真的能一了百了，那就好了 ⇒ **但！……**
 		- 你應該要更害怕：啟示錄的大災難、白色大寶座的審判 ⇒ 永遠的硫磺火湖
@@ -97,13 +97,32 @@
 		- 還有更丟臉的：基督審判臺前
 		- 可 8:38 凡在這淫亂罪惡的世代，把我和我的道當作可恥的，人子在他父的榮耀裏，同聖天使降臨的時候，也要把那人當作可恥的。」
 		- 林後5:10 因為我們眾人必要在基督臺前顯露出來，叫各人按着本身所行的，或善或惡受報。
-- (2) 成為神兒女 (2:29–3:3)
+- (2) 永遠的福份：成為神兒女 (2:29–3:3)
 	- (2a) 都因神的恩典 (2:29–3:1)
 		- 正確的知識 → 正確的身分 (2:29–3:1d)
 			- 知識：神的屬性 (公義、慈愛)
 			- 身分：神的兒女
 		- 正確的身分 → 正確的認同 (3:1ef)
-			- 認同：別想在世人、世界裡找到，因為他們不認識神！
+			- 認同感、存在感、價值感、意義感：別想在世人、世界找，因為他們不認識神！
 	- (2b) 活出榮耀的盼望 (3:2–3)
 		- 身分的改變 → 生命的改變 (3:2)
-			- 生命改變像耶穌 = 上帝榮耀的應許
+			- 信徒的一生 = 改變像耶穌的旅程 ⇐ 上帝榮耀的應許，必定成就！
+		- 榮耀的盼望，要用行動把握 (3:3)
+			- 潔淨自己，分別為聖，大步踏上成聖之路！
+			- 羅 12:1 我以上帝的慈悲勸你們，將身體獻上，當作活祭，是聖潔的，是上帝所喜悅的；你們如此事奉乃是理所當然的。
+
+## 大綱 #2 (Outline #2)
+出處：Bateman IV, Herbert W. _John’s Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Ideas. Grand Rapids, MI.: Kregel Academic, 2018.- God's 
+
+- Presence and Right Living Determines Paternity (vv. 27–29)
+	- God's presence reminds believers that Jesus is God's Messiah (v. 27)
+	- An expectation is given to remain in Jesus until he comes again (v. 28)
+	- Living rightly determines paternity (v.29)
+- God's children Are Loved, Celebrated, and Rejected (v. 1)
+	- God's children experience divine love (v. 1a–b)
+	- God's children are celebrated children (v. 1c)
+	- God's children are rejected by the world (v. 1d–e)
+- God's children Are Different (vv. 2–6)
+	- God's children anticipate and imitate Jesus (vv. 2–3)
+	- God's children differ from selfish self-serving people (vv. 4–5)
+	- God's children differ from those who persist in wrongdoing (v. 6)
