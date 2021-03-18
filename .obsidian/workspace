@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5311e34d1614c8ec",
+        "id": "4db4cc528a850d77",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,9 +16,8 @@
         }
       },
       {
-        "id": "4db4cc528a850d77",
+        "id": "1610601c0e90b58f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -137,14 +137,14 @@
   },
   "lastOpenFiles": [
     "IBG4E/HW2-Key.md",
+    "Syntax/Untitled.md",
+    "Syntax/§3.md",
     "IBG4E/HW1-Key.md",
     "IBG4E/HW1-Key.pdf",
     "Mounce-Reader/Syntax-Summary.md",
     "Mounce-Reader/GRBG.md",
     "cheatsheet.md",
     "IBG4E/Gal 6.1–5.md",
-    "IBG4E/Untitled.md",
-    "IBG4E/Untitled 1.md",
-    "IBG4E/HW2.md"
+    "IBG4E/Untitled.md"
   ]
 }
