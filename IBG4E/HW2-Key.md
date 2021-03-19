@@ -24,11 +24,12 @@
 	- <rt>3:9b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>σπέρμα<rt>seed</rt></ruby><rt>σπέρμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένει‚<rt>abides‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>3:9c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δύναται<rt>he is able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἁμαρτάνειν‚<rt>to continue sinning‚</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAN</rt></RUBY>)P 
 	- <rt>3:9d</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>γεγέννηται.<rt>he has been born.</rt></ruby><rt>γεννάω</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P 
-- ---
 - <rt>3:10a</rt> (<RUBY><ruby><ruby>ἐν<rt>Through</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>φανερά<rt>manifest</rt></ruby><rt>φανερός</rt></ruby><rt>A-NPN</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστιν<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>διαβόλου·<rt>devil:</rt></ruby><rt>διάβολος</rt></ruby><rt>A-GSM</rt></RUBY>)S 
 - <rt>3:10b</rt> {<RUBY><ruby><ruby>πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ποιῶν<rt>practicing</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>δικαιοσύνην<rt>righteousness</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N-ASF</rt></RUBY><rt>)c</rt> }S (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A 
 - <rt>3:10c</rt> <RUBY><ruby><ruby>καὶ<rt>and also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ἀγαπῶν<rt>loving</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY><rt>)c</rt> }S
- 
+
+<div style="page-break-after: always;"></div>
+
 ## 解經 (Exegesis)
 - 思路：
 	- 約翰一書有三個主題：
@@ -78,6 +79,10 @@
 	- ἑώρακεν、ἔγνωκεν 用現在完成式，是解經上最重要的時態，表示過去完成的事件，結果仍存於現在 (GGBB 573 = 中希 604)。
 	- 所以可以翻譯成：凡持續犯罪的人，就真的從來沒有見過祂；甚至連祂都不認識。
 - 3:7a Τεκνία 再次呼喚，開始新的段落。
-	- πλανάτω 第三人稱命令語氣 (GGBB
+	- πλανάτω 第三人稱命令語氣 (GGBB 485–6 = 中希 509–10)，意思是：不准任何人來欺騙你、誘惑你。
+
+
+
+<div style="page-break-after: always;"></div>
 
 ## 大綱 (Outline)
