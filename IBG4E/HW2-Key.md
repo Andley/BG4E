@@ -31,6 +31,15 @@
 - <rt>3:10c</rt> <RUBY><ruby><ruby>καὶ<rt>and also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ἀγαπῶν<rt>loving</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY><rt>)c</rt> }S
  
 ## 解經 (Exegesis)
-- 
+- 「Πᾶς—冠詞—分詞」的結構，在約翰一書出現很多次：
+	- 1Jo 2:23 凡不認子的，就沒有父；認子的，連父也有了。
+	- 1Jo 2:29 凡行公義之人都是他所生的
+	- 1Jo 3:3 凡向他有這指望的，就潔淨自己
+	- 1Jo 3:4 凡犯罪的，就是違背律法
+	- 1Jo 3:6 凡住在他裡面的，就不犯罪
+	- 1Jo 3:9 凡從神生的，就不犯罪
+	- 1Jo 3:15 凡恨他弟兄的，就是殺人的
+	- 1Jo 4:7 凡有愛心的，都是由神而生，並且認識神。
+
 
 ## 大綱 (Outline)
