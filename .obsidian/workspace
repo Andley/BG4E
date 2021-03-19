@@ -6,7 +6,6 @@
       {
         "id": "4db4cc528a850d77",
         "type": "leaf",
-        "dimension": 39.72071373157486,
         "active": true,
         "state": {
           "type": "markdown",
@@ -17,9 +16,8 @@
         }
       },
       {
-        "id": "1610601c0e90b58f",
+        "id": "f369c00bc89835ee",
         "type": "leaf",
-        "dimension": 60.27928626842514,
         "state": {
           "type": "markdown",
           "state": {
@@ -139,9 +137,9 @@
   },
   "lastOpenFiles": [
     "IBG4E/HW2-Key.md",
+    "IBG4E/HW1-Key.md",
     "Syntax/Untitled.md",
     "Syntax/§3.md",
-    "IBG4E/HW1-Key.md",
     "IBG4E/HW1-Key.pdf",
     "Mounce-Reader/Syntax-Summary.md",
     "Mounce-Reader/GRBG.md",
