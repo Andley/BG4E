@@ -9,7 +9,6 @@
 	 - <rt>3:5b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>He</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐφανερώθη‚<rt>appeared</rt></ruby><rt>φανερόω</rt></ruby><rt>V-API-3S</rt></RUBY>)P 
 		 - <rt>3:5c</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας<rt>sins</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-APF</rt></RUBY>)C (<RUBY><ruby><ruby>ἄρῃ‚<rt>He might take away;</rt></ruby><rt>αἴρω</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P 
 	- <rt>3:5d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἁμαρτία<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἔστιν.<rt>there is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
-- ---
 - 3:6a</rt> {<RUBY><ruby><ruby>πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένων<rt>abiding‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> }S (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἁμαρτάνει·<rt>sins;</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - <rt>3:6b</rt> {<RUBY><ruby><ruby>πᾶς<rt>anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>ἁμαρτάνων<rt>sinning‚</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> }S (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἑώρακεν<rt>has seen</rt></ruby><rt>ὁράω</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν<rt>Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C 
 - <rt>3:6c</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>ἔγνωκεν<rt>has he known</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτόν.¶<rt>Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C 
@@ -31,15 +30,17 @@
 - <rt>3:10c</rt> <RUBY><ruby><ruby>καὶ<rt>and also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ἀγαπῶν<rt>loving</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY><rt>)c</rt> }S
  
 ## 解經 (Exegesis)
-- 「Πᾶς—冠詞—分詞」的結構，在約翰一書出現很多次：
-	- 1Jo 2:23 凡不認子的，就沒有父；認子的，連父也有了。
-	- 1Jo 2:29 凡行公義之人都是他所生的
-	- 1Jo 3:3 凡向他有這指望的，就潔淨自己
+- 思路：從 2:24–28「住在聖子、聖父裡面」的勸勉 ⇒ 2:29–3:3 內在身分的轉變 (成為「神兒女」) ⇒ 3:4–10 強調外在行為的表現：
+	- 不犯罪 (3:4–6)
+	- 行義
+	- 有愛心 (1Jo 4:7)
+	- 的主題「Πᾶς—冠詞—分詞」的結構，在約翰一書出現很多次，歸納出同樣一個主題：從神生的 = 做神兒女 = 不犯罪 = 愛弟兄 = 
+
+	- 1Jo 5:18 凡從神生的，必不犯罪，從神生的，必保守自己，那惡者也就無法害他。
+	- 1Jo 5:4 凡從神生的，就勝過世界；使我們勝了世界的，就是我們的信心。
+	- 1Jo 5:1 凡信耶穌是基督的，都是從神而生，凡愛生他之神的，也必愛從神生的。
 	- 1Jo 3:4 凡犯罪的，就是違背律法
-	- 1Jo 3:6 凡住在他裡面的，就不犯罪
-	- 1Jo 3:9 凡從神生的，就不犯罪
 	- 1Jo 3:15 凡恨他弟兄的，就是殺人的
-	- 1Jo 4:7 凡有愛心的，都是由神而生，並且認識神。
 
 
 ## 大綱 (Outline)
