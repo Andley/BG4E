@@ -20,7 +20,6 @@
 	- <rt>3:8b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀρχῆς<rt>[the] beginning</rt></ruby><rt>ἀρχή</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>διάβολος<rt>devil</rt></ruby><rt>διάβολος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἁμαρτάνει.<rt>has been sinning.</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>3:8c</rt> (<RUBY><ruby><ruby>εἰς<rt>For</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this [reason]</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>ἐφανερώθη<rt>was revealed</rt></ruby><rt>φανερόω</rt></ruby><rt>V-API-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)S 
 	- <rt>3:8d</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>λύσῃ<rt>He might destroy</rt></ruby><rt>λύω</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔργα<rt>works</rt></ruby><rt>ἔργον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>διαβόλου.<rt>devil.</rt></ruby><rt>διάβολος</rt></ruby><rt>A-GSM</rt></RUBY>)C 
-- ---
 - <rt>3:9a</rt> {<RUBY><ruby><ruby>Πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>γεγεννημένος<rt>having been born</rt></ruby><rt>γεννάω</rt></ruby><rt>V-RPP-NSM</rt></RUBY><rt>)p</rt> (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἁμαρτίαν<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ποιεῖ‚<rt>practices‚</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>3:9b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>σπέρμα<rt>seed</rt></ruby><rt>σπέρμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένει‚<rt>abides‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>3:9c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δύναται<rt>he is able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἁμαρτάνειν‚<rt>to continue sinning‚</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAN</rt></RUBY>)P 
@@ -99,7 +98,6 @@
 		- 來2:14 兒女既同有血肉之體，他也照樣親自成了血肉之體，特要==藉着死==敗壞 (καταργήσῃ = κατά + ἔργον)那掌死權的，就是魔鬼，
 		- 啟20:10 那迷惑他們的魔鬼被扔在硫磺的火湖裏，就是獸和假先知所在的地方。他們必晝夜受痛苦，直到永永遠遠。
 	- 由此看來，人犯罪，跟魔鬼有關 — 雖然保羅歸納出屬靈爭戰的三大元凶：撒旦、世界、肉體 (弗2:2–3) — 但歸根究柢，都是創3墮落之後的結果。
-- ---
 - 3:9–10 總結 2:28–3:10 整個段落，對比出兩種身分 (BEING)，非此即彼，中間沒有模稜兩可的空間：
 	- (a) 神兒女 = 從神生的 → 就不犯罪 (DOING)，因為神的 σπέρμα (聖靈) 住在裡面
 	- (b) 魔鬼兒女 = 從魔鬼生的 → 就不行義 (DOING) ⇒ 具體地說，就不愛弟兄 (DOING)。
@@ -113,8 +111,11 @@
 	- (b) 跟 3:9b 並列，放在河岸第二排，用來進一步解釋 3:9a 「為什麼不犯罪」—因為他「不能犯罪」！倘若如此，3:9d 就要放到河岸第三排。
 	- 兩種結構似乎都說得通，(b) 的語氣似乎更加強烈。
 - 3:10 a 說明分辨兩種身分的方法，ἐν τούτῳ 表達工具或方法 (GGBB 372 = 中希390)；中性指示代名詞 τούτῳ 應該是「前指 cataphoric」(GGBB 333-5 = 中希 348–50)，指向下文 3:10b，用行為 (DOING) 來分辨身分 (BEING)。
+- 3:10b 分詞內嵌子句當主語 (S)。ποιῶν 是現在式，強調內部、持續觀點。
+- 3:10c 也是 分詞內嵌子句當主語 (S)，但接下來省略—言下之意：不行義的就不是神生的；不愛弟兄的 (也不是神生的)。雖然行義的範圍很廣，但約翰一書側重於既新且舊的命令 (1Jo 2:7–8)，並且也為下文 (1Jo 3:11–24) 「彼此相愛」的主題鋪路。
 
 
 <div style="page-break-after: always;"></div>
 
 ## 大綱 (Outline)
+-
