@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW2-Key.md",
-            "mode": "source"
+            "file": "參考書目.md",
+            "mode": "preview"
           }
         }
       },
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW2-Key.md",
+                "file": "參考書目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW2-Key.md"
+                "file": "參考書目.md"
               }
             }
           },
@@ -136,6 +135,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "參考書目.md",
     "IBG4E/HW2-Key.md",
     "Syntax/語氣 Mood.md",
     "IBG4E/Untitled.md",
@@ -144,7 +144,6 @@
     "Syntax/Untitled.md",
     "Syntax/§3.md",
     "IBG4E/HW1-Key.pdf",
-    "Mounce-Reader/Syntax-Summary.md",
-    "Mounce-Reader/GRBG.md"
+    "Mounce-Reader/Syntax-Summary.md"
   ]
 }
