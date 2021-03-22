@@ -9,7 +9,7 @@
 	 - <rt>3:5b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>He</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐφανερώθη‚<rt>appeared</rt></ruby><rt>φανερόω</rt></ruby><rt>V-API-3S</rt></RUBY>)P 
 		 - <rt>3:5c</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας<rt>sins</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-APF</rt></RUBY>)C (<RUBY><ruby><ruby>ἄρῃ‚<rt>He might take away;</rt></ruby><rt>αἴρω</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P 
 	- <rt>3:5d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἁμαρτία<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἔστιν.<rt>there is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
-- 3:6a</rt> {<RUBY><ruby><ruby>πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένων<rt>abiding‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> }S (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἁμαρτάνει·<rt>sins;</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
+- <rt>3:6a</rt> {<RUBY><ruby><ruby>πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένων<rt>abiding‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> }S (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἁμαρτάνει·<rt>sins;</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - <rt>3:6b</rt> {<RUBY><ruby><ruby>πᾶς<rt>anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>ἁμαρτάνων<rt>sinning‚</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><rt>)p</rt> }S (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἑώρακεν<rt>has seen</rt></ruby><rt>ὁράω</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν<rt>Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C 
 - <rt>3:6c</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>ἔγνωκεν<rt>has he known</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτόν.¶<rt>Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C 
 - ---
@@ -20,6 +20,7 @@
 	- <rt>3:8b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀρχῆς<rt>[the] beginning</rt></ruby><rt>ἀρχή</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>διάβολος<rt>devil</rt></ruby><rt>διάβολος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἁμαρτάνει.<rt>has been sinning.</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>3:8c</rt> (<RUBY><ruby><ruby>εἰς<rt>For</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this [reason]</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>ἐφανερώθη<rt>was revealed</rt></ruby><rt>φανερόω</rt></ruby><rt>V-API-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)S 
 	- <rt>3:8d</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>λύσῃ<rt>He might destroy</rt></ruby><rt>λύω</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔργα<rt>works</rt></ruby><rt>ἔργον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>διαβόλου.<rt>devil.</rt></ruby><rt>διάβολος</rt></ruby><rt>A-GSM</rt></RUBY>)C 
+- ---
 - <rt>3:9a</rt> {<RUBY><ruby><ruby>Πᾶς<rt>Anyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY><rt>)s</rt> <rt>(</rt><RUBY><ruby><ruby>γεγεννημένος<rt>having been born</rt></ruby><rt>γεννάω</rt></ruby><rt>V-RPP-NSM</rt></RUBY><rt>)p</rt> (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἁμαρτίαν<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ποιεῖ‚<rt>practices‚</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>3:9b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>σπέρμα<rt>seed</rt></ruby><rt>σπέρμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μένει‚<rt>abides‚</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>3:9c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δύναται<rt>he is able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἁμαρτάνειν‚<rt>to continue sinning‚</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAN</rt></RUBY>)P 
@@ -78,6 +79,7 @@
 - 3:6bc 把 3:6a 反過來說。
 	- ἑώρακεν、ἔγνωκεν 用現在完成式，是解經上最重要的時態，表示過去完成的事件，結果仍存於現在 (GGBB 573 = 中希 604)。
 	- 所以可以翻譯成：凡持續犯罪的人，就真的從來沒有見過祂；甚至連祂都不認識。
+- ---
 - 3:7a Τεκνία 再次呼喚，開始新的段落。
 	- πλανάτω 第三人稱命令語氣 (GGBB 485–6 = 中希 509–10)，語氣比 let no-one deceive you 要來得更強，意思是：不准任何人來欺騙你、誘惑你，把你引入歧途 (BAGD) — 進一步問，何謂歧途？從上下文來看，應該是跟「把信仰跟行為分開」，所以3:7b馬上強調：只有行義的才是義人，不光是嘴巴上說「因信稱義」而已。
 	- 信仰的兩大誤區：(a) 律法主義 = 靠行為稱義；(b) 放縱主義 = 稱義跟行為無關。整本聖經的真理是：人稱義是單靠信心 (羅3:28)，但真正的信心一定會帶出行為 (加5:6; 雅 2:26)。
@@ -96,8 +98,15 @@
 		- 創 3:15 我又要叫你和女人彼此為仇； 你的後裔和女人的後裔也彼此為仇。 女人的後裔要傷你的頭； 你要傷他的腳跟。
 		- 來2:14 兒女既同有血肉之體，他也照樣親自成了血肉之體，特要==藉着死==敗壞 (καταργήσῃ = κατά + ἔργον)那掌死權的，就是魔鬼，
 		- 啟20:10 那迷惑他們的魔鬼被扔在硫磺的火湖裏，就是獸和假先知所在的地方。他們必晝夜受痛苦，直到永永遠遠。
-	- 由此看來，人犯罪，跟魔鬼有關 — 雖然保羅說
-- 3:9a 
+	- 由此看來，人犯罪，跟魔鬼有關 — 雖然保羅歸納出屬靈爭戰的三大元凶：撒旦、世界、肉體 (弗2:2–3) — 但歸根究柢，都是創3墮落之後的結果。
+- ---
+- 3:9–10 總結 2:28–3:10 整個段落，對比出兩種身分，非此即彼，中間沒有模稜兩可的空間：
+	- (a) 神兒女 = 從神生的 → 就不犯罪，因為神的 σπέρμα (聖靈) 住在裡面
+	- (b) 魔鬼兒女 = 從魔鬼生的 → 就不行義 ⇒ 具體地說，就不愛弟兄
+- 3:9a 分詞內嵌子句當主語 (S)。ποιεῖ 是現在式，強調內部、持續觀點。但 γεγεννημένος 卻用現在完成式，表達狀態觀點，是解經上最重要的時態，表示過去完成的事件，結果仍存於現在 (GGBB 573 = 中希 604)。
+- 3:9b σπέρμα 可以是：種籽、後裔、子孫 (BAGD 一、二AB)，但放在這裡都不通，因為要「住 μένει 在信徒裡面」— 最可能的是上文的「恩膏 χρῖσμα」(1Jo 2:27)。也就是聖靈 (1Jo 3:24; 4:13)。
+	- (1Jo 3:24) 遵守上帝命令的，就住在上帝裏面，上帝也住在他裏面。我們所以知道上帝住在我們裏面是因他所賜給我們的聖靈。
+	- (1Jo 4:13) 上帝將他的靈賜給我們，從此就知道我們是住在他裏面，他也住在我們裏面。
 
 
 
