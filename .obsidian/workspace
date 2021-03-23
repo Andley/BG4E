@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4d080528b169317c",
+        "id": "2a3a146d1e7bd3ea",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "參考書目.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "1924ed351da973c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW2-Key.md",
+            "file": "IBG4E/HW3-Key.md",
             "mode": "preview"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "參考書目.md",
+                "file": "IBG4E/HW3-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "參考書目.md"
+                "file": "IBG4E/HW3-Key.md"
               }
             }
           },
@@ -135,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "參考書目.md",
+    "IBG4E/HW3-Key.md",
+    "IBG4E/HW3.md",
     "IBG4E/HW2-Key.md",
+    "參考書目.md",
     "Syntax/語氣 Mood.md",
     "IBG4E/Untitled.md",
     "IBG4E/mar.md",
     "IBG4E/HW1-Key.md",
     "Syntax/Untitled.md",
-    "Syntax/§3.md",
-    "IBG4E/HW1-Key.pdf",
-    "Mounce-Reader/Syntax-Summary.md"
+    "Syntax/§3.md"
   ]
 }
