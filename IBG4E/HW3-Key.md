@@ -70,7 +70,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## 大綱 (Outline)
+## 大綱#1 (Outline #1)
 題目：不能辜負的愛
 - (1) 上帝的計畫 (約 15:1–4)：葡萄園主的心聲 (賽 5)
 	- (1a) 天父的旨意 (約 15:1–2)：壞消息 & 好消息
@@ -81,3 +81,31 @@
 	- (2c) 錯誤的選擇 (約 15:6a–g)
 	- (2d) 正確選擇的賞賜 (約 15:5ab)
 - (3) 都是因為愛的緣故 (約 15:9–11)
+
+
+## 大綱#2 (Outline #2)
+題目：Jesus as the True Vine (15:1–17)
+- 1. God's vineyard (vv. 1–10)
+	- a. Two personnel (v. 1): Jesus, the true Vine; God the Father, the Vinedresser
+	- b. Two types of branches (vv. 2–10)
+		- (1) Productive branches
+			- are pruned (v. 2b) as being already "clean" (v. 3)
+			- must remain united to the Vine in love (vv. 4–5, 9–10)- receive answers to prayer (v. 7)
+
+- are fruitful and so glorify God (v. 8)
+
+(2) Unproductive branches
+
+- are cut off from the Vine (v. 2a)
+
+- are discarded, become withered, and are burned (v. 6)
+
+2. Loving each other as Jesus' friends (vv. 11–17)
+
+a. Remaining in Jesus' love (vv. 9–10) produces complete joy (v. 11)
+
+b. Jesus' sacrificial love is the model for his friends' mutual love (vv. 12–14, 17)
+
+c. Jesus' friends have knowledge of the Master's affairs (v. 15)
+
+d. Jesus appointed his friends to produce permanent fruit (v. 16)
