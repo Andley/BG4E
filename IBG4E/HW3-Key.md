@@ -22,7 +22,7 @@
 	- <rt>4f</rt> <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>μένητε.<rt>you abide.</rt></ruby><rt>μένω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P 
  - **(2) 門徒的選擇 (約 15:5–8)**
  	- *(2a) 門徒的角色 (約 15:5ab)*
- 	- <rt>5a</rt> <RUBY><ruby><ruby>Ἐγώ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>am</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἄμπελος‚<rt>vine;</rt></ruby><rt>ἄμπελος</rt></ruby><rt>N-NSF</rt></RUBY> 
+ - <rt>5a</rt> <RUBY><ruby><ruby>Ἐγώ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>am</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἄμπελος‚<rt>vine;</rt></ruby><rt>ἄμπελος</rt></ruby><rt>N-NSF</rt></RUBY> 
 - <rt>5b</rt> <RUBY><ruby><ruby>ὑμεῖς<rt>you [are]</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>κλήματα.<rt>branches.</rt></ruby><rt>κλῆμα</rt></ruby><rt>N-NPN</rt></RUBY> 
 	- *(2b) 正確的選擇 (約 15:5c–e)*
 - <rt>5c</rt> {<RUBY><ruby><ruby>ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>μένων<rt>abiding</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>}S1^ {<RUBY><ruby><ruby>κἀγὼ<rt>and I</rt></ruby><rt>κἀγώ</rt></ruby><rt>P-1NS-K</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>}S2^ 
@@ -90,12 +90,21 @@
 		- λελάληκα 是現在完成式，表達狀態 (stative) 的觀點，語意份量最重，強調先前行動所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08)。
 - 15:4a–e 是耶穌臨別之前的：
 	- 勸勉：15:4a 要門徒**住在** 基督裡！
-		- μείνατε 命令語氣，表示強烈意願，是耶穌臨別之前的吩咐！(GGBB 485–86 = 中希 509–11)
+		- μείνατε 命令語氣，表示強烈意願，是耶穌臨別之前的吩咐！(GGBB 485–86 = 中希 509–11)，這裡用不定過去式，表達完整 (perfective) 
 	- 應許：15:4b 耶穌也要住在 (省略動詞) 門徒裡！
 	- 說明理由：15:4cdef。這裡的句法結構比較複雜：
-		- 15:4cd 是一組：4d 修飾 4c 發生的條件—除非 (ἐὰν μὴ，BAGD) 枝子住在葡萄樹裡，否則枝子不能結果子。
-		- 15:4ef 是一組：4f 修飾 4e 發生的條件)—除非 (ἐὰν μὴ，BAGD) 門徒住在基督裡，否則門徒也照這樣 (οὕτως，BAGD) 不能結果子。
+		- 15:4cd 是一組：4d 修飾 4c 發生的條件—除非 (ἐὰν μὴ，BAGD) 枝子持續住在葡萄樹裡，否則枝子不能持續結果子。
+		- 15:4ef 是一組：4f 修飾 4e 發生的條件)—除非 (ἐὰν μὴ，BAGD) 門徒持續住在基督裡，否則門徒也照這樣 (οὕτως，BAGD) 不能持續結果子。
 		- 15:4cd 合起來用 καθὼς (正如，BAGD) 來補充說明 15:4ef，產生「正如 καθὼς X …… 照樣 οὕτως Y ……」的邏輯。
+- ---
+- 15:5–8 延續葡萄樹與枝子的暗喻，把話挑明了說：在上帝的計畫中<font color='red'>【神的旨意】</font>，門徒所扮演的角色就是枝子。身為枝子，根據上文只有兩種情況：
+	- (a) 持續住在基督裡 → 持續結果子 ⇒ 上帝弄得更乾淨 → 持續結出更多果子
+	- (b) 持續不住在基督裡 → 持續不結果子 ⇒ 上帝直接剪去 → 永遠沒機會結果子
+	- 因此，門徒必須做出選擇<font color='red'>【人的責任】</font>。
+	- 15:5a 跟 15:1a 一樣，用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。
+	- 15:5b 則是 ὑμεῖς 前置，表示強調和對比。
+	- 15:5cde 是正確的選擇
+		- 15:5cd 的結構跟 15:2ab、15:2cd 一樣，都是破格 (anacoluthon = 不按文法規則) 結構，差別在於
 
 
 
