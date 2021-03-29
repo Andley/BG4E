@@ -11,7 +11,7 @@
 - <rt>2c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>πᾶν<rt>every one</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY>)<rt>s</rt> (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>φέρον<rt>bearing‚</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAP-ASN</rt></RUBY>)<rt>p</rt> }C^ 
 - <rt>2d</rt> (<RUBY><ruby><ruby><mark>καθαίρει</mark><rt>He prunes</rt></ruby><rt>καθαίρω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸ<rt>it‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY>)C^ 
 	- <rt>2e</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>πλείονα<rt>more</rt></ruby><rt>πλείων, πλεῖον</rt></ruby><rt>A-ASM-C</rt></RUBY>)C (<RUBY><ruby><ruby>φέρῃ.<rt>it may bear.</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P
-	- *(1b) 耶穌的勸勉 (約 15:3–4) ：不要離開好消息！*
+	- *(1b) 耶穌的勸勉和應許 (約 15:3–4) ：不要離開好消息！*
 - <rt>3a</rt> (<RUBY><ruby><ruby>ἤδη<rt>Already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>ὑμεῖς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby><mark>καθαροί</mark><rt>clean</rt></ruby><rt>καθαρός</rt></ruby><rt>A-NPM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστε<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>by reason of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον‡<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY>)A2 
 	- <rt>3b</rt> (<RUBY><ruby><ruby>ὃν‡<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASM</rt></RUBY>)C1 (<RUBY><ruby><ruby>**λελάληκα**<rt>I have spoken</rt></ruby><rt>λαλέω</rt></ruby><rt>**V-RAI-1S**</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν·<rt>to you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 - <rt>4a</rt> (<RUBY><ruby><ruby>μείνατε<rt>Abide</rt></ruby><rt>μένω</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί‚<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A 
@@ -89,9 +89,13 @@
 		- ὃν 帶出關係子句 (GGBB 659–65 = 中希 696–702)，補充說明 15:3a 的道，特別指明：是耶穌所傳講給門徒的道！
 		- λελάληκα 是現在完成式，表達狀態 (stative) 的觀點，語意份量最重，強調先前行動所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08)。
 - 15:4a–e 是耶穌臨別之前的：
-	- 勸勉：15:4a 要門徒**住在 (μείνατε 命令語氣，情詞迫切)** 基督裡！
+	- 勸勉：15:4a 要門徒**住在** 基督裡！
+		- μείνατε 命令語氣，表示強烈意願，是耶穌臨別之前的吩咐！(GGBB 485–86 = 中希 509–11)
 	- 應許：15:4b 耶穌也要住在 (省略動詞) 門徒裡！
-	- 說明理由：15:4cde
+	- 說明理由：15:4cdef。這裡的句法結構比較複雜：
+		- 15:4cd 是一組：4d 修飾 4c 發生的條件—除非 (ἐὰν μὴ，BAGD) 枝子住在葡萄樹裡，否則枝子不能結果子。
+		- 15:4ef 是一組：4f 修飾 4e 發生的條件)—除非 (ἐὰν μὴ，BAGD) 門徒住在基督裡，否則門徒也照這樣 (οὕτως，BAGD) 不能結果子。
+		- 15:4cd 合起來用 καθὼς (正如，BAGD) 來補充說明 15:4ef，產生「正如 καθὼς X …… 照樣 οὕτως Y ……」的邏輯。
 
 
 
@@ -103,7 +107,7 @@
 題目：不能辜負的愛
 - (1) 上帝的計畫 (約 15:1–4)：葡萄園主的心聲 (賽 5)
 	- (1a) 天父的旨意 (約 15:1–2)：壞消息 & 好消息
-	- (1b) 耶穌的勸勉 (約 15:3–4) ：不要離開好消息！
+	- (1b) 耶穌的勸勉和應許 (約 15:3–4) ：不要離開好消息！
 - (2) 門徒的選擇 (約 15:5–8)
 	- (2a) 門徒的角色 (約 15:5ab)
 	- (2b) 正確的選擇 (約 15:5c–e)
