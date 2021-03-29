@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -137,14 +136,14 @@
   },
   "lastOpenFiles": [
     "IBG4E/HW3-Key.md",
-    "IBG4E/HW3.md",
     "IBG4E/HW2-Key.md",
+    "cheatsheet.md",
+    "IBG4E/HW3.md",
     "參考書目.md",
     "Syntax/語氣 Mood.md",
     "IBG4E/Untitled.md",
     "IBG4E/mar.md",
     "IBG4E/HW1-Key.md",
-    "Syntax/Untitled.md",
-    "Syntax/§3.md"
+    "Syntax/Untitled.md"
   ]
 }
