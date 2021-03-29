@@ -28,15 +28,16 @@
 - <rt>5c</rt> {<RUBY><ruby><ruby>ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>μένων<rt>abiding</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>}S1^ {<RUBY><ruby><ruby>κἀγὼ<rt>and I</rt></ruby><rt>κἀγώ</rt></ruby><rt>P-1NS-K</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>}S2^ 
 - <rt>5d</rt> (<RUBY><ruby><ruby>οὗτος<rt>he</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY>)S^ (<RUBY><ruby><ruby>φέρει<rt>bears</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>πολύν‚<rt>much.</rt></ruby><rt>πολύς</rt></ruby><rt>A-ASM</rt></RUBY>)C 
 	- <rt>5e</rt> <RUBY><ruby><ruby>ὅτι<rt>For</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>χωρὶς<rt>apart from</rt></ruby><rt>χωρίς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοῦ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>δύνασθε<rt>you are able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-2P</rt></RUBY>)P { (<RUBY><ruby><ruby>ποιεῖν<rt>to do</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>οὐδέν.<rt>nothing.</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-ASN</rt></RUBY>)<rt>c</rt> }C 
-	- *(2c) 錯誤的選擇 (約 15:6a–g)*
+	- *(2c) 錯誤的選擇 (約 15:6a–c)*
 	- <rt>6a</rt> <RUBY><ruby><ruby>ἐὰν<rt>If</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μή<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>μένῃ<rt>abide</rt></ruby><rt>μένω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί‚<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2
 - <rt>6b</rt> (<RUBY><ruby><ruby>ἐβλήθη<rt>he is thrown</rt></ruby><rt>βάλλω</rt></ruby><rt>V-API-3S</rt></RUBY>) (<RUBY><ruby><ruby>ἔξω<rt>out</rt></ruby><rt>ἔξω</rt></ruby><rt>ADV</rt></RUBY>)A 
 	- <rt>6c</rt> <RUBY><ruby><ruby>ὡς<rt>like</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>κλῆμα<rt>branch</rt></ruby><rt>κλῆμα</rt></ruby><rt>N-NSN</rt></RUBY>)S 
+	- *(2c') 錯誤選擇的刑罰 (約 15:6d–g)*
 - <rt>6d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐξηράνθη<rt>is dried up‚</rt></ruby><rt>ξηραίνω</rt></ruby><rt>V-API-3S</rt></RUBY>)P 
 - <rt>6e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>συνάγουσιν<rt>they gather</rt></ruby><rt>συνάγω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὰ<rt>them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-APN</rt></RUBY>)C 
 - <rt>6f</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>πῦρ<rt>fire</rt></ruby><rt>πῦρ</rt></ruby><rt>N-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>βάλλουσιν<rt>cast‚</rt></ruby><rt>βάλλω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P 
 - <rt>6g</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καίεται.<rt>it is burned.</rt></ruby><rt>καίω</rt></ruby><rt>V-PPI-3S</rt></RUBY>)P 
-	- *(2d) 正確選擇的賞賜 (約 15:57–8)*
+	- *(2b') 正確選擇的賞賜 (約 15:57–8)*
 	- <rt>7a</rt> <RUBY><ruby><ruby>ἐὰν<rt>If</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μείνητε<rt>you abide</rt></ruby><rt>μένω</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A 
 	- <rt>7b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>ῥήματά<rt>words</rt></ruby><rt>ῥῆμα</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A (<RUBY><ruby><ruby>μείνῃ‚<rt>abide‚</rt></ruby><rt>μένω</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P 
 - <rt>7c</rt> { (<RUBY><ruby><ruby>ὃ<rt>whatever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>θέλητε<rt>you wish‚</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)<rt>p</rt> }C (<RUBY><ruby><ruby>αἰτήσασθε‚<rt>you shall ask‚</rt></ruby><rt>αἰτέω</rt></ruby><rt>V-AMM-2P</rt></RUBY>)P 
@@ -79,7 +80,8 @@
 	- 15:2c 反過來說，結果子的枝子，上帝就會用另外一種方式來對待 (15:2de)。
 	- 15:2c 跟 15:2a 一樣，就**詞形上 (morphology)、句法上 (syntax)** 有兩種可能，但都是指向15:2d 的補語 (C)，所以把 πᾶν τὸ καρπὸν φέρον 都理解成 ASN 比較順暢。
 	- 15:2d καθαίρει 修理乾淨，字根是 15:3a 的 καθαρός，所以最基本的意思是「使……變得乾淨」。動詞是是現在式、不完整 (imperfective) 的觀點，表達上帝把枝子弄乾淨的動作，也是持續進行。
-	- 15:2e ἵνα 帶出從屬子句，表達 15:2d「使……變得乾淨」的目的 or 結果。φέρῃ 是現在式、不完整 (imperfective) 的觀點——把 15:2cde 合起來看，描繪出一幅**正向循環、滾雪球、越滾越大**的圖畫：只要枝子開始持續結果子 → 上帝就會持續把枝子越來越乾淨 → 越是乾淨的枝子，就會持續結出更多的果子 ⇒ 如此周而復始，形成正向滾雪球的循環！
+	- 15:2e ἵνα 帶出從屬子句，表達 15:2d「使……變得乾淨」的目的 or 結果。φέρῃ 是現在式、不完整 (imperfective) 的觀點——把 15:2cde 合起來看，描繪出一幅**正向循環、滾雪球、越滾越大**的圖畫：只要枝子開始持續結果子 → 上帝就會持續把枝子越來越乾淨 → 越是乾淨的枝子，就會持續結出更多的 (πλείονα) 果子 ⇒ 如此周而復始，形成正向滾雪球的循環！
+		- πλείονα 是形容詞的比較級 (GGBB 298–99 = 中希 312–13)，這裡的意思是：上帝弄乾淨之後 vs. 之前相比，結出「更多的」果子。
 - ---
 - 15:3ab 耶穌告訴門徒好消息：你們已經是 (ἤδη) 潔淨的 (καθαροί)了！你們已經開始進入這個正向滾雪球的循環了！關鍵是：藉著 (διὰ) 耶穌所說過的道 ⇒ 道 (λόγος) 是啟動門徒進入成聖、結果子正向循環的關鍵！
 	- 15:3a 
@@ -97,14 +99,21 @@
 		- 15:4ef 是一組：4f 修飾 4e 發生的條件)—除非 (ἐὰν μὴ，BAGD) 門徒持續住在基督裡，否則門徒也照這樣 (οὕτως，BAGD) 不能持續結果子。
 		- 15:4cd 合起來用 καθὼς (正如，BAGD) 來補充說明 15:4ef，產生「正如 καθὼς X …… 照樣 οὕτως Y ……」的邏輯。
 - ---
-- 15:5–8 延續葡萄樹與枝子的暗喻，把話挑明了說：在上帝的計畫中<font color='red'>【神的旨意】</font>，門徒所扮演的角色就是枝子。身為枝子，根據上文只有兩種情況：
-	- (a) 持續住在基督裡 → 持續結果子 ⇒ 上帝弄得更乾淨 → 持續結出更多果子
-	- (b) 持續不住在基督裡 → 持續不結果子 ⇒ 上帝直接剪去 → 永遠沒機會結果子
-	- 因此，門徒必須做出選擇<font color='red'>【人的責任】</font>。
-	- 15:5a 跟 15:1a 一樣，用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。
-	- 15:5b 則是 ὑμεῖς 前置，表示強調和對比。
-	- 15:5cde 是正確的選擇
-		- 15:5cd 的結構跟 15:2ab、15:2cd 一樣，都是破格 (anacoluthon = 不按文法規則) 結構，差別在於
+- 15:5–8 延續葡萄樹與枝子的暗喻，把話挑明了說：在上帝的計畫中<font color='red'>【神的旨意】</font>，門徒所扮演的角色就是枝子。身為枝子，根據上文只有兩種情況 & 後果：
+	- (2b) 正確的選擇：持續住在基督裡 → 持續結果子 ⇒ 上帝弄得更乾淨 → 持續結出更多果子
+		- (2c) 錯誤的選擇：持續不住在基督裡 → 持續不結果子 ⇒ 上帝直接剪去 → 永遠沒機會結果子
+		- (2c') 錯誤選擇的刑罰：
+	- (2b') 正確選擇的賞賜：
+	- 15:2b—c—c'—b' 隱約出現交叉結構，但從約13–16整段思路來看，耶穌的重點不是要恐嚇威脅門徒，而是要鼓勵門徒得到賞賜。
+- 因此，門徒必須做出選擇<font color='red'>【人的責任】</font>。
+- 15:5a 跟 15:1a 一樣，用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。
+- 15:5b 則是 ὑμεῖς 前置，表示強調和對比。
+- 15:5cde 是正確的選擇
+	- 15:5cd 的結構跟 15:2ab、15:2cd 一樣，都是破格 (anacoluthon = 不按文法規則) 結構，差別在於 15:5c 只能是「懸吊主格、破格主詞補語 Pendent Nominative」(GGBB 51–53 = 中希 50–51)，獨立存在，與15:5d無關，但在**語意上** (<mark>semantics</mark>) 卻是 15:5d 的主語 (S)。
+	- 15:5d πολύν，相較於 15:2d 上帝弄乾淨之後 vs. 之前 (或者說：自己跟自己相比之觀點) 的「更多」，這裡用客觀 (或者說：耶穌之觀點) 直接說「很多果子」。
+	- 15:5e χωρὶς 後面接所有格 (BAGD)，這裡用的是比 μοῦ 語氣更強的 ἐμοῦ，意思是「沒有**我**、離開了**我**」你們什麼都做不了。
+- 15:6abc 是錯誤的選擇
+- 
 
 
 
