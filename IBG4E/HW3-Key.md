@@ -59,6 +59,10 @@
 <div style="page-break-after: always;"></div>
 
 ## 解經 (Exegesis)
+- 思路：這段經文屬於耶穌最後晚餐講論 (約13–17) 其中的一段。因此，這段經文的對象是「門徒」(約13:1 世間屬自己的人)，出發點是「愛」(約13:1 他既愛……就愛他們到底)，目的是：
+	- (a) 要門徒彼此相愛 (約13:34)
+
+
 
 <div style="page-break-after: always;"></div>
 
