@@ -65,6 +65,9 @@
 	- (3) 勸勉門徒住在主裡面(約15:7)，從而：
 		- (3a) 積極面：要門徒喜樂滿足(約15:11)，不但做主門徒(約15:8)，更晉身做主朋友(約15:15)
 		- (3b) 消極面：雖受迫害也不至跌倒(約16:1–2)，進而得享平安(約16:33)
+- 15:1–2 耶穌用舊約以賽亞書5章的暗喻破題，把上帝比作葡萄園的主人。賽5責備以色列人沒有達到園主期待，非但沒能結出公平公義的好果子，反倒結出了暴虐冤聲的野葡萄(賽5:2–8)。因此萬軍之耶和華怒氣發作，要來施行審判(賽5:9–30)。因此，本段經文是在刑罰審判的背景音樂中，帶出了耶穌臨別勸勉的主旋律。
+	- 15:1a 用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。聯繫動詞 εἰμι 前面是代名詞，後面是帶冠詞的名詞，按照語法規則 (GGBB 40–48 = 中希 39–47)，代名詞有優先權，是整個子句的主語 (S)。
+	- 15:1b 聯繫動詞 εἰμι 前後都是帶冠詞的名詞，按照語法規則 (GGBB 44 = 中希 43)，放在前面的是主語 (S)。
 
 
 
@@ -90,22 +93,16 @@
 	- b. Two types of branches (vv. 2–10)
 		- (1) Productive branches
 			- are pruned (v. 2b) as being already "clean" (v. 3)
-			- must remain united to the Vine in love (vv. 4–5, 9–10)- receive answers to prayer (v. 7)
+			- must remain united to the Vine in love (vv. 4–5, 9–10)
+			- receive answers to prayer (v. 7)
+			- are fruitful and so glorify God (v. 8)
+		- (2) Unproductive branches
+			- are cut off from the Vine (v. 2a)
+			- are discarded, become withered, and are burned (v. 6)
+- 2. Loving each other as Jesus' friends (vv. 11–17)
+	- a. Remaining in Jesus' love (vv. 9–10) produces complete joy (v. 11)
+	- b. Jesus' sacrificial love is the model for his friends' mutual love (vv. 12–14, 17)
+	- c. Jesus' friends have knowledge of the Master's affairs (v. 15)
+	- d. Jesus appointed his friends to produce permanent fruit (v. 16)
 
-- are fruitful and so glorify God (v. 8)
-
-(2) Unproductive branches
-
-- are cut off from the Vine (v. 2a)
-
-- are discarded, become withered, and are burned (v. 6)
-
-2. Loving each other as Jesus' friends (vv. 11–17)
-
-a. Remaining in Jesus' love (vv. 9–10) produces complete joy (v. 11)
-
-b. Jesus' sacrificial love is the model for his friends' mutual love (vv. 12–14, 17)
-
-c. Jesus' friends have knowledge of the Master's affairs (v. 15)
-
-d. Jesus appointed his friends to produce permanent fruit (v. 16)
+source: Harris, Murray J. _John_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2015.
