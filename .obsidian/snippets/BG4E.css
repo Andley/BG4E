@@ -79,17 +79,11 @@
   --text-tag: #778899;
   --text-muted: #D3D3D3;
   --text-faint: gold;
-  --text-normal: #f1f1f1;
-  --text-selection: #ffe23d48;
   --text-accent: greenyellow;
   --color1:#ea4335;
   --color2:#4285f4;
   --color3:#34a853;
   --color4:#ff8a00;
-  --opacity-translucency: 0.8;
-  --background-primary: #202124;
-  --font-monospace: "Noto Sans Mono CJK TC";
-
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
@@ -100,13 +94,10 @@
   --color2:darkblue;
   --color3:darkgreen;
   --color4:darkmagenta;
-  --opacity-translucency: 0;
-  --font-monospace: "Noto Sans Mono CJK TC";
-
 }
 /* highlight active line */
 .workspace-leaf.mod-active .CodeMirror-activeline .CodeMirror-linebackground{
-  background-color: hsl(0, 0%, 0%);
+  background-color: black;
   }
 
 /* 標題顏色 */

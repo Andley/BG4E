@@ -1,49 +1,14 @@
 /* obsdn dark rmx - v202009222210 - 0.9.00 by _ph / www.hpx1.com*/
 /* free to use, share and tweak - consider keeping the credits if you use this theme as a starter kit */
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Noto Sans");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("Noto Sans CJK TC");
-}
 
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("Arial Narrow");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Arial Narrow");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("Noto Sans CJK TC");
-}
 body {
-  font-size: 16px;
-  font-family: AndleyFont;
-  --font-monospace: InterlinearFont;
+  font-size: 15px;
+  font-family: Barlow, Cairo, Inter, sans-serif;
+  --font-monospace: Fira Code, Source Code Pro, monospace;
 }
 .CodeMirror pre.CodeMirror-line {
-  font-size: 16px;
-  font-family: AndleyFont;
+  font-size: 13px;
+  font-family: Fira Code, Source Code Pro, monospace;
 }
 
 /* ======= DARK ==============*/

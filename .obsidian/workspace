@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6f3016c1475fac",
+        "id": "8215a7ec74ccf594",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW3-Key.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 164
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IBG4E/HW3-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IBG4E/HW3-Key.md"
+              }
             }
           },
           {
@@ -119,14 +125,14 @@
   },
   "lastOpenFiles": [
     "IBG4E/HW3-Key.md",
-    "IBG4E/HW2-Key.md",
-    "cheatsheet.md",
     "IBG4E/HW3.md",
+    "IBG4E/HW2-Key.md",
+    "IBG4E/HW2.md",
+    "IBG4E/HW1.md",
+    "IBG4E/HW1-Key.md",
+    "cheatsheet.md",
     "參考書目.md",
     "Syntax/語氣 Mood.md",
-    "IBG4E/Untitled.md",
-    "IBG4E/mar.md",
-    "IBG4E/HW1-Key.md",
-    "Syntax/Untitled.md"
+    "IBG4E/Untitled.md"
   ]
 }
