@@ -100,10 +100,13 @@
   background-color: black;
   }
 
+  .CodeMirror pre.CodeMirror-line {
+    font-size: 13px;
+  }
+
 /* 標題顏色 */
 .titlebar-inner {
   color: var(--text-faint);
-  width: 100%;
 }
 
 .workspace-leaf.mod-active .view-header-title {
@@ -169,7 +172,7 @@
   border: 1px solid;
   border-bottom: 4px double;
   font-weight: 800;
-  padding: 3px 5px;
+  padding: 5px 5px;
 }
 
 .markdown-preview-view td {
@@ -209,7 +212,7 @@
 
 html, body {
   font-family: AndleyFont;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 
@@ -237,4 +240,18 @@ ul ul::before {
   left: -15px;
   top: 0;
   bottom: 0;
+}
+
+.nav-file-title, .nav-folder-title {
+  display: flex;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 13px;
+  line-height: 14px;
+  padding: 1px 10px 0 26px;
+  white-space: nowrap;
+  width: max-content;
+  min-width: 100%;
 }
