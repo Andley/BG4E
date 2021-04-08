@@ -2,11 +2,14 @@
 
 
 ## 圖析 (Syntax Diagram)
+- **(1) 愛的大誡命 (15:12–15)**
+	- *(1a) 誡命的內涵 (15:12a–13)*
 - <rt>12a</rt> (<RUBY><ruby><ruby>Αὕτη<rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐστὶν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὴ<rt>commandment</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐμὴ‚<rt>My‚</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SNSF</rt></RUBY>)C 
 	- <rt>12b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἀγαπᾶτε<rt>you love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλους<rt>one another</rt></ruby><rt>ἀλλήλων</rt></ruby><rt>C-APM</rt></RUBY>)C 
 		- <rt>12c</rt> <RUBY><ruby><ruby>καθὼς<rt>as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἠγάπησα<rt>I loved</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>) 
 - <rt>13a</rt> (<RUBY><ruby><ruby>μείζονα<rt>Greater</rt></ruby><rt>μέγας</rt></ruby><rt>A-ASF-C</rt></RUBY> <RUBY><ruby><ruby>ταύτης<rt>than this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐδεὶς<rt>no one</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>13b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>one</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>life</rt></ruby><rt>ψυχή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>θῇ<rt>should lay down</rt></ruby><rt>τίθημι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>φίλων<rt>friends</rt></ruby><rt>φίλος</rt></ruby><rt>A-GPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
+	- *(1b)  身分的改變 (15:14–15)*
 - <rt>14a</rt> (<RUBY><ruby><ruby>Ὑμεῖς<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>φίλοι<rt>friends</rt></ruby><rt>φίλος</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>μού<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστε<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
 	- <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ποιῆτε<rt>you do</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P { (<RUBY><ruby><ruby>ἃ<rt>what</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APN</rt></RUBY>)<rt>c1</rt> (<RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>)<rt>s</rt> (<RUBY><ruby><ruby>ἐντέλλομαι<rt>command</rt></ruby><rt>ἐντέλλω</rt></ruby><rt>V-PNI-1S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)<rt>c2</rt> }C 
 - <rt>15a</rt> (<RUBY><ruby><ruby>οὐκέτι<rt>No longer</rt></ruby><rt>οὐκέτι</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>λέγω<rt>I call</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C1 (<RUBY><ruby><ruby>δούλους‚<rt>servants‚</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-APM</rt></RUBY>)C2 
@@ -69,6 +72,7 @@
 ## 解經 (Exegesis)
 - 思路：
 - ---
-- 12–15 是耶穌在最後晚餐上的吩咐 (命令 = ἐντολὴ)，要門徒彼此相愛，
+- 15:12–15 是一段，講耶穌的吩咐 (彼此相愛)，以及門徒身分的轉變 (奴僕 ⇒ 朋友)。
+	- 15:12–13 是耶穌最後晚餐上的吩咐 (命令 = ἐντολὴ)，要門徒彼此相愛。但這愛並非泛泛之愛，也不是口惠而實不至之愛——是以耶穌為標竿，而且要愛到為朋友捨命的程度！
 
 ## 大綱 (Outline)
