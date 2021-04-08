@@ -67,6 +67,8 @@
 	- <rt>27b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀρχῆς<rt>[the] beginning</rt></ruby><rt>ἀρχή</rt></ruby><rt>N-GSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>μετ᾽<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοῦ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐστε.¶<rt>you are.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
 
 ## 解經 (Exegesis)
-
+- 思路：
+- ---
+- 12–15 是耶穌在最後晚餐上的吩咐 (命令 = ἐντολὴ)，要門徒彼此相愛，
 
 ## 大綱 (Outline)
