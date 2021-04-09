@@ -6,6 +6,7 @@
       {
         "id": "bca8c9cac187fbfc",
         "type": "leaf",
+        "dimension": 45.99627560521415,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,35 +16,16 @@
         }
       },
       {
-        "id": "0a4311a9826f6ddc",
-        "type": "split",
-        "children": [
-          {
-            "id": "27f737d49fe06b62",
-            "type": "leaf",
-            "dimension": 60.5543710021322,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IBG4E/HW4-Key.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "5c8c1a15ea28edbe",
-            "type": "leaf",
-            "dimension": 39.44562899786781,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IBG4E/HW3-Key.md",
-                "mode": "preview"
-              }
-            }
+        "id": "27f737d49fe06b62",
+        "type": "leaf",
+        "dimension": 54.00372439478585,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW4-Key.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
