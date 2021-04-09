@@ -2,8 +2,8 @@
 
 
 ## 圖析 (Syntax Diagram)
-- **(1) 愛的大誡命 (15:12–6)**
-	- *(1a) 大誡命就是要我們彼此相愛 (15:12a–13)*
+- **(1) 愛的大誡命 (15:12–17)**
+	- *(1a) 大誡命就是要我們彼此相愛 (15:12–13)*
 - <rt>12a</rt> (<RUBY><ruby><ruby>Αὕτη<rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐστὶν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὴ<rt>commandment</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐμὴ‚<rt>My‚</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SNSF</rt></RUBY>)C 
 	- <rt>12b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἀγαπᾶτε<rt>you love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλους<rt>one another</rt></ruby><rt>ἀλλήλων</rt></ruby><rt>C-APM</rt></RUBY>)C 
 		- <rt>12c</rt> <RUBY><ruby><ruby>καθὼς<rt>as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἠγάπησα<rt>I loved</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>) 
@@ -29,7 +29,7 @@
 	- <rt>17b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἀγαπᾶτε<rt>you love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλους.¶<rt>one another.</rt></ruby><rt>ἀλλήλων</rt></ruby><rt>C-APM</rt></RUBY>)C
 
 ----
-- **(2) **
+- **(2) (15:18–25)**
 	- *(2a) 彼此相愛會被世人恨惡 (15:18–19)*
 	- <rt>18a</rt> <RUBY><ruby><ruby>Εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>κόσμος<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>μισεῖ‚<rt>hates‚</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 - <rt>18b</rt> (<RUBY><ruby><ruby>γινώσκετε<rt>you know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
