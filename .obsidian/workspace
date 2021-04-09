@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bca8c9cac187fbfc",
+        "id": "6c78585bb91968fc",
         "type": "leaf",
-        "dimension": 45.99627560521415,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW4-Key.md",
+            "file": "Untitled.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "27f737d49fe06b62",
-        "type": "leaf",
-        "dimension": 54.00372439478585,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW4-Key.md",
-            "mode": "preview"
           }
         }
       }
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 164,
-    "collapsed": true
+    "width": 164
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -90,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW4-Key.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW4-Key.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -138,17 +124,17 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "bca8c9cac187fbfc",
+  "active": "6c78585bb91968fc",
   "lastOpenFiles": [
+    "Untitled.md",
     "IBG4E/HW4-Key.md",
+    "IBG4E/Untitled.md",
     "IBG4E/HW3-Key.md",
     "IBG4E/2021-CTTS.md",
     "IBG4E/Eph 6.1–3.md",
     "Mounce-Reader/GRBG.md",
     "Mounce-Reader/GRBG-01a.md",
     "Mounce-Reader/GRBG-02a.md",
-    "Mounce-Reader/GRBG-01b.md",
-    "Syntax/IBG4E-Syntax.md",
-    "Untitled.md"
+    "Mounce-Reader/GRBG-01b.md"
   ]
 }
