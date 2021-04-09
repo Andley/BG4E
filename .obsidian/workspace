@@ -6,7 +6,6 @@
       {
         "id": "0eca1e8282413a17",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -72,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 164,
-    "collapsed": true
+    "width": 164
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -93,6 +91,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,7 @@
     "width": 280,
     "collapsed": true
   },
+  "active": "0eca1e8282413a17",
   "lastOpenFiles": [
     "IBG4E/HW4-Key.md",
     "IBG4E/HW3-Key.md",
