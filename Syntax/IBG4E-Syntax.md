@@ -1,8 +1,8 @@
-# 全民希臘文進階句法 (IBG4E–Syntax) <br>Intermediate Biblcal Greek for Everyone — Syntax
+# 全民希臘文進階句法 (IBG4E–Syntax) <br>Intermediate Biblical Greek for Everyone — Syntax
 
 ---
 
-- Part I—希臘文基礎
+- Part I 希臘文基礎
 	- Chapter 1: 希臘文源流 §1
 		- 希臘文歷史 §1a
 		- 閃語對聖經希臘文的影響 §1b
@@ -14,7 +14,7 @@
 		- 形式與功能 §2b
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
-- Part II—字詞與片語 (Word and Phrase)
+- Part II 字詞與片語 (Word and Phrase)
 	- 名詞類
 		- Chapter 3: 名詞 (Noun) §3
 			- 簡介 [[§3a]]
@@ -29,14 +29,14 @@
 		- 冠詞
 		- 形容詞
 		- 代名詞
-	- Part IIb—功能詞類
+	- 動詞類
+	- 功能詞類
 		- 介系詞
 		- 質詞
 		- 連接詞
-	- Part IIc—動詞類
 		- 動詞：
-- Part III—子句與句子 (Clause and Sentence)
-- Part IV—段落與篇章 (Paragraph and Discourse)
+- Part III 子句與句子 (Clause and Sentence)
+- Part IV 段落與篇章 (Paragraph and Discourse)
 
 
 

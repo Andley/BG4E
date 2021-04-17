@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "IBG4E/HW4-Key.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6ff5b31112690b18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW4-Key.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 164
+    "width": 164,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -76,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IBG4E/HW4-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IBG4E/HW4-Key.md"
               }
             }
           },
@@ -126,15 +138,15 @@
   },
   "active": "6c78585bb91968fc",
   "lastOpenFiles": [
-    "Untitled.md",
     "IBG4E/HW4-Key.md",
+    "Syntax/IBG4E-Syntax.md",
+    "Syntax/§3a.md",
+    "Gal 6.1–5.md",
+    "Untitled.md",
     "IBG4E/Untitled.md",
     "IBG4E/HW3-Key.md",
     "IBG4E/2021-CTTS.md",
     "IBG4E/Eph 6.1–3.md",
-    "Mounce-Reader/GRBG.md",
-    "Mounce-Reader/GRBG-01a.md",
-    "Mounce-Reader/GRBG-02a.md",
-    "Mounce-Reader/GRBG-01b.md"
+    "Mounce-Reader/GRBG.md"
   ]
 }
