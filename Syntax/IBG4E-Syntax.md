@@ -20,7 +20,7 @@
 			- 簡介 [[§3a]]
 			- 主格 [[$3b]]
 				- 主語 (Subject) §3b1
-				- 述語主格 (Predicate Nominative) §3b2
+				- 述語主格 (Predicate Nominative) [[§3b2]]
 				- 
 			- 直接受格 $3c
 			- 所有格 $3d

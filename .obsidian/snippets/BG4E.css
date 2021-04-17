@@ -100,10 +100,6 @@
   background-color: black;
   }
 
-  .CodeMirror pre.CodeMirror-line {
-    font-size: 13px;
-  }
-
 /* 標題顏色 */
 .titlebar-inner {
   color: var(--text-faint);
@@ -119,7 +115,7 @@
   color: var(--text-accent);
 }
 .cm-em, .markdown-preview-view em {
-  color: var(--text-accent);
+  color: var(--text-faint);
 }
 
 /* tags in preview and editor */
@@ -248,9 +244,9 @@ ul ul::before {
   border-radius: 3px;
   cursor: pointer;
   color: var(--text-muted);
-  font-size: 13px;
-  line-height: 14px;
-  padding: 1px 10px 0 26px;
+  font-size: 12px;
+  line-height: 12px;
+  padding: 1px 5px 0 10px;
   white-space: nowrap;
   width: max-content;
   min-width: 100%;
