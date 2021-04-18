@@ -11,7 +11,7 @@
 - <rt>13a</rt> (<RUBY><ruby><ruby>μείζονα<rt>Greater</rt></ruby><rt>μέγας</rt></ruby><rt>A-ASF-C</rt></RUBY> <RUBY><ruby><ruby>ταύτης<rt>than this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐδεὶς<rt>no one</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>13b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>one</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>life</rt></ruby><rt>ψυχή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>θῇ<rt>should lay down</rt></ruby><rt>τίθημι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>φίλων<rt>friends</rt></ruby><rt>φίλος</rt></ruby><rt>A-GPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
 - <rt>14a</rt> (<RUBY><ruby><ruby>Ὑμεῖς<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>φίλοι<rt>friends</rt></ruby><rt>φίλος</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>μού<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστε<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
-	- <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ποιῆτε<rt>you do</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P { (<RUBY><ruby><ruby>ἃ<rt>what</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APN</rt></RUBY>)<rt>c1</rt> (<RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>)<rt>s</rt> (<RUBY><ruby><ruby>ἐντέλλομαι<rt>command</rt></ruby><rt>ἐντέλλω</rt></ruby><rt>V-PNI-1S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)<rt>c2</rt> }C 
+	- <rt>14b</rt> <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ποιῆτε<rt>you do</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P { (<RUBY><ruby><ruby>ἃ<rt>what</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APN</rt></RUBY>)<rt>c1</rt> (<RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>)<rt>s</rt> (<RUBY><ruby><ruby>ἐντέλλομαι<rt>command</rt></ruby><rt>ἐντέλλω</rt></ruby><rt>V-PNI-1S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)<rt>c2</rt> }C 
 - <rt>15a</rt> (<RUBY><ruby><ruby>οὐκέτι<rt>No longer</rt></ruby><rt>οὐκέτι</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>λέγω<rt>I call</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C1 (<RUBY><ruby><ruby>δούλους‚<rt>servants‚</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-APM</rt></RUBY>)C2 
 	- <rt>15b</rt> <RUBY><ruby><ruby>ὅτι<rt>for</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δοῦλος<rt>servant</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>οἶδεν<rt>knows</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-3S</rt></RUBY>)P { (<RUBY><ruby><ruby>τί<rt>what</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>ποιεῖ<rt>is doing</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>αὐτοῦ<rt>his</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>κύριος·<rt>master.</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY>)<rt>s</rt> }C 
 - <rt>15c</rt> (<RUBY><ruby><ruby>ὑμᾶς<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C1 <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἴρηκα<rt>I have called</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt><mark>V-RAI-1S</mark></rt></RUBY>)P (<RUBY><ruby><ruby>φίλους‚<rt>friends‚</rt></ruby><rt>φίλος</rt></ruby><rt>A-APM</rt></RUBY>)C2 
@@ -100,16 +100,20 @@
 - _(1b) 彼此相愛是因著耶穌的捨命 (15:13–15)_
 - 15:13a 沒有連接詞，就句法 (syntax) 來說可以當作新斷落的開始，放在河岸第一排；但就語意 (semantics) 來看，則是延續 15:12c，進一步說明耶穌怎麼樣愛門徒。
 	- 比較級形容詞 μείζονα 後面接所有格，表示比較的對象 (GGBB 299 = 中希 313)。值得注意的是 μείζονα ἀγάπην 格數性一致，所以意思是：沒人有「比這更偉大、更強烈 (BAGD) 的」愛 。
-	- 15:13b 同樣 ἵνα + 假設語氣 = 當作實名詞使用 (GGBB 474–76 = 中希 498 –99)，同位說明 15:13a 的 ταύτης。對照其他經文，耶穌其實已經在明示
+	- 15:13b 同樣 ἵνα + 假設語氣 = 當作實名詞使用 (GGBB 474–76 = 中希 498 –99)，同位說明 15:13a 的 ταύτης。從約13:31開始，耶穌就已經在暗示祂要離世，到了15:13進一步明示祂離世的方式就是為朋友捨命。
+		- φίλος 是形容詞當名詞用，意思是：親愛的朋友，不是泛泛之交。
 		- 約10:11 我是好牧人；好牧人為羊捨命。
 		- 1Jo 3:16 主為我們捨命，我們從此就知道何為愛；我們也當為弟兄捨命。
 		- 羅 5:8 惟有基督在我們還作罪人的時候為我們死，上帝的愛就在此向我們顯明了。
-- 上文 15:13b 剛說完「為朋友捨命的愛最大」，15:14a 馬上肯定宣告門徒的身分，從 δοῦλος (奴僕) 變成了 φίλος (朋友) ⇒ 言下之意，耶穌要為門徒捨命！
-- 15:14ab 是第三類條件句，先說結果子句 (你們是我的朋友)，再說條件子句 (如果你們遵守我所吩咐你們的) — 這裡要小心，不能被語法類別的專有名詞 (條件、結果) 給制約，誤以為是「用條件來跟耶穌交換」；同樣地，也不能解釋為「因果」(GGBB 682 = 中希 720) ⇒ 比較好的解釋是「證據—推論」(GGBB 683 = 中希 721)，因為 15:15d 就用 ὅτι 說明了當耶穌朋友的「因」是「耶穌已經把神的道告訴門徒了」。換言之，15:14ab 是從證據 (外在的行為 = 遵守彼此相愛的命令) 推論出門徒身分的改變 (朋友)。
-- 15:15ab 和 15:15cd 平行，都在說明身分轉變成朋友的關鍵 = 知道！
+- 上文 15:13b 剛說完「為朋友捨命的愛最大」，15:14a 馬上肯定宣告門徒的身分，從 δοῦλος (奴僕) 變成了 φίλος (親愛的朋友) ⇒ 言下之意，耶穌要為門徒捨命！
+- 15:14ab 是第三類條件句，先說結果子句 (14a 你們是我的朋友)，再說條件子句 (14b 如果你們遵守我所吩咐你們的) — 這裡要小心，不能被語法類別的專有名詞 (條件、結果) 給制約，誤以為是「用條件來跟耶穌交換」；同樣地，也不能解釋為「因果」(GGBB 682 = 中希 720) ⇒ 比較好的解釋是「證據—推論」(GGBB 683 = 中希 721)，因為 15:15d 就用 ὅτι 說明了當耶穌朋友的「因」是「耶穌已經把神的道告訴門徒了」。換言之，15:14ab 是從證據 (外在的行為 = 遵守彼此相愛的命令) 推論出門徒身分的改變 (朋友)。
+	- 14b 的 ποιῆτε 現在式，表達動作內部、持續發生的觀點。關係代名詞 ἃ 帶出來的內嵌子句，當作 ποιῆτε 的補語 (C)。
+	- 內嵌子句裡面的 ἐγὼ 有強調含意，動詞 ἐντέλλομαι 用關身語態，表達主詞 (我) 與動作 (吩咐) 
+- 15:15ab 和 15:15cd 平行，都在說明身分轉變成朋友的關鍵 = 知道！可見讀聖經、認識神的心意極其重要！
 	- 15:15ab 不知道主人的作為 = 僕人
 		- 最後晚餐講論中，也肯定耶穌和門徒是主僕關係 (約13:12–17)，但這裡更進一步提升到了朋友的關係。
 	- 15:15cd 知道主人的心意 (耶穌從天父所領受的) = 朋友
+		- εἴρηκα 用現在完成式，表達狀態 (stative) 的觀點，語意份量最重，強調先前行動所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08) ⇒ 意思是：耶穌**已經**稱門徒為朋友了！
 - _(1c) 彼此相愛是因著耶穌的撿選 (15:16)_
 - 15:16 兩個關鍵字：撿選 (ἐξελέξασθε)、指派 (ἔθηκα)，呼應大使命 (太28:19–20)
 	- 太28:19–20 所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。凡我所吩咐你們的，都教訓他們遵守，我就常與你們同在，直到世界的末了。」
