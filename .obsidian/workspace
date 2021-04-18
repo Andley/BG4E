@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW4-Key.md",
+            "file": "數位工具.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW4-Key.md",
+                "file": "數位工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW4-Key.md"
+                "file": "數位工具.md"
               }
             }
           },
@@ -137,6 +137,8 @@
   },
   "active": "5d45b9cebfa660f6",
   "lastOpenFiles": [
+    "數位工具.md",
+    "Gal 6.1–5.md",
     "IBG4E/HW4-Key.md",
     "IBG4E/HW3-Key.md",
     "IBG4E/HW5-Key.md",
@@ -144,8 +146,6 @@
     "Syntax/§3b2.md",
     "Syntax/IBG4E-Syntax.md",
     "Syntax/§3a.md",
-    "Gal 6.1–5.md",
-    "Untitled.md",
-    "IBG4E/Untitled.md"
+    "Untitled.md"
   ]
 }
