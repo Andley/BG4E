@@ -95,10 +95,7 @@
   --color3:darkgreen;
   --color4:darkmagenta;
 }
-/* highlight active line */
-.workspace-leaf.mod-active .CodeMirror-activeline .CodeMirror-linebackground{
-  background-color: black;
-  }
+
 
 /* 標題顏色 */
 .titlebar-inner {
@@ -237,6 +234,8 @@ ul ul::before {
   top: 0;
   bottom: 0;
 }
+
+/*=== filename 字體變小 === */
 
 .nav-file-title, .nav-folder-title {
   display: flex;
