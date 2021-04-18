@@ -24,7 +24,7 @@
 	- <rt>16d</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμεῖς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>ὑπάγητε<rt>should go</rt></ruby><rt>ὑπάγω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P 
 	- <rt>16e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY>)C (<RUBY><ruby><ruby>φέρητε<rt>you should bear‚</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P 
 	- <rt>16f</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>καρπὸς<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby>μένῃ‚<rt>should remain;</rt></ruby><rt>μένω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P 
-		- <rt>16g</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>ὅ<rt>-</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY> <RUBY><ruby><ruby>τι<rt>whatever</rt></ruby><rt>τις</rt></ruby><rt>X-ASN</rt></RUBY>)<rt>c1</rt> (<RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>αἰτήσητε<rt>you might ask</rt></ruby><rt>αἰτέω</rt></ruby><rt>V-AAS-2P</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-ASM</rt></RUBY>)<rt>c2</rt> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>ὀνόματί<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)<rt>a</rt> }C1 (<RUBY><ruby><ruby>δῷ<rt>He may give</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
+	- <rt>16g</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>ὅ<rt>-</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY> <RUBY><ruby><ruby>τι<rt>whatever</rt></ruby><rt>τις</rt></ruby><rt>X-ASN</rt></RUBY>)<rt>c1</rt> (<RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>αἰτήσητε<rt>you might ask</rt></ruby><rt>αἰτέω</rt></ruby><rt>V-AAS-2P</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-ASM</rt></RUBY>)<rt>c2</rt> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>ὀνόματί<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)<rt>a</rt> }C1 (<RUBY><ruby><ruby>δῷ<rt>He may give</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 - *(1d) 彼此相愛是耶穌的命令 (15:17)*
 - <rt>17a</rt> (<RUBY><ruby><ruby>ταῦτα<rt>These things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby>ἐντέλλομαι<rt>I command</rt></ruby><rt>ἐντέλλω</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 	- <rt>17b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἀγαπᾶτε<rt>you love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλους.¶<rt>one another.</rt></ruby><rt>ἀλλήλων</rt></ruby><rt>C-APM</rt></RUBY>)C
@@ -119,13 +119,18 @@
 		- 15e 關係代名詞 ἃ 帶出來的內嵌子句，補充說明 15d 的 πάντα。ἃ 的性數與先行詞 πάντα 一致 (GGBB 336 = 中希 351)；ἃ 是直接受格，則是因為在內嵌子句裡面要當作 ἤκουσα 的補語。
 - _(1c) 彼此相愛是因著耶穌的撿選 (15:16)_
 - 15:16 兩個關鍵字：撿選 (ἐξελεξάμην)、分派 (ἔθηκα)，兩者都表明：(1) 神的主動，不是人找神，而是神找人⇒而且是神主動找人當朋友；(2) 神的預定，結果子 (16efg) 乃是神所預定、派任 (τίθημι BAGD)。
-	- 16b 標明主語 ἐγὼ，表示強調；動詞撿選 (ἐξελεξάμην) 的字典形應該是 ἐκλέγομαι，因為在新約中都是以關身語態出現，強調主詞的親身參與動作之中 (GGBB 414 = 中希 435)，或者是『（為自己）「選擇，挑選」』(BAGD) ⇒ 合起來的意思，就是：我親自挑選你們這些門徒。
+	- 16b ἀλλά 跟16a οὐχ 強烈對比；主語 ἐγὼ 特別標示出來，表示強調；動詞撿選 (ἐξελεξάμην) 的字典形應該是 ἐκλέγομαι，因為在新約中都是以關身語態出現，強調主詞的親身參與動作之中 (GGBB 414 = 中希 435)，或者是『（為自己）「選擇，挑選」』(BAGD) ⇒ 合起來的意思，就是：我親自挑選你們這些門徒。
 		- 可3:13 耶穌上了山，隨自己的意思叫人來；他們便來到他那裏。
 		- 路6:13 到了天亮，叫他的門徒來，就從他們中間挑選十二個人，稱他們為使徒。
 		- 弗1:4就如上帝從創立世界以前，在基督裏揀選了我們，使我們在他面前成為聖潔，無有瑕疵；
-	- 16c τίθημι 後面接 ἵνα 子句，表示預定、派任門徒去結果子 (BAGD)，從上下文 15:12, 17 彼此相愛首尾呼應來看，結果子具體的呈現就是彼此相愛。
-	- 16d ὑπάγω 呼應大使命 (太28:19–20)
-	- 太28:19–20 所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。凡我所吩咐你們的，都教訓他們遵守，我就常與你們同在，直到世界的末了。」
+	- 16c τίθημι 後面接 ἵνα 子句，表示耶穌預定、派任 (BAGD) 門徒的任務有三項，用三個假設語氣動詞說明門徒的任務：
+		- (a) 16d 去 (ὑπάγητε)
+		- (b) 16e 結果子 — 從上下文 15:12, 17 彼此相愛首尾呼應來看，結果子具體的呈現就是彼此相愛。
+		- (c) 16f 果子長存 (μένῃ)
+		- 這三項與大使命 (太28:19–20) 的語法結構不同，但觀念互通：(a) 去；(b) 施洗；(c) 教導 ⇒ 都是為了門訓
+			- 太28:19–20 所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。凡我所吩咐你們的，都教訓他們遵守
+	- 16g 的結構有兩種可能：
+		- (1) 擺在第三排，從屬於 16f — 意思是：16g「天父賞賜」是16f「果子長存」
 - _(1d) 彼此相愛是耶穌的命令 (15:17)_
 - 15:17 ἐντέλλομαι 呼應 15:12 ἐντολὴ 
 
