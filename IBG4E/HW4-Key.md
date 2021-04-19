@@ -64,7 +64,7 @@
 - <rt>25a</rt> <RUBY><ruby><ruby>ἀλλ᾽<rt>But [this is]</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πληρωθῇ<rt>may be fulfilled</rt></ruby><rt>πληρόω</rt></ruby><rt>V-APS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-NSM</rt></RUBY><RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> {…分詞內嵌子句…}‡ )S
 		- { (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>νόμῳ<rt>law</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>of them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GPM</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>γεγραμμένος<rt>having been written</rt></ruby><rt>γράφω</rt></ruby><rt><mark>V-RPP-NSM</mark></rt></RUBY>)<rt>p</rt> }‡
-		- <RUBY><ruby><ruby>ὅτι<rt>‑</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ἐμίσησάν<rt>They hated</rt></ruby><rt>μισέω</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)C (<RUBY><ruby><ruby>δωρεάν.¶<rt>without cause.’</rt></ruby><rt>δωρεάν</rt></ruby><rt>ADV</rt></RUBY>)A 
+		- <rt>25b</rt> <RUBY><ruby><ruby>ὅτι<rt>‑</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ἐμίσησάν<rt>They hated</rt></ruby><rt>μισέω</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)C (<RUBY><ruby><ruby>δωρεάν.¶<rt>without cause.’</rt></ruby><rt>δωρεάν</rt></ruby><rt>ADV</rt></RUBY>)A 
 
 - **(3) 在挑戰中與聖靈同做愛的見證 (15:26–27)**
 	- <rt>26a</rt> <RUBY><ruby><ruby>Ὅταν<rt>When</rt></ruby><rt>ὅταν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔλθῃ<rt>comes</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Παράκλητος<rt>Helper‚</rt></ruby><rt>παράκλητος</rt></ruby><rt>N-NSM</rt></RUBY>)S 
@@ -168,10 +168,21 @@
 	- 22a 特別之處在於：用同一個質詞 μὴ 來否定兩組假設條件 (我來 & 我對他們說)。這在句法上 (syntactically) 屬於 compound protasis (複合條件子句)，Wallace (GGBB 684 = 中希 722) 約略提及，但沒有舉出經文例子。目前我還沒有找到好的解釋，但在語意上 (semantically) 卻必須如此解釋。
 	- 22c 是結果子句：他們就沒有罪——這話不能解釋成他們無罪，而是指他們沒有 15:18–21『恨惡、逼迫耶穌以及門徒的罪』。
 	- 第二類條件句的意思是：假設條件不成立 ⇒ 換言之，耶穌確實來了，耶穌確實對他們說了，而結果是：他們確實有罪。
-- 22d 更指出他們的罪沒有任何藉口 (無可推諉)。
+- 22d 更指出他們的罪沒有任何藉口 (無可推諉)。放在耶穌最後對門徒勸勉的上下文裡推敲，耶穌之所以要說這話，目的不單只是宣告世人有罪，而是為了要安慰門徒，即便面對挑戰 (恨惡 & 逼迫)，但門徒是站在正確的那一邊。恨惡、逼迫門徒的世人，必定會受到最後的審判！
 - _(2d) 更不能心存僥倖——因為聖經早已預先寫明了 (15:23–25)_
 - 15:23 用分詞內嵌子句 ἐμὲ μισῶν 當形容詞用，前面加上冠詞 Ὁ 之後成為 T—A 結構的實名詞，當成整個子句的主語。
-- 15:24abc 是一整個第二類條件句
+- 24abc 是一整個第二類條件句，與 15:22 前後呼應，論證耶穌的言行，是世人雙重定罪的依據。15:22 講耶穌的『言』，15:24a講耶穌的『行』，尤其是15:24b那些沒有別人做過的事 (約翰福音裡面記載的七個神蹟 ＋耶穌自己死裡復活) ⇒ 這些神蹟證明了耶穌的神性，世人不信 ＝ 世人不相信耶穌是神！
+	- 迦拿婚宴使水變酒 (John 2:1–11)
+	- 遠距醫治大臣的兒子 (John 4:46–54)
+	- 醫好畢士大池邊的癱子 (John 5:1–9)
+	- 五餅二魚 (John 6:5–14)
+	- 海面行走 (John 6:17–21)
+	- 醫好生來瞎眼的人 (John 9:1–7)
+	- 拉撒路死裡復活 (John 11:1–44)
+- 24d–25b 用 δὲ 推進耶穌的論點，並且說明世人逼迫信徒背後的原因。
+	- 24d 但現在他們也看見了。動詞 ἑωράκασιν 用現在完成式，表達狀態 (stative) 的觀點，語意份量最重，強調先前行動所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08)。
+	- 24e 而且他們既恨了我、又恨了天父，動詞 μεμισήκασιν 還是用現在完成式，表達狀態 (stative) 的觀點，語意份量最重，連續兩個現在完成式
+- 當整個子句比較時，ἀλλά表示轉變到不同或相反的事上 (BAGD)
 - ---
 - **(3) 在挑戰中與聖靈同做愛的見證 (15:26–27)**
 
