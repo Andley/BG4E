@@ -55,7 +55,7 @@
 - <rt>22c</rt> (<RUBY><ruby><ruby>ἁμαρτίαν<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>εἴχοσαν·<rt>they would have had;</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P 
 - <rt>22d</rt> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πρόφασιν<rt>excuse</rt></ruby><rt>πρόφασις</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἔχουσιν<rt>they have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>περὶ<rt>for</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν.<rt>of them.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GPM</rt></RUBY>)A3 
 - *(2d) 更不能心存僥倖——因為聖經早已預先寫明了 (15:23–25)*
-- <rt>23</rt> { (<RUBY><ruby><ruby>Ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>)<rt>s</rt> (<RUBY><ruby><ruby>ἐμὲ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>μισῶν<rt>hating‚</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)<rt>p</rt> }S (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>μισεῖ.<rt>hates.</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
+- <rt>23</rt> (<RUBY><ruby><ruby>Ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> {<RUBY><ruby><ruby>ἐμὲ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby>μισῶν<rt>hating‚</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY>} )S (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>μισεῖ.<rt>hates.</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 	- <rt>24a</rt> <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔργα<rt>works</rt></ruby><rt>ἔργον</rt></ruby><rt>N-APN</rt></RUBY>)C (<RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐποίησα<rt>I had done</rt></ruby><rt>ποιέω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>among</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς<rt>them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A2 
 		- <rt>24b</rt> (<RUBY><ruby><ruby>ἃ<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APN</rt></RUBY>)C (<RUBY><ruby><ruby>οὐδεὶς<rt>no</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἄλλος<rt>other</rt></ruby><rt>ἄλλος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐποίησεν‚<rt>has done‚</rt></ruby><rt>ποιέω</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P 
 - <rt>24c</rt> (<RUBY><ruby><ruby>ἁμαρτίαν<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>εἴχοσαν·<rt>they would have had;</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P 
@@ -165,9 +165,13 @@
 	- 21b 點出根源問題：因為世人不認識那位差遣耶穌來到世上的神！
 - _(2c) 但是別難過——因為世人的罪無可推諉 (15:22)_
 - 22abc εἰ 帶出用 μὴ 否定的第二類條件句 (GBB 694–96 = 中希 732–34)。
-	- 22a 特別之處在於：用同一個質詞 μὴ 來否定兩組假設條件 (我來 & 我對他們說)。這在句法上 (syntactically) 我還沒有找到好的解釋，但在語意上 (semantically) 卻必須如此解釋。
-	- 
+	- 22a 特別之處在於：用同一個質詞 μὴ 來否定兩組假設條件 (我來 & 我對他們說)。這在句法上 (syntactically) 屬於 compound protasis (複合條件子句)，Wallace (GGBB 684 = 中希 722) 約略提及，但沒有舉出經文例子。目前我還沒有找到好的解釋，但在語意上 (semantically) 卻必須如此解釋。
+	- 22c 是結果子句：他們就沒有罪——這話不能解釋成他們無罪，而是指他們沒有 15:18–21『恨惡、逼迫耶穌以及門徒的罪』。
+	- 第二類條件句的意思是：假設條件不成立 ⇒ 換言之，耶穌確實來了，耶穌確實對他們說了，而結果是：他們確實有罪。
+- 22d 更指出他們的罪沒有任何藉口 (無可推諉)。
 - _(2d) 更不能心存僥倖——因為聖經早已預先寫明了 (15:23–25)_
+- 15:23 用分詞內嵌子句 ἐμὲ μισῶν 當形容詞用，前面加上冠詞 Ὁ 之後成為 T—A 結構的實名詞，當成整個子句的主語。
+- 15:24abc 是一整個第二類條件句
 - ---
 - **(3) 在挑戰中與聖靈同做愛的見證 (15:26–27)**
 
