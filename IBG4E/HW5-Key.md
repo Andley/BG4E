@@ -30,7 +30,7 @@
 			- {<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt>	</ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀποκτανθῆναι<rt>to be killed‚</rt></ruby><rt>ἀποκτείνω</rt></ruby><rt>V-APN</rt></RUBY> }C3
 			- {<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μετὰ<rt>after</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τρεῖς<rt>three</rt></ruby><rt>τρεῖς, τρία</rt></ruby><rt>A-APF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>days</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-APF</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>ἀναστῆναι·<rt>to rise [again].</rt></ruby><rt>ἀνίστημι</rt></ruby><rt>V-2AAN</rt></RUBY>)<rt>p</rt> }C4
 - <rt>8:32a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>παρρησίᾳ<rt>openly</rt></ruby><rt>παρρησία</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐλάλει.<rt>He was speaking.</rt></ruby><rt>λαλέω</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P 
-- <rt>8:32b</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>προσλαβόμενος<rt>having taken Him</rt></ruby><rt>προσλαμβάνω</rt></ruby><rt>V-2AMP-NSM</rt></RUBY>)A<sub>-</sub> (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πέτρος<rt>Peter</rt></ruby><rt>Πέτρος</rt></ruby><rt>N-NSM-P</rt></RUBY>)S <sub>-</sub>A(<RUBY><ruby><ruby>αὐτὸν<rt>to him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>) (<RUBY><ruby><ruby>ἤρξατο<rt>he began</rt></ruby><rt>ἄρχω</rt></ruby><rt>V-ADI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>ἐπιτιμᾶν<rt>to rebuke</rt></ruby><rt><mark>ἐπιτιμάω</mark></rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ.<rt>Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>}C 
+- <rt>8:32b</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>προσλαβόμενος<rt>having taken Him</rt></ruby><rt>προσλαμβάνω</rt></ruby><rt>V-2AMP-NSM</rt></RUBY> }A<sub>-</sub> (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πέτρος<rt>Peter</rt></ruby><rt>Πέτρος</rt></ruby><rt>N-NSM-P</rt></RUBY>)S <sub>-</sub>A{ <RUBY><ruby><ruby>αὐτὸν<rt>to him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> } (<RUBY><ruby><ruby>ἤρξατο<rt>he began</rt></ruby><rt>ἄρχω</rt></ruby><rt>V-ADI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>ἐπιτιμᾶν<rt>to rebuke</rt></ruby><rt><mark>ἐπιτιμάω</mark></rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ.<rt>Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>}C 
 - <rt>8:33a</rt> (<RUBY><ruby><ruby>Ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>And</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐπιστραφεὶς<rt>having turned</rt></ruby><rt>ἐπιστρέφω</rt></ruby><rt>V-2APP-NSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἰδὼν<rt>having looked upon</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>μαθητὰς<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐπετίμησεν<rt>He rebuked</rt></ruby><rt><mark>ἐπιτιμάω</mark></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>Πέτρῳ<rt>Peter</rt></ruby><rt>Πέτρος</rt></ruby><rt>N-DSM-P</rt></RUBY>)C 
 - <rt>8:33b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>λέγει·<rt>said‚</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>8:33c</rt> (<RUBY><ruby><ruby>Ὕπαγε<rt>Get</rt></ruby><rt>ὑπάγω</rt></ruby><rt>V-PAM-2S</rt></RUBY>)P (<RUBY><ruby><ruby>ὀπίσω<rt>behind</rt></ruby><rt>ὀπίσω</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>μου‚<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C <RUBY><ruby><ruby>Σατανᾶ‚<rt>Satan‚</rt></ruby><rt>Σατανᾶς</rt></ruby><rt>N-VSM-T</rt></RUBY> 
@@ -101,12 +101,26 @@
 		- 33a 耶穌 ⇒ 彼得：比較像是「斥責」
 	- 30b 不准門徒說關於耶穌 ——應該是指「不准告訴別人耶穌就是基督」，原因可能是因為就連門徒現階段對耶穌的認識還不完全，只知道耶穌是基督，但心中還以為是復興以色列國的政治軍事救星 (徒1:6)，還在想耶穌登基的時候分一杯羹 (可10:35–37)，所以耶穌要等到死裡復活之後 (可9:9)，才頒布去傳揚耶穌身分的大使命 (太28:19–20; 可16:15–20)。
 - ---
-- 8:31a 動詞 ἄρχω 後面接不定詞內嵌子句當補語，說明：彼得認信的轉捩點之後，耶穌開始教導門徒認識神子的另外一面 (受苦)。
+- 8:31–32a 宣告耶穌身分所代表的意義 = 受苦。
+	- 31a 動詞 ἄρχω 後面接不定詞內嵌子句當補語，說明：彼得認信的轉捩點之後，耶穌開始教導門徒認識神子的另外一面 (受苦)。
 	- 31b 動詞 δεῖ 之後帶出四組不定詞內嵌子句的補語 C1~C4，說明人子 (耶穌) 必須經歷的四樣苦難：
 		- (1) 要忍受許多事情。πολλὰ 用中性複數，表示要忍受、受苦的事情很多。
 		- (2) 要被猶太領袖棄絕。ἀποδοκιμασθῆναι 有經細查之後「宣告無用」的意思 (BAGD)，暗示耶穌要被當時的三大主流當權派 (長老、大祭司、文士) 審問檢驗，然後被判定是該被丟棄的。
 		- (3) 要被殺害。這是耶穌第一次預告受死，之後連續兩次預告 (可9:31–32; 10:32–34)，把死亡的方式講得越來越清楚。
 		- (4) 三天之後要復活。
+	- 32a παρρησίᾳ 是間接受格當狀語 (A) 使用，修飾主要動詞。τὸν λόγον 是單數，指 31b 裡提到的四件事情其實合起來是一句話，一氣呵成，環環相扣，不可分割。
+- 8:32b 相較 8:29cd 的聖靈充滿，此刻的彼得已經被自己對彌賽亞的預設給迷了心竅，甚至大膽到把耶穌拉到一邊 (προσλαβόμενος)，開始 ἐπιτιμάω (非難、責備、責怪、數落) 耶穌。
+	- ἐπιτιμᾶν 用現在式，表達動作內部、持續的觀點，好像彼得一直在數落耶穌不該如此說話 ……
+- 8:33a 冠詞 Ὁ 當作代名詞使用 (GGBB 211–12 = 中希 219–21)；δέ 表達進展，耶穌轉過身來，看著眾門徒，斥責 (ἐπετίμησεν) 彼得 —— 有一點罵給大家看的感覺。換句話說，很可能彼得的想法也是大家的想法，只是沒像彼得說出口罷了。
+- 8:33b 耶穌斥責的內容
+	- (1) 33c 別擋路，滾我後面去！命令語氣，情詞迫切。Σατανᾶ ⇒ 言下之意，阻擋耶穌道路的都是魔鬼！
+	- (2) 33d 說明你 (彼得) or 你們 (其他門徒也在內) 會擋路的原因：你們不 φρονεῖς (「專心，一心一意」) 於那些歸屬於上帝的事，只專注於屬於人的事。這裡的 τοῦ Θεοῦ 應該是 possessive 用法 (GGBB 81–83 = 中希 80–82)。
+		- 神的事 = 神的旨意、救恩計畫的成就；人的事 = 以色列國家復興 (徒1:6)，如何能分一杯羹 (可10:35–37)。
+- ---
+- 8:34–38 是一個段落，耶穌公開宣告做門徒的代價與獎賞，有點公告徵人的味道。結構上：
+	- (1) 門徒的代價 (34bcde)
+	- (2) 接著用四組 γὰρ 帶出來的對等子句，進一步闡述 (1)。關鍵字 ψυχή 連續出現四次，表示跟隨ㄧ
+		- (2a) 
 
 
 
