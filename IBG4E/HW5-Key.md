@@ -5,7 +5,7 @@
 
 - <rt>8:27a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐξῆλθεν<rt>went forth</rt></ruby><rt>ἐξέρχομαι</rt></ruby><rt>V-2AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>κώμας<rt>villages</rt></ruby><rt>κώμη</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>Καισαρείας<rt>of Caesarea</rt></ruby><rt>Καισάρεια</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Φιλίππου·<rt>Philippi.</rt></ruby><rt>Φίλιππος</rt></ruby><rt>N-GSM-P</rt></RUBY>)A 
 - <rt>8:27b</rt><RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>on</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ὁδῷ<rt>way‚</rt></ruby><rt>ὁδός</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby>ἐπηρώτα<rt>He was questioning</rt></ruby><rt>ἐπερωτάω</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>μαθητὰς<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>λέγων<rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A 
-	- <rt>8:27c</rt> { (<RUBY><ruby><ruby>Τίνα<rt>Whom</rt></ruby><rt>τίς</rt></ruby><rt>I-ASM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)<rt>s</rt> }C<sub>-</sub> (<RUBY><ruby><ruby>λέγουσιν<rt>do pronounce</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>οἱ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωποι<rt>men</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NPM</rt></RUBY>)S <sub>-</sub>{ (<RUBY><ruby><ruby>εἶναι;<rt>to be?</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> }C
+	- <rt>8:27c</rt> { (<RUBY><ruby><ruby>Τίνα<rt>Whom</rt></ruby><rt>τίς</rt></ruby><rt>I-ASM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)<rt>s</rt> }C<sub>-</sub> (<RUBY><ruby><ruby>λέγουσιν<rt>do pronounce</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>οἱ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωποι<rt>men</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NPM</rt></RUBY>)S <sub>-</sub>C{ (<RUBY><ruby><ruby>εἶναι;<rt>to be?</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> }
 - <rt>8:28a</rt> (<RUBY><ruby><ruby>Οἱ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>And</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἶπαν<rt>they answered</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ<rt>Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)C (<RUBY><ruby><ruby>λέγοντες<rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A 
 	- <rt>8:28b</rt> <RUBY><ruby><ruby>ὅτι<rt>‑‚</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby><ruby>Ἰωάννην<rt>John</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Βαπτιστήν‚<rt>Baptist;</rt></ruby><rt>Βαπτιστής</rt></ruby><rt>N-ASM</rt></RUBY> 
@@ -79,10 +79,21 @@
 	- 總之，本段經文 (8:27–9:1) 可說是馬可福音的中心轉捩點，是耶穌門訓的進階班：前半 (可1–8) 強調神子的**大能**，後半 (可9–16) 凸顯神子的**受苦與復活**。
 - ---
 - 8:27a 主詞有兩組：耶穌 & 門徒，這是所謂的複合主詞 (GGBB 401–02 = 中希 421–22) 文法上理當是複數——但動詞 ἐξῆλθεν 卻是單數，這是為了要凸顯 ὁ Ἰησοῦς (耶穌)。
-	- τῆς(GSF) Φιλίππου(GSM) 的文法性別不同，所以不能把 Καισαρείας τῆς Φιλίππου 理解成 Caesarea of the Philippi，而是要把 τῆς 理解成跟 Caesarea 同位。結構會是：
+	- τῆς(GSF) Φιλίππου(GSM) 的文法性別不同，所以不能把 Καισαρείας τῆς Φιλίππου 理解成 Caesarea of the Philippi，而是要把 τῆς 理解成跟 Caesarea 同位，有別於另外一個凱撒利亞 (徒10:1)。結構會是：
 		- Caesarea = the (省略 Caesarea) of Philippi，翻譯成：…… 該撒利亞，那個屬於腓力 (分封王，可6:17) 的該撒利亞。
-- 8:27b 耶穌門訓的方式：
-	- 非常生活化，不在教室，而在路上 (ἐν τῇ ὁδῷ)
-	- ἐπηρώτα 
+- 8:27bc 耶穌門訓：
+	- 27b 耶穌門訓的方式非常生活化，不在教室，而在路上 (ἐν τῇ ὁδῷ)
+	- 27b 動詞 ἐπηρώτα 用不完成式，表達動作內部持續的觀點，好像耶穌在路上不停地問。ἐπηρώτα (字典形 ἐπερωτάω) 的語氣比一般的詢問來得強 (LN 33.161)，可能表示耶穌抓著這個問題不放，要門徒回答。
+	- 27c 的結構比較特別，不定詞內嵌子句分成前後兩半，合起來當作主要動詞 λέγουσιν (他們說) 的補語 (C)。
+		- 不定詞子句的動詞是 εἰμί，Τίνα 和 με 都是直接受格，但因為代名詞有優先權，所以內嵌子句的主語是 με，補語是疑問代名詞 Τίνα。
+- 8:28a–f 是門徒一連串的回答，省略很多字，必須從上下文去推敲。
+	- 28a 單獨用冠詞 Οἱ 當作主語 (GGBB 211–22 = 中希 219–20)，代表門徒，感覺上有點門徒七嘴八舌地回答。
+	- 28bcdef 施洗約翰、以利亞、先知中的一位——跟可6:14–16 的猜測相同。
+- 8:29 但耶穌真正要知道的是門徒的想法，因為耶穌是在門訓！
+	- 29a 主語 αὐτὸς 前置，表示強調，可以翻譯成：耶穌親自詢問他們。
+	- 29b 主語 Ὑμεῖς 前置，表示強調，可以翻譯成：你們自己說 ……
+		- 不定詞內嵌子句的結構用法和 8:27c 相同。
+	- 29c 彼得被聖靈充滿 (太16:17)，回答到位 (你是基督)！
+		- 不過跟太16:16相比，少了「是永生神的兒子」這一句，可能是因為馬可
 
 ## 大綱 (Outline)
