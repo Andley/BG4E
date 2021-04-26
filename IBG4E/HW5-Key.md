@@ -65,6 +65,7 @@
 				- <rt>9:1e</rt> <RUBY><ruby><ruby>ἕως<rt>until</rt></ruby><rt>ἕως</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>ἴδωσιν<rt>they see</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βασιλείαν<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> {<RUBY><ruby><ruby>ἐληλυθυῖαν<rt>having come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2RAP-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>with</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δυνάμει.¶<rt>power.</rt></ruby><rt>δύναμις</rt></ruby><rt>N-DSF</rt></RUBY>} )C
 
 ## 解經 (Exegesis)
-
+- 思路：
+	- 馬可福音的主題是：耶穌基督是「神子」(可1:1; 15:39 首尾呼應)。整卷書
 
 ## 大綱 (Outline)
