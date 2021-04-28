@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "43d44d18841120b6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW5-Key.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "25eea315fc526ea6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW5-Key.md",
-            "mode": "preview"
+            "file": "IBG4E/HW4-Key.md",
+            "mode": "source"
           }
         }
       }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170,
-    "collapsed": true
+    "width": 170
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW5-Key.md",
+                "file": "IBG4E/HW4-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW5-Key.md"
+                "file": "IBG4E/HW4-Key.md"
               }
             }
           },
@@ -136,13 +124,13 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "43d44d18841120b6",
+  "active": "25eea315fc526ea6",
   "lastOpenFiles": [
+    "IBG4E/HW4-Key.md",
     "IBG4E/HW5-Key.md",
     "Syntax/Aspect.md",
     "Syntax/IBG4E-Syntax.md",
     "IBG4E/HW5.md",
-    "IBG4E/HW4-Key.md",
     "IBG4E/HW3-Key.md",
     "數位工具.md",
     "Gal 6.1–5.md",
