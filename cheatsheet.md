@@ -37,8 +37,7 @@ __*斜粗體*__
 ---
 `code`
 
-強迫分頁碼
-<div class\="page"/\>
+
 
 ### HTML 特殊
 <div style="page-break-after: always;"></div>
