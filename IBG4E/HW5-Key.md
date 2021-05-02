@@ -2,7 +2,8 @@
 
 
 ## 圖析 (Syntax Diagram)
-
+##### (1) 認識耶穌 (8:27–33)
+###### (1a) 耶穌的身分：大能的彌賽亞 (8:27–30)
 - <rt>8:27a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐξῆλθεν<rt>went forth</rt></ruby><rt>ἐξέρχομαι</rt></ruby><rt>V-2AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>κώμας<rt>villages</rt></ruby><rt>κώμη</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>Καισαρείας<rt>of Caesarea</rt></ruby><rt>Καισάρεια</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Φιλίππου·<rt>Philippi.</rt></ruby><rt>Φίλιππος</rt></ruby><rt>N-GSM-P</rt></RUBY>)A 
 - <rt>8:27b</rt><RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>on</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ὁδῷ<rt>way‚</rt></ruby><rt>ὁδός</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby>ἐπηρώτα<rt>He was questioning</rt></ruby><rt>ἐπερωτάω</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>μαθητὰς<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>λέγων<rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSM</rt></RUBY><RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A 
 	- <rt>8:27c</rt> { (<RUBY><ruby><ruby>Τίνα<rt>Whom</rt></ruby><rt>τίς</rt></ruby><rt>I-ASM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)<rt>s</rt> }C<sub>-</sub> (<RUBY><ruby><ruby>λέγουσιν<rt>do pronounce</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>οἱ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωποι<rt>men</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NPM</rt></RUBY>)S <sub>-</sub>C{ (<RUBY><ruby><ruby>εἶναι;<rt>to be?</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> }
@@ -21,7 +22,7 @@
 - <rt>8:30a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐπετίμησεν<rt>He warned</rt></ruby><rt><mark>ἐπιτιμάω</mark></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς<rt>them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C 
 	- <rt>8:30b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 		- (<RUBY><ruby><ruby>μηδενὶ<rt>no one</rt></ruby><rt>μηδείς</rt></ruby><rt>A-DSM</rt></RUBY>)C (<RUBY><ruby><ruby>λέγωσιν<rt>they should tell</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A 
-- ---
+###### (1b) 耶穌的使命：受苦的人子 (8:31–33)
 - <rt>8:31a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤρξατο<rt>He began</rt></ruby><rt>ἄρχω</rt></ruby><rt>V-ADI-3S</rt></RUBY>)P { (<RUBY><ruby><ruby>διδάσκειν<rt>to teach</rt></ruby><rt>διδάσκω</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>αὐτοὺς<rt>them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-APM</rt></RUBY>)<rt>c</rt> }C
 	- <rt>8:31b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 		- (<RUBY><ruby><ruby>δεῖ<rt>it is necessary for</rt></ruby><rt>δέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
@@ -37,14 +38,17 @@
 		- <rt>8:33d</rt> <RUBY><ruby><ruby>ὅτι<rt>for</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 			- (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>φρονεῖς<rt>you have in mind</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAI-2S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>things</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)C 
 			- <rt>8:33e</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>things</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπων.¶<rt>of men.</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-GPM</rt></RUBY>)C 
-- ---
+##### (2) 跟隨耶穌 (8:34–38)
+- **(2a) 跟隨耶穌的代價 (8:34)**
 - <rt>8:34a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>προσκαλεσάμενος<rt>having called to [Him]</rt></ruby><rt>προσκαλέω</rt></ruby><rt>V-ADP-NSM</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ὄχλον<rt>crowd</rt></ruby><rt>ὄχλος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>σὺν<rt>with</rt></ruby><rt>σύν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταῖς<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)<rt>c</rt> }A (<RUBY><ruby><ruby>εἶπεν<rt>He said</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C 
 	- <rt>8:34b</rt> 
 		- <RUBY><ruby><ruby>Εἴ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>θέλει<rt>desires</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P { (<RUBY><ruby><ruby>ὀπίσω<rt>after</rt></ruby><rt>ὀπίσω</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>μου<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>ἀκολουθεῖν‚<rt>to follow‚</rt></ruby><rt>ἀκολουθέω</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> }C 
 	- <rt>8:34c</rt> (<RUBY><ruby><ruby>ἀπαρνησάσθω<rt>let him deny</rt></ruby><rt>ἀπαρνέομαι</rt></ruby><rt>V-ADM-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἑαυτὸν<rt>himself‚</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-3ASM</rt></RUBY>)C 
 	- <rt>8:34d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀράτω<rt>let him take up</rt></ruby><rt>αἴρω</rt></ruby><rt>V-AAM-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>σταυρὸν<rt>cross</rt></ruby><rt>σταυρός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C 
 	- <rt>8:34e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκολουθείτω<rt>let him follow</rt></ruby><rt>ἀκολουθέω</rt></ruby><rt>V-PAM-3S</rt></RUBY>)P (<RUBY><ruby><ruby>μοι.<rt>Me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)C 
-	- ---
+
+##### (2b) sdcsdccs
+- 
 	- <rt>8:35a</rt> «<RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
 	- { (<RUBY><ruby><ruby>ὃς<rt>Whoever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)<rt>s</rt> ... (<RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>θέλῃ<rt>might desire</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>life</rt></ruby><rt><mark>ψυχή</mark></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>his</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>σῶσαι<rt>to save‚</rt></ruby><rt>σῴζω</rt></ruby><rt>V-AAN</rt></RUBY>)<rt>c</rt> }S (<RUBY><ruby><ruby>ἀπολέσει<rt>will lose</rt></ruby><rt>ἀπολλύω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτήν·<rt>it;</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASF</rt></RUBY>)C 
 	- <rt>8:35b</rt> «<RUBY><ruby><ruby>δ᾽<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>» 
@@ -72,12 +76,11 @@
 ## 解經 (Exegesis)
 - 思路 (flow)：
 	- 馬可福音的主題是：耶穌基督是「神子」(可1:1; 15:39 首尾呼應)。前半 (可1–8) 用耶穌的言行 & 神蹟奇事，來證明耶穌是**大能的**神子。只是門徒領悟得緩慢，從不知道 (可4:41) → 愚頑 (可6:52) → 不明白 (可7:17–18) → 還是愚頑 (可8:17)；相較之下，魔鬼卻知道耶穌是誰 (可1:24; 3:11; 5:7; 7:28)。到了後半段 (可9–16) 則是要凸顯神子的**受苦與復活**。因此，本段經文 (8:27–9:1) 可說是馬可福音的中心轉捩點，是耶穌門訓進階班的開始。
-	- 耶穌主動提出「人說我是誰」的問題來門訓 (8:27–28)。但耶穌真正在意的卻是門徒的理解 (8:29ab) 。在彼得認出耶穌身分 (基督＝彌賽亞 8:29cd) 的一個重要面向 (耶穌 = 彌賽亞) 之後，接下來開始門訓的新階段，向門徒啟示祂身分的另一個面向：耶穌是**受苦的**神子 (8:31–33)。
-	- 接著耶穌公開 (對群眾 & 門徒) 說明跟隨耶穌、做門徒所要付上的代價 (捨己、背十字架、跟隨，8:34)，跟隨耶穌的獎賞 (= 生命，8:35–37)，以及不跟隨耶穌的後果 (8:38)。
-	- 最後預告神國再次降臨時的榮耀能力 (9:1)，並銜接下文登山變像 (9:2–13) 的段落。
-	- 總之，本段重點有二：
-		- (1) 神的恩典——耶穌為我們受苦、受死、復活 (8:31)
-		- (2) 人的回應——
+	- 耶穌主動提出「人說我是誰」的問題來門訓 (8:27–28)。但耶穌真正在意的卻是門徒的理解 (8:29ab) 。在彼得認出耶穌身分 (希臘文基督＝希伯來文彌賽亞，8:29cd) 的一個重要面向 (耶穌 = 彌賽亞) 之後，接下來開始門訓的新階段，向門徒啟示祂身分的另一個面向：耶穌是**受苦的**神子 (8:31–33)。
+	- 接著耶穌公開 (對群眾 & 門徒) 說明跟隨耶穌、做門徒所要付上的代價 (捨己、背十字架、跟隨，8:34)，跟隨耶穌的獎賞 (= 生命，8:35–37)，以及不跟隨耶穌的後果 (8:38)。最後預告神國再次降臨時的榮耀能力 (9:1)，並銜接下文登山變像 (9:2–13) 的段落。
+	- 本段重點有二：
+		- (1) 耶穌的身分：耶穌是是要為我們受苦、受死、復活的那位彌賽亞 (賽52:13–53:12)
+		- (2) 門徒的
 - ---
 - 8:27a 主詞有兩組：耶穌 & 門徒，這是所謂的複合主詞 (GGBB 401–02 = 中希 421–22) 文法上理當是複數——但動詞 ἐξῆλθεν 卻是單數，這是為了要凸顯 ὁ Ἰησοῦς (耶穌)。
 	- τῆς(GSF) Φιλίππου(GSM) 的文法性別不同，所以不能把 Καισαρείας τῆς Φιλίππου 理解成 Caesarea of the Philippi，而是要把 τῆς 理解成跟 Caesarea 同位，有別於另外一個凱撒利亞 (徒10:1)。結構會是：
