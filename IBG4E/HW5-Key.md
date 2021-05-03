@@ -53,11 +53,11 @@
 	- { (<RUBY><ruby><ruby>ὃς<rt>Whoever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)<rt>s</rt> ... (<RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a</rt> (<RUBY><ruby><ruby>θέλῃ<rt>might desire</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>life</rt></ruby><rt><mark>ψυχή</mark></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>his</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>σῶσαι<rt>to save‚</rt></ruby><rt>σῴζω</rt></ruby><rt>V-AAN</rt></RUBY>)<rt>c</rt> }S (<RUBY><ruby><ruby>ἀπολέσει<rt>will lose</rt></ruby><rt>ἀπολλύω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτήν·<rt>it;</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASF</rt></RUBY>)C 
 	- <rt>8:35b</rt> «<RUBY><ruby><ruby>δ᾽<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>» 
 	- { (<RUBY><ruby><ruby>ὃς<rt>whoever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)<rt>s</rt> ... (<RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY>)<rt>a1</rt> (<RUBY><ruby><ruby>ἀπολέσει<rt>will lose</rt></ruby><rt>ἀπολλύω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>life</rt></ruby><rt><mark>ψυχή</mark></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>ἕνεκεν<rt>on account of</rt></ruby><rt>ἕνεκα, εἵνεκεν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοῦ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel‚</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY>)<rt>a2</rt> }S (<RUBY><ruby><ruby>σώσει<rt>he will save</rt></ruby><rt>σῴζω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτήν.<rt>it.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASF</rt></RUBY>)C
-	- <rt>8:36a</rt> «<RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
+	- <rt>8:36</rt> «<RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
 	- (<RUBY><ruby><ruby>Τί<rt>What</rt></ruby><rt>τίς</rt></ruby><rt>I-<font color='red'>A</font>SN</rt></RUBY>)C1 ... (<RUBY><ruby><ruby>ὠφελεῖ<rt>does it profit</rt></ruby><rt>ὠφελέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄνθρωπον<rt>a man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-ASM</rt></RUBY>)C2 
 		- { (<RUBY><ruby><ruby>κερδῆσαι<rt>to gain</rt></ruby><rt>κερδαίνω</rt></ruby><rt>V-AAN</rt></RUBY>)<rt>p1</rt> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόσμον<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ὅλον<rt>whole</rt></ruby><rt>ὅλος</rt></ruby><rt>A-ASM</rt></RUBY>)<rt>c1</rt> 
 		- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ζημιωθῆναι<rt>to lose</rt></ruby><rt>ζημιόω</rt></ruby><rt>V-APN</rt></RUBY>)<rt>p2</rt> (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ψυχὴν<rt>soul</rt></ruby><rt><mark>ψυχή</mark></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ;<rt>of him?</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)<rt>c2</rt> }S
-	- <rt>8:37a</rt> «<RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
+	- <rt>8:37</rt> «<RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
 	- (<RUBY><ruby><ruby>τί<rt>What</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>)C ... (<RUBY><ruby><ruby>δοῖ<rt>shall give</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄνθρωπος<rt>a man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀντάλλαγμα<rt>[as] an exchange</rt></ruby><rt>ἀντάλλαγμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>for the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ψυχῆς<rt>soul</rt></ruby><rt><mark>ψυχή</mark></rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ;<rt>of him?</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A 
 ###### (2c) 不跟隨的後果 (8:38)
 - 
@@ -125,12 +125,17 @@
 	- (c) ἀκολουθείτω 第三人稱，意思是「他必須跟從」。
 	- 就動詞觀點而言，前兩個 (捨、背) 都是 perfective aspect (完整觀點)，第三個 (跟從) 是 imperfective aspect (不完整觀點)。按照 Porter 論述層面 (planes of discourse) 的說法 (IGNT 23)：跟從是舞台的前景，是耶穌要凸顯的重點；捨、背是舞台的背景。
 - 8:35–38用四組 γὰρ 帶出來的對等子句，進一步闡述 8:34。前三組 γὰρ 中關鍵字 ψυχή 連續出現四次，表示跟隨耶穌的獎賞 = 生命 (永生)；第四組 γὰρ 則提出反面論點，也暗示永刑。
-- 8:35–37 說明跟隨耶穌的獎賞。
+- 8:35–37 說明跟隨耶穌的獎賞 = 永生。
 	- 8:35ab ἐὰν 在關係代名詞之後，常用來代替 ἄν (BAGD)，雖然不是條件句的結構，但在語意上卻有條件句的效果 (GGBB 688 = 中希 726)。
 		- 35ab 語意上有弔詭：想救自己命的卻喪命；願意為主喪命的卻救了自己的命。言下之意有兩種生命 (ψυχή)：
 			- (a) 眼前、今生、自己好像能夠掌握的、肉體的生命
-			- (b) 未來、永生、自己不能做什麼來交換的 (8:37)
-
+			- (b) 未來、永恆、自己不能做什麼來交換的 (8:37)、屬靈的生命
+			- 此外也暗示那些要跟隨耶穌的人，必須有『殉道』的準備，要「為耶穌 & 福音」犧牲生命 (a) (8:35b 十字架)。
+	- 8:36 但相較之下， 生命(b) 的價值極高，遠超過全世界的總和。
+		- 因為世界將要過去 (林前7:31; 約一2:17)；真正的財寶是在天上 (可10:21)
+	- 8:37 而且生命 (b) 是沒辦法靠人的交換 (跟人交換、跟神交換) 而得著的——生命 (b) 原本就是神的賞賜、禮物！
+- 8:38 話鋒一轉，暗示那些以耶穌為恥 (不跟隨耶穌) 的人，在世界末了 (耶穌再來) 的時候會受到刑罰 (被耶穌看為可恥)。
+	- 38a ἐπαισχυνθῇ 
 
 ## 大綱 (Outline)
 - (1) 認識耶穌 (8:27–33)
