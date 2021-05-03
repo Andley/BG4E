@@ -65,12 +65,14 @@
 	- (<RUBY><ruby><ruby>ὃς‡<rt>Whoever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S ... (<RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>ἐπαισχυνθῇ<rt>may be ashamed of</rt></ruby><rt>ἐπαισχύνομαι</rt></ruby><rt>V-AOS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>ἐμοὺς<rt>My</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SAPM</rt></RUBY> <RUBY><ruby><ruby>λόγους<rt>words</rt></ruby><rt>λόγος</rt></ruby><rt>N-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>γενεᾷ<rt>generation</rt></ruby><rt>γενεά</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ταύτῃ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μοιχαλίδι<rt>adulterous</rt></ruby><rt>μοιχαλίς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτωλῷ‚<rt>sinful‚</rt></ruby><rt>ἁμαρτωλός</rt></ruby><rt>A-DSF</rt></RUBY>)A 
 	- <rt>8:38b</rt> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>of Man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐπαισχυνθήσεται<rt>will be ashamed of</rt></ruby><rt>ἐπαισχύνομαι</rt></ruby><rt>V-FOI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν‡‚<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C 
 		- <rt>8:38c</rt> <RUBY><ruby><ruby>ὅταν<rt>when</rt></ruby><rt>ὅταν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔλθῃ<rt>He shall come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>δόξῃ<rt>glory</rt></ruby><rt>δόξα</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>μετὰ<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀγγέλων<rt>angels</rt></ruby><rt>ἄγγελος</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίων.¶<rt>holy.</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-GPM</rt></RUBY>)A2
-##### (3) 預嚐神國的榮光 (9:1)
+##### (3) 預嚐神國的大能 (9:1)
 - <rt>9:1a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔλεγεν<rt>He was saying</rt></ruby><rt>λέγω</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C 
 	- <rt>9:1b</rt> (<RUBY><ruby><ruby>Ἀμὴν<rt>Truly</rt></ruby><rt>ἀμήν</rt></ruby><rt>HEB</rt></RUBY>)A (<RUBY><ruby><ruby>λέγω<rt>I say</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C 
 		- <rt>9:1c</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰσίν<rt>there are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>τινες‡<rt>some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY> { <RUBY><ruby><ruby>ὧδε<rt>here</rt></ruby><rt>ὧδε</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἑστηκότων<rt>standing‚</rt></ruby><rt>ἵστημι</rt></ruby><rt>V-RAP-GPM</rt></RUBY> } )S 
 			- <rt>9:1d</rt> (<RUBY><ruby><ruby>οἵτινες‡<rt>who</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐ<rt>no</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>γεύσωνται<rt>shall taste</rt></ruby><rt>γεύω</rt></ruby><rt>V-ADS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>θανάτου<rt>of death‚</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)C 
 				- <rt>9:1e</rt> <RUBY><ruby><ruby>ἕως<rt>until</rt></ruby><rt>ἕως</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>ἴδωσιν<rt>they see</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βασιλείαν<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> {<RUBY><ruby><ruby>ἐληλυθυῖαν<rt>having come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2RAP-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>with</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δυνάμει.¶<rt>power.</rt></ruby><rt>δύναμις</rt></ruby><rt>N-DSF</rt></RUBY>} )C
+
+<div style="page-break-after: always;"></div>
 
 ## 解經 (Exegesis)
 - 思路 (flow)：
@@ -146,15 +148,50 @@
 	- 9:1c 分詞子句 ὧδε τῶν ἑστηκότων 修飾前面的不定代名詞 τινες，意思是：站在這裡的眾人之中的某些人。ἑστηκότων 用完成式，表示那些已經站在這裡的人——可見是延續了 8:34a 耶穌「叫了眾人和門徒來」的場景。
 	- 9:1d 不定關係代名詞 οἵτινες 這裡的用法跟簡單的關係代名詞很像，指 9:1c 的某些人 (BAGD)。οὐ μὴ + aorist ，表達希臘文裡面最強烈的否定語氣 (GGBB 468–69 = 中希 491–92)。嚐死味 = 肉體死亡。耶穌強調：某些人絕對不會死，直到 (9:1e ἕως) 他們必定 (ἂν) 看見神國大有能力已經來到了的狀態 (9:1e ἐληλυθυῖαν 完成式)。
 	- 「神國大有能力來到」指的究竟是什麼？可能是：
-		- (a) 登山變相——最鄰近的下文
-		- (b) 
+		- (a) 登山變相 (可9:2–8)——最鄰近的下文
+		- (b) 耶穌以君王身分騎驢進城 (可11:1–11)——百姓稱頌大衛之國 (可11:10)
+		- (c) 耶穌復活 (可16:1–8)——婦女驚恐 (16:5)、門徒親眼看見 (16:14)
+		- (d) 五旬節聖靈降臨 (徒2)、神國拓展 (使徒行傳) or 生命改變 …… ——都有可能，但距離本段經文太遠。
+	- 如果從延續上文主題 (跟隨耶穌的獎賞) 來看，9:1de 的應許比較可能是讓願意跟隨的人『預先體驗』將來賞賜的證據，為的是鼓勵更多人願意跟隨耶穌。換句話說，9:1de 的看見，是要給門徒帶來正向激勵作用的。因此我覺得 (a) 和 (b) 的可能性比較大。
 
-## 大綱 (Outline)
-- (1) 認識耶穌 (8:27–33)
+<div style="page-break-after: always;"></div>
+
+## 大綱 #1 (Outline #1)
+
+題目：這一條路  
+講員：張惠美  
+- (1) 不一樣的君王(v31-33) 
+	- (1a)受難的必須(v31) 
+	- (1b)斥責的愛(v32-33) 
+- (2) 門徒的代價(v34) 
+	- (2a)捨己 
+	- (2b)十字架 
+ 	- (2c)跟從耶穌 
+- (3) 至好的選擇(v35-v38) 
+	- (3a)計算孰重(v35-37) 
+	- (3b)以福音為榮(v38) 
+
+## 大綱 #2 (Outline #2)
+題⽬： 真正的看見-然後呢?  
+講員：李玉菁  
+- (1) 真正的看見  (8:27~8:30)
+	- (1a) 肉體感覺的看見——好像 (8:27-28) 
+		- 耶穌發問：我是誰? 
+	- (1b) 聖靈心靈的看見——你是 (8:29~8:30) 
+		- 確認身分：耶穌是基督 
+- (2) 看見後的代價 (8:31~ 9:01) 
+	- (2a)  主耶穌預言犧牲與復活——為你我 (8:31) 
+	- (2b)  肉體屬世的呼喚——世人的選擇 (8:32–33) 
+	- (2c)  屬靈心靈的呼召——門徒的選擇 (8:34–38) 
+	- (2d)  看見主的應許——賞賜 (9:01) 
+
+## 大綱 #3 (Outline #3)
+題目：跟隨耶穌走活路
+- (1) 認識耶穌：祂為我們開一條活路 (8:27–33)
 	- (1a) 耶穌的身分：大能的彌賽亞 (8:27)
 	- (1b) 耶穌的使命：受苦的人子 (8:31–33)
-- (2) 跟隨耶穌 (8:34–38)
+- (2) 跟隨耶穌：我們一起來走活路 (8:34–38)
 	- (2a) 跟隨的代價 (8:34)
 	- (2b) 跟隨的獎賞 (8:35–37)
 	- (2c) 不跟隨的後果 (8:38)
-- (3) 預嚐神國的榮光 (9:1)
+- (3) 預嚐神國的大能 (9:1)

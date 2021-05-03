@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170,
-    "collapsed": true
+    "width": 170
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -139,12 +138,12 @@
   "active": "2ea1ee71c3dff6fe",
   "lastOpenFiles": [
     "IBG4E/HW5-Key.md",
+    "cheatsheet.md",
     "IBG4E/HW6-Key.md",
     "Mounce-BBG/複習 4 (Joh 12.27–36).md",
     "Mounce-BBG/複習 2 (1Jo4.1–6) 解答.md",
     "Mounce-BBG/複習 2 (1Jo4.1–6).md",
     "IBG4E/HW4-Key.md",
-    "cheatsheet.md",
     "Syntax/Aspect.md",
     "Syntax/IBG4E-Syntax.md",
     "IBG4E/HW5.md"
