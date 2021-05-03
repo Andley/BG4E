@@ -530,7 +530,7 @@
 #### §530 質詞 (Particles)
 - 功能詞類
 		- 介系詞 (Preposition)
-		- 連接詞 (Conjunctive)
+		- [連接詞 (Conjunctive)](§535)
 		- 質詞 (Particle)
 
 
