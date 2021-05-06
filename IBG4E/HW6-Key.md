@@ -45,6 +45,8 @@
 - <rt>14</rt> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-DSM</rt></RUBY> <RUBY><ruby><ruby>ἔχομεν<rt>we have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-1P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπολύτρωσιν‚<rt>redemption‚</rt></ruby><rt>ἀπολύτρωσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἄφεσιν<rt>forgiveness</rt></ruby><rt>ἄφεσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν·<rt>of sins.</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GPF</rt></RUBY> <rt>我們在愛子裡得蒙救贖，罪過得以赦免。</rt>
 
 ## 解經 (Exegesis)
+- 思路：
+	- 西1:1–2 是書信體標準的問安格式。1:3–8 是一個句子，核心概念是：感謝神 (Εὐχαριστοῦμεν τῷ Θεῷ)。1:9–14 是一個句子，核心概念是：不停止「為你們禱告 & 祈求」。
 - 6c
 	- GGBB 342–43 = 中希 
 - 9a
