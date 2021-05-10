@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e40b0aaf81ec5a38",
+        "id": "806dada56cd9e985",
         "type": "leaf",
-        "dimension": 38.393574297188756,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +15,8 @@
         }
       },
       {
-        "id": "806dada56cd9e985",
+        "id": "09fee6652fc08190",
         "type": "leaf",
-        "dimension": 61.606425702811244,
         "state": {
           "type": "markdown",
           "state": {
@@ -138,12 +136,12 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "e40b0aaf81ec5a38",
+  "active": "806dada56cd9e985",
   "lastOpenFiles": [
     "IBG4E/HW6-Key.md",
+    "cheatsheet.md",
     "Syntax/§538.md",
     "Syntax/IBG4E-Syntax.md",
-    "cheatsheet.md",
     "IBG4E/HW6.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW1-Key.md",
