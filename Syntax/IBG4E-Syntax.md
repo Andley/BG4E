@@ -531,7 +531,7 @@
 - 功能詞類
 		- 介系詞 (Preposition)
 		- [連接詞 (Conjunctive)](§535)
-		- 質詞 (Particle)
+		- 質詞 (Particle) [[§538]]
 
 
 ## Part III — 子句與句子 (Clause and Sentence)

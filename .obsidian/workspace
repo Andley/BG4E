@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9e2d34599576cd",
+        "id": "e40b0aaf81ec5a38",
         "type": "leaf",
-        "dimension": 46.338605741066196,
+        "dimension": 38.393574297188756,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +16,9 @@
         }
       },
       {
-        "id": "720120e9447033c2",
+        "id": "806dada56cd9e985",
         "type": "leaf",
-        "dimension": 53.661394258933804,
+        "dimension": 61.606425702811244,
         "state": {
           "type": "markdown",
           "state": {
@@ -138,17 +138,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "ed9e2d34599576cd",
+  "active": "e40b0aaf81ec5a38",
   "lastOpenFiles": [
     "IBG4E/HW6-Key.md",
+    "Syntax/§538.md",
+    "Syntax/IBG4E-Syntax.md",
     "cheatsheet.md",
     "IBG4E/HW6.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW1-Key.md",
     "IBG4E/HW3-Key.md",
     "IBG4E/HW4-Key.md",
-    "IBG4E/HW2-Key.md",
-    "Syntax/§535.md",
-    "Syntax/IBG4E-Syntax.md"
+    "IBG4E/HW2-Key.md"
   ]
 }

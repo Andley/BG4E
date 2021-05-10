@@ -3,7 +3,7 @@
 
 ## 圖析 (Syntax Diagram)
 ##### (1) 感謝 (1:3–8)
-- <rt>3a</rt> (<RUBY><ruby><ruby>**Εὐχαριστοῦμεν**<rt>We give thanks</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὶ<rt>[and] Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ‚</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)C 
+- <rt>3a</rt> (<RUBY><ruby><ruby>Εὐχαριστοῦμεν<rt>We give thanks</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὶ<rt>[and] Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ‚</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)C 
 	- (<RUBY><ruby><ruby>πάντοτε<rt>continually</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY>)A1 
 	- {<RUBY><ruby><ruby>περὶ<rt>for</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>προσευχόμενοι‚<rt>praying‚</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY>}A2 
 	- <rt>4a</rt> {<RUBY><ruby><ruby>ἀκούσαντες<rt>having heard of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAP-NPM</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην†<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-ASF</rt></RUBY>}A3 
@@ -53,6 +53,11 @@
 ## 解經 (Exegesis)
 - 思路：
 	- 西1:1–2 是書信體標準的問安格式。1:3–8 是一個句子，核心概念是：感謝神 (Εὐχαριστοῦμεν τῷ Θεῷ)。就句法來說，1:9–20 是一個句子；但就語意來說，1:9–12 是一個段落，核心概念是：不停止「為你們禱告 & 祈求」。
+- ---
+- 3a
+	- Εὐχαριστοῦμεν 現在式時態形式，表達動作內部 (internal)、不完整 (imperfective)、進展中 (in progress) 的觀點，是1:3–8整個句子的主要動詞。
+	- τῷ Θεῷ 與 Πατρὶ 同位；τοῦ Κυρίου ἡμῶν 與 Ἰησοῦ Χριστοῦ 同位。
+	- πάντοτε 句法上可以修飾上文的 Εὐχαριστοῦμεν，或者下文的 προσευχόμενοι
 - 6c
 	- GGBB 342–43 = 中希 
 - 9a
