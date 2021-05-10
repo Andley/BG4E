@@ -20,6 +20,7 @@
 						- ---
 						- <rt>6c</rt> <RUBY><ruby><ruby><mark>καθὼς</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>among</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀφ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> ... <RUBY><ruby><ruby>ἡμέρας<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY>)A3
 							- <rt>6d</rt> («<RUBY><ruby><ruby>ἧς<rt>the</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSF</rt></RUBY>»)C (<RUBY><ruby><ruby>ἠκούσατε<rt>you heard</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
+							- ---
 						- <rt>6e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐπέγνωτε<rt>knew</rt></ruby><rt>ἐπιγινώσκω</rt></ruby><rt>V-2AAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>χάριν<rt>grace</rt></ruby><rt>χάρις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ·<rt>truth‚</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A 
 						- ---
 						- <rt>7a</rt> <RUBY><ruby><ruby><mark>καθὼς</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐμάθετε<rt>you learned</rt></ruby><rt>μανθάνω</rt></ruby><rt>V-2AAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἐπαφρᾶ†<rt>Epaphras‚</rt></ruby><rt>Ἐπαφρᾶς</rt></ruby><rt>N-GSM-P</rt></RUBY> =<RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοῦ<rt>beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>συνδούλου<rt>fellow bond‑servant</rt></ruby><rt>σύνδουλος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν‚<rt>of us‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>)A 
@@ -74,9 +75,17 @@
 	- Accordance、Bibleworks、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，那麼 ἐστὶν 的主詞應該會是 εὐαγγελίου (或者：福音真理的道)，意思變成：福音在全世界結出果子 & 增長 ⇒ 比較合理。
 	- 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構。
 - 6c 沒有動詞，應該是省略了 6b 的迂說結構 (是在結果增長)，但依然還是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。只不過到底該從屬於哪個子句——
-	- Accordance、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，
-	- Bibleworks、OpenText 認為是從屬於 6b 的迂說結構 (是在結果增長)
-	- 6c 介系詞片語中間插入關係代名詞 (的 ἀφ᾽ ἧς ἡμέρας) 的結構，屬於關係代名詞的不尋常用法 (GGBB 342–43 = 中希 )
+	- Accordance、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，意思是：福音傳到你們中間 (6a)，正如 (6c) 也在你們當中 ⇒ 上下文不通。
+	- Bibleworks、OpenText 認為是從屬於 6b 的迂說結構 (是在結果增長)，意思是：福音在全世界結果增長 (6b)，正如 (6c) 也在你們當中 
+- 6cd ἀφ᾽ ἧς ἡμέρας 
+	- 句法比較複雜：(介系詞片語中間插入關係代名詞) 的結構，原本應該是 ἀφ᾽ ἡμέρας (單純的介系詞片語，修飾 6c) ＋ᾗ  (間接受格) 帶出 6d 的關係子句
+		- 一方面因為 attraction (關係代名詞的格被前述詞牽引 GGBB 338–39 = 中希 354)，以至變成了 ἧς (所有格)
+		- 二方面則是在位置上被挪到了介系詞片語中間 (Robertson 717)。
+	- 但意思很單純：從你們聽到的日子起 ……
+
+where the incorporation resolves itself into avfV h\`me,raj h|-.
+	- 
+	- 屬於關係代名詞的不尋常用法 ( )
 - 9a
 	- Complementary 分詞 (GGBB 646 = 
 	- 1:4
