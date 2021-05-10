@@ -13,7 +13,8 @@
 			- <rt>5a</rt> (<RUBY><ruby><ruby>διὰ<rt>because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐλπίδα‡<rt>hope</rt></ruby><rt>ἐλπίς</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> {<RUBY><ruby><ruby>ἀποκειμένην<rt>being laid up</rt></ruby><rt>ἀπόκειμαι</rt></ruby><rt>V-PNP-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>for you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς‚<rt>heavens‚</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-DPM</rt></RUBY>} )A2
 				- ---
 				- <rt>5b</rt>(<RUBY><ruby><ruby>ἣν‡<rt>which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>προηκούσατε<rt>you heard of before</rt></ruby><rt>προακούω</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
-					- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>λόγῳ<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείας<rt>truth‚</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel‚</rt></ruby><rt>εὐαγγέλιον⁑</rt></ruby><rt>N-GSN</rt></RUBY> <rt>6a</rt><RUBY><ruby><ruby>τοῦ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> {<RUBY><ruby><ruby>παρόντος<rt>being present</rt></ruby><rt>πάρειμι</rt></ruby><rt>V-PAP-GSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>unto</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>} )A 
+					- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>λόγῳ<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείας<rt>truth‚</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-GSF</rt></RUBY> 
+					- <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel‚</rt></ruby><rt>εὐαγγέλιον⁑</rt></ruby><rt>N-GSN</rt></RUBY> <rt>6a</rt><RUBY><ruby><ruby>τοῦ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> {<RUBY><ruby><ruby>παρόντος<rt>being present</rt></ruby><rt>πάρειμι</rt></ruby><rt>V-PAP-GSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>unto</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>} )A 
 						- ---
 						- <rt>6b</rt> <RUBY><ruby><ruby><mark>καθὼς</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὶ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>κόσμῳ<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-DSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐστὶν<rt>it is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S⁑</rt></RUBY> <RUBY><ruby><ruby>καρποφορούμενον<rt>bearing fruit</rt></ruby><rt>καρποφορέω</rt></ruby><rt>V-PMP-NSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐξανόμενον<rt>increasing‚</rt></ruby><rt>αὐξάνω</rt></ruby><rt>V-PPP-NSN</rt></RUBY>)P 
 						- ---
@@ -61,8 +62,12 @@
 	- 3b προσευχόμενοι 分詞子句，當作狀語 A2 修飾主要動詞，表達感謝的「時間」。也是現在式時態形式，同樣傳達動作持續的觀點。
 	- 4a ἀκούσαντες 的分詞子句是 A3，表達主要動詞感謝的「原因」——因為聽見你們的信心 & 愛心。
 		- ἐν Χριστῷ 修飾 πίστιν，意思是：在基督裡的信心與愛心。是介系詞片語當作形容用，跟名詞形成 T(τὴν)—N(πίστιν)—A(ἐν Χριστῷ) 敘述用法的結構。
-- 4b–5a 是關係子句，用 ἣν 連接 4a 的 ἀγάπην
-	- ἣν 是 ASF，句法上也可以連到 4a 的 πίστιν
+- 4b–5a 是從屬 (河岸第二排) 的關係子句，用 ἣν 連接 4a 的 ἀγάπην
+	- ἣν 是 ASF，句法上也可以連到 4a 的 πίστιν，但因為接下來的 A1 (εἰς πάντας τοὺς ἁγίους) 限制了對象 (眾聖徒)，因此比較通順的是：對眾聖徒有愛心。「對眾聖徒有信心」不合聖經。
+	- 5a διὰ 帶出的介系詞片語，表明有信心的原因。
+		- ἀποκειμένην 分詞子句當形容詞用，形容T(τὴν)—N(ἐλπίδα)—T(τὴν)—A(ἀποκειμένην ...) 的結構。
+- 5b–6a 是從屬 (河岸第三排) 的關係子句，用 ἣν 連接到 5a 的 ἐλπίδα
+	- ἐν 帶出介系詞片語 A，表達你們之前聽到盼望的途徑
 - 6c
 	- GGBB 342–43 = 中希 
 - 9a
