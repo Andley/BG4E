@@ -14,9 +14,9 @@
 				- ---
 				- <rt>5b</rt>(<RUBY><ruby><ruby>ἣν‡<rt>which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>προηκούσατε<rt>you heard of before</rt></ruby><rt>προακούω</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
 					- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>λόγῳ<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείας<rt>truth‚</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-GSF</rt></RUBY> 
-					- <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel‚</rt></ruby><rt>εὐαγγέλιον⁑</rt></ruby><rt>N-GSN</rt></RUBY> <rt>6a</rt><RUBY><ruby><ruby>τοῦ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> {<RUBY><ruby><ruby>παρόντος<rt>being present</rt></ruby><rt>πάρειμι</rt></ruby><rt>V-PAP-GSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>unto</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>} )A 
+					- <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel‚</rt></ruby><rt>εὐαγγέλιον⁑</rt></ruby><rt>N-GSN</rt></RUBY> <rt>6a</rt><RUBY><ruby><ruby>τοῦ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> {<RUBY><ruby><ruby>παρόντος^<rt>being present</rt></ruby><rt>πάρειμι</rt></ruby><rt>V-PAP-GSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>unto</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>} )A 
 						- ---
-						- <rt>6b</rt> <RUBY><ruby><ruby><mark>καθὼς</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὶ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>κόσμῳ<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-DSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐστὶν<rt>it is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S⁑</rt></RUBY> <RUBY><ruby><ruby>καρποφορούμενον<rt>bearing fruit</rt></ruby><rt>καρποφορέω</rt></ruby><rt>V-PMP-NSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐξανόμενον<rt>increasing‚</rt></ruby><rt>αὐξάνω</rt></ruby><rt>V-PPP-NSN</rt></RUBY>)P 
+						- <rt>6b</rt> <RUBY><ruby><ruby><mark>καθὼς^</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὶ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>κόσμῳ<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-DSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐστὶν<rt>it is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S⁑</rt></RUBY> <RUBY><ruby><ruby>καρποφορούμενον<rt>bearing fruit</rt></ruby><rt>καρποφορέω</rt></ruby><rt>V-PMP-NSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐξανόμενον<rt>increasing‚</rt></ruby><rt>αὐξάνω</rt></ruby><rt>V-PPP-NSN</rt></RUBY>)P 
 						- ---
 						- <rt>6c</rt> <RUBY><ruby><ruby><mark>καθὼς</mark><rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>among</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀφ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> ... <RUBY><ruby><ruby>ἡμέρας<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY>)A3
 							- <rt>6d</rt> («<RUBY><ruby><ruby>ἧς<rt>the</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSF</rt></RUBY>»)C (<RUBY><ruby><ruby>ἠκούσατε<rt>you heard</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
@@ -70,11 +70,13 @@
 	- ἐν 帶出介系詞片語 A，表達你們之前聽到盼望的途徑 (藉著福音真理的道)。
 	- 6a παρόντος 分詞子句當形容詞用，形成 T(τοῦ)—N(εὐαγγελίου)—T(τοῦ)—A(παρόντος εἰς ὑμᾶς) 第二修飾位置的結構。
 - 6b 是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句——判斷關鍵在於 6b 動詞 ἐστὶν 的主詞 (3S) 指向哪裡？
-	- OpenText 認為從屬於 5b 的 προηκούσατε，那麼 ἐστὶν 的主詞應該會是 ἣν (=5a 的 ἐλπίδα) ⇒ 盼望結出果子 & 增長
-	- Bibleworks/Accordance & Mounce、ZECNT 認為從屬於 6a 的 παρόντος。
-	- 從上下文推斷，指向 6a 的
-- 6c
-	- GGBB 342–43 = 中希 
+	- OpenText 認為從屬於 5b 的 προηκούσατε (從前聽過)，那麼 ἐστὶν 的主詞應該會是 ἣν (=5a 的 ἐλπίδα 盼望)，意思變成：盼望在全世界結出果子 & 增長 ⇒ 感覺不通順。
+	- Accordance、Bibleworks、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，那麼 ἐστὶν 的主詞應該會是 εὐαγγελίου (或者：福音真理的道)，意思變成：福音在全世界結出果子 & 增長 ⇒ 比較合理。
+	- 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構。
+- 6c 沒有動詞，應該是省略了 6b 的迂說結構 (是在結果增長)，但依然還是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。只不過到底該從屬於哪個子句——
+	- Accordance、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，
+	- Bibleworks、OpenText 認為是從屬於 6b 的迂說結構 (是在結果增長)
+	- 6c 介系詞片語中間插入關係代名詞 (的 ἀφ᾽ ἧς ἡμέρας) 的結構，屬於關係代名詞的不尋常用法 (GGBB 342–43 = 中希 )
 - 9a
 	- Complementary 分詞 (GGBB 646 = 
 	- 1:4
