@@ -34,10 +34,11 @@
 - <rt>9a</rt> 
 	- (<RUBY><ruby><ruby>Διὰ<rt>Because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A1 
 	- (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A2 
-	- (<RUBY><ruby><ruby>ἀφ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἧς<rt>the</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ἠκούσαμεν‚<rt>we heard‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAI-1P</rt></RUBY>)A3
-- <rt>9b</rt> (<RUBY><ruby><ruby>ἡμεῖς‚<rt>we</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NP</rt></RUBY>)S …… (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A4 (<RUBY><ruby><ruby>παυόμεθα<rt>cease</rt></ruby><rt>παύω</rt></ruby><rt>V-PMI-1P</rt></RUBY>)P {<RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>προσευχόμενοι<rt>praying</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αἰτούμενοι‚<rt>asking</rt></ruby><rt>αἰτέω</rt></ruby><rt>V-PMP-NPM</rt></RUBY>}C 
+	- <rt>9b</rt> (<RUBY><ruby><ruby>ἀφ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> ... <RUBY><ruby><ruby>ἡμέρας<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY>)A3
+		- <rt>9c</rt> «<RUBY><ruby><ruby>ἧς<rt>the</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSF</rt></RUBY>» <RUBY><ruby><ruby>ἠκούσαμεν‚<rt>we heard‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAI-1P</rt></RUBY>
+-  (<RUBY><ruby><ruby>ἡμεῖς‚<rt>we</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NP</rt></RUBY>)S …… (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A4 (<RUBY><ruby><ruby>παυόμεθα<rt>cease</rt></ruby><rt>παύω</rt></ruby><rt>V-PMI-1P</rt></RUBY>)P {<RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>προσευχόμενοι<rt>praying</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αἰτούμενοι‚<rt>asking</rt></ruby><rt>αἰτέω</rt></ruby><rt>V-PMP-NPM</rt></RUBY>}C 
 	- ---
-	- <rt>9c</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
+	- <rt>9d</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 		- (<RUBY><ruby><ruby>πληρωθῆτε⁑<rt>you may be filled with</rt></ruby><rt>πληρόω</rt></ruby><rt>V-APS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπίγνωσιν<rt>knowledge</rt></ruby><rt>ἐπίγνωσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>θελήματος<rt>will</rt></ruby><rt>θέλημα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C 
 			- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>σοφίᾳ<rt>wisdom</rt></ruby><rt>σοφία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>συνέσει<rt>understanding</rt></ruby><rt>σύνεσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>πνευματικῇ‚<rt>spiritual‚</rt></ruby><rt>πνευματικός</rt></ruby><rt>A-DSF</rt></RUBY>)A1⁑ 
 			- <rt>10a</rt> {<RUBY><ruby><ruby>περιπατῆσαι^<rt>to walk</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἀξίως<rt>worthily</rt></ruby><rt>ἀξίως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord:</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> }A2⁑ 
@@ -60,7 +61,7 @@
 
 ## 解經 (Exegesis)
 - 思路：
-	- 西1:1–2 是書信體標準的問安格式。1:3–8 是一個句子，核心概念是：感謝神 (Εὐχαριστοῦμεν τῷ Θεῷ)。就句法來說，1:9–20 是一個句子；但就語意來說，1:9–12 是一個段落，核心概念是：不停止「為你們禱告 & 祈求」。
+	- 西1:1–2 是書信體標準的問安格式。1:3–8 是一個句子，核心概念是：**感謝神 (Εὐχαριστοῦμεν τῷ Θεῷ)**。就句法來說，1:9–20 是一個句子；但就語意來說，1:9–12 是一個段落，核心概念是：不停止「為你們禱告 & 祈求」。
 - ---
 - vv. 3a–4a 是 1:3–8 的主要子句，也是核心概念 (我們感謝上帝)。
 	- v. 3a Εὐχαριστοῦμεν 現在式時態形式，表達動作內部 (internal)、不完整 (imperfective)、進展中 (in progress) 的觀點 (GGBB 513–39 = 中希 542–67)，是 1:3–8整個句子的主要動詞。
@@ -74,12 +75,12 @@
 	- v. 5a διὰ 帶出的介系詞片語，表明有信心的原因。
 		- ἀποκειμένην 分詞子句當形容詞用，形容T(τὴν)—N(ἐλπίδα)—T(τὴν)—A(ἀποκειμένην ...) 第二修飾位置的結構 (GGBB 306–07 = 中希 321)。
 - vv. 5b–6a 是從屬的關係子句，用 ἣν 連接到 5a 的 ἐλπίδα
-	- ἐν 帶出介系詞片語 A，表達你們之前聽到盼望的途徑 (藉著福音真理的道)。
-	- v. 6a παρόντος 分詞子句當形容詞用，形成 T(τοῦ)—N(εὐαγγελίου)—T(τοῦ)—A(παρόντος εἰς ὑμᾶς) 第二修飾位置的結構。
+	- ἐν 帶出介系詞片語 A，表達你們之前聽到盼望的途徑：藉著福音真理的道 (GGBB 372–75 = 中希 389–92)。
+	- v. 6a παρόντος 分詞子句當形容詞用，形成 T(τοῦ)—N(εὐαγγελίου)—T(τοῦ)—A(παρόντος εἰς ὑμᾶς) 第二修飾位置的結構 (GGBB 306–07 = 中希 321)。
 - v. 6b 是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句——判斷關鍵在於 6b 動詞 ἐστὶν 的主詞 (3S) 指向哪裡？
 	- OpenText 認為從屬於 5b 的 προηκούσατε (從前聽過)，那麼 ἐστὶν 的主詞應該會是 ἣν (=5a 的 ἐλπίδα 盼望)，意思變成：盼望在全世界結出果子 & 增長 ⇒ 感覺不通順。
 	- Accordance、Bibleworks、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，那麼 ἐστὶν 的主詞應該會是 εὐαγγελίου (或者：福音真理的道)，意思變成：福音在全世界結出果子 & 增長 ⇒ 比較合理。
-	- v. 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構。
+	- v. 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構 (GGBB 647–49 = 中希 682–85)。
 	- καθὼς καὶ 意思是：如…照樣 (BAGD)
 - v. 6c 沒有動詞，應該是省略了 6b 的迂說結構 (是在結果增長)，但依然還是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。只不過到底該從屬於哪個子句？
 	- Accordance、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，意思是：福音傳到你們中間 (6a)，正如 (6c) 也在你們當中 ⇒ 上下文不通。
@@ -97,12 +98,14 @@
 	- 兩者語意上都說得通，但因為 7a 跟 6a 的距離太遠，所以從屬於 6de 的可能性比較大**
 - v. 7b 關係從屬子句，用 ὅς 連接到 7a 同樣是單數陽姓的先行詞 Ἐπαφρᾶ (以巴弗)，補充說明他的特質 (基督的忠心奴僕)。
 - v. 8 在句法上有兩種可能：
-	- (a) 同位於 7b，把冠詞 ὁ 當人稱代名詞用，與 7bb 的 ὅς 同位——Accordance、Bibleworks、Mounce、OpenText、ZECNT 都如此認為，擺在河岸第七排
+	- (a) 同位於 7b，把冠詞 ὁ 當人稱代名詞用 (GGBB 211–12 = 中希 219–21)，與 7b 的 ὅς 同位——Accordance、Bibleworks、Mounce、OpenText、ZECNT 都如此認為，擺在河岸第七排
 		- (a) 的優點是距離 7b 近；缺點是保羅為何要把主詞 ὁ 特別標示出來，又或者為何不用連接詞 (δέ)。
 	- (b) 因為回到「愛心 ἀγάπην」的主題，所以雖然沒有連接詞，但也可以對等於河岸第二排的 4b (你們有愛心)。
 		- (b) 的缺點是距離 4b 遠；優點是比較能解釋把主詞 ὁ 特別標示出來 & 不用連接詞 (Ø)。
 - ---
 - 9a
+	-  9bc ἀφ᾽ ἧς ἡμέρας 結構跟 6cd 相同。
+	-  動詞 παυόμεθα 是 vv. 9–14 的主要動詞，核心概念是：**不停止為你們禱告祈求 (οὐ παυόμεθα ὑπὲρ ὑμῶν προσευχόμενοι καὶ αἰτούμενοι)**。
 	- Complementary 分詞 (GGBB 646 = 
 	- 1:4
 116, 133
