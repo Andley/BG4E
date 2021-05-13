@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7b94538ae72319",
+        "id": "58aef2487a384e2a",
         "type": "leaf",
+        "dimension": 41.0655737704918,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "腓立比書/Grammar Index.md",
+            "file": "IBG4E/HW6-Key.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cb2f3b21a5539f61",
+        "type": "leaf",
+        "dimension": 58.9344262295082,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW6-Key.md",
             "mode": "preview"
           }
         }
@@ -60,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -76,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腓立比書/Grammar Index.md",
+                "file": "IBG4E/HW6-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腓立比書/Grammar Index.md"
+                "file": "IBG4E/HW6-Key.md"
               }
             }
           },
@@ -124,8 +138,10 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "7b7b94538ae72319",
+  "active": "58aef2487a384e2a",
   "lastOpenFiles": [
+    "IBG4E/HW6-Key.md",
+    "腓立比書/Grammar Index.md",
     "腓立比書/Untitled.md",
     "腓立比書/腓立比書.md",
     "腓立比書/Phi 1.1–2.md",
@@ -133,8 +149,6 @@
     "腓立比書/Phi 1.12–14.md",
     "腓立比書/Phi 1.15–26.md",
     "腓立比書/Phi 1.27–30.md",
-    "腓立比書/Phi 2.1–11.md",
-    "IBG4E/HW6-Key.md",
-    "腓立比書/Phi 1.3–11.md"
+    "腓立比書/Phi 2.1–11.md"
   ]
 }
