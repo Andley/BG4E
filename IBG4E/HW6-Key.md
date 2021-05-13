@@ -29,6 +29,7 @@
 										- <rt>7b</rt> (<RUBY><ruby><ruby>ὅς†<rt>who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>πιστὸς<rt>faithful</rt></ruby><rt>πιστός</rt></ruby><rt>A-NSM</rt></RUBY>)C<sub>-</sub> (<RUBY><ruby><ruby>ὑπὲρ<rt>on behalf of</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>us‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>)A <sub>-</sub>C(<RUBY><ruby><ruby>διάκονος<rt>a servant</rt></ruby><rt>διάκονος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ‚<rt>of Christ‚</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)
 										- ---
 										- =<rt>8</rt> <RUBY><ruby><ruby>ὁ†<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>δηλώσας<rt>having made known</rt></ruby><rt>δηλόω</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)P (<RUBY><ruby><ruby>ἡμῖν<rt>to us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY>)C1 (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι.¶<rt>[the] Spirit.</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)C2 
+		- <rt>8'</rt> <RUBY><ruby><ruby>ὁ†<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>δηλώσας<rt>having made known</rt></ruby><rt>δηλόω</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)P (<RUBY><ruby><ruby>ἡμῖν<rt>to us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY>)C1 (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι.¶<rt>[the] Spirit.</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)C2 
 - ---
 - <rt>9a</rt> 
 	- (<RUBY><ruby><ruby>Διὰ<rt>Because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A1 
@@ -61,40 +62,45 @@
 - 思路：
 	- 西1:1–2 是書信體標準的問安格式。1:3–8 是一個句子，核心概念是：感謝神 (Εὐχαριστοῦμεν τῷ Θεῷ)。就句法來說，1:9–20 是一個句子；但就語意來說，1:9–12 是一個段落，核心概念是：不停止「為你們禱告 & 祈求」。
 - ---
-- 3a–4a 是 1:3–8 的主要子句，也是核心概念 (我們感謝上帝)。
-	- 3a Εὐχαριστοῦμεν 現在式時態形式，表達動作內部 (internal)、不完整 (imperfective)、進展中 (in progress) 的觀點，是1:3–8整個句子的主要動詞。
+- vv. 3a–4a 是 1:3–8 的主要子句，也是核心概念 (我們感謝上帝)。
+	- v. 3a Εὐχαριστοῦμεν 現在式時態形式，表達動作內部 (internal)、不完整 (imperfective)、進展中 (in progress) 的觀點，是1:3–8整個句子的主要動詞。
 		- τῷ Θεῷ 與 Πατρὶ 同位；τοῦ Κυρίου ἡμῶν 與 Ἰησοῦ Χριστοῦ 同位。
 		- πάντοτε 句法上可以修飾上文的 Εὐχαριστοῦμεν，意思是：常常感謝；或者下文的 προσευχόμενοι，意思是：常常禱告——兩者意思相差不大。
 	- 3b προσευχόμενοι 分詞子句，當作狀語 A2 修飾主要動詞，表達感謝的「時間」。也是現在式時態形式，同樣傳達動作持續的觀點。
-	- 4a ἀκούσαντες 的分詞子句是 A3，表達主要動詞感謝的「原因」——因為聽見你們的信心 & 愛心。
+	- v. 4a ἀκούσαντες 的分詞子句是 A3，表達主要動詞感謝的「原因」——因為聽見你們的信心 & 愛心。
 		- ἐν Χριστῷ 修飾 πίστιν，意思是：在基督裡的信心與愛心。是介系詞片語當作形容用，跟名詞形成 T(τὴν)—N(πίστιν)—A(ἐν Χριστῷ) 敘述用法的結構。
-- 4b–5a 是從屬 (河岸第二排) 的關係子句，用 ἣν 連接 4a 的 ἀγάπην
+- **vv. 4b–5a 是從屬 (河岸第二排**) 的關係子句，用 ἣν 連接 4a 的 ἀγάπην
 	- ἣν 是 ASF，句法上也可以連到 4a 的 πίστιν，但因為接下來的 A1 (εἰς πάντας τοὺς ἁγίους) 限制了對象 (眾聖徒)，因此比較通順的是：對眾聖徒有愛心。「對眾聖徒有信心」不合聖經。
-	- 5a διὰ 帶出的介系詞片語，表明有信心的原因。
+	- v. 5a διὰ 帶出的介系詞片語，表明有信心的原因。
 		- ἀποκειμένην 分詞子句當形容詞用，形容T(τὴν)—N(ἐλπίδα)—T(τὴν)—A(ἀποκειμένην ...) 第二修飾位置的結構。
-- 5b–6a 是從屬 (河岸第三排) 的關係子句，用 ἣν 連接到 5a 的 ἐλπίδα
+- **vv. 5b–6a 是從屬 (河岸第三排**) 的關係子句，用 ἣν 連接到 5a 的 ἐλπίδα
 	- ἐν 帶出介系詞片語 A，表達你們之前聽到盼望的途徑 (藉著福音真理的道)。
-	- 6a παρόντος 分詞子句當形容詞用，形成 T(τοῦ)—N(εὐαγγελίου)—T(τοῦ)—A(παρόντος εἰς ὑμᾶς) 第二修飾位置的結構。
-- 6b 是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句——判斷關鍵在於 6b 動詞 ἐστὶν 的主詞 (3S) 指向哪裡？
+	- v. 6a παρόντος 分詞子句當形容詞用，形成 T(τοῦ)—N(εὐαγγελίου)—T(τοῦ)—A(παρόντος εἰς ὑμᾶς) 第二修飾位置的結構。
+- v. 6b 是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句——判斷關鍵在於 6b 動詞 ἐστὶν 的主詞 (3S) 指向哪裡？
 	- OpenText 認為從屬於 5b 的 προηκούσατε (從前聽過)，那麼 ἐστὶν 的主詞應該會是 ἣν (=5a 的 ἐλπίδα 盼望)，意思變成：盼望在全世界結出果子 & 增長 ⇒ 感覺不通順。
-	- Accordance、Bibleworks、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，那麼 ἐστὶν 的主詞應該會是 εὐαγγελίου (或者：福音真理的道)，意思變成：福音在全世界結出果子 & 增長 ⇒ 比較合理。
-	- 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構。
+	- Accordance、Bibleworks、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，那麼 ἐστὶν 的主詞應該會是 εὐαγγελίου (或者：福音真理的道)，意思變成：福音在全世界結出果子 & 增長 ⇒ 比較合理 ⇒ **v.6b 應該擺在河岸第四排**。
+	- v. 6b 的動詞是 BE＋分詞 (ἐστὶν καρποφορούμενον καὶ αὐξανόμενον) 所形成的迂說結構。
 	- καθὼς καὶ 意思是：如…照樣 (BAGD)
-- 6c 沒有動詞，應該是省略了 6b 的迂說結構 (是在結果增長)，但依然還是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。只不過到底該從屬於哪個子句？
+- v. 6c 沒有動詞，應該是省略了 6b 的迂說結構 (是在結果增長)，但依然還是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。只不過到底該從屬於哪個子句？
 	- Accordance、Mounce、ZECNT 認為是從屬於 6a 的 παρόντος (傳到)，意思是：福音傳到你們中間 (6a)，正如 (6c) 也在你們當中 ⇒ 上下文不通。
-	- Bibleworks、OpenText 認為是從屬於 6b 的迂說結構 (是在結果增長)，意思是：福音在全世界結果增長 (6b)，正如 (6c) 也在你們當中 (結果增長) ⇒ 比較通順。
+	- Bibleworks、OpenText 認為是從屬於 6b 的迂說結構 (是在結果增長)，意思是：福音在全世界結果增長 (6b)，正如 (6c) 也在你們當中 (結果增長) ⇒ 比較通順 ⇒ **v.6c 應該擺在河岸第五排**
 	- καθὼς καὶ 意思是：如…照樣 (BAGD)
-- 6cd ἀφ᾽ ἧς ἡμέρας 
+- vv. 6cd ἀφ᾽ ἧς ἡμέρας 
 	- 句法比較複雜：(介系詞片語中間插入關係代名詞) 的結構，原本應該是 ἀφ᾽ ἡμέρας (單純的介系詞片語，修飾 6c) ＋ᾗ  (間接受格) 帶出 6d 的關係子句
 		- 一方面因為 attraction (關係代名詞的格被前述詞牽引 GGBB 338–39 = 中希 354)，以至變成了 ἧς (所有格)
 		- 二方面則是在位置上被挪到了介系詞片語中間 (Robertson 717)。
 	- 但意思很單純：從你們聽到的日子起 ……
-- 6d 對等子句，Accordance、Bibleworks、Mounce、OpenText、ZECNT 都認為對等於 6d。
-- 7a 又是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句——
+- v. 6d 對等子句，Accordance、Bibleworks、Mounce、OpenText、ZECNT 都認為對等於 6d。
+- v. 7a 又是從屬的 καθὼς 子句，表達「比較、正如」，用來修飾上一層子句的動詞。但到底該從屬於哪個子句？
 	- Mounce 認為是從屬於 6a 的 παρόντος (傳到)，意思是：福音傳到你們中間 (6a)，正如 (7a) 你們從以巴弗學的
 	- Accordance、Bibleworks、OpenText、ZECNT 認為是從屬於 6de，意思是：你們聽到並且認識神恩惠 (6de)，正如 (7a) 你們從以巴弗學的
-	- 兩者語意上都說得通，但因為 7a 跟 6a 的距離太遠，所以從屬於 6de 的可能性比較大。
-- 7b
+	- 兩者語意上都說得通，但因為 7a 跟 6a 的距離太遠，所以從屬於 6de 的可能性比較大 ⇒ **v. 7a應該擺在河岸第六排**
+- v. 7b 關係從屬子句，用 ὅς 連接到 7a 同樣是單數陽姓的先行詞 Ἐπαφρᾶ (以巴弗)，補充說明他的特質 (基督的忠心奴僕)，**擺在河岸第七排**。
+- v. 8 在句法上有兩種可能：
+	- (a) 同位於 7b，把冠詞 ὁ 當人稱代名詞用，與 7bb 的 ὅς 同位——Accordance、Bibleworks、Mounce、OpenText、ZECNT 都如此認為，擺在河岸第七排
+		- (a) 的優點是距離 7b 近；缺點是保羅為何要把主詞 ὁ 特別標示出來，又或者為何不用連接詞 (δέ)。
+	- (b) 因為回到「愛心 ἀγάπην」的主題，所以雖然沒有連接詞，但也可以對等於河岸第二排的 4b (你們有愛心)。
+		- (b) 的缺點是距離 4b 遠；優點是比較能解釋把主詞 ὁ 特別標示出來 & 不用連接詞 (Ø)。
 - ---
 - 9a
 	- Complementary 分詞 (GGBB 646 = 
