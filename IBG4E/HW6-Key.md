@@ -41,8 +41,9 @@
 	- <rt>9d</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 		- (<RUBY><ruby><ruby>πληρωθῆτε⁑<rt>you may be filled with</rt></ruby><rt>πληρόω</rt></ruby><rt>V-APS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπίγνωσιν<rt>knowledge</rt></ruby><rt>ἐπίγνωσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>θελήματος<rt>will</rt></ruby><rt>θέλημα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C 
 			- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>σοφίᾳ<rt>wisdom</rt></ruby><rt>σοφία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>συνέσει<rt>understanding</rt></ruby><rt>σύνεσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>πνευματικῇ‚<rt>spiritual‚</rt></ruby><rt>πνευματικός</rt></ruby><rt>A-DSF</rt></RUBY>)A1⁑ 
-			- <rt>10a</rt> {<RUBY><ruby><ruby>περιπατῆσαι^<rt>to walk</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἀξίως<rt>worthily</rt></ruby><rt>ἀξίως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord:</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> }A2⁑ 
-				- (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πᾶσαν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀρεσκείαν‚<rt>pleasing‚</rt></ruby><rt>ἀρεσκεία</rt></ruby><rt>N-ASF</rt></RUBY>)<rt>a1^</rt>
+			- <rt>10a</rt> {<RUBY><ruby><ruby>περιπατῆσαι<rt>to walk</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-AAN</rt></RUBY> 
+				- (<RUBY><ruby><ruby>ἀξίως<rt>worthily</rt></ruby><rt>ἀξίως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord:</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY>)<rt>a1</rt> 
+				- (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πᾶσαν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀρεσκείαν‚<rt>pleasing‚</rt></ruby><rt>ἀρεσκεία</rt></ruby><rt>N-ASF</rt></RUBY>)<rt>a2</rt> }A2⁑
 				- <rt>10b</rt> {<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὶ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>ἔργῳ<rt>work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθῷ<rt>good‚</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>καρποφοροῦντες<rt>bringing forth fruit</rt></ruby><rt>καρποφορέω</rt></ruby><rt><mark>V-PAP-NPM</mark></rt></RUBY>}<rt>a2^</rt> 
 				- <rt>10c</rt> {<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐξανόμενοι<rt>growing</rt></ruby><rt>αὐξάνω</rt></ruby><rt><mark>V-PPP-NPM</mark></rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>in the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐπιγνώσει<rt>knowledge</rt></ruby><rt>ἐπίγνωσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>}<rt>a3^</rt>
 				- <rt>11a</rt> {<RUBY><ruby><ruby>ἐν<rt>with</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>δυνάμει<rt>power</rt></ruby><rt>δύναμις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>δυναμούμενοι<rt>being strengthened</rt></ruby><rt>δυναμόω</rt></ruby><rt><mark>V-PPP-NPM</mark></rt></RUBY>
@@ -111,8 +112,9 @@
 - 9d ἵνα 帶出從屬子句，表達 9a 禱告祈求的目的 (GGBB 472 = 中希 495–96)
 	- τὴν ἐπίγνωσιν τοῦ θελήματος αὐτοῦ—— 從上下文推敲，τοῦ θελήματος 是受詞所有格 (GGBB 116–19 = 中希 118–21)，意思是：認識他的旨意。
 	- αὐτοῦ 應該是指 1:3 感謝對象 (神)。
-- 10a 不定詞子句，表達 9d 認識神旨意所產生的結果 (GGBB 590–92 = 中希 623–25)，當作狀語 (A)，修飾9b 的 πληρωθῆτε
-	- 介系詞片語 εἰς πᾶσαν ἀρεσκείαν 在句法上可以修飾 9d 的 πληρωθῆτε，但在文義上不通順 ⇒ 比較好的是用來修飾 10a 的 περιπατῆσαι：行事為人對得起主 (10a)，以至於 (εἰς) 凡事
+- 10a 不定詞子句，表達 9d 認識神旨意所產生的結果 (GGBB 590–92 = 中希 623–25)，當作狀語 (A)，修飾9b 的 πληρωθῆτε。
+	- 介系詞片語 εἰς πᾶσαν ἀρεσκείαν 在句法上可以修飾 9d 的 πληρωθῆτε，但這樣一來意思變成：認識神的旨意 (9d)，以至於 (εἰς) 凡事討他喜歡——這固然也說得通，但按照 word order (也是聽者接收資訊的次序) 來理解，比較好的是用來修飾 10a 的 περιπατῆσαι：行事為人對得起主 (10a)，以至於 (εἰς) 凡事討他喜歡。
+- 接下來 10b, 10c, 11a, 11b 四個分詞子句
 1:5
 100
 

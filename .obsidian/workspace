@@ -6,24 +6,24 @@
       {
         "id": "58aef2487a384e2a",
         "type": "leaf",
-        "dimension": 60.26645768025078,
+        "dimension": 50.96277278562259,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW6-Key.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "cb2f3b21a5539f61",
         "type": "leaf",
-        "dimension": 39.73354231974922,
+        "dimension": 49.0372272143774,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IBG4E/HW6-Key.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -138,7 +138,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "cb2f3b21a5539f61",
+  "active": "58aef2487a384e2a",
   "lastOpenFiles": [
     "IBG4E/HW6-Key.md",
     "腓立比書/Grammar Index.md",
