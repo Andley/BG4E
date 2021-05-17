@@ -53,11 +53,11 @@
 						- <RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>μερίδα<rt>share</rt></ruby><rt>μερίς</rt></ruby><rt>N-ASF</rt></RUBY> 
 							- <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>κλήρου<rt>inheritance</rt></ruby><rt>κλῆρος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίων<rt>saints</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-GPM</rt></RUBY> 
 							- <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>φωτί·<rt>light‚</rt></ruby><rt>φῶς</rt></ruby><rt>N-DSN</rt></RUBY>) }<rt>a5^</rt> }A2⁑
-					- ---
-					- <rt>13a</rt> (<RUBY><ruby><ruby>ὃς‡<rt>who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐρρύσατο<rt>has delivered</rt></ruby><rt>ῥύομαι</rt></ruby><rt>V-ANI-3S</rt></RUBY>)P <RUBY><ruby><ruby>ἡμᾶς<rt>us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AP</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>from</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐξουσίας<rt>dominion</rt></ruby><rt>ἐξουσία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σκότους<rt>of darkness</rt></ruby><rt>σκότος</rt></ruby><rt>N-GSN</rt></RUBY>)A
-					- <rt>13b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μετέστησεν<rt>transferred [us]</rt></ruby><rt>μεθίστημι</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βασιλείαν<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Υἱοῦ†<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης<rt>beloved</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ‚<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
-						- ---
-						- <rt>14</rt> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ†<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἔχομεν<rt>we have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπολύτρωσιν‚<rt>redemption‚</rt></ruby><rt>ἀπολύτρωσις</rt></ruby><rt>N-ASF</rt></RUBY> =<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἄφεσιν<rt>forgiveness</rt></ruby><rt>ἄφεσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν·<rt>of sins.</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GPF</rt></RUBY>)C 
+- ---
+- <rt>13a</rt> (<RUBY><ruby><ruby>ὃς‡<rt>who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐρρύσατο<rt>has delivered</rt></ruby><rt>ῥύομαι</rt></ruby><rt>V-ANI-3S</rt></RUBY>)P <RUBY><ruby><ruby>ἡμᾶς<rt>us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AP</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>from</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐξουσίας<rt>dominion</rt></ruby><rt>ἐξουσία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σκότους<rt>of darkness</rt></ruby><rt>σκότος</rt></ruby><rt>N-GSN</rt></RUBY>)A
+- <rt>13b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μετέστησεν<rt>transferred [us]</rt></ruby><rt>μεθίστημι</rt></ruby><rt>V-AAI-3S‡</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βασιλείαν<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Υἱοῦ†<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης<rt>beloved</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ‚<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
+	- ---
+	- <rt>14</rt> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ†<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἔχομεν<rt>we have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπολύτρωσιν‚<rt>redemption‚</rt></ruby><rt>ἀπολύτρωσις</rt></ruby><rt>N-ASF</rt></RUBY> =<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἄφεσιν<rt>forgiveness</rt></ruby><rt>ἄφεσις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν·<rt>of sins.</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GPF</rt></RUBY>)C 
 
 <div style="page-break-after: always;"></div>
 
@@ -120,7 +120,7 @@
 		- 這樣的理解比較合乎句法，因為四個分詞都是 NPM (主格)，應當是用來修飾主詞 (主格)，也就是 πληρωθῆτε 的 2P。但一方面距離 πληρωθῆτε 太遠，二方面在文脈上會讓 10a (行事為人對得起主) 的主題中斷。
 	- Accordance、Bibleworks、Mounce、ZECNT 認為三組都是從屬於 10a 的 περιπατῆσαι ，意思是：行事為人對得起主 (10a)，以至於 (分詞子句表達結果 GGBB 637–39 = 中希 672–74)、 善工結果 & 知識增長 (10bc)、力上加力 (11a)、感謝天父 (11b)。
 		- 這樣的理解在句法上有瑕疵，因為四個分詞都是 NPM (主格)，如果要修飾 περιπατῆσαι (不定詞)，那麼就應該用直接受格 (不定詞的主詞要用直接受格)——不過 περιπατῆσαι 的主詞其實跟 πληρωθῆτε 相同，都是「你們」，所以即便這裡不完全合乎句法，但在語意上卻比較連貫，文法上這叫做 constructio ad sensum (GGBB 652 = 中希 688)。
-	- 合起來，四個分詞子句分成三組，共同表達 10a (行事為人對得起主，凡事蒙他喜悅) 應有的內涵：
+	- 合起來，四個分詞子句分成三組，共同表達 10a (行事為人對得起主，凡事蒙他喜悅) 應有的內涵，合起來當作狀語 A2，修飾 10a 的 περιπατῆσαι：
 		- (a) 在一切善工上持續結出果子 (10b)，並且在對神的認識上不斷增長 (10c)。
 		- (b) 在一切所需的力量上都被神加添能力，以至於能夠忍耐寬容 (11a)。
 		- (c) 滿心喜樂地感謝天父，因為他使你們有資格得到基業 (11b)。
@@ -128,8 +128,15 @@
 	- 11a 力上加力，直譯是：在一切力量上被添加能力——δυναμούμενοι 理解成 passive 比較恰當，因為 middle 的邏輯 (自己給自己增加力量) 不太通順。εἰς 表示目的 or 結果，意思是：力上加力的目的 or 結果是 ⇒ 凡事忍耐、凡事寬容。
 	- 11節最後的介系詞片語 μετὰ χαρᾶς，UBS5/NA28 都劃分到下一個子句，用來修飾 v. 12 的 εὐχαριστοῦντες 感謝。
 	- 12 用了 T(τῷ)—N(Πατρὶ)—T(τῷ)—分詞內嵌子句(ἱκανώσαντι ……φωτί) 的結構。其中介系詞片語 ἐν τῷ φωτί，就句法來說可以修飾分詞 εὐχαριστοῦντες、ἱκανώσαντι，或者名詞 μερίδα、ἁγίων；但從上下文來推敲，修飾 μερίδα
+- ---
+- v. 13 開始應該是新的一段。
+	- 就句法來說，固然 13a 的關係代名詞 ὃς 要連接到 v.12 的 Πατρὶ (父)，但同樣道理，v. 14 的 ᾧ 和 v. 15 的 ὅς 也必須連到 13b 的 Υἱοῦ (子)——這樣下來，就句法而論，其實應該要把 1:9–20 都當作一段才對。
+	- 但就文意來看，如果把四個分詞子句 (10b, 10c, 11a, 11b) 合起來當作 A2，那麼就可以把 1:9–12 當作一個語意上的段落，表達 9a 主要動詞 (不停止禱告) 所帶出的目的：認識神旨意 (9d) 以及認識神旨意所產生的結果 (10a–12)。
+	- 再者，1:13 開始談到聖父的工作 (拯救、遷移)，聖子的 (得到救贖、赦免) (把 1:13–20 當成一段
 
 
+
+<div style="page-break-after: always;"></div>
 
 ## 大綱 #1 (Outline #1)
 講員：王蕙洳  
@@ -153,17 +160,16 @@
  
 ## 大綱 #3 (Outline #3)
 
-題目：不能不對上帝說  
-- (1) 不能不 (對上帝) 感謝 (1:3–8)
+題目：不能不對上帝說 (西 1:3–12)  
+- (1) 不能不 (對上帝) **感謝** (1:3–8)
 	- (1a) 因為信望愛的果子 (1:3–5a)
 	- (1b) 因為福音的種子 (1:5b–6)
 	- (1c) 因為撒種的工人 (1:7–8)
-- (2) 不能不 (為教會) 禱告 (1:9–12)
+- (2) 不能不 (為教會) **禱告** (1:9–12)
 	- (2a) 認識上帝旨意 (1:9)
 	- (2b) 活出美好見證 (1:10–12)
 		- 標準：對得起神＋討神喜悅 (1:10a)
 		- 內涵：
-			- 言語行為 & 神學知識並進 (1:10bc)
-			- 忍耐 & 寬容力上加力 (1:11a)
-			- 喜樂 & 感恩
-
+			- 行為和神學並進 (1:10bc)
+			- 忍耐與寬容日增 (1:11a)
+			- 喜樂及感恩加多 (1:11b–12)
