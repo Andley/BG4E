@@ -6,10 +6,23 @@
       {
         "id": "cb2f3b21a5539f61",
         "type": "leaf",
+        "dimension": 50.11933174224343,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "腓立比書/2021-09 CES Syllabus.md",
+            "file": "IBG4E/HW6-Key.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "801055fb59816bd1",
+        "type": "leaf",
+        "dimension": 49.88066825775656,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW6-Key.md",
             "mode": "preview"
           }
         }
@@ -60,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -76,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腓立比書/2021-09 CES Syllabus.md",
+                "file": "IBG4E/HW6-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腓立比書/2021-09 CES Syllabus.md"
+                "file": "IBG4E/HW6-Key.md"
               }
             }
           },
@@ -121,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.43994140625
+    "width": 220.43994140625,
+    "collapsed": true
   },
   "active": "cb2f3b21a5539f61",
   "lastOpenFiles": [
+    "IBG4E/HW6-Key.md",
+    "腓立比書/2021-09 CES Syllabus.md",
     "腓立比書/2021-09 CES.md",
     "腓立比書/Untitled.md",
     "參考書目.md",
     "IBG4E/2021-CTTS.md",
     "腓立比書/腓立比書.md",
-    "IBG4E/HW6-Key.md",
     "IBG4E/Untitled.md",
     "腓立比書/Grammar Index.md",
-    "腓立比書/Phi 1.1–2.md",
-    "README.md"
+    "腓立比書/Phi 1.1–2.md"
   ]
 }
