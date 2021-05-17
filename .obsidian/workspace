@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2f3b21a5539f61",
+        "id": "801055fb59816bd1",
         "type": "leaf",
-        "dimension": 50.11933174224343,
+        "dimension": 49.345549738219894,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +16,9 @@
         }
       },
       {
-        "id": "801055fb59816bd1",
+        "id": "862fb5aed4d24935",
         "type": "leaf",
-        "dimension": 49.88066825775656,
+        "dimension": 50.654450261780106,
         "state": {
           "type": "markdown",
           "state": {
@@ -138,9 +138,10 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "cb2f3b21a5539f61",
+  "active": "801055fb59816bd1",
   "lastOpenFiles": [
     "IBG4E/HW6-Key.md",
+    "IBG4E/HW5-Key.md",
     "腓立比書/2021-09 CES Syllabus.md",
     "腓立比書/2021-09 CES.md",
     "腓立比書/Untitled.md",
@@ -148,7 +149,6 @@
     "IBG4E/2021-CTTS.md",
     "腓立比書/腓立比書.md",
     "IBG4E/Untitled.md",
-    "腓立比書/Grammar Index.md",
-    "腓立比書/Phi 1.1–2.md"
+    "腓立比書/Grammar Index.md"
   ]
 }
