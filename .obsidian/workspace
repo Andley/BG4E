@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58aef2487a384e2a",
-        "type": "leaf",
-        "dimension": 50.96277278562259,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW6-Key.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "cb2f3b21a5539f61",
         "type": "leaf",
-        "dimension": 49.0372272143774,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW6-Key.md",
+            "file": "腓立比書/2021-09 CES Syllabus.md",
             "mode": "preview"
           }
         }
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170,
-    "collapsed": true
+    "width": 170
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -90,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW6-Key.md",
+                "file": "腓立比書/2021-09 CES Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW6-Key.md"
+                "file": "腓立比書/2021-09 CES Syllabus.md"
               }
             }
           },
@@ -135,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.43994140625,
-    "collapsed": true
+    "width": 220.43994140625
   },
-  "active": "58aef2487a384e2a",
+  "active": "cb2f3b21a5539f61",
   "lastOpenFiles": [
-    "IBG4E/HW6-Key.md",
-    "腓立比書/Grammar Index.md",
+    "腓立比書/2021-09 CES.md",
     "腓立比書/Untitled.md",
+    "參考書目.md",
+    "IBG4E/2021-CTTS.md",
     "腓立比書/腓立比書.md",
+    "IBG4E/HW6-Key.md",
+    "IBG4E/Untitled.md",
+    "腓立比書/Grammar Index.md",
     "腓立比書/Phi 1.1–2.md",
-    "README.md",
-    "腓立比書/Phi 1.12–14.md",
-    "腓立比書/Phi 1.15–26.md",
-    "腓立比書/Phi 1.27–30.md",
-    "腓立比書/Phi 2.1–11.md"
+    "README.md"
   ]
 }
