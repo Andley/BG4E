@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "801055fb59816bd1",
+        "id": "4e8323dbabecaa45",
         "type": "leaf",
-        "dimension": 49.345549738219894,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW6-Key.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "862fb5aed4d24935",
-        "type": "leaf",
-        "dimension": 50.654450261780106,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW6-Key.md",
+            "file": "IBG4E/HW7-Key.md",
             "mode": "preview"
           }
         }
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW6-Key.md",
+                "file": "IBG4E/HW7-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBG4E/HW6-Key.md"
+                "file": "IBG4E/HW7-Key.md"
               }
             }
           },
@@ -138,17 +125,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "801055fb59816bd1",
+  "active": "4e8323dbabecaa45",
   "lastOpenFiles": [
+    "IBG4E/HW7-Key.md",
+    "IBG4E/HW7.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "IBG4E/HW6-Key.md",
+    "數位工具.md",
     "IBG4E/HW5-Key.md",
     "腓立比書/2021-09 CES Syllabus.md",
     "腓立比書/2021-09 CES.md",
-    "腓立比書/Untitled.md",
-    "參考書目.md",
-    "IBG4E/2021-CTTS.md",
-    "腓立比書/腓立比書.md",
-    "IBG4E/Untitled.md",
-    "腓立比書/Grammar Index.md"
+    "腓立比書/Untitled.md"
   ]
 }

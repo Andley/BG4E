@@ -36,7 +36,13 @@
   src: local("Noto Sans CJK TC");
 }
 
-
+/* ============= 列印 PDF 設定 ============= */
+@media print {
+  /* -------- 列印強調 ---------- */
+  a, strong, em {
+    color: black !important;
+  }
+}
 
 /* ============= 銀幕顯示 設定 ============= */
 /* Obsidian 介面 */
