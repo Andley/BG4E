@@ -6,21 +6,23 @@
       {
         "id": "f532bafca4983eaf",
         "type": "leaf",
+        "dimension": 44.526034712950604,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "IBG4E/HW7-Key.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "ac42f287edb0b7ef",
+        "id": "70426cf421833d4e",
         "type": "leaf",
+        "dimension": 55.473965287049396,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "IBG4E/HW7-Key.md",
             "mode": "preview"
           }
         }
@@ -71,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -87,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IBG4E/HW7-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IBG4E/HW7-Key.md"
               }
             }
           },
@@ -137,11 +140,11 @@
   },
   "active": "f532bafca4983eaf",
   "lastOpenFiles": [
+    "IBG4E/HW7-Key.md",
     "Untitled.md",
     "彼得前書/1Pe 1.1–2.md",
     "Untitled 1.md",
     "參考書目.md",
-    "IBG4E/HW7-Key.md",
     "IBG4E/HW7.md",
     "IBG4E/HW6-Key.md",
     "數位工具.md",
