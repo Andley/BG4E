@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e8323dbabecaa45",
+        "id": "f532bafca4983eaf",
         "type": "leaf",
-        "dimension": 50.516089860352146,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "彼得前書/1Pe 1.1–2.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "1ba38cc780b0476f",
-        "type": "leaf",
-        "dimension": 49.483910139647854,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "彼得前書/1Pe 1.1–2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彼得前書/1Pe 1.1–2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "彼得前書/1Pe 1.1–2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +119,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "1ba38cc780b0476f",
+  "active": "f532bafca4983eaf",
   "lastOpenFiles": [
     "彼得前書/1Pe 1.1–2.md",
     "Untitled.md",
