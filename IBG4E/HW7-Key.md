@@ -39,7 +39,7 @@
 				- <rt>15f</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τῇ<rt>with the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>καρδίᾳ<rt>heart</rt></ruby><rt>καρδία</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby>συνῶσιν<rt>they should understand‚</rt></ruby><rt>συνίημι</rt></ruby><rt>V-2AAS-3P</rt></RUBY>)P
 				- <rt>15g</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐπιστρέψωσιν<rt>should return‚</rt></ruby><rt>ἐπιστρέφω</rt></ruby><rt>V-AAS-3P</rt></RUBY>)P 
 				- <rt>15h</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἰάσομαι<rt>I will heal</rt></ruby><rt>ἰάομαι</rt></ruby><rt>V-FDI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτούς.¶<rt>them.'</rt></ruby><rt>αὐτός</rt></ruby><rt>P-APM</rt></RUBY>)C 
-	- ---
+	- _(2d) 但你們是有福的 (13:16–_
 	- <rt>16a</rt> (<RUBY><ruby><ruby>Ὑμῶν<rt>Of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S<sub>-</sub> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μακάριοι<rt>blessed</rt></ruby><rt>μακάριος</rt></ruby><rt>A-NPM</rt></RUBY>)C <sub>-</sub>S(<RUBY><ruby><ruby>οἱ<rt>[are] the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ὀφθαλμοὶ<rt>eyes‚</rt></ruby><rt>ὀφθαλμός</rt></ruby><rt>N-NPM</rt></RUBY>)S 
 		- <rt>16b</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βλέπουσιν<rt>they see;</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P 
 	- <rt>16c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>ὦτα<rt>ears</rt></ruby><rt>οὖς</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S 
@@ -62,5 +62,5 @@
 
 ## 解經 (Exegesis)
 
-
+- 13b appositional oti (GGBB 458–59 = 中希 481–82)
 ## 大綱 (Outline)
