@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "70426cf421833d4e",
+        "id": "a914087f5a397f6f",
         "type": "leaf",
+        "dimension": 45.2991452991453,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,13 +16,14 @@
         }
       },
       {
-        "id": "a914087f5a397f6f",
+        "id": "71348356bba48504",
         "type": "leaf",
+        "dimension": 54.700854700854705,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBG4E/HW7-Key.md",
-            "mode": "preview"
+            "file": "IBG4E/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -71,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170,
-    "collapsed": true
+    "width": 170
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -136,9 +137,10 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "70426cf421833d4e",
+  "active": "a914087f5a397f6f",
   "lastOpenFiles": [
     "IBG4E/HW7-Key.md",
+    "IBG4E/Untitled 1.md",
     "Untitled.md",
     "彼得前書/1Pe 1.1–2.md",
     "Untitled 1.md",
@@ -146,7 +148,6 @@
     "IBG4E/HW7.md",
     "IBG4E/HW6-Key.md",
     "數位工具.md",
-    "IBG4E/HW5-Key.md",
-    "腓立比書/2021-09 CES Syllabus.md"
+    "IBG4E/HW5-Key.md"
   ]
 }
