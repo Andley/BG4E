@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f532bafca4983eaf",
+        "id": "70426cf421833d4e",
         "type": "leaf",
-        "dimension": 44.526034712950604,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +15,8 @@
         }
       },
       {
-        "id": "70426cf421833d4e",
+        "id": "a914087f5a397f6f",
         "type": "leaf",
-        "dimension": 55.473965287049396,
         "state": {
           "type": "markdown",
           "state": {
@@ -138,7 +136,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "f532bafca4983eaf",
+  "active": "70426cf421833d4e",
   "lastOpenFiles": [
     "IBG4E/HW7-Key.md",
     "Untitled.md",

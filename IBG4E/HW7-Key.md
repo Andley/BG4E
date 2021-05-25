@@ -3,15 +3,10 @@
 
 ## 圖析 (Syntax Diagram
 
-##### 門徒的提問 (13:10)
 - <rt>10a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>προσελθόντες<rt>having come to [Him]‚</rt></ruby><rt>προσέρχομαι</rt></ruby><rt>V-2AAP-NPM</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>disciples</rt></ruby><rt>μαθητής</rt></ruby><rt>N-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>εἶπαν<rt>said</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ·<rt>to Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)C 
 	- <rt>10b</rt> (<RUBY><ruby><ruby>Διὰ<rt>Because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τί<rt>why</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παραβολαῖς<rt>parables</rt></ruby><rt>παραβολή</rt></ruby><rt>N-DPF</rt></RUBY>)A2 (<RUBY><ruby><ruby>λαλεῖς<rt>speak You</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAI-2S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς;<rt>to them?</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C
-
-##### 耶穌的回答 (太13:11–23)
 - <rt>11a</rt> (<RUBY><ruby><ruby>Ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>And</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀποκριθεὶς<rt>answering‚</rt></ruby><rt>ἀποκρίνω</rt></ruby><rt>V-AOP-NSM</rt></RUBY>)A (<RUBY><ruby><ruby>εἶπεν<rt>He said</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C 
-- **(1) 用比喻的原因**
-- <rt>11b (省略) 我用比喻對他們說</rt>
-	- _(1a) 因為天父的賞賜 (太13:11cd)：已經分成內外兩種人_
+- <rt>11b (省略) 我用比喻對他們說</rt>  
 		- <rt>11c</rt> <RUBY><ruby><ruby><mark>Ὅτι</mark><rt>Because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>δέδοται<rt>it has been granted</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark></rt></RUBY>)P {<RUBY><ruby><ruby>γνῶναι<rt>to know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>μυστήρια<rt>mysteries</rt></ruby><rt>μυστήριον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>βασιλείας<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν‚<rt>heavens;</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GPM</rt></RUBY>}S‡ 
 		- <rt>11d</rt> (<RUBY><ruby><ruby>ἐκείνοις<rt>to them</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-DPM</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δέδοται.<rt>it has been granted.</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark>‡</rt></RUBY>)P 
 	- _(1b) 因為天國的法則 (太13:12a–e)：滾雪球！_
@@ -87,3 +82,7 @@
 
 - 13b appositional oti (GGBB 458–59 = 中希 481–82)
 ## 大綱 (Outline)
+
+##### 門徒的提問 (13:10)
+##### 耶穌的回答 (太13:11–23)
+- **(1) 用比喻的原因**
