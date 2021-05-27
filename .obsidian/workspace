@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a914087f5a397f6f",
+        "id": "07e4a97bf7e09674",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IBG4E/HW7-Key.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBG4E/HW7-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IBG4E/HW7-Key.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,11 +115,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.43994140625,
-    "collapsed": true
+    "width": 220.43994140625
   },
-  "active": "a914087f5a397f6f",
+  "active": "07e4a97bf7e09674",
   "lastOpenFiles": [
+    "數位工具.md",
     "IBG4E/HW7-Key.md",
     "IBG4E/Untitled.md",
     "IBG4E/Untitled 1.md",
@@ -134,7 +128,6 @@
     "Untitled 1.md",
     "參考書目.md",
     "IBG4E/HW7.md",
-    "IBG4E/HW6-Key.md",
-    "數位工具.md"
+    "IBG4E/HW6-Key.md"
   ]
 }
