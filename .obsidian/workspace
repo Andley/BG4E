@@ -7,8 +7,10 @@
         "id": "07e4a97bf7e09674",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "HW7-Key.pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HW7-Key.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HW7-Key.pdf"
+              }
             }
           },
           {
@@ -119,15 +124,15 @@
   },
   "active": "07e4a97bf7e09674",
   "lastOpenFiles": [
+    "HW7-Key.pdf",
+    "sdcdsc.md",
+    "test.md",
+    "Untitled.md",
     "數位工具.md",
     "IBG4E/HW7-Key.md",
     "IBG4E/Untitled.md",
     "IBG4E/Untitled 1.md",
-    "Untitled.md",
     "彼得前書/1Pe 1.1–2.md",
-    "Untitled 1.md",
-    "參考書目.md",
-    "IBG4E/HW7.md",
-    "IBG4E/HW6-Key.md"
+    "Untitled 1.md"
   ]
 }
