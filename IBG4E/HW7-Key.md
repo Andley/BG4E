@@ -75,7 +75,7 @@
 	- <rt>23a</rt> (<RUBY><ruby><ruby>Ὁ<rt>That</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>)S<sub>-</sub> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <sub>-</sub>(<RUBY><ruby><ruby>ἐπὶ<rt>on</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>καλὴν<rt>good</rt></ruby><rt>καλός</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>γῆν<rt>soil</rt></ruby><rt>γῆ</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σπαρείς‚<rt>having been sown‚</rt></ruby><rt>σπείρω</rt></ruby><rt>V-2APP-NSM</rt></RUBY>)S‡
 	- <rt>23b</rt> (<RUBY><ruby><ruby>οὗτός‡<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀκούων<rt>hearing</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>συνιείς‚<rt>understanding‚</rt></ruby><rt>συνίημι</rt></ruby><rt>V-PAP-NSM</rt></RUBY>}C⁑ 
 		- <rt>23c</rt> (<RUBY><ruby><ruby>ὃς⁑<rt>who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>δὴ<rt>indeed</rt></ruby><rt>δή</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>καρποφορεῖ<rt>brings forth fruit</rt></ruby><rt>καρποφορέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
-	- _(3e) 好讓你們能結實累累 (太13:23d)_
+	- _(3e) 這樣必能結實累累 (太13:23d)_
 	- <rt>23d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ποιεῖ<rt>produces -</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby><font color='red'>ὀ</font><rt>some</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-<font color='red'>NSM</font></rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἑκατὸν‚<rt>a hundredfold‚</rt></ruby><rt>ἑκατόν</rt></ruby><rt>A-APN-NUI</rt></RUBY> <RUBY><ruby><ruby><font color='red'>ὀ</font><rt>some</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-<font color='red'>NSM</font></rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἑξήκοντα‚<rt>sixty‚</rt></ruby><rt>ἑξήκοντα</rt></ruby><rt>A-APN-NUI</rt></RUBY> <RUBY><ruby><ruby><font color='red'>ὀ</font><rt>some</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-<font color='red'>NSM</font></rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τριάκοντα.¶<rt>thirty.</rt></ruby><rt>τριάκοντα</rt></ruby><rt>A-APN-NUI</rt></RUBY>)S 
 
 
@@ -83,14 +83,16 @@
 ## 解經 (Exegesis)
 
 - 思路背景：
-	- 上文 (太13:1) 有時間、空間的切換，所以是新段落的開始。耶穌講論的對象是許多人、眾人 (太13:2)。接著到了太13:10，耶穌說話的對象似乎變成只有門徒；但接下來耶穌又對眾人 (太13:34) 說了稗子的比喻 (太13:24–29)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)，然後經文才明確地說「耶穌離開眾人」(太13:36)。
-	- 由此看來，很可能耶穌在太13:1–35 這個段落裡是對著兩群人說話：(a) 眾人；(b) 門徒——只是在不同的小段落裡有不同著墨的對象。太13:1–9、太13:24–35 是對眾人，當然也包括門徒在內；而本段經文 (太13:10–23) 是對門徒，但眾人可能也在旁邊可以聽得到。
+	- 上文 (太13:1) 有時間、空間的切換，所以是新段落的開始。耶穌講論的對象是許多人、眾人 (太13:2)。到了太13:10，耶穌說話的對象似乎變成只有門徒。
+	- 但接下來耶穌又對眾人 (太13:34) 說了稗子的比喻 (太13:24–29)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)。
+	- 然後要到了太13:36，經文才明確地說「耶穌離開眾人，進了房子」——這時候才耶穌才單獨對門徒解釋了稗子的比喻 (太13:37–43)，並且用連續三個比喻闡明了天國的寶貴與迫切 (太13:44–50)。
+	- 由此看來，耶穌在整個大段落 (太13:1–52) 裡說話的對象很可能有三種：(a) 主要針對眾人 (當然門徒也包括在內；太13:1–9、太13:24–35)；(b) 主要針對門徒 (但是眾人也聽得到；太13:10–23)；(c) 單獨只有門徒 (太13:36–52)。
 	- 
 	- 
 	- 因此本段經文 (太13:10–23) 是耶穌的門徒訓練內容，不是對未信者的佈道信息。
 	- 下文延續撒種的比喻 (太13:1–9)，
-	- 然後耶穌等眾人離開 (太13:36a)，才又應門徒之請 (太13:36b) 繼續門訓，不但解釋了稗子的比喻 (太13:37–43)，更用連續三個天國的比喻闡明天國的寶貴與迫切 (太13:44–50)。
-	- 綜合起來看，耶穌在整個大段落 (太13:1–52) 的主要對象是
+	- 然後耶穌等眾人離開 (太13:36a)，
+	- 綜合起來看，主要對象是
 - 13b appositional oti (GGBB 458–59 = 中希 481–82)
 
 
@@ -115,4 +117,4 @@ to have an intelligent grasp of someth. that challenges one's thinking or practi
 		- (3b) 聽了不願意生根的人 = 撒在石頭地的 (太13:20–21)
 		- (3c) 聽了不願意卸下纏累的人 = 撒在荊棘裡的 (太13:22)
 		- (3d) 聽了聽了願意明白 & 結果子的人 = 撒在好地上的 (太13:23abc)
-		- (3e) 好讓你們能結實累累 (太13:23d)
+		- (3e) 這樣必能結實累累 (太13:23d)
