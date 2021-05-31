@@ -10,10 +10,10 @@
 ##### 耶穌的回答 (太13:11–23)
 - <rt>11a</rt> (<RUBY><ruby><ruby>Ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>And</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀποκριθεὶς<rt>answering‚</rt></ruby><rt>ἀποκρίνω</rt></ruby><rt>V-AOP-NSM</rt></RUBY>)A (<RUBY><ruby><ruby>εἶπεν<rt>He said</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς·<rt>to them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C  
 	- **(1) 對他們，使用比喻的原因 (太13:11–15)**
-	-  _(1a) 因為天父的撿選 (太13:11cd)：已經分成兩種人_
+	-  _(1a) 因為天父的撿選 (太13:11cd)_
 	- <rt>11b</rt> <RUBY><ruby><ruby><mark>Ὅτι</mark><rt>Because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>δέδοται<rt>it has been granted</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark></rt></RUBY>)P {<RUBY><ruby><ruby>γνῶναι<rt>to know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>μυστήρια<rt>mysteries</rt></ruby><rt>μυστήριον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>βασιλείας<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν‚<rt>heavens;</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GPM</rt></RUBY>}S‡  
 	- <rt>11c</rt> (<RUBY><ruby><ruby>ἐκείνοις<rt>to them</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-DPM</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δέδοται.<rt>it has been granted.</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark>‡</rt></RUBY>)P  
-	-  _(1b) 因為天國的法則 (太13:12a–e)：滾雪球！_
+	-  _(1b) 因為滾雪球的法則 (太13:12a–e)_
 	- <rt>12a</rt> (<RUBY><ruby><ruby>ὅστις^<rt>Whoever</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NSM</rt></RUBY>)S <RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>12b</rt> (<RUBY><ruby><ruby>δοθήσεται<rt>will be given</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-FPI-3S‡</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ^<rt>to him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)C  
 	- <rt>12c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>περισσευθήσεται·<rt>he will be in abundance;</rt></ruby><rt>περισσεύω</rt></ruby><rt>V-FPI-3S^</rt></RUBY>)P  
@@ -94,15 +94,20 @@
 		- 稗子的比喻 (太13:24–30)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)——都是關乎天國的擴展進程，等時候到了 (太13:30, 33 ἕως)，不但擴張程度匪夷所思，而且會有最後的審判 (太13:36–43)。
 		- 最後三個比喻 (太13:44–50) 則是強調天國的寶貴，勉勵門徒要不計代價追求到底。
 - ---
-- v.10 
+- 太13:10 
 	- προσελθόντες 是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞，說明門徒提問的附屬動作：進前來。用舞台來想像：門徒連同眾人都站在岸上圍繞著耶穌，耶穌坐在船上說了撒種的比喻 (vv. 1–9)，然後門徒們 (複數) 往前走了幾步，開口提問。
 	- Διὰ τί 是慣用語，用於直接問句，意思是「為什麼？」(BAGD)
 - v.11a 的 ἀποκριθεὶς 也是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞。αὐτοῖς = 眾門徒——但如果以上的場景分析正確，那麼接下來這番話 (太13:11–23) 眾人也都聽得見。
-- vv.11bc 是耶穌的回答。
+- ---
+- 太13:11bc 是耶穌的回答。
+	- Ὅτι 帶出從屬子句，說明耶穌用比喻的第一個原因：因為天父的撿選和賞賜。
 	- Ὑμῖν 和 ἐκείνοις 前置，表達強烈的對比。
 	- 不定詞內嵌子句 (認識天國的奧秘) 當作主語 (S)
-	- 主要動詞 δέδοται 是現在完成式時態形式，表達先前行動所產生、直到如今仍然持續的結果狀態 (GGBB 574–76 = 中希 606–08)，語意分量最重 (Porte
-- 
+	- 兩個主要動詞 δέδοται 是現在完成式時態形式，表達先前行動所產生、直到如今仍然持續的結果狀態 (GGBB 574–76 = 中希 606–08)，語意分量最重 (Porter IGNT, 39–40)；又是被動語態，沒有標明 agency 施作者，從上下文判斷應該是 divine passive 神聖的被動語態 (GGBB 453–58 = 中希 457–60)。
+	- 合起來表達出：認識天國奧秘這件事，不是靠人自己的努力或聰明，而是靠神的撿選與賞賜 (δίδωμι)。
+- ---
+- 太13:12–13a 說明用比喻的第二個原因：因為
+- ---
 - v.13b appositional oti (GGBB 458–59 = 中希 481–82)
 
 
@@ -115,8 +120,8 @@ to have an intelligent grasp of someth. that challenges one's thinking or practi
 - 門徒的提問 (13:10)
 - 耶穌的回答 (太13:11–23)
 	- (1) 對他們，使用比喻的原因 (太13:11–15)
-		- (1a) 因為天父的撿選 (太13:11cd)：已經分成兩種人
-		- (1b) 因為天國的法則 (太13:12a–e)：滾雪球！
+		- (1a) 因為天父的撿選 (太13:11cd)
+		- (1b) 因為滾雪球的法則 (太13:12a–e)
 		- (1c) 因為他們不願意 (太13:13)
 		- (1d) 因為先知早已預言 (太13:14–15)
 	- (2) 對你們，解釋比喻的理由 (太13:16–17)
