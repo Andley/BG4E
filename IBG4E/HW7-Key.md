@@ -30,6 +30,7 @@
 		- <rt>14c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>no</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>συνῆτε‚<rt>understand;</rt></ruby><rt>συνίημι</rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P  
 		- <rt>14d</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βλέποντες<rt>seeing</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A (<RUBY><ruby><ruby>βλέψετε<rt>you will see</rt></ruby><rt>βλέπω</rt></ruby><rt>V-FAI-2P</rt></RUBY>)P 
 		- <rt>14e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>no</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἴδητε.<rt>perceive.</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P  
+		- ---
 		- <rt>15a</rt> (<RUBY><ruby><ruby>Ἐπαχύνθη<rt>Has grown dull</rt></ruby><rt>παχύνω</rt></ruby><rt>V-API-3S</rt></RUBY>)P <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>καρδία<rt>heart</rt></ruby><rt>καρδία</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>λαοῦ<rt>people</rt></ruby><rt>λαός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τούτου‚<rt>this‚</rt></ruby><rt>οὗτος</rt></ruby><rt>D-GSM</rt></RUBY>)S  
 		- <rt>15b</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῖς<rt>with the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>ὠσὶν<rt>ears</rt></ruby><rt>οὖς</rt></ruby><rt>N-DPN</rt></RUBY>)A1 (<RUBY><ruby><ruby>βαρέως<rt>barely</rt></ruby><rt>βαρέως</rt></ruby><rt>ADV</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἤκουσαν<rt>they have heard‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P  
 		- <rt>15c</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>ὀφθαλμοὺς<rt>eyes</rt></ruby><rt>ὀφθαλμός</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>of them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GPM</rt></RUBY>)A (<RUBY><ruby><ruby>ἐκάμμυσαν‚<rt>they have closed;</rt></ruby><rt>καμμύω</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P  
@@ -128,11 +129,11 @@
 	- v.13d 用 οὐδὲ = οὐ + δὲ，把論點推進：不看、不聽 → 不明白。主要動詞 συνίημι 的意思是 to have an intelligent grasp of someth. that challenges one's thinking or practice (BDAG)，換言之，要「明白」是必須付上代價的，要主動去 grasp，不是躺著什麼都不做就能明白；而且要附上代價，願意被 challenges，進而帶來改變的。
 	- 換言之，vv.13bcd 表達的是他們 (對比於門徒) 對於「認識天國奧秘」的態度，非但無心，甚至根本就不想要。
 - ---
-- 太13:14-15 是一個句子，說明用比喻的第四個原因：因為先知早已預言：他們不想悔改得醫治。
-- 13:14a 是主要子句，主語 (S) 是 T—N(προφητεία Ἠσαΐου)—T—分詞(λέγουσα) 的結構，後面帶出引用 LXX 以賽亞書 6:9–10 的經文。
+- 太13:14-15 是一個句子，說明用比喻的第四個原因：因為先知早已預言：他們不想悔改得醫治。v14a 是主要子句，主語 (S) 是 T—N(προφητεία Ἠσαΐου)—T—分詞(λέγουσα) 的結構，後面帶出引用 LXX 以賽亞書 6:9–10 的經文。
 	- vv.14bcde 的主詞都是 2P (你們)，vv. 15a 開始切換成 3S (這百姓的心)，vv.15b–g 則再換成 3P (他們)，最後 v.15h 回到 1S (我 = 耶和華)。所以用以賽亞書的背景來理解，應該分成兩段：
-		- (a) vv.14bcde — 神吩咐以賽亞去對百姓宣告的內容 (你們 ……)
-		- (b) vv.15a–h — 神給以賽亞的解釋，說明為什麼以色列人會對神的話有，
+		- (a) vv.14bcde — 神吩咐以賽亞去對百姓宣告的預言；
+		- (b) vv.15a–h — 神給以賽亞的解釋，說明為什麼以色列人會有這樣的反應。
+	- vv.14bd 結構類似，v.14b 用間接受格 Ἀκοῇ、v.14d 用分詞 βλέποντες，都當作狀語 (A)，修飾主要動詞，意思是：你們
 
 
 
