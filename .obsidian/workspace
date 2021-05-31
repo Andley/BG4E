@@ -133,9 +133,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.43994140625
+    "width": 220.43994140625,
+    "collapsed": true
   },
-  "active": "07e4a97bf7e09674",
+  "active": "d9af9e2819e070d5",
   "lastOpenFiles": [
     "IBG4E/HW7-Key.md",
     "IBG4E/HW8-Key.md",
