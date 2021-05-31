@@ -20,7 +20,7 @@
 	- <rt>12d</rt> (<RUBY><ruby><ruby>ὅστις†<rt>whoever</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P  
 	- <rt>12e</rt> <RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>ὃ‡<rt>what</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>ἔχει<rt>he has</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S†</rt></RUBY>)<rt>p</rt> }S (<RUBY><ruby><ruby>ἀρθήσεται<rt>will be taken away</rt></ruby><rt>αἴρω</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ†.<rt>him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A  
 	- <rt>13a</rt> (<RUBY><ruby><ruby>διὰ<rt>Because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this‚</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παραβολαῖς<rt>parables</rt></ruby><rt>παραβολή</rt></ruby><rt>N-DPF</rt></RUBY>)A2 (<RUBY><ruby><ruby>αὐτοῖς<rt>to them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C (<RUBY><ruby><ruby>λαλῶ‚<rt>I speak:</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P  
-	- _(1c) 因為他們不願意 (太13:13)_
+	- _(1c) 因為他們不要 (太13:13)_
 	- <rt>13b</rt> <RUBY><ruby><ruby>Ὅτι<rt>Because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βλέποντες<rt>seeing‚</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>βλέπουσιν<rt>do they see;</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
 	- <rt>13c</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκούοντες<rt>hearing‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀκούουσιν<rt>do they hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
 	- <rt>13d</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>συνίουσιν‚<rt>do they understand.</rt></ruby><rt>συνίημι</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
@@ -97,9 +97,9 @@
 - 太13:10 
 	- προσελθόντες 是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞，說明門徒提問的附屬動作：進前來。用舞台來想像：門徒連同眾人都站在岸上圍繞著耶穌，耶穌坐在船上說了撒種的比喻 (vv. 1–9)，然後門徒們 (複數) 往前走了幾步，開口提問。
 	- Διὰ τί 是慣用語，用於直接問句，意思是「為什麼？」(BAGD)
-- v.11a 的 ἀποκριθεὶς 也是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞。αὐτοῖς = 眾門徒——但如果以上的場景分析正確，那麼接下來這番話 (太13:11–23) 眾人也都聽得見。
+- 太13:11a 的 ἀποκριθεὶς 也是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞。αὐτοῖς = 眾門徒——但如果以上的場景分析正確，那麼接下來這番話 (太13:11–23) 眾人也都聽得見。
 - ---
-- 太13:11bc 是耶穌的回答。
+- 太13:11bc 開始是耶穌的回答。
 	- Ὅτι 帶出從屬子句，說明耶穌用比喻的第一個原因：因為天父的撿選和賞賜。
 	- Ὑμῖν 和 ἐκείνοις 前置，表達強烈的對比。
 	- 不定詞內嵌子句 (認識天國的奧秘) 當作主語 (S)
@@ -110,16 +110,18 @@
 	- vv.12abc 是一個句子，對等連接詞 γὰρ 承上啟下，延續 vv. 11bc 說明用比喻的原因，表達「正向滾雪球，越滾越多」的法則。
 		- v.12a 不定關係代名詞 ὅστις 表示概括的意思「無論誰」；主要動詞 ἔχει 雖然沒有補語 (C)，但從上下文推敲，應該是 v.11b 的 S‡ (認識天國的奧秘)。v.12a 雖然結構上沒有 ἐάν/εἰ 等明確的指標，但在語意上卻相當於 implicit 暗示的條件子句 (GGBB 687–89 = 中希 725–27)，而 vv. 12bc 則是暗示的結果子句，其間用 καὶ 相連。
 		- v.12b 的主詞沒有標示出來，但從上下文推敲，應該也是 v.11b 的 S‡ (認識天國的奧秘)。
-		- v.12c 的主詞沒有標示出來，但從上下文推敲，應該是 v.12a 的 ὅστις。		- 
+		- v.12c 的主詞沒有標示出來，但從上下文推敲，應該是 v.12a 的 ὅστις。
 		- 合起來就形成了「正向滾雪球，越滾越多」的法則：不論誰，只要擁有了對天國奧秘的認識，接下來上帝就會給他越來越多。
 	- vv.12de 是一個句子，對等連接詞 δὲ 把論述推進，表達「負向滾雪球，越滾越少」的法則。
 		- v.12d 跟v. 12a 一樣，是 ὅστις 帶出的 implicit 條件子句 (GGBB 687–89 = 中希 725–27)，而 v.12e 則是 implicit 結果子句。
 		- v.12e 
 			- 用關係代名詞 ὃ 帶出的內嵌子句 (what he has) 當作主語 (S)
 			- 主要動詞 ἀρθήσεται 用未來式，表示時間上將來要發生的事；被動語態，沒有標明 agency 施作者。這裡有兩種可能：(a) 跟 v.11bc 一樣，是 divine passive (GGBB 453–58 = 中希 457–60)，意思是被上帝拿走；(b) 從下文 v.19cd 來看是惡者來奪走。
-			- 從常理判斷，撒種的沒理由自己拿走；而且比喻中撒種的是農夫，把種子拿走的是飛鳥，不是農夫從上下文推敲，(b) 比較恰當，因為
+			- 從常理判斷，撒種的沒理由自己拿走；而且比喻中撒種的是農夫，把種子拿走的是飛鳥，不是農夫 ⇒ 因此 (b) 比較恰當。
+	- v.13a 呼應 v.10b 門徒的提問，也可說是 v.11b 耶穌回答之前被省略掉的子句。
+		- διὰ τοῦτο 是慣用語，當狀語 (A) 用——也有文法書當作連接詞片語使用，對於經文的理解沒有影響。
 - ---
-- v.13b appositional oti (GGBB 458–59 = 中希 481–82)
+- 太13:13bcd 是一個句子，說明用比喻的第三個原因：因為他們不願意聽、不願意看、不願意明白——他們不要天國的奧秘。
 
 
 to have an intelligent grasp of someth. that challenges one's thinking or practice (BDAG)
@@ -133,7 +135,7 @@ to have an intelligent grasp of someth. that challenges one's thinking or practi
 	- (1) 對他們，使用比喻的原因 (太13:11–15)
 		- (1a) 因為天父的撿選 (太13:11cd)
 		- (1b) 因為滾雪球的法則 (太13:12a–e)
-		- (1c) 因為他們不願意 (太13:13)
+		- (1c) 因為他們不要 (太13:13)
 		- (1d) 因為先知早已預言 (太13:14–15)
 	- (2) 對你們，解釋比喻的理由 (太13:16–17)
 		- (2a) 因為你們是有福的 (太13:16)
