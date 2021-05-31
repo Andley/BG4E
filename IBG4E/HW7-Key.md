@@ -25,7 +25,7 @@
 	- <rt>13c</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκούοντες<rt>hearing‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀκούουσιν<rt>do they hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
 	- <rt>13d</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>συνίουσιν‚<rt>do they understand.</rt></ruby><rt>συνίημι</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
 	- _(1d) 因為先知早已預言：他們不想悔改得醫治 (太13:14–15)_
-	- <rt>14a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀναπληροῦται<rt>is fulfilled</rt></ruby><rt>ἀναπληρόω</rt></ruby><rt>V-PPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς<rt>in them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>προφητεία<rt>prophecy</rt></ruby><rt>προφητεία</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>Ἠσαΐου<rt>of Isaiah‚</rt></ruby><rt>Ἡσαΐας</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>λέγουσα·<rt>saying:</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSF</rt></RUBY>)A2  
+	- <rt>14a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀναπληροῦται<rt>is fulfilled</rt></ruby><rt>ἀναπληρόω</rt></ruby><rt>V-PPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς<rt>in them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>προφητεία<rt>prophecy</rt></ruby><rt>προφητεία</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>Ἠσαΐου<rt>of Isaiah‚</rt></ruby><rt>Ἡσαΐας</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>λέγουσα·<rt>saying:</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSF</rt></RUBY>)S 
 		- <rt>14b</rt> (<RUBY><ruby><ruby>Ἀκοῇ<rt>In hearing</rt></ruby><rt>ἀκοή</rt></ruby><rt>N-DSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἀκούσετε<rt>you will hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-FAI-2P</rt></RUBY>)P  
 		- <rt>14c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>no</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>συνῆτε‚<rt>understand;</rt></ruby><rt>συνίημι</rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P  
 		- <rt>14d</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βλέποντες<rt>seeing</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A (<RUBY><ruby><ruby>βλέψετε<rt>you will see</rt></ruby><rt>βλέπω</rt></ruby><rt>V-FAI-2P</rt></RUBY>)P 
@@ -126,8 +126,15 @@
 	- vv.13bcd 的動詞都用主動語態、現在式時態形式，表達動作內部、持續的觀點，意思是他們 (門徒以外的、上帝沒有撿選的那些人)，主動、持續地不看、不聽、不明白。
 	- vv. 13bc 的分詞 βλέποντες、ἀκούοντες 也用現在式時態形式，修飾主要動詞，從上下文推敲，比較像是表達退讓 (GGBB 634–35 = 中希 669–70)，意思是：雖然、儘管他們持續在看、持續在聽，但他們還是主動、持續地不看、不聽——這中間看似矛盾，但其實意思就是「視而不見」，他們根本就沒有留心看、留意聽。
 	- v.13d 用 οὐδὲ = οὐ + δὲ，把論點推進：不看、不聽 → 不明白。主要動詞 συνίημι 的意思是 to have an intelligent grasp of someth. that challenges one's thinking or practice (BDAG)，換言之，要「明白」是必須付上代價的，要主動去 grasp，不是躺著什麼都不做就能明白；而且要附上代價，願意被 challenges，進而帶來改變的。
-	- 換言之，vv.13bcd 表達的是他們 (對比於門徒) 看待
-太15:10
+	- 換言之，vv.13bcd 表達的是他們 (對比於門徒) 對於「認識天國奧秘」的態度，非但無心，甚至根本就不想要。
+- ---
+- 太13:14-15 是一個句子，說明用比喻的第四個原因：因為先知早已預言：他們不想悔改得醫治。
+- 13:14a 是主要子句，主語 (S) 是 T—N(προφητεία Ἠσαΐου)—T—分詞(λέγουσα) 的結構，後面帶出引用 LXX 以賽亞書 6:9–10 的經文。
+	- vv.14bcde 的主詞都是 2P (你們)，vv. 15a 開始切換成 3S (這百姓的心)，vv.15b–g 則再換成 3P (他們)，最後 v.15h 回到 1S (我 = 耶和華)。所以用以賽亞書的背景來理解，應該分成兩段：
+		- (a) vv.14bcde — 神吩咐以賽亞去對百姓宣告的內容 (你們 ……)
+		- (b) vv.15a–h — 神給以賽亞的解釋，說明為什麼以色列人會對神的話有，
+
+
 
 ## 大綱#2 (Outline #2)
 
