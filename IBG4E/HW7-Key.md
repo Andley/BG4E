@@ -21,10 +21,9 @@
 	- <rt>12e</rt> <RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>ὃ<rt>what</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>ἔχει<rt>he has</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)<rt>p</rt> }S (<RUBY><ruby><ruby>ἀρθήσεται<rt>will be taken away</rt></ruby><rt>αἴρω</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A  
 	- <rt>13a</rt> (<RUBY><ruby><ruby>διὰ<rt>Because of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο^<rt>this^‚</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παραβολαῖς<rt>parables</rt></ruby><rt>παραβολή</rt></ruby><rt>N-DPF</rt></RUBY>)A2 (<RUBY><ruby><ruby>αὐτοῖς<rt>to them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C (<RUBY><ruby><ruby>λαλῶ‚<rt>I speak:</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P  
 	- _(1c) 因為他們屬靈蒙蔽 (太13:13)_
-	- <rt>13b</rt> <RUBY><ruby><ruby>Ὅτι^<rt>Because|<font color='red'>namely^</font></rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>  
-			- (<RUBY><ruby><ruby>βλέποντες<rt>seeing‚</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>βλέπουσιν<rt>do they see;</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
-			- <rt>13c</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκούοντες<rt>hearing‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀκούουσιν<rt>do they hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
-			- <rt>13d</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>συνίουσιν‚<rt>do they understand.</rt></ruby><rt>συνίημι</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
+	- <rt>13b</rt> <RUBY><ruby><ruby>Ὅτι<rt>Because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βλέποντες<rt>seeing‚</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>βλέπουσιν<rt>do they see;</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
+	- <rt>13c</rt> <RUBY><ruby><ruby>Καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκούοντες<rt>hearing‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἀκούουσιν<rt>do they hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
+	- <rt>13d</rt> <RUBY><ruby><ruby>οὐδὲ<rt>nor</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>συνίουσιν‚<rt>do they understand.</rt></ruby><rt>συνίημι</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P  
 		-  ---  
 		- <rt>14a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀναπληροῦται<rt>is fulfilled</rt></ruby><rt>ἀναπληρόω</rt></ruby><rt>V-PPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῖς<rt>in them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>προφητεία<rt>prophecy</rt></ruby><rt>προφητεία</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>Ἠσαΐου<rt>of Isaiah‚</rt></ruby><rt>Ἡσαΐας</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>λέγουσα·<rt>saying:</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSF</rt></RUBY>)A2  
 			- <rt>14b</rt> (<RUBY><ruby><ruby>Ἀκοῇ<rt>In hearing</rt></ruby><rt>ἀκοή</rt></ruby><rt>N-DSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἀκούσετε<rt>you will hear‚</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-FAI-2P</rt></RUBY>)P  
@@ -85,16 +84,17 @@
 ## 解經 (Exegesis)
 
 - 13b appositional oti (GGBB 458–59 = 中希 481–82)
-## 大綱 (Outline)
 
-##### 門徒的提問 (13:10)
-##### 耶穌的回答 (太13:11–23)
-- **(1) 用比喻的原因**
-	- _(1a) 因為天父的賞賜 (太13:11cd)：已經分成內外兩種人_
-	- _(1b) 因為天國的法則 (太13:12a–e)：滾雪球！_
-_(1c) 因為他們屬靈蒙蔽 (太13:13)_) 
-因為先知早有預言 (太13:14–15)_
-- **(2) 但你們真是有福，福氣比先知義人都大 (13:16–)**
-	- _(2a) 你們真是有福 (13:16)_
-	- _(2b) 福氣比舊約的人都大 (13:17–)_
-	- _(2c) 所以你們更是要聽！ (13:18–)_
+## 大綱#2 (Outline #2)
+
+- 門徒的提問 (13:10)
+- 耶穌的回答 (太13:11–23)
+	- (1) 用比喻的原因
+		- (1a) 因為天父的賞賜 (太13:11cd)：已經分成內外兩種人
+		- (1b) 因為天國的法則 (太13:12a–e)：滾雪球！
+		- (1c) 因為他們屬靈蒙蔽 (太13:13)
+		- (1d) 因為先知早有預言 (太13:14–15)
+	- (2) 但你們真是有福，福氣比先知義人都大 (13:16–)
+		- (2a) 你們真是有福 (13:16)
+		- (2b) 福氣比舊約的人都大 (13:17–)
+		- (2c) 所以你們更是要聽！ (13:18–)
