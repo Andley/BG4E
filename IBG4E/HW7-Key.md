@@ -12,7 +12,7 @@
 	- **(1) 對他們，使用比喻的原因 (太13:11–15)**
 	-  _(1a) 因為天父的撿選 (太13:11cd)：已經分成兩種人_
 	- <rt>11b</rt> <RUBY><ruby><ruby><mark>Ὅτι</mark><rt>Because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>δέδοται<rt>it has been granted</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark></rt></RUBY>)P {<RUBY><ruby><ruby>γνῶναι<rt>to know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>μυστήρια<rt>mysteries</rt></ruby><rt>μυστήριον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>βασιλείας<rt>kingdom</rt></ruby><rt>βασιλεία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν‚<rt>heavens;</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GPM</rt></RUBY>}S‡  
-	- <rt>11d</rt> (<RUBY><ruby><ruby>ἐκείνοις<rt>to them</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-DPM</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δέδοται.<rt>it has been granted.</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark>‡</rt></RUBY>)P  
+	- <rt>11c</rt> (<RUBY><ruby><ruby>ἐκείνοις<rt>to them</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-DPM</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δέδοται.<rt>it has been granted.</rt></ruby><rt>δίδωμι</rt></ruby><rt><mark>V-RPI-3S</mark>‡</rt></RUBY>)P  
 	-  _(1b) 因為天國的法則 (太13:12a–e)：滾雪球！_
 	- <rt>12a</rt> (<RUBY><ruby><ruby>ὅστις^<rt>Whoever</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NSM</rt></RUBY>)S <RUBY><ruby><ruby><mark>γὰρ</mark><rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 	- <rt>12b</rt> (<RUBY><ruby><ruby>δοθήσεται<rt>will be given</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-FPI-3S‡</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ^<rt>to him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)C  
@@ -82,18 +82,28 @@
 
 ## 解經 (Exegesis)
 
-- 思路背景：
-	- 上文 (太13:1) 有時間、空間的切換，所以是新段落的開始。在太13:1–9 當中，耶穌講論的對象是許多人、眾人 (太13:2)。要到了太13:10，耶穌說話的對象似乎變成只有門徒。
+- 思路場景分析：
+	- 上文 (太13:1) 有時間、空間的切換，所以是全新段落的開始。太13:36 對象、空間轉換，也是分段標記——但因為內容還是延續上文稗子的比喻，所以要到了太13:53 才算是另外一個全新段落的開始。
+	- 在太13:1–9 當中，耶穌講論的對象是許多人、眾人 (太13:2)。要到了太13:10，耶穌說話的對象似乎變成只有門徒。
 	- 但接下來耶穌又對眾人 (太13:34) 說了稗子的比喻 (太13:24–29)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)。
 	- 然後要到了太13:36，經文才明確地說「耶穌離開眾人，進了房子」——這時候才耶穌才單獨對門徒解釋了稗子的比喻 (太13:37–43)，並且用連續三個比喻闡明了天國的寶貴與迫切 (太13:44–50)。
 	- 由此看來，耶穌在整個大段落 (太13:1–52) 裡說話的對象很可能有三種情境：(a) 主要針對眾人 (當然門徒也包括在內；太13:1–9、太13:24–35)；(b) 主要針對門徒 (但是眾人也在旁邊聽得到；太13:10–23)；(c) 單獨只有門徒 (太13:36–52)。
 	- 倘若以上分析正確，那麼本段經文 (太13:10–23) 的主旨，固然是耶穌門訓的內容，但因為「眾人」也在旁邊聽得到，所以也可以理解成「耶穌對未信者的邀請」，鼓勵未信者也能像門徒一樣『進前來 προσελθόντες』(太13:10)。
 	- 整個大段落 (太13:1–52) 的主題環繞著「天國」：
 		- 撒種的比喻 (太13:1–9) 以及解釋 (太13:10–23)——都是關乎天國的內涵，從前不為人知的奧秘 (太13:11 τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν)，只賞賜給願意跟隨耶穌的門徒，藉著耶穌啟示出來天國的道 (太13:19a τὸν λόγον τῆς βασιλείας )，要結出許許多多的果實。
-		- 稗子的比喻 (太13:24–30)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)——都是關乎天國的擴展進程，不但擴張的程度匪夷所思，而且只等時候到了 (太13:30, 33 ἕως) 
+		- 稗子的比喻 (太13:24–30)、芥菜種的比喻 (太13:31–32)、麵酵的比喻 (太13:33–35)——都是關乎天國的擴展進程，等時候到了 (太13:30, 33 ἕως)，不但擴張程度匪夷所思，而且會有最後的審判 (太13:36–43)。
+		- 最後三個比喻 (太13:44–50) 則是強調天國的寶貴，勉勵門徒要不計代價追求到底。
 - ---
+- v.10 
+	- προσελθόντες 是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞，說明門徒提問的附屬動作：進前來。用舞台來想像：門徒連同眾人都站在岸上圍繞著耶穌，耶穌坐在船上說了撒種的比喻 (vv. 1–9)，然後門徒們 (複數) 往前走了幾步，開口提問。
+	- Διὰ τί 是慣用語，用於直接問句，意思是「為什麼？」(BAGD)
+- v.11a 的 ἀποκριθεὶς 也是 attendant circumstance (GGBB 640–45 = 中希 675–81) 分詞。αὐτοῖς = 眾門徒——但如果以上的場景分析正確，那麼接下來這番話 (太13:11–23) 眾人也都聽得見。
+- vv.11bc 是耶穌的回答。
+	- Ὑμῖν 和 ἐκείνοις 前置，表達強烈的對比。
+	- 不定詞內嵌子句 (認識天國的奧秘) 當作主語 (S)
+	- 主要動詞 δέδοται 是現在完成式時態形式，表達先前行動所產生、直到如今仍然持續的結果狀態 (GGBB 574–76 = 中希 606–08)，語意分量最重 (Porte
 - 
-- 13b appositional oti (GGBB 458–59 = 中希 481–82)
+- v.13b appositional oti (GGBB 458–59 = 中希 481–82)
 
 
 to have an intelligent grasp of someth. that challenges one's thinking or practice (BDAG)
