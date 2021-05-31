@@ -7,9 +7,21 @@
         "id": "07e4a97bf7e09674",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "HW7-Key.pdf"
+            "file": "IBG4E/HW7-Key.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d9af9e2819e070d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW7-Key.md",
+            "mode": "preview"
           }
         }
       }
@@ -59,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW7-Key.pdf",
+                "file": "IBG4E/HW7-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW7-Key.pdf"
+                "file": "IBG4E/HW7-Key.md"
               }
             }
           },
@@ -124,15 +137,15 @@
   },
   "active": "07e4a97bf7e09674",
   "lastOpenFiles": [
+    "IBG4E/HW7-Key.md",
+    "IBG4E/HW8-Key.md",
+    "IBG4E/HW7.md",
+    "IBG4E/HW6-Key.md",
     "HW7-Key.pdf",
     "sdcdsc.md",
     "test.md",
     "Untitled.md",
     "數位工具.md",
-    "IBG4E/HW7-Key.md",
-    "IBG4E/Untitled.md",
-    "IBG4E/Untitled 1.md",
-    "彼得前書/1Pe 1.1–2.md",
-    "Untitled 1.md"
+    "IBG4E/Untitled.md"
   ]
 }
