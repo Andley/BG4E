@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "46860815f32cbf2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e4a97bf7e09674",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW7-Key.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d9af9e2819e070d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IBG4E/HW7-Key.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d89ef4303833cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8198aa995c74f604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ac520a8ccc59a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "971c7a8a329ef702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8253e41627d2fedb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 170,
+    "collapsed": true
+  },
+  "right": {
+    "id": "92fec9da4657ec59",
+    "type": "split",
+    "children": [
+      {
+        "id": "6475f8733433b7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d357a25b83637fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IBG4E/HW7-Key.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8cb03e335959f3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "775222d07aaa15a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IBG4E/HW7-Key.md"
+              }
+            }
+          },
+          {
+            "id": "c1efe367d6e23c05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.43994140625,
+    "collapsed": true
+  },
+  "active": "07e4a97bf7e09674",
+  "lastOpenFiles": [
+    "IBG4E/HW7-Key.md",
+    "IBG4E/HW8-Key.md",
+    "IBG4E/HW7.md",
+    "IBG4E/HW6-Key.md",
+    "HW7-Key.pdf",
+    "sdcdsc.md",
+    "test.md",
+    "Untitled.md",
+    "數位工具.md",
+    "IBG4E/Untitled.md"
+  ]
+}
