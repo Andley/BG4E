@@ -3,7 +3,7 @@
 
 ## 圖析 (Syntax Diagram)
 
-- <rt>8:1</rt> «<RUBY><ruby><ruby>ἄρα<rt>therefore</rt></ruby><rt>ἄρα</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>Οὐδὲν<rt>[There is] no</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSN</rt></RUBY>)C<sub>-</sub> ... (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A <sub>-</sub>C(<RUBY><ruby><ruby>κατάκριμα<rt>condemnation</rt></ruby><rt><mark>κατάκριμα</mark></rt></ruby><rt>N-NSN</rt></RUBY>) (<RUBY><ruby><ruby>τοῖς<rt>to those</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)C 
+- <rt>8:1</rt> «<RUBY><ruby><ruby>ἄρα<rt>therefore</rt></ruby><rt>ἄρα</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>Οὐδὲν<rt>[There is] no</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSN</rt></RUBY>)S<sub>-</sub> ... (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A <sub>-</sub>S(<RUBY><ruby><ruby>κατάκριμα<rt>condemnation</rt></ruby><rt><mark>κατάκριμα</mark></rt></ruby><rt>N-NSN</rt></RUBY>) (<RUBY><ruby><ruby>τοῖς<rt>to those</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)C 
 - ---
 - <rt>8:2</rt> «<RUBY><ruby><ruby>γὰρ<rt>For</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> ... <RUBY><ruby><ruby>νόμος<rt>the law</rt></ruby><rt>νόμος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ζωῆς<rt>life</rt></ruby><rt>ζωή</rt></ruby><rt>N-GSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἠλευθέρωσέν<rt>has set free</rt></ruby><rt>ἐλευθερόω</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>σε<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AS</rt></RUBY>)C (<RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νόμου<rt>law</rt></ruby><rt>νόμος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας<rt>of sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θανάτου.<rt>of death.</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)A2 
 - ---
@@ -68,22 +68,22 @@
 	- 12–16章講實踐，談論福音的應用，也就是救恩新紀元應有的生命樣式
 - ---
 - 羅8:1 好消息，當庭宣判 ⇒ 只要在基督裡，就再也沒有定罪了！
-	- ἄρα 後置對等連接詞 (BAGD)，意思是：所以，代表承接上文 (羅7:25)——因為「靠著主耶穌基督就能脫離罪的律了」
-	- v.1 沒有動詞，是 verbless clause，文法上當作省略了 BE 動詞
-	- νῦν 時間副詞，修飾省略掉的 BE 動詞，意思是： 過去 (羅7:24 我真是苦阿！誰能救我脫離這取死的身體呢？) vs. 現在 (我真是有福啊！！)
-	- Οὐδὲν κατάκριμα 是 A—N 的結構，從上下文判斷，應該是 anarthrous first attributive position (不帶冠詞的第一修飾位置；GGBB 309–10 = 中希324–25)，意思是：沒有定罪。根據 Wallace 的 原則 (GGBB 44 = 中希
+	- 沒有動詞，是 verbless clause，文法上當作省略了 BE 動詞。主語 (S) Οὐδὲν κατάκριμα 是 A—N 的結構，從上下文判斷，應該是 anarthrous first attributive position (不帶冠詞的第一修飾位置；GGBB 309–10 = 中希324–25)，意思是：沒有定罪。
+	- ἄρα 後置對等連接詞 (BAGD)，意思是：所以，代表承接上文 (羅7:25)——因為「靠著主耶穌基督就能脫離罪的律了」；νῦν 時間副詞，修飾省略掉的 BE 動詞，意思是： 過去 (羅7:24 我真是苦阿！誰能救我脫離這取死的身體呢？) vs. 現在 (我真是有福啊！！)
 	- κατάκριμα (新約只出現 3x) = 定罪 & 刑罰，特別用來指：從亞當開始進入世界的死亡
 		- 創2:17 只是分別善惡樹上的果子，你不可吃，因為你吃的日子必定死！⇒ 創3之後亞當的肉體並沒有死亡，可見創2:17指的是：靈性死亡。
 		- 創3:22 耶和華　神說：那人已經與我們相似，能知道善惡；現在恐怕他伸手又摘生命樹的果子吃，就永遠活著。⇒ 趕出伊甸園，沒有生命樹果子可以吃，讓人靈性 & 1st 肉體的生命都要死亡。
 		- 創6:3 耶和華說：人既屬乎血氣，我的靈就不永遠住在他裡面；然而他的日子還可到一百二十年。 ⇒ 神給 1st 肉體生命訂下年限
 		- 羅5:16 因一人犯罪就定罪，也不如恩賜，原來審判是由一人而<mark>定罪</mark> (εἰς <mark>κατάκριμα</mark>)，恩賜乃是由許多過犯而稱義。
 		- 羅5:18 如此說來，因一次的過犯，眾人都被<mark>定罪</mark> (εἰς πάντας ἀνθρώπους εἰς <mark>κατάκριμα</mark>)；照樣，因一次的義行，眾人也就被稱義得生命了。⇒ 耶穌之後的信徒肉體依然死亡，可見這裡的生命指的是：靈性生命 ⇒ 要到耶穌再來時才會有肉身復活 (2nd 肉體生命 ≠ 1st 肉體生命)
+- ---
 - 羅8:2 對等連接詞 γὰρ，說明 v.1 沒有定罪的第一個原因：聖靈的能力！
-	- v.2 ὁ νόμος τοῦ Πνεύματος = 聖靈的律；τοῦ Πνεύματος τῆς ζωῆς =生命之靈
+	- v.2 ὁ νόμος τοῦ Πνεύματος τῆς ζωῆς 直譯：生命之靈的律。τοῦ Πνεύματος 應該是
 		- (≠ 613) ⇐ 
 	- 羅7:21–25 我覺得有個律，就是我願意為善的時候，便有惡與我同在。因為按着我裏面的意思，我是喜歡上帝的律；但我覺得肢體中另有個律和我心中的律交戰，把我擄去，叫我附從那肢體中犯罪的律。我真是苦啊！誰能救我脫離這取死的身體呢？感謝上帝，靠着我們的主耶穌基督就能脫離了。這樣看來，我以內心順服上帝的律，我肉體卻順服罪的律了。
 	- τοῦ νόμου τῆς ἁμαρτίας καὶ τοῦ θανάτου (≠ 613) ⇐ 我肢體中犯罪的律、罪的律
-- 8:3–4 第二個原因：耶穌的救贖！
+- ---
+- 8:3–4  對等連接詞 γὰρ，說明 v.1 沒有定罪的第二個原因：耶穌的救贖！
 	- 羅7:25a 感謝上帝，靠着我們的主耶穌基督就能脫離了。
 	- ἐν ὁμοιώματι σαρκὸς ἁμαρτίας 取了 (以) 罪的肉體的形象、樣式、模樣 ⇒ 是『好像』罪的肉體，不是『等於』罪的肉體
 		- 來4:15 因我們的大祭司並非不能體恤我們的軟弱。他也曾凡事受過試探，與我們一樣，只是他沒有犯罪。
