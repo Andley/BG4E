@@ -29,8 +29,8 @@
 - <rt>9a</rt> «<RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>Ὑμεῖς<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S ... (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐστὲ<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>flesh‚</rt></ruby><rt><font color='red'>σάρξ</font></rt></ruby><rt>N-DSF</rt></RUBY>)A2 
 - <rt>9b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πνεύματι‚<rt>Spirit‚</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> 
 	- <rt>9c</rt> <RUBY><ruby><ruby><mark>εἴπερ</mark><rt>if indeed [the]</rt></ruby><rt>εἴπερ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Πνεῦμα<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>οἰκεῖ<rt>dwells</rt></ruby><rt>οἰκέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.<rt>you;</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A 
-	- <rt>9d</rt> <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δέ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>Πνεῦμα<rt>[the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)C (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
-- <rt>9e</rt> (<RUBY><ruby><ruby>οὗτος<rt>he</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῦ.<rt>of Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
+	- <rt>9d</rt> <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δέ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>Πνεῦμα<rt>[the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ‡<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)C (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔχει‚<rt>has‚</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
+- <rt>9e</rt> (<RUBY><ruby><ruby>οὗτος<rt>he</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>ἔστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτοῦ‡.<rt>of Him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
 	- <rt>10a</rt> <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>[is] in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>you‚</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A 
 - <rt>10b</rt> «<RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY>» (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> ... <RUBY><ruby><ruby>σῶμα<rt>body [is]</rt></ruby><rt><mark>σῶμα</mark></rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>νεκρὸν<rt>dead</rt></ruby><rt>νεκρός</rt></ruby><rt>A-NSN</rt></RUBY>)C (<RUBY><ruby><ruby>διὰ<rt>on account of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίαν<rt>sin‚</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)A 
 - <rt>10c</rt> «<RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> ... <RUBY><ruby><ruby>πνεῦμα<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>ζωὴ<rt>[is] life</rt></ruby><rt>ζωή</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby>διὰ<rt>on account of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην.<rt>righteousness.</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N-ASF</rt></RUBY>)A
@@ -140,10 +140,15 @@
 		- Πνεῦμα Θεοῦ 神的靈 = Πνεῦμα Χριστοῦ 基督的靈 = 聖靈 = 叫耶穌從死裡復活者的靈
 		- 聖靈住在你裡面 = 基督在你裡面 = 你住在聖靈裡面
 		- v.9c εἴπερ 的意思是：if indeed, if after all, since (BDAG)；既是 (BAGD)——和合本的「如果」不到位，應該翻譯成：**既然**神的靈住在你們裡面！⇒ 聖靈內住，是在信徒身上已經發生的事實！！
-	- vv.9de 也是第一類條件句，先講條件子句 (v.9d)，再說結果子句 (v.9e) ⇒ 反面表述：
-	- vv.10abc  也是第一類條件句，先講條件子句 (v.10a)，再說結果子句 (v.10bc)
+	- vv.9de 也是第一類條件句，先講條件子句 (v.9d)，再說結果子句 (v.9e) ⇒ 反面表述：沒有聖靈的就不屬基督
+	- vv.10abc  也是第一類條件句，先講條件子句 (v.10a)，再說結果子句 (v.10bc) ⇒ 信徒身體 (σῶμα) 雖然會死，但心靈卻會活
+		- v.10b σῶμα (身體) ≠ σάρξ (肉體)，σῶμα 是中性的，σάρξ 在這段經文裡特指罪性 (sinful nature)
+		- v.10c δικαιοσύνην 指的是 v.4 成就在信徒身上的律法的義，也就是羅3:22 上帝的義、信基督而得到的義。
+	- vv.11ab 還是第一類條件句，先講條件子句 (v.11a)，，再說結果子句 (v.11b) ⇒ 把 vv.10abc 的論點更推進一步，不但心靈會活，而且將來身體 (σῶμα) 還要復活！
 - ---
-- 8:15–17
+- 羅8:12–13 
+- ---
+- 羅8:14–17
 	- 15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」
 	- 領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有！
 		- 8:17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)**
