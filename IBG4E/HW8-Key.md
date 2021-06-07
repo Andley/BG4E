@@ -157,11 +157,13 @@
 - 羅8:14–17 是新的段落 ⇒ 宣告上好消息，信徒身分提升到最高點：是神的兒女！
 	- v.14a 是 Pendent Nominative 懸吊主格 (GGBB 51–53 = 中希 50–51)，後面 v.14b 用 οὗτοι 取代。另外，v.14a 也是關係子句，句法上雖然獨立，但在語意上卻與 v.14b 形成暗示的條件句 (GGBB 688 = 中希726–27)。
 	- v.15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」。領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有
-	v.15cd 關係子句，關係代名詞 ᾧ 是單數、中性，所以只能指向 πνεῦμα 當先行詞。v.15d 是呼喊的內容。
+	- v.15cd 關係子句，關係代名詞 ᾧ 是單數、中性，所以只能指向 πνεῦμα 當先行詞。v.15d 是呼喊的內容。
 	- vv.16–17 更進一步指出：神兒女身分穩妥，因為有聖靈掛保證，並定要與基督同得基業，同享榮耀！！
-	- v.16a αὐτὸ 是強調用法，凸顯聖靈『親自』同做見證。
-	- v.16b ὅτι 帶出
-	- v17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)** ⇒ 就要一同得榮 (συν-δοξάζω)！！
+		- v.16a αὐτὸ 是強調用法，凸顯聖靈『親自』同做見證。
+		- v.16b ὅτι 帶出受詞子句 (GGBB 454–58 = 中希 476–81)，說明聖靈見證的內容。
+	- v.17 是第一類條件句。v.17a 是條件子句，vv.17bcde 是一系列的結果子句。
+		- 邏輯：if 是神兒女 → 是後嗣 → 不但是 (μὲν) 神的後嗣 → 更是 (δὲ) 與基督同為後嗣
+		- v17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)** ⇒ 就要一同得榮 (συν-δοξάζω)！！
 
 ## 大綱 #2 (Outline #2)
 開場：
@@ -200,3 +202,38 @@
 - **(3) 上好消息 = 做神兒女，耶穌有的你也有！ (8:14–17)**
 	- 與耶穌一同：兒女 ⇒ 後嗣 (產業) ⇒ 受苦 ⇒ 榮耀
 
+
+
+## 大綱 #3 (Outline #3)
+
+出處：
+- Harvey, John D. 2017. _Romans_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic.
+
+
+題目：The Role of the Indwelling Spirit (8:1–17)  
+大綱：  
+- (1).Status: No condemnation (οὐδὲν ἄρα νῦν κατάκριμα, 8:1)
+- (2).Reasons (8:2–11)
+	- (a).The Spirit sets free from sin and death (γάρ, 8:2–4)
+		- (1)Law is unable (8:3a)
+		- (2)God condemned sin (8:3b)
+			- By sending his son as a sin offering (8:3c)
+			- In order to fulfill requirement of law (8:4)
+	- (b(.Those in the Spirit are oriented to spiritual affairs (γάρ, 8:5–8)
+		- (1)The mindset of the Spirit is life and peace (8:6b)
+		- (2)The mindset of the flesh is death (8:6a)
+			- It is hostile to God (8:7a)
+			- It is not subject to God's law (8:7b)
+			- It cannot please God (8:8)
+	- (c).Those in the Spirit are indwelt by the Spirit (ὑμεῖς δέ, 8:9–11)
+		- (1)The body is dead because of sin (8:10a)
+		- (2)The spirit is alive because of righteousness (8:10b)
+		- (3)The Spirit will give life to the body (8:11)
+- (3).Implications (ἄρα οὖν, ἀδελφοί, 8:12–17)
+	- (a).No longer debtors to the flesh (8:12–13)
+		- (1)Living according to the flesh leads to death (8:13a)
+		- (2)Putting to death deeds of flesh by the Spirit leads to life (8:13b)
+	- (b).Now children of God (8:14–17)
+		- (1)They are led by the Spirit (8:14)
+		- (2)They received the Spirit of adoption (8:15)
+		- (3)The Spirit witnesses to their status (8:16–17)
