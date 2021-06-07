@@ -52,7 +52,7 @@
 - <rt>15a</rt>  «<RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>» <RUBY><ruby><ruby>Οὐ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ... <RUBY><ruby><ruby>ἐλάβετε<rt>you have received</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>πνεῦμα<rt>a spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>δουλείας<rt>of bondage</rt></ruby><rt>δουλεία</rt></ruby><rt>N-GSF</rt></RUBY>)C (<RUBY><ruby><ruby>πάλιν<rt>again</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φόβον<rt>fear‚</rt></ruby><rt>φόβος</rt></ruby><rt>N-ASM</rt></RUBY>)A2 
 - <rt>15b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐλάβετε<rt>you have received</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>πνεῦμα‡<rt>[the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>υἱοθεσίας<rt>of divine adoption as sons‚</rt></ruby><rt>υἱοθεσία</rt></ruby><rt>N-GSF</rt></RUBY>)C 
 	- <rt>15c</rt> (<RUBY><ruby><ruby>ἐν<rt>by</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ‡<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>κράζομεν·<rt>we cry‚</rt></ruby><rt>κράζω</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P
-		- <RUBY><ruby><ruby>Ἀββᾶ<rt>Abba!</rt></ruby><rt>ἀββά</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Πατήρ.<rt>Father!</rt></ruby><rt>πατήρ</rt></ruby><rt>N-VSM</rt></RUBY> 
+		- <rt>15d</rt> <RUBY><ruby><ruby>Ἀββᾶ<rt>Abba!</rt></ruby><rt>ἀββά</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Πατήρ.<rt>Father!</rt></ruby><rt>πατήρ</rt></ruby><rt>N-VSM</rt></RUBY> 
 - ---
 - <rt>16a</rt> (<RUBY><ruby><ruby>αὐτὸ<rt>Himself</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-NSN</rt></RUBY>)S <RUBY><ruby><ruby>συμμαρτυρεῖ<rt>bears witness with</rt></ruby><rt>συμμαρτυρέω</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματι<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>)C
 	- <rt>16b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐσμὲν<rt>we are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-1P</rt></RUBY> (<RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)C 
@@ -156,8 +156,11 @@
 - ---
 - 羅8:14–17 是新的段落 ⇒ 宣告上好消息，信徒身分提升到最高點：是神的兒女！
 	- v.14a 是 Pendent Nominative 懸吊主格 (GGBB 51–53 = 中希 50–51)，後面 v.14b 用 οὗτοι 取代。另外，v.14a 也是關係子句，句法上雖然獨立，但在語意上卻與 v.14b 形成暗示的條件句 (GGBB 688 = 中希726–27)。
-	- 15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」。領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有！
+	- v.15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」。領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有
+	v.15cd 關係子句，關係代名詞 ᾧ 是單數、中性，所以只能指向 πνεῦμα 當先行詞。v.15d 是呼喊的內容。
 	- vv.16–17 更進一步指出：神兒女身分穩妥，因為有聖靈掛保證，並定要與基督同得基業，同享榮耀！！
+	- v.16a αὐτὸ 是強調用法，凸顯聖靈『親自』同做見證。
+	- v.16b ὅτι 帶出
 	- v17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)** ⇒ 就要一同得榮 (συν-δοξάζω)！！
 
 ## 大綱 #2 (Outline #2)
