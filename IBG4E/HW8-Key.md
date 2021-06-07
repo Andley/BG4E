@@ -40,10 +40,12 @@
 	- (<RUBY><ruby><ruby>διὰ<rt>on account of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>ἐνοικοῦντος<rt>dwelling</rt></ruby><rt>ἐνοικέω</rt></ruby><rt>V-PAP-GSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>His</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.¶<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A2
 - ---
 -  <rt>12</rt> <RUBY><ruby><ruby>Ἄρα<rt>So</rt></ruby><rt>ἄρα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὖν‚<rt>then‚</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί‚<rt>brothers‚</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> (<RUBY><ruby><ruby>ὀφειλέται<rt>debtors</rt></ruby><rt>ὀφειλέτης</rt></ruby><rt>N-NPM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐσμέν<rt>we are‚</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby><ruby>τῇ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>flesh‚</rt></ruby><rt><font color='red'>σάρξ</font></rt></ruby><rt>N-DSF</rt></RUBY>)A2 (<RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>flesh</rt></ruby><rt><font color='red'>σάρξ</font></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ζῆν‚<rt>to live.</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY>)A2 
-	- <rt>13a</rt> <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>flesh</rt></ruby><rt><font color='red'>σάρξ</font></rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby>ζῆτε‚<rt>you live‚</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
-- <rt>13b</rt> (<RUBY><ruby><ruby>μέλλετε<rt>you are about</rt></ruby><rt>μέλλω</rt></ruby><rt>V-PAI-2P</rt></RUBY>) (<RUBY><ruby><ruby>ἀποθνήσκειν·<rt>to die;</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-PAN</rt></RUBY>)C 
-	- <rt>13c</rt> <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πνεύματι<rt>by [the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>πράξεις<rt>deeds</rt></ruby><rt>πρᾶξις</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby><mark>σώματος</mark><rt>body</rt></ruby><rt>σῶμα</rt></ruby><rt>N-GSN</rt></RUBY>)C (<RUBY><ruby><ruby>θανατοῦτε‚<rt>you put to death‚</rt></ruby><rt>θανατόω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
-- <rt>13d</rt> <RUBY><ruby><ruby>ζήσεσθε.<rt>you will live.</rt></ruby><rt>ζάω</rt></ruby><rt>V-FDI-2P</rt></RUBY> 
+- <rt>13a</rt> «<RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>»
+	- <rt>13b</rt> <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> ... (<RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>flesh</rt></ruby><rt><font color='red'>σάρξ</font></rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby>ζῆτε‚<rt>you live‚</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
+- <rt>13c</rt> (<RUBY><ruby><ruby>μέλλετε<rt>you are about</rt></ruby><rt>μέλλω</rt></ruby><rt>V-PAI-2P</rt></RUBY>) (<RUBY><ruby><ruby>ἀποθνήσκειν·<rt>to die;</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-PAN</rt></RUBY>)C 
+- <rt>13d</rt> «<RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>»
+	- <rt>13e</rt> <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> ... (<RUBY><ruby><ruby>πνεύματι<rt>by [the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>πράξεις<rt>deeds</rt></ruby><rt>πρᾶξις</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby><mark>σώματος</mark><rt>body</rt></ruby><rt>σῶμα</rt></ruby><rt>N-GSN</rt></RUBY>)C (<RUBY><ruby><ruby>θανατοῦτε‚<rt>you put to death‚</rt></ruby><rt>θανατόω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
+- <rt>13f</rt> <RUBY><ruby><ruby>ζήσεσθε.<rt>you will live.</rt></ruby><rt>ζάω</rt></ruby><rt>V-FDI-2P</rt></RUBY> 
 - ---
 - <rt>14a</rt> «<RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>» (<RUBY><ruby><ruby>ὅσοι<rt>As many as</rt></ruby><rt>ὅσος</rt></ruby><rt>K-NPM</rt></RUBY> ... <RUBY><ruby><ruby>Πνεύματι<rt>by [the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἄγονται‚<rt>are led‚</rt></ruby><rt>ἄγω</rt></ruby><rt>V-PPI-3P</rt></RUBY>)S 
 - <rt>14b</rt> (<RUBY><ruby><ruby>οὗτοι<rt>these</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>υἱοί<rt>sons</rt></ruby><rt>υἱός</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)C <RUBY><ruby><ruby>εἰσιν.<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> 
@@ -104,6 +106,8 @@
 - 羅8:3–4  對等連接詞 γὰρ，說明 v.1 沒有定罪的第二個原因：耶穌的救贖！
 	- 羅7:25a 感謝上帝，靠着我們的主耶穌基督就能脫離了。
 	- v.3a τὸ ἀδύνατον 可以是 ASN 或 NSN，因為 v.3a 沒有動詞，不是完整的子句，比較像是 Parenthetic Nominative 作為插語的主格 (GGBB 53–54 = 中希 52–53) ⇒ 因此，這裡當作 NSN 會比較合適。
+		- 如果當作 ASN，那麼就會是 Pendent Accusative 懸吊直接受格 (GGBB 198 = 中希 205)。
+		- Porter 《慣用語》p. 97 把這一節當作是 Accusative Apposition 同位直接受格，補充說明 v.3c。
 		- τοῦ νόμου 應該指的是羅7:21–25 中的 B = 上帝的律 = 上帝的標準、法則 = 摩西律法 (Torah) ⇒ Torah 只能設立標準，要人去遵行，但無法給人『能力』去遵行。
 	- v.3b 關係從屬子句，關係代名詞 ᾧ‡ 指 v.3a 的 ἀδύνατον；主詞內含在動詞 ἠσθένει 的 3S 裡面，指向 τοῦ νόμου ⇒ Torah 之所以軟弱、生病 (ἠσθένει)，是因為：(a) Torah 本身沒有給人能力；(b) 人有肉體 (σάρξ)，而肉體順服了罪的律 (7:25)。
 	- v.3c 是新的獨立子句，但語意上與 v.3ab 連結——在 Torah 和人都無能為力的景況下，上帝主動出手，判定「罪 = 有位格的罪 = 罪的力量、權勢 = 律C」guilty (有罪！) ⇒ **連「罪」都有罪；連「死」都要死！**
@@ -146,13 +150,15 @@
 		- v.10c δικαιοσύνην 指的是 v.4 成就在信徒身上的律法的義，也就是羅3:22 上帝的義、信基督而得到的義。
 	- vv.11ab 還是第一類條件句，先講條件子句 (v.11a)，，再說結果子句 (v.11b) ⇒ 把 vv.10abc 的論點更推進一步，不但心靈會活，而且將來身體 (σῶμα) 還要復活！
 - ---
-- 羅8:12–13 
+- 羅8:12–13 是小結 & 勸勉。
+	- v.12 提醒信徒的現況：不是欠肉體 (σάρξ) 的債，以至於要順從肉體 (σάρξ) 而活 (不定詞子句表達結果)
+	- vv.13abc 是一句；vv.13def 進展 ⇒ 目的是：勸勉信徒要活！
 - ---
-- 羅8:14–17
-	- 15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」
-	- 領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有！
-		- 8:17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)**
-		- 就要一同得榮 (συν-δοξάζω)！！
+- 羅8:14–17 是新的段落 ⇒ 宣告上好消息，信徒身分提升到最高點：是神的兒女！
+	- v.14a 是 Pendent Nominative 懸吊主格 (GGBB 51–53 = 中希 50–51)，後面 v.14b 用 οὗτοι 取代。另外，v.14a 也是關係子句，句法上雖然獨立，但在語意上卻與 v.14b 形成暗示的條件句 (GGBB 688 = 中希726–27)。
+	- 15b υἱοθεσία = 希羅社會法律術語「正式收養成為兒子」。領受「收養成為兒子」的靈 → 喊「阿爸！」 → 身分是兒女 ⇒ 產業繼承人 (κληρονόμος) ⇒ 與基督一同繼承產業 (συγ-κληρονόμος) ⇒ 基督有的，你也有！
+	- vv.16–17 更進一步指出：神兒女身分穩妥，因為有聖靈掛保證，並定要與基督同得基業，同享榮耀！！
+	- v17e **既然 (εἴπερ) 一同受苦 (συμ-πάσχω)** ⇒ 就要一同得榮 (συν-δοξάζω)！！
 
 ## 大綱 #2 (Outline #2)
 開場：
