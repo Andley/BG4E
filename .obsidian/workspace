@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "腓立比書/腓立比書分段.md",
-            "mode": "preview"
+            "file": "腓立比書/Phi 1.1–2.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腓立比書/腓立比書分段.md",
+                "file": "腓立比書/Phi 1.1–2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腓立比書/腓立比書分段.md"
+                "file": "腓立比書/Phi 1.1–2.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "c5515825148b41f0",
   "lastOpenFiles": [
+    "腓立比書/Phi 1.1–2.md",
+    "腓立比書/腓立比書分段.md",
     "腓立比書/腓立比書.md",
     "腓立比書/Grammar Index.md",
-    "腓立比書/Phi 1.1–2.md",
     "腓立比書/2021-09 CTTS Syllabus.md",
     "腓立比書/2021-09 CES Syllabus.md",
     "IBG4E/2021-CTTS.md",
     "IBG4E/HW8-Key.md",
     "IBG4E/HW7-Key.md",
-    "彼得前書/1Pe 1.1–2.md",
-    "cheatsheet.md"
+    "彼得前書/1Pe 1.1–2.md"
   ]
 }
