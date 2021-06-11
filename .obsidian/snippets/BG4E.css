@@ -33,7 +33,7 @@
 @font-face {
   font-family: InterlinearFont;
   unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("Noto Sans CJK TC");
+  src: local("新細明體");
 }
 
 /* ============= 列印 PDF 設定 ============= */
