@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "腓立比書/Phi 1.1–2.md",
-            "mode": "source"
+            "file": "腓立比書/Phi 1.3–11.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "20ba93401a12e1d6",
+        "id": "159bfeef321c9d1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "腓立比書/Phi 1.1–2.md",
+            "file": "腓立比書/Phi 1.3–11.md",
             "mode": "preview"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腓立比書/Phi 1.1–2.md",
+                "file": "腓立比書/Phi 1.3–11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腓立比書/Phi 1.1–2.md"
+                "file": "腓立比書/Phi 1.3–11.md"
               }
             }
           },
@@ -137,8 +137,8 @@
   },
   "active": "050d911b10297d23",
   "lastOpenFiles": [
-    "腓立比書/Phi 1.1–2.md",
     "腓立比書/Phi 1.3–11.md",
+    "腓立比書/Phi 1.1–2.md",
     "腓立比書/腓立比書分段.md",
     "腓立比書/腓立比書.md",
     "腓立比書/Grammar Index.md",
