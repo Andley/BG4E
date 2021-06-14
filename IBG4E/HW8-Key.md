@@ -169,11 +169,21 @@
 <div style="page-break-after: always;"></div>
 
 ## 大綱 #1 (Outline #1)
-題目：  
-經文：  
-講員：  
-大綱：  
-
+講道主題：一條回家的路  
+講員：楊上恩  
+大綱：
+- 一、兩種結局
+	- 1.疫情例證
+	- 2.兩種律－上文題要
+	- 3.兩種結局：靠著聖靈
+- 二、兩種身份
+	- 1.在我們裡面的新身分
+	- 2.不再懼怕
+	- 3.被神引導，走在回家的路上
+- 三、一條辛苦，卻平安的路
+	- 1.身分，來自於神
+	- 2.受苦的最後
+	- 3.回應：順服聖靈的引導，走在回家的路上
 
 ## 大綱 #2 (Outline #2)
 - **(1) 好消息 = 不定罪 (8:1–4)**
@@ -191,8 +201,7 @@
 ## 大綱 #3 (Outline #3)
 
 出處：
-- Harvey, John D. 2017. _Romans_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic.
-
+- Harvey, John D. _Romans_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2017.
 
 題目：The Role of the Indwelling Spirit (8:1–17)  
 大綱：  
@@ -258,4 +267,5 @@
 	- (2c) 千萬不要再去自尋死路 (8:12–13)
 - **(3) 上好消息 = 做神兒女，耶穌有的你也有！ (8:14–17)**
 	- 與耶穌一同：兒女 ⇒ 後嗣 (產業) ⇒ 受苦 ⇒ 榮耀
+
 

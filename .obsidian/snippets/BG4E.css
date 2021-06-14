@@ -39,7 +39,12 @@
 /* ============= 列印 PDF 設定 ============= */
 @media print {
   /* -------- 列印強調 ---------- */
-  a, strong, em {
+  a, strong {
+    color: black !important;
+  }
+
+  em {
+    font-style:italic !important;
     color: black !important;
   }
 }
