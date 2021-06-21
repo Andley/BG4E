@@ -77,7 +77,8 @@
 
 /* 標題顏色 */
 .titlebar-inner {
-  color: var(--text-faint);
+  color: var(--text-faint);;
+  background-color: darkslategrey;
 }
 
 .workspace-leaf.mod-active .view-header-title {
