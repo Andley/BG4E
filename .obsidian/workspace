@@ -4,72 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8beeeb3f7e29e7",
-        "type": "split",
-        "dimension": 49.27652733118971,
-        "children": [
-          {
-            "id": "9627c85c00359d39",
-            "type": "leaf",
-            "dimension": 67.41424802110818,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "df675e14f9f2d0fa",
-            "type": "leaf",
-            "dimension": 32.58575197889182,
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md",
-                "mode": "source"
-              },
-              "pinned": true
-            }
+        "id": "9627c85c00359d39",
+        "type": "leaf",
+        "dimension": 48.516949152542374,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 1.3–11.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
-        "id": "48afcb37adbb49ce",
-        "type": "split",
-        "dimension": 50.72347266881029,
-        "children": [
-          {
-            "id": "4b26c4a0e05c788d",
-            "type": "leaf",
-            "dimension": 67.76750330250991,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "66 猶大書/Jud 1.1–2.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "3874b6b452964b51",
-            "type": "leaf",
-            "dimension": 32.23249669749009,
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md",
-                "mode": "preview"
-              },
-              "pinned": true
-            }
+        "id": "4b26c4a0e05c788d",
+        "type": "leaf",
+        "dimension": 51.483050847457626,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "66 猶大書/Jud 1.1–2.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
