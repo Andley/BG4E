@@ -4,28 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "050d911b10297d23",
-        "type": "leaf",
-        "dimension": 42.323097463284384,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "57 腓立比書/Phi 1.3–11.md",
-            "mode": "source"
+        "id": "ff8beeeb3f7e29e7",
+        "type": "split",
+        "dimension": 49.27652733118971,
+        "children": [
+          {
+            "id": "9627c85c00359d39",
+            "type": "leaf",
+            "dimension": 67.41424802110818,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "57 腓立比書/Phi 1.3–11.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "df675e14f9f2d0fa",
+            "type": "leaf",
+            "dimension": 32.58575197889182,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "57 腓立比書/Phi 1.3–11.md",
+                "mode": "source"
+              },
+              "pinned": true
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "7d0b1b98c4d9d678",
-        "type": "leaf",
-        "dimension": 57.67690253671562,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "57 腓立比書/Phi 1.3–11.md",
-            "mode": "preview"
+        "id": "48afcb37adbb49ce",
+        "type": "split",
+        "dimension": 50.72347266881029,
+        "children": [
+          {
+            "id": "4b26c4a0e05c788d",
+            "type": "leaf",
+            "dimension": 67.76750330250991,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66 猶大書/Jud 1.1–2.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "3874b6b452964b51",
+            "type": "leaf",
+            "dimension": 32.23249669749009,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "57 腓立比書/Phi 1.3–11.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md",
+                "file": "66 猶大書/Jud 1.1–2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md"
+                "file": "66 猶大書/Jud 1.1–2.md"
               }
             }
           },
@@ -138,17 +182,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "050d911b10297d23",
+  "active": "4b26c4a0e05c788d",
   "lastOpenFiles": [
+    "66 猶大書/Jud 1.1–2.md",
     "57 腓立比書/Phi 1.3–11.md",
+    "57 腓立比書/Phi 1.1–2.md",
+    "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Untitled.md",
     "57 腓立比書/腓立比書分段.md",
     "IBG4E/2021-CTTS.md",
     "IBG4E/HW8-Key.md",
     "IBG4E/HW7-Key.md",
-    "66 猶大書/Jud 1.3–4.md",
-    "66 猶大書/Untitled.md",
-    "66 猶大書/Jud 1.1–2.md",
-    "IBG4E/Untitled.md",
-    "腓立比書/Phi 1.3–11.md"
+    "66 猶大書/Jud 1.3–4.md"
   ]
 }
