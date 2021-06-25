@@ -4,14 +4,146 @@
     "type": "split",
     "children": [
       {
-        "id": "6235adc1eff00219",
+        "id": "da397a277abe3ef4",
+        "type": "split",
+        "dimension": 43.83561643835616,
+        "children": [
+          {
+            "id": "0baf8036421f28ed",
+            "type": "leaf",
+            "dimension": 58.493589743589745,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E–III/HW1.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "0baf8036421f28ed",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":139},\"to\":{\"line\":3,\"ch\":139}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fd35b84a425b1cd4",
+            "type": "leaf",
+            "dimension": 41.506410256410255,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E–III/HW1.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "fd35b84a425b1cd4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "10b3e554626e6f36",
+        "type": "split",
+        "dimension": 23.076923076923077,
+        "children": [
+          {
+            "id": "8c68e0819c42911a",
+            "type": "leaf",
+            "dimension": 58.01282051282052,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E–III/HW1.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "8c68e0819c42911a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "307397dee73404bf",
+            "type": "leaf",
+            "dimension": 41.98717948717949,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E–III/HW1.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "307397dee73404bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "f9bafad264d23956",
         "type": "leaf",
+        "dimension": 33.08746048472076,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BG4E–II/2021-09 CES Syllabus.md",
+            "file": "BG4E–I/子句結構.md",
             "mode": "source"
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–I/easily confused words.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":24},\"to\":{\"line\":12,\"ch\":24}}}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–I/子句結構.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–II/2021-09 CTTS Syllabus.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
         }
       }
     ],
@@ -60,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 220
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -76,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E–II/2021-09 CES Syllabus.md",
+                "file": "BG4E–III/HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E–II/2021-09 CES Syllabus.md"
+                "file": "BG4E–III/HW1.md"
               }
             }
           },
@@ -124,17 +256,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "6235adc1eff00219",
+  "active": "0baf8036421f28ed",
   "lastOpenFiles": [
-    "57 腓立比書/2021-09 CES Syllabus.md",
+    "BG4E–III/HW1.md",
+    "BG4E–II/2021-09 CES Syllabus.md",
+    "BG4E–I/子句結構.md",
+    "BG4E–II/2021-09 CTTS Syllabus.md",
+    "BG4E–I/easily confused words.md",
+    "BG4E–III/Untitled.md",
+    "BG4E–III/2021-CTTS.md",
     "Syntax/IBG4E-Syntax.md",
-    "進階教材/2021-CTTS.md",
-    "65 猶大書/Jud 1.1–2.md",
-    "65 猶大書/Jud 1.3–4.md",
-    "57 腓立比書/Phi 2.1–11.md",
-    "57 腓立比書/Phi 1.15–26.md",
-    "57 腓立比書/Phi 1.12–14.md",
-    "57 腓立比書/Phi 1.3–11.md",
-    "57 腓立比書/Phi 1.1–2.md"
+    "57 腓立比書/2021-09 CES Syllabus.md",
+    "進階教材/2021-CTTS.md"
   ]
 }
