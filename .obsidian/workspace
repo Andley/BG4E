@@ -4,108 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9bafad264d23956",
+        "id": "b38443952f0865be",
         "type": "leaf",
-        "dimension": 55.817737998372664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BG4E–III/1Jo 1.5–10.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}},\"scroll\":10.961507694748105}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/Untitled 1.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":189},\"to\":{\"line\":6,\"ch\":189}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":116.01949976788731}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":25680},\"to\":{\"line\":3,\"ch\":25680}},\"scroll\":7.8495}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW3.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":189},\"to\":{\"line\":6,\"ch\":189}},\"scroll\":7.8495}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1-Key.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":189},\"to\":{\"line\":6,\"ch\":189}},\"scroll\":6.778041398136127}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"65 猶大書/Jud 1.1–2.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f9bafad264d23956",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–II/2021-09 CTTS Syllabus.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "dea335d5aac36790",
-        "type": "leaf",
-        "dimension": 44.182262001627336,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BG4E–III/1Jo 1.5–10.md",
+            "file": "62 約翰一書/1Jo 1.5–10.md",
             "mode": "preview"
           }
         },
@@ -113,10 +17,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "dea335d5aac36790",
+              "leaf": "b38443952f0865be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":8.345172504702399}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"62 約翰一書/1Jo 1.5–10.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b38443952f0865be",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -179,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167,
-    "collapsed": true
+    "width": 167
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -196,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E–III/1Jo 1.5–10.md",
+                "file": "62 約翰一書/1Jo 1.5–10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E–III/1Jo 1.5–10.md"
+                "file": "62 約翰一書/1Jo 1.5–10.md"
               }
             },
             "pane-relief:history-v1": {
@@ -260,7 +169,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "f9bafad264d23956",
+  "active": "b38443952f0865be",
   "lastOpenFiles": [
     "BG4E–III/1Jo 1.5–10.md",
     "BG4E–III/Untitled 2.md",
