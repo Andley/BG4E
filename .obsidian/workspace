@@ -6,16 +6,77 @@
       {
         "id": "f9bafad264d23956",
         "type": "leaf",
+        "dimension": 55.817737998372664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BG4E–III/HW1-Key.md",
+            "file": "BG4E–III/1Jo 1.5–10.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.0025653358852620756}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/Untitled 1.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1-Key.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":189},\"to\":{\"line\":6,\"ch\":189}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":116.01949976788731}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW4.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":25680},\"to\":{\"line\":3,\"ch\":25680}},\"scroll\":7.8495}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW3.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":189},\"to\":{\"line\":6,\"ch\":189}},\"scroll\":7.8495}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW1-Key.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f9bafad264d23956",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/HW2-Key.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "f9bafad264d23956",
               "group": null,
@@ -32,6 +93,29 @@
               "leaf": "f9bafad264d23956",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–II/2021-09 CTTS Syllabus.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dea335d5aac36790",
+        "type": "leaf",
+        "dimension": 44.182262001627336,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BG4E–III/1Jo 1.5–10.md",
+            "mode": "preview"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "dea335d5aac36790",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             }
           ]
@@ -54,6 +138,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -69,6 +157,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -77,13 +169,18 @@
             "state": {
               "type": "starred",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 167
+    "width": 167,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -99,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E–III/HW1-Key.md",
+                "file": "BG4E–III/1Jo 1.5–10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +205,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -119,6 +220,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -127,8 +232,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E–III/HW1-Key.md"
+                "file": "BG4E–III/1Jo 1.5–10.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -137,6 +246,10 @@
             "state": {
               "type": "empty",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -149,15 +262,15 @@
   },
   "active": "f9bafad264d23956",
   "lastOpenFiles": [
+    "BG4E–III/1Jo 1.5–10.md",
+    "BG4E–III/Untitled 2.md",
+    "BG4E–III/Untitled 1.md",
+    "BG4E–III/HW2-Key.md",
     "BG4E–III/HW1-Key.md",
+    "BG4E–III/HW4.md",
+    "BG4E–III/HW3.md",
     "BG4E–III/HW4-Key.md",
     "BG4E–III/HW3-Key.md",
-    "BG4E–III/HW2-Key.md",
-    "65 猶大書/Jud 1.1–2.md",
-    "BG4E–III/HW1.md",
-    "BG4E–II/2021-09 CTTS Syllabus.md",
-    "BG4E–I/子句結構.md",
-    "BG4E–II/2021-09 CES Syllabus.md",
-    "BG4E–I/easily confused words.md"
+    "65 猶大書/Jud 1.1–2.md"
   ]
 }
