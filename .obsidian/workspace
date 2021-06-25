@@ -21,7 +21,7 @@
               "leaf": "f9bafad264d23956",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.0025653358852620756}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}},\"scroll\":10.961507694748105}"
             },
             {
               "leaf": "f9bafad264d23956",
@@ -116,7 +116,7 @@
               "leaf": "dea335d5aac36790",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BG4E–III/1Jo 1.5–10.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":8.345172504702399}"
             }
           ]
         }
