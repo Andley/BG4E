@@ -20,7 +20,7 @@
               "leaf": "7320f4229e58d199",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":410},\"to\":{\"line\":0,\"ch\":410}}}"
+              "eState": "{}"
             },
             {
               "leaf": "7320f4229e58d199",
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167,
-    "collapsed": true
+    "width": 129.99999809265137
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -192,7 +191,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "7320f4229e58d199",
+  "active": "82be7a297807b550",
   "lastOpenFiles": [
     "57 腓立比書/Phi 1.1–2.md",
     "62 約翰一書/1Jo 1.5–10.md",
