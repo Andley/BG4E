@@ -20,7 +20,7 @@
               "leaf": "7320f4229e58d199",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":5},\"to\":{\"line\":2,\"ch\":5}}}"
             },
             {
               "leaf": "7320f4229e58d199",
@@ -191,7 +191,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "82be7a297807b550",
+  "active": "7320f4229e58d199",
   "lastOpenFiles": [
     "57 腓立比書/Phi 1.1–2.md",
     "62 約翰一書/1Jo 1.5–10.md",
