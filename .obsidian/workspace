@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Phi 1.1–2.md",
+            "file": "57 腓立比書/Phi 1.3–11.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "7320f4229e58d199",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7320f4229e58d199",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":5},\"to\":{\"line\":2,\"ch\":5}}}"
+              "eState": "{\"scroll\":3.373015619519684}"
             },
             {
               "leaf": "7320f4229e58d199",
@@ -32,22 +38,24 @@
         }
       },
       {
-        "id": "82be7a297807b550",
+        "id": "78e3706ffe70766e",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Phi 1.1–2.md",
+            "file": "57 腓立比書/Phi 1.3–11.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "82be7a297807b550",
+              "leaf": "78e3706ffe70766e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             }
           ]
@@ -127,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Phi 1.1–2.md",
+                "file": "57 腓立比書/Phi 1.3–11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Phi 1.1–2.md"
+                "file": "57 腓立比書/Phi 1.3–11.md"
               }
             },
             "pane-relief:history-v1": {
@@ -193,6 +201,7 @@
   },
   "active": "7320f4229e58d199",
   "lastOpenFiles": [
+    "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.1–2.md",
     "62 約翰一書/1Jo 1.5–10.md",
     "BG4E–III/1Jo 1.5–10.md",
@@ -201,7 +210,6 @@
     "BG4E–III/HW2-Key.md",
     "BG4E–III/HW1-Key.md",
     "BG4E–III/HW4.md",
-    "BG4E–III/HW3.md",
-    "BG4E–III/HW4-Key.md"
+    "BG4E–III/HW3.md"
   ]
 }
