@@ -4,12 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b38443952f0865be",
+        "id": "7320f4229e58d199",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 1.5–10.md",
+            "file": "57 腓立比書/Phi 1.1–2.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7320f4229e58d199",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":410},\"to\":{\"line\":0,\"ch\":410}}}"
+            },
+            {
+              "leaf": "7320f4229e58d199",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "82be7a297807b550",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 1.1–2.md",
             "mode": "preview"
           }
         },
@@ -17,15 +45,9 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "b38443952f0865be",
+              "leaf": "82be7a297807b550",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"62 約翰一書/1Jo 1.5–10.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b38443952f0865be",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             }
           ]
@@ -89,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167
+    "width": 167,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -105,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 約翰一書/1Jo 1.5–10.md",
+                "file": "57 腓立比書/Phi 1.1–2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62 約翰一書/1Jo 1.5–10.md"
+                "file": "57 腓立比書/Phi 1.1–2.md"
               }
             },
             "pane-relief:history-v1": {
@@ -169,8 +192,10 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "b38443952f0865be",
+  "active": "7320f4229e58d199",
   "lastOpenFiles": [
+    "57 腓立比書/Phi 1.1–2.md",
+    "62 約翰一書/1Jo 1.5–10.md",
     "BG4E–III/1Jo 1.5–10.md",
     "BG4E–III/Untitled 2.md",
     "BG4E–III/Untitled 1.md",
@@ -178,8 +203,6 @@
     "BG4E–III/HW1-Key.md",
     "BG4E–III/HW4.md",
     "BG4E–III/HW3.md",
-    "BG4E–III/HW4-Key.md",
-    "BG4E–III/HW3-Key.md",
-    "65 猶大書/Jud 1.1–2.md"
+    "BG4E–III/HW4-Key.md"
   ]
 }
