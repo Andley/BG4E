@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "57 腓立比書/腓立比書筆記.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,8 @@
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "62fbae01811412c4",
