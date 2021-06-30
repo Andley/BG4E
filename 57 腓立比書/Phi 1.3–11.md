@@ -1,3 +1,4 @@
+### 圖析
 
 - <rt>1:3</rt> (<RUBY><ruby><ruby><mark>Εὐχαριστῶ</mark><rt>就感謝</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>我的</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C 
 	- (<RUBY><ruby><ruby>ἐπὶ<rt>-</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>我每逢</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>想念</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1
@@ -35,3 +36,11 @@
 		- (<RUBY><ruby><ruby>εἰς<rt>直到</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμέραν<rt>日子</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ‚<rt>基督的</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A1
 		- <rt>1:11</rt> { <rt>(</rt><RUBY><ruby><ruby>πεπληρωμένοι<rt>結滿了</rt></ruby><rt>πληρόω</rt></ruby><rt>V-RPP-NPM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>καρπὸν<rt>果子</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνης<rt>仁義的</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N-GSF</rt></RUBY> _<RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <rt></rt><RUBY><ruby><ruby>διὰ<rt>並靠着</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY><rt>_)c</rt> 
 			- <rt>(</rt><RUBY><ruby><ruby>εἰς<rt>歸與</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>榮耀</rt></ruby><rt>δόξα</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔπαινον<rt>稱讚</rt></ruby><rt>ἔπαινος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.¶<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>)a</rt> }A2
+
+
+### 文法筆記
+
+
+
+---
+[回到腓立比書](%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8%20Notes.md)

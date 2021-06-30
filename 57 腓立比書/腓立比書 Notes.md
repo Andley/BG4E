@@ -1,8 +1,12 @@
+# ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
 
-### [[腓立比書 Interlinear]]
+Note: 經文段落、標題根據 UBS5；Interlinear 內文則依照 [OGNT](https://github.com/eliranwong/OpenGNT) 根據 NA28 所用的大小寫 & 分段記號 (¶)。
+
+
+### Interlinear
+[[腓立比書 Interlinear]]
 
 ### 分段標題 & 文法筆記
-Note: 經文段落、標題根據 UBS5；Interlinear 內文則依照 [OGNT](https://github.com/eliranwong/OpenGNT) 根據 NA28 所用的大小寫 & 分段記號 (¶)。
 
 - Salutation
 	- [[Phi 1.1–2]]

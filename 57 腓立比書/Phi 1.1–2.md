@@ -1,3 +1,4 @@
+### 圖析
 - <rt>1:1</rt> (<RUBY><ruby><ruby>Παῦλος<rt>保羅</rt></ruby><rt>Παῦλος</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>和</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τιμόθεος<rt>提摩太</rt></ruby><rt>Τιμόθεος</rt></ruby><rt>N-NSM-P</rt></RUBY> = <RUBY><ruby><ruby>δοῦλοι<rt>僕人</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌的</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)S …省略 γράφω...
 	- <RUBY><ruby><ruby>Πᾶσιν<rt>眾</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίοις<rt>聖徒</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-DPM</rt></RUBY> 
 		- <RUBY><ruby><ruby>ἐν<rt>住</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>
@@ -7,3 +8,9 @@
 - <rt>1:2</rt> (<RUBY><ruby><ruby>Χάρις<rt>恩惠</rt></ruby><rt>χάρις</rt></ruby><rt>N-NSF</rt></RUBY> «...» <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>平安</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N-NSF</rt></RUBY>)S ...省略 εἰμί...
 	- ( «<RUBY><ruby><ruby>ὑμῖν<rt>歸與你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>» )A1 
 	- (<RUBY><ruby><ruby>ἀπὸ<rt>從</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>父</rt></ruby><rt>πατήρ</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>我們的</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>並</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>主</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ.¶<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A2
+
+### 文法筆記
+
+
+---
+[回到腓立比書](%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8%20Notes.md)
