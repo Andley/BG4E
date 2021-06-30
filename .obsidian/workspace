@@ -10,17 +10,23 @@
           "type": "markdown",
           "state": {
             "file": "57 腓立比書/腓立比書筆記.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Vocabulary.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":1}}}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -128,12 +134,6 @@
               "leaf": "62fbae01811412c4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.2–11.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":57},\"to\":{\"line\":9,\"ch\":57}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.1.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":57},\"to\":{\"line\":9,\"ch\":57}}}"
             }
           ]
@@ -279,14 +279,14 @@
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
     "57 腓立比書/腓立比書筆記.md",
+    "57 腓立比書/Philippians-Vocabulary.md",
+    "57 腓立比書/Philippians-Syntax.md",
+    "57 腓立比書/Philippians-Style.md",
     "57 腓立比書/Untitled.md",
     "57 腓立比書/Philippians–Interlinear.md",
     "57 腓立比書/腓立比書 Interlinear.pdf",
     "57 腓立比書/腓立比書 Notes.md",
     "57 腓立比書/Phi 1.1–2.md",
-    "57 腓立比書/腓立比書 Interlinear.md",
-    "README.md",
-    "57 腓立比書/Phi 4.21–23.md",
-    "57 腓立比書/Phi 4.15–20.md"
+    "57 腓立比書/腓立比書 Interlinear.md"
   ]
 }
