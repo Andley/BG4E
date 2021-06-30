@@ -9,24 +9,24 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/腓立比書筆記.md",
+            "file": "57 腓立比書/Philippians-Syntax.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Vocabulary.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Syntax.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":1}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/腓立比書筆記.md",
+                "file": "57 腓立比書/Philippians-Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/腓立比書筆記.md"
+                "file": "57 腓立比書/Philippians-Syntax.md"
               }
             },
             "pane-relief:history-v1": {
@@ -278,9 +278,9 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
+    "57 腓立比書/Philippians-Syntax.md",
     "57 腓立比書/腓立比書筆記.md",
     "57 腓立比書/Philippians-Vocabulary.md",
-    "57 腓立比書/Philippians-Syntax.md",
     "57 腓立比書/Philippians-Style.md",
     "57 腓立比書/Untitled.md",
     "57 腓立比書/Philippians–Interlinear.md",
