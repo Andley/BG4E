@@ -2,7 +2,8 @@
 ### [[腓立比書 Interlinear]]
 
 ### 分段標題 & 文法筆記
-Note: 分段標題按照 UBS5；Interlinear 內文分段則是依照 [OGNT](https://github.com/eliranwong/OpenGNT) 根據
+Note: 經文段落、標題根據 UBS5；Interlinear 內文則依照 [OGNT](https://github.com/eliranwong/OpenGNT) 根據 NA28 所用的大小寫 & 分段記號 (¶)。
+
 - Salutation
 	- [[Phi 1.1–2]]
 - Paul's Prayer for the Philippians
@@ -29,5 +30,6 @@ Note: 分段標題按照 UBS5；Interlinear 內文分段則是依照 [OGNT](http
 - Acknowledgement of the Philippians' Gift
 	- [[Phi 4.10–14]]
 	- [[Phi 4.15–20]]
+- Final Greetings
 	- [[Phi 4.21–23]]
 

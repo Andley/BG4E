@@ -10,23 +10,77 @@
           "type": "markdown",
           "state": {
             "file": "57 腓立比書/腓立比書 Notes.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 4.21–23.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":14.601850856601496}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":74.91729621167453}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":606},\"to\":{\"line\":8,\"ch\":605}},\"scroll\":3.1979164203835957}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":102},\"to\":{\"line\":4,\"ch\":102}}}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -81,54 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":0},\"to\":{\"line\":70,\"ch\":0}},\"scroll\":67.26685841456373}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"cheatsheet.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":18.987577118782916}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Untitled.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":9.540290425033382}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":19.29775308701836}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}},\"scroll\":0}"
             }
           ]
         }
@@ -273,14 +279,14 @@
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
     "57 腓立比書/腓立比書 Notes.md",
+    "57 腓立比書/腓立比書 Interlinear.md",
+    "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Phi 1.1–2.md",
     "57 腓立比書/Phi 4.21–23.md",
     "57 腓立比書/Phi 4.15–20.md",
     "57 腓立比書/Phi 4.10–14.md",
     "57 腓立比書/Phi 4.8–9.md",
     "57 腓立比書/Phi 4.2–7.md",
-    "57 腓立比書/Phi 3.17–4.1.md",
-    "57 腓立比書/Phi 3.12–16.md",
-    "57 腓立比書/Phi 3.1–11.md",
-    "57 腓立比書/Phi 2.25–30.md"
+    "57 腓立比書/Phi 3.17–4.1.md"
   ]
 }
