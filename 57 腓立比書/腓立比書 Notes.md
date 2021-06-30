@@ -20,10 +20,12 @@ Note: 經文段落、標題根據 UBS5；Interlinear 內文則依照 [OGNT](http
 	- [[Phi 2.19–24]]
 	- [[Phi 2.25–30]]
 - The True Righteousness
-	- [[Phi 3.1–11]]
+	- [[Phi 3.1]]
+	- [[Phi 3.2–11]]
 - Pressing toward the Mark
 	- [[Phi 3.12–16]]
-	- [[Phi 3.17–4.1]]
+	- [[Phi 3.17–21]]
+	- [[Phi 4.1]]
 - Exhortations
 	- [[Phi 4.2–7]]
 	- [[Phi 4.8–9]]
