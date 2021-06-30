@@ -9,13 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Untitled.md",
+            "file": "57 腓立比書/腓立比書 Notes.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 4.21–23.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
@@ -25,25 +43,43 @@
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/2) Philippians Syntax Notes.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 2.1–11.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/1) Philippians Interlinear.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0.0089}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/2) Philippians Syntax Notes.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/1) Philippians Interlinear.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":0},\"to\":{\"line\":70,\"ch\":0}},\"scroll\":67.26685841456373}"
             },
             {
@@ -61,7 +97,7 @@
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/1) Philippians Interlinear.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
             },
             {
@@ -73,25 +109,25 @@
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/1) Philippians Interlinear.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":9.540290425033382}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/2) Philippians Syntax Notes.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":19.29775308701836}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/1) Philippians Interlinear.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/2) Philippians Syntax Notes.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Notes.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}},\"scroll\":0}"
             }
           ]
@@ -171,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Untitled.md",
+                "file": "57 腓立比書/腓立比書 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Untitled.md"
+                "file": "57 腓立比書/腓立比書 Notes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -236,15 +272,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "57 腓立比書/Untitled.md",
-    "57 腓立比書/2) Philippians Syntax Notes.md",
-    "57 腓立比書/1) Philippians Interlinear.md",
-    "57 腓立比書/腓立比書分段.md",
-    "57 腓立比書/Philippians.md",
-    "cheatsheet.md",
-    "57 腓立比書/Phi 1.12–14.md",
-    "57 腓立比書/Phi 1.3–11.md",
-    "57 腓立比書/Phi 1.1–2.md",
-    "62 約翰一書/1Jo 1.5–10.md"
+    "57 腓立比書/腓立比書 Notes.md",
+    "57 腓立比書/Phi 4.21–23.md",
+    "57 腓立比書/Phi 4.15–20.md",
+    "57 腓立比書/Phi 4.10–14.md",
+    "57 腓立比書/Phi 4.8–9.md",
+    "57 腓立比書/Phi 4.2–7.md",
+    "57 腓立比書/Phi 3.17–4.1.md",
+    "57 腓立比書/Phi 3.12–16.md",
+    "57 腓立比書/Phi 3.1–11.md",
+    "57 腓立比書/Phi 2.25–30.md"
   ]
 }

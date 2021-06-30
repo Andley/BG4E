@@ -1,5 +1,8 @@
-[[1) Philippians Interlinear]]
-UBS5 分段 & 標題
+
+### [[腓立比書 Interlinear]]
+
+### 分段標題 & 文法筆記
+Note: 分段標題按照 UBS5；Interlinear 內文分段則是依照 [OGNT](https://github.com/eliranwong/OpenGNT) 根據
 - Salutation
 	- [[Phi 1.1–2]]
 - Paul's Prayer for the Philippians
