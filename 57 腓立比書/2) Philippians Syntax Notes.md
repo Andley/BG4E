@@ -1,4 +1,4 @@
-[[Philippians]]
+[[1) Philippians Interlinear]]
 UBS5 分段 & 標題
 - Salutation
 	- [[Phi 1.1–2]]
