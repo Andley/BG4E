@@ -3,15 +3,14 @@
 中文翻譯儘量按照：里查兹(Richards, J. C.)。《朗文语言教学与应用语言学词典》。外语教学与研究出版社，2002。
 
 
-## 全民希臘文初階教材<br>Basic–Biblical Greek for Everyone (BBG4E)
-- 課程理念
-- 課程大綱
+## 全民希臘文 I<br>Biblical Greek for Everyone I (BBG4E I)
 
 
-## 全民希臘文進階教材<br>Intermediate–Biblical Greek for Everyone (IBG4E)
-- 課程理念
-- 課程大綱
 
+## 全民希臘文 II<br>Biblical Greek for Everyone II (BG4E II)
+
+
+## 全民希臘文 III<br>Biblical Greek for Everyone II (BG4E III)
  
 
 ## 進階句法 (IBG4E–Syntax)
@@ -20,7 +19,7 @@
 
 
 ## 單卷解經
-[[57 腓立比書/腓立比書 Notes]]
+- [57 腓立比書](57%20%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8/%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8%20Notes.md)
 
 ## 聖經希臘文資源工具
 -  [參考書目](%E5%8F%83%E8%80%83%E6%9B%B8%E7%9B%AE.md)
