@@ -1,5 +1,17 @@
 ### 圖析
 
+- <rt>1:12a</rt> { <RUBY><ruby><ruby>Γινώσκειν<rt>知道</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY> }C (<RUBY><ruby><ruby>βούλομαι‚<rt>我願意</rt></ruby><rt><mark>βούλομαι</mark></rt></ruby><rt>V-PNI-1S</rt></RUBY>)P 
+- <RUBY><ruby><ruby>ἀδελφοί‚<rt>弟兄們</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
+	- <rt>1:12b</rt> <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>事</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>κατ᾽<rt>所遭遇的</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)S (<RUBY><ruby><ruby>μᾶλλον<rt>更是</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>εἰς<rt>-</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>προκοπὴν<rt>興旺</rt></ruby><rt>προκοπή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>福音</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY>)A2 (<RUBY><ruby><ruby><mark>ἐλήλυθεν‚</mark><rt>叫</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2RAI-3S</rt></RUBY>)P
+		- <rt>1:13</rt> <RUBY><ruby><ruby>ὥστε<rt>以致</rt></ruby><rt>ὥστε</rt></ruby><rt>CONJ</rt></RUBY> 
+			- (<RUBY><ruby><ruby>τοὺς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δεσμούς<rt>受的捆鎖</rt></ruby><rt>δεσμός</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)S (<RUBY><ruby><ruby>φανεροὺς<rt>已經顯明</rt></ruby><rt>φανερός</rt></ruby><rt>A-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>在</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY>)A1 (<RUBY><ruby><ruby><mark>γενέσθαι</mark><rt>的緣故</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADN</rt></RUBY>)P 
+				- (<RUBY><ruby><ruby>ἐν<rt>是為</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὅλῳ<rt>全軍</rt></ruby><rt>ὅλος</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>πραιτωρίῳ<rt>御營</rt></ruby><rt>πραιτώριον</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>和</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>λοιποῖς<rt>其餘的</rt></ruby><rt>λοιπός</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>πᾶσιν‚<rt>人</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY>)A2
+			- <rt>1:14</rt> <RUBY><ruby><ruby>καὶ<rt>並且</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοὺς<rt>那</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>πλείονας<rt>多半</rt></ruby><rt>πλείων, πλεῖον</rt></ruby><rt>A-APM-C</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφῶν<rt>弟兄</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-GPM</rt></RUBY>)S 
+				- (<RUBY><ruby><ruby>ἐν<rt>在</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>主</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A1 
+				- { <RUBY><ruby><ruby><mark>πεποιθότας</mark><rt>就篤信</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-APM</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>受的</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>捆鎖</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> }A2
+				- (<RUBY><ruby><ruby>περισσοτέρως<rt>越發</rt></ruby><rt>περισσοτέρως</rt></ruby><rt>ADV</rt></RUBY>)A3
+			- { <RUBY><ruby><ruby><mark>τολμᾶν</mark><rt>放膽</rt></ruby><rt>τολμάω</rt></ruby><rt>V-PAN</rt></RUBY> 
+				- <RUBY><ruby><ruby>ἀφόβως<rt>無所懼怕</rt></ruby><rt>ἀφόβως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>道</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>λαλεῖν.</mark><rt>傳</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAN</rt></RUBY>
 
 
 ### 文法筆記
@@ -7,4 +19,4 @@
 
 
 ---
-[回到腓立比書](腓立比書筆記.md)
+[回到立比書](立比書筆記.md)
