@@ -6,7 +6,7 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
-        "dimension": 44.32393347794649,
+        "dimension": 44.3239334779465,
         "state": {
           "type": "markdown",
           "state": {
@@ -22,7 +22,7 @@
               "leaf": "62fbae01811412c4",
               "group": "cfe8b8d28865e7c8",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.197694454138148}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -156,6 +156,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "3806fb871637d212",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "3806fb871637d212",
               "group": "cfe8b8d28865e7c8",
@@ -321,7 +327,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "62fbae01811412c4",
+  "active": "3806fb871637d212",
   "lastOpenFiles": [
     "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.12–14.md",
