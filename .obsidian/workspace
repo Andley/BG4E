@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Philippians-Syntax.md",
+            "file": "57 腓立比書/Philippians-Clause.md",
             "mode": "source"
           }
         },
@@ -19,19 +19,19 @@
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Syntax.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Clause.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "62fbae01811412c4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Syntax.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Clause.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Philippians-Syntax.md",
+                "file": "57 腓立比書/Philippians-Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Philippians-Syntax.md"
+                "file": "57 腓立比書/Philippians-Clause.md"
               }
             },
             "pane-relief:history-v1": {
@@ -269,8 +269,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,15 +277,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "57 腓立比書/Philippians-Syntax.md",
+    "57 腓立比書/Philippians-Clause.md",
     "57 腓立比書/腓立比書筆記.md",
+    "57 腓立比書/Philippians-Syntax.md",
     "57 腓立比書/Philippians-Vocabulary.md",
     "57 腓立比書/Philippians-Style.md",
     "57 腓立比書/Untitled.md",
     "57 腓立比書/Philippians–Interlinear.md",
     "57 腓立比書/腓立比書 Interlinear.pdf",
     "57 腓立比書/腓立比書 Notes.md",
-    "57 腓立比書/Phi 1.1–2.md",
-    "57 腓立比書/腓立比書 Interlinear.md"
+    "57 腓立比書/Phi 1.1–2.md"
   ]
 }
