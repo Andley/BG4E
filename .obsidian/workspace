@@ -21,7 +21,7 @@
               "leaf": "62fbae01811412c4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":18.652328229159114}"
+              "eState": "{\"scroll\":26.125446150370646}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -154,6 +154,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "3806fb871637d212",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":25.922069886850096}"
+            },
             {
               "leaf": "3806fb871637d212",
               "group": "cfe8b8d28865e7c8",
