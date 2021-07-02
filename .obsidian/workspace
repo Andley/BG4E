@@ -14,15 +14,14 @@
             "mode": "source"
           }
         },
-        "group": "cfe8b8d28865e7c8",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":524},\"to\":{\"line\":2,\"ch\":524}},\"scroll\":0}"
+              "eState": "{\"scroll\":18.652328229159114}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -152,7 +151,6 @@
             "mode": "preview"
           }
         },
-        "group": "cfe8b8d28865e7c8",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
