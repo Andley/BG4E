@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Phi 1.3–11.md",
+            "file": "57 腓立比書/Phi 1.12–14.md",
             "mode": "source"
           }
         },
@@ -18,6 +18,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}}}"
+            },
             {
               "leaf": "62fbae01811412c4",
               "group": "cfe8b8d28865e7c8",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -148,7 +148,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Phi 1.3–11.md",
+            "file": "57 腓立比書/Phi 1.12–14.md",
             "mode": "preview"
           }
         },
@@ -159,8 +159,14 @@
             {
               "leaf": "3806fb871637d212",
               "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "3806fb871637d212",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0.2794}"
             },
             {
               "leaf": "3806fb871637d212",
@@ -247,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 208
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -264,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md",
+                "file": "57 腓立比書/Phi 1.12–14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Phi 1.3–11.md"
+                "file": "57 腓立比書/Phi 1.12–14.md"
               }
             },
             "pane-relief:history-v1": {
@@ -327,10 +332,10 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "3806fb871637d212",
+  "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.1–2.md",
     "57 腓立比書/Philippians-Clause.md",
     "57 腓立比書/腓立比書筆記.md",
