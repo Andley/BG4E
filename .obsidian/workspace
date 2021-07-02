@@ -21,7 +21,7 @@
               "leaf": "62fbae01811412c4",
               "group": "cfe8b8d28865e7c8",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":66},\"to\":{\"line\":53,\"ch\":66}},\"scroll\":43.434782608695656}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":66},\"to\":{\"line\":53,\"ch\":66}},\"scroll\":43.32407196399615}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -164,7 +164,7 @@
               "leaf": "3806fb871637d212",
               "group": "cfe8b8d28865e7c8",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":43.434782608695656}"
+              "eState": "{\"scroll\":43.32407196399615}"
             },
             {
               "leaf": "3806fb871637d212",
@@ -336,7 +336,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "3806fb871637d212",
+  "active": "62fbae01811412c4",
   "lastOpenFiles": [
     "57 腓立比書/腓立比書筆記.md",
     "57 腓立比書/Philippians-Interlinear.pdf",
