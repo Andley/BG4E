@@ -39,7 +39,7 @@
 /* ============= 列印 PDF 設定 ============= */
 @media print {
   /* -------- 列印強調 ---------- */
-  a, strong {
+  h1, h2, h3, h4, h5, h6, a, strong {
     color: black !important;
   }
 

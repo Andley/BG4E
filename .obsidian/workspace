@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Philippians-Interlinear.md",
+            "file": "57 腓立比書/腓立比書筆記.md",
             "mode": "source"
           }
         },
@@ -20,8 +20,74 @@
             {
               "leaf": "62fbae01811412c4",
               "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":2.1851852205064564}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Index.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Clause.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Style.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Vocabulary.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Style.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Vocabulary.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":13.819927901584114}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":1089},\"to\":{\"line\":7,\"ch\":1089}},\"scroll\":0}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62fbae01811412c4",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":2988},\"to\":{\"line\":91,\"ch\":2988}},\"scroll\":91.63221057476812}"
             },
             {
               "leaf": "62fbae01811412c4",
@@ -70,72 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Clause.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Clause.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Vocabulary.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Style.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Interlinear.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":3.406}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 4.21–23.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -146,7 +146,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Philippians-Interlinear.md",
+            "file": "57 腓立比書/腓立比書筆記.md",
             "mode": "preview"
           }
         },
@@ -157,8 +157,14 @@
             {
               "leaf": "3806fb871637d212",
               "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":7.8857923092207525}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書筆記.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":2.1851852205064564}"
+            },
+            {
+              "leaf": "3806fb871637d212",
+              "group": "cfe8b8d28865e7c8",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":0}"
             },
             {
               "leaf": "3806fb871637d212",
@@ -261,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Philippians-Interlinear.md",
+                "file": "57 腓立比書/腓立比書筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Philippians-Interlinear.md"
+                "file": "57 腓立比書/腓立比書筆記.md"
               }
             },
             "pane-relief:history-v1": {
@@ -326,15 +332,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "57 腓立比書/Philippians-Interlinear.md",
-    "57 腓立比書/Phi 1.12–14.md",
-    "57 腓立比書/Philippians-Clause.md",
-    "57 腓立比書/Phi 1.3–11.md",
-    "57 腓立比書/Phi 1.1–2.md",
-    "57 腓立比書/Phi 1.15–26.md",
     "57 腓立比書/腓立比書筆記.md",
-    "57 腓立比書/Philippians-Syntax.md",
+    "57 腓立比書/腓立比書 Index.md",
+    "57 腓立比書/Philippians-Clause.md",
+    "57 腓立比書/Philippians-Style.md",
     "57 腓立比書/Philippians-Vocabulary.md",
-    "57 腓立比書/Philippians-Style.md"
+    "57 腓立比書/Philippians-Interlinear.md",
+    "57 腓立比書/Philippians-Interlinear.pdf",
+    "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Phi 1.3–11.md",
+    "57 腓立比書/Phi 1.1–2.md"
   ]
 }
