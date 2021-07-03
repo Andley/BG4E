@@ -6,7 +6,6 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
-        "dimension": 45.66273421235253,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,136 +13,11 @@
             "mode": "source"
           }
         },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "62fbae01811412c4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":28},\"to\":{\"line\":24,\"ch\":28}},\"scroll\":8.4902}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書希臘文筆記.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":44.54629648210089}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Index.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":163,\"ch\":0},\"to\":{\"line\":163,\"ch\":0}},\"scroll\":142.8796}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"57 腓立比書/腓立比書-全部字彙.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":28},\"to\":{\"line\":16,\"ch\":28}},\"scroll\":8.072702131654301}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":28},\"to\":{\"line\":39,\"ch\":28}},\"scroll\":28.965277359126134}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":28},\"to\":{\"line\":24,\"ch\":28}},\"scroll\":7.3717}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.27–30.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 2.1–11.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 2.12–18.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 2.19–24.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 2.25–30.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.1.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.2–11.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.12–16.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 3.17–21.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 4.1.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":28},\"to\":{\"line\":11,\"ch\":28}}}"
-            },
-            {
-              "leaf": "62fbae01811412c4",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 4.2–7.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":28},\"to\":{\"line\":9,\"ch\":28}}}"
-            }
-          ]
-        }
+        "group": "cfe8b8d28865e7c8"
       },
       {
         "id": "3806fb871637d212",
         "type": "leaf",
-        "dimension": 54.33726578764747,
         "state": {
           "type": "markdown",
           "state": {
@@ -151,65 +25,7 @@
             "mode": "preview"
           }
         },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3806fb871637d212",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.15–26.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":25.922069886850096}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書希臘文筆記.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":42.10185208180803}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書 Index.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":142.3796295836384}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/腓立比書希臘文筆記.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Philippians-Interlinear.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}},\"scroll\":0}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.12–14.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":7.9183}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.1–2.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0.6032}"
-            },
-            {
-              "leaf": "3806fb871637d212",
-              "group": "cfe8b8d28865e7c8",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"57 腓立比書/Phi 1.3–11.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        }
+        "group": "cfe8b8d28865e7c8"
       }
     ],
     "direction": "vertical"
@@ -228,10 +44,6 @@
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -247,10 +59,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -259,18 +67,13 @@
             "state": {
               "type": "starred",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 155,
-    "collapsed": true
+    "width": 154
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -295,10 +98,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -310,10 +109,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -324,10 +119,6 @@
               "state": {
                 "file": "57 腓立比書/Phi 1.15–26.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -336,10 +127,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
@@ -352,12 +139,12 @@
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
     "57 腓立比書/Phi 1.15–26.md",
-    "57 腓立比書/Phi 1.12–14.md",
     "57 腓立比書/腓立比書希臘文筆記.md",
+    "57 腓立比書/Phi 1.3–11.md",
+    "57 腓立比書/Phi 1.12–14.md",
     "57 腓立比書/腓立比書 Index.md",
     "57 腓立比書/腓立比書-全部字彙.pdf",
     "57 腓立比書/Phi 1.1–2.md",
-    "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.27–30.md",
     "57 腓立比書/Phi 2.1–11.md",
     "57 腓立比書/Phi 2.12–18.md"
