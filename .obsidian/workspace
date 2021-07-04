@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "57 腓立比書/腓立比書希臘文筆記.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "57 腓立比書/腓立比書希臘文筆記.md",
             "mode": "preview"
           }
         },
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "57 腓立比書/腓立比書希臘文筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "57 腓立比書/腓立比書希臘文筆記.md"
               }
             }
           },
@@ -140,8 +141,8 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "README.md",
     "57 腓立比書/腓立比書希臘文筆記.md",
+    "README.md",
     "57 腓立比書/Phi 1.1–2.md",
     "參考書目.md",
     "cheatsheet.md",
