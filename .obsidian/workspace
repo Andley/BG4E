@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/腓立比書希臘文筆記.md",
+            "file": "57 腓立比書/Phi 1.1–2.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/腓立比書希臘文筆記.md",
+            "file": "57 腓立比書/Phi 1.1–2.md",
             "mode": "preview"
           }
         },
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 208
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/腓立比書希臘文筆記.md",
+                "file": "57 腓立比書/Phi 1.1–2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/腓立比書希臘文筆記.md"
+                "file": "57 腓立比書/Phi 1.1–2.md"
               }
             }
           },
@@ -141,9 +140,9 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
+    "57 腓立比書/Phi 1.1–2.md",
     "57 腓立比書/腓立比書希臘文筆記.md",
     "README.md",
-    "57 腓立比書/Phi 1.1–2.md",
     "參考書目.md",
     "cheatsheet.md",
     "57 腓立比書/Philippians-Interlinear.md",
