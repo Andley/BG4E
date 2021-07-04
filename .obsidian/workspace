@@ -6,28 +6,26 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
-        "dimension": 46.41564083997103,
+        "dimension": 46.415640839971026,
         "state": {
           "type": "markdown",
           "state": {
             "file": "57 腓立比書/Phi 1.3–11.md",
             "mode": "source"
           }
-        },
-        "group": "cfe8b8d28865e7c8"
+        }
       },
       {
         "id": "3806fb871637d212",
         "type": "leaf",
-        "dimension": 53.58435916002897,
+        "dimension": 53.584359160028974,
         "state": {
           "type": "markdown",
           "state": {
             "file": "57 腓立比書/Phi 1.3–11.md",
             "mode": "preview"
           }
-        },
-        "group": "cfe8b8d28865e7c8"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
