@@ -6,10 +6,23 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
+        "dimension": 40.66570188133141,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/腓立比書希臘文筆記.md",
+            "file": "數位工具.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3806fb871637d212",
+        "type": "leaf",
+        "dimension": 59.33429811866859,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Fee 解經手冊.md",
             "mode": "preview"
           }
         }
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/腓立比書希臘文筆記.md",
+                "file": "數位工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/腓立比書希臘文筆記.md"
+                "file": "數位工具.md"
               }
             }
           },
@@ -125,15 +138,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
+    "數位工具.md",
+    "57 腓立比書/Fee 解經手冊.md",
+    "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Untitled.md",
     "57 腓立比書/腓立比書希臘文筆記.md",
     "57 腓立比書/腓立比書-全部字彙.pdf",
     "57 腓立比書/Phi 1.15–26.md",
-    "57 腓立比書/Phi 1.12–14.md",
     "57 腓立比書/Phi 1.3–11.md",
     "57 腓立比書/Phi 1.1–2.md",
-    "57 腓立比書/Phi 1.27–30.md",
-    "57 腓立比書/Phi 2.1–11.md",
-    "57 腓立比書/Philippians-Interlinear.md",
-    "README.md"
+    "57 腓立比書/Phi 1.27–30.md"
   ]
 }
