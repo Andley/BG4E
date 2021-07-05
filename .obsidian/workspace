@@ -6,23 +6,10 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
-        "dimension": 40.66570188133141,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BG4E–II/2021-09 CES Syllabus.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3806fb871637d212",
-        "type": "leaf",
-        "dimension": 59.33429811866859,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "57 腓立比書/Fee 解經手冊.md",
+            "file": "57 腓立比書/Philippians-Interlinear.md",
             "mode": "preview"
           }
         }
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E–II/2021-09 CES Syllabus.md",
+                "file": "57 腓立比書/Philippians-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E–II/2021-09 CES Syllabus.md"
+                "file": "57 腓立比書/Philippians-Interlinear.md"
               }
             }
           },
@@ -138,15 +125,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
+    "57 腓立比書/Philippians-Interlinear.md",
+    "57 腓立比書/Phi 1.27–30.md",
+    "57 腓立比書/Phi 1.15–26.md",
+    "57 腓立比書/Phi 1.12–14.md",
     "BG4E–II/2021-09 CES Syllabus.md",
     "BG4E–II/2021-09 CTTS Syllabus.md",
     "BG4E–III/2021-CTTS.md",
     "BG4E–I/easily confused words.md",
     "BG4E–III/Untitled 1.md",
-    "BG4E–III/Untitled.md",
-    "數位工具.md",
-    "57 腓立比書/Fee 解經手冊.md",
-    "57 腓立比書/Phi 1.12–14.md",
-    "57 腓立比書/Untitled.md"
+    "BG4E–III/Untitled.md"
   ]
 }
