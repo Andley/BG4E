@@ -8,11 +8,23 @@
 - <rt>1:17a</rt> (<RUBY><ruby><ruby>οἱ<rt>the [ones]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐξ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐριθείας<rt>selfish ambition</rt></ruby><rt>ἐριθεία</rt></ruby><rt>N-GSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>τὸν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM-T</rt></RUBY>)C (<RUBY><ruby><ruby>**καταγγέλλουσιν,**<rt>are proclaiming,</rt></ruby><rt>καταγγέλλω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P 
 	- (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἁγνῶς,<rt>purely,</rt></ruby><rt>ἁγνῶς</rt></ruby><rt>ADV</rt></RUBY>)A2 
 	- <rt>1:17b</rt> { <RUBY><ruby><ruby>*οἰόμενοι*<rt>supposing</rt></ruby><rt>οἴομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> (<RUBY><ruby><ruby>θλῖψιν<rt>tribulation</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>*ἐγείρειν*<rt>to add</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>) }A3
+
+### 文法筆記
+
+---
+### 圖析
+
 - —————————————————————
 - <rt>1:18a</rt> <RUBY><ruby><ruby>Τί<rt>What</rt></ruby><rt>τίς</rt></ruby><rt>I-NSN</rt></RUBY> <RUBY><ruby><ruby>γάρ;<rt>then?</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> 
 - <rt>1:18b</rt> <RUBY><ruby><ruby>πλὴν<rt>Only</rt></ruby><rt>πλήν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:18c</rt> (<RUBY><ruby><ruby>παντὶ<rt>in every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>τρόπῳ,<rt>way,</rt></ruby><rt>τρόπος</rt></ruby><rt>N-DSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>εἴτε<rt>whether</rt></ruby><rt>εἴτε</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>προφάσει<rt>in pretext</rt></ruby><rt>πρόφασις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>εἴτε<rt>or</rt></ruby><rt>εἴτε</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ,<rt>in truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A2 (<RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby>**καταγγέλλεται,**<rt>is proclaimed.</rt></ruby><rt>καταγγέλλω</rt></ruby><rt>V-PPI-3S</rt></RUBY>)P 
 - <rt>1:18d</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>**χαίρω.¶**<rt>I rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P 
+
+### 文法筆記
+
+---
+### 圖析
+
 - —————————————————————
 - <rt>1:18e</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>Yes,</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>**χαρήσομαι,**<rt>I will rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2FOI-1S</rt></RUBY>)P
 - <rt>1:19a</rt> <RUBY><ruby><ruby>οἶδα<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> 
