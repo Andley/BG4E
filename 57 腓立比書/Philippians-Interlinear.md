@@ -108,4 +108,4 @@
 <rt>腓4:23</rt> <RUBY><ruby><ruby>Ἡ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>χάρις<rt>grace</rt></ruby><rt>χάρις</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>μετὰ<rt>[be] with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν.¶<rt>of you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>
 
 ---
-[腓立比書希臘文筆記  ↵](腓立比書希臘文筆記.md)
+[腓立比書希臘文筆記  ↵](Philippians-Notes.md)

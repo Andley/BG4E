@@ -20,6 +20,6 @@
 
 
 ---
-[腓立比書希臘文筆記](%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8%E5%B8%8C%E8%87%98%E6%96%87%E7%AD%86%E8%A8%98.md)
+[Philippians-Notes](Philippians-Notes.md)
 
 
