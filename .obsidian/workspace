@@ -12,8 +12,7 @@
             "file": "62 約翰一書/1Jo 1.5–10.md",
             "mode": "source"
           }
-        },
-        "group": "cfe8b8d28865e7c8"
+        }
       },
       {
         "id": "3806fb871637d212",
@@ -24,8 +23,7 @@
             "file": "62 約翰一書/1Jo 1.5–10.md",
             "mode": "preview"
           }
-        },
-        "group": "cfe8b8d28865e7c8"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.99999809265137,
-    "collapsed": true
+    "width": 174.99999809265137
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -140,8 +137,8 @@
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
     "62 約翰一書/1Jo 1.5–10.md",
-    "62 約翰一書/1Jo 2.1–6.md",
     "62 約翰一書/1Jo 1.1–4.md",
+    "62 約翰一書/1Jo 2.1–6.md",
     "57 腓立比書/Phi 1.12–14.md",
     "62 約翰一書/約翰一書希臘文筆記.md",
     "62 約翰一書/1Jo 5.18–21.md",
