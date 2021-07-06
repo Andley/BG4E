@@ -6,13 +6,28 @@
       {
         "id": "62fbae01811412c4",
         "type": "leaf",
+        "dimension": 43.99421128798842,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Philippians-Interlinear.md",
+            "file": "57 腓立比書/Phi 1.27–30.md",
+            "mode": "source"
+          }
+        },
+        "group": "bcefb50a45fd2be3"
+      },
+      {
+        "id": "3806fb871637d212",
+        "type": "leaf",
+        "dimension": 56.00578871201157,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 1.27–30.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "bcefb50a45fd2be3"
       }
     ],
     "direction": "vertical"
@@ -60,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -76,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Philippians-Interlinear.md",
+                "file": "57 腓立比書/Phi 1.27–30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Philippians-Interlinear.md"
+                "file": "57 腓立比書/Phi 1.27–30.md"
               }
             }
           },
@@ -125,15 +141,15 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
-    "57 腓立比書/Philippians-Interlinear.md",
     "57 腓立比書/Phi 1.27–30.md",
+    "57 腓立比書/腓立比書希臘文筆記.md",
     "57 腓立比書/Phi 1.15–26.md",
     "57 腓立比書/Phi 1.12–14.md",
+    "57 腓立比書/Philippians-Interlinear.md",
     "BG4E–II/2021-09 CES Syllabus.md",
     "BG4E–II/2021-09 CTTS Syllabus.md",
     "BG4E–III/2021-CTTS.md",
     "BG4E–I/easily confused words.md",
-    "BG4E–III/Untitled 1.md",
-    "BG4E–III/Untitled.md"
+    "BG4E–III/Untitled 1.md"
   ]
 }
