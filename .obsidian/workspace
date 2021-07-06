@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 1.5–10.md",
+            "file": "62 約翰一書/1Jo 2.1–6.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3806fb871637d212",
+        "id": "62d1e1573d806c13",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 1.5–10.md",
+            "file": "62 約翰一書/1Jo 2.1–6.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.99999809265137
+    "width": 174.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 約翰一書/1Jo 1.5–10.md",
+                "file": "62 約翰一書/1Jo 2.1–6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62 約翰一書/1Jo 1.5–10.md"
+                "file": "62 約翰一書/1Jo 2.1–6.md"
               }
             }
           },
@@ -136,9 +137,9 @@
   },
   "active": "62fbae01811412c4",
   "lastOpenFiles": [
+    "62 約翰一書/1Jo 2.1–6.md",
     "62 約翰一書/1Jo 1.5–10.md",
     "62 約翰一書/1Jo 1.1–4.md",
-    "62 約翰一書/1Jo 2.1–6.md",
     "57 腓立比書/Phi 1.12–14.md",
     "62 約翰一書/約翰一書希臘文筆記.md",
     "62 約翰一書/1Jo 5.18–21.md",
