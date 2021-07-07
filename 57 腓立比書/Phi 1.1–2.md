@@ -1,4 +1,4 @@
-### 圖析
+#### 圖析 (Phi 1:1–2)
 
 - <rt>1:1a</rt> <RUBY><ruby><ruby>Παῦλος<rt>Paul</rt></ruby><rt>Παῦλος</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τιμόθεος<rt>Timothy,</rt></ruby><rt>Τιμόθεος</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>δοῦλοι<rt>servants</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus,</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> 
 	- <rt>1:1b</rt> <RUBY><ruby><ruby>Πᾶσιν<rt>To all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίοις<rt>saints</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY> 
@@ -9,7 +9,7 @@
 
 
 
-### 文法筆記
+#### 筆記 (Phi 1:1–2)
 腓1:1 Παῦλος καὶ Τιμόθεος δοῦλοι Χριστοῦ Ἰησοῦ Πᾶσιν τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις,
 - dscsdc
 	- sdcs

@@ -1,4 +1,4 @@
-### 圖析
+#### 圖析 (Phi 1:12–14)
 
 - <rt>1:12a</rt> (<RUBY><ruby><ruby>**Γινώσκειν**<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY> <RUBY><ruby><ruby>*βούλομαι,*<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY> }C 
 - <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
@@ -16,7 +16,7 @@
 
 
 
-### 文法筆記
+#### 筆記 (Phi 1:12–14)
 
 
 
