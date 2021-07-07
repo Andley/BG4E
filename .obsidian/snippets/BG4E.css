@@ -213,6 +213,6 @@ ul ul::before { left: -11px; top: 0; bottom: 0;
 } 
 
 .CodeMirror-cursor { 
-  border-left-width: 0.2em;
+  border-left-width: 0.1em;
   opacity: 0.75;
 }
