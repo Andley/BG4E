@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "95062d641c2d7a65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "62 約翰一書/1Jo 2.28–3.10.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.99999809265137
+    "width": 174.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -114,6 +126,17 @@
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "48b438d70abf7da1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
