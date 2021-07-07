@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0511b2bccc5572f2",
+        "id": "34d9d5594cf2c020",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/約翰一書希臘文筆記.md",
+            "file": "62 約翰一書/1Jo 2.18–25.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1007012091c4385e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "62 約翰一書/1Jo 2.18–25.md",
             "mode": "preview"
           }
         }
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 約翰一書/約翰一書希臘文筆記.md",
+                "file": "62 約翰一書/1Jo 2.18–25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62 約翰一書/約翰一書希臘文筆記.md"
+                "file": "62 約翰一書/1Jo 2.18–25.md"
               }
             }
           },
@@ -125,17 +136,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "0511b2bccc5572f2",
+  "active": "34d9d5594cf2c020",
   "lastOpenFiles": [
+    "62 約翰一書/1Jo 2.18–25.md",
+    "62 約翰一書/1Jo 2.15–17.md",
     "62 約翰一書/約翰一書希臘文筆記.md",
+    "62 約翰一書/1Jo 2.12–14.md",
     "62 約翰一書/1Jo 2.7–11.md",
+    "62 約翰一書/1Jo 2.11–18.md",
     "62 約翰一書/1Jo 2.1–6.md",
     "62 約翰一書/1Jo 1.5–10.md",
     "62 約翰一書/1Jo 1.1–4.md",
-    "57 腓立比書/腓立比書希臘文筆記.md",
-    "57 腓立比書/Philippians-Interlinear.md",
-    "62 約翰一書/1John-Interlinear.md",
-    "cheatsheet.md",
-    "57 腓立比書/Phi 1.12–14.md"
+    "57 腓立比書/腓立比書希臘文筆記.md"
   ]
 }
