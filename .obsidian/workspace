@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1007012091c4385e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "62 約翰一書/1Jo 2.26–27.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "bfa8434aa8b23297",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 2.26–27.md",
-            "mode": "preview"
+            "file": "62 約翰一書/1Jo 2.28–3.10.md",
+            "mode": "source"
           }
         }
       }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.99999809265137,
-    "collapsed": true
+    "width": 174.99999809265137
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 約翰一書/1Jo 2.26–27.md",
+                "file": "62 約翰一書/1Jo 2.28–3.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62 約翰一書/1Jo 2.26–27.md"
+                "file": "62 約翰一書/1Jo 2.28–3.10.md"
               }
             }
           },
@@ -136,8 +124,9 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "1007012091c4385e",
+  "active": "bfa8434aa8b23297",
   "lastOpenFiles": [
+    "62 約翰一書/1Jo 2.28–3.10.md",
     "62 約翰一書/1Jo 2.26–27.md",
     "62 約翰一書/1Jo 2.18–25.md",
     "62 約翰一書/約翰一書希臘文筆記.md",
@@ -146,7 +135,6 @@
     "62 約翰一書/1Jo 2.15–17.md",
     "62 約翰一書/1Jo 2.12–14.md",
     "62 約翰一書/1Jo 2.7–11.md",
-    "62 約翰一書/1Jo 2.11–18.md",
-    "62 約翰一書/1Jo 2.1–6.md"
+    "62 約翰一書/1Jo 2.11–18.md"
   ]
 }
