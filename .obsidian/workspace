@@ -6,6 +6,7 @@
       {
         "id": "9dbbb76d924c9cb5",
         "type": "leaf",
+        "dimension": 41.67872648335745,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,6 +18,7 @@
       {
         "id": "b5a4f1aa7ecb004d",
         "type": "leaf",
+        "dimension": 58.32127351664255,
         "state": {
           "type": "markdown",
           "state": {
@@ -148,7 +150,7 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "b5a4f1aa7ecb004d",
+  "active": "9dbbb76d924c9cb5",
   "lastOpenFiles": [
     "62 約翰一書/1Jo 4.16d–21.md",
     "62 約翰一書/1John-Notes.md",
