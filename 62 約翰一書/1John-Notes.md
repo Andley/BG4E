@@ -35,8 +35,8 @@
 	- [1Jo 4.1–6](1Jo%204.1%E2%80%936.md)
 - God is Love
 	- [1Jo 4.7–12](1Jo%204.7%E2%80%9312.md)
-	- [1Jo 4.13–16b](1Jo%204.13%E2%80%9316b.md)
-	- [1Jo 4.16c–21](1Jo%204.16c%E2%80%9321.md)
+	- [1Jo 4.13–16c](1Jo%204.13–16c.md)
+	- [1Jo 4.16d–21](1Jo%204.16d–21.md)
 - Faith is Victory over the World
 	- [1Jo 5.1–5](1Jo%205.1%E2%80%935.md)
 - The Witness concerning the Son
