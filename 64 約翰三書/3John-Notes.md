@@ -1,7 +1,5 @@
 # ΙΩΑΝΝΟΥ Α
 
-## 約翰一書希臘文筆記
-
 #### 經文閱讀
 - [約翰一書 Interlinear (Markdown 格式)](1John-Interlinear.md)
 - [約翰一書 Interlinear (PDF 格式](1John-Interlinear.pdf)
