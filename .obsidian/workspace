@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9dbbb76d924c9cb5",
+        "id": "b5a4f1aa7ecb004d",
         "type": "leaf",
-        "dimension": 40.73806078147612,
+        "dimension": 42.867487328023174,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 4.16d–21.md",
+            "file": "62 約翰一書/1Jo 5.1–5.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b5a4f1aa7ecb004d",
+        "id": "1515ddfe8581cbda",
         "type": "leaf",
-        "dimension": 59.26193921852387,
+        "dimension": 57.13251267197684,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62 約翰一書/1Jo 4.16d–21.md",
+            "file": "62 約翰一書/1Jo 5.1–5.md",
             "mode": "preview"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62 約翰一書/1Jo 4.16d–21.md",
+                "file": "62 約翰一書/1Jo 5.1–5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62 約翰一書/1Jo 4.16d–21.md"
+                "file": "62 約翰一書/1Jo 5.1–5.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62 約翰一書/1Jo 4.16d–21.md",
+                "file": "62 約翰一書/1Jo 5.1–5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,9 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "9dbbb76d924c9cb5",
+  "active": "b5a4f1aa7ecb004d",
   "lastOpenFiles": [
+    "62 約翰一書/1Jo 5.1–5.md",
     "62 約翰一書/1Jo 4.16d–21.md",
     "62 約翰一書/1John-Notes.md",
     "62 約翰一書/1Jo 2.28–3.10.md",
@@ -160,7 +161,6 @@
     "62 約翰一書/1Jo 4.16c–21.md",
     "62 約翰一書/1Jo 4.13–16b.md",
     "62 約翰一書/1Jo 4.7–12.md",
-    "62 約翰一書/1Jo 4.1–6.md",
-    "62 約翰一書/1Jo 3.19–24.md"
+    "62 約翰一書/1Jo 4.1–6.md"
   ]
 }
