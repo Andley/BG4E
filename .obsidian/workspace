@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "63 約翰二書/2John-Notes.md",
+            "file": "63 約翰二書/2John-Interlinear.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "63 約翰二書/2John-Notes.md",
+                "file": "63 約翰二書/2John-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "63 約翰二書/2John-Notes.md"
+                "file": "63 約翰二書/2John-Interlinear.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "63 約翰二書/2John-Notes.md",
+                "file": "63 約翰二書/2John-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,8 @@
   },
   "active": "a59e24c4fb839370",
   "lastOpenFiles": [
-    "63 約翰二書/2John-Notes.md",
     "63 約翰二書/2John-Interlinear.md",
+    "63 約翰二書/2John-Notes.md",
     "62 約翰一書/1John-Notes.md",
     "57 腓立比書/Philippians-Notes.md",
     "62 約翰一書/1John-Interlinear.md",
