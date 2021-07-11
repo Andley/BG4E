@@ -3,9 +3,9 @@
 ## 約翰二書希臘文筆記
 
 #### 經文閱讀
-- [約翰二書 Interlinear (Markdown )](2John-Interlinear.md)
-- [2John-Interlinear.pdf](2John-Interlinear.pdf)
-- [約翰二書.docx](%E7%B4%84%E7%BF%B0%E4%BA%8C%E6%9B%B8.docx)
+- [約翰二書 Interlinear (Markdown 格式)](2John-Interlinear.md)
+- [約翰二書 Interlinear (PDF 格式)](2John-Interlinear.pdf)
+- [約翰二書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%BA%8C%E6%9B%B8.docx)
 
 
 #### 原文特色

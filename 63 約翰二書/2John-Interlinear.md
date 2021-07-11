@@ -28,6 +28,7 @@
 <rt>約貳1:13</rt> <RUBY><ruby><ruby>Ἀσπάζεταί<rt>Greet</rt></ruby><rt>ἀσπάζομαι</rt></ruby><rt>V-PNI-3S</rt></RUBY> <RUBY><ruby><ruby>σε<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AS</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀδελφῆς<rt>sister</rt></ruby><rt>ἀδελφή</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐκλεκτῆς.¶<rt>elect.</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-GSF</rt></RUBY>
 
 
+---
 
 [約翰二書希臘文筆記 ↵](2John-Notes.md)
 

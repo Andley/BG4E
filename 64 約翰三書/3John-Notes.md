@@ -1,8 +1,11 @@
-# ΙΩΑΝΝΟΥ Α
+# ΙΩΑΝΝΟΥ Γ
+
+## 約翰三書希臘文筆記
 
 #### 經文閱讀
-- [約翰一書 Interlinear (Markdown 格式)](1John-Interlinear.md)
-- [約翰一書 Interlinear (PDF 格式](1John-Interlinear.pdf)
+- [約翰三書 Interlinear (Markdown 格式)](3John-Interlinear.md)
+- [約翰三書 Interlinear (PDF 格式)](3John-Interlinear.pdf)
+- [約翰三書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8.docx)
 
 
 #### 原文特色
@@ -12,6 +15,14 @@
 經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
 
 
+- Salutation
+	- [[3Jo 1.1–4]]
+- Cooperation and Opposition
+	- [[3Jo 1.5–8]]
+	- [[3Jo 1.9–10]]
+	- [[3Jo 1.11–12]]
+- Final Greetings
+	- [[3Jo 1.13–15]]
 
 
 
@@ -32,6 +43,6 @@ R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical 
 
 
 
-[^1]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/72/10001/19999/ch/9f95d8cd0fd3aaae4a4dbb2208e8408b/
+[^1]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/7a538c64cb48d15fa62a4fea869f10ce/
 [^2]: https://github.com/eliranwong/OpenGNT
-[^3]: https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/72/10001/19999/ch/42656ed9aeb316f9ecfa7db1db2fce91/
+[^3]: https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/9fd49a12c8deaa6b7554b56021dad37d/
