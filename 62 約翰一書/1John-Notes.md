@@ -4,7 +4,8 @@
 
 #### 經文閱讀
 - [約翰一書 Interlinear (Markdown 格式)](1John-Interlinear.md)
-- [約翰一書 Interlinear (PDF 格式](1John-Interlinear.pdf)
+- [約翰一書 Interlinear (PDF 格式)](1John-Interlinear.pdf)
+- [約翰一書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%80%E6%9B%B8.docx)
 
 
 #### 原文特色
