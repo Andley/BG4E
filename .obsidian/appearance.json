@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "obsidianCss": false,
+  "enabledCssSnippets": [
+    "Ruby-Interlinear",
+    "BG4E"
+  ],
+  "cssTheme": "",
+  "translucency": false,
+  "baseFontSize": 16
+}
