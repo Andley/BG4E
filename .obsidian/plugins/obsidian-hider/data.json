@@ -1,1 +1,9 @@
-{"frameless":false,"hideRibbon":false,"hideStatus":true,"hideScroll":false,"hideTooltips":false,"hideInstructions":false,"hideMeta":false}
+{
+  "frameless": false,
+  "hideRibbon": true,
+  "hideStatus": true,
+  "hideScroll": false,
+  "hideTooltips": false,
+  "hideInstructions": false,
+  "hideMeta": false
+}
