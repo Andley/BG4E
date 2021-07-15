@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "70474a2ac4bd63d8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "57 腓立比書/Phi 3.1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "b5f425785c144180",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Phi 3.1.md",
+            "file": "57 腓立比書/Phi 3.2–11.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "449242542ac53876",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 3.2–11.md",
             "mode": "preview"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Phi 3.1.md",
+                "file": "57 腓立比書/Phi 3.2–11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Phi 3.1.md"
+                "file": "57 腓立比書/Phi 3.2–11.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57 腓立比書/Phi 3.1.md",
+                "file": "57 腓立比書/Phi 3.2–11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +148,17 @@
     "width": 220.43994140625,
     "collapsed": true
   },
-  "active": "70474a2ac4bd63d8",
+  "active": "b5f425785c144180",
   "lastOpenFiles": [
-    "57 腓立比書/Phi 3.1.md",
+    "57 腓立比書/Phi 3.2–11.md",
     "57 腓立比書/Philippians-Notes.md",
+    "57 腓立比書/Phi 3.1.md",
     "57 腓立比書/Phi 2.25–30.md",
     "57 腓立比書/Philippians-Interlinear.md",
     "57 腓立比書/Phi 2.19–24.md",
     "57 腓立比書/Phi 2.12–18.md",
     "57 腓立比書/Phi 2.1–11.md",
     "57 腓立比書/Phi 4.1.md",
-    "57 腓立比書/Phi 3.17–21.md",
-    "57 腓立比書/Phi 3.12–16.md"
+    "57 腓立比書/Phi 3.17–21.md"
   ]
 }
