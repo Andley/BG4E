@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Philippians-Notes.md",
+            "file": "57 腓立比書/Phi 3.12–16.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "de0252ea42a1d055",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 3.12–16.md",
             "mode": "preview"
           }
         }
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Philippians-Notes.md",
+                "file": "57 腓立比書/Phi 3.12–16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Philippians-Notes.md"
+                "file": "57 腓立比書/Phi 3.12–16.md"
               }
             }
           },
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57 腓立比書/Philippians-Notes.md",
+                "file": "57 腓立比書/Phi 3.12–16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +150,7 @@
   },
   "active": "449242542ac53876",
   "lastOpenFiles": [
+    "57 腓立比書/Phi 3.12–16.md",
     "57 腓立比書/Philippians-Notes.md",
     "57 腓立比書/Phi 3.2–11.md",
     "57 腓立比書/Phi 3.1.md",
@@ -147,7 +159,6 @@
     "57 腓立比書/Phi 2.19–24.md",
     "57 腓立比書/Phi 2.12–18.md",
     "57 腓立比書/Phi 2.1–11.md",
-    "57 腓立比書/Phi 4.1.md",
-    "57 腓立比書/Phi 3.17–21.md"
+    "57 腓立比書/Phi 4.1.md"
   ]
 }
