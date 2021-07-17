@@ -3,7 +3,9 @@
 ## 約翰二書希臘文筆記
 
 #### 經文閱讀
-
+- [約翰二書 Interlinear (Markdown 格式)](2John-Interlinear.md)
+- [約翰二書 Interlinear (PDF 格式)](2John-Interlinear.pdf)
+- [約翰二書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%BA%8C%E6%9B%B8.docx)
 
 
 #### 原文特色
@@ -20,18 +22,7 @@
 	- [2Jo 1.7–8](2Jo%201.7%E2%80%938.md)
 	- [2Jo 1.9–11](2Jo%201.9%E2%80%9311.md)
 - Final Greetings 
-	- [2Jo 1.12](2Jo%201.12)
-	- [2Jo 1.13](2Jo%201.13)
-
-
-
-
-[約翰二書希臘文筆記 ↵](2John-Notes.md)
-
-
-
-
-
+	- [2Jo 1.12–13](2Jo%201.12%E2%80%9313.md)
 
 
 #### 出處縮寫
