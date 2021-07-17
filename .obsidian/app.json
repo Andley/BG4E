@@ -1,0 +1,40 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "images",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "imperfective",
+    "Elative",
+    "Anaphoric",
+    "Epexegetical",
+    "Substantival",
+    "Ingressive",
+    "Aorist",
+    "Constative",
+    "protasis",
+    "stative",
+    "apodosis",
+    "vv",
+    "vv",
+    "cataphoric",
+    "morphologically",
+    "perfective",
+    "anarthrous"
+  ],
+  "fileSortOrder": "alphabetical",
+  "showUnsupportedFiles": true,
+  "communityPluginSortOrder": "download"
+}
