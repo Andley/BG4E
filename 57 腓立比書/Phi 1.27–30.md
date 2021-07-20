@@ -1,4 +1,4 @@
-### 圖析
+#### 圖析 (Phi 1:27–30)
 
 - <rt>1:27a</rt> (<RUBY><ruby><ruby>Μόνον<rt>Only</rt></ruby><rt>μόνος</rt></ruby><rt>A-ASN</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἀξίως<rt>worthily</rt></ruby><rt>ἀξίως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A2 (<RUBY><ruby><ruby>**πολιτεύεσθε,**<rt>conduct yourselves,</rt></ruby><rt>πολιτεύω</rt></ruby><rt>V-PNM-2P</rt></RUBY>)P 
 	- <rt>1:27b</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
@@ -20,7 +20,7 @@
 								- <rt>1:30c</rt> <RUBY><ruby>	<ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>**ἀκούετε**<rt>hear of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2
 
 
-### 文法筆記
+#### 筆記 (Phi 1:27–30)
 腓1:27 Μόνον ἀξίως τοῦ εὐαγγελίου τοῦ Χριστοῦ πολιτεύεσθε, ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν ἀκούω τὰ περὶ ὑμῶν, ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου腓1:28 καὶ μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων, ἥτις ἐστὶν αὐτοῖς ἔνδειξις ἀπωλείας, ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ Θεοῦ·腓1:29 ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν,腓1:30 τὸν αὐτὸν ἀγῶνα ἔχοντες, οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.¶
 
 
