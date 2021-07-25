@@ -1,0 +1,3 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/
+.trash/

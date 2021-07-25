@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "46860815f32cbf2a",
+    "id": "f4afcf6a714c05fb",
     "type": "split",
     "children": [
       {
-        "id": "de0252ea42a1d055",
+        "id": "f909a9e49f0c0ded",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "640290b280a6c363",
+        "id": "5a3db438f1a0bec2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -29,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1d89ef4303833cb8",
+    "id": "2b1e149eb78e8515",
     "type": "split",
     "children": [
       {
-        "id": "8198aa995c74f604",
+        "id": "fb89deb39da52857",
         "type": "tabs",
         "children": [
           {
-            "id": "73ac520a8ccc59a2",
+            "id": "75b75d906b38f1fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,12 +45,12 @@
             }
           },
           {
-            "id": "971c7a8a329ef702",
+            "id": "8b1314860610141a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "2pe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "8253e41627d2fedb",
+            "id": "47f03e690283089d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -71,25 +71,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "92fec9da4657ec59",
+    "id": "1464b72f66019d33",
     "type": "split",
     "children": [
       {
-        "id": "6475f8733433b7d8",
+        "id": "d0f62b3dd05030d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8d357a25b83637fc",
+            "id": "fc461d726b9ae279",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "57 腓立比書/Phi 3.17–21.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -100,7 +99,19 @@
             }
           },
           {
-            "id": "c8cb03e335959f3b",
+            "id": "cf8452731348166c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "57 腓立比書/Phi 3.17–21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbd6c34411c8328e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,7 +122,7 @@
             }
           },
           {
-            "id": "775222d07aaa15a7",
+            "id": "8c60c8158acd8037",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -119,50 +130,17 @@
                 "file": "57 腓立比書/Phi 3.17–21.md"
               }
             }
-          },
-          {
-            "id": "c1efe367d6e23c05",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "15e1373106ca2b53",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "57 腓立比書/Phi 3.17–21.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 220.43994140625,
+    "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "640290b280a6c363",
-=======
-  "active": "de0252ea42a1d055",
->>>>>>> 02b9202c22c07fdccc486e2b474471037be0c036
+  "active": "5a3db438f1a0bec2",
   "lastOpenFiles": [
     "57 腓立比書/Phi 3.17–21.md",
-    "57 腓立比書/Philippians-Notes.md",
-    "57 腓立比書/Phi 3.12–16.md",
-    "57 腓立比書/Phi 3.2–11.md",
-    "57 腓立比書/Phi 3.1.md",
-    "57 腓立比書/Phi 2.25–30.md",
-    "57 腓立比書/Philippians-Interlinear.md",
-    "57 腓立比書/Phi 2.19–24.md",
-    "57 腓立比書/Phi 2.12–18.md",
-    "57 腓立比書/Phi 2.1–11.md"
+    "57 腓立比書/Phi 3.12–16.md"
   ]
 }
