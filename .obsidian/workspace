@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "參考書目.md",
+            "file": "57 腓立比書/Philippians-Notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "參考書目.md",
+                "file": "57 腓立比書/Philippians-Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "參考書目.md",
+                "file": "57 腓立比書/Philippians-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "參考書目.md"
+                "file": "57 腓立比書/Philippians-Notes.md"
               }
             }
           }
@@ -129,6 +129,7 @@
   },
   "active": "0e886f0033a5e6b1",
   "lastOpenFiles": [
+    "57 腓立比書/Philippians-Notes.md",
     "參考書目.md",
     "57 腓立比書/Phi 3.17–21.md",
     "62 約翰一書/1Jo 4.7–12.md",
