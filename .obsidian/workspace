@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f909a9e49f0c0ded",
+        "id": "0e886f0033a5e6b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "57 腓立比書/Phi 3.17–21.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5a3db438f1a0bec2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "62 約翰一書/1Jo 4.7–12.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 184
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Phi 3.17–21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57 腓立比書/Phi 3.17–21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "57 腓立比書/Phi 3.17–21.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f909a9e49f0c0ded",
+  "active": "0e886f0033a5e6b1",
   "lastOpenFiles": [
     "57 腓立比書/Phi 3.17–21.md",
     "62 約翰一書/1Jo 4.7–12.md",
