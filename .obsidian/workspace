@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "57 腓立比書/Fee 解經手冊.md",
+            "file": "62 約翰一書/1John-Interlinear.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57 腓立比書/Fee 解經手冊.md",
+                "file": "62 約翰一書/1John-Interlinear.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57 腓立比書/Fee 解經手冊.md",
+                "file": "62 約翰一書/1John-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57 腓立比書/Fee 解經手冊.md"
+                "file": "62 約翰一書/1John-Interlinear.md"
               }
             }
           }
@@ -125,11 +125,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548,
-    "collapsed": true
+    "width": 548
   },
   "active": "0e886f0033a5e6b1",
   "lastOpenFiles": [
+    "62 約翰一書/1John-Interlinear.md",
     "57 腓立比書/Fee 解經手冊.md",
     "57 腓立比書/Philippians-Interlinear.md",
     "57 腓立比書/腓立比書 Index.md",
