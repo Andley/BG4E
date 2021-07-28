@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "57 腓立比書/Phi 3.17–21.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "10d8c7e1c33f9f38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "57 腓立比書/Phi 3.17–21.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 184,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -76,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "57 腓立比書/Phi 3.17–21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "57 腓立比書/Phi 3.17–21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "57 腓立比書/Phi 3.17–21.md"
               }
             }
           }
@@ -130,15 +142,15 @@
   },
   "active": "0e886f0033a5e6b1",
   "lastOpenFiles": [
+    "57 腓立比書/Phi 3.17–21.md",
+    "57 腓立比書/Philippians-Notes.md",
     "README.md",
     "IGNT/IGNT.md",
-    "57 腓立比書/Philippians-Notes.md",
     "63 約翰二書/2John-Notes.md",
     "62 約翰一書/1John-Notes.md",
     "62 約翰一書/1John-Interlinear.md",
     "57 腓立比書/Fee 解經手冊.md",
     "57 腓立比書/Philippians-Interlinear.md",
-    "57 腓立比書/腓立比書 Index.md",
-    "參考書目.md"
+    "57 腓立比書/腓立比書 Index.md"
   ]
 }
