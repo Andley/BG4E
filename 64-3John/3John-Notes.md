@@ -16,13 +16,13 @@
 
 
 - Salutation
-	- [[3Jo 1.1–4]]
+	- [[3Jo1.1–4]]
 - Cooperation and Opposition
-	- [[3Jo 1.5–8]]
-	- [[3Jo 1.9–10]]
-	- [[3Jo 1.11–12]]
+	- [[3Jo1.5–8]]
+	- [[3Jo1.9–10]]
+	- [[3Jo1.11–12]]
 - Final Greetings
-	- [[3Jo 1.13–15]]
+	- [[3Jo1.13–15]]
 
 
 

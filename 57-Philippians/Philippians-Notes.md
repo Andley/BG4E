@@ -17,35 +17,35 @@
 經文分段和標題是根據 UBS5[^1]；Interlinear **經文**的_大小寫和分段記號_ (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
 
 - Salutation
-	- [Phi 1.1–2](Phi%201.1–2.md)
+	- [Phi1.1–2](Phi1.1–2.md)
 - Paul's Prayer for the Philippians
-	- [Phi 1.3–11](Phi%201.3–11.md)
+	- [Phi1.3–11](Phi1.3–11.md)
 - To Me to Live is Christ
-	- [Phi 1.12–14](Phi%201.12%E2%80%9314.md)
-	- [Phi 1.15–26](Phi%201.15%E2%80%9326.md)
-	- [Phi 1.27–30](Phi%201.27%E2%80%9330.md)
+	- [Phi1.12–14](Phi1.12–14.md)
+	- [Phi1.15–26](Phi1.15–26.md)
+	- [Phi1.27–30](Phi1.27–30.md)
 - Christian Humility and Christ's Humility
-	- [Phi 2.1–11](Phi%202.1%E2%80%9311.md)
+	- [Phi2.1–11](Phi2.1–11.md)
 - Shinning as Light in the World
-	- [Phi 2.12–18](Phi%202.12%E2%80%9318.md)
+	- [Phi2.12–18](Phi2.12–18.md)
 - Timothy and Epaphroditus
-	- [Phi 2.19–24](Phi%202.19%E2%80%9324.md)
-	- [Phi 2.25–30](Phi%202.25%E2%80%9330.md)
+	- [Phi2.19–24](Phi2.19–24.md)
+	- [Phi2.25–30](Phi2.25–30.md)
 - The True Righteousness
-	- [Phi 3.1](Phi%203.1.md)
-	- [Phi 3.2–11](Phi%203.2%E2%80%9311.md)
+	- [Phi3.1](Phi3.1.md)
+	- [Phi3.2–11](Phi3.2–11.md)
 - Pressing toward the Mark
-	- [Phi 3.12–16](Phi%203.12–16.md)
-	- [Phi 3.17–21](Phi%203.17%E2%80%9321.md)
-	- [Phi 4.1](Phi%204.1.md)
+	- [Phi3.12–16](Phi3.12–16.md)
+	- [Phi3.17–21](Phi3.17–21.md)
+	- [Phi4.1](Phi4.1.md)
 - Exhortations
-	- [Phi 4.2–7](Phi%204.2%E2%80%937.md)
-	- [Phi 4.8–9](Phi%204.8%E2%80%939.md)
+	- [Phi4.2–7](Phi4.2–7.md)
+	- [Phi4.8–9](Phi4.8–9.md)
 - Acknowledgement of the Philippians' Gift
-	- [Phi 4.10–14](Phi%204.10%E2%80%9314.md)
-	- [Phi 4.15–20](Phi%204.15%E2%80%9320.md)
+	- [Phi4.10–14](Phi4.10–14.md)
+	- [Phi4.15–20](Phi4.15–20.md)
 - Final Greetings
-	- [Phi 4.21–23](Phi%204.21%E2%80%9323.md)
+	- [Phi4.21–23](Phi4.21–23.md)
 
 #### 出處縮寫
 縮寫 | 出處

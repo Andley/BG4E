@@ -18,36 +18,36 @@
 - The Word of Life
 	- [1Jo1.1–4](1Jo1.1–4.md)
 - God is Light
-	- [1Jo 1.5–10](1Jo%201.5%E2%80%9310.md)
+	- [1Jo1.5–10](1Jo1.5–10.md)
 - Christ Our Advocate
-	- [1Jo 2.1–6](1Jo%202.1%E2%80%936.md)
+	- [1Jo2.1–6](1Jo2.1–6.md)
 - The New Commandment
-	- [1Jo 2.7–11](1Jo%202.7%E2%80%9311.md)
-	- [1Jo 2.12–14](1Jo%202.12%E2%80%9314.md)
-	- [1Jo 2.15–17](1Jo%202.15%E2%80%9317.md)
+	- [1Jo2.7–11](1Jo2.7–11.md)
+	- [1Jo2.12–14](1Jo2.12–14.md)
+	- [1Jo2.15–17](1Jo2.15–17.md)
 - The Antichrist
-	- [1Jo 2.18–25](1Jo%202.18%E2%80%9325.md)
-	- [1Jo 2.26–27](1Jo%202.26%E2%80%9327.md)
+	- [1Jo2.18–25](1Jo2.18–25.md)
+	- [1Jo2.26–27](1Jo2.26–27.md)
 - Children of God
-	- [1Jo 2.28–3.10](1Jo%202.28–3.10.md)
+	- [1Jo2.28–3.10](1Jo2.28–3.10.md)
 - Love One Another
-	- [1Jo 3.11–18](1Jo%203.11%E2%80%9318.md)
+	- [1Jo3.11–18](1Jo3.11–18.md)
 - Confidence before God
-	- [1Jo 3.19–24](1Jo%203.19%E2%80%9324.md)
+	- [1Jo3.19–24](1Jo3.19–24.md)
 - The Spirit of God and the Spirit of Antichrist
-	- [1Jo 4.1–6](1Jo%204.1%E2%80%936.md)
+	- [1Jo4.1–6](1Jo4.1–6.md)
 - God is Love
-	- [1Jo 4.7–12](1Jo%204.7%E2%80%9312.md)
-	- [1Jo 4.13–16c](1Jo%204.13–16c.md)
-	- [1Jo 4.16d–21](1Jo%204.16d–21.md)
+	- [1Jo4.7–12](1Jo4.7–12.md)
+	- [1Jo4.13–16c](1Jo4.13–16c.md)
+	- [1Jo4.16d–21](1Jo4.16d–21.md)
 - Faith is Victory over the World
-	- [1Jo 5.1–5](1Jo%205.1%E2%80%935.md)
+	- [1Jo5.1–5](1Jo5.1–5.md)
 - The Witness concerning the Son
-	- [1Jo 5.6–12](1Jo%205.6%E2%80%9312.md)
+	- [1Jo5.6–12](1Jo5.6–12.md)
 - The Knowledge of Eternal Life
-	- [1Jo 5.13–15](1Jo%205.13%E2%80%9315.md)
-	- [1Jo 5.16–17](1Jo%205.16%E2%80%9317.md)
-	- [1Jo 5.18–21](1Jo%205.18%E2%80%9321.md)
+	- [1Jo5.13–15](1Jo5.13–15.md)
+	- [1Jo5.16–17](1Jo5.16–17.md)
+	- [1Jo5.18–21](1Jo5.18–21.md)
 
 
 Wallace, Daniel B. _Greek Grammar Beyond the Basics_. G
