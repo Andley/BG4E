@@ -29,7 +29,7 @@
 	- [1Jo 2.18–25](1Jo%202.18%E2%80%9325.md)
 	- [1Jo 2.26–27](1Jo%202.26%E2%80%9327.md)
 - Children of God
-	- [1Jo 2.28–3.10](1Jo%202.28%E2%80%933.10)
+	- [1Jo 2.28–3.10](1Jo%202.28–3.10.md)
 - Love One Another
 	- [1Jo 3.11–18](1Jo%203.11%E2%80%9318.md)
 - Confidence before God

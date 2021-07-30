@@ -14,9 +14,9 @@
 
 ## 單卷解經
 - [57-Philippians/Philippians-Notes](57-Philippians/Philippians-Notes.md)
-- [62 約翰一書/1John-Notes](62%20%E7%B4%84%E7%BF%B0%E4%B8%80%E6%9B%B8/1John-Notes.md)
-- [63 約翰二書/2John-Notes](63%20%E7%B4%84%E7%BF%B0%E4%BA%8C%E6%9B%B8/2John-Notes.md)
-- [64 約翰三書/3John-Notes](64%20%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8/3John-Notes.md)
+- [62-1John/1John-Notes](62-1John/1John-Notes.md)
+- [63-2John/2John-Notes](63-2John/2John-Notes.md)
+- [64-3John/3John-Notes](64-3John/3John-Notes.md)
 
 
 ## 聖經希臘文資源工具
