@@ -56,11 +56,11 @@ M | Mathewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar
 R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis*. Peabody, MA.: Hendrickson, 2010.
 
 #### 參考書目
-- Greenlee, J. Harold. _An Exegetical Summary of Philippians_. ESS. Dallas, TX.: SIL International, 2008.
+- Varner, William. _Philippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 - Hellerman, Joseph H. _Philippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
+- Greenlee, J. Harold. _An Exegetical Summary of Philippians_. ESS. Dallas, TX.: SIL International, 2008.
 - Moore, Thomas. _Philippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
 - Novakovic, Lidija. _Philippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
-- Varner, William. _Philippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 - 馮蔭坤。《腓立比書》。普天註釋。香港：天道書樓，2016。
 - ———。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
 -  A. T. Robertson。《活泉新約希臘文解經—卷七：加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10冊。加州：美國活泉，1991。
