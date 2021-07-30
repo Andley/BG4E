@@ -32,12 +32,12 @@
 	- [Phi 2.19–24](Phi%202.19%E2%80%9324.md)
 	- [Phi 2.25–30](Phi%202.25%E2%80%9330.md)
 - The True Righteousness
-	- [Phi 3.1](Phi%203.1)
+	- [Phi 3.1](Phi%203.1.md)
 	- [Phi 3.2–11](Phi%203.2%E2%80%9311.md)
 - Pressing toward the Mark
 	- [Phi 3.12–16](Phi%203.12–16.md)
 	- [Phi 3.17–21](Phi%203.17%E2%80%9321.md)
-	- [Phi 4.1](Phi%204.1)
+	- [Phi 4.1](Phi%204.1.md)
 - Exhortations
 	- [Phi 4.2–7](Phi%204.2%E2%80%937.md)
 	- [Phi 4.8–9](Phi%204.8%E2%80%939.md)

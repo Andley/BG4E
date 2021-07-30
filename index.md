@@ -13,7 +13,7 @@
 
 
 ## 單卷解經
-- [57 腓立比書/Philippians-Notes](57%20%E8%85%93%E7%AB%8B%E6%AF%94%E6%9B%B8/Philippians-Notes.md)
+- [57-Philippians/Philippians-Notes](57-Philippians/Philippians-Notes.md)
 - [62 約翰一書/1John-Notes](62%20%E7%B4%84%E7%BF%B0%E4%B8%80%E6%9B%B8/1John-Notes.md)
 - [63 約翰二書/2John-Notes](63%20%E7%B4%84%E7%BF%B0%E4%BA%8C%E6%9B%B8/2John-Notes.md)
 - [64 約翰三書/3John-Notes](64%20%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8/3John-Notes.md)
