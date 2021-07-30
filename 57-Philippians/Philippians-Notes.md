@@ -14,7 +14,7 @@
 - [腓立比書—詞彙分析](Philippians-Vocabulary.md)  
 
 #### 句法筆記
-經文分段和標題是根據 UBS5[^1]；Interlinear **經文**的_大小寫和分段記號_ (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
+經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
 
 - Salutation
 	- [Phi 1.1–2](Phi1.1–2.md)
