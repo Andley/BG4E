@@ -13,13 +13,14 @@
 
 
 ## 單卷解經
-- [57-Philippians/Philippians-Notes](57-Philippians/Philippians-Notes.md)
-- [62-1John/1John-Notes](62-1John/1John-Notes.md)
-- [63-2John/2John-Notes](63-2John/2John-Notes.md)
-- [64-3John/3John-Notes](64-3John/3John-Notes.md)
+- [腓立比書](57-Philippians/Philippians-Notes.md)
+- [約翰一書](62-1John/1John-Notes.md)
+- [約翰二書](63-2John/2John-Notes.md)
+- [約翰三書](64-3John/3John-Notes.md)
 
 
 ## 聖經希臘文資源工具
 - [參考書目](Biblography.md)
 - [數位工具](Digital-Tools.md)
+
 
