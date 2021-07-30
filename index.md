@@ -22,5 +22,6 @@
 ## 聖經希臘文資源工具
 -  [參考書目](%E5%8F%83%E8%80%83%E6%9B%B8%E7%9B%AE.md)
 - [數位工具](%E6%95%B8%E4%BD%8D%E5%B7%A5%E5%85%B7.md)
+- [Biblography](Biblography.md)
 
 
