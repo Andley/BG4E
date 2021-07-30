@@ -16,7 +16,7 @@
 
 
 - The Word of Life
-	- [1Jo 1.1–4](1Jo%201.1%E2%80%934.md)
+	- [1Jo1.1–4](1Jo1.1–4.md)
 - God is Light
 	- [1Jo 1.5–10](1Jo%201.5%E2%80%9310.md)
 - Christ Our Advocate
