@@ -174,8 +174,8 @@ The PDF link should work[^3]
 <sup id="f1">1</sup> 註腳內容 [↵](#a1) 05793f ^a344fd
 
 
-- [HOME](rr.md)
-- [回目錄](rr.md)
+- [HOME](README.md)
+- [回目錄](README.md)
 
 
 ## vscode markdown-to-pdf
