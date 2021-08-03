@@ -1,6 +1,6 @@
 #### 圖析 (Phi 1:3–6)
 
-- <rt>1:3a</rt> (<RUBY><ruby><ruby>**Εὐχαριστῶ**<rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C 
+- <rt>1:3a</rt> (<RUBY><ruby><ruby>**Εὐχαριστῶ**<rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>Θεῷ‡</mark><rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C 
 	- <rt>1:3b</rt> (<RUBY><ruby><ruby>ἐπὶ<rt>upon</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>remembrance</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1 
 	- <rt>1:4a</rt> (<RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY>)A2
 	- ─────────────────────
@@ -15,7 +15,8 @@
 		- <rt>1:5d</rt> (<RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νῦν,<rt>now,</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)<mark>²</mark>
 	- ─────────────────────
 	- <rt>1:6a</rt> { <RUBY><ruby><ruby>*πεποιθὼς*<rt>being persuaded of</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>αὐτὸ³</mark><rt>[the] very thing</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο,<rt>this,</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY> « <rt>1:6b</rt> » }A5
-		- <rt>1:6b</rt> <RUBY><ruby><ruby><mark>ὅτι°³</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>ADV</rt></RUBY> {<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἐναρξάμενος*<rt>having begun</rt></ruby><rt>ἐνάρχομαι</rt></ruby><rt>V-ADP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>}s (<RUBY><ruby><ruby>ἔργον<rt>a work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθὸν<rt>good</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY>)c (<RUBY><ruby><ruby>**ἐπιτελέσει**<rt>will complete [it]</rt></ruby><rt>ἐπιτελέω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)p (<RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>[the] day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby>]<rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ·<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)a 
+		- <rt>1:6b</rt> <RUBY><ruby><ruby><mark>ὅτι°³</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>ADV</rt></RUBY> 
+			- {<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἐναρξάμενος*<rt>having begun</rt></ruby><rt>ἐνάρχομαι</rt></ruby><rt>V-ADP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)a (<RUBY><ruby><ruby>ἔργον<rt>a work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθὸν<rt>good</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY>)c }S<mark>‡</mark> (<RUBY><ruby><ruby>**ἐπιτελέσει**<rt>will complete [it]</rt></ruby><rt>ἐπιτελέω</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>[the] day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby>]<rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ·<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A 
 
 #### 筆記 (Phi 1:3–6)
 
@@ -63,7 +64,7 @@
 		- τοῦτο 指示代名詞，用來指稱近距離的人事物 (W 325–8 = 華 340–5)，這裡用來指向下文 (W 333–5 = 華 348–50) 1:6b 的 ὅτι 子句，就篇章分析 (discourse analysis) 來說，有增加懸疑、吊人胃口的效果。
 - 1:6b
 	- ὅτι 帶出的從屬子句同位 (W 458–9 = 華 481–2) 於上文 1:6a 的 τοῦτο，補充說明保羅確信的內涵。
-	- ὁ ἐναρξάμενος ἐν ὑμῖν 分詞子句前面加上冠詞，形成 T─A (分詞) 結構，當作實名詞 (W 617–9 = 華 653–5) 成為從屬子句的主語 (S)。 
+	- ὁ ἐναρξάμενος …… ἀγαθὸν 分詞子句前面加上冠詞，形成 T─A (分詞) 結構，當作實名詞 (W 617–9 = 華 653–5) 成為從屬子句的主語 (S)。 
 		- ἐν ὑμῖν 在句法上可以修飾後面的動詞 ἐπιτελέσει，語意上也說得通 (那開始動工的，必在你們裡面成就善工 ...) ──只是從 word order 來看，修飾分詞 ἐναρξάμενος 比較通順。
 		- 從上下文來看，ὁ ἐναρξάμενος ἐν ὑμῖν (那在你們心裡動了善工的) 應該是指向 1:3a 的「我的神」。
 	- ἐπιτελέσει 未來式時態形式，表達外部 (external)、總結 (summary) 的觀點 (W 566–8 = 華 596–8)。ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ 介系詞片語當作狀語 (A)，修飾 ἐπιτελέσει，表明上帝在人心的工作，要一直到耶穌再來的時候才算「結束，了結，完成」(BAGD 一)。
