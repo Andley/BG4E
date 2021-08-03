@@ -30,13 +30,22 @@
 ### 從屬子句 (Subordinate Clause)
 
 #### 從屬連接詞 (subordinate conjunctive)
-- 用從屬連接詞 ἵνα 帶出來從屬子句
-csdc- <RUBY><ruby><ruby>Τιμόθεον<rt>Timothy</rt></ruby><rt>Τιμόθεος</rt></ruby><rt>N-ASM-P</rt></RUBY><rt>)c1</rt> (<RUBY><ruby><ruby>ταχέως<rt>soon</rt></ruby><rt>ταχέως</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby>*πέμψαι*<rt>to send</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAN</rt></RUBY>)p (<RUBY><ruby><ruby>ὑμῖν,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)c2 }C ⇒ 我靠主耶穌指望快打發提摩太去你們那裡
-	- <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>κἀγὼ<rt>I also</rt></ruby><rt>κἀγώ</rt></ruby><rt>P-1NS-K</rt></RUBY> <RUBY><ruby><ruby>**εὐψυχῶ**<rt>may be encouraged,</rt></ruby><rt>εὐψυχέω</rt></ruby><rt>V-PAS-1S</rt></RUBY> ，叫我知道你們的事，心裡就得著安慰。 
-- Phi 1:28 <rt>腓1:28</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>πτυρόμενοι<rt>being frightened</rt></ruby><rt>πτύρομαι</rt></ruby><rt>V-PPP-NPM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>μηδενὶ<rt>nothing</rt></ruby><rt>μηδείς</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὸ<rt>by</rt></ruby><rt>ὑπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀντικειμένων,<rt>opposing [you],</rt></ruby><rt>ἀντίκειμαι</rt></ruby><rt>V-PNP-GPM</rt></RUBY> <RUBY><ruby><ruby>ἥτις<rt>which</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐστὶν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς<rt>to them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>ἔνδειξις<rt>a demonstration</rt></ruby><rt>ἔνδειξις</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀπωλείας,<rt>of destruction;</rt></ruby><rt>ἀπώλεια</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας,<rt>of salvation,</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ·<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>  腓1:28 καὶ μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων, ἥτις ἐστὶν αὐτοῖς ἔνδειξις ἀπωλείας, ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ Θεοῦ· 凡事不怕敵人的驚嚇，這是證明他們沉淪，你們得救都是出於神。 
+- 用從屬連接詞 ἵνα 帶出來從屬子句，補充說明主要子句
+	- <rt>腓2:28</rt> (<RUBY><ruby><ruby>**ἔπεμψα**<rt>I have sent</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν,<rt>him,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C ⇒ 我打發他去 
+		- <RUBY><ruby><ruby><mark>ἵνα</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
+			- { <rt>(</rt><RUBY><ruby><ruby>*ἰδόντες*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>(</rt><RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY><rt>)c</rt> <rt>(</rt><RUBY><ruby><ruby>πάλιν<rt>again,</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY><rt>)a</rt>}A (<RUBY><ruby><ruby>**χαρῆτε**<rt>you may rejoice,</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P ⇒ 再看見他你們能喜樂
+- 用從屬連接詞 ὅτι 帶出來從屬子句，補充說明主要子句
+	- <rt>腓1:25</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of,</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY>}A (<RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY>)P ⇒ 如此相信，我知道
+		- <RUBY><ruby><ruby><mark>ὅτι</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
+			- (<RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P ⇒ 我將活著
+			- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>**παραμενῶ**<rt>will continue with</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πᾶσιν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A ⇒ 我將繼續與你們同在
 
 #### 關係子句
-
+- 用關係代名詞 ὅς 帶出關係子句，補充說明主要子句。一般情況下，關係代名詞的數 (number)、性 (gender) 要與先行詞 (antecedent) 一致；格 (case) 則要看在關係子句中的角色而定。
+	- <rt>腓3:18</rt> (<RUBY><ruby><ruby>πολλοὶ<rt>Many</rt></ruby><rt>πολύς</rt></ruby><rt>A-NPM</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>**περιπατοῦσιν**<rt>are walking -</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P ⇒ 因為許多人行事
+		- (<RUBY><ruby><ruby><mark>οὓς</mark><rt>[of] whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APM</rt></RUBY>)C1 (<RUBY><ruby><ruby>πολλάκις<rt>often</rt></ruby><rt>πολλάκις</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>**ἔλεγον**<rt>I told</rt></ruby><rt>λέγω</rt></ruby><rt>V-IAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 ⇒ 那些人 (whom) 我常常告訴你們
+		- 關係代名詞 οὓς 的先行詞是 πολλοὶ。
+		- 
 
 ### 內嵌子句 (Embedded Clause)
 
