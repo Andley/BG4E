@@ -25,7 +25,7 @@
 - 主要子句也可以直接出現，不需要連接詞，這在句法上叫做 Asyndeton (省略連接詞)，有些文法書用 Ø 符號來代表。在語意上，無連接詞*可能*是一個新段落的開始。
 	- <rt>腓1:3</rt> (<RUBY><ruby><ruby>**Εὐχαριστῶ**<rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C ⇒ 我感謝我的上帝
 	- <rt>腓3:2</rt> (<RUBY><ruby><ruby>**Βλέπετε**<rt>Beware of</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>κύνας,<rt>dogs;</rt></ruby><rt>κύων</rt></ruby><rt>N-APM</rt></RUBY>)C ⇒ 應當防備犬類！
-	- UBS/NA
+	- UBS/NA 編排時把這兩節經文的第一個字母大寫，表示新段落的開始。
 
 ### 從屬子句 (Subordinate Clause)
 
