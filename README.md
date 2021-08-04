@@ -19,7 +19,7 @@ https://andley.github.io/BG4E/
 - [約翰三書](64-3John/3John-Notes.md)
 
 
-## 聖經希臘文資源工具
+## 資源工具
 - [參考書目](Biblography.md)
 - [數位工具](Digital-Tools.md)
 
