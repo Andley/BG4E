@@ -138,7 +138,7 @@
 - Object-Complement
 - Cognate Accusative
 - Predicate Accusative
-- Accusative Subject of Infinitive
+- [[Accusative Subject of Infinitive]]
 - Accusative of Retained Object
 - Pendent Accusative (*Accusativum Pendens*)
 - Accusative in Simple Apposition
