@@ -81,18 +81,6 @@ Points|Pixels
 26pt|35px
 28pt|37px
 30pt|40px
-### 特殊符號
-用 Windows 鍵 + . 
-
-| Unicode | result | UniCode | result |
-| ------- | ------ | ------- | ------ |
-| U00AB   | «      | U00BB   | »      |
-| U25C2   | ◂      | U25B8   | ▸      |
-| U2190   | ←      | U2192   | →      |
-| U21D2   | ⇒     | U21D0    | ⇐     |
-| U2235   | ∵      | U2234   | ∴      |
-| U00A7   | §      | U2015   | ―      |
-| U21B5   | ↵      |
 
 ### 引用
 
