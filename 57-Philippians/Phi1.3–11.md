@@ -86,8 +86,8 @@
 					- <rt>1:7c</rt> (<RUBY><ruby><ruby>ἔν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τε<rt>both</rt></ruby><rt>τε</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)<mark>⁷</mark> 
 					- <rt>1:7d</rt> (<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀπολογίᾳ<rt>defense</rt></ruby><rt>ἀπολογία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>βεβαιώσει<rt>confirmation</rt></ruby><rt>βεβαίωσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel,</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY>)<mark>⁷</mark> 
 				- <rt>1:7e</rt> { <rt>(</rt><RUBY><ruby><ruby>συνκοινωνούς<rt>fellow partakers</rt></ruby><rt>συγκοινωνός</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>with me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>χάριτος<rt>grace</rt></ruby><rt>χάρις</rt></ruby><rt>N-GSF</rt></RUBY><rt>)c</rt> <rt>(</rt><RUBY><ruby><ruby>πάντας<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)s</rt> <RUBY><ruby><ruby><mark>*ὄντας.⁷*</mark><rt>are.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAP-APM</rt></RUBY> }<mark>⁶</mark> 
-- <rt>1:8a</rt> (<RUBY><ruby><ruby>μάρτυς<rt>Witness</rt></ruby><rt>μάρτυς</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μου<rt>my</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεός<rt>God [is],</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S 
-	- <rt>1:8b</rt> <RUBY><ruby><ruby>ὡς<rt>how</rt></ruby><rt>ὡς</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>**ἐπιποθῶ**<rt>I long after</rt></ruby><rt>ἐπιποθέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πάντας<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σπλάγχνοις<rt>[the] affection</rt></ruby><rt>σπλάγχνον</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A 
+			- <rt>1:8a</rt> (<RUBY><ruby><ruby>μάρτυς<rt>Witness</rt></ruby><rt>μάρτυς</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μου<rt>my</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεός<rt>God [is],</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S 
+				- <rt>1:8b</rt> <RUBY><ruby><ruby>ὡς<rt>how</rt></ruby><rt>ὡς</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>**ἐπιποθῶ**<rt>I long after</rt></ruby><rt>ἐπιποθέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πάντας<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σπλάγχνοις<rt>[the] affection</rt></ruby><rt>σπλάγχνον</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A 
 
 #### 筆記 (Phi 1:7–8)
 - 1:7–8 跟 1:3–6 屬於同一個句子，NA28 雖然把 Καθώς 第一個字母大寫，但仍然放在 1:3–11 的段落當中。相較之下，UBS5 就把 καθώς 第一個字母小寫。
@@ -106,15 +106,15 @@
 	- ἔν τοῖς δεσμοῖς μου 介系詞片語當副詞使用，修飾 1:7e 的 ὄντας；δεσμοῖς 是複數，代表保羅多次入獄 (徒16 就開始)。
 	- τῇ ἀπολογίᾳ καὶ βεβαιώσει 是非人格化名詞 (impersonal noun) 所組成的夏普結構 (T─S─K─S)，兩個名詞共用同一個冠詞，表達兩個概念緊密相連 (W 286-90 = 華 300–04)。ἀπολογίᾳ (辯護) 和 βεβαιώσει (實據) 都是法庭用語，可能跟保羅入獄受審 (1:17c) 或面對猶太會堂質問有關。
 - 1:7e
-	- 分詞內嵌子句補充 1:7b「我有你們在心上」的原因。συνκοινωνούς 後面的兩個所有格功能不同：
-		- μου 是關聯所有格 (W 128-30 = 華 131–3)；χάριτος 是受詞所有格 (W 116-9 = 華 118–21)。
-- 1:8a
-	-γάρ 無動詞子句 (可以想成：省略 BE 動詞)，說明 
+	- 分詞內嵌子句補充 1:7b「我有你們在心上」的原因。συνκοινωνούς 後面的兩個所有格功能不同：μου 是關聯所有格 (W 128-30 = 華 131–3)，修飾 συνκοινωνούς「我的」夥伴；χάριτος 則是受詞所有格 (W 116-9 = 華 118–21)，表達 συνκοινωνούς 夥伴要共享的事物 (BAGD)。
+- 1:8ab
+	- 對等連接詞 γάρ 帶出無動詞子句 (可以想成：省略 BE 動詞)，用來強化、支撐上文的論點。從 1:8b 上帝見證的內容「我想念你們眾人」反推，比較合適用來支撐 1:7b 我有你們在心上。
+	- 1:8b 從屬連接詞 ὡς 帶出上帝見證的內容，在此用法跟 ὅτι 相當 (BAGD 四)。
+
 
 ---
 #### 圖析 (Phi 1:9–11)
 
-- —––—––—––—––—––—––—––
 - <rt>1:9a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby>**προσεύχομαι,**<rt>I pray,</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY> 
 	- <rt>1:9b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby>ἔτι<rt>yet</rt></ruby><rt>ἔτι</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>**περισσεύῃ**<rt>may abound</rt></ruby><rt>περισσεύω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P 
 		- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐπιγνώσει<rt>knowledge</rt></ruby><rt>ἐπίγνωσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>αἰσθήσει<rt>discernment,</rt></ruby><rt>αἴσθησις</rt></ruby><rt>N-DSF</rt></RUBY>)A2 
@@ -125,34 +125,9 @@
 					- (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>[the] glory</rt></ruby><rt>δόξα</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔπαινον<rt>praise</rt></ruby><rt>ἔπαινος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.¶<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)⁴
 
 
-#### 筆記 (Phi 1:9–11)
-腓1:3 Εὐχαριστῶ τῷ Θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν腓1:4 πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,腓1:5 ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,腓1:6 πεποιθὼς αὐτὸ τοῦτο, ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ·腓1:7 Καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συνκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας.腓1:8 μάρτυς γάρ μου ὁ Θεός ὡς ἐπιποθῶ πάντας ὑμᾶς ἐν σπλάγχνοις Χριστοῦ Ἰησοῦ.腓1:9 Καὶ τοῦτο προσεύχομαι, ἵνα ἡ ἀγάπη ὑμῶν ἔτι μᾶλλον καὶ μᾶλλον περισσεύῃ ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει腓1:10 εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,腓1:11 πεπληρωμένοι καρπὸν δικαιοσύνης τὸν διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον Θεοῦ.¶
+#### 筆記 (Phi 1:9–11
 
-
-腓1:3 Εὐχαριστῶ τῷ Θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν
-- dscsdc
-	- sdcs
-		- sdcsd
-
-腓1:4 πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,
-- dscsdc
-	- sdcs
-		- sdcsd
-腓1:5 ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,
-
-
-腓1:6 πεποιθὼς αὐτὸ τοῦτο, ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ·
-- dscsdc
-	- sdcs
-		- sdcsd
-
-腓1:7 Καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συνκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας.
-- dscsdc
-	- sdcs
-		- sdcsd
-
-
-腓1:8 μάρτυς γάρ μου ὁ Θεός ὡς ἐπιποθῶ πάντας ὑμᾶς ἐν σπλάγχνοις Χριστοῦ Ἰησοῦ.腓1:9 Καὶ τοῦτο προσεύχομαι, ἵνα ἡ ἀγάπη ὑμῶν ἔτι μᾶλλον καὶ μᾶλλον περισσεύῃ ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει腓1:10 εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,腓1:11 πεπληρωμένοι καρπὸν δικαιοσύνης τὸν διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον Θεοῦ.¶
+Php 1:9 καὶ τοῦτο "προσεύχομαι," ἵνα ἡ ἀγάπη ὑμῶν ἔτι μᾶλλον καὶ μᾶλλον περισσεύῃ ἐν ἐπιγνώσει καὶ πάσῃ αἰσθήσει 我所禱告的，就是要你們的愛心在知識和各樣見識上多而又多， Php 1:10 εἰς τὸ δοκιμάζειν ὑμᾶς τὰ "διαφέροντα," ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ 使你們能分別是非（或作：喜愛那美好的事），作誠實無過的人，直到基督的日子； Php 1:11 πεπληρωμένοι καρπὸν δικαιοσύνης τὸν διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον θεοῦ.¶ 並靠著耶穌基督結滿了仁義的果子，叫榮耀稱讚歸與神。 
 
 
 ---
