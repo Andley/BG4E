@@ -17,7 +17,7 @@
 經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
 
 - Salutation
-	- [Phi 1.1–2](Phi1.1–2.md)
+	- [Phi 1.1–2](Php%201.1–2.md)
 - Paul's Prayer for the Philippians
 	- [Phi 1.3–11](Phi1.3–11.md)
 - To Me to Live is Christ
