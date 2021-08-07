@@ -468,7 +468,7 @@
 	- Absolute
 
 
-#### §460 Participle
+#### [[§460]] Participle
 - **Adjectival Participles**
 	- *Adjectival Proper*
 		- Attributive
