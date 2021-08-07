@@ -2,19 +2,21 @@
 
 ---
 
-- Part I 希臘文基礎
-	- Chapter 1: 希臘文源流 §1
+- Part I 希臘文基礎 §0X
+	- §01希臘文源流 
 		- 希臘文歷史 §1a
 		- 閃語對聖經希臘文的影響 §1b
 		- 耶穌也說希臘文 §1c
 		- 聖經希臘文與古典希臘文之異同 §1d
 		- 聖經希臘文與現代希臘文之異同 §1e
-	- Chapter 2: 語言學基礎 §2
+	- §02 語言學基礎
 		- 語言金字塔 §2a
 		- 形式與功能 §2b
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
-- Part II 字詞與片語 (Word and Phrase)
+- Part II Phonology §1XXX
+- Part III Morphology §2XX
+- Part IV Syntax §3XX 字詞與片語 (Word and Phrase)
 	- 名詞類
 		- Chapter 3: 名詞 (Noun) §3
 			- 簡介 [[§3a]]
@@ -40,11 +42,12 @@
 - Part IV 段落與篇章 (Paragraph and Discourse)
 
 
-
-### 名詞類
-#### 格 (Cases) §100
-
-##### §311 主格 (Nominative)
+## Part I Linguistics §0
+## Part II Phonology $1
+## Part III Morphology $2
+## Part IV Syntax—Word & Phrase $300
+### §310 格 (Cases) §310
+#### §311 主格 (Nominative)
 - Subject
 - Predicate Nominative 
 - Nominative in Simple Apposition
@@ -58,12 +61,13 @@
 - Nominative in Apposition to Oblique Cases
 - Nominative After Preposition
 - Nominative for Time
-##### §312 呼格 (Vocative)
+#### §312 呼格 (Vocative)
 - Simple Address
 - Emphatic (or Emotional) Address
 - Exclamation
 - Apposition
-##### §313 所有格 (Genitive)
+#### §313 所有格 (Genitive)
+
 ###### Adjectival Genitive
 - Descriptive Genitive
 - Possessive Genitive
@@ -101,7 +105,7 @@
 - Genitive After Certain Adjectives
 - Genitive After Certain Nouns
 - Genitive After Certain Prepositions
-##### §314 間接受格 (Dative)
+#### §314 間接受格 (Dative)
 - Dative Indirect Object
 - Dative of Interest
 	- Advantage (*commodi*)
@@ -131,7 +135,7 @@
 - Dative After Certain Nouns
 - Dative After Certain Adjectives
 - Dative After Certain Prepositions
-##### §315 直接受格 (Accusative)
+#### §315 直接受格 (Accusative)
 - Accusative Direct Object
 - Double Accusative
 - Person-Thing
@@ -149,7 +153,7 @@
 - Accusative After Certain Prepositions
 
 
-#### §200 Article
+### §320 Article
 - **Regular Uses**
 	- *As a Pronoun (4)*
 		- Personal Pronoun
@@ -206,7 +210,7 @@
 	- Article with Multiple Substantives Connected by καί (Sharp's Rule & related constructions)
 
 
-#### §300 Adjectives
+### §330 Adjectives
 - **"Non-Adjectival" Uses of Adjective**
 	- Adverbial
 	- Substantival
@@ -237,8 +241,7 @@
 		- Anarthrous Noun-Adjective Construction
 
 
-#### §400 Adverbs
-#### §500 Pronouns
+### §340 Pronouns
 - **Personal Pronouns**
 	- *Nominative Uses*
 		- Emphasis: contrast, subject focus
@@ -288,66 +291,47 @@
 
 
 
+### §350 功能詞類
+#### §351 介系詞 (Prepositions)
+- (see main section of Syntax Summaries)
+#### §354 Adverbs
+#### §352 連接詞 (Conjunctions
+- **Logical Functions**
+	- Ascensive
+	- Connective
+	- Contrastive (Adversative)
+	- Correlative
+	- Disjunctive (Alternative)
+	- Emphatic
+	- Explanatory
+	- Inferential
+	- Transitional
+- **Adverbial Functions**
+	- Causal
+	- Comparative (Manner)
+	- Conditional
+	- Local (Sphere)
+	- Purpose
+	- Result
+	- Temporal
+- **Substantival Functions**
+	- Content
+	- Epexegetical
+
+)
+
+#### §353 質詞 (Particles)
+- 功能詞類
+		- 介系詞 (Preposition)
+		- [連接詞 (Conjunctive)](§535)
+		- 質詞 (Particle) [[§538]]
 
 
-### §400 動詞類
-#### §600 Tense and Aspect
-- **Present**
-	- Instantaneous Present
-	- Progressive Present
-	- Extending-From-Past Present
-	- Iterative Present
-	- Customary Present
-	- Gnomic Present
-	- Historical Present
-	- Perfective Present
-	- Conative Present
-		- In Progress, but not Complete
-		- Not Begun, but About/Desired to be Attempted
-	- Futuristic Present
-		- Completely Futuristic
-		- Mostly Futuristic
-	- Present Retained in Indirect Discourse
-- **Imperfect**
-	- Instantaneous Imperfect
-	- Progressive (Descriptive) Imperfect
-	- Ingressive Imperfect
-	- Iterative Imperfect
-	- Customary Imperfect
-	- "Pluperfective" Imperfect
-	- Conative Imperfect
-		- In Progress, but not Complete
-		- Not Begun, but About/Desired to be Attempted
-	- Imperfect Retained in Indirect Discourse
-- **Aorist**
-	- Constative Aorist
-	- Ingressive Aorist
-	- Consummative Aorist
-	- Gnomic Aorist
-	- Epistolary Aorist
-	- Proleptic Aorist
-	- Immediate Past/Dramatic Aorist
-- **Future**
-	- Predictive Future
-	- Imperatival Future
-	- Deliberative Future
-	- Gnomic Future
-	- Miscellaneous Subjunctive Equivalents
-- **Perfect**
-	- Intensive Perfect (Resultative)
-	- Extensive Perfect (Consummative)
-	- Aoristic (Dramatic, Historical) Perfect
-	- Perfect with Present Force
-	- Gnomic Perfect
-	- Proleptic Perfect
-	- Perfect of Allegory
-- **Pluperfect**
-	- Intensive Pluperfect (Resultative)
-	- Extensive Pluperfect (Consummative)
-	- Simple Past Pluperfect
+### §360 動詞
+#### §361 Tense and Aspect
 
 
-#### §700 Voice
+#### §362 Voice
 - **Active**
 	- Simple Active
 	- Causative Active (Ergative)
@@ -375,7 +359,7 @@
 		- Deponent Passive
 
 
-#### §800 Moods
+#### §363 Moods
 - **Indicative**
 	- Declarative Indicative
 	- Interrogative Indicative
@@ -430,7 +414,7 @@
 	- Stereotyped Greeting
 
 
-#### §440 Person & Number
+#### §364 Person & Number
 - **Person**
 	- First for Third Person
 	- Second for Third Person
@@ -446,8 +430,8 @@
 	- Categorical Plural
 
 
-#### §450 Infinitive
-- **Adverbial Uses**
+### §370 Infinitive
+- Adverbial Uses
 	- Purpose
 	- Result
 	- Time
@@ -468,73 +452,29 @@
 	- Absolute
 
 
-#### [[§460]] Participle
-- **Adjectival Participles**
-	- *Adjectival Proper*
-		- Attributive
-		- Predicate
-	- *Substantival*
-- **Verbal Participles**
-	- *Dependent Verbal*
-		- Temporal
-		- Manner
-		- Means
-		- Cause
-		- Condition
-		- Concession
-		- Purpose
-		- Result
-		- Attendant Circumstance
-		- Indirect Discourse
-		- Complementary
-		- Periphrastic
-		- Redundant (Pleonastic)
-	- *Independent Verbal*
-		- Imperatival
-		- Indicative
-	- **Participle Absolute**
-		- Nominative Absolute
-		- Genitive Absolute
+### [§380 分詞 (Participle)](§380)
+- Dependent Uses
+	- Adjectival Participle
+		- Attribute Participle
+			- T—A—N
+			- T—N—T—A
+		- Predicate Participle
+			- A—T—N
+			- T—N—A
+		- Substantive Participle
+			- T—A
+			- A
+	- Verbal Participle
+		- 主格
+		- oblique case
+			- 所有格 = genitive absolute
+			- accusative absolute
+			- dative absolute
+		- Adverbial Participle
+- Independent Uses
 
 
-
-### §500 功能詞類
-#### §510 介系詞 (Prepositions)
-- (see main section of Syntax Summaries)
-
-#### §520 連接詞 (Conjunctions
-- **Logical Functions**
-	- Ascensive
-	- Connective
-	- Contrastive (Adversative)
-	- Correlative
-	- Disjunctive (Alternative)
-	- Emphatic
-	- Explanatory
-	- Inferential
-	- Transitional
-- **Adverbial Functions**
-	- Causal
-	- Comparative (Manner)
-	- Conditional
-	- Local (Sphere)
-	- Purpose
-	- Result
-	- Temporal
-- **Substantival Functions**
-	- Content
-	- Epexegetical
-
-)
-
-#### §530 質詞 (Particles)
-- 功能詞類
-		- 介系詞 (Preposition)
-		- [連接詞 (Conjunctive)](§535)
-		- 質詞 (Particle) [[§538]]
-
-
-## Part III — 子句與句子 (Clause and Sentence)
+## Part VSyntax—Clause and Sentence
 ### 600 Clauses
 #### [[§610]] 子句結構 (Clause Structure)
 #### §620 句子類型 (Sentence Classification)
@@ -578,6 +518,7 @@
 		- Cessation of Activity in Progress
 		- General Precept
 
+## Part VI Discourse
 
 
 
