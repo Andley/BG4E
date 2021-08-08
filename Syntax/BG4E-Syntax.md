@@ -14,40 +14,14 @@
 		- 形式與功能 §2b
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
-- Part II Phonology §1XXX
-- Part III Morphology §2XX
-- Part IV Syntax §3XX 字詞與片語 (Word and Phrase)
-	- 名詞類
-		- Chapter 3: 名詞 (Noun) §3
-			- 簡介 [[§3a]]
-			- 主格 [[$3b]]
-				- 主語 (Subject) §3b1
-				- 述語主格 (Predicate Nominative) [[§3b2]]
-				- 
-			- 直接受格 $3c
-			- 所有格 $3d
-			- 間接受格 $3e
-			- 數、性 $3f
-		- 冠詞
-		- 形容詞
-		- 代名詞
-	- 動詞類
-		- 觀點 [[Aspect]]
-	- 功能詞類
-		- 介系詞
-		- 質詞
-		- 連接詞
-		- 動詞：
-- Part III 子句與句子 (Clause and Sentence)
-- Part IV 段落與篇章 (Paragraph and Discourse)
 
 
-## Part I Linguistics §0
-## Part II Phonology $1
-## Part III Morphology $2
-## Part IV Syntax—Word & Phrase $300
-### §310 格 (Cases) §310
-#### §311 主格 (Nominative)
+## Part I Linguistics §100
+## Part II Phonology §200
+## Part III 字形 Morphology §300
+## Part IV 字詞與片語 (Word and Phrase) §400
+### 格 (Cases) §410
+#### 主格 (Nominative) $411
 - Subject
 - Predicate Nominative 
 - Nominative in Simple Apposition
@@ -452,7 +426,7 @@
 	- Absolute
 
 
-### [§380 分詞 (Participle)](§380)
+### [§380 分詞 (Participle)](§480.md)
 - Dependent Uses
 	- Adjectival Participle
 		- Attribute Participle
@@ -474,7 +448,7 @@
 - Independent Uses
 
 
-## Part VSyntax—Clause and Sentence
+## Part V 子句與句子 (Clause and Sentence) §500
 ### 600 Clauses
 #### [[§610]] 子句結構 (Clause Structure)
 #### §620 句子類型 (Sentence Classification)
@@ -518,7 +492,8 @@
 		- Cessation of Activity in Progress
 		- General Precept
 
-## Part VI Discourse
+## Part VI 段落與篇章 (Paragraph and Discourse) §600
+## Part VII Context and Cotext §700
 
 
 
