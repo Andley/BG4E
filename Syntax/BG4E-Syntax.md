@@ -30,7 +30,7 @@
 			- [Number (數) §55](§55.md)
 		- [Infinitive (不定詞) §56](§56.md)
 		- [Participle (分詞) §57](§57.md)
-- Part V 子句與句子 (Clause and Sentence)
+- Part V 子句與句子 (Clause and Sentence) §60
 	- [Clauses (子句) §61](§61.md)
 	- [Sentence (句子) §62](§62.md)
 - Part VI 段落與篇章 (Paragraph and Discourse) §600
