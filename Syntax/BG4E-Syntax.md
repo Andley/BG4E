@@ -33,7 +33,7 @@
 - Part V 子句與句子 (Clause and Sentence) §60
 	- [Clauses (子句) §61](§61.md)
 	- [Sentence (句子) §62](§62.md)
-- Part VI 段落與篇章 (Paragraph and Discourse) §600
+- Part VI 段落與話語篇章 (Paragraph and Discourse) §600
 - Part VII Context and Cotext §700
 
 
