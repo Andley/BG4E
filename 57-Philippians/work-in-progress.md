@@ -12,7 +12,7 @@
 		- <rt>1:5c</rt> <rt>(</rt><RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πρώτης<rt>first</rt></ruby><rt>πρῶτος</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY><rt>)</rt>°²
 		- <rt>1:5d</rt> <rt>(</rt><RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νῦν·<rt>now,</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY><rt>)</rt>°²
 	- ——————————————
-	- <rt>1:6a</rt> {<RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>αὐτὸ<rt>[the] very thing</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο,<rt>this,</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY><rt>)c</rt> }A4‡
+	- <rt>1:6a</rt> {<RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>αὐτὸ<rt>[the] very thing</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο,<rt>this,</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY><rt>)c</rt> «<rt>1:6b</rt>» }A4‡
 		- <rt>1:6b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἐναρξάμενος*<rt>having begun</rt></ruby><rt>ἐνάρχομαι</rt></ruby><rt>V-ADP-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ἔργον<rt>a work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθὸν<rt>good</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY><rt>)c</rt> }S <RUBY><ruby><ruby>**ἐπιτελέσει**<rt>will complete [it]</rt></ruby><rt>ἐπιτελέω</rt></ruby><rt>V-FAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>[the] day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ·<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A
 
 #### 筆記 (Phi 1:3–6)
@@ -30,11 +30,18 @@
 	- 1:4abcd 句法上可以修飾前面 1:3 Εὐχαριστῶ (感謝)，也可以修飾後面 1:4e ποιούμενος (祈求)，語意上也都說得通，因此有各種排列組合的可能。一方面為了尊重經文分節的傳統，二方面為了簡化起見，我把 1:4abcd 全都用來當作狀語修飾 ποιούμενος (懇求)。
 	- 1:4b、1:4e 同樣用 δέησις，在聖經中專指對神的禱告，比較普遍的 προσευχή 更多了特定懇求的含意 (BAGD, s.v. δέησις)。
 	- 1:4a 副詞 πάντοτε 表達懇求的「頻率 frequency」(常常)；1:4b 介系詞 ἐν＋間接受格 [W 372–5 = 華 389–92] 表達「時間 temporal」(在我每次懇求的時候) ；1:4c 介系詞 ὑπὲρ＋所有格 [W 383–89 = 華 401–08] 表達「代替 in behalf of」(我為你們代求)；1:4d 介系詞 μετὰ＋所有格 [W 377–78 = 華 395] 表達「樣貌 manner」(歡歡喜喜地代求)。
+- 1:5
+	- 1:5a ἐπὶ＋間接受格的介系詞片語，當作第三個狀語 (A3) 修飾主要動詞，表達感謝的「原因 cause」[W 376 = 華 393]，是因為你們的 κοινωνίᾳ。
+		- 和合本翻譯「你們是同心合意的...」固然可以，但這樣一來似乎就把保羅給排除在外。或許比較好的方式是把 κοινωνίᾳ 理解成=「參與」(BAGD s.v. κοινωνία 四)，表示腓立比教會跟保羅一同參與。
+	-1:5b εἰς＋直接受格的介系詞片語。雖然介系詞片語比較常用來修飾動詞、不定詞、分詞，但在這裡，語意上比較適合用來修飾 1:5a 的 κοινωνίᾳ 表達「利益 advantage」[W 369–71 = 華 386–88]，意思是「為了福音，你們參與其中」。
+	- 1:5cd 兩組介系詞片語 (ἀπὸ＋所有格、ἄχρι＋所有格)，都在表達「時間」：從...時候開始 (ἀπὸ ...)，直到 ... 時候 (ἄχρι ...)。
+		- τῆς πρώτης ἡμέρας 是形容詞第一修飾位置 (first attributive position) [W 306 = 華 320–21] T—A—N 的結構。
+		- τοῦ νῦν 是冠詞＋副詞當作實名詞用的結構 [W 232–33 = 華 242–43]。
+- 1:6
+	- 
 
 
-
-
- ὑπὲρ πάντων ὑμῶν μετὰ χαρᾶς τὴν δέησιν "ποιούμενος," 每逢為你們眾人祈求的時候，常是歡歡喜喜的祈求。 Php 1:5 ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν· 因為從頭一天直到如今，你們是同心合意的興旺福音。 Php 1:6 πεποιθὼς αὐτὸ "τοῦτο," ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ· 我深信那在你們心裡動了善工的，必成全這工，直到耶穌基督的日子。 
+ ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν· 因為從頭一天直到如今，你們是同心合意的興旺福音。 Php 1:6 πεποιθὼς αὐτὸ "τοῦτο," ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ· 我深信那在你們心裡動了善工的，必成全這工，直到耶穌基督的日子。 
 
 ---
 
