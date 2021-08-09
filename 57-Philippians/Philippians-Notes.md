@@ -19,7 +19,7 @@
 - Salutation
 	- [Phi 1.1–2](Php-1.1–2.md)
 - Paul's Prayer for the Philippians
-	- [Phi 1.3–11](Phi1.3–11.md)
+	- [Phi 1.3–11](Php-1.3–11.md)
 - To Me to Live is Christ
 	- [Phi 1.12–14](Phi1.12–14.md)
 	- [Phi 1.15–26](Phi1.15–26.md)
