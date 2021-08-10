@@ -1,4 +1,4 @@
-#### 圖析 (Phi 1:3–6)
+#### 圖析 (Php 1:3–6)
 - <rt>1:3</rt> <RUBY><ruby><ruby><mark>**Εὐχαριστῶ‡**</mark><rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐπὶ<rt>upon</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>remembrance</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1‡
 	- ——————————————
 		- <rt>1:4a</rt> <rt>(</rt><RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY><rt>)a</rt>°¹
@@ -15,7 +15,7 @@
 	- <rt>1:6a</rt> {<RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>αὐτὸ<rt>[the] very thing</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο,<rt>this,</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY><rt>)c</rt> «<rt>1:6b</rt>» }A4‡
 		- <rt>1:6b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἐναρξάμενος*<rt>having begun</rt></ruby><rt>ἐνάρχομαι</rt></ruby><rt>V-ADP-NSM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ἔργον<rt>a work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθὸν<rt>good</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY><rt>)c</rt> }S <RUBY><ruby><ruby>**ἐπιτελέσει**<rt>will complete [it]</rt></ruby><rt>ἐπιτελέω</rt></ruby><rt>V-FAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἄχρι<rt>until</rt></ruby><rt>ἄχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>[the] day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ·<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A
 
-#### 筆記 (Phi 1:3–6)
+#### 筆記 (Php 1:3–6)
 - 1:3–8 是一個句子，主要動詞是 Εὐχαριστῶ (感謝)，1:4–8 都在補充說明這個主要概念。
 	- 1:3 後半的介系詞片語 ἐπὶ ... ὑμῶν 說明感謝的「時間 temporal」
 	- 1:4 說明感謝的
