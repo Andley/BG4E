@@ -11,7 +11,7 @@
 			- <rt>1:14a</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοὺς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>πλείονας<rt>most</rt></ruby><rt>πλείων, πλεῖον</rt></ruby><rt>A-APM-C</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφῶν<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-GPM</rt></RUBY>)S ...... « <RUBY><ruby><ruby><mark>*τολμᾶν°²*</mark><rt>to dare</rt></ruby><rt>τολμάω</rt></ruby><rt>V-PAN</rt></RUBY> »
 				- <rt>1:14b</rt> { <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>κυρίῳ<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY><rt>)a1</rt> <RUBY><ruby><ruby>*πεποιθότας*<rt>already trusting</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-APM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>τοῖς<rt>by the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>)a2</rt> }A1°²
 				- <rt>1:14c</rt> (<RUBY><ruby><ruby>περισσοτέρως<rt>more abundantly</rt></ruby><rt>περισσοτέρως</rt></ruby><rt>ADV</rt></RUBY>)A2°² «......»
-				- <rt>1:14d</rt> { <rt>(</rt><RUBY><ruby><ruby>ἀφόβως<rt>fearlessly</rt></ruby><rt>ἀφόβως</rt></ruby><rt>ADV</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>)C</rt> <RUBY><ruby><ruby>*λαλεῖν.*<rt>to speak.</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAN</rt></RUBY> }A3°²
+				- <rt>1:14d</rt> { <rt>(</rt><RUBY><ruby><ruby>ἀφόβως<rt>fearlessly</rt></ruby><rt>ἀφόβως</rt></ruby><rt>ADV</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>)C</rt> <RUBY><ruby><ruby>*λαλεῖν.*<rt>to speak.</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAN</rt></RUBY> }C
 
 
 
@@ -40,14 +40,28 @@
 		- πραιτωρίῳ「原指執政官之營帳及其周圍之地」，但因為前面有 ὅλῳ (所有、全部)，所以應該是引申為「整個御營軍裡面所有的人」。
 		- λοιποῖς 意思是「其他人」，應該是指「御營軍」外所有羅馬教會的相關人等。
 		- 句法上 (syntactically)  ὅλῳ τῷ πραιτωρίῳ 是形容詞第一敘述位置 (First Predicate Position) A—T—N (W 307–08 = 華 322) 的結構；τοῖς λοιποῖς πάσιν 是形容詞第二敘述位置 (Second Predicate Position) T—N—A (W 308 = 華 323) 的結構。但因為兩者的形容詞 ὅλος πᾶς 都是例外 (W 308 = 華 323)，所以就語意上來說 (semantically)，都還是修飾的用法 (attributive)。
-- 
+- 1:14 是 1:13a 從屬連接詞 ὥστε 所帶出的第二組不定詞子句。
+	- 1:14a 
+		- τοὺς πλείονας τῶν ἀδελφῶν (弟兄中的大多數) 是主語，不定詞 τολμᾶν (放膽) 擺在後面 1:14c。
+	- 1:14b
+		- 分詞內嵌子句當作狀語，修飾不定詞 τολμᾶν (放膽) ，表達弟兄們放膽的「原因 cause」(W 631–32 = 華 666–67)，是因為 πεποιθότας (篤信不疑)。
+		- 介系詞片語 ἐν κυρίῳ 在句法上固然可以用來修飾 1:14a 的 ἀδελφῶν (弟兄)，變成「在主裡的弟兄」—但這樣一來語意重複顯得多餘。比較適合用來修飾分詞 πεποιθότας，說明篤信不疑的「原因」(因為主所以篤信不疑)，或「憑藉」(靠著主所以篤信不疑)。
+		- 間接受格 τοῖς δεσμοῖς μου 當副詞用，修飾分詞 πεποιθότας，補充說明篤信不疑的第二個「原因」或「憑藉」。
+		`
+	- 1:14c 副詞 περισσοτέρως 意思是「更加」，修飾不定詞 τολμᾶν (放膽)。τολμᾶν 後面接 1:14d 不定詞內嵌子句，意思是「有勇氣，夠膽量去做 ...」(BAGD s.v. τολμάω)
+	- 1:14d
+		- 不定詞內嵌子句裡面還有副詞 (ἀφόβως)、受詞 (τὸν λόγον τοῦ θεοῦ)。
+		- τοῦ θεοῦ
+		- 
+
+
+		- 
 
 
 
 
 
-
- φανεροὺς ἐν Χριστῷ γενέσθαι ἐν ὅλῳ τῷ πραιτωρίῳ καὶ τοῖς λοιποῖς πάσιν 以致我受的捆鎖在御營全軍和其餘的人中，已經顯明是為基督的緣故。 Php 1:14 καὶ τοὺς πλείονας τῶν ἀδελφῶν ἐν κυρίῳ πεποιθότας τοῖς δεσμοῖς μου περισσοτέρως τολμᾶν ἀφόβως τὸν λόγον τοῦ θεοῦ λαλεῖν. 並且那在主裡的弟兄多半因我受的捆鎖就篤信不疑，越發放膽傳神的道，無所懼怕。 
+ τοὺς πλείονας τῶν ἀδελφῶν ἐν κυρίῳ πεποιθότας τοῖς δεσμοῖς μου περισσοτέρως τολμᾶν ἀφόβως τὸν λόγον τοῦ θεοῦ λαλεῖν. 並且那在主裡的弟兄多半因我受的捆鎖就篤信不疑，越發放膽傳神的道，無所懼怕。 
 
 
 
