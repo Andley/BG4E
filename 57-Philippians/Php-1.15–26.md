@@ -1,5 +1,5 @@
 #### 圖析 (Php 1:15–17)
-- <rt>1:15a</rt> (<RUBY><ruby><ruby>τινὲς<rt>Some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>διὰ<rt>from</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φθόνον<rt>envy</rt></ruby><rt>φθόνος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔριν,<rt>strife,</rt></ruby><rt>ἔρις</rt></ruby><rt>N-ASF</rt></RUBY>)A2 
+- <rt>1:15a</rt> (<RUBY><ruby><ruby>τινὲς<rt>Some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>διὰ<rt>from</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φθόνον<rt>envy</rt></ruby><rt>φθόνος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔριν,<rt>strife,</rt></ruby><rt>ἔρις</rt></ruby><rt>N-ASF</rt></RUBY>)A2  <rt>...省略動詞 κηρύσσουσιν ...</rt>
 - <rt>1:15b</rt> (<RUBY><ruby><ruby>τινὲς<rt>some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>δι᾽<rt>from</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐδοκίαν<rt>goodwill</rt></ruby><rt>εὐδοκία</rt></ruby><rt>N-ASF</rt></RUBY>)A2 (<RUBY><ruby><ruby>τὸν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM-T</rt></RUBY>)C <RUBY><ruby><ruby>**κηρύσσουσιν.**<rt>are proclaiming —</rt></ruby><rt>κηρύσσω</rt></ruby><rt>V-PAI-3P</rt></RUBY> 
 - <rt>1:16a</rt> (<RUBY><ruby><ruby>οἱ<rt>the [ones]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>ἐξ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης<rt>love,</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-GSF</rt></RUBY>)A1 
 	- (<RUBY><ruby><ruby>*εἰδότες*<rt>already knowing</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAP-NPM</rt></RUBY> « <rt>1:16b</rt> »)A2 
@@ -9,6 +9,20 @@
 	- <rt>1:17c</rt> { <RUBY><ruby><ruby>*οἰόμενοι*<rt>supposing</rt></ruby><rt>οἴομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> < <rt>(</rt><RUBY><ruby><ruby>θλῖψιν<rt>tribulation</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-ASF</rt></RUBY><rt>)s</rt> <RUBY><ruby><ruby>*ἐγείρειν*<rt>to add</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>)a</rt> >c }A3
 
 #### 筆記 (Php 1:15–17)
+- 1:15ab 和 1:16–17 的結構類似，都用 μὲν ... δὲ 加上冠詞表達交替的人稱代名詞 (alternative personal pronoun; W 212–13 = 華 221–22)，不是要強調對比，而是要把「兩個想法加以分隔開，以致它們可以很容易的分別出來」(BAGD s.v. μέν 一C)。
+- 1:15a 
+	- 單獨冠詞本身就可以當代名詞用 (W 211–12 = 華 219–21)。
+	- 省略動詞、受詞，從 1:15b 反推，可知是 κηρύσσουσιν(傳揚)、τὸν Χριστὸν (基督)
+	- καὶ 沒有放在句首，所以是副詞用法，意思是 also (也)。
+	- διὰ＋直接受格表達「原因 cause」(W 368–69 = 華 386)。φθόνον καὶ ἔριν 是「嫉妒紛爭」——有人傳揚基督是「因為嫉妒紛爭」。
+- 1:15b
+	- δὲ 表示進展 (R 31–36)；καὶ 沒有放在句首，意思是 also (也)；διὰ＋直接受格表達「原因 cause」(W 368–69 = 華 386)——合起來就是「但也有人傳揚基督是因為好意」
+- 1:16a
+	- 省略動詞、受詞，從 1:17a 反推，可知是 καταγγέλλουσιν(傳揚)、τὸν Χριστὸν (基督)。
+
+
+Php 1:15 τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τινὲς δὲ καὶ δι᾽ εὐδοκίαν τὸν Χριστὸν κηρύσσουσιν. 有的傳基督是出於嫉妒紛爭，也有的是出於好意。 Php 1:16 οἱ μὲν ἐξ ἀγάπης εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι· 這一等是出於愛心，知道我是為辯明福音設立的； Php 1:17 οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν οὐχ ἁγνῶς οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου. 那一等傳基督是出於結黨，並不誠實，意思要加增我捆鎖的苦楚。 
+
 
 ---
 #### 圖析 (Php 1:18a–d)
