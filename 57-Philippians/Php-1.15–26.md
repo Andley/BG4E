@@ -36,8 +36,6 @@
 	- ἐγείρειν 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，在這裡有持續增加的意思。
 	- τοῖς δεσμοῖς μου 利益間接受格 (dative of interest; W 142–44 = 華 146–48)，在這裡指的是讓保羅受損 (disadvantage)。
 
-Php 1:15 τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τινὲς δὲ καὶ δι᾽ εὐδοκίαν τὸν Χριστὸν κηρύσσουσιν. 有的傳基督是出於嫉妒紛爭，也有的是出於好意。 Php 1:16 οἱ μὲν ἐξ ἀγάπης εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι· 這一等是出於愛心，知道我是為辯明福音設立的； Php 1:17 οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν οὐχ ἁγνῶς οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου. 那一等傳基督是出於結黨，並不誠實，意思要加增我捆鎖的苦楚。 
-
 
 ---
 #### 圖析 (Php 1:18a–d)
@@ -47,6 +45,19 @@ Php 1:15 τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τ
 - <rt>1:18d</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A <RUBY><ruby><ruby>**χαίρω**<rt>I rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
 
 #### 筆記 (Php 1:18a–d)
+- 1:18a
+	- γάρ 對等連接詞，補充說明上文 1:15–17 (有人傳基督是 .... 有人傳基督是 ....)
+	- τί 主格單數中性疑問代名詞，不能當副詞理解成 why 來用，因為這樣上下文不通；而是要當成名詞使用 (W 345–46 = 華 361)，屬於省略用法，意思是「於是情況如何？這有何妨？」(BAGD s.v. τίς)
+- 1:18b
+	- 保羅對上文 1:15–17 的現況加以總結，認為重點不在於當事人動機是否純正，重點在於：但、只要 (πλὴν ὅτι) 基督被傳揚開來就好了。
+- 1:18c
+	- παντὶ τρόπῳ 間接受格當狀語使用，修飾主要動詞，表達 καταγγέλλεται(被傳揚) 的「樣貌 manner」(W 161–62 = 華 165–66)。
+	- εἴτε προφάσει εἴτε ἀληθείᾳ 對等連接詞後面接間接受格 προφάσει，延續 παντὶ τρόπῳ  還是當狀語使用，表達 καταγγέλλεται(被傳揚) 的「樣貌 manner」：或是假意、或是真心。
+	- καταγγέλλεται 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)；被動語態，延續 1:15–17 的敘述，基督被不同動機的人給傳揚開來。
+- 1:18d
+	- ἐν τούτῳ 介系詞片語表達「原因 cause」：為了這個原因我就歡喜。τούτῳ 指的是 1:18c 基督被傳揚開來這件事。
+	- χαίρω 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，在此有持續歡喜的意思。
+
 
 ---
 #### 圖析 (Php 1:18e–20)
@@ -59,6 +70,15 @@ Php 1:15 τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τ
 			- <rt>1:20c</rt> <RUBY><ruby><ruby>ἀλλ᾽<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>παρρησίᾳ<rt>boldness,</rt></ruby><rt>παρρησία</rt></ruby><rt>N-DSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>ὡς<rt>as</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>now,</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A2 <RUBY><ruby><ruby>**μεγαλυνθήσεται**<rt>will be magnified</rt></ruby><rt>μεγαλύνω</rt></ruby><rt>V-FPI-3S</rt></RUBY> (<RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>σώματί<rt>body</rt></ruby><rt>σῶμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)A3 (<RUBY><ruby><ruby>εἴτε<rt>whether</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ζωῆς<rt>life</rt></ruby><rt>ζωή</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>εἴτε<rt>or</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θανάτου.¶<rt>death.</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)A4 
 
 #### 筆記 (Php 1:18e–20)
+- 1:18e
+	- NA28 在此分出新的段落。不過因為對等連接詞 ἀλλὰ 是表達「關聯 correlation」以及「修正 correction」(R 
+
+
+
+
+Php 1:18 τί γάρ; πλὴν ὅτι παντὶ τρόπῳ εἴτε προφάσει εἴτε ἀληθείᾳ Χριστὸς καταγγέλλεται, καὶ ἐν τούτῳ χαίρω ἀλλὰ καὶ χαρήσομαι. 這有何妨呢？或是假意，或是真心，無論怎樣，基督究竟被傳開了。為此，我就歡喜，並且還要歡喜； Php 1:19 οἶδα γὰρ ὅτι τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν διὰ τῆς ὑμῶν δεήσεως καὶ ἐπιχορηγίας τοῦ πνεύματος Ἰησοῦ Χριστοῦ 因為我知道，這事藉著你們的祈禱和耶穌基督之靈的幫助，終必叫我得救。 Php 1:20 κατὰ τὴν ἀποκαραδοκίαν καὶ ἐλπίδα μου ὅτι ἐν οὐδενὶ αἰσχυνθήσομαι ἀλλ᾽ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου, εἴτε διὰ ζωῆς εἴτε διὰ θανάτου.¶ 照著我所切慕、所盼望的，沒有一事叫我羞愧。只要凡事放膽，無論是生是死，總叫基督在我身上照常顯大。 
+
+
 
 ---
 #### 圖析 (Php 1:21–24)
