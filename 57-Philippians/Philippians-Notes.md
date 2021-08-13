@@ -17,12 +17,12 @@
 經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
 
 - Salutation
-	- [Phi 1.1–2](Php-1.1–2.md)
+	- [Php 1.1–2](Php-1.1–2.md)
 - Paul's Prayer for the Philippians
-	- [Phi 1.3–11](Php-1.3–11.md)
+	- [Php 1.3–11](Php-1.3–11.md)
 - To Me to Live is Christ
-	- [Phi 1.12–14](Php-1.12–14.md)
-	- [Phi 1.15–26](Phi1.15–26.md)
+	- [Php 1.12–14](Php-1.12–14.md)
+	- [Php 1.15–26](Php-1.15–26.md)
 	- [Phi 1.27–30](Phi1.27–30.md)
 - Christian Humility and Christ's Humility
 	- [Phi 2.1–11](Phi2.1–11.md)
