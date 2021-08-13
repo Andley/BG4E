@@ -7,7 +7,7 @@
 		- <rt>1:16c</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀπολογίαν<rt>defense</rt></ruby><rt>ἀπολογία</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY>)A <RUBY><ruby><ruby>**κεῖμαι·**<rt>I am appointed;</rt></ruby><rt>κεῖμαι</rt></ruby><rt>V-PNI-1S</rt></RUBY> 
 - <rt>1:17a</rt> (<RUBY><ruby><ruby>οἱ<rt>the [ones]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐξ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐριθείας<rt>selfish ambition</rt></ruby><rt>ἐριθεία</rt></ruby><rt>N-GSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>τὸν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM-T</rt></RUBY>)C <RUBY><ruby><ruby>**καταγγέλλουσιν**<rt>are proclaiming,</rt></ruby><rt>καταγγέλλω</rt></ruby><rt>V-PAI-3P</rt></RUBY> 
 	- <rt>1:17b</rt> (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἁγνῶς<rt>purely,</rt></ruby><rt>ἁγνῶς</rt></ruby><rt>ADV</rt></RUBY>)A2
-	- <rt>1:17c</rt> { <RUBY><ruby><ruby>*οἰόμενοι*<rt>supposing</rt></ruby><rt>οἴομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> < <rt>(</rt><RUBY><ruby><ruby>θλῖψιν<rt>tribulation</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-ASF</rt></RUBY><rt>)s</rt> <RUBY><ruby><ruby>*ἐγείρειν*<rt>to add</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>)a</rt> >c }A3
+	- <rt>1:17c</rt> { <RUBY><ruby><ruby>*οἰόμενοι*<rt>supposing</rt></ruby><rt>οἴομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> < <rt>(</rt><RUBY><ruby><ruby>θλῖψιν<rt>tribulation</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-ASF</rt></RUBY><rt>)c</rt> <RUBY><ruby><ruby>*ἐγείρειν*<rt>to add</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>)a</rt> >c }A3
 
 #### 筆記 (Php 1:15–17)
 - 1:15ab 和 1:16–17 的結構類似，都用 μὲν ... δὲ 加上冠詞表達交替的人稱代名詞 (alternative personal pronoun; W 212–13 = 華 221–22)，不是要強調對比，而是要把「兩個想法加以分隔開，以致它們可以很容易的分別出來」(BAGD s.v. μέν 一C)。
@@ -32,7 +32,9 @@
 - 1:17c
 	- 分詞內嵌子句當作狀語，修飾 1:7a 的主要動詞 καταγγέλλουσιν，表達「原因 cause」(W 631–32 = 華 666–67)，意思是「那些人傳揚基督是出於自私，因為他們以為這樣可以加增我捆鎖的苦楚」。
 	- οἰόμενοι (以為) 字典型 οἴομαι，代表在新約都只以關身型態出現。現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，意思是那些人持續有這樣錯誤的思想。
-	- 
+	- θλῖψιν 直接受格，可以是後面不定詞 ἐγείρειν 的主詞 (W 192–97 = 華 199–204)，也可以是受詞——不過因為大部分情況下不定詞的主詞跟主要動詞 (1:17a καταγγέλλουσιν) 的主詞 (1:17a οἱ) 相同 (W 192)，所以在這裡還是把 θλῖψιν 當作補語較為恰當。
+	- ἐγείρειν 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，在這裡有持續增加的意思。
+	- τοῖς δεσμοῖς μου 利益間接受格 (dative of interest; W 142–44 = 華 146–48)，在這裡指的是讓保羅受損 (disadvantage)。
 
 Php 1:15 τινὲς μὲν καὶ διὰ φθόνον καὶ ἔριν, τινὲς δὲ καὶ δι᾽ εὐδοκίαν τὸν Χριστὸν κηρύσσουσιν. 有的傳基督是出於嫉妒紛爭，也有的是出於好意。 Php 1:16 οἱ μὲν ἐξ ἀγάπης εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι· 這一等是出於愛心，知道我是為辯明福音設立的； Php 1:17 οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν οὐχ ἁγνῶς οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου. 那一等傳基督是出於結黨，並不誠實，意思要加增我捆鎖的苦楚。 
 
