@@ -61,7 +61,7 @@
 
 ---
 #### 圖析 (Php 1:18e–20)
-- <rt>1:18e</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>Yes,</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**χαρήσομαι.**<rt>I will rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2FOI-1S</rt></RUBY>
+- <rt>1:18e</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>Yes,</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby>**χαρήσομαι.**<rt>I will rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2FOI-1S</rt></RUBY>
 - <rt>1:19a</rt> <RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:19b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτό<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μοι<rt>for me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀποβήσεται**<rt>will turn out</rt></ruby><rt>ἀποβαίνω</rt></ruby><rt>V-FDI-3S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σωτηρίαν<rt>deliverance</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-ASF</rt></RUBY>)A2 
 		- <rt>1:19c</rt> (<RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>δεήσεως<rt>prayer</rt></ruby><rt>δέησις</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπιχορηγίας<rt>[the] provision</rt></ruby><rt>ἐπιχορηγία</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A3
@@ -71,7 +71,9 @@
 
 #### 筆記 (Php 1:18e–20)
 - 1:18e
-	- NA28 在此分出新的段落。不過因為對等連接詞 ἀλλὰ 是表達「關聯 correlation」以及「修正 correction」(R 
+	- NA28 在此分出新的段落。不過因為對等連接詞 ἀλλὰ 是表達「關聯 correlation」以及「修正 correction」(R 55–56)，與上文緊密相連，因此這裡應該不要分段比較恰當，正如 UBS5 的排版。
+	- καὶ 這裡是副詞用法，修飾主要動詞。
+	- χαρήσομαι 未來式時態形式，表達時間上單純的未來 (W 568 = 華 597–98)，意思是：保羅不但現在歡喜 (1:18d)，將來也要歡喜。
 
 
 
