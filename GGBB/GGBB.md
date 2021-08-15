@@ -192,15 +192,15 @@
 	- ➡(2) Validity of the Rule Within the New Testament (273-77)•這個規則在新約中的真確性 (285-90)
 	- ➡(3) TSKS Constructions Involving Impersonal, Plural, and Proper Nouns (277-90)•TSKS 結構帶有非人格化名詞、或複數名詞、或專有名詞 (291)
 		- (a) Proper Names (277-78)•專有名詞 (291)
-		- (b) Plural Personal Constructions (1) distinct, (2) identical, (3) overlap (278-86)•複數名詞 (1)不同; (2)相同; (3)有語意重疊 (291-300)
-		- (c) Impersonal Constructions (1) distinct, (2) identical, (3) overlap (286-90)•非人格化名詞 (1)不同; (2)相同; (3)有語意重疊 (300-04)
+		- ➡(b) Plural Personal Constructions (1) distinct, (2) identical, (3) overlap (278-86)•複數名詞 (1)不同; (2)相同; (3)有語意重疊 (291-300)
+		- ➡(c) Impersonal Constructions (1) distinct, (2) identical, (3) overlap (286-90)•非人格化名詞 (1)不同; (2)相同; (3)有語意重疊 (300-04)
 
 
 ## Adjectives•形容詞
 
 ### "Non-Adjectival" Uses of the Adjective•形容詞的非形容性用法
 - *The Adverbial Use of the Adjective (293)•具副詞功能的形容詞 (307)*
-- *The Independent or Substantival Use of the Adjective (294-95)•形容詞的獨立用法、作實名詞用 (308-09)*
+- ➡*The Independent or Substantival Use of the Adjective (294-95)•形容詞的獨立用法、作實名詞用 (308-09)*
 
 ### The Use of the Positive, Comparative, and Superlative Forms of the Adjective•形容詞的原級、比較級、最高級用法
 - (A) *The Use of the Positive Adjective (297-98)•A形容詞的原級用法 (310-12)*
