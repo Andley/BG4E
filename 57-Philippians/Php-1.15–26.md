@@ -105,21 +105,32 @@
 - <rt>1:21a</rt> (<RUBY><ruby><ruby>Ἐμοὶ<rt>To me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ζῆν*<rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> }S (<RUBY><ruby><ruby>Χριστὸς<rt>[is] Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)C 
 - <rt>1:21b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ἀποθανεῖν*<rt>to die</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-2AAN</rt></RUBY> }S (<RUBY><ruby><ruby>κέρδος.<rt>[is] gain.</rt></ruby><rt>κέρδος</rt></ruby><rt>N-NSN</rt></RUBY>)C 
 - ——————————————
-	- <rt>1:22a</rt> <RUBY><ruby><ruby>εἰ<rt>If [I am]</rt></ruby><rt>εἰ</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ζῆν*<rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σαρκί,<rt>flesh,</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>)a</rt> }S
-- <rt>1:22b</rt> (<RUBY><ruby><ruby>τοῦτό<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μοι<rt>for me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>καρπὸς<rt>[is the] fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἔργου·<rt>of labor.</rt></ruby><rt>ἔργον</rt></ruby><rt>N-GSN</rt></RUBY>)C 
-- <rt>1:22c</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τί<rt>what</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>)C <RUBY><ruby><ruby>**αἱρήσομαι**<rt>will I choose?</rt></ruby><rt>αἱρέω</rt></ruby><rt>V-FMI-1S</rt></RUBY> 
-- <rt>1:22d</rt> <RUBY><ruby><ruby>οὐ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**γνωρίζω.**<rt>I know!</rt></ruby><rt>γνωρίζω</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
+- <rt>1:22a</rt> «<RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>»
+	- <rt>1:22b</rt> <RUBY><ruby><ruby>εἰ<rt>If [I am]</rt></ruby><rt>εἰ</rt></ruby><rt>COND</rt></RUBY>  { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ζῆν*<rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σαρκί,<rt>flesh,</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>)a</rt> }S
+- <rt>1:22c</rt> (<RUBY><ruby><ruby>τοῦτό<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μοι<rt>for me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>καρπὸς<rt>[is the] fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἔργου·<rt>of labor.</rt></ruby><rt>ἔργον</rt></ruby><rt>N-GSN</rt></RUBY>)C 
+- <rt>1:22d</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τί<rt>what</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>)C <RUBY><ruby><ruby>**αἱρήσομαι**<rt>will I choose?</rt></ruby><rt>αἱρέω</rt></ruby><rt>V-FMI-1S</rt></RUBY> 
+- <rt>1:22e</rt> <RUBY><ruby><ruby>οὐ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**γνωρίζω.**<rt>I know!</rt></ruby><rt>γνωρίζω</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
 - ——————————————
 - <rt>1:23a</rt> <RUBY><ruby><ruby>**συνέχομαι**<rt>I am pressed</rt></ruby><rt>συνέχω</rt></ruby><rt>V-PPI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>between</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>δύο,<rt>two,</rt></ruby><rt>δύο</rt></ruby><rt>A-GPN-NUI</rt></RUBY>)A1
 	- <rt>1:23b</rt> { <rt>(</rt><RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπιθυμίαν<rt>desire</rt></ruby><rt>ἐπιθυμία</rt></ruby><rt>N-ASF</rt></RUBY><rt>)c</rt> <RUBY><ruby><ruby>*ἔχων*<rt>having</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <<RUBY><ruby><ruby>εἰς<rt>for [myself]</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <rt>( </rt><RUBY><ruby><ruby>*ἀναλῦσαι*<rt>to depart</rt></ruby><rt>ἀναλύω</rt></ruby><rt>V-AAN</rt></RUBY><rt> )</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>σὺν<rt>with</rt></ruby><rt>σύν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>*εἶναι,*<rt>to be,</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY><rt> )</rt> >}A2
 	- <rt>1:23c</rt> (<RUBY><ruby><ruby>πολλῷ<rt>very much</rt></ruby><rt>πολύς</rt></ruby><rt>A-DSN</rt></RUBY>)A1 <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY>)A2 (<RUBY><ruby><ruby>κρεῖσσον·<rt>better;</rt></ruby><rt>κρείσσων</rt></ruby><rt>A-NSN-C</rt></RUBY>)C 
 - <rt>1:24</rt> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>but</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>*ἐπιμένειν*<rt>to remain</rt></ruby><rt>ἐπιμένω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>flesh</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>)a</rt> }S (<RUBY><ruby><ruby>ἀναγκαιότερον<rt>[is] more necessary</rt></ruby><rt>ἀναγκαῖος</rt></ruby><rt>A-NSN-C</rt></RUBY>)C (<RUBY><ruby><ruby>δι᾽<rt>for the sake of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)A 
+
+
 #### 筆記 (Php 1:21–24)
-- 1:21a
-	- 對等連接詞 γὰρ 帶出無動詞子句 (省略 BE 動詞)，補充說明上文「或生或死都能讓基督被稱頌」的理由。
-	- Ἐμοὶ 表達利益的間接受格 (W 142–44 = 華 146–48)，擺在句首，表示強調。τὸ ζῆν 帶冠詞的不定詞是主語，沒有冠詞的名詞 Χριστὸς 是補語。
+- 1:21ab
+	- 對等連接詞 γὰρ 帶出兩個無動詞子句 (省略 BE 動詞)，補充說明上文「或生或死都能讓基督被稱頌」的理由。
+	- Ἐμοὶ 表達利益的間接受格 (W 142–44 = 華 146–48)，擺在句首，表示強調。τὸ ζῆν 帶冠詞的不定詞是主語，沒有冠詞的名詞 Χριστὸς 是補語。同樣道理，τὸ ἀποθανεῖν 帶冠詞的不定詞是主語，沒有冠詞的名詞 κέρδος 是補語。
+	- κέρδος 意思是「益處、收穫」。
+- 1:22abc
+	- 對等連接詞 δὲ 後置，表達從 1:21ab 的論點要轉折、推進到下一個論點
+	- 從屬連接詞 εἰ 帶出第一類條件句 (W 690–94 = 華 728–32)。
+	- 1:22b 條件子句裡面只有 τὸ ζῆν ἐν σαρκί 不定詞內嵌子句當作懸吊主格 (Pendent Nominative; W 51–53 = 華 50–51)；1:22c 的 τοῦτό 呼應懸吊主格。
+	- 1:22c 結果子句省略 BE 動詞。καρπὸς ἔργου 比較特別，如果當作形容所有格 (attributive genitive)，那麼意思會變成「工作的果子 laboring fruit」，意思好像是「活著出獄，是保羅工作所產生的果子」—這個解讀跟 1:21b 「死了就是益處」不太連貫。比較好的解讀是當作：被修飾的所有格 (attributed genitive; W 89–91 = 華  88–91)，意思是「fruitful labor 多結果實的工作」，表示「活著出獄，讓保羅可以繼續工作，多結果實」。
+- 1:22d
+	- 中性單數疑問代名詞 τί，在此不適合當作複詞用法 9u4
 
-
+因我活著就是基督，我死了就有益處。 但我在肉身活著，若成就我工夫的果子，我就不知道該挑選甚麼。 我正在兩難之間，情願離世與基督同在，因為這是好得無比的。 然而，我在肉身活著，為你們更是要緊的。 
 
 ---
 #### 圖析 (Php 1:25–26)
