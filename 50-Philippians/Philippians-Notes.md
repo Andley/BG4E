@@ -23,7 +23,7 @@
 - To Me to Live is Christ
 	- [Php 1.12–14](Php.1.12–14.md)
 	- [Php 1.15–26](Php.1.15–26.md)
-	- [Phi 1.27–30](Phi1.27–30.md)
+	- [Php 1.27–30](Php.1.27–30.md)
 - Christian Humility and Christ's Humility
 	- [Phi 2.1–11](Phi2.1–11.md)
 - Shinning as Light in the World
