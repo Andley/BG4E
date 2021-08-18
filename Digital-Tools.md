@@ -19,23 +19,23 @@
 	- 能夠作詞形搜尋 (morphological search)，以及簡單的句法搜尋 (syntax search)
 	- 需要申請帳號 (台灣 2020 年還是免費)
 - [OpenGNT](https://opengnt.com/)、[Marvel Bible](https://marvel.bible/)、[Bible Bento](https://BibleBento.com)、[Unique Bible](https://www.uniquebible.app/home)
-	- 都出自同一位軟體作者 [Eliran wong](https://github.com/eliranwong)，嘗試整合網路上所有公開分享的資源，打造一個跨平台 (Windows, Android, macOS, Linux, Chrome OS) 的軟體，壯志雄心，令人欽佩！
+	- 都出自同一位作者 [Eliran wong](https://github.com/eliranwong)，嘗試整合網路上所有公開分享的資源，打造一個跨平台 (Windows, Android, macOS, Linux, Chrome OS) 的軟體，壯志雄心，令人欽佩！
 	- [OpenHebrewBible](https://github.com/eliranwong/OpenHebrewBible)
 		- [ETCBC] (Hebrew text BHSA, linguitic annotations, morphology, etc.)
 		- OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)
 		- Berean.bible (interlinear translation, Berean Study Bible, etc.)
 	- [OpenGNT](https://github.com/eliranwong/OpenGNT)
 - [Academic Bible](https://www.academic-bible.com/en/home/)
-	- 德國聖經公會網站，有學術界標準的 NA28、UBS5、LXX (Ralphs-Hanhart 2006)，但是沒有紙本聖經上其他的相關資料 (如：文本校勘欄、分段校勘欄、經文互參欄、舊約引據)。
+	- 德國聖經公會網站，有學術界標準的 NA28、UBS5、LXX (Ralphs-Hanhart 2006)，但沒有紙本聖經上其他的相關資料 (文本校勘欄、分段校勘欄、經文互參欄、舊約引據)。
 	- 沒有辭典；不能下載。
 	- 義大利文 [La Parola (The Word) 網站](https://www.laparola.net/) 下面附屬的網頁，可以搜尋 Louw–Nida 辭典。
 - [Robinson-Pierpont 2005](https://byzantinetext.com)
 	- Byzantine Text (Robinson-Pierpont 2005 版)。除了聖經文本電子檔之外，還有 John Jeffrey Dodson 所編 Reader's Edition (輔讀本) [電子檔](https://byzantinetext.com/wp-content/uploads/2017/08/RP2016-Readers-Edition.pdf)。
 	- 沒有辭典；但可以下載。
 - [eRhema Bible App](https://bible.tjc.org)
+	- 真耶穌教會 
 - ---
 - [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php)
-	- 真耶穌教會 
 
 ### Android
 - [微讀聖經](https://app.wedevote.com/)
@@ -114,13 +114,12 @@ https://play.google.com/store/apps/details?id=com.smp.musicspeedclassic
 https://play.google.com/store/apps/details?id=com.smp.musicspeed
 
 ### 輸入法
-) 希臘文輸入法
----Tyndale 的鍵盤輸入程式https://academic.tyndalehouse.com/unicode-font-kit
+- Tyndale 的鍵盤輸入程式
+	- https://academic.tyndalehouse.com/unicode-font-kit
 
-### 輸入法
-5) 希臘文比較美觀的字型
---- SBL
-https://www.sbl-site.org/educational/biblicalfonts.aspx
+### 原文字型
+- SBL 的 BibLit
+	- https://www.sbl-site.org/educational/biblicalfonts.aspx
 
 
 
