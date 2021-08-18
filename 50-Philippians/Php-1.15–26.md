@@ -114,6 +114,7 @@
 - <rt>1:23a</rt> <RUBY><ruby><ruby>**συνέχομαι**<rt>I am pressed</rt></ruby><rt>συνέχω</rt></ruby><rt>V-PPI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>between</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>δύο,<rt>two,</rt></ruby><rt>δύο</rt></ruby><rt>A-GPN-NUI</rt></RUBY>)A1
 	- <rt>1:23b</rt> { <rt>(</rt><RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπιθυμίαν<rt>desire</rt></ruby><rt>ἐπιθυμία</rt></ruby><rt>N-ASF</rt></RUBY><rt>)c</rt> <RUBY><ruby><ruby>*ἔχων*<rt>having</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <<RUBY><ruby><ruby>εἰς<rt>for [myself]</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <rt>( </rt><RUBY><ruby><ruby>*ἀναλῦσαι*<rt>to depart</rt></ruby><rt>ἀναλύω</rt></ruby><rt>V-AAN</rt></RUBY><rt> )</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>σὺν<rt>with</rt></ruby><rt>σύν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>*εἶναι,*<rt>to be,</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY><rt> )</rt> >}A2
 	- <rt>1:23c</rt> (<RUBY><ruby><ruby>πολλῷ<rt>very much</rt></ruby><rt>πολύς</rt></ruby><rt>A-DSN</rt></RUBY>)A1 <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY>)A2 (<RUBY><ruby><ruby>κρεῖσσον·<rt>better;</rt></ruby><rt>κρείσσων</rt></ruby><rt>A-NSN-C</rt></RUBY>)C 
+- ——————————————
 - <rt>1:24</rt> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>but</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>*ἐπιμένειν*<rt>to remain</rt></ruby><rt>ἐπιμένω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>flesh</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>)a</rt> }S (<RUBY><ruby><ruby>ἀναγκαιότερον<rt>[is] more necessary</rt></ruby><rt>ἀναγκαῖος</rt></ruby><rt>A-NSN-C</rt></RUBY>)C (<RUBY><ruby><ruby>δι᾽<rt>for the sake of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)A 
 
 
@@ -130,14 +131,16 @@
 - 1:22d
 	- 中性單數疑問代名詞 τί，在此不適合當作副詞用法 (意思是：why「為什麼我要選擇？」)，也不適合當作形容詞用法，因為沒有所修飾的實名詞。比較可能的還是當作實名詞用法 (substantive)，用作主要動詞 αἱρήσομαι 的直接受詞，意思是：what「我要選擇什麼？」
 	- αἱρήσομαι 未來式時態形式、關身語態，屬於間接關身 (indirect middle; W 419–23 = 華 440–44)，表達保羅不知道該為自己如何挑選 (BAGD s.v. αἱρέω)。
-- 1:23a
+- 1:23abc
 	- 對等連接詞 δὲ 後置，再次推進論點。
 	- συνέχομαι 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)；被動語態表示「被抓住，被攻擊，被困苦，被折磨」(BAGD s.v. συνέχω)。
 	- ἐκ τῶν δύο 介系詞片語表達「原因 cause」，意思是「因為這二個選擇 (生 or 死)」而苦惱。
-- 1:23b
-	- 分詞內嵌子句當狀語用，修飾 1:23a 的主要動詞，表達 συνέχομαι (苦惱) 的
+	- 1:23b 分詞內嵌子句當狀語用，修飾 1:23a 的主要動詞，表達 συνέχομαι (苦惱) 的「原因 cause」(W 631–32 = 華 666–67)。
+	- 1:23c γὰρ 對等子句，沒有動詞 (或者說省略 BE 動詞)，補充說明 1:23b。
+- 1:24
+	- 對等連接詞 δὲ 後置，再次推進論點。
+	- 無動詞子句 (或者說省略 BE 動詞)。不定詞內嵌子句「繼續在肉身活著」當主語，形容詞 ἀναγκαιότερον (更重要) 當補語，介系詞片語 διά＋直接受格「因為你們、為了你們的緣故」是狀語。
 
-因我活著就是基督，我死了就有益處。 但我在肉身活著，若成就我工夫的果子，我就不知道該挑選甚麼。 我正在兩難之間，情願離世與基督同在，因為這是好得無比的。 然而，我在肉身活著，為你們更是要緊的。 
 
 ---
 #### 圖析 (Php 1:25–26)
@@ -148,6 +151,8 @@
 
 #### 筆記 (Php 1:25–26)
 
+- 1:25a
+	- 分詞內嵌子句當狀語使用，修飾主要動詞 οἶδα，表達「原因 cause」(W 631–32 = 華 666–67)，意思是「因為如此確信，所以我知道 ...」。
 
 
 ---
