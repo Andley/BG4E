@@ -147,7 +147,7 @@
 - <rt>1:25a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <rt>(</rt><RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)<rt>c</rt> <RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of,</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> }A <RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY> 
 	- <rt>1:25b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY> 
-		- <rt>1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**παραμενῶ**<rt>will continue</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY> (<RUBY><ruby><ruby>πᾶσιν<rt>with all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A1 (<RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>προκοπὴν<rt>progress</rt></ruby><rt>προκοπή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>χαρὰν<rt>joy</rt></ruby><rt>χαρά</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως,<rt>faith,</rt></ruby><rt>πίστις</rt></ruby><rt>N-GSF</rt></RUBY>)A2 
+		- <rt>1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**παραμενῶ**<rt>will continue</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY> (<RUBY><ruby><ruby>πᾶσιν<rt>with all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>προκοπὴν<rt>progress</rt></ruby><rt>προκοπή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>χαρὰν<rt>joy</rt></ruby><rt>χαρά</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως,<rt>faith,</rt></ruby><rt>πίστις</rt></ruby><rt>N-GSF</rt></RUBY>)A
 		- <rt>1:26a</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 			- (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>καύχημα<rt>boasting</rt></ruby><rt>καύχημα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S <RUBY><ruby><ruby>**περισσεύῃ**<rt>may abound</rt></ruby><rt>περισσεύω</rt></ruby><rt>V-PAS-3S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>to</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 (<RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐμῆς<rt>my</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SGSF</rt></RUBY> <RUBY><ruby><ruby>παρουσίας<rt>coming</rt></ruby><rt>παρουσία</rt></ruby><rt>N-GSF</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>πάλιν<rt>again</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)</rt> )A3
 
@@ -158,10 +158,17 @@
 	- οἶδα 現在完成式時態形式，表達整體 (perfective)、狀態 (stative) 的觀點 (W 501)。
 - 1:25bc
 	- ὅτι 從屬子句，表達兩項知道的內容 (1:25bc)，當作主要動詞 οἶδα 的受詞 (W 454–58= 華 478–61)。
-	- 1:25b 保羅知道自己將要 μενῶ，意思是「存在、活著」(BAGD s.v. μένω)。
-	- 1:25c 保羅知道自己將要 παραμενῶ (繼續) 與腓立比教會同在。間接受格片語 πᾶσιν ὑμῖν 
+	- 1:25b 
+		- 保羅知道自己將要 μενῶ，意思是「存在、活著」(BAGD s.v. μένω)。
+	- 1:25c 
+		- 保羅知道自己將要 παραμενῶ 「繼續活著、繼續服事」(BAGD s.v. παραμένω)，後面接人稱間接受格片語 πᾶσιν ὑμῖν (你們全體)，當直接受詞用 (W 171–73 = 華 176–79)
+		- εἰς ... πίστεως 介系詞片語當狀語用，修飾動詞 παραμενῶ，表達保羅「繼續活著、繼續服事」之目的和結果 (W 369–71 = 華 386–88)。
+		- τὴν προκοπὴν καὶ χαρὰν 是兩個非人格化名詞共用相同冠詞的 TSKS 結構 (W 286–90 = 華 300–04)，表達不同 (長進 & 喜樂)、但卻緊密相關的概念。
+		- τῆς πίστεως 可以是關聯所有格 (genitive of association; W 128–30 = 華 131–33)，意思是「在關乎信仰的方面長進喜樂」；也可以是受詞所有格 (objective genitive; W 116–19 = 華 118–21)，意思是「你們的信仰長進，你們也喜歡信仰」。
 	- 
 
+
+Php 1:25 καὶ τοῦτο πεποιθὼς οἶδα ὅτι μενῶ καὶ παραμενῶ πᾶσιν ὑμῖν εἰς τὴν ὑμῶν προκοπὴν καὶ χαρὰν τῆς πίστεως, 我既然這樣深信，就知道仍要住在世間，且與你們眾人同住，使你們在所信的道上又長進又喜樂， Php 1:26 ἵνα τὸ καύχημα ὑμῶν περισσεύῃ ἐν Χριστῷ Ἰησοῦ ἐν ἐμοὶ διὰ τῆς ἐμῆς παρουσίας πάλιν πρὸς ὑμᾶς. 叫你們在基督耶穌裡的歡樂，因我再到你們那裡去，就越發加增。 
 
 ---
 [腓立比書希臘文筆記  ↵](Phplippians-Notes.md)
