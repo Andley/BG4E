@@ -25,7 +25,7 @@
 	- [Php 1.15–26](Php.1.15–26.md)
 	- [Php 1.27–30](Php.1.27–30.md)
 - Christian Humility and Christ's Humility
-	- [Phi 2.1–11](Phi2.1–11.md)
+	- [Php 2.1–11](Php.2.1–11.md)
 - Shinning as Light in the World
 	- [Phi 2.12–18](Phi2.12–18.md)
 - Timothy and Epaphroditus

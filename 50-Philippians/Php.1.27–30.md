@@ -10,11 +10,12 @@
 			- ——————————————
 			- <rt>1:28d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><font color='red'>τοῦτο°¹</font><rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θεοῦ·<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A 
 				- <rt>1:29a</rt> <RUBY><ruby><ruby>ὅτι<rt>For</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A <RUBY><ruby><ruby>**ἐχαρίσθη**<rt>it has been granted</rt></ruby><rt>χαρίζω</rt></ruby><rt>V-API-3S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ,<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)<mark>S°²</mark> 
-				- <rt>1:29b</rt> =<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>only</rt></ruby><rt>μόνον</rt></ruby><rt>ADV</rt></RUBY> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>*πιστεύειν,*<rt>to believe,</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
-					- <rt>1:29c</rt> = <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>*πάσχειν°³*</mark><rt>to suffer,</rt></ruby><rt>πάσχω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
-						- <rt>1:30a</rt> { <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγῶνα°⁴</mark><rt>conflict</rt></ruby><rt>ἀγών</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>*ἔχοντες*<rt>having,</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NPM</rt></RUBY> }°³ 
-							- <rt>1:30b</rt> <RUBY><ruby><ruby>οἷον°⁴<rt>such as</rt></ruby><rt>οἷος</rt></ruby><rt>K-ASM</rt></RUBY> <RUBY><ruby><ruby>**εἴδετε**<rt>you saw</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A
-							- <rt>1:30c</rt>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀκούετε**<rt>hear of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 
+				- <rt>1:29b</rt> <RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>only</rt></ruby><rt>μόνον</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> {<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>*πιστεύειν,*<rt>to believe,</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
+				- <rt>1:29c</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> {<RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>*πάσχειν°³*</mark><rt>to suffer,</rt></ruby><rt>πάσχω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
+					- <rt>1:30a</rt> { <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγῶνα°⁴</mark><rt>conflict</rt></ruby><rt>ἀγών</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>*ἔχοντες*<rt>having,</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NPM</rt></RUBY> }°³ 
+					- ——————————————
+						- <rt>1:30b</rt> (<RUBY><ruby><ruby>οἷον°⁴<rt>such as</rt></ruby><rt>οἷος</rt></ruby><rt>K-ASM</rt></RUBY>)C <RUBY><ruby><ruby>**εἴδετε**<rt>you saw</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A
+						- <rt>1:30c</rt>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀκούετε**<rt>hear of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 
 
 
 
@@ -66,13 +67,17 @@
 		- (a) Wallace (W 236) 認為 τὸ 是下指 (cataphoric)，指向 1:29bc 的兩個不定詞內嵌子句，這時候 ὑπὲρ 是「on behalf of 代表、為了 ... 的利益」(BDAG s.v. ὑπέρ A.1) 的意思「代表基督的事、為了基督的事被賞賜給你們」。但硬要把 1:29b 「相信基督」也理解成「代表基督、為了基督的事」有點牽強。相信基督是神給人的恩典，不是為了基督的利益，更不能看為代表基督的事。
 		- (b) 把 ὑπὲρ 理解成「 for the sake of 因為 ... 的緣故」(BDAG s.v. ὑπέρ A.2)，「因為基督的事」被賞賜給你們。而 τὸ 同樣下指，「因為基督的事」包括：1:29b 相信基督、1:29c 為基督受苦。
 		- (c) 把 ὑπὲρ 理解成「concerning 關乎」(BDAG s.v. ὑπέρ A.3)，「關乎基督的事」被賞賜給你們。這時候 τὸ 所涵蓋的就不僅只是 1:29bc 相信基督、為基督受苦，甚至也包括了上文 1:27d 的 εὐαγγέλιον (福音)。相較之下，(b) 和 (c) 的解釋要比較好。
-- 1:29b
-	- 不定詞內嵌子句當實名詞用，補充說明 (Epexegetical
-
-
-
-Php 1:29 ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν, ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν 因為你們蒙恩，不但得以信服基督，並要為他受苦。 Php 1:30 τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.¶ 你們的爭戰，就與你們在我身上從前所看見、現在所聽見的一樣。 
-
+- 1:29bc
+	- οὐ μόνον ... ἀλλὰ καὶ 是 not only ... but also 的慣用語 (BAGD s.v. ἀλλά)，用冠詞把兩個不定詞內嵌子句都變成實名詞 (W 234–35)，拿來補充說明 (Epexegetical; W 606) 或者同位 (Apposition; W 606–07) 於 1:29a 的主語 (τὸ ὑπὲρ Χριστοῦ)。
+	- 兩個不定詞內嵌子句結構相同，都是：介系詞片語當副詞用，修飾後面的不定詞。不定詞的主詞沒有另外標示出來，但從上下文可以知道是「你們」。
+	- 兩個不定詞都是現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，在此有持續相信、持續受苦的含意。
+- 1:30a
+	- ἔχοντες 主格、複數分詞內嵌子句當作狀語，修飾 1:30a 的 πάσχειν (受苦)——雖然句法上分詞應該要用直接受格，才能修飾不定詞的隱含主詞 (你們)，但在此屬於按照文意、不按照句法的結構 (*construction ad sensum*;W 652)。
+	- τὸν αὐτὸν ἀγῶνα 是強調代名詞當作等同用法形容詞 (W 349–50)，擺在 T—A—N 第一修飾位置 (first attributive position; W 306) 的結構，意思是：同樣的爭戰。
+- 1:30bc
+	- οἷον 單數、陽性相關代名詞 (BDAG 認為是：關係代名詞) 帶出來的關係子句，先行詞是 1:30a 單數、陽性的 ἀγῶνα (爭戰)。
+	- εἴδετε 不定過去式時態形式，表達整體 (perfective)、外部 (external) 的觀點；ἀκούετε 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)。兩相比較，有「你們過去看見 .... 並且你們現在聽見 ...」的含意。
+	- ἐν ἐμοί 介系詞片語表達「範疇 sphere」，意思是「在我身上」。用 ἐμοί 而不用 μοί，有強調的意味 (BAGD s.v. ἐγώ)。
 
 
 
