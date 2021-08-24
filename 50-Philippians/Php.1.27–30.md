@@ -7,13 +7,14 @@
 		-  <rt>1:28a</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>*πτυρόμενοι*<rt>being frightened</rt></ruby><rt>πτύρομαι</rt></ruby><rt>V-PPP-NPM</rt></RUBY> <rt>(</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>μηδενὶ<rt>nothing</rt></ruby><rt>μηδείς</rt></ruby><rt>A-DSN</rt></RUBY><rt>)a</rt> <rt>(</rt><RUBY><ruby><ruby>ὑπὸ<rt>by</rt></ruby><rt>ὑπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>*ἀντικειμένων·*<rt>opposing [you],</rt></ruby><rt>ἀντίκειμαι</rt></ruby><rt>V-PNP-GPM</rt></RUBY><rt>)a</rt> }A3
 			- <rt>1:28b</rt> <RUBY><ruby><ruby><font color='red'>ἥτις°¹</font><rt>which</rt></ruby><rt>ὅστις</rt></ruby><rt>R-NSF</rt></RUBY> <RUBY><ruby><ruby>**ἐστὶν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>αὐτοῖς<rt>to them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)A <RUBY><ruby><ruby>μέν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>ἔνδειξις<rt>a demonstration</rt></ruby><rt>ἔνδειξις</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀπωλείας,<rt>of destruction;</rt></ruby><rt>ἀπώλεια</rt></ruby><rt>N-GSF</rt></RUBY>)C 
 			- <rt>1:28c</rt> (<RUBY><ruby><ruby>ὑμῶν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)C<sub>-</sub> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <sub>-</sub>C(<RUBY><ruby><ruby>σωτηρίας,<rt>of salvation,</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-GSF</rt></RUBY>)
+			- ——————————————
 			- <rt>1:28d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θεοῦ·<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A 
 				- <rt>1:29a</rt> <RUBY><ruby><ruby>ὅτι<rt>For</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A <RUBY><ruby><ruby>**ἐχαρίσθη**<rt>it has been granted</rt></ruby><rt>χαρίζω</rt></ruby><rt>V-API-3S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ,<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)<mark>S°²</mark> 
 				- <rt>1:29b</rt> =<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>only</rt></ruby><rt>μόνον</rt></ruby><rt>ADV</rt></RUBY> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>*πιστεύειν,*<rt>to believe,</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
-				- <rt>1:29c</rt> = <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>*πάσχειν°³*</mark><rt>to suffer,</rt></ruby><rt>πάσχω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
-					- <rt>1:30a</rt> { <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγῶνα°⁴</mark><rt>conflict</rt></ruby><rt>ἀγών</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>*ἔχοντες*<rt>having,</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NPM</rt></RUBY> }°³ 
-						- <rt>1:30b</rt> <RUBY><ruby><ruby>οἷον°⁴<rt>such as</rt></ruby><rt>οἷος</rt></ruby><rt>K-ASM</rt></RUBY> <RUBY><ruby><ruby>**εἴδετε**<rt>you saw</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A
-						- <rt>1:30c</rt>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀκούετε**<rt>hear of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 
+					- <rt>1:29c</rt> = <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>concerning</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>*πάσχειν°³*</mark><rt>to suffer,</rt></ruby><rt>πάσχω</rt></ruby><rt>V-PAN</rt></RUBY> }°²
+						- <rt>1:30a</rt> { <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγῶνα°⁴</mark><rt>conflict</rt></ruby><rt>ἀγών</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>*ἔχοντες*<rt>having,</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NPM</rt></RUBY> }°³ 
+							- <rt>1:30b</rt> <RUBY><ruby><ruby>οἷον°⁴<rt>such as</rt></ruby><rt>οἷος</rt></ruby><rt>K-ASM</rt></RUBY> <RUBY><ruby><ruby>**εἴδετε**<rt>you saw</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A
+							- <rt>1:30c</rt>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀκούετε**<rt>hear of</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 
 
 
 
@@ -48,14 +49,23 @@
 	- ὑπὸ 介系詞片語表達「終極施作者 ultimate agent」(W 431–33)
 	- τῶν ἀντικειμένων 冠詞＋分詞當作實名詞使用 (W 619–21)，意思是「敵對的人」。
 - 1:28b
-	- ἥτις 單數、陰性關係代名詞帶出來的從屬子句，補充說明上文——但棘手的是，上文符合單數、陰性的先行詞就只有 1:27d 的 μιᾷ ψυχῇ (同心) 以及 τῇ πίστει (信仰)，二者就語意脈絡來說都不太通順。勉強要選的話，可能 τῇ πίστει (信仰) 會好一些，意思是：福音信仰，對他們來說，是毀滅的證明。
-		- 另外一種
-	- 
-	- 
-	- 
+	- ἥτις 單數、陰性關係代名詞帶出來的從屬子句，補充說明上文——但棘手的是，上文符合單數、陰性的先行詞就只有 1:27d 的 μιᾷ ψυχῇ (同心) 以及 τῇ πίστει (信仰)，二者就語意脈絡來說都不太通順。
+		- 勉強要選的話，可能 τῇ πίστει (信仰) 會好一些，意思是：福音信仰，對他們來說，是毀滅的證明。
+		- 另外一種可能，就是關係代名詞 ἥτις 被 1:28b 的述語主格 (ἔνδειξις 證明) 所吸引變成了陰性  (W 338)。就句法來說，ἥτις 沒有先行詞，而是指向了上文的概念 (有人敵對你們)。合起來意思是：有人敵對你們這件事，對他們來說，是毀滅的證明。這樣的理解似乎比較恰當。
+	- αὐτοῖς 利益間接受格 (W 142–44)。
+	- μέν 加強語氣。
+- 1:28c
+	- δὲ 表達進展，一方面延續 1:28b，省略了主語 (ἥτις)、述語 (ἐστὶν)、補語 (ἔνδειξις)；一方面又推進了論點：但，有人敵對你們這件事，卻是你們救恩的證明。
+- 1:28d
+	- 無動詞子句，省略 BE 動詞。
+	-τοῦτο 中性單數指示代名詞，就句法來說沒有先行詞，而是指向 1:28a 上文的概念(有人敵對你們)。意思是：有人敵對你們這件事，是出於神。
+- 1:29a
+	- ὅτι 從屬子句，說明 1:28d 的原因：有人敵對你們，是因為你們蒙恩！
 	- 
 
-μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων· ἥτις ἐστὶν αὐτοῖς μέν ἔνδειξις ἀπωλείας, ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ θεοῦ· 凡事不怕敵人的驚嚇，這是證明他們沉淪，你們得救都是出於神。 Php 1:29 ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν, ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν 因為你們蒙恩，不但得以信服基督，並要為他受苦。 Php 1:30 τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.¶ 你們的爭戰，就與你們在我身上從前所看見、現在所聽見的一樣。 
+
+
+Php 1:29 ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν, ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν 因為你們蒙恩，不但得以信服基督，並要為他受苦。 Php 1:30 τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.¶ 你們的爭戰，就與你們在我身上從前所看見、現在所聽見的一樣。 
 
 
 
