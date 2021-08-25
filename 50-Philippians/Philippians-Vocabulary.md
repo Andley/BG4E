@@ -42,7 +42,7 @@
 	- σάρξ, σαρκός, ἡ, flesh (5x)
 
 
-- 動詞
+- 動詞——喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
 	- εἰμί, I am (17x)
 	- φρονέω, to think (10x
 	- χαίρω, to rejoice (9x)
@@ -55,7 +55,7 @@
 	- πέμπω, to send (5x)
 
 
-- σύν 複合字 (20x)
+- **σύν** 複合字 (20x)——同心、一起 (togetherness) 的概念相對突出
 	- συγκοινωνέω, to have fellowship with, participate, share (1x)
 	- συγκοινωνός, -οῦ, ὁ, partaker, participant, partner (1x)
 	- συγχαίρω, to rejoice with (2x)
@@ -72,7 +72,7 @@
 	- συστρατιώτης, -ου, ὁ, a fellow-soldier (1x)
 
 
-- Hapax legomenon (罕見字、生僻字、孤寡字) — 扣除 Εὐοδία、Κλήμης、Συντύχη
+- Hapax legomenon (罕見字、生僻字、孤寡字)——扣除人名 (Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon) 總共 36 個。
 	- ἁγνῶς	(ἅγος)	sincerely, purely
 	- αἴσθησις	(αἰσθάνομαι)	(f) judgment, perception, knowledge
 	- ἀκαιρέομαι	(α, καιρός)	to lack opportunity
@@ -104,10 +104,11 @@
 	- πτύρω	to frighten
 	- σκοπός	(m) lookout, sentry; target, goal
 	- σκύβαλον	garbage
-	- σύζυγος	(σύν, ζυγός)	fellow-worker
-	- συμμιμητής	(σύν, μιμέομαι)	joint-imitator
-	- συμμορφίζω	(σύν, μορφή)	to share the same form
-	- σύμψυχος	(σύν, ψύχω)	united, as one
+	- 四個可能是保羅自創的複合字
+		- σύζυγος	(**σύν**, ζυγός)	fellow-worker
+		- συμμιμητής	(**σύν**, μιμέομαι)	joint-imitator
+		- συμμορφίζω	(**σύν**, μορφή)	to share the same form
+		- σύμψυχος	(**σύν**, ψύχω)	united, as one
 	- ὑπερυψόω	(ὑπέρ, ὕψος)	to highly exalt
 
 
