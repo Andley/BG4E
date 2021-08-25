@@ -72,7 +72,45 @@
 	- συστρατιώτης, -ου, ὁ, a fellow-soldier (1x)
 
 
+- Hapax legomenon (罕見字、生僻字、孤寡字) — 扣除 Εὐοδία、Κλήμης、Συντύχη
+	- ἁγνῶς	(ἅγος)	sincerely, purely
+	- αἴσθησις	(αἰσθάνομαι)	(f) judgment, perception, knowledge
+	- ἀκαιρέομαι	(α, καιρός)	to lack opportunity
+	- ἄλυπος	(α, λύπη)	painless, free from pain; harmless
+	- ἀναθάλλω	(ἀνά, θηλάζω)	to flourish, sprout anew
+	- ἀπουσία	(ἀπό, εἰμί_1)	absence
+	- ἁρπαγμός	(ἁρπάζω)	something to be grasped
+	- αὐτάρκης	(αὐτός, ἀρκέω)	content, sufficient; independent
+	- γνησίως	(γίνομαι)	genuinely
+	- ἐξανάστασις	(ἐκ, ἵστημι)	getting or springing up, resurrection
+	- ἐπεκτείνομαι	(ἐπί, ἐκ, τείνω)	to stretch toward
+	- ἐπιπόθητος	(ἐπί, πόθος)	longed for
+	- ἑτέρως	(ἕτερος)	otherwise
+	- εὔφημος	(εὖ, φημί)	worthy of praise
+	- εὐψυχέω	(εὖ, ψύχω)	to be encouraged
+	- ἰσόψυχος	(ἴσος, ψύχω)	like-minded, equal, peer
+	- κατατομή	(κατά, τομός)	mutilation
+	- καταχθόνιος	under the earth
+	- κενοδοξία	(κενός, δοκέω)	conceit
+	- λῆμψις	(λαμβάνω)	receiving
+	- μεγάλως	(μέγας)	greatly
+	- μυέω	(μύω)	to initiate; learn the secret of
+	- ὀκταήμερος	(ὀκτώ, ἡμέρα)	on the eighth day
+	- παραβολεύομαι	(παρά, βάλλω)	to risk
+	- παραμύθιον	(παρά, μῦθος)	comfort
+	- παραπλήσιος	(παρά, πλησίον)	coming near, nearly, resembling
+	- πολίτευμα	(πόλις)	place of citizenship; group of citizens
+	- προσφιλής	(πρός, φίλος)	dear, beloved
+	- πτύρω	to frighten
+	- σκοπός	(m) lookout, sentry; target, goal
+	- σκύβαλον	garbage
+	- σύζυγος	(σύν, ζυγός)	fellow-worker
+	- συμμιμητής	(σύν, μιμέομαι)	joint-imitator
+	- συμμορφίζω	(σύν, μορφή)	to share the same form
+	- σύμψυχος	(σύν, ψύχω)	united, as one
+	- ὑπερυψόω	(ὑπέρ, ὕψος)	to highly exalt
+
 
 
 ---
-(腓立比書希臘文筆記  ↵x)(Philippians-Notes.md)
+[腓立比書希臘文筆記  ↵](Philippians-Notes.md)
