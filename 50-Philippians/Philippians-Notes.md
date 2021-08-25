@@ -3,7 +3,9 @@
 ## 腓立比書希臘文筆記
 
 #### 經文閱讀
-Interlinear 經文出自 STEPBible.org[^1] 的 TAGNT (Translators Amalgamated Greek NT)[^2]。
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
+
+
 - [腓立比書 Interlinear (Markdown 格式)](Philippians-Interlinear.md)
 - [腓立比書 Interlinear (PDF 格式)](Philippians-Interlinear.pdf)
 - [腓立比書 Interlinear (DOCX 格式)](Philippians-Interlinear.docx)
@@ -14,7 +16,7 @@ Interlinear 經文出自 STEPBible.org[^1] 的 TAGNT (Translators Amalgamated Gr
 - [腓立比書—詞彙分析](Philippians-Vocabulary.md)  
 
 #### 句法筆記
-經文分段和標題是根據 UBS5[^3]。
+經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)
 
 - Salutation
 	- [Php 1.1–2](Php.1.1–2.md)
@@ -69,4 +71,4 @@ R|Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical In
 
 [^1]: https://www.STEPBible.org
 [^2]: https://github.com/STEPBible/STEPBible-Data
-[^3]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/
+[^3]: 

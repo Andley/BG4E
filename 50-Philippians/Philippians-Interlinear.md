@@ -1,10 +1,7 @@
 # ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
 
 ## 腓立比書 Interlinear
-Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)[^2]。
-
-[^1]: g
-[^2]: https://github.com/STEPBible/STEPBible-Data
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 ### Salutation
 #### 腓 1:1–2
