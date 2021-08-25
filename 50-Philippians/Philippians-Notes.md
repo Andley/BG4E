@@ -3,7 +3,7 @@
 ## 腓立比書希臘文筆記
 
 #### 經文閱讀
-Interlinear 經文出自 STEPBible.org[^1] 的 TAGNT (Translators Amalgamated Greek NT)[^2]
+Interlinear 經文出自 STEPBible.org[^1] 的 TAGNT (Translators Amalgamated Greek NT)[^2]。
 - [腓立比書 Interlinear (Markdown 格式)](Philippians-Interlinear.md)
 - [腓立比書 Interlinear (PDF 格式)](Philippians-Interlinear.pdf)
 - [腓立比書 Interlinear (DOCX 格式)](Philippians-Interlinear.docx)
@@ -67,6 +67,6 @@ R|Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical In
 -  A. T. Robertson。《活泉新約希臘文解經—卷七：加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10冊。加州：美國活泉，1991。
 
 
-[^1]: https://github.com/STEPBible/STEPBible-Data
-[^2]: https://www.STEPBible.org
+[^1]: https://www.STEPBible.org
+[^2]: https://github.com/STEPBible/STEPBible-Data
 [^3]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/

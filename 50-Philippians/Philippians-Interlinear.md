@@ -1,8 +1,10 @@
 # ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
 
 ## 腓立比書 Interlinear
-經文分段和標題乃是根據 UBS5；Interlinear 經文的大小寫和分段記號 (¶)則是根據 [OpenGNT](https://github.com/eliranwong/OpenGNT) 文本，與 [NA28](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/2cf59b01abafed17cfa5d822fc80aa97/) 幾乎一致。
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)[^2]。
 
+[^1]: g
+[^2]: https://github.com/STEPBible/STEPBible-Data
 
 ### Salutation
 #### 腓 1:1–2
