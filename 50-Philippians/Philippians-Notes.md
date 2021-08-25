@@ -3,18 +3,18 @@
 ## 腓立比書希臘文筆記
 
 #### 經文閱讀
+Interlinear 經文出自 STEPBible.org[^1] 的 TAGNT (Translators Amalgamated Greek NT)[^2]
 - [腓立比書 Interlinear (Markdown 格式)](Philippians-Interlinear.md)
 - [腓立比書 Interlinear (PDF 格式)](Philippians-Interlinear.pdf)
 - [腓立比書 Interlinear (DOCX 格式)](Philippians-Interlinear.docx)
 
 
 #### 原文特色
-- [腓立比書—寫作風格](Philippians-Style.md)  
 - [腓立比書—子句結構](Philippians-Clause.md)  
 - [腓立比書—詞彙分析](Philippians-Vocabulary.md)  
 
 #### 句法筆記
-經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
+經文分段和標題是根據 UBS5[^3]。
 
 - Salutation
 	- [Php 1.1–2](Php.1.1–2.md)
@@ -67,6 +67,6 @@ R|Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical In
 -  A. T. Robertson。《活泉新約希臘文解經—卷七：加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10冊。加州：美國活泉，1991。
 
 
-[^1]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/
-[^2]: https://github.com/eliranwong/OpenGNT
-[^3]: https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/2cf59b01abafed17cfa5d822fc80aa97/
+[^1]: https://github.com/STEPBible/STEPBible-Data
+[^2]: https://www.STEPBible.org
+[^3]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/
