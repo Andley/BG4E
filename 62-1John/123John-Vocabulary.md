@@ -1,32 +1,24 @@
-## 約翰書信 (123John) 詞彙分析
+# 約翰書信 (123John) 詞彙分析
 
-#### 詞彙頻率 (≧ 5x)
--  連接詞
-	-  對等連接詞
-		- καί, and, even, also (159x)
-		- ἀλλά, but, except (20x)
-		- δέ, but, and (12x)
-		- γάρ, for (6x)
-	- 從屬連接詞
-		- ὅτι, that, because, since (79x)
-		- ἵνα, in order that, that (26x)
-		- ἐάν, if (24x)
-		- καθώς, as, just as, even as (13x)
-		- εἰ, if (8x)
+### 詞彙頻率 (≧ 5x)
+#### 功能詞 (Function Words)
 
-
-
-- 介系詞
-	- ἐν, in (dat) (90x)
-	- ἐκ, ἐξ, out of, from (gen) (37x)
-	- ἀπό, from (gen) (22x)
-	- εἰς, into (acc) (13x)
-	- πρός, to, towards, with (acc) (12x)
-	- περί, concerning, about (gen); around (acc) (11x)
-	- μετά, with (gen); after (acc) (9x)
-	- διά, through (gen); on account of (acc) (9x)
+| 連接詞                               | 介系詞                                               |
+|-----------------------------------|---------------------------------------------------|
+| 對等連接詞                             | ἐν, in (dat) (90x)                                |
+| καί, and, even, also (159x)       | ἐκ, ἐξ, out of, from (gen) (37x)                  |
+| ἀλλά, but, except (20x)           | ἀπό, from (gen) (22x)                             |
+| δέ, but, and (12x)                | εἰς, into (acc) (13x)                             |
+| γάρ, for (6x)                     | πρός, to, towards, with (acc) (12x)               |
+| 從屬連接詞                             | περί, concerning, about (gen); around (acc) (11x) |
+| ὅτι, that, because, since (79x)   | μετά, with (gen); after (acc) (9x)                |
+| ἵνα, in order that, that (26x)    | διά, through (gen); on account of (acc) (9x)      |
+| ἐάν, if (24x)                     | ἁμαρτία, -ας, ἡ, a sin, sin (17x)                 |
+| καθώς, as, just as, even as (13x) | Ἰησοῦς, Jesus, Joshua (14x)                       |
+| εἰ, if (8x)                       | ζωή, -ῆς, ἡ, life (13x)                           |
 
 
+#### 內容詞 (Content Words)
 
 | 動詞                                                   | 名詞                                                   |
 |------------------------------------------------------|------------------------------------------------------|
@@ -59,9 +51,9 @@
 | αἰτέω, to ask (5x)                                   |                                                      |
 | μισέω, to hate (5x)                                  | |
 
-#### Hapax legomenon (罕見字、生僻字、孤寡字)
+### Hapax legomenon (罕見字、生僻字、孤寡字)
 
-- 除了名字 (丟特腓 Διοτρέφης)，在新約當中只出現過一次的字 (Hapax legomenon總共 4 個。
+- 除了名字 (丟特腓 Διοτρέφης) 之外，在新約當中只出現過一次的字 (Hapax legomenon) 總共 4 個。
 	- νίκη	victory
 	- φιλοπρωτεύω	(φίλος, πρό)	desire to be first
 	- φλυαρέω	(φλύαρος)	to slander; talk nonsense

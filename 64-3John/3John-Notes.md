@@ -6,10 +6,12 @@
 Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 - [約翰三書 Interlinear](3John-Interlinear.md)
-- [約翰三書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8.docx)
+- [約翰三書 Interlinear (DOCX 格式)](3John.docx)
 
 
 #### 原文特色
+- [約翰書信一書子句結構](123John-Clause.md)
+- [約翰書信—詞彙分析](123John-Vocabulary.md)
 
 
 #### 句法筆記

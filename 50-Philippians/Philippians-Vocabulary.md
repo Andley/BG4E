@@ -1,62 +1,47 @@
-## 腓立比書詞彙分析
-#### 詞彙頻率 (≧ 5x)
+# 腓立比書詞彙分析
+
+### 詞彙頻率 (≧ 5x)
  
-- 連接詞
-	- 對等連接詞
-		- καί, and, even, also (107x)
-		- δέ, but, and (27x)
-		- ἀλλά, but, except (15x)
-		- γάρ, for (13x)
-		- οὖν, then, accordingly (5x)
-	- 從屬連接詞
-		- ὅτι, that, because, since (21x)
-		- ἵνα, in order that, that (12x)
-		- εἰ, if (13x)
-		- ὡς, as, that, how, about (7x)
-		- εἴτε, if, whether (6x)
-	- Ø 無連接詞 (39x) (Moore 2019, 45)
+ #### 功能詞 (Function Words)
+
+| 連接詞                             | 介系詞                                                                                        |
+|---------------------------------|--------------------------------------------------------------------------------------------|
+| 對等連接詞                           | ἐν, in (dat) (66x)                                                                         |
+| καί, and, even, also (107x)     | εἰς, into (acc) (23x)                                                                      |
+| δέ, but, and (27x)              | διά, through (gen); on account of (acc) (14x)                                              |
+| ἀλλά, but, except (15x)         | κατά, down from, against (gen); according to, during, throughout (acc) (11x)               |
+| γάρ, for (13x)                  | ἐκ, ἐξ, out of, from (gen) (10x)                                                           |
+| οὖν, then, accordingly (5x)     | ἐπί, over, on, at the time of (gen); on the basis of, at (dat); on, to, against (acc) (7x) |
+| 從屬連接詞                           | μετά, with (gen); after (acc) (7x)                                                         |
+| ὅτι, that, because, since (21x) | ὑπέρ, in behalf of (gen); above (acc) (7x)                                                 |
+| ἵνα, in order that, that (12x)  |                                                                                            |
+| εἰ, if (13x)                    |                                                                                            |
+| ὡς, as, that, how, about (7x)   |                                                                                            |
+| εἴτε, if, whether (6x)          |                                                                                            |
+| Ø 無連接詞 (39x) (Moore 2019, 45)   | |
 
 
-- 介系詞
-	- ἐν, in (dat) (66x)
-	- εἰς, into (acc) (23x)
-	- διά, through (gen); on account of (acc) (14x)
-	- κατά, down from, against (gen); according to, during, throughout (acc) (11x)
-	- ἐκ, ἐξ, out of, from (gen) (10x)
-	- ἐπί, over, on, at the time of (gen); on the basis of, at (dat); on, to, against (acc) (7x)
-	- μετά, with (gen); after (acc) (7x)
-	- ὑπέρ, in behalf of (gen); above (acc) (7x)
 
+ #### 內容詞 (Content Words)
 
-- 名詞
-	- Χριστός, -οῦ, ὁ, Christ, Messiah, Anointed One (37x)
-	- θεός, -οῦ, ὁ, a god, God (23x)
-	- Ἰησοῦς, Jesus, Joshua (22x)
-	- κύριος, -ου, ὁ, a lord, the Lord (15x)
-	- ἀδελφός, -οῦ, ὁ, brother (9x)
-	- εὐαγγέλιον, -ου, τό, good news, glad tidings, the Gospel (9x)
-	- δόξα, -ης, ἡ, glory (6x)
-	- θάνατος, -ου, ὁ, death (6x)
-	- χαρά, -ᾶς, ἡ, joy, delight (5x)
-	- πίστις, -εως, ἡ, faith, belief, trust (5x)
-	- πνεῦμα, -τος, τό, a spirit, the Spirit (5x)
-	- σάρξ, σαρκός, ἡ, flesh (5x)
+| 名詞                                                            | 動詞 |
+|---------------------------------------------------------------|-------------------------------------------------------|
+| Χριστός, -οῦ, ὁ, Christ, Messiah, Anointed One (37x)          | εἰμί, I am (17x)                                      |
+| θεός, -οῦ, ὁ, a god, God (23x)                                | φρονέω, to think (10x)                                |
+| Ἰησοῦς, Jesus, Joshua (22x)                                   | χαίρω, to rejoice (9x)                                |
+| κύριος, -ου, ὁ, a lord, the Lord (15x)                        | γίνομαι, to become, be (6x)                           |
+| ἀδελφός, -οῦ, ὁ, brother (9x)                                 | ἡγέομαι, to be chief; to think, regard, consider (6x) |
+| εὐαγγέλιον, -ου, τό, good news, glad tidings, the Gospel (9x) | οἶδα, to know (6x)                                    |
+| δόξα, -ης, ἡ, glory (6x)                                      | πείθω, to persuade (6x)                               |
+| θάνατος, -ου, ὁ, death (6x)                                   | γινώσκω, to come to know, learn, know, realize (5x)   |
+| χαρά, -ᾶς, ἡ, joy, delight (5x)                               | περισσεύω, to abound, be rich (5x)                    |
+| πίστις, -εως, ἡ, faith, belief, trust (5x)                    | πέμπω, to send (5x)                                   |
+| πνεῦμα, -τος, τό, a spirit, the Spirit (5x)                   |                                                       |
+| σάρξ, σαρκός, ἡ, flesh (5x)                                    | |
 
-
-- 動詞——喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
-	- εἰμί, I am (17x)
-	- **φρονέω**, to think (10x)
-	- **χαίρω**, to rejoice (9x)
-	- γίνομαι, to become, be (6x)
-	- **ἡγέομαι**, to be chief; to think, regard, consider (6x)
-	- **οἶδα**, to know (6x)
-	- **πείθω**, to persuade (6x)
-	- **γινώσκω**, to come to know, learn, know, realize (5x)
-	- περισσεύω, to abound, be rich (5x)
-	- πέμπω, to send (5x)
-
-
-- **σύν** 複合字 (20x)——同心、一起 (togetherness) 的概念相對突出
+Note: 
+- 在動詞當中，喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
+- **σύν** 的複合字特別多 (20x)：同心、一起 (togetherness) 的概念相對突出
 	- συγκοινωνέω, to have fellowship with, participate, share (1x)
 	- συγκοινωνός, -οῦ, ὁ, partaker, participant, partner (1x)
 	- συγχαίρω, to rejoice with (2x)
@@ -73,7 +58,7 @@
 	- συστρατιώτης, -ου, ὁ, a fellow-soldier (1x)
 
 
-#### Hapax legomenon (罕見字、生僻字、孤寡字)
+### Hapax legomenon (罕見字、生僻字、孤寡字)
 
 - 扣除人名 (Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon) 總共 36 個。
 	- ἁγνῶς	(ἅγος)	sincerely, purely
