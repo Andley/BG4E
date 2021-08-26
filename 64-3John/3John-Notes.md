@@ -3,6 +3,8 @@
 ## 約翰三書希臘文筆記
 
 #### 經文閱讀
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
+
 - [約翰三書 Interlinear (Markdown 格式)](3John-Interlinear.md)
 - [約翰三書 Interlinear (PDF 格式)](3John-Interlinear.pdf)
 - [約翰三書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8.docx)
@@ -12,7 +14,7 @@
 
 
 #### 句法筆記
-經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
+經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/7a538c64cb48d15fa62a4fea869f10ce/)
 
 
 - Salutation
@@ -40,9 +42,3 @@ R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical 
 - Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 - Bateman IV, Herbert W. _John's Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Grand Rapids, MI.: Kregel Academic, 2018.
 - Culy, Martin M. _I, II, III John: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2004.
-
-
-
-[^1]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/7a538c64cb48d15fa62a4fea869f10ce/
-[^2]: https://github.com/eliranwong/OpenGNT
-[^3]: https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/9fd49a12c8deaa6b7554b56021dad37d/

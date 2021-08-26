@@ -15,7 +15,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 - [約翰一書—詞彙分析](1John-Vocabulary.md)
 
 #### 句法筆記
-經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)
+經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/72/10001/19999/ch/9f95d8cd0fd3aaae4a4dbb2208e8408b/)
 
 
 - The Word of Life
