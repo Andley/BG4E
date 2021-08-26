@@ -10,8 +10,8 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 
 
 #### 原文特色
-- [約翰書信一書子句結構](123John-Clause.md)
-- [約翰書信—詞彙分析](123John-Vocabulary.md)
+- [約翰書信——子句結構](123John-Clause.md)
+- [約翰書信——詞彙分析](123John-Vocabulary.md)
 
 
 #### 句法筆記
@@ -19,13 +19,13 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 
 
 - Salutation 
-	- [2Jo1.1–3](2Jo1.1–3.md)
+	- [2Jo 1:1–3](2Jo.1.1–3.md)
 - Truth and Love 
-	- [2Jo1.4–6](2Jo1.4–6.md)
-	- [2Jo1.7–8](2Jo1.7–8.md)
-	- [2Jo1.9–11](2Jo1.9–11.md)
+	- [2Jo 1:4–6](2Jo.1.4–6.md)
+	- [2Jo 1:7–8](2Jo.1.7–8.md)
+	- [2Jo 1:9–11](2Jo.1.9–11.md)
 - Final Greetings 
-	- [2Jo1.12–13](2Jo1.12–13.md)
+	- [2Jo 1:12–13](2Jo.1.12–13.md)
 
 
 #### 出處縮寫
