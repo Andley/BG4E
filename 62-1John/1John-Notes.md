@@ -3,16 +3,19 @@
 ## 約翰一書希臘文筆記
 
 #### 經文閱讀
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
+
 - [約翰一書 Interlinear (Markdown 格式)](1John-Interlinear.md)
 - [約翰一書 Interlinear (PDF 格式)](1John-Interlinear.pdf)
 - [約翰一書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%80%E6%9B%B8.docx)
 
 
 #### 原文特色
-
+- [約翰一書子句結構](1John-Clause.md)
+- [約翰一書—詞彙分析](1John-Vocabulary.md)
 
 #### 句法筆記
-經文分段和標題是根據 UBS5[^1]；Interlinear 經文的大小寫和分段記號 (¶)則是根據 OpenGNT[^2] 文本，與 NA28[^3] 幾乎一致。
+經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)
 
 
 - The Word of Life
@@ -63,12 +66,7 @@ R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical 
 
 #### 參考書目
 
-- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 - Bateman IV, Herbert W. _John's Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Grand Rapids, MI.: Kregel Academic, 2018.
 - Culy, Martin M. _I, II, III John: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2004.
+- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 
-
-
-[^1]: https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/72/10001/19999/ch/9f95d8cd0fd3aaae4a4dbb2208e8408b/
-[^2]: https://github.com/eliranwong/OpenGNT
-[^3]: https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/72/10001/19999/ch/42656ed9aeb316f9ecfa7db1db2fce91/
