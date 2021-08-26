@@ -6,8 +6,7 @@
 Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 
-- [腓立比書 Interlinear (Markdown 格式)](Philippians-Interlinear.md)
-- [腓立比書 Interlinear (PDF 格式)](Philippians-Interlinear.pdf)
+- [腓立比書 Interlinear](Philippians-Interlinear.md)
 - [腓立比書 Interlinear (DOCX 格式)](Philippians-Interlinear.docx)
 
 

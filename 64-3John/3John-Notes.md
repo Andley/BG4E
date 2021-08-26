@@ -5,8 +5,7 @@
 #### 經文閱讀
 Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
-- [約翰三書 Interlinear (Markdown 格式)](3John-Interlinear.md)
-- [約翰三書 Interlinear (PDF 格式)](3John-Interlinear.pdf)
+- [約翰三書 Interlinear](3John-Interlinear.md)
 - [約翰三書 Interlinear (DOCX 格式)](%E7%B4%84%E7%BF%B0%E4%B8%89%E6%9B%B8.docx)
 
 
