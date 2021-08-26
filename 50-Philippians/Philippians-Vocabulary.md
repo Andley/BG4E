@@ -1,4 +1,5 @@
-#### 腓立比書詞彙頻率 (≧ 5x)
+## 腓立比書詞彙分析
+#### 詞彙頻率 (≧ 5x)
  
 - 連接詞
 	- 對等連接詞
@@ -33,7 +34,7 @@
 	- Ἰησοῦς, Jesus, Joshua (22x)
 	- κύριος, -ου, ὁ, a lord, the Lord (15x)
 	- ἀδελφός, -οῦ, ὁ, brother (9x)
-	- εὐαγγέλιον, -ου, -ν, good news, glad tidings, the Gospel (9x)
+	- εὐαγγέλιον, -ου, τό, good news, glad tidings, the Gospel (9x)
 	- δόξα, -ης, ἡ, glory (6x)
 	- θάνατος, -ου, ὁ, death (6x)
 	- χαρά, -ᾶς, ἡ, joy, delight (5x)
@@ -44,13 +45,13 @@
 
 - 動詞——喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
 	- εἰμί, I am (17x)
-	- φρονέω, to think (10x
-	- χαίρω, to rejoice (9x)
+	- **φρονέω**, to think (10x)
+	- **χαίρω**, to rejoice (9x)
 	- γίνομαι, to become, be (6x)
-	- ἡγέομαι, to be chief; to think, regard, consider (6x)
-	- οἶδα, to know (6x)
-	- πείθω, to persuade (6x)
-	- γινώσκω, to come to know, learn, know, realize (5x)
+	- **ἡγέομαι**, to be chief; to think, regard, consider (6x)
+	- **οἶδα**, to know (6x)
+	- **πείθω**, to persuade (6x)
+	- **γινώσκω**, to come to know, learn, know, realize (5x)
 	- περισσεύω, to abound, be rich (5x)
 	- πέμπω, to send (5x)
 
@@ -72,7 +73,9 @@
 	- συστρατιώτης, -ου, ὁ, a fellow-soldier (1x)
 
 
-- Hapax legomenon (罕見字、生僻字、孤寡字)——扣除人名 (Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon) 總共 36 個。
+#### Hapax legomenon (罕見字、生僻字、孤寡字)
+
+- 扣除人名 (Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon) 總共 36 個。
 	- ἁγνῶς	(ἅγος)	sincerely, purely
 	- αἴσθησις	(αἰσθάνομαι)	(f) judgment, perception, knowledge
 	- ἀκαιρέομαι	(α, καιρός)	to lack opportunity
