@@ -10,8 +10,8 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 
 
 #### 原文特色
-- [約翰書信一書子句結構](123John-Clause.md)
-- [約翰書信—詞彙分析](123John-Vocabulary.md)
+- [約翰書信——書子句結構](123John-Clause.md)
+- [約翰書信——詞彙分析](123John-Vocabulary.md)
 
 
 #### 句法筆記
@@ -19,13 +19,11 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 
 
 - Salutation
-	- [[3Jo1.1–4]]
+	- [3Jo 1:1–4](3Jo.1.1–4.md)
 - Cooperation and Opposition
-	- [[3Jo1.5–8]]
-	- [[3Jo1.9–10]]
-	- [[3Jo1.11–12]]
+	- [3Jo 1:5–12](3Jo.1.5–12.md)
 - Final Greetings
-	- [[3Jo1.13–15]]
+	- [3Jo 1:13–15](3Jo.1.13–15.md)
 
 
 
@@ -40,6 +38,6 @@ R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical 
 
 #### 參考書目
 
-- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 - Bateman IV, Herbert W. _John's Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Grand Rapids, MI.: Kregel Academic, 2018.
 - Culy, Martin M. _I, II, III John: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2004.
+- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.

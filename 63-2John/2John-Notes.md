@@ -36,7 +36,7 @@ R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical 
 
 #### 參考書目
 
-- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 - Bateman IV, Herbert W. _John's Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Grand Rapids, MI.: Kregel Academic, 2018.
 - Culy, Martin M. _I, II, III John: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2004.
+- Anderson, John L. _An Exegetical Summary of 1, 2, and 3 John_. Dallas, TX.: SIL International, 2008.
 
