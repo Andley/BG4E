@@ -21,9 +21,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 - Salutation 
 	- [2Jo 1:1–3](2Jo.1.1–3.md)
 - Truth and Love 
-	- [2Jo 1:4–6](2Jo.1.4–6.md)
-	- [2Jo 1:7–8](2Jo.1.7–8.md)
-	- [2Jo 1:9–11](2Jo.1.9–11.md)
+	- [2Jo 1:4–11](2Jo.1.4–11.md)
 - Final Greetings 
 	- [2Jo 1:12–13](2Jo.1.12–13.md)
 
