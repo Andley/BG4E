@@ -43,7 +43,7 @@
 
 - <rt>腓2:28a</rt> (<RUBY><ruby><ruby>**ἔπεμψα**<rt>I have sent</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν,<rt>him,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C ⇒ 我打發他去 
 	- <rt>腓2:28b</rt> <RUBY><ruby><ruby><mark>ἵνα</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
-		- { <rt><</rt><RUBY><ruby><ruby>*ἰδόντες*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt><</rt><RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY><rt>>c</rt> <rt><</rt><RUBY><ruby><ruby>πάλιν<rt>again,</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY><rt>>a</rt>}A (<RUBY><ruby><ruby>**χαρῆτε**<rt>you may rejoice,</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P ⇒ 再看見他你們能喜樂
+		- { <rt>[</rt><RUBY><ruby><ruby>*ἰδόντες*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>again,</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A (<RUBY><ruby><ruby>**χαρῆτε**<rt>you may rejoice,</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P ⇒ 再看見他你們能喜樂
 
 用從屬連接詞 ὅτι 帶出來從屬子句，補充說明主要子句
 
@@ -67,7 +67,7 @@
 #### 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
-- <rt>腓1:12a</rt> { <rt><</rt><RUBY><ruby><ruby>*Γινώσκειν*<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> ... <rt><</rt><RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)s</rt> }C (<RUBY><ruby><ruby>**βούλομαι,**<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> ⇒ 弟兄們！我要你們知道
+- <rt>腓1:12a</rt> { <rt>[</rt><RUBY><ruby><ruby>*Γινώσκειν*<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> ... <rt>[</rt><RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)s</rt> }C (<RUBY><ruby><ruby>**βούλομαι,**<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> ⇒ 弟兄們！我要你們知道
 	- 不定詞 Γινώσκειν 的主語是 ὑμᾶς，兩者結合形成不定詞子句，用大括號 { …… } 標示出來。
 	- 整個不定詞子句內嵌在主要子句裡面，當作是主要動詞 βούλομαι 的補語(C)。
 
@@ -75,8 +75,8 @@
 
 - <rt>腓1:7a</rt> <RUBY><ruby><ruby>Καθώς<rt>Accordingly,</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> 
 	- (<RUBY><ruby><ruby>**ἐστιν**<rt>it is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>δίκαιον<rt>right</rt></ruby><rt>δίκαιος</rt></ruby><rt>A-NSN</rt></RUBY>)C (<RUBY><ruby><ruby>ἐμοὶ<rt>for me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A1 ⇒ 對我而言是正確的
-	- { <rt><</rt><RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY><rt>>c</rt> <rt><</rt><RUBY><ruby><ruby>*φρονεῖν*<rt>to feel</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> <rt><</rt><RUBY><ruby><ruby>ὑπὲρ<rt>about</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάντων<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-GPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY><rt>>a</rt> }S ⇒ 為你們全體這樣想
-	- (<RUBY><ruby><ruby>διὰ<rt>since</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> { <rt><</rt><RUBY><ruby><ruby>*ἔχειν*<rt>have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> <rt><</rt><RUBY><ruby><ruby>με<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY><rt>)s</rt> <rt><</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>καρδίᾳ<rt>heart</rt></ruby><rt>καρδία</rt></ruby><rt>N-DSF</rt></RUBY><rt>>a</rt> <rt><</rt><RUBY><ruby><ruby>ὑμᾶς,<rt>you;</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>>c</rt> } )A2 ⇒ 因為我有你們在心裡
+	- { <rt>[</rt><RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>*φρονεῖν*<rt>to feel</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>ὑπὲρ<rt>about</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάντων<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-GPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY><rt>]a</rt> }S ⇒ 為你們全體這樣想
+	- (<RUBY><ruby><ruby>διὰ<rt>since</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> { <rt>[</rt><RUBY><ruby><ruby>*ἔχειν*<rt>have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>με<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY><rt>)s</rt> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>καρδίᾳ<rt>heart</rt></ruby><rt>καρδία</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> <rt>[</rt><RUBY><ruby><ruby>ὑμᾶς,<rt>you;</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>]c</rt> } )A2 ⇒ 因為我有你們在心裡
 - 從屬連接詞 Καθώς 帶出從屬子句，主要動詞是 ἐστιν，補語是 δίκαιον，間接受格 ἐμοὶ 是狀語 (A1)，修飾主要動詞
 - 第一個不定詞 φρονεῖν 有補語 (τοῦτο)、狀語 (ὑπὲρ πάντων ὑμῶν)，合起來形成不定詞內嵌子句，用大括號 { …… } 標示，當作 Καθώς 從屬子句的主語 (S)
 - 第二個不定詞 ἔχειν 有主語 (με)、狀語 (ἐν τῇ καρδίᾳ)、補語 (ὑμᾶς)，合起來形成不定詞內嵌子句，用大括號 { …… } 標示，前面加上冠詞 (τὸ) 當作實名詞使用，再被前面的 διὰ 納入，成為介系詞片語，當作Καθώς 從屬子句的第二個狀語 (A2)。
@@ -86,7 +86,7 @@
 分詞是：動詞＋形容詞的結合體。因為有形容詞的特色，所以可以當作形容詞用，跟冠詞、實名詞結合，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是所有格，形成分詞的獨立所有格)、補語、狀語，進而形成分詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
 - <rt>腓2:28b</rt> <RUBY><ruby><ruby><mark>ἵνα</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
-	- { <rt><</rt><RUBY><ruby><ruby>*ἰδόντες*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt><</rt><RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY><rt>>c</rt> <rt><</rt><RUBY><ruby><ruby>πάλιν<rt>again,</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY><rt>>a</rt>}A (<RUBY><ruby><ruby>**χαρῆτε**<rt>you may rejoice,</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P ⇒ 再看見他你們能喜樂
+	- { <rt>[</rt><RUBY><ruby><ruby>*ἰδόντες*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>again,</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A (<RUBY><ruby><ruby>**χαρῆτε**<rt>you may rejoice,</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P ⇒ 再看見他你們能喜樂
 - 分詞 ἰδόντες 的補語是 αὐτὸν，狀語是 πάλιν，三者結合形成分詞子句，用用大括號 { …… } 標示出來。
 - 整個分詞子句內嵌在 ἵνα 從屬子句裡面，當作是主要動詞 χαρῆτε 的狀語(A)。
 
