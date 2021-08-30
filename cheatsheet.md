@@ -1,4 +1,110 @@
+## vscode
+
+```json
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "markdown-pdf.breaks": true,
+    "editor.renderWhitespace": "all",
+    "markdown.extension.toc.levels": "2..5",
+    "markdown-pdf.quality": 0,
+    "markdown-pdf.footerTemplate": "<div style=\"font-size:9px; margin-left:1cm;\"></div>",
+    "markdown-pdf.headerTemplate": "<div style=\"font-size:9px; margin-left:1cm;\"><span class='title'></span></div> <div style=\"font-size:9px; margin-left:auto; margin-right:1cm;\"><span class='pageNumber'></span>/<span class='totalPages'></span></div>",
+    "MarkdownPaste.path": "./images/",
+    "editor.maxTokenizationLineLength": 200000,
+    "editor.renderControlCharacters": true,
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.scrollPreviewWithEditor": false,
+    "workbench.editor.enablePreview": false,
+    "editor.insertSpaces": false,
+    "markdown-preview-enhanced.scrollSync": false,
+    "editor.largeFileOptimizations": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "markdown-preview-enhanced.previewTheme": "github-light.css",
+    "editormacros": {
+        "interlinear": {
+            "type": "multiple",
+            "args": {
+                "macros": [
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<rt>(... )([0-9])",
+                            "replacePattern": "\n- <rt>$2"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>καὶ",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>καὶ"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>ἵνα",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>ἵνα"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>ὅτι",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>ὅτι"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>ἐὰν",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>ἐὰν"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>ὡς",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>ὡς"
+                        }
+                    },
+                    {
+                        "type": "replace",
+                        "args": {
+                            "regex": true,
+                            "replaceAll": true,
+                            "searchPattern": "<RUBY><ruby><ruby>ἀλλ᾽",
+                            "replacePattern": "\n- <RUBY><ruby><ruby>ἀλλ᾽"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
+```
+
 ---
+
+## puppeteer
+
 puppeteer:
   displayHeaderFooter: true
   printBackground: true
@@ -8,17 +114,35 @@ puppeteer:
       bottom: "2cm",
       left: "2cm"
   }
+  
+  
 ---
+
+## html
+
 <div dir="rtl">
 שֹׁ֥חַד לָֽקְחוּ־בָ֖ךְ לְמַ֣עַן שְׁפָךְ־דָּ֑ם נֶ֧שֶׁךְ וְתַרְבִּ֣ית לָקַ֗חַתְּ וַתְּבַצְּעִ֤י רֵעַ֙יִךְ֙ בַּעֹ֔שֶׁק וְאֹתִ֣י שָׁכַ֔חַתְּ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃
 </div>
 
----
 
 <div dir="ltr">
 sdcsdcdsc 6
 </div>
 
+
+<div style="page-break-after: always;"></div>
+
+<div  style='text-align: left;'>靠左對齊</div>
+<div  style='text-align: right;'>
+- 靠右對齊
+- dscdscdsc
+</div>
+
+<p style="text-align:left;">靠左對齊<span style="float:right;">靠右對齊</span></p>
+
+---
+
+## Markdown
 
 # 標題 1
 ## level 2
@@ -30,7 +154,6 @@ sdcsdcdsc 6
 [TOC]
 
 
----
 
 **粗體**  
 *斜體*  
@@ -43,21 +166,7 @@ __*斜粗體*__
 
 
 
-### HTML 特殊
-<div style="page-break-after: always;"></div>
 
-<div  style='text-align: left;'>靠左對齊</div>
-<div  style='text-align: right;'>
-- 靠右對齊
-- dscdscdsc
-</div>
-
-<p style="text-align:left;">靠左對齊<span style="float:right;">靠右對齊</span></p>
-
---- 
-
-### Ruby
-<RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> 
 
 ---
 ### px ⇔ pt (Windows)
