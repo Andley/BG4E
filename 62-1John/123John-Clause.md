@@ -14,6 +14,8 @@
 1 Jn. 4:17
 1 Jn. 5:2
 
+1Jo 4:6 ἐκ τούτου
+
 
 
 <rt>1Jn 2:3</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>by</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY> <RUBY><ruby><ruby>**γινώσκομεν**<rt>we know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAI-1P</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἐγνώκαμεν**<rt>we have come to know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-RAI-1P</rt></RUBY> <RUBY><ruby><ruby>αὐτόν,<rt>Him,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὰς<rt>commandments</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>**τηρῶμεν.¶**<rt>we shall keep.</rt></ruby><rt>τηρέω</rt></ruby><rt>V-PAS-1P</rt></RUBY>
