@@ -29,14 +29,6 @@
 	- <rt>3:24d</rt> <RUBY><ruby><ruby>ἐκ<rt>by</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSN</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>to us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>**ἔδωκεν.¶**<rt>He has given.</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-AAI-3S</rt></RUBY> 
 
 
-†‡⫸⫷⪡⪢〸⨶⨷‹«»›
-δίδωμι♰♱✙
-δίδωμι✝✞✟
-δίδωμι᛭☨
-δίδωμι‡†᛭♰
-δίδωμι✞♰✜
-❮
-
 #### 筆記 (1Jo 3:19–24)
 
 ---
