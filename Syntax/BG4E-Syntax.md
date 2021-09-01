@@ -19,7 +19,7 @@
 	- 功能詞類 §40
 		- Prepositions (介系詞) §41
 		- Adverbs (副詞) §42
-		- Conjunctions (連接詞) §43
+		- [Conjunctions (連接詞)](§43.md)
 		- Particles (質詞) §44
 	- 動詞類 §50
 		- Verb (動詞)
