@@ -1,4 +1,4 @@
-####  圖析 (1Jo 5:6–12)
+#### 圖析 (1Jo 5:6–12)
 
 - <rt>5:6a</rt> (<RUBY><ruby><ruby>οὗτός<rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY>)S <RUBY><ruby><ruby>**ἐστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> «<rt>5:6b</rt>» = <RUBY><ruby><ruby>Ἰησοῦς<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Χριστός·<rt>Christ;</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY> )C
 	- <rt>5:6b</rt> { <RUBY><ruby><ruby>*ἐλθὼν*<rt>having come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>δι᾽<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὕδατος<rt>water</rt></ruby><rt>ὕδωρ, ὕδατος</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αἵματος,<rt>blood,</rt></ruby><rt>αἷμα</rt></ruby><rt>N-GSN</rt></RUBY><rt>]a</rt> }
