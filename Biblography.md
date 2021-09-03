@@ -28,6 +28,7 @@
 ## 辭典 (Lexion)
 
 - Bauer, W., F. W. Danker, W. F. Arndt, and F. W. Gingrich. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. 3rd ed. Chicago, Ill.: University of Chicago Press, 2000. = W. Bauer、F. W. Danker、W. F. Arndt、F. W. Gingrich。《新約及早期基督敎文獻希臘文大詞典（中文版）》。麥啟新編。麥陳惠惠、麥啟新譯。香港：漢語聖經協會，2009。
+	- William Varner 介紹 BDAG 背景及使用方法的三個影片 [1](https://vimeo.com/225498714), [2](https://vimeo.com/225943004), [3](https://vimeo.com/227488008).
 - Danker, Frederick William. *The Concise Greek-English Lexicon of the New Testament*. Chicago, Ill.: University Of Chicago Press, 2009.
 - Louw, Johannes P., and Eugene A. Nida. _Greek-English Lexicon of the New Testament: Based on Semantic Domains_. Edited by Rondal B. Smith and Karen A. Munson. 2nd ed. Vol. 2. New York: United Bible Societies, 1989.
 - 包爾(Walter Bauer)。《新約希臘文中文辭典》。王正中編。戴德理 (Wright Doyle)譯。更新版。台中市：浸宣，2014。
