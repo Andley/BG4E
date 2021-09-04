@@ -56,11 +56,14 @@
 #### (2a) 從屬連接詞 (subordinate conjunctive)
 用從屬連接詞 ἵνα 帶出來從屬子句，補充說明主要子句。
 
-
+- <rt>2Jn 1:8</rt> <RUBY><ruby><ruby>**βλέπετε**<rt>do watch</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἑαυτοὺς<rt>yourselves,</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-2APM</rt></RUBY>)C 
+	- <RUBY><ruby><ruby><mark>ἵνα</mark><rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἀπολέσητε**<rt>you may lose</rt></ruby><rt>ἀπολλύω</rt></ruby><rt>V-AAS-2P</rt></RUBY> { <rt>[</rt><RUBY><ruby><ruby>ἃ<rt>what things</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APN</rt></RUBY><rt>]c</rt> <RUBY><ruby><ruby>**εἰργασάμεθα,**<rt>we have worked for,</rt></ruby><rt>ἐργάζομαι</rt></ruby><rt>V-ADI-1P</rt></RUBY>}C
 
 
 用從屬連接詞 ὅτι 帶出來從屬子句，補充說明主要子句。
 
+- <rt>2Jn 1:4</rt> <RUBY><ruby><ruby>**Ἐχάρην**<rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> (<RUBY><ruby><ruby>λίαν<rt>exceedingly</rt></ruby><rt>λίαν</rt></ruby><rt>ADV</rt></RUBY>)A
+	- <RUBY><ruby><ruby><mark>ὅτι</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**εὕρηκα**<rt>I have found</rt></ruby><rt>εὑρίσκω</rt></ruby><rt>V-RAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>[some] of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>τέκνων<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>σου<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY>)A { <RUBY><ruby><ruby>*περιπατοῦντας*<rt>walking</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-PAP-APM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ<rt>truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> }C
 
 
 
