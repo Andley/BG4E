@@ -75,7 +75,7 @@
 - <rt>3Jn 1:1</rt> (<RUBY><ruby><ruby>Ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>elder,</rt></ruby><rt>πρεσβύτερος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>Γαΐῳ°¹<rt>To Gaius</rt></ruby><rt>Γάϊος</rt></ruby><rt>N-D<font color='red'>SM</font>-P</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-D<font color='red'>SM</font></rt></RUBY> <RUBY><ruby><ruby>ἀγαπητῷ°¹<rt>beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-D<font color='red'>SM</font></rt></RUBY>)C 
 	- (<RUBY><ruby><ruby><mark>ὃν°¹</mark><rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-A<font color='red'>SM</font></rt></RUBY>)C (<RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>)S <RUBY><ruby><ruby>**ἀγαπῶ**<rt>love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ.<rt>truth.</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A
 
-有時候關係代名詞的數 (number)、性 (gender) 卻跟先行詞 (antecedent) 不一致，出現不尋常的用法 (W 337–38 = 華 352–53)，文法學家稱之為 *constructio ad sensum*。
+有時候關係代名詞的數 (number)、性 (gender) 卻跟先行詞 (antecedent) 不一致，出現不尋常的用法 (W 337–38 = 華 352–53)，文法學家稱之為 *constructio ad sensum* (不按照語法、而是按照含意的結構)。
 
 - <rt>2Jn 1:1</rt> (<RUBY><ruby><ruby>Ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>elder,</rt></ruby><rt>πρεσβύτερος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐκλεκτῇ<rt>To [the] elect</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-D<font color='red'>SF</font></rt></RUBY> <RUBY><ruby><ruby>κυρίᾳ<rt>lady</rt></ruby><rt>Κυρία</rt></ruby><rt>N-D<font color='red'>SF</font></rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-D<font color='red'>PN</font></rt></RUBY> <RUBY><ruby><ruby>τέκνοις<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-DP<font color='red'>N</font></rt></RUBY> <RUBY><ruby><ruby>αὐτῆς<rt>of her,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSF</rt></RUBY>)C°²
 	- (<RUBY><ruby><ruby><mark>οὓς°²</mark><rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-A<font color='red'>PM</font></rt></RUBY>)C <RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>**ἀγαπῶ**<rt>love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ,<rt>truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A
@@ -88,11 +88,20 @@
 #### (3a) 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
-
+- <rt>3Jn 1:13</rt> (<RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY>)C <RUBY><ruby><ruby>**εἶχον**<rt>I had</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-1S</rt></RUBY> { <RUBY><ruby><ruby>*γράψαι*<rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>σοι,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY> }C
 
 
 #### (3b) 分詞內嵌子句
 分詞是：動詞＋形容詞的結合體。因為有形容詞的特色，所以可以當作形容詞用，跟冠詞、實名詞結合，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是所有格，形成分詞的獨立所有格)、補語、狀語，進而形成分詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
+- <rt>1Jn 4:16</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby><mark>*μένων*</mark><rt>abiding</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπῃ<rt>love,</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> } )S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY>)A <RUBY><ruby><ruby>**μένει,**<rt>abides,</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
+- 分詞 μένων 當作形容詞用，前面加上冠詞 ὁ 變成 T—A (分詞) 的結構，變成了實名詞 (substantive)。
+
+
+- <rt>3Jn 1:3</rt> <RUBY><ruby><ruby>**ἐχάρην**<rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>λίαν<rt>exceedingly</rt></ruby><rt>λίαν</rt></ruby><rt>ADV</rt></RUBY>)A 
+	- {<RUBY><ruby><ruby><mark>*ἐρχομένων*</mark><rt>when were coming</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-PNP-GPM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἀδελφῶν<rt>[the] brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-GPM</rt></RUBY><rt>]s</rt> }A1 
+	- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby><mark>*μαρτυρούντων*</mark><rt>those bearing witness</rt></ruby><rt>μαρτυρέω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>σου<rt>from you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ,<rt>to truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY><rt>]c</rt> }A2
+- 分詞 ἐρχομένων 當作動詞使用，因為動作者跟主要子句的主詞 (我) 不同，所以用所有格表達分詞的主語，形成 Genitive Absolute 分詞的獨立所有格 (W 654–55 = 華 691–92) 結構，成為分詞內嵌子句，當作副詞 (狀語) 使用，修飾主要動詞 ἐχάρην。
+- 分詞 μαρτυρούντων 當作動詞使用，後面有自己的補語，合起來成為分詞內嵌子句，當作副詞 (狀語) 使用，修飾主要動詞 ἐχάρην。
 
 
 
