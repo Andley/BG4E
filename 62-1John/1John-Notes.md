@@ -12,6 +12,7 @@ Interlinear 經文出自 [STEP Bible](http://www.stepbible.org/) 的 [TAGNT (Tra
 
 #### 原文特色
 - [約翰書信——子句結構](123John-Clause.md)
+- [約翰書信——句法特色](123John-Syntax.md)
 - [約翰書信——詞彙分析](123John-Vocabulary.md)
 
 #### 句法筆記
