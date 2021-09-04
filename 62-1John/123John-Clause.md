@@ -1,4 +1,5 @@
-## 約翰書信—子句結構
+# 約翰書信 (123John) 子句結構
+
 
 聖經希臘文的子句結構可以分成三種：(1) 主要 (primary)、獨立 (independent) 子句；(2) 次要 (secondary)、從屬 (dependent/subordinate) 子句；(3) 內嵌 (embedded) 子句。三者的功用並不相同。  
 
@@ -88,7 +89,8 @@
 #### (3a) 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
-- <rt>3Jn 1:13</rt> (<RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY>)C <RUBY><ruby><ruby>**εἶχον**<rt>I had</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-1S</rt></RUBY> { <RUBY><ruby><ruby>*γράψαι*<rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>σοι,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY> }C
+- <rt>3Jn 1:13</rt> { <rt>[</rt><RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY><rt>]c1</rt> }C<sub>-</sub> <RUBY><ruby><ruby>**εἶχον**<rt>I had</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-1S</rt></RUBY> <sub>-</sub>C{ <RUBY><ruby><ruby>*γράψαι*<rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-AAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>σοι,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY><rt>]c2</rt> }
+- 不定詞 γράψαι 有兩個補語，一個是「事」(Πολλὰ)，一個是「人」(σοι)，合起來形成不定詞內嵌子句，當作主要動詞 εἶχον 的受詞 (補語)。
 
 
 #### (3b) 分詞內嵌子句
