@@ -10,8 +10,9 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 
 
 #### 原文特色
-- [約翰書信——子句結構](../62-1John/123John-Style.md)
-- [約翰書信——詞彙分析](123John-Vocabulary.md)
+- [約翰書信 (123John) 子句結構](123John-Clause.md)
+- [約翰書信 (123John) 風格特色](123John-Style.md)
+- [約翰書信 (123John) 詞彙分析](123John-Vocabulary.md)
 
 
 #### 句法筆記
