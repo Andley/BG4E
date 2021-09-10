@@ -7,9 +7,8 @@
 
 		- <rt>5:13d</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ζωὴν<rt>life</rt></ruby><rt>ζωή</rt></ruby><rt>N-ASF</rt></RUBY>)C<sub>-</sub><RUBY><ruby><ruby>**ἔχετε**<rt>you have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-2P</rt></RUBY> <sub>-</sub>C(<RUBY><ruby><ruby>αἰώνιον,<rt>eternal,</rt></ruby><rt>αἰώνιος</rt></ruby><rt>A-ASF</rt></RUBY>)
 
-- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> 
-
-- <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>to those</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>*πιστεύουσιν*<rt>believing</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAP-DPM</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>υἱοῦ<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ.<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> 
+- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
+	- (<RUBY><ruby><ruby>τοῖς<rt>to those</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> { <RUBY><ruby><ruby>*πιστεύουσιν*<rt>believing</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAP-DPM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>υἱοῦ<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ.<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>]a</rt> } )^°¹
 
 - <rt>5:14</rt> 
 
