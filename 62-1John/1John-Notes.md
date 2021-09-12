@@ -50,7 +50,7 @@ Interlinear 經文出自 [STEP Bible](http://www.stepbible.org/) 的 [TAGNT (Tra
 
 ### 出處縮寫
 | 縮寫 | 出處 |
-| -- | -- |
+|------|------|
 |W ‖ 華 | Wallace, Daniel B. *Greek Grammar Beyond the Basics*. Grand Rapids: Zondervan, 1996. = 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。|
 |P ‖ 波 | Porter, Stanley E. *Idioms of the Greek New Testament*. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. = 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。|
 |M | Mathewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar: Syntax for Students of the New Testament*. Grand Rapids, MI: Baker Academic, 2016.|
