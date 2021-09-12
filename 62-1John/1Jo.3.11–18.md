@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 3:11–18)
+### 圖析 (1Jo 3:11–18)
 - <rt>3:10c</rt> <RUBY><ruby><ruby>καὶ<rt>and also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>*ἀγαπῶν*<rt>loving</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ·<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY><rt>]c</rt> } )S ... <rt>3:10b</rt> οὐκ ἔστιν ἐκ τοῦ θεοῦ ...
 - ——————————————
 	- <rt>3:11a</rt> <RUBY><ruby><ruby>ὅτι<rt>For</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S <RUBY><ruby><ruby>**ἐστὶν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγγελία°¹</mark><rt>message</rt></ruby><rt>ἀγγελία</rt></ruby><rt>N-NSF</rt></RUBY>)C
@@ -35,7 +35,7 @@
 
 
 
-#### 筆記 (1Jo 3:11–18)
+### 筆記 (1Jo 3:11–18)
 
 ---
 

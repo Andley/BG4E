@@ -1,4 +1,4 @@
-#### 圖析
+### 圖析
 
 - <rt>4:10a</rt> <RUBY><ruby><ruby>**Ἐχάρην**<rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>μεγάλως<rt>greatly</rt></ruby><rt>μεγάλως</rt></ruby><rt>ADV</rt></RUBY>)A2 
 	- <rt>4:10b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>now</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>ποτὲ<rt>at last</rt></ruby><rt>ποτέ</rt></ruby><rt>PRT</rt></RUBY>)A2 <RUBY><ruby><ruby>**ἀνεθάλετε**<rt>you revived</rt></ruby><rt>ἀναθάλλω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> (<RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby><mark>ἐμοῦ°¹</mark><rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>) <RUBY><ruby><ruby>*φρονεῖν,*<rt>caring;</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAN</rt></RUBY> }C
@@ -15,7 +15,7 @@
 - <rt>4:13</rt> (<RUBY><ruby><ruby>πάντα<rt>[For] all things</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APN</rt></RUBY>)C <RUBY><ruby><ruby>**ἰσχύω**<rt>I have strength</rt></ruby><rt>ἰσχύω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>*ἐνδυναμοῦντί*<rt>strengthening</rt></ruby><rt>ἐνδυναμόω</rt></ruby><rt>V-PAP-DSM</rt></RUBY> <RUBY><ruby><ruby>με.<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)A
 - <rt>4:14a</rt> <RUBY><ruby><ruby>Πλὴν<rt>But</rt></ruby><rt>πλήν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καλῶς<rt>well</rt></ruby><rt>καλῶς</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἐποιήσατε**<rt>you did,</rt></ruby><rt>ποιέω</rt></ruby><rt>V-AAI-2P</rt></RUBY> { <RUBY><ruby><ruby>*συνκοινωνήσαντές*<rt>having fellowship in</rt></ruby><rt>συγκοινωνέω</rt></ruby><rt>V-AAP-NPM</rt></RUBY> (<RUBY><ruby><ruby>μου<rt>my</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>θλίψει.<rt>affliction.</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-DSF</rt></RUBY>) }A2
 
-#### 筆記
+### 筆記
 
 
 

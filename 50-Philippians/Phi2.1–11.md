@@ -1,4 +1,4 @@
-#### 圖析 (Phi 2:1–4)
+### 圖析 (Phi 2:1–4)
 
 - <rt>2:1a</rt> 
 	- <RUBY><ruby><ruby>Εἴ<rt>If [there is]</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τις<rt>any</rt></ruby><rt>τις</rt></ruby><rt>X-NSF</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>παράκλησις<rt>encouragement</rt></ruby><rt>παράκλησις</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ,<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> 
@@ -15,10 +15,10 @@
 		- <rt>2:4a</rt> { <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the things</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν<rt>of themselves</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-2GPM</rt></RUBY>)c (<RUBY><ruby><ruby>ἕκαστος<rt>each</rt></ruby><rt>ἕκαστος</rt></ruby><rt>A-NSM</rt></RUBY>)a (<RUBY><ruby><ruby>*σκοποῦντες*<rt>considering,</rt></ruby><rt>σκοπέω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p }A6
 		- <rt>2:4b</rt> { <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)a (<RUBY><ruby><ruby>τὰ<rt>the things</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἑτέρων<rt>of others</rt></ruby><rt>ἕτερος</rt></ruby><rt>A-GPM</rt></RUBY>)c (<RUBY><ruby><ruby>ἕκαστοι.¶<rt>each.</rt></ruby><rt>ἕκαστος</rt></ruby><rt>A-NPM</rt></RUBY>)a …*σκοποῦντες*… }A7
 
-#### 筆記 (Phi 2:1–4)
+### 筆記 (Phi 2:1–4)
 
 ---
-#### 圖析 (Phi 2:5–8)
+### 圖析 (Phi 2:5–8)
 
 - <rt>2:5a</rt> (<RUBY><ruby><ruby><mark>Τοῦτο°¹</mark><rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)C <RUBY><ruby><ruby>**φρονεῖτε**<rt>let mind be</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A 
 	- <rt>2:5b</rt> (<RUBY><ruby><ruby><mark>ὃ¹</mark><rt>which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby><mark>Χριστῷ†</mark><rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby><mark>Ἰησοῦ,†</mark><rt>Jesus [was]:</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A2
@@ -32,10 +32,10 @@
 			- <rt>2:8b</rt> { <RUBY><ruby><ruby>*γενόμενος*<rt>having become</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ὑπήκοος<rt>obedient</rt></ruby><rt>ὑπήκοος</rt></ruby><rt>A-NSM</rt></RUBY>)c (<RUBY><ruby><ruby>μέχρι<rt>unto</rt></ruby><rt>μέχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θανάτου,<rt>death,</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>θανάτου<rt>[the] death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)a }A1
 			- <rt>2:8c</rt> { <RUBY><ruby><ruby>δὲ<rt>even</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σταυροῦ.<rt>of [the] cross.</rt></ruby><rt>σταυρός</rt></ruby><rt>N-GSM</rt></RUBY> }A2
 
-#### 筆記 (Phi 2:5–8)
+### 筆記 (Phi 2:5–8)
 
 ---
-#### 圖析 (Phi 2:9–11)
+### 圖析 (Phi 2:9–11)
 
 - <rt>2:9a</rt> <RUBY><ruby><ruby>Διὸ<rt>Therefore</rt></ruby><rt>διό</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C <RUBY><ruby><ruby>**ὑπερύψωσεν**<rt>highly exalted,</rt></ruby><rt>ὑπερυψόω</rt></ruby><rt>V-AAI-3S</rt></RUBY> 
 - <rt>2:9b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἐχαρίσατο°³**<rt>granted</rt></ruby><rt>χαρίζω</rt></ruby><rt>V-ADI-3S</rt></RUBY> (<RUBY><ruby><ruby>αὐτῷ<rt>to Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)C1 (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>above</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πᾶν<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα,<rt>name,</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-ASN</rt></RUBY>)C2
@@ -46,7 +46,7 @@
 				- <RUBY><ruby><ruby>ΚΥΡΙΟΣ<rt>[is] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ΙΗΣΟΥΣ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>ΧΡΙΣΤΟΣ<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY> 
 	- <rt>2:11c</rt> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>[the] glory</rt></ruby><rt>δόξα</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρός.¶<rt>[the] Father.</rt></ruby><rt>πατήρ</rt></ruby><rt>N-GSM</rt></RUBY>)<mark>A³</mark>
 
-#### 筆記 (Phi 2:9–11)
+### 筆記 (Phi 2:9–11)
 
 
 

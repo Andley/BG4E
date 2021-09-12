@@ -1,4 +1,4 @@
-#### 圖析 (2Jo 1:4–11)
+### 圖析 (2Jo 1:4–11)
 
 - <rt>1:4a</rt> <RUBY><ruby><ruby>**Ἐχάρην**<rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> (<RUBY><ruby><ruby>λίαν<rt>exceedingly</rt></ruby><rt>λίαν</rt></ruby><rt>ADV</rt></RUBY>)A 
 	- <rt>1:4b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**εὕρηκα**<rt>I have found</rt></ruby><rt>εὑρίσκω</rt></ruby><rt>V-RAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>[some] of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>τέκνων<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>σου<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY>)A { <RUBY><ruby><ruby>*περιπατοῦντας*<rt>walking</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-PAP-APM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ<rt>truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> }C 
@@ -37,7 +37,7 @@
 -  (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> {<RUBY><ruby><ruby>*λέγων*<rt>telling</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> ... <rt>[</rt><RUBY><ruby><ruby>αὐτῷ<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY><rt>)c1</rt> <rt>[</rt><RUBY><ruby><ruby>χαίρειν,<rt>to rejoice</rt></ruby><rt>χαίρω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)c2</rt> } )S <RUBY><ruby><ruby>**κοινωνεῖ**<rt>partakes</rt></ruby><rt>κοινωνέω</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τοῖς<rt>in the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>ἔργοις<rt>works</rt></ruby><rt>ἔργον</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>πονηροῖς.¶<rt>evil.</rt></ruby><rt>πονηρός</rt></ruby><rt>A-DPN</rt></RUBY>)C
 
 
-#### 筆記 (2Jo 1:4–11)
+### 筆記 (2Jo 1:4–11)
 
 
 

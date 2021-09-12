@@ -1,16 +1,16 @@
-#### 圖析 (3Jo 1:1)
+### 圖析 (3Jo 1:1)
 
 - <rt>1:1a</rt> (<RUBY><ruby><ruby>Ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>elder,</rt></ruby><rt>πρεσβύτερος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><mark>Γαΐῳ°¹</mark><rt>To Gaius</rt></ruby><rt>Γάϊος</rt></ruby><rt>N-DSM-P</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητῷ<rt>beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-DSM</rt></RUBY>)C 
 	- <rt>1:1b</rt> (<RUBY><ruby><ruby>ὃν°¹<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASM</rt></RUBY>)C <RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>**ἀγαπῶ**<rt>love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ.<rt>truth.</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A 
 
-#### 筆記 (3Jo 1:1)
+### 筆記 (3Jo 1:1)
 
 
 
 
 ---
 
-#### 圖析 (3Jo 1:2–4)
+### 圖析 (3Jo 1:2–4)
 
 
 - <rt>1:2a</rt> <RUBY><ruby><ruby>ἀγαπητέ,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VSM</rt></RUBY> 
@@ -28,7 +28,7 @@
 		- <rt>1:4c</rt> { <rt>[</rt><RUBY><ruby><ruby>τὰ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἐμὰ<rt>my</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SAPN</rt></RUBY> <RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-APN</rt></RUBY><rt>)s</rt> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ<rt>truth</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> <RUBY><ruby><ruby>*περιπατοῦντα.*<rt>walking.</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-PAP-APN</rt></RUBY> }
 
 
-#### 筆記 (3Jo 1:2–4)
+### 筆記 (3Jo 1:2–4)
 
 ---
 

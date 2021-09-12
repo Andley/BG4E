@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 4:1–6)
+### 圖析 (1Jo 4:1–6)
 
 
 - <rt>4:1a</rt> <RUBY><ruby><ruby>Ἀγαπητοί,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>παντὶ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματι<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)C <RUBY><ruby><ruby>**πιστεύετε**<rt>do believe,</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAM-2P</rt></RUBY> 
@@ -28,7 +28,7 @@
 - <rt>4:6d</rt> (<RUBY><ruby><ruby>ἐκ<rt>By</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτου°⁷<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-GSN</rt></RUBY>)A <RUBY><ruby><ruby>**γινώσκομεν**<rt>we know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAI-1P</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>πνεῦμα<rt>Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείας<rt>of truth</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-GSF</rt></RUBY>)C <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>πνεῦμα<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πλάνης.¶<rt>of falsehood.</rt></ruby><rt>πλάνη</rt></ruby><rt>N-GSF</rt></RUBY>)C
 
 
-#### 筆記 (1Jo 4:1–6)
+### 筆記 (1Jo 4:1–6)
 
 ---
 

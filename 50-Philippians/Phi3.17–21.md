@@ -1,4 +1,4 @@
-#### 圖析
+### 圖析
 
 
 - <rt>3:17a</rt> (<RUBY><ruby><ruby>Συμμιμηταί<rt>Imitators together</rt></ruby><rt>συμμιμητής</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C <RUBY><ruby><ruby>**γίνεσθε,**<rt>be,</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
@@ -22,7 +22,7 @@
 			- (<RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐνέργειαν<rt>working</rt></ruby><rt>ἐνέργεια</rt></ruby><rt>N-ASF</rt></RUBY> «<rt>3:21bc</rt>»)A
 				- <rt>3:21b</rt> <RUBY><ruby><ruby>τοῦ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>*δύνασθαι*<rt>enabling</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNN</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)s { (<RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>) <RUBY><ruby><ruby>*ὑποτάξαι*<rt>to subdue</rt></ruby><rt>ὑποτάσσω</rt></ruby><rt>V-2AAN</rt></RUBY> (<RUBY><ruby><ruby>αὑτῷ<rt>to Himself</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>) (<RUBY><ruby><ruby>τὰ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>πάντα.¶<rt>all things.</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APN</rt></RUBY>) }c
 
-#### 筆記
+### 筆記
 
 
 

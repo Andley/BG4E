@@ -1,4 +1,4 @@
-#### 圖析 (3Jo 1:13–15)
+### 圖析 (3Jo 1:13–15)
 
 - <rt>1:13a</rt> (<RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY>)C <RUBY><ruby><ruby>**εἶχον**<rt>I had</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-1S</rt></RUBY> ( «<rt>1:13b</rt>» )A
 	- <rt>1:13b</rt> { <RUBY><ruby><ruby>*γράψαι*<rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-AAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>σοι,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY><rt>]c</rt> }
@@ -16,7 +16,7 @@
 
 
 
-#### 筆記 (3Jo 1:13–15)
+### 筆記 (3Jo 1:13–15)
 
 
 

@@ -1,4 +1,4 @@
-#### 圖析 (2Jo 1:1–3)
+### 圖析 (2Jo 1:1–3)
 
 - <rt>1:1a</rt> (<RUBY><ruby><ruby>Ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>elder,</rt></ruby><rt>πρεσβύτερος</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐκλεκτῇ<rt>To [the] elect</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>κυρίᾳ<rt>lady</rt></ruby><rt>Κυρία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>τέκνοις<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>αὐτῆς<rt>of her,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSF</rt></RUBY>)C<mark>°¹</mark>
 	- <rt>1:1b</rt> (<RUBY><ruby><ruby>οὓς°¹<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>)S1 <RUBY><ruby><ruby><mark>**ἀγαπῶ°²**</mark><rt>love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAI-1S</rt></RUBY>
@@ -14,7 +14,7 @@
 
 
 
-#### 筆記 (2Jo 1:1–3)
+### 筆記 (2Jo 1:1–3)
 
 
 ---

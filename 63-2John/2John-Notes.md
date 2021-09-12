@@ -2,20 +2,20 @@
 
 ## 約翰二書希臘文筆記
 
-#### 經文閱讀
+### 經文閱讀
 Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 - [約翰二書 Interlinear](2John-Interlinear.md)
 - [約翰二書 Interlinear (DOCX 格式)](2John.docx)
 
 
-#### 原文特色
+### 原文特色
 - [約翰書信 (123John) 子句結構](123John-Clause.md)
 - [約翰書信 (123John) 風格特色](123John-Style.md)
 - [約翰書信 (123John) 詞彙分析](123John-Vocabulary.md)
 
 
-#### 句法筆記
+### 句法筆記
 經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/73/10001/19999/ch/8feb828f46a4c65384fe9aebf6d55ebe/)
 
 
@@ -27,7 +27,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 	- [2Jo 1:12–13](2Jo.1.12–13.md)
 
 
-#### 出處縮寫
+### 出處縮寫
 | 縮寫 | 出處 |
 |:--:| -- |
 |W ‖ 華 | Wallace, Daniel B. *Greek Grammar Beyond the Basics*. Grand Rapids: Zondervan, 1996. = 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。|
@@ -35,7 +35,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 |M | Mathewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar: Syntax for Students of the New Testament*. Grand Rapids, MI: Baker Academic, 2016.|
 |R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis*. Peabody, MA.: Hendrickson, 2010.|
 
-#### 參考書目
+### 參考書目
 
 - Bateman IV, Herbert W. _John's Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Grand Rapids, MI.: Kregel Academic, 2018.
 - Culy, Martin M. _I, II, III John: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2004.

@@ -1,4 +1,4 @@
-#### 圖析
+### 圖析
 
 
 - <rt>3:12a</rt> <RUBY><ruby><ruby>Οὐχ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> 
@@ -21,7 +21,7 @@
 	- <rt>3:16b</rt> { (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby><mark>ὃ¹</mark><rt>that which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY>)a <RUBY><ruby><ruby>**ἐφθάσαμεν,**<rt>we have attained,</rt></ruby><rt>φθάνω</rt></ruby><rt>V-AAI-1P</rt></RUBY> }
 -  
 
-#### 筆記
+### 筆記
 
 
 

@@ -1,4 +1,4 @@
-#### 圖析 (Phi 3:2–6)
+### 圖析 (Phi 3:2–6)
 
 
 - <rt>3:2a</rt> <RUBY><ruby><ruby>**Βλέπετε**<rt>Beware of</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>κύνας,<rt>dogs;</rt></ruby><rt>κύων</rt></ruby><rt>N-APM</rt></RUBY> 
@@ -21,12 +21,12 @@
 	- <rt>3:6b</rt> { (<RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην<rt>righteousness</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>which [is]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νόμῳ<rt>[the] Law,</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>)a <RUBY><ruby><ruby>*γενόμενος*<rt>having become</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ἄμεμπτος.<rt>faultless.</rt></ruby><rt>ἄμεμπτος</rt></ruby><rt>A-NSM</rt></RUBY>)c }}<mark>A7²</mark>
 
 
-#### 筆記 (Phi 3:2–6)
+### 筆記 (Phi 3:2–6)
 
 
 ---
 
-#### 圖析 (Phi 3:7–11)
+### 圖析 (Phi 3:7–11)
 
 
 - <rt>3:7a</rt> <RUBY><ruby><ruby>Ἀλλὰ<rt>But</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἅτινα<rt>whatever things</rt></ruby><rt>ὅστις, ἥτις</rt></ruby><rt>R-NPN</rt></RUBY>)S <RUBY><ruby><ruby>**ἦν**<rt>were</rt></ruby><rt>εἰμί</rt></ruby><rt>V-IAI-3S</rt></RUBY> (<RUBY><ruby><ruby>μοι<rt>to me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>κέρδη,<rt>gain,</rt></ruby><rt>κέρδος</rt></ruby><rt>N-NPN</rt></RUBY>)C 
@@ -46,7 +46,7 @@
 					- <rt>3:11a</rt> (<RUBY><ruby><ruby>εἴ<rt>if,</rt></ruby><rt>εἰ</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>πως<rt>by any means,</rt></ruby><rt>πως</rt></ruby><rt>ADV</rt></RUBY>)<mark>A2⁴</mark>
 				- <rt>3:11b</rt> <RUBY><ruby><ruby>**καταντήσω**<rt>I may attain</rt></ruby><rt>καταντάω</rt></ruby><rt>V-AAS-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐξανάστασιν<rt>resurrection</rt></ruby><rt>ἐξανάστασις</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out from</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν.¶<rt>dead.</rt></ruby><rt>νεκρός</rt></ruby><rt>A-GPM</rt></RUBY>)<mark>A3⁴</mark>
 
-#### 筆記 (Phi 3:7–11)
+### 筆記 (Phi 3:7–11)
 
 
 

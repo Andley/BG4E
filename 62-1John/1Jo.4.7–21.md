@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 4:7–12)
+### 圖析 (1Jo 4:7–12)
 
 
 - <rt>4:7a</rt> <RUBY><ruby><ruby>Ἀγαπητοί,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>**ἀγαπῶμεν**<rt>we may love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-1P</rt></RUBY> (<RUBY><ruby><ruby>ἀλλήλους,<rt>one another,</rt></ruby><rt>ἀλλήλων</rt></ruby><rt>C-APM</rt></RUBY>)C
@@ -28,11 +28,11 @@
 - <rt>4:12d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ‡<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY>)A <RUBY><ruby><ruby>*τετελειωμένη*<rt>perfected</rt></ruby><rt>τελειόω</rt></ruby><rt>V-RPP-NSF</rt></RUBY> <RUBY><ruby><ruby>**ἐστίν.**<rt>is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 
 
-#### 筆記 (1Jo 4:7–12)
+### 筆記 (1Jo 4:7–12)
 
 ---
 
-#### 圖析 (1Jo 4:13–16c)
+### 圖析 (1Jo 4:13–16c)
 
 
 - <rt>4:13a</rt> (<RUBY><ruby><ruby>ἐν<rt>By</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ°²<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A <RUBY><ruby><ruby>**γινώσκομεν**<rt>we know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAI-1P</rt></RUBY> 
@@ -53,11 +53,11 @@
 	- <rt>4:16c</rt> (<RUBY><ruby><ruby>ἣν°³<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASF</rt></RUBY>)C <RUBY><ruby><ruby>**ἔχει**<rt>has</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>as to</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν.<rt>us.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY>)A 
 
 
-#### 筆記 (1Jo 4:13–16c)
+### 筆記 (1Jo 4:13–16c)
 
 ---
 
-#### 圖析 (1Jo 4:16d–21)
+### 圖析 (1Jo 4:16d–21)
 - <rt>4:16d</rt> (<RUBY><ruby><ruby>ὁ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY>)C <RUBY><ruby><ruby>**ἐστίν,**<rt>is,</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 - <rt>4:16e</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby>*μένων*<rt>abiding</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπῃ<rt>love,</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-DSF</rt></RUBY><rt>]c</rt> } )<mark>S°⁴</mark> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY>)A <RUBY><ruby><ruby>**μένει,**<rt>abides,</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 - <rt>4:16f</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ°⁴<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby>**μένει.**<rt>abides.</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
@@ -86,7 +86,7 @@
 	- <rt>4:21b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby>*ἀγαπῶν*<rt>loving</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>τὸν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY><rt>]c</rt> } )S <RUBY><ruby><ruby>**ἀγαπᾷ**<rt>may love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAS-3S</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C
 
 
-#### 筆記 (4:16d–21)
+### 筆記 (4:16d–21)
 
 ---
 

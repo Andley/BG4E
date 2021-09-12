@@ -7,7 +7,7 @@
 
 ###  The Cases•格
 
-#### Nominative•主格
+### Nominative•主格
 - *Primary Uses (38-49)•主要功能 (37-48)*
 	- ➡(1) Subject (38-40)•主詞 (37-39)
 	- ➡(2) Predicate Nominative (40-48)•主格述詞 (39-47)
@@ -25,14 +25,14 @@
 	- (3) Nominative After a Preposition (62-64)•作介系詞受詞的主格 (62-63)
 	- (4) Nominative for Time (64)•表時距的主格 (63-64)
 
-#### Vocative•呼格
+### Vocative•呼格
 - *Direct Address (67-70)•直接的稱謂 (67-70)*
 	- ➡(1) Simple Address (67-68)•簡單的稱謂 (67-68) 
 	- (2) Emphatic (or, Emotional) Address (68-69)• 強調性(或情緒性)的稱謂 (68-69) 
 - *Exclamation (70)•表達驚嘆 (69)*
 - *Apposition (70-71)•表達同位 (69-70)*
 
-#### Genitive•所有格
+### Genitive•所有格
 - *Adjectival (78-107)•形容性用法 (77-109)*
 	- ✚(1) Descriptive Genitive (79-81)•1用作一般性的描述與修飾功能 (78-80)
 	- ➡(2) Possessive Genitive (81-83)•用作表達擁有 (80-82)
@@ -72,7 +72,7 @@
 	- (3) Genitive After Certain Nouns (135)•跟在名詞後面 (138-39)
 	- ➡(4) Genitive After Certain Prepositions (136)•跟在介系詞後面 (139)
 
-#### Dative•間接受格
+### Dative•間接受格
 - *Pure Dative Uses (140-53)•單純的間接受格用法 (144-57)*
 	- ➡(1) Dative Indirect Object (140-42)•用作間接受詞 (144-46)
 	- ➡(2) Dative of Interest (142-44)•表達與利益有關的接受者 (146-48)
@@ -107,7 +107,7 @@
 	- (3) Dative After Certain Adjectives (174-75)•跟在形容詞後面 (180)
 	- ➡(4) Dative After Certain Prepositions (175)•跟在介系詞後面 (180-81)
 
-#### Accusative•直接受格
+### Accusative•直接受格
 - *Substantival Uses of the Accusative (179-99)•作實名詞用 (185-206)*
 	- ➡(1) Accusative Direct Object (179-81)•跟在動詞後面作直接受詞 (185-87)
 	- ➡(2) Double Accusatives (181-89)•在有雙重受詞的情況 (187-95)
@@ -233,7 +233,7 @@
 
 ### Semantic Categories: Major Classes•語意類別：主要分類
 
-#### A Personal Pronouns (320-25)•人稱代名詞 (335-40)
+### A Personal Pronouns (320-25)•人稱代名詞 (335-40)
 - ➡(1) Nominative Uses (321-23)•主格用法 (335-38)
 	- (a) Emphasis (321-23)•用來強調 (335 回 36)
 		- (1) Contrast (321-22)•用以對此 (336-37)
@@ -244,7 +244,7 @@
 	- (b) Possessive (324)•表達擁有 (339)
 	- (c) Reflexive (324-25)•表達反身的動作 (339-40)
 
-#### B Demonstrative Pronouns (325-35)•指示代名詞 (340-50)
+### B Demonstrative Pronouns (325-35)•指示代名詞 (340-50)
 - ➡(1) Regular Uses (as Demonstratives) (325-28)•一般用法(作為指稱的功能) (340-45)
 	- (a) οὗτος (Proximity) (326-27)•οὗτος (指在近處的人/事/物) (341-42)
 	- (b) ἐκεῖνος (Remoteness) (327-28)•ἐκεῖνος (指在遠處的人/事/物) (342-43)
@@ -258,7 +258,7 @@
 	- (c) Conceptual Antecedent or Postcedent (333-35)•追溯前(後)述的概念 (348-50)
 
 
-#### C Relative Pronouns (335-45)•關係代名詞 (351-60)
+### C Relative Pronouns (335-45)•關係代名詞 (351-60)
 - ➡(1) ὅς (336-43)•ὅς (351)
 	- (a) Regular Use (336-37)•一般用法 (351-52)
 	- (b) "Unusual" Uses (337-43)•不尋常的用法 (352-60)
@@ -274,26 +274,26 @@
 	- (b) Qualitative (344)•定位的含意 (360)
 	- (c) Confusion with ὅς (344-45)•與 ὅς 混用 (360)
 
-####  D Interrogative Pronouns ask a question (345-46)•疑問代名詞 (360-62)
+###  D Interrogative Pronouns ask a question (345-46)•疑問代名詞 (360-62)
 - ➡(1) τίς & τί (345-46)•(361)
 - (2) ποῖος & πόσος (346)•(362)
 
-#### E Indefinite Pronouns (347)•不定代名詞 (362-63)
+### E Indefinite Pronouns (347)•不定代名詞 (362-63)
 - ➡(1) Substantival (347)•作實名詞用 (363)
 - ➡(2) Adjectival (347)•作形容詞用 (363)
 
-#### F Possessive Pronouns (Adjectives) (348):•「擁有」代名詞 (363-64) (364)
+### F Possessive Pronouns (Adjectives) (348):•「擁有」代名詞 (363-64) (364)
 - ➡(1) Possessive Adjective (ἐμός, σός, ἡμέτερος, ὑμέτερος) lexicalizes possession (348)•藉著表達「擁有」的形容詞 (ἐμός, σός, ἡμέτερος, ὑμέτερος) 來表達 (364)
 - ➡(2) Personal Pronoun in Genitive (αὐτοῦ) grammaticalizes possession (348)•藉著人稱代名詞的有格 (αὐτοῦ) 用文法規則來表達 (364)
 
-#### G Intensive Pronoun (348-50)•用為強調的代名詞 (364-65)
+### G Intensive Pronoun (348-50)•用為強調的代名詞 (364-65)
 - ➡(1) As an Intensive Pronoun (349)•作強調功能的代名詞 (364-65)
 - ➡(2) As an Identifying Adjective (349-50)•作強調功能的形容詞 (365)
 - ➡(3) As a Third Person Personal Pronoun (348)•作第三人稱的代名詞 (365)
 
-#### H Reflexive Pronouns (350-51)•反身代名詞 (366-67)
+### H Reflexive Pronouns (350-51)•反身代名詞 (366-67)
 
-#### I Reciprocal Pronouns (351)•相互代名詞 (367)
+### I Reciprocal Pronouns (351)•相互代名詞 (367)
 
 ### Lexico-Syntactic Categories: Major Terms•按照字彙一一句法分類：主要詞彙 (368)
 - (A) ἀλλήλων (352)•(368)
@@ -341,7 +341,7 @@
 
 ### Person and Number•人稱與數
 
-#### Person (391-99)•人稱 (411-19)
+### Person (391-99)•人稱 (411-19)
 - (A) First Person for Third Person ("I" = "Someone") (391-92)•以第一人稱代替第三人稱 (411-12)
 - (B) Second Person for Third Person ("You" = "Someone")? (392-93)•以第二人稱代替第三人稱 (412-13)
 - (C) First Person Plural Constructions (393-99)•第一人稱複數的用法 (413-19)
@@ -349,7 +349,7 @@
 	- ➡(2) Inclusive "We" (Literary Plural) (397-99)•包容性的「我們」 (418)
 	- ➡(3) Exclusive "We" (397-99)•排他性的「我們」 (418-19)
 
-#### Number (399-406)•數 (420-26)
+### Number (399-406)•數 (420-26)
 - (A) Neuter Plural Subject with Singular Verb (399-400)•中性複數主詞使用單數動詞 (420-21)
 - (B) Collective Singular Subject with Plural Verb (400-401)•集合(單數)名詞的主詞使用複數動詞 (421)
 - (C) Compound Subject with Singular Verb (401-402)•裡合主詞使用單數動詞 (421-22)
@@ -358,13 +358,13 @@
 
 ### Voice•語態
 
-#### Active (410-14)•主動 (431-35)
+### Active (410-14)•主動 (431-35)
 - (A) Simple Active (411)•簡單的主動 (431)
 - (B) Causative Active (a.k.a. Ergative) (411-12)•驅使性主動 (432-33)
 - (C) Stative Active (412-13)•靜態描述性主動 (433-34)
 - (D) Reflexive Active (413-14)•有反身動作含意的主動 (434-35)
 
-#### Middle (414-30)•關身 (435-52)
+### Middle (414-30)•關身 (435-52)
 - (A) Direct Middle (a.k.a. Reflexive or Direct Reflexive) (416-18)•直接關身 (437-39)
 - (B) Redundant Middle (418-19)•累贅的關身用法 (439-40)
 - (C) Indirect Middle (a.k.a. Indirect Reflexive, Benefactive, Intensive, Dynamic) (419-23)•間接關身 (440-44)
@@ -373,7 +373,7 @@
 - (F) Reciprocal Middle (427)•相互性關身 (449)
 - (G) Deponent Middle (428-30)•作為異態動詞的關身 (449-52)
 
-#### Passive (431-41)•被動 (452-61)
+### Passive (431-41)•被動 (452-61)
 - (A) Passive Constructions (431-39)•被動的結構 (453)
 	- ➡(1) The Passive With and Without Expressed Agency (431-38)•被動動詞帶有或沒有帶動作的施做者 (453-60)
 		- (a) With Agency Expressed (431-35)•帶有動作的施做者 (453)
@@ -391,7 +391,7 @@
 
 ### Moods•語氣
 
-#### Indicative (448-61)•直說語氣 (471-84)
+### Indicative (448-61)•直說語氣 (471-84)
 - ➡(1) Declarative Indicative (449)•宣告性的直說語氣 (471-72)
 - ➡(2) Interrogative Indicative (449-50)•詢問性的直說語氣 (472-73)
 - ➡(3) Conditional Indicative (450-51)•條件性的直說語氣 (473-74)
@@ -408,7 +408,7 @@
 	- (b) Epexegetical (459-60)•作補述語 (482)
 	- (c) Causal (Adverbial) (460-61)•表達原因 (483-84)
 
-#### Subjunctive (461-80)•假設語氣 (484-504)
+### Subjunctive (461-80)•假設語氣 (484-504)
 - ➡(1) In Independent Clauses (463-69)•在獨立子句中 (486-93)
 	- (a) Hortatory Subjunctive (464-65)•勸服性的假設語氣 (487-88)
 	- (b) Deliberative Subjunctive (a.k.a. Dubitative) (465-68)•刻意提間的假設語氣 (488-91)。
@@ -433,13 +433,13 @@
 	- (e) Subjunctive in Indefinite Relative Clause (478-79)•在不定關係子句中的假設語氣用法 (502-03)
 	- (f) Subjunctive in Indefinite Temporal Clause (479-80)•在不定時間副詞子句中的假設語氣用法 (503-04)
 
-#### Optative (480-84)•祈願語氣 (504-09)
+### Optative (480-84)•祈願語氣 (504-09)
 - ➡(1) Voluntative Optative (a.k.a. Optative of Obtainable Wish, Volitive Optative) (481-83)•表達意願的祈願語氣 (505-07)
 - ➡(2) Oblique Optative (483)•帶出間述句的祈願語氣 (507-08)
 - (3) Potential Optative (483-84)•表達出可能性的祈願語氣 (508)
 - (4) Conditional Optative (484)•表達出條件性的祈願語氣 (508-09)
 
-#### Imperative (485-93)•命令語氣 (509-20)
+### Imperative (485-93)•命令語氣 (509-20)
 - ➡(1) Command (485-86)•命令 (510-11)
 - ➡(2) Prohibition (487)•禁止 (511-12)
 - ➡(3) Request (a.k.a. Entreaty, Polite Command) (487-88)•請求 (512-13)
@@ -451,7 +451,7 @@
 
 ### Tense•時態
 
-#### Present (513-39)•現在時態 (542-67)
+### Present (513-39)•現在時態 (542-67)
 - (I) Narrow-Band Presents (516-19)•狹義的現在時態用法 (542-45)
 	- (A) Instantaneous Present (a.k.a. Aoristic or Punctiliar Present) (517-18)•表達在說話的當下已經完成的動作 (543-44)
 	- (B) Progressive Present (a.k.a. Descriptive Present) (518-19)•表達一個已經開始了的動作 (544-45)
@@ -471,7 +471,7 @@
 		- ➡(2) Mostly Futuristic (Ingressive-Futuristic?) (537)•大致的將來(從此開始的一一未來的?) (564-65)
 	- (E) Present Retained in Indirect Discourse (537-39)•現在時態保留在間接引述句裡 (565-67)
 
-#### Imperfect (540-53)•不完成時態 (556-82)
+### Imperfect (540-53)•不完成時態 (556-82)
 - (I) Narrow-Band Imperfects (541-45)•狹義的不完成時態用法 (569-74)
 	- (A) Instantaneous Imperfect (a.k.a. Aoristic or Punctiliar Imperfect) (542-43)•用來生動描繪一個過去的事件/狀態 (570-71)
 	- (B) Progressive (Descriptive) Imperfect (543-44)•表達一個在過去已經進行了一段時間的動作 (571-72)
@@ -486,7 +486,7 @@
 		- (2) Not Begun, but About/Desired to be Attempted (Voluntative/Tendential) (551-52)•還沒有開始、卻打算即將開始的動作 (580-81)
 	- (C) Imperfect Retained in Indirect Discourse (552-53)•不完成時態保留在間接引述句裡 (581-82)
 
-#### Aorist (554-65)•簡單過去時態 (583-95)
+### Aorist (554-65)•簡單過去時態 (583-95)
 - (A) Constative (Complexive, Punctiliar, Comprehensive, Global) Aorist (557-58)•單純的過去 (586-87)
 - (B) Ingressive (Inceptive, Inchoative) Aorist (558-59)•表達在過去某時刻才開始的動作 (587-89)
 - (C) Consummative (Culminative, Ecbatic, Effective) Aorist (559-61)•簡述、綜論一個已經結束的動作 (589-92)
@@ -495,14 +495,14 @@
 - (F) Proleptic (Futuristic) Aorist (563-64)•用以表達一個使預言/預期成就的行動〔用以表達未來事件) (594-95)
 - (G) Immediate Past Aorist/Dramatic Aorist (564-65)•用以表達剛才發生的/戲劇性的事 (595)
 
-#### Future (566-71)•未來時態 (596-602)
+### Future (566-71)•未來時態 (596-602)
 - (A) Predictive Future (568)•表達單純的未來 (597-98)
 - (B) Imperatival Future (569-70)•傳遞命令語氣的內容 (599-600)
 - (C) Deliberative Future (570)•審議性提問 (600-01)
 - (D) Gnomic Future (571)•表達一個格言的內容 (601)
 - (E) Miscellaneous Subjunctive Equivalents (571)•與設假設法動詞連用的諸多雜例 (602)
 
-#### Perfect (572-82)•完成時態 (603-04)
+### Perfect (572-82)•完成時態 (603-04)
 - (A) Intensive Perfect (a.k.a. Resultative Perfect) (574-76)•用以強調一個先前行動所產生、直到如今仍然持續的結果/效果 (606-08)
 - (B) Extensive Perfect (a.k.a. Consummative Perfect) (577)•用以強調一個先前運作、導致現今結果/效果的行動 (608-09)
 - (C) Aoristic Perfect (a.k.a. Dramatic or Historical Perfect) (578-79)•用以生動表達一個過去的行動 (609-10)
@@ -511,7 +511,7 @@
 - (F) Proleptic (Futuristic) Perfect (581)•用以表達一個使預言/預期成就的行動 (613)
 - (G) Perfect of Allegory (581-82)•用以凸顯舊約引文的預表特徵 (613-14)
 
-#### Pluperfect (583-86)•過去完成時態 (614-19)
+### Pluperfect (583-86)•過去完成時態 (614-19)
 - (A) Intensive Pluperfect (Resultative Pluperfect) (584-85)•用以強調在過去某個時段裡、持續存在的結果/狀態 (615-17)
 - (B) Extensive Pluperfect (Consummative Pluperfect) (585-86)•用以強調在過去某個時段裡、已經完成的行動 (617-18)
 - (C) Pluperfect with a Simple Past Force (586)•表達單純的過去 (618-19)
@@ -522,7 +522,7 @@
 
 ### Semantic Categories•語意的類別
 
-#### Adverbial (590-99)•引進副詞子句的用法 (623-34)
+### Adverbial (590-99)•引進副詞子句的用法 (623-34)
 - (A) Purpose (590-92)•表達目的 (623-25)
 - (B) Result (592-94)•表達結果 (625-27)
 - (C) Time (594-96)•表達時間 (627-30)
@@ -533,26 +533,26 @@
 - (E) Means (597-98)•表達方法 (631-32)
 - (F) Complementary (Supplementary) (598-99)•作為輔助動詞 (632-34)
 
-#### Substantival (600-609)•作實名詞用 (634-42)
+### Substantival (600-609)•作實名詞用 (634-42)
 - (A) Subject (600-601)•作主詞 (634-36)
 - (B) Direct Object (601-603)•作直接受詞 (636-37)
 - (C) Indirect Discourse (603-605)•引進間接引述句 (638-40)
 - (D) Appositional (606-607)•作同位詞 (640-42)
 - (E) Epexegetical (607)•作補述語 (642)
 -
-#### Independent (608-609)•獨立的用法 (642-44)
+### Independent (608-609)•獨立的用法 (642-44)
 - (A) Imperatival (608)•傳遞命令 (643)
 - (B) Absolute (608-609)•作簡短問候語 (643-44)
 
 ### Structural Categories•按照結構的分類
 
-#### I Anarthrous Infinitives (609-10)•不帶冠詞的不定詞 (644-45)
+### I Anarthrous Infinitives (609-10)•不帶冠詞的不定詞 (644-45)
 - (A) Simple Infinitive (609)•單純的不定詞 (644)
 - (B) Πρίν (ἤ) + Infinitive (609)•Πρίν (ἤ) + 不定詞 (644)
 - (C) Ὡς + Infinitive (609)•`Ως + 不定詞 (644)
 - (D) ῞Ωστε + Infinitive (610)•"QoτE+ 不定詞 (644-45)
 
-#### II Articular Infinitives (610-11)•帶冠詞的不定詞 (645-46)
+### II Articular Infinitives (610-11)•帶冠詞的不定詞 (645-46)
 - A Without Governing Preposition (610)•前面不帶介系詞的不定詞 (645)
 	- ➡(1) Nominative Articular Infinitive (610)•帶有主格冠詞的不定詞 (645)
 	- ➡(2) Accusative Articular Infinitive (610)•帶有直接受格冠詞的不定詞 (645)

@@ -1,4 +1,4 @@
-#### 圖析 (Php 1:27–30)
+### 圖析 (Php 1:27–30)
 
 - <rt>1:27a</rt> (<RUBY><ruby><ruby>μόνον<rt>Only</rt></ruby><rt>μόνος</rt></ruby><rt>A-ASN</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἀξίως<rt>worthily</rt></ruby><rt>ἀξίως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>gospel</rt></ruby><rt>εὐαγγέλιον</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A2 <RUBY><ruby><ruby>**πολιτεύεσθε,**<rt>do conduct yourselves,</rt></ruby><rt>πολιτεύω</rt></ruby><rt>V-PNM-2P</rt></RUBY> 
 	- <rt>1:27b</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>εἴτε<rt>whether</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>*ἐλθὼν*<rt>having come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>*ἰδὼν*<rt>having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>}A1 {<RUBY><ruby><ruby>εἴτε<rt>or</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>*ἀπὼν*<rt>being absent,</rt></ruby><rt>ἄπειμι</rt></ruby><rt>V-PAP-NSM</rt></RUBY>}A2 <RUBY><ruby><ruby>**ἀκούω**<rt>I shall hear</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-PAS-1S</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the things</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)C 
@@ -20,7 +20,7 @@
 
 
 
-#### 筆記 (Php 1:27–30)
+### 筆記 (Php 1:27–30)
 - 1:27a
 	- 無連接詞 (Ø)，可以當作是分段的記號—不過語意上還是延續上文的論述。
 	- μόνον 中性單數直接受格當副詞使用 (W 199–205 = 華 206–13)，意思是「僅、只」(BAGD s.v. μόνος)。放在句，表示強調。

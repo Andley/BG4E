@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 1:5–10)
+### 圖析 (1Jo 1:5–10)
 
 - <rt>1:5a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἔστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>message</rt></ruby><rt>ἀγγελία</rt></ruby><rt>N-NSF</rt></RUBY>)C 
 	- <rt>1:5b</rt> <RUBY><ruby><ruby>ἣν<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASF</rt></RUBY> <RUBY><ruby><ruby>**ἀκηκόαμεν**<rt>we have heard</rt></ruby><rt>ἀκούω</rt></ruby><rt>V-2RAI-1P</rt></RUBY> (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)A
@@ -33,7 +33,7 @@
 - <rt>1:10d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἔστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν.¶<rt>us.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY>)A
 
 
-#### 筆記 (1Jo 1:5–10)
+### 筆記 (1Jo 1:5–10)
 
 
 ---

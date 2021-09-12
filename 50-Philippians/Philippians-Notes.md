@@ -48,7 +48,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 - Final Greetings
 	- [Phi 4.21–23](Phi4.21–23.md)
 
-#### 出處縮寫
+### 出處縮寫
 | 縮寫 | 出處 |
 |:--:| -- |
 |W ‖ 華 | Wallace, Daniel B. *Greek Grammar Beyond the Basics*. Grand Rapids: Zondervan, 1996. = 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。|
@@ -56,7 +56,7 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (T
 |M | Mathewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar: Syntax for Students of the New Testament*. Grand Rapids, MI: Baker Academic, 2016.|
 |R | Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis*. Peabody, MA.: Hendrickson, 2010.|
 
-#### 參考書目
+### 參考書目
 - Varner, William. _Philippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 - Hellerman, Joseph H. _Philippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
 - Greenlee, J. Harold. _An Exegetical Summary of Philippians_. ESS. Dallas, TX.: SIL International, 2008.

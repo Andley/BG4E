@@ -1,5 +1,5 @@
 
-#### 圖析 (Php 1:12–14)
+### 圖析 (Php 1:12–14)
 
 
 - <rt>1:12a</rt> { <RUBY><ruby><ruby>*Γινώσκειν*<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)s</rt> }C <RUBY><ruby><ruby>**βούλομαι,**<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
@@ -16,7 +16,7 @@
 
 
 
-#### 筆記 (Php 1:12–14)
+### 筆記 (Php 1:12–14)
 - 1:12–14 是一個句子，主要子句是 1:12a「我要你們知道」，而知道的內容則是 1:12b 的 ὅτι 從屬子句。
 - 1:12a
 	- 對等連接詞 δὲ 表達「進展 development」(R 31)，代表推進到下一個話題。

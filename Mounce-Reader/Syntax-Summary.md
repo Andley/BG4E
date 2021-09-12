@@ -221,7 +221,7 @@
 
 ### 主格 (Nominative)
 
-#### A. 主要用法 (Primary Uses of the Nominative)
+### A. 主要用法 (Primary Uses of the Nominative)
 
 ##### 1. 主詞 (Subject)
 
@@ -239,7 +239,7 @@
 
 - <rt>太3:1</rt> <RUBY><ruby><ruby>παραγίνεται<rt>comes</rt></ruby><rt>παραγίνομαι</rt></ruby><rt>V-PNI-3S</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννης<rt>John</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>βαπτιστὴς</mark><rt>Baptist‚</rt></ruby><rt>Βαπτιστής</rt></ruby><rt>N-NSM</rt></RUBY> <rt>有<mark>施洗的</mark>約翰出來</rt>
 
-#### B. 獨立用法 (Grammatically Independent Uses of the Nominative)
+### B. 獨立用法 (Grammatically Independent Uses of the Nominative)
 
 ##### 4. 獨立主格 (Nominative Absolute)
 
@@ -266,7 +266,7 @@
 
 - <rt>羅7:24</rt> <RUBY><ruby><ruby>Ταλαίπωρος<rt>O wretched</rt></ruby><rt>ταλαίπωρος</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐγὼ<rt>I am</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby><mark>ἄνθρωπος·</mark><rt>man!</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NSM</rt></RUBY> <rt>我真是苦阿！</rt> 
 
-#### C. 取代斜格 (Nominatives in Place of Oblique Cases)
+### C. 取代斜格 (Nominatives in Place of Oblique Cases)
 
 ##### 9. 稱號主格 (Nominative of Appellation)
 
@@ -287,7 +287,7 @@
 
 ### 所有格 (Genitive)
 
-#### A. 形容用法 (Adjectival Genitive)
+### A. 形容用法 (Adjectival Genitive)
 
 ##### 1. 描述的所有格 (descriptive Genitive)
 
@@ -359,7 +359,7 @@
 
 - <rt>太9:34</rt> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>ἄρχοντι<rt>prince</rt></ruby><rt>ἄρχων</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῶν</mark><rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby><mark>δαιμονίων</mark><rt>demons</rt></ruby><rt>δαιμόνιον</rt></ruby><rt>N-GPN</rt></RUBY> <rt><mark>鬼的</mark>王</rt> 
 
-#### B. 分離用法 (Ablative Genitive)
+### B. 分離用法 (Ablative Genitive)
 
 ##### 12. 隔開的所有格 (Genitive of Separation)
 
@@ -382,7 +382,7 @@
 
 - <rt>約14:28</rt>  <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>μείζων<rt>greater than</rt></ruby><rt>μέγας</rt></ruby><rt>A-NSM-C</rt></RUBY> <RUBY><ruby><ruby><mark>μού</mark><rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>ἐστιν.<rt>is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> <rt>父是比<mark>我</mark>大的</rt> 
 
-#### C. 動詞用法 (Verbal Genitive [Genitive Related to a Verbal Noun])
+### C. 動詞用法 (Verbal Genitive [Genitive Related to a Verbal Noun])
 
 ##### 14. 主詞所有格 (Subjective Genitive)
 
@@ -405,7 +405,7 @@
 
 - <rt>羅5:5</rt> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Θεοῦ</mark><rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἐκκέχυται<rt>has been poured out</rt></ruby><rt>ἐκχέω</rt></ruby><rt>V-RPI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>into</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>καρδίαις<rt>hearts</rt></ruby><rt>καρδία</rt></ruby><rt>N-DPF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>[the] Spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>Ἁγίου<rt>Holy‚</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-GSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>δοθέντος<rt>having been given</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-APP-GSN</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν.<rt>to us.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DP</rt></RUBY> <rt>所賜給我們的聖靈將<mark>神的</mark>愛澆灌在我們心裡</rt> 
 
-#### D. 副詞用法 (Adverbial Genitive)
+### D. 副詞用法 (Adverbial Genitive)
 
 ##### 17. 時間 (Genitive of Time)
 
@@ -421,7 +421,7 @@
 
 - <rt>羅8:17</rt> <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τέκνα‚<rt>children‚</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι·<rt>heirs‚</rt></ruby><rt>κληρονόμος</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι<rt>heirs</rt></ruby><rt>κληρονόμος</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>συνκληρονόμοι<rt>joint‑heirs</rt></ruby><rt>συγκληρονόμος</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>Χριστοῦ‚</mark><rt>of Christ‚</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <rt>既是兒女，便是後嗣，就是神的後嗣，<mark>和基督</mark>同作後嗣</rt> 
 
-#### E. 在某些字之後 (After Certain Words)
+### E. 在某些字之後 (After Certain Words)
 
 ##### 19. 在某些動詞之後，作為直接受詞 (as a Direct Object)
 
@@ -434,7 +434,7 @@
 
 ### 間接受格 (Dative)
 
-#### A. 單純用法 (Pure Dative Uses)
+### A. 單純用法 (Pure Dative Uses)
 
 ##### 1. 間接受詞的間接受格 (Dative of Indirect Object)
 
@@ -463,7 +463,7 @@
 
 - <rt>路1:47</rt>  <RUBY><ruby><ruby>ἠγαλλίασεν<rt>rejoices</rt></ruby><rt>ἀγαλλιάω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>πνεῦμά<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>in</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God‚</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῷ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>Σωτῆρί</mark><rt>Savior</rt></ruby><rt>σωτήρ</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου‚<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <rt>我靈以神我的<mark>救主</mark>為樂</rt> 
 
-#### B. 位置用法 (Local Dative Uses)
+### B. 位置用法 (Local Dative Uses)
 
 ##### 5. 表示範圍的間接受格 (Dative of Sphere)
 
@@ -479,7 +479,7 @@
 
 - <rt>太24:20</rt> <RUBY><ruby><ruby>προσεύχεσθε<rt>Pray</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γένηται<rt>might be</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADS-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>φυγὴ<rt>flight</rt></ruby><rt>φυγή</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>χειμῶνος<rt>in winter‚</rt></ruby><rt>χειμών</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>μηδὲ<rt>nor</rt></ruby><rt>μηδέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>σαββάτῳ.</mark><rt>on a Sabbath.</rt></ruby><rt>σάββατον</rt></ruby><rt>N-DSN</rt></RUBY> <rt>你們應當祈求，叫你們逃走的時候，不遇見冬天或是<mark>安息日</mark></rt> 
 
-#### C. 憑藉用法 (Instrumental Dative Uses)
+### C. 憑藉用法 (Instrumental Dative Uses)
 
 ##### 7. 關聯的、陪伴的、隨伴的間接受格 (Dative of Association/Accompaniment)
 
@@ -517,7 +517,7 @@
 
 - <rt>羅4:20</rt> <RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>διεκρίθη<rt>he did waver</rt></ruby><rt>διακρίνω</rt></ruby><rt>V-API-3S</rt></RUBY> <RUBY><ruby><ruby><mark>τῇ</mark><rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby><mark>ἀπιστίᾳ</mark><rt>through unbelief‚</rt></ruby><rt>ἀπιστία</rt></ruby><rt>N-DSF</rt></RUBY> <rt>沒有<mark>因不信</mark>心裡起疑惑</rt>  
 
-#### D. 在某些字之後 (The Uses of the Dative After Certain Words)
+### D. 在某些字之後 (The Uses of the Dative After Certain Words)
 
 ##### 12. 直接受詞的間接受格 (Dative of Interest)
 
@@ -538,7 +538,7 @@
 
 ### 直接受格 (Accusative)
 
-#### A. 名詞用法 (Substantival Uses of the Accusative)
+### A. 名詞用法 (Substantival Uses of the Accusative)
 
 ##### 1. 直接受詞的直接受格 (Accusative of Direct Object)
 
@@ -583,7 +583,7 @@
 - <rt>徒16:31</rt>  <RUBY><ruby><ruby>Πίστευσον<rt>Believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>on</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Κύριον<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>Ἰησοῦν</mark><rt>Jesus‚</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σωθήσῃ<rt>you will be saved‚</rt></ruby><rt>σῴζω</rt></ruby><rt>V-FPI-2S</rt></RUBY> <RUBY><ruby><ruby>σὺ<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>οἶκός<rt>household</rt></ruby><rt>οἶκος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>σου.<rt>of you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <rt>當信主<mark>耶穌</mark>，你和你一家都必得救</rt>  
 
 
-#### B. 副詞用法 (Adverbial Uses of the Accusative)
+### B. 副詞用法 (Adverbial Uses of the Accusative)
 
 ##### 6. 副詞的、方式的直接受格 (Adverbial Accusative, Accusative of Manner)
 
@@ -609,7 +609,7 @@
 
 ## 冠詞 (The Article)
 
-#### A. 作為代名詞 (As a Pronoun)⸺部分獨立用法 (Partially Independent Use)
+### A. 作為代名詞 (As a Pronoun)⸺部分獨立用法 (Partially Independent Use)
 
 ##### 1. 人稱代名詞 (Personal Pronoun)
 
@@ -626,7 +626,7 @@
 - <rt>弗5:25</rt> <RUBY><ruby><ruby>Οἱ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-VPM</rt></RUBY> <RUBY><ruby><ruby>ἄνδρες‚<rt>Husbands‚</rt></ruby><rt>ἀνήρ</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπᾶτε<rt>love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby><mark>τὰς</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>γυναῖκας‚<rt>wives‚</rt></ruby><rt>γυνή</rt></ruby><rt>N-APF</rt></RUBY> <rt>你們作丈夫的，要愛<mark>你們的</mark>妻子</rt> 
 
 
-#### B. 帶出名詞 (with Substantive)⸺修飾用法 (Modifying Use)
+### B. 帶出名詞 (with Substantive)⸺修飾用法 (Modifying Use)
 
 ##### 4. 單純指認 (Simple Identification)
 
@@ -668,7 +668,7 @@
 
 - <rt>太18:17</rt> <RUBY><ruby><ruby>ἔστω<rt>let him be</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAM-3S</rt></RUBY> <RUBY><ruby><ruby>σοι<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY> <RUBY><ruby><ruby>ὥσπερ<rt>as</rt></ruby><rt>ὥσπερ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐθνικὸς<rt>pagan</rt></ruby><rt>ἐθνικός</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>τελώνης.<rt>tax collector.</rt></ruby><rt>τελώνης</rt></ruby><rt>N-NSM</rt></RUBY> <rt>就看他像外邦人和稅吏一樣</rt>  
 
-#### C. 使某字成為名詞 (As a Substantiver)
+### C. 使某字成為名詞 (As a Substantiver)
 
 - <rt>太8:28</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐλθόντος<rt>having come</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-2AAP-GSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>He</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby><mark>τὸ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>πέραν<rt>other side‚</rt></ruby><rt>πέραν</rt></ruby><rt>ADV</rt></RUBY> <rt>耶穌既渡到<mark>那</mark>邊去</rt>  
 
@@ -684,7 +684,7 @@
 
 - <rt>林前14:16</rt> <RUBY><ruby><ruby>πῶς<rt>how</rt></ruby><rt>πως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἐρεῖ<rt>will he say</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-FAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>τὸ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>Ἀμήν<rt>Amen</rt></ruby><rt>ἀμήν</rt></ruby><rt>HEB</rt></RUBY> <rt>怎能說阿們呢？</rt>  
 
-#### D. 標示某種功能 (As a Function Marker)
+### D. 標示某種功能 (As a Function Marker)
 
 ##### 12. 標示形容詞的位置 (to Denote Adjectival Positions)
 
@@ -718,7 +718,7 @@
 
 - <rt>太12:8</rt> <RUBY><ruby><ruby>κύριος<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σαββάτου<rt>Sabbath</rt></ruby><rt>σάββατον</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου.¶<rt>Man.</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-GSM</rt></RUBY> <rt>因為人子是安息日的主。</rt>  
 
-#### E. 無冠詞 (Absence of the Article)
+### E. 無冠詞 (Absence of the Article)
 
 ##### 20. 非特定 (Indefinite)
 
@@ -738,7 +738,7 @@
 
 ## 語態 (Voice)
 
-#### A. 主動語態 (Active Voice)
+### A. 主動語態 (Active Voice)
 
 ##### 1. 簡單主動 (Simple Active)
 
@@ -761,7 +761,7 @@
 - <rt>提前4:7</rt> <RUBY><ruby><ruby><mark>γύμναζε</mark><rt>Train</rt></ruby><rt>γυμνάζω</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>rather</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σεαυτὸν<rt>yourself</rt></ruby><rt>σεαυτοῦ</rt></ruby><rt>F-2ASM</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐσέβειαν·<rt>godliness.</rt></ruby><rt>εὐσέβεια</rt></ruby><rt>N-ASF</rt></RUBY> <rt>在敬虔上<mark>操練</mark>自己</rt>  
 
 
-#### B. 關身語態 (Middle Voice)
+### B. 關身語態 (Middle Voice)
 
 ##### 1. 直接的、反身的、直接反身的關身 (Direct/Reflexive/Direct Reflexive Middle)
 
@@ -786,7 +786,7 @@
 
 ##### 5. 關身形主動意 (Deponent Middle)
 
-#### C. 被動語態 (Passive Voice)
+### C. 被動語態 (Passive Voice)
 
 ##### 1. 簡單被動 (Simple Passive)
 
@@ -802,7 +802,7 @@
 
 ## 語氣 (Mood)
 
-#### A. 直說語氣 (Indicative Mood)
+### A. 直說語氣 (Indicative Mood)
 
 
 ##### 1. 宣告 (Declarative Indicative)
@@ -837,7 +837,7 @@
 - <rt>太19:18</rt> <RUBY><ruby><ruby>Οὐ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>φονεύσεις‚</mark><rt>shall you murder‚</rt></ruby><rt>φονεύω</rt></ruby><rt>V-FAI-2S</rt></RUBY> <RUBY><ruby><ruby>Οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>μοιχεύσεις‚</mark><rt>shall you commit adultery‚</rt></ruby><rt>μοιχεύω</rt></ruby><rt>V-FAI-2S</rt></RUBY> <RUBY><ruby><ruby>Οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>κλέψεις‚</mark><rt>shall you steal‚</rt></ruby><rt>κλέπτω</rt></ruby><rt>V-FAI-2S</rt></RUBY> <RUBY><ruby><ruby>Οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>ψευδομαρτυρήσεις‚</mark><rt>shall you bear false witness‚</rt></ruby><rt>ψευδομαρτυρέω</rt></ruby><rt>V-FAI-2S</rt></RUBY> <rt>不可<mark>殺人</mark>；不可<mark>姦淫</mark>；不可<mark>偷盜</mark>；不可<mark>作假見證</mark></rt>  
 
 
-#### B. 假設語氣 (Subjunctive Mood)
+### B. 假設語氣 (Subjunctive Mood)
 
 
 ##### 1. 勸告、意願 (Hortatory/Volitive Subjunctive)
@@ -927,7 +927,7 @@
 - <rt>約13:38</rt> <RUBY><ruby><ruby>οὐ<rt>no</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἀλέκτωρ<rt>[the] rooster</rt></ruby><rt>ἀλέκτωρ</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>φωνήσῃ<rt>will crow‚</rt></ruby><rt>φωνέω</rt></ruby><rt>V-AAS-3S</rt></RUBY> <RUBY><ruby><ruby>ἕως<rt>until</rt></ruby><rt>ἕως</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀρνήσῃ</mark><rt>you will deny</rt></ruby><rt>ἀρνέομαι</rt></ruby><rt>V-FDI-2S</rt></RUBY> <RUBY><ruby><ruby>με<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby>τρίς.¶<rt>three times.</rt></ruby><rt>τρίς</rt></ruby><rt>ADV</rt></RUBY> <rt>雞叫以先，你要三次不<mark>認</mark>我。</rt>  
 
 
-#### C. 期望語氣 (Optative Mood)
+### C. 期望語氣 (Optative Mood)
 
 ##### 1. 意願的、意欲的、可達到之願望的期望語氣 (Voluntative/Volitative Optative, Optative of Obtainable Wish)
 
@@ -940,7 +940,7 @@
 - <rt>徒17:18</rt> <RUBY><ruby><ruby>τινες<rt>some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY> <RUBY><ruby><ruby>ἔλεγον·<rt>were saying‚</rt></ruby><rt>λέγω</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>What</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>‑</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark>θέλοι</mark><rt>may desire</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAO-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>σπερμολόγος<rt>babbler</rt></ruby><rt>σπερμολόγος</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>οὗτος<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSM</rt></RUBY> <RUBY><ruby><ruby>λέγειν;<rt>to say?</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>有的說：這胡言亂語的<mark>要</mark>說甚麼？</rt>  
 
 
-#### D. 命令語氣 (Imperative Mood)
+### D. 命令語氣 (Imperative Mood)
 
 ##### 1. 命令 (Command)
 
@@ -980,7 +980,7 @@
 
 ### 現在式時態形式 (Present Tense-Form)
 
-#### A. 短期的現在式 (Narrow-Band Presents)
+### A. 短期的現在式 (Narrow-Band Presents)
 
 ##### 1. 即時的、不定過去的、點狀的現在式 (Instantaneous/Aoristic/Punctiliar Present)
 
@@ -991,7 +991,7 @@
 - <rt>太25:8</rt>  <RUBY><ruby><ruby>αἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPF</rt></RUBY> <RUBY><ruby><ruby>λαμπάδες<rt>lamps</rt></ruby><rt>λαμπάς</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby><mark>σβέννυνται.</mark><rt>are going out.</rt></ruby><rt>σβέννυμι</rt></ruby><rt>V-PPI-3P</rt></RUBY> <rt>我們的燈<mark>要滅了</mark></rt>  
 
 
-#### B. 長期 (Broad-Band Presents)
+### B. 長期 (Broad-Band Presents)
 
 ##### 3. 從過去延伸至今的、仍在進行的現在式 (Extending-from-Past Present, Present of Past Action Still in Progress)
 
@@ -1013,7 +1013,7 @@
 - <rt>林後9:7</rt> <RUBY><ruby><ruby>ἱλαρὸν<rt>a cheerful</rt></ruby><rt>ἱλαρός</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δότην<rt>giver</rt></ruby><rt>δότης</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀγαπᾷ</mark><rt>loves</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεός.<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY> <rt>因為捐得樂意的人是神所<mark>喜愛的</mark></rt>  
 
 
-#### C. 特殊用法的現在式 (Special Uses of the Presents)
+### C. 特殊用法的現在式 (Special Uses of the Presents)
 
 ##### 7. 歷史的、生動的現在式 (Historical/Dramatic Present)
 
@@ -1038,7 +1038,7 @@
 
 ### 不完成式時態形式 (Imperfect Tense-Form)
 
-#### A. 短期的不完成式 (Narrow-Band Imperfects)
+### A. 短期的不完成式 (Narrow-Band Imperfects)
 
 ##### 1. 進行的、描述的不完成式 (Progressive/Descriptive Imperfect)
 
@@ -1050,7 +1050,7 @@
 - <rt>太5:2</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀνοίξας<rt>opening</rt></ruby><rt>ἀνοίγω</rt></ruby><rt>V-AAP-NSM</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>στόμα<rt>mouth</rt></ruby><rt>στόμα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἐδίδασκεν</mark><rt>He was teaching</rt></ruby><rt>διδάσκω</rt></ruby><rt>V-IAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοὺς<rt>them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-APM</rt></RUBY> <rt>他就開口<mark>教訓</mark>他們</rt>  
 
 
-#### B. 長期的不完成式 (Broad-Band Imperfects)
+### B. 長期的不完成式 (Broad-Band Imperfects)
 
 ##### 3. 重複的不完成式 (Iterative Imperfect)
 
@@ -1060,7 +1060,7 @@
 
 - <rt>路2:41</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἐπορεύοντο</mark><rt>were going</rt></ruby><rt>πορεύω</rt></ruby><rt>V-INI-3P</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>γονεῖς<rt>parents</rt></ruby><rt>γονεύς</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>κατ᾽<rt>every</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἔτος<rt>year</rt></ruby><rt>ἔτος</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰερουσαλὴμ<rt>Jerusalem</rt></ruby><rt>Ἱερουσαλήμ</rt></ruby><rt>N-ASF-L</rt></RUBY> <rt>每年他父母<mark>都上</mark>耶路撒冷去</rt>  
 
-#### C. 特殊用法的不完成式 (Special Uses of the Imperfects)
+### C. 特殊用法的不完成式 (Special Uses of the Imperfects)
 
 ##### 5. 嘗試的、意願的、瀕臨的不完成式 (Conative/Voluntative/Tendential Imperfect)
 
@@ -1131,7 +1131,7 @@
 
 ### 現在完成式、過去完成式時態形式 (Perfect and Plluperfect Tense-Form)
 
-#### A. 現在完成式時態形式 (Perfect Tense-Form)
+### A. 現在完成式時態形式 (Perfect Tense-Form)
 
 ##### 1. 加強的、結果的現在完成式 (Intensive/Resultative Perfect)
 
@@ -1148,7 +1148,7 @@
 - <rt>約1:26</rt> <RUBY><ruby><ruby>μέσος<rt>but in [the] midst</rt></ruby><rt>μέσος</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby><mark>ἕστηκεν</mark><rt>stands [One]</rt></ruby><rt>ἵστημι</rt></ruby><rt>V-RAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὃν<rt>whom</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASM</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>οἴδατε‚</mark><rt>know‚</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-2P</rt></RUBY> <rt>有一位是你們不<mark>認識</mark>的<mark>站</mark>在你們中間</rt>  
 
 
-#### B. 過去完成式時態形式 (Pluperfect Tense-Form)
+### B. 過去完成式時態形式 (Pluperfect Tense-Form)
 
 ##### 1. 加強的、結果的過去完成式 (Intensive/Resultative Pluperfect)
 
@@ -1164,7 +1164,7 @@
 
 ## 不定詞 (Infinitive)
 
-#### A. 副詞用法 (Adverbial Uses)
+### A. 副詞用法 (Adverbial Uses)
 
 ##### 1. 目的 (Purpose)
 
@@ -1207,7 +1207,7 @@
 
 - <rt>可2:19</rt> <RUBY><ruby><ruby>ὅσον<rt>As long as</rt></ruby><rt>ὅσος</rt></ruby><rt>K-ASM</rt></RUBY> <RUBY><ruby><ruby>χρόνον<rt>time</rt></ruby><rt>χρόνος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἔχουσιν<rt>they have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAI-3P</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>νυμφίον<rt>bridegroom</rt></ruby><rt>νυμφίος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>μετ᾽<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>them‚</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>δύνανται<rt>they are able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-3P</rt></RUBY> <RUBY><ruby><ruby><mark>νηστεύειν.</mark><rt>to fast.</rt></ruby><rt>νηστεύω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>新郎還同在，他們不能<mark>禁食</mark></rt>  
 
-#### B. 名詞用法 (Substantival Uses)
+### B. 名詞用法 (Substantival Uses)
 
 ##### 7. 主詞 (Subject)
 
@@ -1239,7 +1239,7 @@
 
 ## 分詞 (Participle)
 
-#### A. 形容用法 (Adjectival Participles)
+### A. 形容用法 (Adjectival Participles)
 
 ##### 1. 正式的形容用法 (Adjectival Proper)、附屬用法 (Dependent)
 
@@ -1253,7 +1253,7 @@
 - <rt>提前6:15</rt> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Βασιλεὺς<rt>King</rt></ruby><rt>βασιλεύς</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby><mark>βασιλευόντων</mark><rt>being kings‚</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Κύριος<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby><mark>κυριευόντων‚</mark><rt>being lords‚</rt></ruby><rt>κυριεύω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> <rt>那<mark>萬王</mark>之王、<mark>萬主</mark>之主</rt>  
 
 
-#### B. 與動詞有關的用法 (Verbal Participles)
+### B. 與動詞有關的用法 (Verbal Participles)
 
 ##### 3. 表示情境的副詞用法 (Adverbial/Circumstantial)
 

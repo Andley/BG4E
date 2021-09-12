@@ -1,4 +1,4 @@
-#### 圖析 (Php 1:3–6)
+### 圖析 (Php 1:3–6)
 - <rt>1:3</rt> <RUBY><ruby><ruby><mark>**Εὐχαριστῶ†**</mark><rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐπὶ<rt>upon</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>remembrance</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1†
 	- ——————————————
 		- <rt>1:4a</rt> <rt>[</rt><RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>°¹
@@ -25,7 +25,7 @@
 			- <rt>1:8a</rt> (<RUBY><ruby><ruby>Μάρτυς<rt>Witness</rt></ruby><rt>μάρτυς</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μου<rt>my</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C <RUBY><ruby><ruby>**ἐστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεός,<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S 
 				- <rt>1:8b</rt> <RUBY><ruby><ruby>ὡς<rt>how</rt></ruby><rt>ὡς</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>**ἐπιποθῶ**<rt>I long after</rt></ruby><rt>ἐπιποθέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>πάντας<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σπλάγχνοις<rt>[the] affection</rt></ruby><rt>σπλάγχνον</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Jesus.</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>)A
 
-#### 筆記 (Php 1:3–8)
+### 筆記 (Php 1:3–8)
 - 1:3–8 是一個句子，主要動詞是 Εὐχαριστῶ (感謝)，1:4–8 都在補充說明這個主要概念。
 	- 1:3 後半的介系詞片語 ἐπὶ ... ὑμῶν 說明感謝的「時間 temporal」
 	- 1:4 說明感謝的
@@ -86,7 +86,7 @@
 
 ---
 
-#### 圖析 (Phi 1:9–11)
+### 圖析 (Phi 1:9–11)
 
 - <rt>1:9a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)C <RUBY><ruby><ruby>**προσεύχομαι,**<rt>I pray,</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY> 
 	- <rt>1:9b</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby>ἔτι<rt>yet</rt></ruby><rt>ἔτι</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μᾶλλον<rt>more</rt></ruby><rt>μᾶλλον</rt></ruby><rt>ADV</rt></RUBY>)A1 <RUBY><ruby><ruby>**περισσεύῃ**<rt>may abound</rt></ruby><rt>περισσεύω</rt></ruby><rt>V-PAS-3S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐπιγνώσει<rt>knowledge</rt></ruby><rt>ἐπίγνωσις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>in all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>αἰσθήσει<rt>discernment,</rt></ruby><rt>αἴσθησις</rt></ruby><rt>N-DSF</rt></RUBY>)A2 
@@ -95,7 +95,7 @@
 		- <rt>1:11</rt> { <RUBY><ruby><ruby>*πεπληρωμένοι*<rt>filled</rt></ruby><rt>πληρόω</rt></ruby><rt>V-RPP-NPM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>καρπὸν<rt>with [the] fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνης<rt>of righteousness</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N-GSF</rt></RUBY><rt>]c</rt> = <rt>[</rt><RUBY><ruby><ruby>τὸν<rt>that [is]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>[the] glory</rt></ruby><rt>δόξα</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔπαινον<rt>praise</rt></ruby><rt>ἔπαινος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ.¶<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>]a</rt> }A2
 
 
-#### 筆記 (Phi 1:9–11)
+### 筆記 (Phi 1:9–11)
 - 1:3–8 是保羅針對過去種種對上帝的感謝，1:9–11 開啟了新的段落，是保羅為腓立比教會的禱告。
 - 1:9a
 	- 對等連接詞 Καὶ 開啟主要子句，但語意還是延續上文。主要動詞 προσεύχομαι (禱告) 是現在式時態形式，表達動作內部、非整體的觀點，好像保羅就在讀者眼前持續地禱告；關身語態，強調主詞的參與 (W 414–16 = 華 435–36)。

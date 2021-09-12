@@ -1,4 +1,4 @@
-#### 圖析 (3Jo 1:5–8)
+### 圖析 (3Jo 1:5–8)
 - <rt>1:5a</rt> <RUBY><ruby><ruby>ἀγαπητέ,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VSM</rt></RUBY> (<RUBY><ruby><ruby>πιστὸν<rt>faithfully</rt></ruby><rt>πιστός</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>**ποιεῖς**<rt>you are doing</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-2S</rt></RUBY> ( «<rt>1:5b</rt>» )C
 	- <rt>1:5b</rt> (<RUBY><ruby><ruby>ὃ<rt>whatever</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>maybe</rt></ruby><rt>ἐάν</rt></ruby><rt>COND</rt></RUBY>)C <RUBY><ruby><ruby>**ἐργάσῃ**<rt>you shall do</rt></ruby><rt>ἐργάζομαι</rt></ruby><rt>V-ADS-2S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀδελφοὺς°¹</mark><rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-APM</rt></RUBY>)A1 <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>that [thing]</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>ξένους,°¹</mark><rt>strangers,</rt></ruby><rt>ξένος</rt></ruby><rt>A-APM</rt></RUBY>)A2 
 		- <rt>1:6a</rt> (<RUBY><ruby><ruby>οἳ°¹<rt>who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NPM</rt></RUBY>)S <RUBY><ruby><ruby>**ἐμαρτύρησάν**<rt>testified</rt></ruby><rt>μαρτυρέω</rt></ruby><rt>V-AAI-3P</rt></RUBY> (<RUBY><ruby><ruby>σου<rt>of your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπῃ<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-DSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἐνώπιον<rt>before</rt></ruby><rt>ἐνώπιον</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίας,<rt>[the] church,</rt></ruby><rt>ἐκκλησία</rt></ruby><rt>N-GSF</rt></RUBY>)A 
@@ -14,12 +14,12 @@
 			- <rt>1:8d</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>συνεργοὶ<rt>fellow workers</rt></ruby><rt>συνεργός</rt></ruby><rt>A-NPM</rt></RUBY>)C <RUBY><ruby><ruby>**γινώμεθα**<rt>we may be</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-PNS-1P</rt></RUBY> (<RUBY><ruby><ruby>τῇ<rt>in the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ.¶<rt>truth.</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A
 
 
-#### 筆記 (3Jo 1:5–8)
+### 筆記 (3Jo 1:5–8)
 
 ---
 
 
-#### 圖析 (3Jo 1:9–10)
+### 圖析 (3Jo 1:9–10)
 - <rt>1:9a</rt> <RUBY><ruby><ruby>**Ἔγραψά**<rt>I have written</rt></ruby><rt>γράφω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τι<rt>something</rt></ruby><rt>τις</rt></ruby><rt>X-ASN</rt></RUBY>)C1 (<RUBY><ruby><ruby>τῇ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίᾳ·<rt>church;</rt></ruby><rt>ἐκκλησία</rt></ruby><rt>N-DSF</rt></RUBY>)C2 
 - <rt>1:9b</rt> <RUBY><ruby><ruby>ἀλλ᾽<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby>*φιλοπρωτεύων*<rt>loving to be first</rt></ruby><rt>φιλοπρωτεύω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>αὐτῶν<rt>among them,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GPM</rt></RUBY><rt>]a</rt> } <RUBY><ruby><ruby>Διοτρέφης<rt>Diotrephes,</rt></ruby><rt>Διοτρεφής</rt></ruby><rt>N-NSM-P</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἐπιδέχεται**<rt>welcomes</rt></ruby><rt>ἐπιδέχομαι</rt></ruby><rt>V-PNI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἡμᾶς.<rt>us.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AP</rt></RUBY>)C 
 - ——————————————
@@ -36,11 +36,11 @@
 - <rt>1:10i</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>from</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίας<rt>church</rt></ruby><rt>ἐκκλησία</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby>**ἐκβάλλει.¶**<rt>he casts [them] out.</rt></ruby><rt>ἐκβάλλω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 
 
-#### 筆記 (3Jo 1:9–10)
+### 筆記 (3Jo 1:9–10)
 
 ---
 
-#### 圖析 (3Jo 1:11–12)
+### 圖析 (3Jo 1:11–12)
 - <rt>1:11a</rt> <RUBY><ruby><ruby>Ἀγαπητέ,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VSM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**μιμοῦ**<rt>do imitate</rt></ruby><rt>μιμέομαι</rt></ruby><rt>V-PNM-2S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>what [is]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>κακὸν<rt>evil,</rt></ruby><rt>κακός</rt></ruby><rt>A-ASN</rt></RUBY>)C 
 - <rt>1:11b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>what [is]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθόν.<rt>good.</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY>)C 
 - <rt>1:11c</rt> {<RUBY><ruby><ruby>ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἀγαθοποιῶν*<rt>doing good,</rt></ruby><rt>ἀγαθοποιέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> }S (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A <RUBY><ruby><ruby>**ἐστιν·**<rt>is;</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
@@ -51,7 +51,7 @@
 	- <rt>1:12d</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>μαρτυρία<rt>testimony</rt></ruby><rt>μαρτυρία</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>)S (<RUBY><ruby><ruby>ἀληθής<rt>TRUE</rt></ruby><rt>ἀληθής</rt></ruby><rt>A-NSF</rt></RUBY>)C <RUBY><ruby><ruby>**ἐστιν.¶**<rt>is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 
 
-#### 筆記 (3Jo 1:11–12)
+### 筆記 (3Jo 1:11–12)
 
 
 

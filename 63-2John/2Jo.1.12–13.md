@@ -1,4 +1,4 @@
-#### 圖析 (2Jo 1:12–13)
+### 圖析 (2Jo 1:12–13)
 
 - <rt>1:12a</rt> 
 	- { <rt>[</rt><RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY><rt>]c</rt> <RUBY><ruby><ruby>*ἔχων*<rt>having</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>( </rt>«<rt>1:12b</rt>» <rt>]a</rt> }A1
@@ -12,7 +12,7 @@
 - <rt>1:13a</rt> <RUBY><ruby><ruby>**ἀσπάζεταί**<rt>Greet</rt></ruby><rt>ἀσπάζομαι</rt></ruby><rt>V-PNI-3S</rt></RUBY> (<RUBY><ruby><ruby>σε<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AS</rt></RUBY>)C (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> ‹ <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀδελφῆς<rt>sister</rt></ruby><rt>ἀδελφή</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐκλεκτῆς.<rt>elect.</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-GSF</rt></RUBY> › )S 
 - <rt>1:13b</rt> <RUBY><ruby><ruby>ἀμήν.¶<rt>Amen</rt></ruby><rt>ἀμήν</rt></ruby><rt>INJ-HEB</rt></RUBY> 
 
-#### 筆記 (2Jo 1:12–13)
+### 筆記 (2Jo 1:12–13)
 
 
 

@@ -20,7 +20,7 @@
 <div style="page-break-after: always;"></div>
 
 ### (1) 主要子句 (Primary Clause)
-#### (1a) 對等連接詞 (coordinate conjunctive) 
+### (1a) 對等連接詞 (coordinate conjunctive) 
 用對等連接詞 καί 帶出主要子句。καί 可以翻譯成 and/but。
 
 - <rt>1Jn 1:5</rt> <RUBY><ruby><ruby><mark>καὶ</mark><rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἔστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>message</rt></ruby><rt>ἀγγελία</rt></ruby><rt>N-NSF</rt></RUBY>)C
@@ -43,7 +43,7 @@
 
 
 
-#### (1b) 無連接詞 (asyndeton)
+### (1b) 無連接詞 (asyndeton)
 主要子句可以不需要連接詞，這在句法上叫做 Asyndeton (省略連接詞)，有些文法書用 Ø 符號來代表。在語意上，無連接詞*可能*是一個新段落的開始。
 
 - <rt>1Jn 2:15</rt> <RUBY><ruby><ruby><mark>Μὴ</mark><rt>Not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἀγαπᾶτε**<rt>do love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόσμον<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-ASM</rt></RUBY>)C 
@@ -57,7 +57,7 @@
 
 <div style="page-break-after: always;"></div>
 
-#### (2a) 從屬連接詞 (subordinate conjunctive)
+### (2a) 從屬連接詞 (subordinate conjunctive)
 用從屬連接詞 ἵνα 帶出來從屬子句，補充說明主要子句。
 
 - <rt>2Jn 1:8</rt> <RUBY><ruby><ruby>**βλέπετε**<rt>do watch</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἑαυτοὺς<rt>yourselves,</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-2APM</rt></RUBY>)C 
@@ -72,7 +72,7 @@
 
 
 
-#### (2b) 關係子句
+### (2b) 關係子句
 
 用關係代名詞 ὅς 帶出關係子句，補充說明主要子句。一般情況下，關係代名詞的數 (number)、性 (gender) 要與先行詞 (antecedent) 一致；格 (case) 則要看在關係子句中的角色而定。
 
@@ -89,14 +89,14 @@
 
 ### (3) 內嵌子句 (Embedded Clause)
 
-#### (3a) 不定詞內嵌子句
+### (3a) 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
 - <rt>3Jn 1:13</rt> { <rt>[</rt><RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY><rt>]c1</rt> }C<sub>-</sub> <RUBY><ruby><ruby>**εἶχον**<rt>I had</rt></ruby><rt>ἔχω</rt></ruby><rt>V-IAI-1S</rt></RUBY> <sub>-</sub>C{ <RUBY><ruby><ruby>*γράψαι*<rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-AAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>σοι,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DS</rt></RUBY><rt>]c2</rt> }
 - 不定詞 γράψαι 有兩個補語，一個是「事」(Πολλὰ)，一個是「人」(σοι)，合起來形成不定詞內嵌子句，當作主要動詞 εἶχον 的受詞 (補語)。
 
 
-#### (3b) 分詞內嵌子句
+### (3b) 分詞內嵌子句
 分詞是：動詞＋形容詞的結合體。因為有形容詞的特色，所以可以當作形容詞用，跟冠詞、實名詞結合，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是所有格，形成分詞的獨立所有格)、補語、狀語，進而形成分詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 - <rt>1Jn 4:16</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby><mark>*μένων*</mark><rt>abiding</rt></ruby><rt>μένω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπῃ<rt>love,</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> } )S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY>)A <RUBY><ruby><ruby>**μένει,**<rt>abides,</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 - 分詞 μένων 當作形容詞用，前面加上冠詞 ὁ 變成 T—A (分詞) 的結構，變成了實名詞 (substantive)。

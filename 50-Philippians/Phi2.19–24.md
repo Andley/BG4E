@@ -1,4 +1,4 @@
-#### 圖析 (Phi 2:19–24)
+### 圖析 (Phi 2:19–24)
 
 
 - <rt>2:19a</rt> <RUBY><ruby><ruby>**Ἐλπίζω**<rt>I hope</rt></ruby><rt>ἐλπίζω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus,</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A { (<RUBY><ruby><ruby>Τιμόθεον<rt>Timothy</rt></ruby><rt>Τιμόθεος</rt></ruby><rt>N-ASM-P</rt></RUBY>)c1 (<RUBY><ruby><ruby>ταχέως<rt>soon</rt></ruby><rt>ταχέως</rt></ruby><rt>ADV</rt></RUBY>)a <RUBY><ruby><ruby>*πέμψαι*<rt>to send</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAN</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)c2 }C
@@ -14,7 +14,7 @@
 - <rt>2:24a</rt> <RUBY><ruby><ruby>**πέποιθα**<rt>I am persuaded</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A 
 	- <rt>2:24b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>αὐτὸς<rt>I myself</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ταχέως<rt>soon</rt></ruby><rt>ταχέως</rt></ruby><rt>ADV</rt></RUBY>)A3 <RUBY><ruby><ruby>**ἐλεύσομαι.**<rt>I will come.</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-FDI-1S</rt></RUBY>
 
-#### 筆記 (Phi 2:19–24)
+### 筆記 (Phi 2:19–24)
 
 
 

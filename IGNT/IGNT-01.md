@@ -17,7 +17,7 @@
 - b) 現在式 (present) 時態形式、不完成式 (imperfect) 時態形式 ⇒ 不完整 (Imperfective) 觀點，表達進展中 (in progress) 的動作。
 - c) 現在完成式 (perfect) 時態形式、過去完成式 (pluperfect) 時態形式 ⇒ 狀態觀點，表達反映現狀 (a given state of affairs) 的動作。
 
-#### 1.1.1 動詞的對立 (Verbal opposition)
+### 1.1.1 動詞的對立 (Verbal opposition)
 
 - 語言學研究發現，有選擇才有意義 (choice implies meaning)。選擇完整 (Perfective) 觀點，就代表當事人有意識 (或在潛意識層面) 不使用其他觀點。
 - 從語意權重 (semantic weight) 的角度來看：
@@ -27,14 +27,14 @@
 
 (2) <rt>Rom 6:7–10</rt> <RUBY><ruby><ruby>ὁ<rt>The [one]</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀποθανὼν<rt>having died</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑APA‑NMS</rt></RUBY> <RUBY><ruby><ruby>δεδικαίωται<rt>has been freed</rt></ruby><rt>δικαιόω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>from</rt></ruby><rt>ἀπό</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας.<rt>sin.</rt></ruby><rt>ἀμαρτία</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>Εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀπεθάνομεν<rt>we died</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑AIA‑1P</rt></RUBY> <RUBY><ruby><ruby>σὺν<rt>with</rt></ruby><rt>σύν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N‑DMS</rt></RUBY> <RUBY><ruby><ruby>πιστεύομεν<rt>we believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V‑PIA‑1P</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>συζήσομεν*<rt>we will live with</rt></ruby><rt>συζάω</rt></ruby><rt>V‑FIA‑1P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑DM3S</rt></RUBY> <RUBY><ruby><ruby>εἰδότες<rt>knowing</rt></ruby><rt>εἴδω</rt></ruby><rt>V‑RPA‑NMP</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἐγερθεὶς<rt>having been raised up</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V‑APP‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out from</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν<rt>[the] dead</rt></ruby><rt>νεκρός</rt></ruby><rt>Adj‑GMP</rt></RUBY> <RUBY><ruby><ruby>οὐκέτι<rt>no more</rt></ruby><rt>οὐκέτι</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἀποθνῄσκει<rt>dies.</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>Death</rt></ruby><rt>θάνατος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>οὐκέτι<rt>no longer</rt></ruby><rt>οὐκέτι</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>κυριεύει.<rt>rules over.</rt></ruby><rt>κυριεύω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ὃ<rt>That which</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑ANS</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀπέθανεν<rt>He died</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DFS</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίᾳ<rt>to sin</rt></ruby><rt>ἀμαρτία</rt></ruby><rt>N‑DFS</rt></RUBY> <RUBY><ruby><ruby>ἀπέθανεν<rt>He died</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐφάπαξ·<rt>once for all;</rt></ruby><rt>ἐφάπαξ</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ὃ<rt>that which</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑ANS</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ζῇ<rt>He lives</rt></ruby><rt>ζάω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ζῇ<rt>He lives</rt></ruby><rt>ζάω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DMS</rt></RUBY> <RUBY><ruby><ruby>Θεῷ.<rt>to God.</rt></ruby><rt>θεός</rt></ruby><rt>N‑DMS</rt></RUBY>  因為已死的人是脫離了罪…我們若是與基督同死，就信必與他同活。因為知道基督既從死裡復活，就不再死，死也不再作他的主了。他死是向罪死了，只有一次；他活是向神活著
 
-#### 1.1.2 論述的層級 (Planes of discourse)
+### 1.1.2 論述的層級 (Planes of discourse)
 
 - 從論述分析 (discourse analysis) 的角度來看，語言學家把論述分成三個層級：背景 (background)、前景 (foreground)、近景 (frontground)。
  
 (3) Rom 5:1–2 
 <RUBY><ruby><ruby>Δικαιωθέντες<rt>Having been justified</rt></ruby><rt>δικαιόω</rt></ruby><rt>V‑APP‑NMP</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>by</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>εἰρήνην<rt>peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἔχομεν*<rt>we have</rt></ruby><rt>ἔχω</rt></ruby><rt>V‑PIA‑1P</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>with</rt></ruby><rt>πρός</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑G1P</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>δι’<rt>through</rt></ruby><rt>διά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>whom</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑GMS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AFS</rt></RUBY> <RUBY><ruby><ruby>προσαγωγὴν<rt>access</rt></ruby><rt>προσαγωγή</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἐσχήκαμεν<rt>we have</rt></ruby><rt>ἔχω</rt></ruby><rt>V‑RIA‑1P</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>by the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DFS</rt></RUBY> <RUBY><ruby><ruby>πίστει<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N‑DFS</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AFS</rt></RUBY> <RUBY><ruby><ruby>χάριν<rt>grace</rt></ruby><rt>χάρις</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>ταύτην<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ᾗ<rt>which</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑DFS</rt></RUBY> <RUBY><ruby><ruby>ἑστήκαμεν<rt>we stand;</rt></ruby><rt>ἵστημι</rt></ruby><rt>V‑RIA‑1P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καυχώμεθα<rt>we boast</rt></ruby><rt>καυχάομαι</rt></ruby><rt>V‑PIM⁞P‑1P</rt></RUBY> <RUBY><ruby><ruby>ἐπ’<rt>in</rt></ruby><rt>ἐπί</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ἐλπίδι<rt>hope</rt></ruby><rt>ἐλπίς</rt></ruby><rt>N‑DFS</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>glory</rt></ruby><rt>δόξα</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.<rt>of God.</rt></ruby><rt>θεός</rt></ruby><rt>N‑GMS</rt></RUBY> 我們既因信稱義，就藉著我們的主耶穌基督得與神相和。我們又藉著他，因信得進入現在所站的這恩典中，並且歡歡喜喜盼望神的榮耀。
 
-#### 1.1.3 視覺化 (Visualization)
+### 1.1.3 視覺化 (Visualization)
 
 - 用花車遊行來想像：
  - a) 在直升機上，置身遊行隊伍之外，看見了遊行的整體 ⇒ 完整觀點；
@@ -51,7 +51,7 @@
 (6) 提後2:8 
 <RUBY><ruby><ruby>Μνημόνευε<rt>Remember</rt></ruby><rt>μνημονεύω</rt></ruby><rt>V‑PMA‑2S</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Christ‚</rt></ruby><rt>Χριστός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἐγηγερμένον<rt>having been raised</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V‑RPM⁞P‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out from</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν‚<rt>[the] dead‚</rt></ruby><rt>νεκρός</rt></ruby><rt>Adj‑GMP</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>of [the]</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>σπέρματος<rt>seed</rt></ruby><rt>σπέρμα</rt></ruby><rt>N‑GNS</rt></RUBY> <RUBY><ruby><ruby>Δαυίδ‚<rt>of David‚</rt></ruby><rt>Δαβίδ</rt></ruby><rt>N‑GMS</rt></RUBY> 你要紀念耶穌基督乃是大衛的後裔，他從死裡復活
 
-#### 1.1.4 附帶說明
+### 1.1.4 附帶說明
 
 - 未來式 (future) 時態形式：既無時間、又無觀點，可能跟假設語氣有關。
 - 複合動詞 (動詞字首加上介系詞) 對觀點沒有影響。
@@ -62,11 +62,11 @@
 
 ### 1.3 希臘文動詞研究歷史 (History of Discussion of Verbs in Greek)
 
-#### 1.3.1 理性主義時期 (Rationalist period)
+### 1.3.1 理性主義時期 (Rationalist period)
 
-#### 1.3.2 Aktionsart
+### 1.3.2 Aktionsart
 
-#### 1.3.3 動詞觀點 (Verbal Aspect)
+### 1.3.3 動詞觀點 (Verbal Aspect)
 
 ## 2. 動詞觀點與功能 (Verbal Aspect and its Range of Functions)
 
@@ -77,14 +77,14 @@
 
 - 現在式、不完成式時態形式表達的是不完整觀點，可用於各種絕對時間。
  
-#### 2.1.1 現在式時態形式→現在動作 (Present for present action)
+### 2.1.1 現在式時態形式→現在動作 (Present for present action)
 
 - 有些文法書會細分成：敘述的現在式 (descriptive present)、進行中的現在式 (progressive present)、意圖的現在式(conative present)、反覆的現在式(iterative present)。
 
 (7) 徒17:22–23 
 <RUBY><ruby><ruby>“Ἄνδρες<rt>Men</rt></ruby><rt>ἀνήρ</rt></ruby><rt>N‑VMP</rt></RUBY> <RUBY><ruby><ruby>Ἀθηναῖοι<rt>Athenians</rt></ruby><rt>Ἀθηναῖος</rt></ruby><rt>Adj‑VMP</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>in</rt></ruby><rt>κατά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>all things</rt></ruby><rt>πᾶς</rt></ruby><rt>Adj‑ANP</rt></RUBY> <RUBY><ruby><ruby>ὡς<rt>as</rt></ruby><rt>ὡς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>δεισιδαιμονεστέρους<rt>very religious</rt></ruby><rt>δεισιδαιμονέστερος</rt></ruby><rt>Adj‑AMP‑C</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑A2P</rt></RUBY> <RUBY><ruby><ruby>θεωρῶ.<rt>I behold.</rt></ruby><rt>θεωρέω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>διερχόμενος<rt>Passing through</rt></ruby><rt>διέρχομαι</rt></ruby><rt>V‑PPM⁞P‑NMS</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀναθεωρῶν<rt>beholding</rt></ruby><rt>ἀναθεωρέω</rt></ruby><rt>V‑PPA‑NMS</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑ANP</rt></RUBY> <RUBY><ruby><ruby>σεβάσματα<rt>objects of worship</rt></ruby><rt>σέβασμα</rt></ruby><rt>N‑ANP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>εὗρον<rt>I found</rt></ruby><rt>εὑρίσκω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>βωμὸν<rt>an altar</rt></ruby><rt>βῶμος</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>on</rt></ruby><rt>ἐν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ᾧ<rt>which</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑DMS</rt></RUBY> <RUBY><ruby><ruby>ἐπεγέγραπτο<rt>had been inscribed:</rt></ruby><rt>ἐπιγράφω</rt></ruby><rt>V‑LIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ΑΓΝΩΣΤΩ<rt>To an unknown</rt></ruby><rt>ἄγνωστος</rt></ruby><rt>Adj‑DMS</rt></RUBY> <RUBY><ruby><ruby>ΘΕΩ.<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N‑DMS</rt></RUBY> <RUBY><ruby><ruby>Ὃ<rt>Whom</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑ANS</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀγνοοῦντες<rt>not knowing</rt></ruby><rt>ἀγνοέω</rt></ruby><rt>V‑PPA‑NMP</rt></RUBY> <RUBY><ruby><ruby>εὐσεβεῖτε<rt>you worship</rt></ruby><rt>εὐσεβέω</rt></ruby><rt>V‑PIA‑2P</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>Him</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑ANS</rt></RUBY> <RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑N1S</rt></RUBY> <RUBY><ruby><ruby>καταγγέλλω<rt>proclaim</rt></ruby><rt>καταγγέλλω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.<rt>to you.</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY>  眾位雅典人哪，我看你們凡事很敬畏鬼神。我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫著未識之神。你們所不認識而敬拜的，我現在告訴你們。
 
-#### 2.1.2 現在式時態形式→過去動作 (Present for past action)
+### 2.1.2 現在式時態形式→過去動作 (Present for past action)
 
 - 有些文法書稱之為：歷史性的現在式 (historic present)。
 - 過去為了解釋這個怪現象 (現在式時態形式動詞，卻用來表達過去的動作)，發展出許多理論──戲劇用法 (dramatic use)、時態縮減 (tense reduction)、場景人物改變 (change of setting or character)──但都不可取。從動詞觀點來看，使用不完整觀點是為了要吸引讀者更多的注意力。
@@ -95,7 +95,7 @@
 (9) 徒10:11 
 <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>θεωρεῖ<rt>he beholds</rt></ruby><rt>θεωρέω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>οὐρανὸν<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N‑AMS</rt></RUBY>  ［彼得］看見天開了
 
-#### 2.1.3 現在式時態形式→未來動作 (Present for future action)
+### 2.1.3 現在式時態形式→未來動作 (Present for future action)
 
 - 有些文法書稱之為：未來性的現在式 (futuristic present)。
 
@@ -108,7 +108,7 @@
 
 (13) 可10:33 <RUBY><ruby><ruby>“Ἰδοὺ<rt>Behold</rt></ruby><rt>ἰδού</rt></ruby><rt>V‑AMA‑2S</rt></RUBY> <RUBY><ruby><ruby>ἀναβαίνομεν<rt>we go up</rt></ruby><rt>ἀναβαίνω</rt></ruby><rt>V‑PIA‑1P</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>Ἱεροσόλυμα<rt>Jerusalem</rt></ruby><rt>Ἱεροσόλυμα</rt></ruby><rt>N‑ANP</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>of Man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>παραδοθήσεται<rt>will be betrayed</rt></ruby><rt>παραδίδωμι</rt></ruby><rt>V‑FIP‑3S</rt></RUBY> 看哪，我們上耶路撒冷去，人子將要被交…
 
-#### 2.1.4 現在式時態形式→任何時間的動作 (Present for omnitemporal action)
+### 2.1.4 現在式時態形式→任何時間的動作 (Present for omnitemporal action)
 
 - 有些文法書稱之為：格言性的現在式 (gnomic present)。
 - 在希臘文中現在式時態形式能用來論及規律反覆的動作，尤其是那些在自然界重複的動作。
@@ -121,7 +121,7 @@
 
 (17) 約3:8 <RUBY><ruby><ruby>τὸ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NNS</rt></RUBY> <RUBY><ruby><ruby>πνεῦμα<rt>wind</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N‑NNS</rt></RUBY> <RUBY><ruby><ruby>ὅπου<rt>where</rt></ruby><rt>ὅπου</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>θέλει<rt>it wishes</rt></ruby><rt>θέλω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>πνεῖ<rt>blows</rt></ruby><rt>πνέω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> 風隨著意思吹
 
-#### 2.1.5 現在式時態形式→無時間性的動作 (Present for timeless action)
+### 2.1.5 現在式時態形式→無時間性的動作 (Present for timeless action)
 
 - 無時間＝動作的發生與時間無關，常用來陳述神學或數學。
   
@@ -131,7 +131,7 @@
 
 (20) Joh 11:36 <RUBY><ruby><ruby>Ἔλεγον<rt>Were saying</rt></ruby><rt>ἔπω</rt></ruby><rt>V‑IIA‑3P</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMP</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαῖοι<rt>Jews</rt></ruby><rt>Ἰουδαῖος</rt></ruby><rt>Adj‑NMP</rt></RUBY> <RUBY><ruby><ruby>“Ἴδε<rt>Behold</rt></ruby><rt>ἰδού</rt></ruby><rt>V‑AMA‑2S</rt></RUBY> <RUBY><ruby><ruby>πῶς<rt>how</rt></ruby><rt>πῶς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἐφίλει<rt>He loved</rt></ruby><rt>φιλέω</rt></ruby><rt>V‑IIA‑3S</rt></RUBY> <RUBY><ruby><ruby>αὐτόν.<rt>him!</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑AM3S</rt></RUBY> 
 
-#### 2.1.6 不完成式時態形式→過去動作 (Imperfect for past action)
+### 2.1.6 不完成式時態形式→過去動作 (Imperfect for past action)
 
 - 與不定過去式時態形式都常見於敘事文體，差別在於不完成式時態形式吸引讀者進一步深思細想。
   
@@ -147,7 +147,7 @@
 
 (24) 可3:20–21 <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἔρχεται<rt>He comes</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V‑PIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>οἶκον·<rt>a house</rt></ruby><rt>οἶκος</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>συνέρχεται<rt>comes together</rt></ruby><rt>συνέρχομαι</rt></ruby><rt>V‑PIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>πάλιν<rt>again</rt></ruby><rt>πάλιν</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>a</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὄχλος<rt>crowd</rt></ruby><rt>ὄχλος</rt></ruby><rt>N‑NMS</rt></RUBY> … <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀκούσαντες<rt>having heard [of it]</rt></ruby><rt>ἀκούω</rt></ruby><rt>V‑APA‑NMP</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMP</rt></RUBY> <RUBY><ruby><ruby>παρ’<rt>belonging to</rt></ruby><rt>παρά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>ἐξῆλθον<rt>went out</rt></ruby><rt>ἐξέρχομαι</rt></ruby><rt>V‑AIA‑3P</rt></RUBY> <RUBY><ruby><ruby>κρατῆσαι<rt>to seize</rt></ruby><rt>κρατέω</rt></ruby><rt>V‑ANA</rt></RUBY> <RUBY><ruby><ruby>αὐτόν·<rt>Him;</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑AM3S</rt></RUBY> <RUBY><ruby><ruby>ἔλεγον<rt>they were saying</rt></ruby><rt>ἔπω</rt></ruby><rt>V‑IIA‑3P</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>“Ἐξέστη.<rt>He is out of His mind.</rt></ruby><rt>ἐξίστημι</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> 耶穌進了一個屋子，眾人又聚集…耶穌的親屬聽見，就出來要拉住他，因為他們說他癲狂了。
 
-#### 2.1.7 不完成式時態形式→非過去動作 (Imperfect for non-past action)
+### 2.1.7 不完成式時態形式→非過去動作 (Imperfect for non-past action)
 
 - 不完成式時態形式常用於三種情況：
   - a) 第二類條件句的條件子句 (εἰ＋imperfect/aorist)──從中最能看出觀點的特色，因為第二類條件句與事實相反，動作根本沒發生，何來時間可言。
@@ -165,7 +165,7 @@
 
 - 不定過去式時態形式≠過去發生的動作，而是用來表達完整 (complete)、沒有要刻意區別出來的 (differentiated) 的動作。
 
-#### 2.2.1 不定過去式時態形式→過去動作 (Aorist for past action)
+### 2.2.1 不定過去式時態形式→過去動作 (Aorist for past action)
 
 - 有些文法書會細分成：敘事的不定過去式 (narrative aorist)、表述的不定過去式 (constative aorist)、起始的不定過去式 (ingressive aorist)、果效的不定過去式 (effective aorist)、點狀的不定過去式 (punctiliar aorist)。
 
@@ -175,7 +175,7 @@
 
 (30) 林後11:24–25 <RUBY><ruby><ruby>Ὑπὸ<rt>From</rt></ruby><rt>ὑπό</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαίων<rt>[the] Jews</rt></ruby><rt>Ἰουδαῖος</rt></ruby><rt>Adj‑GMP</rt></RUBY> <RUBY><ruby><ruby>πεντάκις<rt>five times</rt></ruby><rt>πεντάκις</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>τεσσεράκοντα<rt>forty [lashes]</rt></ruby><rt>τεσσαράκοντα</rt></ruby><rt>Adj‑AFP</rt></RUBY> <RUBY><ruby><ruby>παρὰ<rt>minus</rt></ruby><rt>παρά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>μίαν<rt>one</rt></ruby><rt>εἷς</rt></ruby><rt>Adj‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἔλαβον<rt>I received.</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>τρὶς<rt>Three times</rt></ruby><rt>τρίς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἐραβδίσθην<rt>I was beaten with rods</rt></ruby><rt>ῥαβδίζω</rt></ruby><rt>V‑AIP‑1S</rt></RUBY> …<RUBY><ruby><ruby>τρὶς<rt>three times</rt></ruby><rt>τρίς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἐναυάγησα<rt>I was shipwrecked</rt></ruby><rt>ναυαγέω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> 被猶太人鞭打五次，每次四十減去一下，被棍打了三次…遇著船壞三次…
 
-#### 2.2.2 不定過去式時態形式→現在動作 (Aorist for present action)
+### 2.2.2 不定過去式時態形式→現在動作 (Aorist for present action)
 
 (31) 太23:23 <RUBY><ruby><ruby>ὅτι<rt>For</rt></ruby><rt>ὅτι</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀποδεκατοῦτε<rt>you pay tithes of</rt></ruby><rt>ἀποδεκατόω</rt></ruby><rt>V‑PIA‑2P</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑ANS</rt></RUBY> <RUBY><ruby><ruby>ἡδύοσμον<rt>mint</rt></ruby><rt>ἡδύοσμον</rt></ruby><rt>N‑ANS</rt></RUBY> … <RUBY><ruby><ruby>ἀφήκατε<rt>you have neglected</rt></ruby><rt>ἀφίημι</rt></ruby><rt>V‑AIA‑2P</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑ANP</rt></RUBY> <RUBY><ruby><ruby>βαρύτερα<rt>weightier [matters]</rt></ruby><rt>βαρύς</rt></ruby><rt>Adj‑ANP‑C</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>νόμου<rt>law:</rt></ruby><rt>νόμος</rt></ruby><rt>N‑GMS</rt></RUBY> 因為你們將薄荷…獻上十分之一，那律法上更重的事…反倒不行了。
 
@@ -190,7 +190,7 @@
 
 (35) 約壹2:12-14 <RUBY><ruby><ruby>Γράφω<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>τεκνία‚<rt>little children‚</rt></ruby><rt>τεκνίον</rt></ruby><rt>N‑VNP</rt></RUBY> ...<RUBY><ruby><ruby>Γράφω<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>πατέρες‚<rt>fathers‚</rt></ruby><rt>πατήρ</rt></ruby><rt>N‑VMP</rt></RUBY> … <RUBY><ruby><ruby>Γράφω<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>νεανίσκοι‚<rt>young men‚</rt></ruby><rt>νεανίσκος</rt></ruby><rt>N‑VMP</rt></RUBY> …<RUBY><ruby><ruby>Ἔγραψα<rt>I have written</rt></ruby><rt>γράφω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>παιδία‚<rt>little children‚</rt></ruby><rt>παιδίον</rt></ruby><rt>N‑VNP</rt></RUBY> … <RUBY><ruby><ruby>Ἔγραψα<rt>I have written</rt></ruby><rt>γράφω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>πατέρες‚<rt>fathers‚</rt></ruby><rt>πατήρ</rt></ruby><rt>N‑VMP</rt></RUBY> …<RUBY><ruby><ruby>Ἔγραψα<rt>I have written</rt></ruby><rt>γράφω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν‚<rt>to you‚</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>νεανίσκοι‚<rt>young men‚</rt></ruby><rt>νεανίσκος</rt></ruby><rt>N‑VMP</rt></RUBY> 小子們哪，我寫信給你們…父老阿，我寫信給你們…少年人哪，我寫信給你們…小子們哪，我曾寫信給你們…父老阿，我曾寫信給你們…少年人哪，我曾寫信給你們…
 
-#### 2.2.3 不定過去式時態形式→未來動作 (Aorist for future action)
+### 2.2.3 不定過去式時態形式→未來動作 (Aorist for future action)
 
 - 很少出現。英文翻譯 “will …” 有些過度，希臘文語氣沒那麼強烈。
 
@@ -202,7 +202,7 @@
 
 (39) 啟14:8 <RUBY><ruby><ruby>“Ἔπεσεν<rt>Fallen</rt></ruby><rt>πίπτω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ἔπεσεν<rt>Fallen is</rt></ruby><rt>πίπτω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>Βαβυλὼν<rt>Babylon</rt></ruby><rt>Βαβυλών</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFS</rt></RUBY> <RUBY><ruby><ruby>μεγάλη<rt>great</rt></ruby><rt>μέγας</rt></ruby><rt>Adj‑NFS</rt></RUBY> 看哪，主帶著他的千萬聖者降臨
 
-#### 2.2.4 不定過去式時態形式→任何時間的動作 (Aorist for omnitemporal action)
+### 2.2.4 不定過去式時態形式→任何時間的動作 (Aorist for omnitemporal action)
 
 - 有些文法書稱之為：格言性的不定過去式 (gnomic aorist)。
 - 傳統文法很難解釋，但從觀點來看就很簡單，因為時態形式跟時間脫鉤。
@@ -215,7 +215,7 @@
 
 (43) 彼前1:24 <RUBY><ruby><ruby>ἐξηράνθη<rt>Withers</rt></ruby><rt>ξηραίνω</rt></ruby><rt>V‑AIP‑3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>χόρτος<rt>grass</rt></ruby><rt>χόρτος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NNS</rt></RUBY> <RUBY><ruby><ruby>ἄνθος<rt>flower</rt></ruby><rt>ἄνθος</rt></ruby><rt>N‑NNS</rt></RUBY> <RUBY><ruby><ruby>ἐξέπεσεν·<rt>falls away</rt></ruby><rt>ἐκπίπτω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> 草必枯乾，花必凋謝； 
 
-#### 2.2.5 不定過去式時態形式→無時間性的動作 (Aorist for timeless action)
+### 2.2.5 不定過去式時態形式→無時間性的動作 (Aorist for timeless action)
 
 - 無時間性的過去式通常出現在比喻、神學論述當中。
 
@@ -230,7 +230,7 @@
 - 從觀點角度來看，狀態觀點＝現狀的焦點是主詞，所以 οἶδα 的意思是「我知道」(I know)、「我在知道的狀態裏」(I am in a knowledgeable state)，不是「我知道，而且那件事還處在被我知道的狀態」(I know and the fact remains known)。
 
  
-#### 2.3.1 現在完成式時態形式→過去的動作 (Perfect for past action)
+### 2.3.1 現在完成式時態形式→過去的動作 (Perfect for past action)
  
 (46) 約1:15 <RUBY><ruby><ruby>Ἰωάννης<rt>John</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>μαρτυρεῖ<rt>witnesses</rt></ruby><rt>μαρτυρέω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>κέκραγεν<rt>he cried out</rt></ruby><rt>κράζω</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> 約翰為他作見證，喊著
  
@@ -242,7 +242,7 @@
  
 (50) 啟5:7 <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἦλθεν<rt>He came</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>εἴληφεν<rt>took [it]</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>δεξιᾶς<rt>right hand</rt></ruby><rt>δεξιός</rt></ruby><rt>Adj‑GFS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>καθημένου<rt>sitting</rt></ruby><rt>κάθημαι</rt></ruby><rt>V‑PPM⁞P‑GMS</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>on</rt></ruby><rt>ἐπί</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>θρόνου.<rt>throne.</rt></ruby><rt>θρόνος</rt></ruby><rt>N‑GMS</rt></RUBY> 這羔羊前來，從坐寶座的右手裡拿了書卷。
  
-#### 2.3.2 現在完成式時態形式→現在的動作 (Perfect for present action)
+### 2.3.2 現在完成式時態形式→現在的動作 (Perfect for present action)
  
 (51) 約1:26 <RUBY><ruby><ruby>“Ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑N1S</rt></RUBY> <RUBY><ruby><ruby>βαπτίζω<rt>baptize</rt></ruby><rt>βαπτίζω</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>with</rt></ruby><rt>ἐν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ὕδατι·<rt>water;</rt></ruby><rt>ὕδωρ</rt></ruby><rt>N‑DNS</rt></RUBY> <RUBY><ruby><ruby>μέσος<rt>but in [the] midst</rt></ruby><rt>μέσος</rt></ruby><rt>Adj‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>ἕστηκεν*<rt>stands [One]</rt></ruby><rt>ἵστημι</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ὃν<rt>whom</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑AMS</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑N2P</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>οἴδατε<rt>know</rt></ruby><rt>εἴδω</rt></ruby><rt>V‑RIA‑2P</rt></RUBY> 我是用水施洗，但有一位站在你們中間，是你們不認識的，
  
@@ -252,13 +252,13 @@
  
 (54) 徒4:10 <RUBY><ruby><ruby>οὗτος<rt>this [man]</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>παρέστηκεν<rt>stands</rt></ruby><rt>παρίστημι</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐνώπιον<rt>before</rt></ruby><rt>ἐνώπιον</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>ὑγιής.<rt>sound.</rt></ruby><rt>ὑγιής</rt></ruby><rt>Adj‑NMS</rt></RUBY> 站在你們面前的這人得痊癒
  
-#### 2.3.3 現在完成式時態形式→未來的動作 (Perfect for future action)
+### 2.3.3 現在完成式時態形式→未來的動作 (Perfect for future action)
  
 (55) 雅5:2–3 <RUBY><ruby><ruby>ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>πλοῦτος<rt>riches</rt></ruby><rt>πλοῦτος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of You</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>σέσηπεν<rt>have rotted</rt></ruby><rt>σήπω</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NNP</rt></RUBY> <RUBY><ruby><ruby>ἱμάτια<rt>garments</rt></ruby><rt>ἱμάτιον</rt></ruby><rt>N‑NNP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>σητόβρωτα<rt>moth-eaten</rt></ruby><rt>σητόβρωτος</rt></ruby><rt>Adj‑NNP</rt></RUBY> <RUBY><ruby><ruby>γέγονεν<rt>have become.</rt></ruby><rt>γίνομαι</rt></ruby><rt>V‑RIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>χρυσὸς<rt>gold</rt></ruby><rt>χρυσός</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἄργυρος<rt>silver</rt></ruby><rt>ἄργυρος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>κατίωται<rt>have corroded</rt></ruby><rt>κατιόω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἰὸς<rt>rust</rt></ruby><rt>ἰός</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>of them</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3P</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>for</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>μαρτύριον<rt>a testimony</rt></ruby><rt>μαρτύριον</rt></ruby><rt>N‑ANS</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>against you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>ἔσται<rt>will be</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑FIM‑3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>φάγεται<rt>will eat</rt></ruby><rt>φάγω</rt></ruby><rt>V‑FIM‑3S</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AFP</rt></RUBY> <RUBY><ruby><ruby>σάρκας<rt>flesh</rt></ruby><rt>σάρξ</rt></ruby><rt>N‑AFP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>ὡς<rt>like</rt></ruby><rt>ὡς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>πῦρ.<rt>fire.</rt></ruby><rt>πῦρ</rt></ruby><rt>N‑NNS</rt></RUBY> 你們的財物壞了，衣服也被蟲子咬了。你們的金銀都長了鏽；那鏽要證明你們的不是，又要吃你們的肉，如同火燒。
  
 (56) 約一2:5 <RUBY><ruby><ruby>ὃς<rt>Whoever</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>δ’<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>Prtcl</rt></RUBY> <RUBY><ruby><ruby>τηρῇ<rt>may keep</rt></ruby><rt>τηρέω</rt></ruby><rt>V‑PSA‑3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>His</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>λόγον<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἀληθῶς<rt>truly</rt></ruby><rt>ἀληθῶς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>him</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑DMS</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFS</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>τετελείωται.<rt>has been perfected.</rt></ruby><rt>τελειόω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> 凡遵守主道的，愛神的心在他裡面實在是完全的。
  
-#### 2.3.4 現在完成式時態形式→任何時間的動作 (Perfect for omnitemporal action)
+### 2.3.4 現在完成式時態形式→任何時間的動作 (Perfect for omnitemporal action)
  
 (57) 路12:7 <RUBY><ruby><ruby>ἀλλὰ<rt>But</rt></ruby><rt>ἀλλά</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>αἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFP</rt></RUBY> <RUBY><ruby><ruby>τρίχες<rt>hairs</rt></ruby><rt>θρίξ</rt></ruby><rt>N‑NFP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>κεφαλῆς<rt>head</rt></ruby><rt>κεφαλή</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>πᾶσαι<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>Adj‑NFP</rt></RUBY> <RUBY><ruby><ruby>ἠρίθμηνται.<rt>have been numbered.</rt></ruby><rt>ἀριθμέω</rt></ruby><rt>V‑RIM⁞P‑3P</rt></RUBY> 就是你們的頭髮，也都被數過了。
  
@@ -266,7 +266,7 @@
  
 (59) 林前7:39 <RUBY><ruby><ruby>Γυνὴ<rt>A wife</rt></ruby><rt>γυνή</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>δέδεται<rt>is bound</rt></ruby><rt>δέω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐφ’<rt>for</rt></ruby><rt>ἐπί</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ὅσον<rt>as long as</rt></ruby><rt>ὅσος</rt></ruby><rt>RelPro‑AMS</rt></RUBY> <RUBY><ruby><ruby>χρόνον<rt>time</rt></ruby><rt>χρόνος</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ζῇ<rt>may live</rt></ruby><rt>ζάω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> 丈夫活著的時候，妻子是被約束的；
  
-#### 2.3.5 現在完成式時態形式→無時間性的動作 (Perfect for timeless action)
+### 2.3.5 現在完成式時態形式→無時間性的動作 (Perfect for timeless action)
  
 (60) 羅4:14 <RUBY><ruby><ruby>εἰ<rt>If</rt></ruby><rt>εἰ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMP</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>νόμου<rt>[the] Law [are]</rt></ruby><rt>νόμος</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι<rt>heirs</rt></ruby><rt>κληρονόμος</rt></ruby><rt>N‑NMP</rt></RUBY> <RUBY><ruby><ruby>κεκένωται<rt>has been made void</rt></ruby><rt>κενόω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFS</rt></RUBY> <RUBY><ruby><ruby>πίστις<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>κατήργηται<rt>made of no effect</rt></ruby><rt>καταργέω</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFS</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελία·<rt>promise.</rt></ruby><rt>ἐπαγγελία</rt></ruby><rt>N‑NFS</rt></RUBY> 若是屬乎律法的人纔得為後嗣，信就歸於虛空，應許也就廢棄了。
  
@@ -276,7 +276,7 @@
  
 (62) 約一4:12 <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>οὐδεὶς<rt>no one</rt></ruby><rt>οὐδείς</rt></ruby><rt>Adj‑NMS</rt></RUBY> <RUBY><ruby><ruby>πώποτε<rt>at any time</rt></ruby><rt>πώποτε</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>τεθέαται·<rt>has seen;</rt></ruby><rt>θεάομαι</rt></ruby><rt>V‑RIM⁞P‑3S</rt></RUBY> 從來沒有人見過神，
  
-#### 2.3.6 過去完成式時態形式 (Pluperfect tense-form)
+### 2.3.6 過去完成式時態形式 (Pluperfect tense-form)
  
 - 相較於現在式，不完成式傾向用來指過去發生的動作；
 - 相較於現在完成式，過去完成式傾向用來指過去發生的動作。
@@ -293,33 +293,33 @@
  
 ### 2.4 未來式時態形式 (Future tense-forms)
  
-#### 2.4.1 引言 (Introduction)
+### 2.4.1 引言 (Introduction)
  
 - 未來式時態形式的觀點與＝表達對於動作的期待 (expectatoin)，字形變化跟假設語氣很像，但比假設語氣多了點篤定。就觀點而論，未來式時態形式的觀點發育不全，無法跟其他三種觀點 (完整、不完整、狀態) 並論。
  
-#### 2.4.2 未來式時態形式→前瞻性的動作 (Future for prospective action)
+### 2.4.2 未來式時態形式→前瞻性的動作 (Future for prospective action)
  
 (67) 太7:22 <RUBY><ruby><ruby>πολλοὶ<rt>Many</rt></ruby><rt>πολύς</rt></ruby><rt>Adj‑NMP</rt></RUBY> <RUBY><ruby><ruby>ἐροῦσίν<rt>will say</rt></ruby><rt>ἔρω</rt></ruby><rt>V‑FIA‑3P</rt></RUBY> <RUBY><ruby><ruby>μοι<rt>to Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑D1S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ἐκείνῃ<rt>that</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>DPro‑DFS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DFS</rt></RUBY> <RUBY><ruby><ruby>ἡμέρᾳ<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N‑DFS</rt></RUBY> 當那日必有許多人對我說
  
-#### 2.4.3 未來式時態形式→指令性的動作 (Future for commanding action)
+### 2.4.3 未來式時態形式→指令性的動作 (Future for commanding action)
  
 (68) 太21:3 <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἐάν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τὶς</rt></ruby><rt>IPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>εἴπῃ<rt>says</rt></ruby><rt>ἔπω</rt></ruby><rt>V‑ASA‑3S</rt></RUBY> <RUBY><ruby><ruby>τι<rt>anything</rt></ruby><rt>τὶς</rt></ruby><rt>IPro‑ANS</rt></RUBY> <RUBY><ruby><ruby>ἐρεῖτε<rt>you will say</rt></ruby><rt>ἔρω</rt></ruby><rt>V‑FIA‑2P</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>Ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>Κύριος<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>of them</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3P</rt></RUBY> <RUBY><ruby><ruby>χρείαν<rt>need</rt></ruby><rt>χρεία</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἔχει·<rt>has.</rt></ruby><rt>ἔχω</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> 若有人對你們說甚麼，你們就說：主要用牠
  
 (69) 太27:4 <RUBY><ruby><ruby>λέγων<rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V‑PPA‑NMS</rt></RUBY> <RUBY><ruby><ruby>“Ἥμαρτον<rt>I sinned</rt></ruby><rt>ἀμαρτάνω</rt></ruby><rt>V‑AIA‑1S</rt></RUBY> <RUBY><ruby><ruby>παραδοὺς<rt>having betrayed</rt></ruby><rt>παραδίδωμι</rt></ruby><rt>V‑APA‑NMS</rt></RUBY> <RUBY><ruby><ruby>αἷμα<rt>blood</rt></ruby><rt>αἷμα</rt></ruby><rt>N‑ANS</rt></RUBY> <RUBY><ruby><ruby>ἀθῷον.<rt>innocent.</rt></ruby><rt>ἄθωος</rt></ruby><rt>Adj‑ANS</rt></RUBY> <RUBY><ruby><ruby>Οἱ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMP</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>Then</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>εἶπαν<rt>they said</rt></ruby><rt>ἔπω</rt></ruby><rt>V‑AIA‑3P</rt></RUBY> <RUBY><ruby><ruby>“Τί<rt>What [is that]</rt></ruby><rt>τίς</rt></ruby><rt>IPro‑NNS</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς;<rt>us?</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1P</rt></RUBY> <RUBY><ruby><ruby>σὺ<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑N2S</rt></RUBY> <RUBY><ruby><ruby>ὄψῃ.<rt>will see.</rt></ruby><rt>ὁράω</rt></ruby><rt>V‑FIM‑2S</rt></RUBY> 我賣了無辜之人的血是有罪了。他們說：那與我們有甚麼相干？你自己承當罷！
  
-#### 2.4.4 未來式時態形式→無時間性的動作 (Future for timeless action)
+### 2.4.4 未來式時態形式→無時間性的動作 (Future for timeless action)
  
 (70) 太6:33 <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AFS</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην<rt>righteousness</rt></ruby><rt>δικαιοσύνη</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ταῦτα<rt>these things</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑NNP</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>Adj‑NNP</rt></RUBY> <RUBY><ruby><ruby>προστεθήσεται<rt>will be added</rt></ruby><rt>προστίθημι</rt></ruby><rt>V‑FIP‑3S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.<rt>to you.</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> 這些東西都要加給你們了
  
 (71) 羅5:7 <RUBY><ruby><ruby>μόλις<rt>Rarely</rt></ruby><rt>μόλις</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>indeed</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>for</rt></ruby><rt>ὑπέρ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>δικαίου<rt>a righteous [man]</rt></ruby><rt>δίκαιος</rt></ruby><rt>Adj‑GMS</rt></RUBY> <RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τὶς</rt></ruby><rt>IPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἀποθανεῖται·<rt>will die;</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V‑FIM‑3S</rt></RUBY> 為義人死，是少有的；
  
-#### 2.4.5 未來式時態形式→任何時間的動作 (Future for omnitemporal action)
+### 2.4.5 未來式時態形式→任何時間的動作 (Future for omnitemporal action)
  
 (72) 可2:22 <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>μή<rt>not</rt></ruby><rt>μή</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ῥήξει<rt>will burst</rt></ruby><rt>ῥήγνυμι</rt></ruby><rt>V‑FIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>οἶνος<rt>wine</rt></ruby><rt>οἶνος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMP</rt></RUBY> <RUBY><ruby><ruby>ἀσκούς<rt>wineskins</rt></ruby><rt>ἀσκός</rt></ruby><rt>N‑AMP</rt></RUBY> 恐怕酒把皮袋裂開
  
 (73) 羅7:3 <RUBY><ruby><ruby>ἄρα<rt>Then</rt></ruby><rt>ἄρα</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ζῶντος<rt>being alive</rt></ruby><rt>ζάω</rt></ruby><rt>V‑PPA‑GMS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>ἀνδρὸς<rt>husband</rt></ruby><rt>ἀνήρ</rt></ruby><rt>N‑GMS</rt></RUBY> <RUBY><ruby><ruby>μοιχαλὶς<rt>an adulteress</rt></ruby><rt>μοιχαλίς</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>χρηματίσει<rt>she will be called</rt></ruby><rt>χρηματίζω</rt></ruby><rt>V‑FIA‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>γένηται<rt>she is</rt></ruby><rt>γίνομαι</rt></ruby><rt>V‑ASM‑3S</rt></RUBY> <RUBY><ruby><ruby>ἀνδρὶ<rt>to man</rt></ruby><rt>ἀνήρ</rt></ruby><rt>N‑DMS</rt></RUBY> <RUBY><ruby><ruby>ἑτέρῳ·<rt>another;</rt></ruby><rt>ἕτερος</rt></ruby><rt>Adj‑DMS</rt></RUBY> 所以丈夫活著她若歸於別人，便叫淫婦
  
-#### 2.4.6 未來式時態形式→評議性的動作 (Future for omnitemporal action)
+### 2.4.6 未來式時態形式→評議性的動作 (Future for omnitemporal action)
  
 (74) 太21:37 <RUBY><ruby><ruby>Ὕστερον<rt>Afterward</rt></ruby><rt>ὕστερον</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>then</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἀπέστειλεν<rt>he sent</rt></ruby><rt>ἀποστέλλω</rt></ruby><rt>V‑AIA‑3S</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>αὐτοὺς<rt>them</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑AM3P</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>υἱὸν<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>λέγων<rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V‑PPA‑NMS</rt></RUBY> <RUBY><ruby><ruby>‘Ἐντραπήσονται<rt>They will respect</rt></ruby><rt>ἐντρέπω</rt></ruby><rt>V‑FIP‑3P</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>υἱόν<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑G1S</rt></RUBY> 後來打發他的兒子到他們那裡去，意思說：他們必尊敬我的兒子。
  
@@ -356,7 +356,7 @@ Bibleworks 的圖析，就理解成是迂迴結構。】
  
 ### 3.2 迂迴動詞的例子
  
-#### 3.2.1 助動詞 εἰμί＋現在式分詞
+### 3.2.1 助動詞 εἰμί＋現在式分詞
  
 (82) 太1:23 <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καλέσουσιν<rt>they will call</rt></ruby><rt>καλέω</rt></ruby><rt>V‑FIA‑3P</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑ANS</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N‑ANS</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑GM3S</rt></RUBY> <RUBY><ruby><ruby>Ἐμμανουήλ‚”<rt>Immanuel‚”</rt></ruby><rt>Ἐμμανουήλ</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ὅ<rt>which</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑NNS</rt></RUBY> <RUBY><ruby><ruby>ἐστιν<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑PIA‑3S</rt></RUBY> <RUBY><ruby><ruby>μεθερμηνευόμενον<rt>being translated</rt></ruby><rt>μεθερμηνεύω</rt></ruby><rt>V‑PPM⁞P‑NNS</rt></RUBY> <RUBY><ruby><ruby>“Μεθ’<rt>With</rt></ruby><rt>μετά</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>us</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑G1P</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>Θεός.<rt>God.</rt></ruby><rt>θεός</rt></ruby><rt>N‑NMS</rt></RUBY> 人要稱他的名為以馬內利。（以馬內利翻出來就是神與我們同在。）
  
@@ -378,7 +378,7 @@ Bibleworks 的圖析，就理解成是迂迴結構。】
  
 (91) 路19:17 <RUBY><ruby><ruby>ἴσθι<rt>to be</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑PMA‑2S</rt></RUBY> <RUBY><ruby><ruby>ἐξουσίαν<rt>having authority</rt></ruby><rt>ἐξουσία</rt></ruby><rt>N‑AFS</rt></RUBY> <RUBY><ruby><ruby>ἔχων<rt>you are</rt></ruby><rt>ἔχω</rt></ruby><rt>V‑PPA‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἐπάνω<rt>over</rt></ruby><rt>ἐπάνω</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>δέκα<rt>ten</rt></ruby><rt>δέκα</rt></ruby><rt>Adj‑GFP</rt></RUBY> <RUBY><ruby><ruby>πόλεων.<rt>cities.</rt></ruby><rt>πόλις</rt></ruby><rt>N‑GFP</rt></RUBY> 可以有權柄管十座城。
  
-#### 3.2.2 助動詞 εἰμί＋現在完成式分詞
+### 3.2.2 助動詞 εἰμί＋現在完成式分詞
  
 (92) 太10:30 <RUBY><ruby><ruby>ὑμῶν<rt>Of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>αἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NFP</rt></RUBY> <RUBY><ruby><ruby>τρίχες<rt>hairs</rt></ruby><rt>θρίξ</rt></ruby><rt>N‑NFP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>κεφαλῆς<rt>head</rt></ruby><rt>κεφαλή</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>πᾶσαι<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>Adj‑NFP</rt></RUBY> <RUBY><ruby><ruby>ἠριθμημέναι<rt>numbered</rt></ruby><rt>ἀριθμέω</rt></ruby><rt>V‑RPM⁞P‑NFP</rt></RUBY> <RUBY><ruby><ruby>εἰσίν.<rt>are.</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑PIA‑3P</rt></RUBY> 就是你們的頭髮也都被數過了。
  
@@ -400,7 +400,7 @@ Bibleworks 的圖析，就理解成是迂迴結構。】
  
 (101) 弗4:18 <RUBY><ruby><ruby>ὄντες‚<rt>being</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑PPA‑NMP</rt></RUBY> <RUBY><ruby><ruby>ἀπηλλοτριωμένοι<rt>alienated from</rt></ruby><rt>ἀπαλλοτριόω</rt></ruby><rt>V‑RPM⁞P‑NMP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GFS</rt></RUBY> <RUBY><ruby><ruby>ζωῆς<rt>life</rt></ruby><rt>ζωή</rt></ruby><rt>N‑GFS</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMS</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>of God‚</rt></ruby><rt>θεός</rt></ruby><rt>N‑GMS</rt></RUBY> 與神所賜的生命隔絕了
  
-#### 3.2.3 助動詞 εἰμί＋不定過去式分詞
+### 3.2.3 助動詞 εἰμί＋不定過去式分詞
  
 - 新約希臘文極少出現，只有三處：
  

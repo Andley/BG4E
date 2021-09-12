@@ -1,4 +1,4 @@
-#### 圖析 (Phi 2:25–30)
+### 圖析 (Phi 2:25–30)
 
 
 - <rt>2:25a</rt> (<RUBY><ruby><ruby>Ἀναγκαῖον<rt>Necessary</rt></ruby><rt>ἀναγκαῖος</rt></ruby><rt>A-NSN</rt></RUBY>)C1 <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἡγησάμην**<rt>I esteemed [it],</rt></ruby><rt>ἡγέομαι</rt></ruby><rt>V-ADI-1S</rt></RUBY> { (<RUBY><ruby><ruby>Ἐπαφρόδιτον<rt>Epaphroditus,</rt></ruby><rt>Ἐπαφρόδιτος</rt></ruby><rt>N-ASM-P</rt></RUBY>)c «<rt>2:25bc</rt>» <RUBY><ruby><ruby>*πέμψαι*<rt>to send</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAN</rt></RUBY> (<RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς,<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)a }C2
@@ -23,7 +23,7 @@
 	- <rt>2:30a</rt> <RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>for the sake of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ἔργον<rt>work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>of Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>)A1 (<RUBY><ruby><ruby>μέχρι<rt>unto</rt></ruby><rt>μέχρι</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θανάτου<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)A2 <RUBY><ruby><ruby>**ἤγγισεν**<rt>he came near,</rt></ruby><rt>ἐγγίζω</rt></ruby><rt>V-AAI-3S</rt></RUBY> { <RUBY><ruby><ruby>*παραβολευσάμενος*<rt>having disregarded</rt></ruby><rt>παραβουλεύομαι, παραβολεύομαι</rt></ruby><rt>V-ADP-NSM</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>[his]</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ψυχῇ,<rt>life</rt></ruby><rt>ψυχή</rt></ruby><rt>N-DSF</rt></RUBY> }A3
 		-  <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἀναπληρώσῃ**<rt>he might fill up</rt></ruby><rt>ἀναπληρόω</rt></ruby><rt>V-AAS-3S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ὑστέρημα<rt>deficit</rt></ruby><rt>ὑστέρημα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πρός<rt>toward</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>με<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby>λειτουργίας.¶<rt>service.</rt></ruby><rt>λειτουργία</rt></ruby><rt>N-GSF</rt></RUBY>)C
 
-#### 筆記 (Phi 2:25–30)
+### 筆記 (Phi 2:25–30)
 
 
 

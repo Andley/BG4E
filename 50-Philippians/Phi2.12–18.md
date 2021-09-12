@@ -1,4 +1,4 @@
-#### 圖析 (Phi 2:12–13)
+### 圖析 (Phi 2:12–13)
 
 - <rt>2:12a</rt> <RUBY><ruby><ruby>Ὥστε,<rt>Therefore,</rt></ruby><rt>ὥστε</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοί<rt>beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> 
 - <rt>2:12b</rt> ( «<rt>2:12cde</rt>»)A1 (<RUBY><ruby><ruby>μετὰ<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φόβου<rt>fear</rt></ruby><rt>φόβος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τρόμου<rt>trembling</rt></ruby><rt>τρόμος</rt></ruby><rt>N-GSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>τὴν<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν<rt>your own</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-2GPM</rt></RUBY> <RUBY><ruby><ruby>σωτηρίαν<rt>salvation</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-ASF</rt></RUBY>)C <RUBY><ruby><ruby>**κατεργάζεσθε·**<rt>work out.</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PNM-2P</rt></RUBY>
@@ -8,11 +8,11 @@
 - <rt>2:13a</rt> (<RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)C <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**ἐστιν**<rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> («<rt>2:13b</rt>»)S
 - <rt>2:13b</rt> <RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>*ἐνεργῶν*<rt>working</rt></ruby><rt>ἐνεργέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)a1 (<RUBY><ruby><ruby>καὶ<rt>both</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>*θέλειν*<rt>to will</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>*ἐνεργεῖν*<rt>to work</rt></ruby><rt>ἐνεργέω</rt></ruby><rt>V-PAN</rt></RUBY>)c (<RUBY><ruby><ruby>ὑπὲρ<rt>according to</rt></ruby><rt>ὑπέρ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[His]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>εὐδοκίας.<rt>good pleasure.</rt></ruby><rt>εὐδοκία</rt></ruby><rt>N-GSF</rt></RUBY>)a2
 
-#### 筆記 (Phi 2:12–13)
+### 筆記 (Phi 2:12–13)
 
 ---
 
-#### 圖析 (Phi 2:14–18)
+### 圖析 (Phi 2:14–18)
 - <rt>2:14</rt> (<RUBY><ruby><ruby>Πάντα<rt>All things</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APN</rt></RUBY>)C <RUBY><ruby><ruby>**ποιεῖτε**<rt>do</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>χωρὶς<rt>without</rt></ruby><rt>χωρίς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γογγυσμῶν<rt>murmurings</rt></ruby><rt>γογγυσμός</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διαλογισμῶν,<rt>disputings,</rt></ruby><rt>διαλογισμός</rt></ruby><rt>N-GPM</rt></RUBY>)A
 	- <rt>2:15a</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby><ruby>**γένησθε**<rt>you may be</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADS-2P</rt></RUBY> (<RUBY><ruby><ruby>ἄμεμπτοι<rt>blameless</rt></ruby><rt>ἄμεμπτος</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀκέραιοι,<rt>innocent,</rt></ruby><rt>ἀκέραιος</rt></ruby><rt>A-NPM</rt></RUBY>)C1 (<RUBY><ruby><ruby>τέκνα<rt>children</rt></ruby><rt>τέκνον</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God,</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἄμωμα<rt>unblemished</rt></ruby><rt>ἄμωμος</rt></ruby><rt>A-NPN</rt></RUBY>)C2
@@ -34,7 +34,7 @@
 					- <rt>2:18b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**συνχαίρετέ**<rt>rejoice with</rt></ruby><rt>συγχαίρω</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>μοι.¶<rt>me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>
 
 
-#### 筆記 (Phi 2:14–18)
+### 筆記 (Phi 2:14–18)
 
 
 

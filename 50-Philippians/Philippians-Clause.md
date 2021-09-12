@@ -21,7 +21,7 @@
 
 
 ### (1) 主要子句 (Primary Clause)
-#### (1a) 對等連接詞 (coordinate conjunctive) 
+### (1a) 對等連接詞 (coordinate conjunctive) 
 用對等連接詞 καί 帶出主要子句。καί 可以翻譯成 and/but。
 
 - καί 通常會放在句首——如果 καί 不是子句的第一個字，那麼很可能是當作副詞使用，意思是 also (也)、even (甚至)。
@@ -35,7 +35,7 @@
 
 - <rt>腓1:12a</rt> { <RUBY><ruby><ruby>*Γινώσκειν*<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY> }C<sub>-</sub> <RUBY><ruby><ruby><mark>δὲ</mark><rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <sub>-</sub>C{ <RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY> } (<RUBY><ruby><ruby>**βούλομαι,**<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> ⇒ 弟兄們！我要你們知道
 
-#### (1b) 無連接詞 (asyndeton)
+### (1b) 無連接詞 (asyndeton)
 主要子句可以不需要連接詞，這在句法上叫做 Asyndeton (省略連接詞)，有些文法書用 Ø 符號來代表。在語意上，無連接詞*可能*是一個新段落的開始。
 
 - <rt>腓1:3a</rt> (<RUBY><ruby><ruby>**Εὐχαριστῶ**<rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C ⇒ 我感謝我的上帝
@@ -48,7 +48,7 @@
 
 ### (2) 從屬子句 (Subordinate Clause)
 
-#### (2a) 從屬連接詞 (subordinate conjunctive)
+### (2a) 從屬連接詞 (subordinate conjunctive)
 用從屬連接詞 ἵνα 帶出來從屬子句，補充說明主要子句。
 
 - <rt>腓2:28a</rt> (<RUBY><ruby><ruby>**ἔπεμψα**<rt>I have sent</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν,<rt>him,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>)C ⇒ 我打發他去 
@@ -62,7 +62,7 @@
 		- (<RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P ⇒ 我將活著
 		- <rt>腓1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>**παραμενῶ**<rt>will continue with</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πᾶσιν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A ⇒ 我將繼續與你們同在
 
-#### (2b) 關係子句
+### (2b) 關係子句
 
 用關係代名詞 ὅς 帶出關係子句，補充說明主要子句。一般情況下，關係代名詞的數 (number)、性 (gender) 要與先行詞 (antecedent) 一致；格 (case) 則要看在關係子句中的角色而定。
 
@@ -74,7 +74,7 @@
 
 ### (3) 內嵌子句 (Embedded Clause)
 
-#### (3a) 不定詞內嵌子句
+### (3a) 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
 - <rt>腓1:12a</rt> { <rt>[</rt><RUBY><ruby><ruby>*Γινώσκειν*<rt>To know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAN</rt></RUBY><rt>)p</rt> ... <rt>[</rt><RUBY><ruby><ruby>ὑμᾶς<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>)s</rt> }C (<RUBY><ruby><ruby>**βούλομαι,**<rt>I want,</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> ⇒ 弟兄們！我要你們知道
@@ -92,7 +92,7 @@
 - 第二個不定詞 ἔχειν 有主語 (με)、狀語 (ἐν τῇ καρδίᾳ)、補語 (ὑμᾶς)，合起來形成不定詞內嵌子句，用大括號 { …… } 標示，前面加上冠詞 (τὸ) 當作實名詞使用，再被前面的 διὰ 納入，成為介系詞片語，當作Καθώς 從屬子句的第二個狀語 (A2)。
 
 
-#### (3b) 分詞內嵌子句
+### (3b) 分詞內嵌子句
 分詞是：動詞＋形容詞的結合體。因為有形容詞的特色，所以可以當作形容詞用，跟冠詞、實名詞結合，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是所有格，形成分詞的獨立所有格)、補語、狀語，進而形成分詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
 - <rt>腓2:28b</rt> <RUBY><ruby><ruby><mark>ἵνα</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 

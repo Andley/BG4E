@@ -1,4 +1,4 @@
-#### 圖析
+### 圖析
 
 
 - <rt>4:8a</rt> <RUBY><ruby><ruby>Τὸ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν,<rt>Finally,</rt></ruby><rt>λοιπόν</rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
@@ -21,7 +21,7 @@
 - <rt>4:9e</rt> <RUBY><ruby><ruby><mark>ταῦτα°²</mark><rt>these things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY> <RUBY><ruby><ruby>**πράσσετε·**<rt>practice;</rt></ruby><rt>πράσσω</rt></ruby><rt>V-PAM-2P</rt></RUBY> 
 - <rt>4:9f</rt><RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>εἰρήνης<rt>of peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N-GSF</rt></RUBY>)S <RUBY><ruby><ruby>**ἔσται**<rt>will be</rt></ruby><rt>εἰμί</rt></ruby><rt>V-FDI-3S</rt></RUBY> (<RUBY><ruby><ruby>μεθ᾽<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν.¶<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A
 
-#### 筆記
+### 筆記
 
 
 

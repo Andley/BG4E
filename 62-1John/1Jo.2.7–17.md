@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 2:7–11)
+### 圖析 (1Jo 2:7–11)
 
 
 - <rt>2:7a</rt> <RUBY><ruby><ruby>Ἀγαπητοί,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐντολὴν<rt>a commandment</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καινὴν<rt>new</rt></ruby><rt>καινός</rt></ruby><rt>A-ASF</rt></RUBY>)C1 <RUBY><ruby><ruby>**γράφω**<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
@@ -24,11 +24,11 @@
 	- <rt>2:11e</rt><RUBY><ruby><ruby>ὅτι<rt>because</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>σκοτία<rt>darkness</rt></ruby><rt>σκοτία</rt></ruby><rt>N-NSF</rt></RUBY>)S <RUBY><ruby><ruby>**ἐτύφλωσεν**<rt>has blinded</rt></ruby><rt>τυφλόω</rt></ruby><rt>V-AAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τοὺς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>ὀφθαλμοὺς<rt>eyes</rt></ruby><rt>ὀφθαλμός</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>of him.</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)C
 
 
-#### 筆記 (1Jo 2:7–11)
+### 筆記 (1Jo 2:7–11)
 
 ---
 
-#### 圖析 (1Jo 2:12–14)
+### 圖析 (1Jo 2:12–14)
 
 
 - <rt>2:12a</rt> <RUBY><ruby><ruby>**Γράφω**<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν,<rt>to you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>τεκνία,<rt>little children,</rt></ruby><rt>τεκνίον</rt></ruby><rt>N-VPN</rt></RUBY> 
@@ -46,11 +46,11 @@
 	- <rt>2:14g</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A <RUBY><ruby><ruby>**μένει**<rt>abides,</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 	- <rt>2:14h</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>**νενικήκατε**<rt>you have overcome</rt></ruby><rt>νικάω</rt></ruby><rt>V-RAI-2P</rt></RUBY> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>πονηρόν.¶<rt>evil [one].</rt></ruby><rt>πονηρός</rt></ruby><rt>A-ASM</rt></RUBY>)C
 
-#### 筆記 (1Jo 2:12–14)
+### 筆記 (1Jo 2:12–14)
 
 ---
 
-#### 圖析 (1Jo 2:15–17)
+### 圖析 (1Jo 2:15–17)
 
 
 - <rt>2:15a</rt> <RUBY><ruby><ruby>Μὴ<rt>Not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἀγαπᾶτε**<rt>do love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόσμον<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-ASM</rt></RUBY>)C 
@@ -68,7 +68,7 @@
 - <rt>2:17b</rt> (<RUBY><ruby><ruby>ὁ<rt>the [one]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>*ποιῶν*<rt>doing</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>θέλημα<rt>will</rt></ruby><rt>θέλημα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY><rt>]c</rt> } )S <RUBY><ruby><ruby>**μένει**<rt>abides</rt></ruby><rt>μένω</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνα.¶<rt>age.</rt></ruby><rt>αἰών</rt></ruby><rt>N-ASM</rt></RUBY>)A
 
 
-#### 筆記 (1Jo 2:15–17)
+### 筆記 (1Jo 2:15–17)
 
 
 

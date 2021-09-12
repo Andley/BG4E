@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 5:1–5)
+### 圖析 (1Jo 5:1–5)
 
 
 - <rt>5:1a</rt> (<RUBY><ruby><ruby>Πᾶς<rt>Everyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>who</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby>*πιστεύων*<rt>is believing</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> «<rt>5:1b</rt>»c } )S (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)A <RUBY><ruby><ruby>**γεγέννηται,**<rt>has been born,</rt></ruby><rt>γεννάω</rt></ruby><rt>V-RPI-3S</rt></RUBY> 
@@ -24,7 +24,7 @@
 
 
 
-#### 筆記 (1Jo 5:1–5)
+### 筆記 (1Jo 5:1–5)
 
 ---
 

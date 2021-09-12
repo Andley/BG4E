@@ -33,7 +33,7 @@
 
 - 命令語氣通常用來引導別人的行動。
 
-#### 2.1.1 動作與觀點 (Action and Aspect)
+### 2.1.1 動作與觀點 (Action and Aspect)
 
 - 傳統文法認為：不定過去式命令語氣 (aorist imperative) 代表瞬間的 (instantaneous)、只此一次的 (once for all)、不是現在發生的動作；現在式命令語氣 (present imperative) 代表持續的 (continual)、習慣的 (habitual)、重複的 (repeated)、或正在進行的 (ongoing) 動作──這樣的說法不正確。
 
@@ -55,7 +55,7 @@
 
 (14) 徒15:29 <RUBY><ruby><ruby>ἐξ<rt>From</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>ὧν<rt>these</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑GNP</rt></RUBY> <RUBY><ruby><ruby>διατηροῦντες<rt>keeping</rt></ruby><rt>διατηρέω</rt></ruby><rt>V‑PPA‑NMP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτοὺς<rt>yourselves</rt></ruby><rt>ἑαυτού</rt></ruby><rt>RefPro‑AM3P</rt></RUBY> <RUBY><ruby><ruby>εὖ<rt>well</rt></ruby><rt>εὖ</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>πράξετε.<rt>you will do.</rt></ruby><rt>πράσσω</rt></ruby><rt>V‑FIA‑2P</rt></RUBY> <RUBY><ruby><ruby>Ἔρρωσθε.<rt>Farewell.</rt></ruby><rt>ῥώννυμι</rt></ruby><rt>V‑RMM⁞P‑2P</rt></RUBY> 這幾件你們若能自己禁戒不犯就好了。願你們平安！【標準希臘書信結尾】
 
-#### 2.1.2 第二、三人稱命令語氣 (Second and third person Imperative)
+### 2.1.2 第二、三人稱命令語氣 (Second and third person Imperative)
 
 - 第二人稱的翻譯跟英文類似，但第三人稱卻需要加上表達許可含意的「讓…」（let ... ）。但這是為了翻譯成英文才有的，不是希臘文本身就有的。第三人稱命令語氣指揮別人的口氣，跟第二人稱同樣強烈。
 
@@ -75,7 +75,7 @@
 
 - ἴδε [AMA-2S]、ἰδού[AMM-2S] 其實是 ὁράω [PIA-1S] 的命令語氣，但在新約已經是固定的用法，當作感歎詞 (interjection) 用。
 
-#### 2.1.3 命令與禁令 (Commands and prohibitions)
+### 2.1.3 命令與禁令 (Commands and prohibitions)
 
 - 現在式命令語氣：用於命令 (command)，加上μή變成禁令 (prohibition)。
 - 不定過去式命令語氣：用於命令 (command)，加上 μή 變成禁令的僅限於第三人稱 (只有八處：太6:3; 24:17, 8; 可13:15[2x], 16; 路17:31[2x])。【p.59 「但簡單過去式命令語氣卻僅限於禁令。」──翻譯錯誤】
@@ -93,11 +93,11 @@
 
 - 假設語氣用來表達「預期」(projection)，可用於：獨立子句、從屬子句 (表達：目的、結果、條件)。
 
-#### 2.2.1 動詞觀點 (Verbal Aspect)
+### 2.2.1 動詞觀點 (Verbal Aspect)
 
 (24) 可9:37 <RUBY><ruby><ruby>“Ὃς<rt>Whoever</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>Prtcl</rt></RUBY> <RUBY><ruby><ruby>ἓν<rt>one</rt></ruby><rt>εἷς</rt></ruby><rt>Adj‑ANS</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GNP</rt></RUBY> <RUBY><ruby><ruby>τοιούτων<rt>of such</rt></ruby><rt>τοιοῦτος</rt></ruby><rt>DPro‑GNP</rt></RUBY> <RUBY><ruby><ruby>παιδίων<rt>little children</rt></ruby><rt>παιδίον</rt></ruby><rt>N‑GNP</rt></RUBY> <RUBY><ruby><ruby>δέξηται<rt>shall receive</rt></ruby><rt>δέχομαι</rt></ruby><rt>V‑ASM‑3S</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>in</rt></ruby><rt>ἐπί</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DNS</rt></RUBY> <RUBY><ruby><ruby>ὀνόματί<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N‑DNS</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑G1S</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1S</rt></RUBY> <RUBY><ruby><ruby>δέχεται·<rt>receives;</rt></ruby><rt>δέχομαι</rt></ruby><rt>V‑PIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ὃς<rt>whoever</rt></ruby><rt>ὅς</rt></ruby><rt>RelPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>Prtcl</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1S</rt></RUBY> <RUBY><ruby><ruby>δέχηται<rt>shall receive</rt></ruby><rt>δέχομαι</rt></ruby><rt>V‑PSM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>Me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1S</rt></RUBY> <RUBY><ruby><ruby>δέχεται<rt>receives</rt></ruby><rt>δέχομαι</rt></ruby><rt>V‑PIM⁞P‑3S</rt></RUBY> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἀποστείλαντά<rt>having sent</rt></ruby><rt>ἀποστέλλω</rt></ruby><rt>V‑APA‑AMS</rt></RUBY> <RUBY><ruby><ruby>με.<rt>Me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1S</rt></RUBY> 凡為我名接待一個像這小孩子的，就是接待我；凡接待我的，不是接待我，乃是接待那差我來的。【兩個條件子句的 δέχομαι 從 aorist 換成 present，差別在於觀點】
 
-#### 2.2.2 否定的簡單過去式假設語氣（Negated aorist subjunctive）
+### 2.2.2 否定的簡單過去式假設語氣（Negated aorist subjunctive）
 
 - 第二人稱禁令：要用「否定的簡單過去式假設語氣」，來代替「否定的簡單過去式命令語氣」。
 
@@ -109,7 +109,7 @@
 
 (28) 太10:9 <RUBY><ruby><ruby>Μὴ<rt>Neither</rt></ruby><rt>μή</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>κτήσησθε<rt>take along</rt></ruby><rt>κτάομαι</rt></ruby><rt>V‑ASM‑2P</rt></RUBY> <RUBY><ruby><ruby>χρυσὸν<rt>gold</rt></ruby><rt>χρυσός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>μηδὲ<rt>nor</rt></ruby><rt>μηδέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἄργυρον<rt>silver</rt></ruby><rt>ἄργυρος</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>μηδὲ<rt>nor</rt></ruby><rt>μηδέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>χαλκὸν<rt>copper</rt></ruby><rt>χαλκός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AFP</rt></RUBY> <RUBY><ruby><ruby>ζώνας<rt>belts</rt></ruby><rt>ζώνη</rt></ruby><rt>N‑AFP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2P</rt></RUBY> 腰袋裡不要帶金銀銅錢。
 
-#### 2.2.3 命令和禁令 (Commands and prohibitions)
+### 2.2.3 命令和禁令 (Commands and prohibitions)
 
 - 第一人稱假設語氣又稱為「勸勉的假設語氣」(horatory subjunctive)。用於肯定句時表達「讓我這麼作吧」，用於疑問句時則是「我該這麼作嗎？」。
 - 單數「勸勉的假設語氣」比較少見。
@@ -140,7 +140,7 @@
 
 (40) 林前16:11 <RUBY><ruby><ruby>μή<rt>Not</rt></ruby><rt>μή</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>τις<rt>anyone</rt></ruby><rt>τὶς</rt></ruby><rt>IPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>him</rt></ruby><rt>αὐτός</rt></ruby><rt>PPro‑AM3S</rt></RUBY> <RUBY><ruby><ruby>ἐξουθενήσῃ.<rt>should despise.</rt></ruby><rt>ἐξουθενέω</rt></ruby><rt>V‑ASA‑3S</rt></RUBY> 所以，無論誰都不可藐視他
 
-#### 2.2.4 假設語氣的強烈否定 (Emphatic negation of the subjunctive)
+### 2.2.4 假設語氣的強烈否定 (Emphatic negation of the subjunctive)
 
 - 通常用 οὐ μή 表示強烈否定。
 
@@ -154,7 +154,7 @@
 
 - 祈願語氣跟假設語氣非常相似，只不過多了一點距離 (remote)、模糊 (vague)、不確定 (less assured)、看情況而定 (contigent) 的感覺。
 
-#### 2.3.1 意志的用法 (Volitive usage)
+### 2.3.1 意志的用法 (Volitive usage)
 
 (44) 可11:14 <RUBY><ruby><ruby>“Μηκέτι<rt>No more</rt></ruby><rt>μηκέτι</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMS</rt></RUBY> <RUBY><ruby><ruby>αἰῶνα<rt>age</rt></ruby><rt>αἰών</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>σοῦ<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑G2S</rt></RUBY> <RUBY><ruby><ruby>μηδεὶς<rt>no one</rt></ruby><rt>μηδείς</rt></ruby><rt>Adj‑NMS</rt></RUBY> <RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N‑AMS</rt></RUBY> <RUBY><ruby><ruby>φάγοι.<rt>may eat.</rt></ruby><rt>φάγω</rt></ruby><rt>V‑AOA‑3S</rt></RUBY> 從今以後，永沒有人吃你的果子。
 
@@ -162,13 +162,13 @@
 
 (46) 彼前1:2<RUBY><ruby><ruby>Χάρις<rt>Grace</rt></ruby><rt>χάρις</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑D2P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N‑NFS</rt></RUBY> <RUBY><ruby><ruby>πληθυνθείη.<rt>may be multiplied.</rt></ruby><rt>πληθύνω</rt></ruby><rt>V‑AOP‑3S</rt></RUBY> 願恩惠、平安多多的加給你們
 
-#### 2.3.2 評議的用法 (Deliberative usage)
+### 2.3.2 評議的用法 (Deliberative usage)
 
 (47) 徒8:31 <RUBY><ruby><ruby>“Πῶς<rt>How</rt></ruby><rt>πῶς</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>Prtcl</rt></RUBY> <RUBY><ruby><ruby>δυναίμην<rt>could I be able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V‑POM⁞P‑1S</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>if</rt></ruby><rt>ἐάν</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>μή<rt>not</rt></ruby><rt>μή</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>τις<rt>someone</rt></ruby><rt>τὶς</rt></ruby><rt>IPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>ὁδηγήσει<rt>will guide</rt></ruby><rt>ὁδηγέω</rt></ruby><rt>V‑FIA‑3S</rt></RUBY> <RUBY><ruby><ruby>με;<rt>me?</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑A1S</rt></RUBY> 沒有人指教我，怎能明白呢？
 
 (48) 徒26:29 <RUBY><ruby><ruby>Ὁ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑NMS</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>And</rt></ruby><rt>δέ</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>Παῦλος<rt>Paul [said]</rt></ruby><rt>Παῦλος</rt></ruby><rt>N‑NMS</rt></RUBY> <RUBY><ruby><ruby>“Εὐξαίμην<rt>I would wish</rt></ruby><rt>εὔχομαι</rt></ruby><rt>V‑AOM‑1S</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>Prtcl</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑DMS</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>to God</rt></ruby><rt>θεός</rt></ruby><rt>N‑DMS</rt></RUBY> …<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>only</rt></ruby><rt>μόνον</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>σὲ<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>PPro‑A2S</rt></RUBY> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>πάντας<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>Adj‑AMP</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑AMP</rt></RUBY> <RUBY><ruby><ruby>ἀκούοντάς<rt>hearing</rt></ruby><rt>ἀκούω</rt></ruby><rt>V‑PPA‑AMP</rt></RUBY> <RUBY><ruby><ruby>μου<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑G1S</rt></RUBY> <RUBY><ruby><ruby>σήμερον<rt>this day</rt></ruby><rt>σήμερον</rt></ruby><rt>Adv</rt></RUBY> <RUBY><ruby><ruby>γενέσθαι<rt>to become</rt></ruby><rt>γίνομαι</rt></ruby><rt>V‑ANM</rt></RUBY> <RUBY><ruby><ruby>τοιούτους<rt>such</rt></ruby><rt>τοιοῦτος</rt></ruby><rt>DPro‑AMP</rt></RUBY> <RUBY><ruby><ruby>ὁποῖος<rt>as</rt></ruby><rt>ὁποῖος</rt></ruby><rt>RelPro‑NMS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>Conj</rt></RUBY> <RUBY><ruby><ruby>ἐγώ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>PPro‑N1S</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>am</rt></ruby><rt>εἰμί</rt></ruby><rt>V‑PIA‑1S</rt></RUBY> <RUBY><ruby><ruby>παρεκτὸς<rt>except</rt></ruby><rt>παρεκτός</rt></ruby><rt>Prep</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>Art‑GMP</rt></RUBY> <RUBY><ruby><ruby>δεσμῶν<rt>chains</rt></ruby><rt>δεσμόν</rt></ruby><rt>N‑GMP</rt></RUBY> <RUBY><ruby><ruby>τούτων.<rt>these.</rt></ruby><rt>οὗτος</rt></ruby><rt>DPro‑GMP</rt></RUBY> 保羅說：…我向神所求的，不但你一個人，就是今天一切聽我的，都要像我一樣，只是不要像我有這些鎖鍊。
 
-#### 2.3.3 πρὶν ἤ (在…以前)
+### 2.3.3 πρὶν ἤ (在…以前)
 
 - 祈願語氣跟在 πρὶν ἤ 後面──古典希臘文的用法，新約只有兩處。
 

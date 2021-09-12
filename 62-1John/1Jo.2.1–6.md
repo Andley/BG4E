@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 2:1–6)
+### 圖析 (1Jo 2:1–6)
 - <rt>2:1a</rt> <RUBY><ruby><ruby>Τεκνία<rt>Little children</rt></ruby><rt>τεκνίον</rt></ruby><rt>N-VPN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> (<RUBY><ruby><ruby>ταῦτα<rt>these things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY>)C1 <RUBY><ruby><ruby>**γράφω**<rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>
 	- <rt>2:1b</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>**ἁμάρτητε·**<rt>you may sin.</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-2AAS-2P</rt></RUBY> 
 - ——————————————
@@ -31,7 +31,7 @@
 
 
 
-#### 筆記 (1Jo 2:1–6)
+### 筆記 (1Jo 2:1–6)
 
 
 

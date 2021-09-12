@@ -1,4 +1,4 @@
-#### 圖析 (Php 1:15–17)
+### 圖析 (Php 1:15–17)
 - <rt>1:15a</rt> (<RUBY><ruby><ruby>τινὲς<rt>Some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>διὰ<rt>from</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φθόνον<rt>envy</rt></ruby><rt>φθόνος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔριν,<rt>strife,</rt></ruby><rt>ἔρις</rt></ruby><rt>N-ASF</rt></RUBY>)A2 
 - <rt>1:15b</rt> (<RUBY><ruby><ruby>τινὲς<rt>some</rt></ruby><rt>τις</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>δι᾽<rt>from</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐδοκίαν<rt>goodwill</rt></ruby><rt>εὐδοκία</rt></ruby><rt>N-ASF</rt></RUBY>)A2 (<RUBY><ruby><ruby>τὸν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM-T</rt></RUBY>)C <RUBY><ruby><ruby>**κηρύσσουσιν.**<rt>are proclaiming —</rt></ruby><rt>κηρύσσω</rt></ruby><rt>V-PAI-3P</rt></RUBY> 
 - ——————————————
@@ -9,7 +9,7 @@
 	- <rt>1:17b</rt> (<RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἁγνῶς<rt>purely,</rt></ruby><rt>ἁγνῶς</rt></ruby><rt>ADV</rt></RUBY>)A2
 	- <rt>1:17c</rt> { <RUBY><ruby><ruby>*οἰόμενοι*<rt>supposing</rt></ruby><rt>οἴομαι</rt></ruby><rt>V-PNP-NPM</rt></RUBY> < <rt>[</rt><RUBY><ruby><ruby>θλῖψιν<rt>tribulation</rt></ruby><rt>θλῖψις</rt></ruby><rt>N-ASF</rt></RUBY><rt>]c</rt> <RUBY><ruby><ruby>*ἐγείρειν*<rt>to add</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>τοῖς<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσμοῖς<rt>chains</rt></ruby><rt>δεσμός</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>μου.<rt>of me.</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>]a</rt> >c }A3
 
-#### 筆記 (Php 1:15–17)
+### 筆記 (Php 1:15–17)
 - 1:15ab 和 1:16–17 的結構類似，都用 μὲν ... δὲ 加上冠詞表達交替的人稱代名詞 (alternative personal pronoun; W 212–13 = 華 221–22)，不是要強調對比，而是要把「兩個想法加以分隔開，以致它們可以很容易的分別出來」(BAGD s.v. μέν 一C)。
 - 1:15a 
 	- 單獨冠詞本身就可以當代名詞用 (W 211–12 = 華 219–21)。
@@ -38,13 +38,13 @@
 
 
 ---
-#### 圖析 (Php 1:18a–d)
+### 圖析 (Php 1:18a–d)
 - <rt>1:18a</rt> (<RUBY><ruby><ruby>τί<rt>What</rt></ruby><rt>τίς</rt></ruby><rt>I-NSN</rt></RUBY>)S <RUBY><ruby><ruby>γάρ;<rt>then?</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> 
 - <rt>1:18b</rt> <RUBY><ruby><ruby>πλὴν<rt>Only</rt></ruby><rt>πλήν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:18c</rt> (<RUBY><ruby><ruby>παντὶ<rt>in every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>τρόπῳ<rt>way,</rt></ruby><rt>τρόπος</rt></ruby><rt>N-DSM</rt></RUBY>)A1 (<RUBY><ruby><ruby>εἴτε<rt>whether</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>προφάσει<rt>in pretext</rt></ruby><rt>πρόφασις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>εἴτε<rt>or</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ<rt>in truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>)A2 (<RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)S <RUBY><ruby><ruby>**καταγγέλλεται,**<rt>is proclaimed.</rt></ruby><rt>καταγγέλλω</rt></ruby><rt>V-PPI-3S</rt></RUBY> 
 - <rt>1:18d</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A <RUBY><ruby><ruby>**χαίρω**<rt>I rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
 
-#### 筆記 (Php 1:18a–d)
+### 筆記 (Php 1:18a–d)
 - 1:18a
 	- γάρ 對等連接詞，補充說明上文 1:15–17 (有人傳基督是 .... 有人傳基督是 ....)
 	- τί 主格單數中性疑問代名詞，不能當副詞理解成 why 來用，因為這樣上下文不通；而是要當成名詞使用 (W 345–46 = 華 361)，屬於省略用法，意思是「於是情況如何？這有何妨？」(BAGD s.v. τίς)
@@ -60,7 +60,7 @@
 
 
 ---
-#### 圖析 (Php 1:18e–20)
+### 圖析 (Php 1:18e–20)
 - <rt>1:18e</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>Yes,</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby>**χαρήσομαι.**<rt>I will rejoice.</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2FOI-1S</rt></RUBY>
 - <rt>1:19a</rt> <RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:19b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτό<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μοι<rt>for me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A1 <RUBY><ruby><ruby>**ἀποβήσεται**<rt>will turn out</rt></ruby><rt>ἀποβαίνω</rt></ruby><rt>V-FDI-3S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σωτηρίαν<rt>deliverance</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-ASF</rt></RUBY>)A2 
@@ -70,7 +70,7 @@
 				- (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐδενὶ<rt>nothing</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-DSN</rt></RUBY>)A <RUBY><ruby><ruby>**αἰσχυνθήσομαι**<rt>I will be ashamed,</rt></ruby><rt>αἰσχύνω</rt></ruby><rt>V-FPI-1S</rt></RUBY> 
 				- <rt>1:20c</rt> <RUBY><ruby><ruby>ἀλλ᾽<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>παρρησίᾳ<rt>boldness,</rt></ruby><rt>παρρησία</rt></ruby><rt>N-DSF</rt></RUBY>)A1 (<RUBY><ruby><ruby>ὡς<rt>as</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>now,</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A2 <RUBY><ruby><ruby>**μεγαλυνθήσεται**<rt>will be magnified</rt></ruby><rt>μεγαλύνω</rt></ruby><rt>V-FPI-3S</rt></RUBY> (<RUBY><ruby><ruby>Χριστὸς<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>σώματί<rt>body</rt></ruby><rt>σῶμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>of me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)A3 (<RUBY><ruby><ruby>εἴτε<rt>whether</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ζωῆς<rt>life</rt></ruby><rt>ζωή</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>εἴτε<rt>or</rt></ruby><rt>εἴτε</rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θανάτου.¶<rt>death.</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>)A4 
 
-#### 筆記 (Php 1:18e–20)
+### 筆記 (Php 1:18e–20)
 - 1:18e
 	- NA28 在此分出新的段落。不過因為對等連接詞 ἀλλὰ 是表達「關聯 correlation」以及「修正 correction」(R 55–56)，與上文緊密相連，因此這裡應該不要分段比較恰當，正如 UBS5 的排版。
 	- καὶ 沒放在句首，所以是副詞用法，修飾主要動詞。
@@ -101,7 +101,7 @@
 
 
 ---
-#### 圖析 (Php 1:21–24)
+### 圖析 (Php 1:21–24)
 - <rt>1:21a</rt> (<RUBY><ruby><ruby>Ἐμοὶ<rt>To me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ζῆν*<rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> }S (<RUBY><ruby><ruby>Χριστὸς<rt>[is] Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)C 
 - <rt>1:21b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>*ἀποθανεῖν*<rt>to die</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-2AAN</rt></RUBY> }S (<RUBY><ruby><ruby>κέρδος.<rt>[is] gain.</rt></ruby><rt>κέρδος</rt></ruby><rt>N-NSN</rt></RUBY>)C 
 - ——————————————
@@ -118,7 +118,7 @@
 - <rt>1:24</rt> {<RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>but</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>*ἐπιμένειν*<rt>to remain</rt></ruby><rt>ἐπιμένω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>flesh</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> }S (<RUBY><ruby><ruby>ἀναγκαιότερον<rt>[is] more necessary</rt></ruby><rt>ἀναγκαῖος</rt></ruby><rt>A-NSN-C</rt></RUBY>)C (<RUBY><ruby><ruby>δι᾽<rt>for the sake of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY>)A 
 
 
-#### 筆記 (Php 1:21–24)
+### 筆記 (Php 1:21–24)
 - 1:21ab
 	- 對等連接詞 γὰρ 帶出兩個無動詞子句 (省略 BE 動詞)，補充說明上文「或生或死都能讓基督被稱頌」的理由。
 	- Ἐμοὶ 表達利益的間接受格 (W 142–44 = 華 146–48)，擺在句首，表示強調。τὸ ζῆν 帶冠詞的不定詞是主語，沒有冠詞的名詞 Χριστὸς 是補語。同樣道理，τὸ ἀποθανεῖν 帶冠詞的不定詞是主語，沒有冠詞的名詞 κέρδος 是補語。
@@ -143,7 +143,7 @@
 
 
 ---
-#### 圖析 (Php 1:25–26)
+### 圖析 (Php 1:25–26)
 - <rt>1:25a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <rt>[</rt><RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)<rt>c</rt> <RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of,</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY> }A <RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY> 
 	- <rt>1:25b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY> 
@@ -151,7 +151,7 @@
 		- <rt>1:26a</rt> <RUBY><ruby><ruby>ἵνα<rt>so that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> 
 			- (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>καύχημα<rt>boasting</rt></ruby><rt>καύχημα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)S <RUBY><ruby><ruby>**περισσεύῃ**<rt>may abound</rt></ruby><rt>περισσεύω</rt></ruby><rt>V-PAS-3S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>to</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A2 (<RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐμῆς<rt>my</rt></ruby><rt>ἐμός</rt></ruby><rt>S-1SGSF</rt></RUBY> <RUBY><ruby><ruby>παρουσίας<rt>coming</rt></ruby><rt>παρουσία</rt></ruby><rt>N-GSF</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>again</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>to</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY><rt>]</rt> )A3
 
-#### 筆記 (Php 1:25–26)
+### 筆記 (Php 1:25–26)
 
 - 1:25a
 	- 分詞內嵌子句當狀語使用，修飾主要動詞 οἶδα，表達「原因 cause」(W 631–32 = 華 666–67)，意思是「因為如此確信，所以我知道 ...」。
