@@ -54,9 +54,9 @@
 用從屬連接詞 ὅτι 帶出來從屬子句，補充說明主要子句。
 
 - <rt>腓1:25a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τοῦτο<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby>*πεποιθὼς*<rt>having been persuaded of,</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAP-NSM</rt></RUBY>}A (<RUBY><ruby><ruby>**οἶδα**<rt>I know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY>)P ⇒ 如此相信，我知道
-		- <rt>腓1:25b</rt> <RUBY><ruby><ruby><mark>ὅτι</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
-			- (<RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P ⇒ 我將活著
-			- <rt>腓1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>**παραμενῶ**<rt>will continue with</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πᾶσιν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A ⇒ 我將繼續與你們同在
+	- <rt>腓1:25b</rt> <RUBY><ruby><ruby><mark>ὅτι</mark><rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
+		- (<RUBY><ruby><ruby>**μενῶ**<rt>I will remain</rt></ruby><rt>μένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P ⇒ 我將活著
+		- <rt>腓1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>**παραμενῶ**<rt>will continue with</rt></ruby><rt>παραμένω</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>πᾶσιν<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A ⇒ 我將繼續與你們同在
 
 #### (2b) 關係子句
 
