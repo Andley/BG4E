@@ -8,32 +8,32 @@
 ###  The Cases•格
 
 ### Nominative•主格
-- *Primary Uses (38-49)•主要功能 (37-48)*
+- <em>Primary Uses (38-49)•主要功能 (37-48)</em>
 	- ➡(1) Subject (38-40)•主詞 (37-39)
 	- ➡(2) Predicate Nominative (40-48)•主格述詞 (39-47)
 	- ➡(3) Nominative in Simple Apposition (48-49)•單純同位主格 (47-48)
-- *Grammatically Independent Uses of the Nominative (49-60)•文法上是獨立使用的主格用法 (48-60)*
+- <em>Grammatically Independent Uses of the Nominative (49-60)•文法上是獨立使用的主格用法 (48-60)</em>
 	- ➡(1) Nominative Absolute (49-51)•作標題、稱呼用的主格 (48-50)
-	- ➡(2) *Nominativus Pendens* (Pendent Nominative) (51-53)•破格主詞補語 (50-51)
+	- ➡(2) <em>Nominativus Pendens</em> (Pendent Nominative) (51-53)•破格主詞補語 (50-51)
 	- ➡(3) Parenthetic Nominative (53-54)•作為插語的主格 (52-53)
 	- (4) Nominative in Proverbial Expressions (54-55)•引入語語的主格用法 (53-54)
 	- ➡(5) Nominative for Vocative (Nominative of Address) (56-59)•作呼格用的主格(作稱呼用) (55-58)
 	- (6) Nominative of Exclamation (59-60)•表驚噴的主格 (59-60)
-- *Nominatives in Place of Oblique Cases (61-64)•主格取代斜格 (60-64)*
+- <em>Nominatives in Place of Oblique Cases (61-64)•主格取代斜格 (60-64)</em>
 	- (1) Nominative of Appellation (61)•作為稱謂的主格 (60)
 	- (2) Nominative in Apposition to Oblique Cases (62)•作為斜格同位詞的主格 (61)
 	- (3) Nominative After a Preposition (62-64)•作介系詞受詞的主格 (62-63)
 	- (4) Nominative for Time (64)•表時距的主格 (63-64)
 
 ### Vocative•呼格
-- *Direct Address (67-70)•直接的稱謂 (67-70)*
+- <em>Direct Address (67-70)•直接的稱謂 (67-70)</em>
 	- ➡(1) Simple Address (67-68)•簡單的稱謂 (67-68) 
 	- (2) Emphatic (or, Emotional) Address (68-69)• 強調性(或情緒性)的稱謂 (68-69) 
-- *Exclamation (70)•表達驚嘆 (69)*
-- *Apposition (70-71)•表達同位 (69-70)*
+- <em>Exclamation (70)•表達驚嘆 (69)</em>
+- <em>Apposition (70-71)•表達同位 (69-70)</em>
 
 ### Genitive•所有格
-- *Adjectival (78-107)•形容性用法 (77-109)*
+- <em>Adjectival (78-107)•形容性用法 (77-109)</em>
 	- ✚(1) Descriptive Genitive (79-81)•1用作一般性的描述與修飾功能 (78-80)
 	- ➡(2) Possessive Genitive (81-83)•用作表達擁有 (80-82)
 	- (3) Genitive of Relationship (83-84)•用作呈現關係 (82-83)
@@ -49,15 +49,15 @@
 	- (13) Genitive of Subordination (103-104)•指明從屬 (103-05)
 	- (14) Genitive of Production/Producer (104-106)•指明施做者 (106-07)
 	- (15) Genitive of Product (106-107)•指明結果 (107-09)
-- *Ablatival Genitive (107-12)•表達「離開」這個意涵的所有格用法 (109-14)*
+- <em>Ablatival Genitive (107-12)•表達「離開」這個意涵的所有格用法 (109-14)</em>
 	- (1) Genitive of Separation (107-109)•1表達「分離」 (109-10)
 	- (2) Genitive of Source (or Origin) (109-10)•表達「根源」 (110-12)
 	- ➡(3) Genitive of Comparison (110-12)•表達「比較」 (112-14)
-- *Verbal Genitive (112-21)•動詞性用法 (114-33)*
+- <em>Verbal Genitive (112-21)•動詞性用法 (114-33)</em>
 	- ➡(1) Subjective Genitive (113-16)•指明動作的施做者 (118-21)
 	- ➡(2) Objective Genitive (116-19)•指明動作的接受者 (118-21)
 	- (3) Plenary Genitive (119-21)•雙重角色的功能 (121-23)
-- *Adverbial Genitive (121-30)•副詞性用法 (123-30)*
+- <em>Adverbial Genitive (121-30)•副詞性用法 (123-30)</em>
 	- (1) Genitive of Price or Value or Quantity (122)•指明「價錢、價值、或品質」 (124)
 	- ➡(2) Genitive of Time (kind of time) (122-24)•指明「時間(的類別)」 (124-26)
 	- (3) Genitive of Place (where or within which) (124-25)•指明「地點」 (126-27)
@@ -66,14 +66,14 @@
 	- ➡(6) Genitive Absolute (127)•作獨立分詞片語的主詞 (130)
 	- (7) Genitive of Reference (127-28)•指明作為參考的對象 (130-31)
 	- (8) Genitive of Association (128-30)•指明關連的對象 (131-33)
-- *After Certain Words (131-36)•跟在若干特定的字彙後面 (134-39)*
+- <em>After Certain Words (131-36)•跟在若干特定的字彙後面 (134-39)</em>
 	- ➡(1) Genitive After Certain Verbs (as a Direct Object) (131-34)•跟在動詞後面(作直接受詞) (134-37)
 	- (2) Genitive After Certain Adjectives (and Adverbs) (134-35)•跟在形容詞後面(或副詞) (137-38)
 	- (3) Genitive After Certain Nouns (135)•跟在名詞後面 (138-39)
 	- ➡(4) Genitive After Certain Prepositions (136)•跟在介系詞後面 (139)
 
 ### Dative•間接受格
-- *Pure Dative Uses (140-53)•單純的間接受格用法 (144-57)*
+- <em>Pure Dative Uses (140-53)•單純的間接受格用法 (144-57)</em>
 	- ➡(1) Dative Indirect Object (140-42)•用作間接受詞 (144-46)
 	- ➡(2) Dative of Interest (142-44)•表達與利益有關的接受者 (146-48)
 		- (a) Advantage (142-44)•得利 (147-48)
@@ -86,12 +86,12 @@
 	- (8) Dative of Thing Possessed (disputed) (151)•指明所擁有的所有物 (155)
 	- (9) Predicate Dative (152)•作為述詞捕語 (156)
 	- ➡(10) Dative in Simple Apposition (152-53)•作為同位語 (156-57)
-- *Local Dative Uses (153-58)•作度量衡使用 (157-63)*
+- <em>Local Dative Uses (153-58)•作度量衡使用 (157-63)</em>
 	- (1) Dative of Place (153)•表達地點 (157)
 	- ➡(2) Dative of Sphere (153-55)•表達動作的範疇 (158-59)
 	- ➡(3) Dative of Time (when) (155-57)•表達時間 (159-61)
 	- (4) Dative of Rule (157-58)•表達規則 (161-63)
-- *Instrumental Dative Uses (158-71)•指明工具 (163-76)*
+- <em>Instrumental Dative Uses (158-71)•指明工具 (163-76)</em>
 	- ➡(1) Dative of Association/Accompaniment (159-61)•表達關連 (163-65)
 	- (2) Dative of Manner (or Adverbial Dative) (161-62)•表達樣貌 (165-66)
 	- ➡(3) Dative of Means/Instrument (162-63)•表達方法或工具 (167-68)
@@ -101,14 +101,14 @@
 	- (7) Cognate Dative (168-69)•表明強調 (173-74)
 	- (8) Dative of Material (169-70)•指明材質 (175)
 	- ✚(9) Dative of Content (170-71)•指明內容物 (175-76)
-- *Dative After Certain Words (171-75)•跟在若干特定的字彙後面 (176-81)*
+- <em>Dative After Certain Words (171-75)•跟在若干特定的字彙後面 (176-81)</em>
 	- ➡(1) Dative Direct Object (171-73)•跟在動詞後面作直接受詞 (176-79)
 	- (2) Dative After Certain Nouns (173-74)•跟在名詞後面 (179)
 	- (3) Dative After Certain Adjectives (174-75)•跟在形容詞後面 (180)
 	- ➡(4) Dative After Certain Prepositions (175)•跟在介系詞後面 (180-81)
 
 ### Accusative•直接受格
-- *Substantival Uses of the Accusative (179-99)•作實名詞用 (185-206)*
+- <em>Substantival Uses of the Accusative (179-99)•作實名詞用 (185-206)</em>
 	- ➡(1) Accusative Direct Object (179-81)•跟在動詞後面作直接受詞 (185-87)
 	- ➡(2) Double Accusatives (181-89)•在有雙重受詞的情況 (187-95)
 		- ➡(a) Person-Thing (181-82)•人與物 (187-88)
@@ -119,34 +119,34 @@
 	- (6) Accusative of Retained Object (197)•作為殘留受詞的指標 (204)
 	- (7) Pendent Accusative (Accusativum Pendens) (198)•破格受詞補語 (205)
 	- ➡(8) Accusative in Simple Apposition (198-99)•指明簡單的同位語 (205-06)
-- *Adverbial Uses of the Accusative (199-205)•作副詞用 (206-13)*
+- <em>Adverbial Uses of the Accusative (199-205)•作副詞用 (206-13)</em>
 	- (1) Adverbial Accusative (Accusative of Manner) (200-201)•表達樣貌 (207-08)
 	- ➡(2) Accusative of Measure (or Extent of Space or Time) (201-203)•指明程度的差異 (208-10)
 	- (3) Accusative of Respect or (General) Reference (203-204)•作為觀點、參考點 (211)
 	- (4) Accusative in Oaths (204-205)•作為起誓的基礎 (212-13)
-- ➡*Accusative After Certain Prepositions (205)•跟在若干特定的字彙後面 (213)*
+- ➡<em>Accusative After Certain Prepositions (205)•跟在若干特定的字彙後面 (213)</em>
 
 
 ## The Article•冠詞
 
 ### Regular Uses of the Article•規則用法
-- ➡(1) *As a Pronoun (211-16)•作為代名詞 (219-24)*
+- ➡(1) <em>As a Pronoun (211-16)•作為代名詞 (219-24)</em>
 	- ➡(a) Personal Pronoun (211-12)•人稱代名詞 (219-21)
 	- (b) Alternative Personal Pronoun (212-13)•一組代名詞 (221-22)
 	- ➡(c) Relative Pronoun (213-15)•關係代名詞 (222-23)
 	- (d) Possessive Pronoun (215-16)•表達「擁有」 (223-24)
-- (2) *With Substantives (216-31)•伴隨有實名詞 (224-41)*
+- (2) <em>With Substantives (216-31)•伴隨有實名詞 (224-41)</em>
 	- ➡(a) Individualizing Article (216-27)•表達個別化的功能 (225-27)
 		- ➡(1) Simple Identification (216-17)•單純的確認 (225-26)
 		- ➡(2) Anaphoric (Previous Reference) (217-20)•回溯前述 (226-29)
 		- (3) Kataphoric (Following Reference) (220-21)•展望未來 (229)
 		- ➡(4) Deictic ("Pointing" Article) (221)•現場指示 (233-34)
-		- ➡(5) *Par Excellence* (222-23)•指明是最出眾的 (231-32)
+		- ➡(5) <em>Par Excellence</em> (222-23)•指明是最出眾的 (231-32)
 		- ➡(6) Monadic ("One of a Kind" or "Unique" Article) (223-24)•指明是唯一的 (233-34)
 		- ➡(7) Well-Known ("Celebrity" or "Familiar" Article) (225)•指明是眾所周知的 (234-35)
 		- ➡(8) Abstract (i.e., the Article with Abstract Nouns) (226-27)•指明指涉對象的抽象性 (235-37)
 	- ➡(b) Generic Article (227-31)•表達一般化 (237-41)
-- ➡(3) *As a Substantiver (231-38)•作實名詞用 (242-49)*
+- ➡(3) <em>As a Substantiver (231-38)•作實名詞用 (242-49)</em>
 	- (a) Adverbs (232-33)•副詞 (242-43)
 	- (b) Adjectives (233)•形容詞 (243-44)
 	- (c) Participles (233-34)•分詞 (244-45)
@@ -156,7 +156,7 @@
 	- (g) Particles (237)•分詞 (247-48)
 	- (h) Finite Verbs (237)•主要動詞 (248)
 	- (i) Clauses, Statements, and Quotations (237-38)•子句、陳述、引句 (248-49)
-- ➡(4) *As a Function Marker (238-43)•用來標示功能 (249-54)*
+- ➡(4) <em>As a Function Marker (238-43)•用來標示功能 (249-54)</em>
 	- (a) To Denote Adjectival Positions (239)•用來標示形容詞的位置 (249-50)
 	- (b) With Possessive Pronouns (239)•與所有代名詞連用 (250)
 	- (c) In Genitive Phrases (239-40)•用來指明所有格片語的確定性 (250-51)
@@ -168,9 +168,9 @@
 	- (i) With the Infinitive to Denote Various Functions (243)•與不定詞連用 (254)
 
 ### Absence of the Article•不帶冠詞的情況
-- ➡(1) *Indefinite (244)•不確定性的 (255)*
-- ➡(2) *Qualitative (244-45)•定性的 (255-56)*
-- ➡(3) *Definite (245-54)•確定性的 (256-67)*
+- ➡(1) <em>Indefinite (244)•不確定性的 (255)</em>
+- ➡(2) <em>Qualitative (244-45)•定性的 (255-56)</em>
+- ➡(3) <em>Definite (245-54)•確定性的 (256-67)</em>
 	- ➡(a) Proper Names (245-47)•專有名詞 (257-58)
 	- ➡(b) Object of a Preposition (247)•介系詞的受詞 (258-59)
 	- ➡(c) With Ordinal Numbers (248)•帶有序數 (259)
@@ -183,11 +183,11 @@
 	- ➡(j) Generic Nouns (253-54)•一般性名詞 (253-54)
 
 ### Special Uses and Non-Uses of the Article•冠詞的特殊用法或不帶冠詞的用法
-- (A) *Anarthrous Pre-Verbal Predicate Nominatives (Involving Colwell's Rule) (256-70)•在動詞前、不帶冠詞的主格述詞補語 (268-83)*
+- (A) <em>Anarthrous Pre-Verbal Predicate Nominatives (Involving Colwell's Rule) (256-70)•在動詞前、不帶冠詞的主格述詞補語 (268-83)</em>
 	- ➡(1) Statement of the Rule (257)•這個規則的陳述 (268)
 	- (2) Misunderstanding of the Rule (257)•這個規則的誤解 (268)
 	- ➡(3) Clarification of the Rule (259-62)•這個規則的解說 (268-83)
-- (B) *The Article with Multiple Substantives Connected by Καί (Granville Sharp Rule and Related Constructions) (270-90)•冠詞與許多實名詞透過 Καί 連接的用法 (TSKS) (283-304)*
+- (B) <em>The Article with Multiple Substantives Connected by Καί (Granville Sharp Rule and Related Constructions) (270-90)•冠詞與許多實名詞透過 Καί 連接的用法 (TSKS) (283-304)</em>
 	- ➡(1) Statement of the Granville Sharp Rule (271-72)•Granvi11e Sharp Rule 的陳述 (283-85)
 	- ➡(2) Validity of the Rule Within the New Testament (273-77)•這個規則在新約中的真確性 (285-90)
 	- ➡(3) TSKS Constructions Involving Impersonal, Plural, and Proper Nouns (277-90)•TSKS 結構帶有非人格化名詞、或複數名詞、或專有名詞 (291)
@@ -199,25 +199,25 @@
 ## Adjectives•形容詞
 
 ### "Non-Adjectival" Uses of the Adjective•形容詞的非形容性用法
-- *The Adverbial Use of the Adjective (293)•具副詞功能的形容詞 (307)*
-- ➡*The Independent or Substantival Use of the Adjective (294-95)•形容詞的獨立用法、作實名詞用 (308-09)*
+- <em>The Adverbial Use of the Adjective (293)•具副詞功能的形容詞 (307)</em>
+- ➡<em>The Independent or Substantival Use of the Adjective (294-95)•形容詞的獨立用法、作實名詞用 (308-09)</em>
 
 ### The Use of the Positive, Comparative, and Superlative Forms of the Adjective•形容詞的原級、比較級、最高級用法
-- (A) *The Use of the Positive Adjective (297-98)•A形容詞的原級用法 (310-12)*
+- (A) <em>The Use of the Positive Adjective (297-98)•A形容詞的原級用法 (310-12)</em>
 	- ➡(1) Normal Usage (297)•一般用法 (311)
 	- (2) Positive for Comparative (297)•原級形容詞作比較級用 (311-12)
 	- (3) Positive for Superlative (298)•原級形容詞作最高級用 (312)
-- (B) *The Use of the Comparative Adjective (298-301)•B形容詞的比較級用法 (312-16)*
+- (B) <em>The Use of the Comparative Adjective (298-301)•B形容詞的比較級用法 (312-16)</em>
 	- ➡(1) Normal Usage (299)•1一般用法 (313)
 	- (2) Comparative for Superlative (299-300)•比較級的形式作最高級用 (313-14)
 	- (3) Comparative for Elative (300-301)•比較級的形式作強調用 (314-16)
-- (C) *The Use of the Superlative Adjective (301-305)•形容詞的最高級用法 (316-20)*
+- (C) <em>The Use of the Superlative Adjective (301-305)•形容詞的最高級用法 (316-20)</em>
 	- ➡(1) "Normal" Usage (301-302)•1一般用法 (316-17)
 	- ➡(2) Superlative for Elative (303)•最高級的形式作強調用 (317)
 	- ➡(3) Superlative for Comparative (303-305)•最高級的形式作比較級用 (317-20)
 
 ### The Relation of Adjective to Noun•形容詞跟名詞的關係
-- (A) *When the Article Is Present (306-309)•A當冠詞存在時 (320-23)*
+- (A) <em>When the Article Is Present (306-309)•A當冠詞存在時 (320-23)</em>
 	- ➡(1) The Attributive Positions (306-307)•l當形容詞作修飾用時 (320-22)
 		- (a) First Attributive (306)•站在第一修飾位置 (320-21)
 		- (b) Second Attributive (306-307)•站在第二修飾位置 (321)
@@ -225,7 +225,7 @@
 	- ➡(2) The Predicate Positions (307-309)•當形容詞作補述用時 (322-23)
 		- (a) First Predicate (307-308)•站在第一補述位置 (322)
 		- (b) Second Predicate (308)•b 站在第二補述位置 (323)
-- (B) *When the Article Is Absent (309-14)•B當沒有冠詞存在時 (324-26)*
+- (B) <em>When the Article Is Absent (309-14)•B當沒有冠詞存在時 (324-26)</em>
 	- ➡(1) The Anarthrous Adjective-Noun Construction (309-10)•不帶冠詞的「形容詞一一名詞」結構 (324-25)
 	- ➡(2) The Anarthrous Noun-Adjective Construction (310-11)•不帶冠詞的「名詞一形容詞」結構 (325-26)
 

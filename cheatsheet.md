@@ -155,9 +155,9 @@ sdcsdcdsc 6
 
 
 
-**粗體**  
-*斜體*  
-__*斜粗體*__  
+<strong>粗體</strong>  
+<em>斜體</em>  
+__<em>斜粗體</em>__  
 ==hight light==  
 <mark>hight light</mark>
 
@@ -227,7 +227,7 @@ The PDF link should work[^3]
 ## 表格
 | Markdown Engine              | Align Center | Align right |
 | :--------------------------- | :----------: | ----------: |
-| *Still*                      |  `renders`   |  **nicely** |
+| <em>Still</em>                      |  `renders`   |  <strong>nicely</strong> |
 | 1                            |      2       |           3 |
 | <li>item1</li><li>item2</li> |      5       |           6 |
 

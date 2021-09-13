@@ -1,7 +1,7 @@
 # Idioms of the Greek New Testament (IGNT)<br>‖ 新約希臘文的慣用語 (慣用語)
  封面      | 書目
  --------- | ----------
-![](images/IGNT-cover.png) |Porter, Stanley E. *Idioms of the Greek New Testament*. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
+![](images/IGNT-cover.png) |Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
 ![](images/IGNT-封面.png)| 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。|
 
 - [前言 (Introduction)](IGNT-00.md)

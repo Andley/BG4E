@@ -14,7 +14,7 @@
 	- <rt>2e</rt> <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>πλείονα<rt>more</rt></ruby><rt>πλείων, πλεῖον</rt></ruby><rt>A-ASM-C</rt></RUBY>)C (<RUBY><ruby><ruby>φέρῃ.<rt>it may bear.</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P
 ###### (1b) 耶穌的勸勉和應許 (約 15:3–4) ：不要離開好消息！
 - <rt>3a</rt> (<RUBY><ruby><ruby>ἤδη<rt>Already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A1 (<RUBY><ruby><ruby>ὑμεῖς<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby><mark>καθαροί</mark><rt>clean</rt></ruby><rt>καθαρός</rt></ruby><rt>A-NPM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστε<rt>are</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>by reason of</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λόγον†<rt>word</rt></ruby><rt>λόγος</rt></ruby><rt>N-ASM</rt></RUBY>)A2 
-	- <rt>3b</rt> (<RUBY><ruby><ruby>ὃν†<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASM</rt></RUBY>)C1 (<RUBY><ruby><ruby>**λελάληκα**<rt>I have spoken</rt></ruby><rt>λαλέω</rt></ruby><rt>**V-RAI-1S**</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν·<rt>to you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
+	- <rt>3b</rt> (<RUBY><ruby><ruby>ὃν†<rt>that</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASM</rt></RUBY>)C1 (<RUBY><ruby><ruby><strong>λελάληκα</strong><rt>I have spoken</rt></ruby><rt>λαλέω</rt></ruby><rt><strong>V-RAI-1S</strong></rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν·<rt>to you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 - <rt>4a</rt> (<RUBY><ruby><ruby><mark>μείνατε</mark><rt>Abide</rt></ruby><rt>μένω</rt></ruby><rt><mark>V-AAM-2P</mark></rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί‚<rt>Me‚</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A 
 - <rt>4b</rt> (<RUBY><ruby><ruby>κἀγὼ<rt>and I</rt></ruby><rt>κἀγώ</rt></ruby><rt>P-1NS-K</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A 
 	- <rt>4c</rt> <RUBY><ruby><ruby>καθὼς<rt>As</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>κλῆμα<rt>branch</rt></ruby><rt>κλῆμα</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>)A (<RUBY><ruby><ruby>δύναται<rt>is able</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PNI-3S</rt></RUBY>)P { (<RUBY><ruby><ruby>καρπὸν<rt>fruit</rt></ruby><rt>καρπός</rt></ruby><rt>N-ASM</rt></RUBY>)<rt>c</rt> (<RUBY><ruby><ruby>φέρειν<rt>to bear</rt></ruby><rt>φέρω</rt></ruby><rt>V-PAN</rt></RUBY>)<rt>p</rt> (<RUBY><ruby><ruby>ἀφ᾽<rt>of</rt></ruby><rt>ἀπό</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτοῦ<rt>itself‚</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-3GSN</rt></RUBY>)<rt>a</rt> }C
@@ -80,16 +80,16 @@
 	- 15:1a 用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。聯繫動詞 εἰμι 前面是代名詞，後面是帶冠詞的名詞，按照語法規則 (GGBB 40–48 = 中希 39–47)，代名詞有優先權，是整個子句的主語 (S)。
 	- 15:1b 聯繫動詞 εἰμι 前後都是帶冠詞的名詞，按照語法規則 (GGBB 44 = 中希 43)，放在前面的是主語 (S)。γεωργός 這裡的意思是「農夫」，跟太21:33的佃農、園戶(BAGD)不同。
 	- 15:2a 
-		- πᾶν κλῆμα 就**詞形上** (<mark>morphology</mark>) 來說有兩種可能 NSN or ASN，連帶的分詞 φέρον 也是如此。
-		- 如果理解成 NSN，那麼 15:2a 在**句法上** (<mark>syntax</mark>) 就是「懸吊主格、破格主詞補語 Pendent Nominative」(GGBB 51–53 = 中希 50–51)，獨立存在，與15:2b無關，但在**語意上** (<mark>semantics</mark>) 卻是 15:2b 的補語 (C)。
-		- 如果理解成 ASN，那麼 15:2a 在**句法上 (syntax)** 就是「懸吊直接受格、破格受詞補語 Pendent Accusative」(GGBB 198 = 中希 205)，獨立存在，與15:2b無關，但**在語意上(semantics) **卻是 15:2b 的補語 (C)。
+		- πᾶν κλῆμα 就<strong>詞形上</strong> (<mark>morphology</mark>) 來說有兩種可能 NSN or ASN，連帶的分詞 φέρον 也是如此。
+		- 如果理解成 NSN，那麼 15:2a 在<strong>句法上</strong> (<mark>syntax</mark>) 就是「懸吊主格、破格主詞補語 Pendent Nominative」(GGBB 51–53 = 中希 50–51)，獨立存在，與15:2b無關，但在<strong>語意上</strong> (<mark>semantics</mark>) 卻是 15:2b 的補語 (C)。
+		- 如果理解成 ASN，那麼 15:2a 在<strong>句法上 (syntax)</strong> 就是「懸吊直接受格、破格受詞補語 Pendent Accusative」(GGBB 198 = 中希 205)，獨立存在，與15:2b無關，但<strong>在語意上(semantics) </strong>卻是 15:2b 的補語 (C)。
 		- 兩種理解都指向15:2b的補語 (C)，所以直覺上 ASN 比較前後一致。
 		- φέρον 用現在式，是不完整 (imperfective) 的觀點，表達「結果子」這個動作持續發生，不是一次性的單獨事件。
 	- 15:2b αἴρει 意思並沒有舉起之意，而是指藉著武力，甚至殺戮除去、剪去 (BAGD)。同樣也是現在式、不完整 (imperfective) 的觀點，表達上帝剪去枝子的動作，也是持續進行。
 	- 15:2c 反過來說，結果子的枝子，上帝就會用另外一種方式來對待 (15:2de)。
-	- 15:2c 跟 15:2a 一樣，就**詞形上 (morphology)、句法上 (syntax)** 有兩種可能，但都是指向15:2d 的補語 (C)，所以把 πᾶν τὸ καρπὸν φέρον 都理解成 ASN 比較順暢。
+	- 15:2c 跟 15:2a 一樣，就<strong>詞形上 (morphology)、句法上 (syntax)</strong> 有兩種可能，但都是指向15:2d 的補語 (C)，所以把 πᾶν τὸ καρπὸν φέρον 都理解成 ASN 比較順暢。
 	- 15:2d καθαίρει 修理乾淨，字根是 15:3a 的 καθαρός，所以最基本的意思是「使……變得乾淨」。動詞是是現在式、不完整 (imperfective) 的觀點，表達上帝把枝子弄乾淨的動作，也是持續進行。
-	- 15:2e ἵνα 帶出從屬子句，表達 15:2d「使……變得乾淨」的目的 or 結果。φέρῃ 是現在式、不完整 (imperfective) 的觀點——把 15:2cde 合起來看，描繪出一幅**正向循環、滾雪球、越滾越大**的圖畫：只要枝子開始持續結果子 → 上帝就會持續把枝子越來越乾淨 → 越是乾淨的枝子，就會持續結出更多的 (πλείονα) 果子 ⇒ 如此周而復始，形成正向滾雪球的循環！
+	- 15:2e ἵνα 帶出從屬子句，表達 15:2d「使……變得乾淨」的目的 or 結果。φέρῃ 是現在式、不完整 (imperfective) 的觀點——把 15:2cde 合起來看，描繪出一幅<strong>正向循環、滾雪球、越滾越大</strong>的圖畫：只要枝子開始持續結果子 → 上帝就會持續把枝子越來越乾淨 → 越是乾淨的枝子，就會持續結出更多的 (πλείονα) 果子 ⇒ 如此周而復始，形成正向滾雪球的循環！
 		- πλείονα 是形容詞的比較級 (GGBB 298–99 = 中希 312–13)，這裡的意思是：上帝弄乾淨之後 vs. 之前相比，結出「更多的」果子。
 - ---
 - 15:3ab 耶穌告訴門徒好消息：你們已經是 (ἤδη) 潔淨的 (καθαροί)了！你們已經開始進入這個正向滾雪球的循環了！關鍵是：藉著 (διὰ) 耶穌所說過的道 ⇒ 道 (λόγος) 是啟動門徒進入成聖、結果子正向循環的關鍵！
@@ -100,7 +100,7 @@
 		- ὃν 帶出關係子句 (GGBB 659–65 = 中希 696–702)，補充說明 15:3a 的道，特別指明：是耶穌所傳講給門徒的道！
 		- λελάληκα 是現在完成式，表達狀態 (stative) 的觀點，語意份量最重，強調先前行動所產生、直到如今仍然持續的結果 (GGBB 574–76 = 中希 606–08)。
 - 15:4a–e 是耶穌臨別之前的：
-	- 勸勉：15:4a 要門徒**住在** 基督裡！
+	- 勸勉：15:4a 要門徒<strong>住在</strong> 基督裡！
 		- μείνατε 命令語氣，表示強烈意願，是耶穌臨別之前的吩咐！(GGBB 485–86 = 中希 509–11)，這裡用不定過去式，表達完整 (perfective) 的觀點
 	- 應許：15:4b 耶穌也要住在 (省略動詞) 門徒裡！
 	- 說明理由：15:4cdef。這裡的句法結構比較複雜：
@@ -118,9 +118,9 @@
 - 15:5a 跟 15:1a 一樣，用舊約耶和華自稱的 Ἐγώ εἰμι 宣告，暗示耶穌的神性。
 - 15:5b 則是 ὑμεῖς 前置，表示強調和對比。
 - 15:5cde 是正確的選擇
-	- 15:5cd 的結構跟 15:2ab、15:2cd 一樣，都是破格 (anacoluthon = 不按文法規則) 結構，差別在於 15:5c 只能是「懸吊主格、破格主詞補語 Pendent Nominative」(GGBB 51–53 = 中希 50–51)，獨立存在，與15:5d無關，但在**語意上** (<mark>semantics</mark>) 卻是 15:5d 的主語 (S)。
+	- 15:5cd 的結構跟 15:2ab、15:2cd 一樣，都是破格 (anacoluthon = 不按文法規則) 結構，差別在於 15:5c 只能是「懸吊主格、破格主詞補語 Pendent Nominative」(GGBB 51–53 = 中希 50–51)，獨立存在，與15:5d無關，但在<strong>語意上</strong> (<mark>semantics</mark>) 卻是 15:5d 的主語 (S)。
 	- 15:5d πολύν，相較於 15:2d 上帝弄乾淨之後 vs. 之前 (或者說：自己跟自己相比之觀點) 的「更多」，這裡用客觀 (或者說：耶穌之觀點) 直接說「很多果子」。
-	- 15:5e χωρὶς 後面接所有格 (BAGD)，這裡用的是比 μοῦ 語氣更強的 ἐμοῦ，意思是「沒有**我**、離開了**我**」你們什麼都做不了。
+	- 15:5e χωρὶς 後面接所有格 (BAGD)，這裡用的是比 μοῦ 語氣更強的 ἐμοῦ，意思是「沒有<strong>我</strong>、離開了<strong>我</strong>」你們什麼都做不了。
 - 15:6a–c 是錯誤的選擇，耶穌用 τις (某人) 而不用你們、你，顯然耶穌的意思是要勸勉門徒不要走上錯誤道路。
 - 15:6d–g 是錯誤選擇之後的刑罰，非常鮮活、極其可怕：被弄枯乾 (沒有養分、太陽曝曬 = 屬靈上的枯竭) → 他們 (末後用大鐮刀收割的天使？) 持續收集 (συνάγουσιν 是現在式) → 持續丟進 (βάλλουσιν 是現在式) 火裡 (啟示錄的硫磺火湖) ⇒ 持續地燒 (καίεται 是現在式)！！
 	- 啟20:10 ……他們必晝夜受痛苦，直到永永遠遠。 
@@ -130,7 +130,7 @@
 		- 15:7c 用關係代名詞 ὃ＋ἐὰν 的慣用語，讓 ἐὰν 的用法不像連接詞，反而像是副詞、質詞 ἄν，用來凸顯強調的語氣 (BAGD 乙)。就句法上來說 (Syntax)，是關係代名詞 ὃ 帶出的內嵌子句，當作 15:7c 的補語 (C)。
 			- αἰτήσασθε 用關身語態，屬於 indirect middle 間接關身 (GGBB 419–23 = 中希 440–44)，強調主詞的參與命令語氣，但這裡似乎不宜解釋成命令 (無論想要什麼，你都必須要求！)，比較可能的是表達請求、禮貌的吩咐 (GGBB 487–88 = 中希 512–13)，或是邀請：無論想要什麼，你只管求！
 		- 15:7d 乍看之下是一張不可思議的空白支票——但從上文看來，前提是：把基督的話藏在心裡——真把神的道藏在心裡的人，大概不會妄求！
-		- 而且上文約14:13「你們**奉我的名**無論求甚麼，我必成就，叫父因兒子得榮耀」也限定要「奉耶穌的名」，意思是要在耶穌的權柄、統管、話語之下來求。
+		- 而且上文約14:13「你們<strong>奉我的名</strong>無論求甚麼，我必成就，叫父因兒子得榮耀」也限定要「奉耶穌的名」，意思是要在耶穌的權柄、統管、話語之下來求。
 			- 雅 4:1 你們中間的爭戰鬥毆是從哪裏來的呢？不是從你們百體中戰鬥之私慾來的嗎？ 雅 4:2 你們貪戀，還是得不着；你們殺害嫉妒，又鬥毆爭戰，也不能得。你們得不着，是因為你們不求。 雅 4:3 你們求也得不着，是因為你們妄求，要浪費在你們的宴樂中。 
 	- 15:8a 介系詞片語 ἐν τούτῳ 前置，表示強調：藉此，天父就被榮耀了 (ἐδοξάσθη 被動語態)。問題是 τούτῳ 指的是什麼？
 		- 和合本翻譯成「你們多結果子，我父就因此得榮耀，你們也就是我的門徒了」，大概是把 τούτῳ 指向下面 15:8b 的 ἵνα 子句，這個可以商榷，但問題不大。

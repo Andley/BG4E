@@ -50,12 +50,12 @@
 - 參考書目
 縮寫 | 書目
 --- | ----------
-GGBB| Wallace, Daniel B. *Greek Grammar Beyond the Basics*. Grand Rapids: Zondervan, 1996.
+GGBB| Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996.
 中希 | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
-IGNT |Porter, Stanley E. *Idioms of the Greek New Testament*. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
+IGNT |Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
 慣用 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。|
-DEEP |Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testament*. Nashville, TN.: B&H Academic, 2016.
-IGG |Mathewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar: Syntax for Students of the New Testament*. Grand Rapids, MI: Baker Academic, 2016.
-Funk |Funk, Robert W. *A Beginning-Intermediate Grammar of Hellenistic Greek*. 3rd ed. Polebridge Press, 2013.
-Runge |Runge, Steven E. *Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis*. Peabody, MA.: Hendrickson, 2010.
-Levinsohn |Levinsohn, Stephen H. *Discourse Features of New Testament Greek: A Coursebook on the Information Structure of New Testament Greek*. 2nd ed. Dallas, Tex.: SIL International, 2000.
+DEEP |Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. <em>Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testament</em>. Nashville, TN.: B&H Academic, 2016.
+IGG |Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
+Funk |Funk, Robert W. <em>A Beginning-Intermediate Grammar of Hellenistic Greek</em>. 3rd ed. Polebridge Press, 2013.
+Runge |Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
+Levinsohn |Levinsohn, Stephen H. <em>Discourse Features of New Testament Greek: A Coursebook on the Information Structure of New Testament Greek</em>. 2nd ed. Dallas, Tex.: SIL International, 2000.

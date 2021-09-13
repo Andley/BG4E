@@ -11,7 +11,7 @@
 	- 有[希臘文、中文 interlinear (逐字對照)](https://bible.fhl.net/new/read.php?VERSION16=interubs4&strongflag=0&TABFLAG=1&chineses=%E5%A4%AA&chap=1&submit1=%E9%96%B1%E8%AE%80)
 	- 有 [Westcott-Hort 版本聖經＋NA27 Variants (異文)](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1) 加上簡單的斷句 (phrasing)
 	- 還有浸宣出版、戴德理翻譯的《新約希臘文中文辭典》：[中文 BAGD](http://bible.fhl.net/new/s.php?N=0&k=2316&m=)
-	- 還有 2020 年黃錫木主編、修訂 Louw–Nida 1998 出版 *Greek-English Lexicon of the New Testament: Based on Semantic Domains* 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
+	- 還有 2020 年黃錫木主編、修訂 Louw–Nida 1998 出版 <em>Greek-English Lexicon of the New Testament: Based on Semantic Domains</em> 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
 	- 不能下載。
 - [BibleArc](https://www.biblearc.com/)
 	- 有 SBL、NA28、LXX 經文版本
