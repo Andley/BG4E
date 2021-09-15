@@ -2,10 +2,24 @@
 
 ---
 
-- Part I 希臘文基礎 §00
-- Part II Phonology (字音) §10
-- Part III Morphology (字形) §20
-- Part IV Word and Phrase (字詞與片語) 
+## Part I 希臘文基礎
+八大詞類都從拉丁文而來：
+- nomen → noun
+	- nomen 意思是「名字」
+- pronomen→ pronoun
+- verbum → verb
+- adverbium→ adverb
+- participium → participle
+- praepositio→ preposition
+- conjunctio → conjunction
+- interjectio→ interjection
+
+## Part II Phonology (字音)
+
+## Part III Morphology (字形)
+
+
+## Part IV Word and Phrase (字詞與片語) 
 	- 名詞類 §30
 		- Noun (名詞) §31
 			- Nominative (主格) §31.1
@@ -30,6 +44,8 @@
 			- [Number (數) §55](§55.md)
 		- [Infinitive (不定詞) §56](§56.md)
 		- [Participle (分詞) §57](§57.md)
+		
+		
 - Part V 子句與句子 (Clause and Sentence) §60
 	- [Clauses (子句) §61](§61.md)
 	- [Sentence (句子) §62](§62.md)
