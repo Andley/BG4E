@@ -78,6 +78,12 @@
 - Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
 - Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de Bakker. _Cambridge Grammar of Classical Greek_, 2019.
 
+## Diagram
+- https://www.ntgreekguy.com/
+	- ![[images/Pasted image 20210913211615.png]]
+> I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries:
+	- ![images/Pasted image 20210913211336.png](images/Pasted%20image%2020210913211336.png)
+- https://www.inthebeginning.org/e-diagrams/
 ---
 
 ##  原文與事奉
