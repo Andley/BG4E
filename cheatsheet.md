@@ -257,16 +257,16 @@ The PDF link should work[^3]
 
 ## 可折疊區塊
 <details>
-   
-  <summary>進階資訊</summary>
-  
-  ### Heading
-  
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-     
+xxxxx
+<summary>進階資訊</summary>
+  sdcsdcdscdsc
+	sdcdsc
+	sdcdsc
+	
+	
+	sdcsdc
+	
+	dscdsc
 </details>
 
 ------
