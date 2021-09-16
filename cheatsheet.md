@@ -257,16 +257,13 @@ The PDF link should work[^3]
 
 ## 可折疊區塊
 <details>
-xxxxx
-<summary>進階資訊</summary>
-  sdcsdcdscdsc
-	sdcdsc
-	sdcdsc
-	
-	
-	sdcsdc
-	
-	dscdsc
+<summary>top-level 摘要</summary>
+A list
+- aaaa
+- <details><summary>小摘要 summary</summary>
+	sdcsd ccsdcsc sdcsd</details>
+- Another list item
+
 </details>
 
 ------
