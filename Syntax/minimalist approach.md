@@ -38,3 +38,10 @@ genitive of possession, or
 genitive of source, or
 subjective genitive, or
 objective genitive ?
+
+
+---
+
+> "In conclusion, we may say that an interpreter is unwise to emphasize an idea that allegedly comes from the use of a tense (or some other subtle grammatical distinction) unless the context as a whole clearly sets forth that idea. ... If it doesn't, then the use of the grammatical detail becomes irrelevant; if it does, then the grammar is at best a pointer to, not the basis of, the correct interpretation."  
+> 
+> — Silva *Foundations of Contemporary Interpretation*, p.263.
