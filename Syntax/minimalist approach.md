@@ -12,9 +12,11 @@ maximalist approach = exegetical nugget approach
 
 faith of Christ 也同樣，主詞所有格、受詞所有格在形式 (結構) 上沒有區別，因此不能單從形式 (結構) 去斷言是哪一種所有格，而是要從上下文去推敲解釋才能判斷。
 
-Choice implies meaning ——主詞所有格、受詞所有格在形式 (結構) 上沒有區別，代表保羅沒有 choice，所以單從 N—Ng 的結構沒辦法推導出額外的 meaning。
+Choice implies meaning ——主詞所有格、受詞所有格在形式 (結構) 上沒有區別，代表保羅沒有 choice，所以單從 N—Ng 的結構沒辦法推導出額外的 meaning。θεοῦ 
 
 ---
+
+<rt>Mar 11:22</rt>  <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><em>ἀποκριθεὶς</em><rt>answering,</rt></ruby><rt>ἀποκρίνω</rt></ruby><rt>V-AOP-NSM</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦς<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM-P</rt></RUBY>  <RUBY><ruby><ruby><strong>λέγει</strong><rt>says</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>αὐτοῖς·<rt>to them,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>  <RUBY><ruby><ruby><strong>Ἔχετε</strong><rt>Have</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAM-2P</rt></RUBY>  <RUBY><ruby><ruby>πίστιν<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>θεοῦ.<rt>from God.</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> 
 
 
 ---
