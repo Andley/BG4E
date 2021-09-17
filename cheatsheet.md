@@ -256,16 +256,19 @@ The PDF link should work[^3]
 ----
 
 ## 可折疊區塊
-#### Example
+Here are a few words on my thought about the movie <details><summary>Deadpool</summary> it was so **well** shot and a movie I just can't wait to see again.</details>
 
 
-<details>
-<summary>Shopping list</summary>
+
+<details><summary>**Collapse / Expand**</summary> 	
+	Content goes here, something like <br> 
 	
-* Vegetables
-* Fruits
-* Fish
-
+	1. **Something** <br> 
+	
+	2. So**met**hing <br> 
+	
+	3. Something.. <br> 
+	
 </details>
 
 ------
