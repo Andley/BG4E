@@ -24,9 +24,10 @@ Choice implies meaning ——主詞所有格、受詞所有格在形式 (結構)
 
 <rt>Gal 1:12</rt>  <RUBY><ruby><ruby>οὐδὲ<rt>Neither</rt></ruby><rt>οὐδέ</rt></ruby><rt>CONJ-N</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>I</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>παρὰ<rt>from</rt></ruby><rt>παρά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἀνθρώπου<rt>man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby><strong>παρέλαβον</strong><rt>received</rt></ruby><rt>παραλαμβάνω</rt></ruby><rt>V-2AAI-1S</rt></RUBY>  <RUBY><ruby><ruby>αὐτό<rt>it,</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὔτε<rt>nor</rt></ruby><rt>οὔτε</rt></ruby><rt>CONJ-N</rt></RUBY>  <RUBY><ruby><ruby><strong>ἐδιδάχθην,</strong><rt>was I taught [it],</rt></ruby><rt>διδάσκω</rt></ruby><rt>V-API-1S</rt></RUBY>  <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>δι᾽<rt>by</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby><mark>ἀποκαλύψεως</mark><rt>a revelation</rt></ruby><rt>ἀποκάλυψις</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby><mark>Ἰησοῦ</mark><rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>  <RUBY><ruby><ruby><mark>Χριστοῦ.</mark><rt>Christ.</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> 
 
-genitive of possession, or
-genitive of source, or
+genitive of origin, or
 subjective genitive
+
+or
 objective genitive
 
 ---
