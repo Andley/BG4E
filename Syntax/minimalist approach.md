@@ -42,6 +42,18 @@ objective genitive ?
 
 ---
 
+ ![[../images/Pasted image 20210918060146.png]]
+
 > "In conclusion, we may say that an interpreter is unwise to emphasize an idea that allegedly comes from the use of a tense (or some other subtle grammatical distinction) unless the context as a whole clearly sets forth that idea. ... If it doesn't, then the use of the grammatical detail becomes irrelevant; if it does, then the grammar is at best a pointer to, not the basis of, the correct interpretation."  
 > 
 > — Silva *Foundations of Contemporary Interpretation*, p.263.
+
+
+---
+
+<rt>1Th 1:3</rt>  <RUBY><ruby><ruby><em>μνημονεύοντες</em><rt>remembering</rt></ruby><rt>μνημονεύω</rt></ruby><rt>V-PAP-NPM</rt></RUBY>  <RUBY><ruby><ruby>ὑμῶν<rt>your</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSN</rt></RUBY>  <RUBY><ruby><ruby>ἔργου<rt>work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-GSN</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>πίστεως<rt>of faith</rt></ruby><rt>πίστις</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>κόπου<rt>labor</rt></ruby><rt>κόπος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἀγάπης<rt>of love,</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ὑπομονῆς<rt>endurance</rt></ruby><rt>ὑπομονή</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐλπίδος<rt>hope</rt></ruby><rt>ἐλπίς</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>  <RUBY><ruby><ruby>ἔμπροσθεν<rt>before</rt></ruby><rt>ἔμπροσθεν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Πατρὸς<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ἡμῶν,<rt>of us,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> 
+
+IGNT 94–95
+GGBB 112–119
+
+---
