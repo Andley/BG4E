@@ -57,3 +57,15 @@ IGNT 94–95
 GGBB 112–119
 
 ---
+
+
+八格 or 五格？
+- 用 synchronic 思維來看，dative/instrument/locative 形式 (form) 沒有分別，但不能根據語意 (semantic) 的差異而區分出不同的格來。
+
+格的功能，與介系詞片語有所重疊——但因為介系詞片語比較沒有模稜兩可的空間，所以會逐漸侵蝕古典希臘文裡面單純用格來表達的概念。
+
+- <rt>Luk 22:49</rt>  <RUBY><ruby><ruby><em>Ἰδόντες</em><rt>Having seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAP-NPM</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>then</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οἱ<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY>  <RUBY><ruby><ruby>περὶ<rt>around</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>αὐτὸν<rt>Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASM</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>what</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby><em>ἐσόμενον</em><rt>would be,</rt></ruby><rt>εἰμί</rt></ruby><rt>V-FDP-ASN</rt></RUBY>  <RUBY><ruby><ruby><strong>εἶπαν·</strong><rt>they said,</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-2AAI-3P</rt></RUBY>  <RUBY><ruby><ruby>Κύριε,<rt>Lord,</rt></ruby><rt>κύριος</rt></ruby><rt>N-VSM</rt></RUBY>  <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>PRT</rt></RUBY>  <RUBY><ruby><ruby><strong>πατάξομεν</strong><rt>will we strike</rt></ruby><rt>πατάσσω</rt></ruby><rt>V-FAI-1P</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>with [the]</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>μαχαίρῃ;<rt>sword?</rt></ruby><rt>μάχαιρα</rt></ruby><rt>N-DSF</rt></RUBY> 
+- <rt>Act 12:2</rt>  <RUBY><ruby><ruby><strong>ἀνεῖλεν</strong><rt>He put to death</rt></ruby><rt>ἀναιρέω</rt></ruby><rt>V-2AAI-3S</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>then</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Ἰάκωβον<rt>James,</rt></ruby><rt>Ἰάκωβος</rt></ruby><rt>N-ASM-P</rt></RUBY>  <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY>  <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY>  <RUBY><ruby><ruby>Ἰωάννου<rt>of John,</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N-GSM-P</rt></RUBY>  <RUBY><ruby><ruby>μαχαίρῃ.<rt>with the sword.</rt></ruby><rt>μάχαιρα</rt></ruby><rt>N-DSF</rt></RUBY> 
+- ἐν μαχαίρῃ 和 μαχαίρῃ 的意思其實一模一樣。
+
+單從英文來看，介系詞的意義都很難明說，必須從上下文來看。例如：with 到底什麼意思？
