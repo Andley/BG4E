@@ -69,3 +69,12 @@ GGBB 112–119
 - ἐν μαχαίρῃ 和 μαχαίρῃ 的意思其實一模一樣。
 
 單從英文來看，介系詞的意義都很難明說，必須從上下文來看。例如：with 到底什麼意思？
+
+
+---
+
+pistis tou ihsou
+
+Hays 舉出反例
+<rt>2Th 3:13</rt>  <RUBY><ruby><ruby>Ὑμεῖς<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>  <RUBY><ruby><ruby>δέ,<rt>now,</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἀδελφοί,<rt>brothers,</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><strong>ἐγκακήσητε</strong><rt>shall grow weary</rt></ruby><rt>ἐκκακέω</rt></ruby><rt>V-AAS-2P</rt></RUBY>  <RUBY><ruby><ruby><em>καλοποιοῦντες. ¶</em><rt>[in] well-doing.</rt></ruby><rt>καλοποιέω</rt></ruby><rt>V-PAP-NPM</rt></RUBY> 2Ti 2:13
+2Co 4:1
