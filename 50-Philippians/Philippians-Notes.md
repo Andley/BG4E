@@ -3,7 +3,7 @@
 ## 腓立比書希臘文筆記
 
 ### 經文閱讀
-Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
+Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.org) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 
 - [腓立比書 Interlinear](Philippians-Interlinear.md)
