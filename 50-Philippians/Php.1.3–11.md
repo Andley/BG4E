@@ -1,6 +1,7 @@
 
-### 圖析 (Php 1:3–6)
-- <rt>1:3</rt> <RUBY><ruby><ruby><mark><strong>Εὐχαριστῶ‡</strong></mark><rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐπὶ<rt>upon</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>remembrance</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1‡
+### 圖析 (Php 1:3–8)
+- <rt>1:3a</rt> <RUBY><ruby><ruby><mark><strong>Εὐχαριστῶ‡</strong></mark><rt>I thank</rt></ruby><rt>εὐχαριστέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θεῷ<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C 
+	- <rt>1:3b</rt> (<RUBY><ruby><ruby>ἐπὶ<rt>upon</rt></ruby><rt>ἐπί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>remembrance</rt></ruby><rt>μνεία</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A1‡
 	- ——————————————
 		- <rt>1:4a</rt> <rt>[</rt><RUBY><ruby><ruby>πάντοτε<rt>always</rt></ruby><rt>πάντοτε</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>°¹
 		- <rt>1:4b</rt> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>δεήσει<rt>supplication</rt></ruby><rt>δέησις</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY><rt>]a</rt>°¹
@@ -28,12 +29,12 @@
 
 ### 筆記 (Php 1:3–8)
 - 1:3–8 是一個句子，主要動詞是 Εὐχαριστῶ (感謝)，1:4–8 都在補充說明這個主要概念。
-	- 1:3 後半的介系詞片語 ἐπὶ ... ὑμῶν 說明感謝的「時間 temporal」
+	- 1:3b 說明感謝的「時間 temporal」
 	- 1:4 說明感謝的「方法 means」
-	- 1:5 說明感謝的「原因 cause」
-	- 1:6–8 說明感謝的「原因 cause」
+	- 1:5 說明感謝的第一個「原因 cause」
+	- 1:6–8 說明感謝的第二個「原因  cause」
 - 1:3 
-	- Εὐχαριστῶ 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點，凸顯感謝這個動作，好像當下就在讀者眼前發生 (W 496–504 = 華 ??? )。
+	- Εὐχαριστῶ 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點，凸顯感謝這個動作，好像當下就在讀者眼前發生 (W 496–504)。
 	- τῷ θεῷ μου 間接受格跟在動詞後面當作補語 (W 171–73 = 華 176–79)，表達感謝的對象「我的神」，凸顯主語和補語之間有 personal relationship (親身的關聯)。μου 是從屬所有格 (genitive of subordination) (W 103–04 = 華 103–05)，意思是「掌管我的神」。
 	- ἐπὶ ... ὑμῶν 介系詞 ἐπὶ＋間接受格表達「時間 temporal」(BAGD, s.v. ἐπὶ 乙.二) (W 376 = 華 393)。整個片語合起來意思是「在每一次想念你們的時候」，當作第一組狀語 (A1) 修飾主要動詞 Εὐχαριστῶ (感謝)。
 		- πάσῃ τῇ μνείᾳ 形容詞 第一敘述位置 (first predicate position) A—T—N 的結構 (W 307–08 = 華 322)，但因為是 πᾶς 的關係，所以還是修飾用法。
@@ -68,11 +69,11 @@
 - 1:7a
 	- 從屬連接詞 καθώς 帶出從屬子句，可以用來補充說明 1:3a 的主要動詞 Εὐχαριστῶ (感謝)，也可以用來補充 1:6a 的 πεποιθὼς (確信)。如果採納 NA28 大寫的 Καθώς，刻意要跟 1:6 有點區隔，那麼前者比較合適。
 	- 但從思路來看，修飾 1:6a 會比較通順：1:6a 說明主要動詞感謝的「理由」是因為 πεποιθὼς (確信)，接著 1:6b 是確信的「內容」，然後 1:7a 說如此確信是 δίκαιον (理所當然)。因此，UBS5 的小寫 καθώς 比較恰當。
-	- καθώς 子句的補語是 δίκαιον，間接受格 ἐμοὶ 是狀語 (A1)「對我保羅來說」，修飾動詞 ἐστιν。而主語則是 φρονεῖν 的不定詞內嵌子句 (W 600–01 = 華 634–6]
+	- καθώς 子句的補語是 δίκαιον，間接受格 ἐμοὶ 是狀語 (A1)「對我保羅來說」，修飾動詞 ἐστιν。而主語則是 φρονεῖν 的不定詞內嵌子句 (W 600–01 = 華 634–6)
 	- 不定詞內嵌子句的述語 (φρονεῖν)、狀語 (ὑπὲρ ... ὑμῶν)、補語 (τοῦτο) 俱全。τοῦτο 指的是 1:6b 確信的內容。φρονεῖν 用現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點，在此有「持續」如此思想的味道。
 - 1:7b
 	- 介系詞 διὰ＋τὸ＋不定詞內嵌子句當作 καθώς 從屬子句的第二個狀語 (A2)，表達1:7a 如此思想理所當然的「原因 cause」 (W 596–7 = 華 630–1)。
-	- 不定詞 ἔχειν 後面有兩個直接受格：με、ὑμᾶς，要從上下文來判斷哪一個是主，不能單從 word order 來看 (W 192–7 = 華 199–204)。但因為：(1) 1:7e 的分詞子句修飾 :1:7b，如果主詞沒有改變 (1:7b、1:7e 都是 ὑμᾶς 的話)，那麼 πάντας ὑμᾶς 就顯得多餘；(2) 從 1:8 γάρ 子句 (因為神是我的見證) 來反推，保羅還停留在陳明自己心態的話題上，並沒有轉移到新的主題 (你們有我在心上因此，1:7b 不定詞的主詞應該是 με 「我有你們在心上」。
+	- 不定詞 ἔχειν 後面有兩個直接受格：με、ὑμᾶς，要從上下文來判斷哪一個是主，不能單從 word order 來看 (W 192–7 = 華 199–204)。但因為：(1) 1:7e 的分詞子句修飾 :1:7b，如果主詞沒有改變 (1:7b、1:7e 都是 ὑμᾶς 的話)，那麼 πάντας ὑμᾶς 就顯得多餘；(2) 從 1:8 γάρ 子句 (因為神是我的見證) 來反推，保羅還停留在陳明自己心態的話題上，並沒有轉移到新的主題 (你們有我在心上)。因此，1:7b 不定詞的主詞應該是 με 「我有你們在心上」。
 - 1:7cd
 	- τε ... καὶ 形成一組彼此關聯的連接詞 (W 672 = 華 709)，意思是 both … and。兩組介系詞片語都當副詞使用，可以用來修飾 1:7b 的 ἔχειν，也可以修飾 1:7e 的 ὄντας。但從語意上看，修飾 1:7e 更能強化保羅的論點「不但在我入獄的時候，甚至在我辯明福音的時候，你們眾人一直都與我在恩典上有份」比較通順。
 	- ἔν τοῖς δεσμοῖς μου 介系詞片語當副詞使用，表達「時間 temporal」(W 372–75 = 華 389–92) 修飾 1:7e 的 ὄντας；δεσμοῖς 是複數，代表保羅多次入獄 (徒16 就開始)。
@@ -126,6 +127,7 @@
 	- τὸν διὰ Ἰησοῦ Χριστοῦ 介系詞片語 (διὰ ... ) 前面加上冠詞，當成實名詞使用 (W 236 = 華 246–47)。冠詞是直接受格，用來同位 (accusative in simple apposition; W 198–99 = 華 205–06) 於前面的 καρπὸν (果子)，進一步釐清：仁義的果子，也就是「藉著耶穌基督而來的果子」。
 	- εἰς＋直接受格的介系詞片語 (W 369–71 = 華 386–88) 可以表達：結果 (result)、目的 (purpose)，或是利益 (advantage)。三者意思差別不大，都是「為了神的榮耀與稱讚」。
 	- δόξαν καὶ ἔπαινον θεοῦ 比較適合把 θεοῦ 當作受詞所有格 (objective of genitive; W 116–19 = 華 118–21)，是 δόξαν(榮耀) 同根動詞 (δοξάζω) 以及 ἔπαινον (稱讚) 同根動詞 (αἰνέω) 的受詞。換言之，神是榮耀稱讚的對象。
+
 
 
 ---
