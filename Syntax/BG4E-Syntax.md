@@ -25,7 +25,7 @@
 		- [Nominative (主格) §31.1](§31.1.md)
 		- Genitive (所有格) §31.2
 		- Dative (間接受格) §31.3
-		- [Accusative (直接受格) §31.4](31.4.md)
+		- [Accusative (直接受格) §31.4](§31.4.md)
 		- Vocative (呼格) §31.5
 	- Article (冠詞) §32
 	- Adjectives (形容詞) §33
