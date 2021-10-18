@@ -21,15 +21,15 @@
 
 ## Part IV Word and Phrase (字詞與片語) 
 - 名詞類 §30
-		- Noun (名詞) §31
-			- [Nominative (主格) §31.1](§31.1.md)
-			- Genitive (所有格) §31.2
-			- Dative (間接受格) §31.3
-			- Accusative (直接受格) §31.4
-			- Vocative (呼格) §31.5
-		- Article (冠詞) §32
-		- Adjectives (形容詞) §33
-		- Pronouns (代名詞) §34
+	- Noun (名詞) §31
+		- [Nominative (主格) §31.1](§31.1.md)
+		- Genitive (所有格) §31.2
+		- Dative (間接受格) §31.3
+		- [Accusative (直接受格) §31.4](31.4.md)
+		- Vocative (呼格) §31.5
+	- Article (冠詞) §32
+	- Adjectives (形容詞) §33
+	- Pronouns (代名詞) §34
 - 功能詞類 §40
 		- Prepositions (介系詞) §41
 		- Adverbs (副詞) §42
