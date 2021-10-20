@@ -36,6 +36,8 @@
 	- ἐγείρειν 現在式時態形式，表達動作內部 (internal)、非整體 (imperfective) 的觀點 (W 501)，在這裡有持續增加的意思。
 	- τοῖς δεσμοῖς μου 利益間接受格 (dative of interest; W 142–44 = 華 146–48)，在這裡指的是讓保羅受損 (disadvantage)。
 
+<div style="page-break-after: always;"></div>
+
 
 ---
 ### 圖析 (Php 1:18a–d)
