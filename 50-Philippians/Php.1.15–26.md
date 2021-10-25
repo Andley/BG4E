@@ -32,6 +32,12 @@
 ### 圖析 (Php 1:21–24)
 - <rt>1:21a</rt> (<RUBY><ruby><ruby>Ἐμοὶ<rt>To me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby><em>ζῆν</em><rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> }S (<RUBY><ruby><ruby>Χριστὸς<rt>[is] Christ,</rt></ruby><rt>Χριστός</rt></ruby><rt>N-NSM-T</rt></RUBY>)C 
 - <rt>1:21b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby><em>ἀποθανεῖν</em><rt>to die</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-2AAN</rt></RUBY> }S (<RUBY><ruby><ruby>κέρδος.<rt>[is] gain.</rt></ruby><rt>κέρδος</rt></ruby><rt>N-NSN</rt></RUBY>)C 
+
+
+<div style="page-break-after: always;"></div>
+
+
+
 - ——————————————
 - <rt>1:22a</rt> «<RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>»
 	- <rt>1:22b</rt> <RUBY><ruby><ruby>εἰ<rt>If [I am]</rt></ruby><rt>εἰ</rt></ruby><rt>COND</rt></RUBY>  { <RUBY><ruby><ruby>τὸ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby><em>ζῆν</em><rt>to live</rt></ruby><rt>ζάω</rt></ruby><rt>V-PAN</rt></RUBY> <rt>[</rt><RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σαρκί,<rt>flesh,</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY><rt>]a</rt> }S
