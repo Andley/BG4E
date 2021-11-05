@@ -17,7 +17,7 @@ Interlinear 經文出自 [OGNTa Project](https://github.com/Andley/OGNTa)
 
 - Salutation
 	- [Php.1.1-2](Php.1.1-2.md)
-- Paul's Prayer for the Php.lippians
+- Paul's Prayer for the Philippians
 	- [Php.1.3-11](Php.1.3-11.md)
 - To Me to Live is Christ
 	- [Php.1.12-14](Php.1.12-14.md)
