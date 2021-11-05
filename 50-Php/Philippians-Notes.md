@@ -3,12 +3,10 @@
 ## 腓立比書希臘文筆記
 
 ### 經文閱讀
-Interlinear 經文出自 [OGNTa Project](https://www.STEPBible.org) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
+Interlinear 經文出自 [OGNTa Project](https://github.com/Andley/OGNTa) 
 
-
-- [腓立比書 Interlinear](Philippians-Interlinear.md)
-- [腓立比書 Interlinear (DOCX 格式)](Philippians-Interlinear.docx)
-
+- [Philippians Interlinear (English) ](Philippians-Interlinear.md)
+- [腓立比書 Interlinear (中文) ](Philippians-TC-Interlinear.md)
 
 ### 原文特色
 - [腓立比書—子句結構](Philippians-Clause.md)  
