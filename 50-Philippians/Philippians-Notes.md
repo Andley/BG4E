@@ -18,15 +18,15 @@ Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.org) 的 [TAGNT (
 經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)
 
 - Salutation
-	- [Php 1.1–2](Php.1.1–2.md)
+	- [Php 1.1–2](old-Php.1.1–2.md)
 - Paul's Prayer for the Philippians
-	- [Php 1.3–11](Php.1.3–11.md)
+	- [Php 1.3–11](old-Php.1.3–11.md)
 - To Me to Live is Christ
-	- [Php 1.12–14](Php.1.12–14.md)
-	- [Php 1.15–26](Php.1.15–26.md)
-	- [Php 1.27–30](Php.1.27–30.md)
+	- [Php 1.12–14](old-Php.1.12–14.md)
+	- [Php 1.15–26](old-Php.1.15–26.md)
+	- [Php 1.27–30](old-Php.1.27–30.md)
 - Christian Humility and Christ's Humility
-	- [Php 2.1–11](Php.2.1–11.md)
+	- [Php 2.1–11](old-Php.2.1–11.md)
 - Shinning as Light in the World
 	- [Phi 2.12–18](Phi2.12–18.md)
 - Timothy and Epaphroditus
