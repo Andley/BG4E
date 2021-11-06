@@ -15,7 +15,7 @@ https://andley.github.io/BG4E/
 
 
 ### 單卷解經
-- [腓立比書](50-Philippians/Philippians-Notes.md)
+- [腓立比書](50-old-Philippians/Philippians-Notes.md)
 - [約翰一書](62-1John/1John-Notes.md)
 - [約翰二書](63-2John/2John-Notes.md)
 - [約翰三書](64-3John/3John-Notes.md)

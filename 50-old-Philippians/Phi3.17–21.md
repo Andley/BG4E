@@ -27,4 +27,4 @@
 
 
 ---
-[腓立比書希臘文筆記  ↵](Philippians-Notes.md)
+[腓立比書希臘文筆記  ↵](../50-Philippians/Philippians-Notes.md)
