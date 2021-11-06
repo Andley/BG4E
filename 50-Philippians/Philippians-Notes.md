@@ -63,18 +63,3 @@ Interlinear 經文出自 [OGNTa Project](https://github.com/Andley/OGNTa)
 - Novakovic, Lidija. _Php.lippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
 - 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
 
-### 圖析符號
-
-| 符號  | 含意 |
-| :---: | :----: |
-| <strong>粗體字</strong></br><em>斜體字</em> | 動詞</br>分詞 or 不定詞 |
-| ¬</br>¶ | 換行標記</br>段落標記 |
-| S/P/C/A</br>{ s/p/c/a } | 主要 & 從屬子句的元素用大寫</br>{ 內嵌子句 } 的元素用小寫|
-| ...</br>« » | 更動位置之前的字詞 or 片語</br>更動位置之後的字詞 or 片語|
-| ...xxx...</br>...[xxx]... | 省略的字詞</br>省略的字詞 |
-| ( )</br>‹ › | 片語</br>片語中的片語 |
-| ◖、◗ | 片語的前半段、後半段|
-| °¹、°²</br><mark>°¹</mark>、<mark>°²</mark>  | 指向、修飾其他的字詞 or 片語</br>被指向、被修飾的字詞 or 片語 |
-| 🕍︎、🕇、🕊️ | 聖父、聖子、聖靈 |
-| ↴ |  指向下文的字詞 or 片語 |
-
