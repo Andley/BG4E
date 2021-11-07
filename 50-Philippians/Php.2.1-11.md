@@ -21,12 +21,12 @@
 
 
 ---
-#### (Php 2:5–11)
+#### 圖析 (Php 2:5–11)
 
 - <rt>2:5a</rt> (<RUBY><ruby><ruby><mark>Τοῦτο°²</mark><rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>)C <RUBY><ruby><ruby><strong>φρονεῖτε</strong><rt>let mind be</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)A 
 	- <rt>2:5b</rt> (<RUBY><ruby><ruby>ὃ°²<rt>which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ,<rt>Jesus [was]:</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-DSM-P</rt></RUBY>)A2
 - ——————————————
-- <rt>2:6a</rt> (<RUBY><ruby><ruby>Ὃς<rt>Who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S («<rt>2:6b</rt>»)A <RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἁρπαγμὸν<rt>something to be grasped</rt></ruby><rt>ἁρπαγμός</rt></ruby><rt>N-ASM</rt></RUBY>)C1 <RUBY><ruby><ruby><strong>ἡγήσατο</strong><rt>considered</rt></ruby><rt>ἡγέομαι</rt></ruby><rt>V-ADI-3S</rt></RUBY> («<rt>2:6c</rt>»)C2
+- <rt>2:6a</rt> (<RUBY><ruby><ruby>Ὃς🕇<rt>Who</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-NSM</rt></RUBY>)S («<rt>2:6b</rt>»)A <RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἁρπαγμὸν<rt>something to be grasped</rt></ruby><rt>ἁρπαγμός</rt></ruby><rt>N-ASM</rt></RUBY>)C1 <RUBY><ruby><ruby><strong>ἡγήσατο</strong><rt>considered</rt></ruby><rt>ἡγέομαι</rt></ruby><rt>V-ADI-3S</rt></RUBY> («<rt>2:6c</rt>»)C2
 	- <rt>2:6b</rt> { (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>μορφῇ<rt>[the] form</rt></ruby><rt>μορφή</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)a <RUBY><ruby><ruby><em>ὑπάρχων</em><rt>existing,</rt></ruby><rt>ὑπάρχω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> }A
 	- <rt>2:6c</rt> { <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><em>εἶναι</em><rt>to be</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAN</rt></RUBY> (<RUBY><ruby><ruby>ἴσα<rt>equal</rt></ruby><rt>ἴσος</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby>Θεῷ,<rt>with God,</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY> )a }C2
 - <rt>2:7a</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἑαυτὸν<rt>Himself</rt></ruby><rt>ἑαυτοῦ</rt></ruby><rt>F-3ASM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐκένωσεν</strong><rt>emptied,</rt></ruby><rt>κενόω</rt></ruby><rt>V-AAI-3S</rt></RUBY></br> 
