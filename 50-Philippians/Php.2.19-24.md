@@ -16,6 +16,11 @@
 - <rt>2:23a</rt> { <RUBY><ruby><ruby>Τοῦτον<rt>Him</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASM</rt></RUBY>  }C◖ (<RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY>)A <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐλπίζω</strong><rt>I hope</rt></ruby><rt>ἐλπίζω</rt></ruby><rt>V-PAI-1S</rt></RUBY> ◗{ <RUBY><ruby><ruby><em>πέμψαι</em><rt>to send,</rt></ruby><rt>πέμπω</rt></ruby><rt>V-AAN</rt></RUBY> }C
 	- <rt>2:23b</rt> <RUBY><ruby><ruby>ὡς<rt>when</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><strong>ἀφίδω</strong><rt>I shall have seen</rt></ruby><rt>ἀφοράω</rt></ruby><rt>V-2AAS-1S</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the things</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>me,</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐξαυτῆς·<rt>immediately.</rt></ruby><rt>ἐξαυτῆς</rt></ruby><rt>ADV</rt></RUBY>)A
 - <rt>2:24a</rt> <RUBY><ruby><ruby><strong>πέποιθα</strong><rt>I am persuaded</rt></ruby><rt>πείθω</rt></ruby><rt>V-2RAI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>now</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A
-	- <rt>2:24ㄖ</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>
+	- <rt>2:24ㄖ</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A1 (<RUBY><ruby><ruby>αὐτὸς<rt>I myself</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ταχέως<rt>soon</rt></ruby><rt>ταχέως</rt></ruby><rt>ADV</rt></RUBY>)A3 <RUBY><ruby><ruby><strong>ἐλεύσομαι.</strong><rt>I will come.</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-FDI-1S</rt></RUBY>
 
-- <RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐτὸς<rt>I myself</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby>ταχέως<rt>soon</rt></ruby><rt>ταχέως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><strong>ἐλεύσομαι.</strong><rt>I will come.</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-FDI-1S</rt></RUBY>
+
+
+
+
+---
+[Philippians-Notes↵](Philippians-Notes.md)
