@@ -7,10 +7,10 @@
 ⸉⸊⸉⸊⸉⸊⸉⸊⸉⸊⸉⸊⸉⸊⸉⸊	Transposition  
 
 
-<font face="Noto Sans">V-PAP-NSM</font>  
+<font face="Open Sans Condensed Light">V-PAP-NSM</font>  
 
 
-<font face="Arial Narrow">V-PAP-NSM</font>  
+<font face="Open Sans Condensed">V-PAP-NSM</font>  
 
 <font face="Times New Roman">V-PAP-NSM</font>  
 
