@@ -1,14 +1,14 @@
 FHL
-![[../images/Pasted image 20211203071124.png]]
+![../images/Pasted image 20211203071124.png](../images/Pasted%20image%2020211203071124.png)
 
 
 OpenGNT
-![[../images/Pasted image 20211203071848.png]]
+![../images/Pasted image 20211203071848.png](../images/Pasted%20image%2020211203071848.png)
 
 
 StepBible
-![[../images/Pasted image 20211203071558.png]]
+![../images/Pasted image 20211203071558.png](../images/Pasted%20image%2020211203071558.png)
 
 
 WdBible
-![[../images/Pasted image 20211203082310.png]]
+![../images/Pasted image 20211203082310.png](../images/Pasted%20image%2020211203082310.png)
