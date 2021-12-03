@@ -8,3 +8,7 @@ OpenGNT
 
 StepBible
 ![[../images/Pasted image 20211203071558.png]]
+
+
+WdBible
+![[../images/Pasted image 20211203082310.png]]
