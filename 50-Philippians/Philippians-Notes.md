@@ -31,7 +31,6 @@ Interlinear 經文 (包括大小寫、標點符號、分行標記、段落標記
 	- [Php.2.19-24](Php.2.19-24.md)
 	- [Php.2.25-30](Php.2.25-30.md)
 - The True Righteousness
-	- [Php.3.1](Php.3.1)
 	- [Php.3.1-11](Php.3.1-11.md)
 - Pressing toward the Mark
 	- [Php.3.12-16](Php.3.12-16.md)
