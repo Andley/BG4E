@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "BG4E",
+    "font",
+    "default",
+    "margin-wide"
+  ],
+  "theme": "obsidian"
+}

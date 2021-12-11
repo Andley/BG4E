@@ -1,0 +1,127 @@
+{
+  "workspace:close": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:follow-link": [],
+  "graph:open": [],
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "app:open-settings": [],
+  "switcher:open": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-comments": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ]
+}

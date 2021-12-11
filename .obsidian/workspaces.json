@@ -1,0 +1,261 @@
+{
+  "workspaces": {
+    "2Sync": {
+      "main": {
+        "id": "3969f3923e6cfedb",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a81d9f000627cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.3.19–24.md",
+                "mode": "source"
+              }
+            },
+            "group": "98d95b26b4414933"
+          },
+          {
+            "id": "e4c58faa39706a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.3.19–24.md",
+                "mode": "preview"
+              }
+            },
+            "group": "98d95b26b4414933"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b1e149eb78e8515",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb89deb39da52857",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75b75d906b38f1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1314860610141a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "47f03e690283089d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267
+      },
+      "right": {
+        "id": "1464b72f66019d33",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f62b3dd05030d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c60c8158acd8037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "62-1John/1Jo.3.19–24.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 183.0555419921875,
+        "collapsed": true
+      },
+      "active": "e4c58faa39706a81"
+    },
+    "3Sync": {
+      "main": {
+        "id": "f4afcf6a714c05fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "1c93e914d62e8f8c",
+            "type": "split",
+            "dimension": 53.70030581039755,
+            "children": [
+              {
+                "id": "97520d08ae64c5d1",
+                "type": "leaf",
+                "dimension": 51.3235294117647,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "50-Philippians/Php.1.3–11.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "b296ff829cc1189d"
+              },
+              {
+                "id": "a3fe0d61e678dae7",
+                "type": "leaf",
+                "dimension": 48.67647058823529,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "50-Philippians/Php.1.3–11.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "ca98a89fbf86f418",
+            "type": "leaf",
+            "dimension": 46.29969418960245,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-Philippians/Php.1.3–11.md",
+                "mode": "preview"
+              }
+            },
+            "group": "b296ff829cc1189d"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b1e149eb78e8515",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb89deb39da52857",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75b75d906b38f1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1314860610141a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "47f03e690283089d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267,
+        "collapsed": true
+      },
+      "right": {
+        "id": "1464b72f66019d33",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f62b3dd05030d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc461d726b9ae279",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cf8452731348166c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cbd6c34411c8328e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8c60c8158acd8037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "50-Philippians/Php.1.3–11.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 183.0555419921875,
+        "collapsed": true
+      },
+      "active": "97520d08ae64c5d1"
+    }
+  },
+  "active": "2Sync"
+}

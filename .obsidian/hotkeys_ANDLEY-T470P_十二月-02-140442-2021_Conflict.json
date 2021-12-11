@@ -1,0 +1,167 @@
+{
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "v"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "h"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "l"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "r"
+    }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-highlight": [],
+  "workspace:close": [],
+  "editor:delete-paragraph": [],
+  "editor:insert-link": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-hider:toggle-hider-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "app:open-settings": [],
+  "editor:toggle-checklist-status": [],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "editor:follow-link": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:open-search": [],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ]
+}

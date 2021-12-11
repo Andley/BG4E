@@ -2,13 +2,12 @@
   "file-explorer",
   "global-search",
   "switcher",
-  "graph",
-  "backlink",
+  "tag-pane",
   "page-preview",
-  "note-composer",
   "command-palette",
-  "markdown-importer",
-  "word-count",
+  "starred",
+  "outline",
   "open-with-default-app",
+  "workspaces",
   "file-recovery"
 ]

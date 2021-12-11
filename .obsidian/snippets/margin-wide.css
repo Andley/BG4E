@@ -1,0 +1,24 @@
+/* ============= 列印 PDF 設定 ============= */
+@page {
+  size: A4 portrait;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+@media print {
+  /* -------- 列印強調 ---------- */
+  h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+  }
+  a {
+    color: green !important;
+  }
+  strong {
+    color: red !important;
+  }
+  em {
+    color: blue !important;
+  }
+}
