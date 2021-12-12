@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "BG4E",
     "font",
-    "default"
+    "default",
+    "margin-wide"
   ],
   "theme": "obsidian"
 }

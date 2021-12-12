@@ -6,6 +6,7 @@
       {
         "id": "1bc549648d22455f",
         "type": "leaf",
+        "dimension": 45.26166902404526,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,6 +18,7 @@
       {
         "id": "f4fcbb501f222b26",
         "type": "leaf",
+        "dimension": 54.73833097595474,
         "state": {
           "type": "markdown",
           "state": {
@@ -110,9 +112,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bc549648d22455f",
+  "active": "f4fcbb501f222b26",
   "lastOpenFiles": [
     "50-Philippians/Php.3.17-21.md",
+    "50-Philippians/Phrasing-Signs.md",
     "50-Philippians/Php.3.12-16.md",
     "50-Philippians/Philippians-Notes.md",
     "50-Philippians/Php.3.1-11.md",
@@ -120,7 +123,6 @@
     "62-1John/1John-Notes.md",
     "README.md",
     "Memorize.md",
-    "50-Philippians/Philippians-TC-Interlinear.md",
-    "50-Philippians/Phrasing-Signs.md"
+    "50-Philippians/Philippians-TC-Interlinear.md"
   ]
 }
