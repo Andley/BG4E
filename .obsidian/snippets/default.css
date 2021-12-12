@@ -172,8 +172,13 @@ a {
     font-family: InterlinearFont;
   }
 
-  li ruby {
-    padding-bottom:1px !important;
+  ul ruby {
+    padding-bottom: 5px !important;
+  }
+
+  ul p {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
   }
   
   body {
