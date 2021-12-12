@@ -1,4 +1,5 @@
 #### 圖析 (Php 3:12–16)
+太初有道，道與神同在，道就是神。 2 這道太初與神同在。 3 萬物是藉著他造的；凡被造的，沒有一樣不是藉著他造的。 4 生命在他裡頭，這生命就是人的光。 5 光照在黑暗裡，黑暗卻不接受光。 6 有一個人，是從神那裡差來的，名叫約翰。 7 這人來，為要作見證，就是為光作見證，叫眾人因他可以信。 8 他不是那光，乃是要為光作見證。 9 那光是真光，照亮一切生在世上的人。 10 他在世界，世界也是藉著他造的，世界卻不認識他。 11 他到自己的地方來，自己的人倒不接待他。 12 凡接待他的，就是信他名的人，他就賜他們權柄，作神的兒女。 13 這等人不是從血氣生的，不是從情慾生的，也不是從人意生的，乃是從神生的。 14 道成了肉身，住在我們中間，
 
 - <rt>3:12a</rt> <RUBY><ruby><ruby>Οὐχ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ...<strong>ἐστιν</strong>...
 	- <rt>3:12b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἔλαβον</strong><rt>I have obtained [it],</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> 

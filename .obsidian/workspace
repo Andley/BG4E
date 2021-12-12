@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "62-1John/1John-Notes.md",
+            "file": "50-Philippians/Php.3.12-16.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f4fcbb501f222b26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "50-Philippians/Php.3.12-16.md",
             "mode": "preview"
           }
         }
@@ -87,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1John-Notes.md"
+                "file": "50-Philippians/Php.3.12-16.md"
               }
             }
           }
@@ -100,14 +111,14 @@
   },
   "active": "1bc549648d22455f",
   "lastOpenFiles": [
+    "50-Philippians/Php.3.12-16.md",
+    "50-Philippians/Philippians-Interlinear.md",
+    "50-Philippians/Php.3.1-11.md",
     "62-1John/1John-Notes.md",
     "README.md",
     "Memorize.md",
     "50-Philippians/Philippians-TC-Interlinear.md",
     "50-Philippians/Philippians-Notes.md",
-    "50-Philippians/Philippians-Interlinear.md",
-    "50-Philippians/Php.3.12-16.md",
-    "50-Philippians/Php.3.1-11.md",
     "50-Philippians/Phrasing-Signs.md",
     "64-3John/3John-Notes.md"
   ]

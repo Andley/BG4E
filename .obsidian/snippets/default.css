@@ -172,14 +172,14 @@ a {
     font-family: InterlinearFont;
   }
 
-  ul ruby {
-    padding-bottom: 5px !important;
-
+  li ruby {
+    padding-bottom:1px !important;
   }
   
   body {
     font-family: AndleyFont;
   }
+
 
 .nav-file-title, .nav-folder-title {
   display: flex;
