@@ -1,9 +1,7 @@
 /* ============= 列印 PDF 設定 ============= */
 @page {
   size: A4 portrait;
-  margin-top: 1cm;
-  margin-bottom: 1cm;
-  margin-left: 0cm;
+  margin-left: -0.5cm;
   margin-right: -0.5cm;
 }
 
