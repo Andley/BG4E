@@ -1,9 +1,8 @@
-# 參考書目
+# 聖經希臘文參考書目
 
 
 ## 新約
-### 希臘文聖經
-
+### 聖經
 - Institute for New Testament Textual Research. _Novum Testamentum Graece_. 28 Rev Mul edition. Stuttgart: German Bible Society, 2012.
 - Trobisch, David. _A User's Guide to the Nestle-Aland 28 Greek New Testament_. Atlanta: Society of Biblical Literature, 2013.
 - Aland, Barbara, Kurt Aland, Johannes Karavidopoulos, Carlo Maria Martini, and Bruce Metzger, eds. _The Greek New Testament_. Fifth Revised Edition. Stuttgart: Deutsche Bibelgesellschaft, 2014.
@@ -80,6 +79,9 @@
 - Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
 - Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de Bakker. _Cambridge Grammar of Classical Greek_, 2019.
 
+### Verbal Aspects
+- Campbell, Constantine R. _Basics Of Verbal Aspect In Biblical Greek_. Zondervan, 2008. = 君士坦丁‧坎柏(Constantine R. Campbell)。《聖經希臘文基礎：動詞觀點》。汪仁潔譯。加州：麥種，2020。
+- Runge, Steven E, and Christopher J Fresch, eds. _The Greek Verb Revisited: A Fresh Approach for Biblical Exegesis_. Bellingham, WA.: Lexham Press, 2016.
 
 ### 單卷希臘文解經
 
@@ -174,6 +176,11 @@
 - 羅羚、羅達理。《原文讀經好處多——五十個釋經範例，讓你愛上原文讀經》。香港：天道書樓，2017。
 - 張證豪、郭承天、周復初、劉偉倫。《新約聖經希臘文輕鬆速成》。新北市：聖經資源中心，2020。
 
+
+
+## 七十士譯本 (LXX)
+
+
 ## 語言學
 
 - 里查兹(Richards, J. C.)。《朗文语言教学与应用语言学词典》。外语教学与研究出版社，2002。
@@ -184,7 +191,5 @@
 - 黃朱倫。《語言學與釋經：聖經詞彙的研究》。台北市：校園書房，1999。
 - Carson, D. A. _Exegetical Fallacies_. 2nd ed. Baker Academic, 1996. = 卡森(D.A. Carson)。《再思解經錯謬》。余德林、郭秀娟譯。台北市：校園書房，1998。
 
-## Verbal Aspects
-- Campbell, Constantine R. _Basics Of Verbal Aspect In Biblical Greek_. Zondervan, 2008. = 君士坦丁‧坎柏(Constantine R. Campbell)。《聖經希臘文基礎：動詞觀點》。汪仁潔譯。加州：麥種，2020。
-- Runge, Steven E, and Christopher J Fresch, eds. _The Greek Verb Revisited: A Fresh Approach for Biblical Exegesis_. Bellingham, WA.: Lexham Press, 2016.
+
 
