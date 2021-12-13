@@ -25,8 +25,3 @@ S/P/C/A| 主要 & 從屬子句的元素用大寫|
 <strong><font color='red'>—</font></strong> ... <strong><font color='red'>—</font></strong> | 插入的段落
 ✡、✝、🕊️ | 聖父、聖子、聖靈 |
 
-
-
-⸆⸇⸆⸇⸆⸇⸆⸇⸆⸇⸆⸇⸆⸇⸆⸇    Insertion
-
-補語的補語©

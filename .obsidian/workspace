@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50-Philippians/Php.3.12-16.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50-Philippians/Php.3.12-16.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.99999809265137,
-    "collapsed": true
+    "width": 241.99999809265137
   },
   "right": {
     "id": "2ebe4ede22a17df3",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50-Philippians/Php.3.12-16.md"
+                "file": "README.md"
               }
             }
           }
@@ -112,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4fcbb501f222b26",
+  "active": "1bc549648d22455f",
   "lastOpenFiles": [
+    "README.md",
     "50-Philippians/Php.3.12-16.md",
     "50-Philippians/Phrasing-Signs.md",
     "50-Philippians/Php.3.17-21.md",
@@ -121,7 +121,6 @@
     "50-Philippians/Php.3.1-11.md",
     "50-Philippians/Philippians-Interlinear.md",
     "62-1John/1John-Notes.md",
-    "README.md",
     "Memorize.md",
     "50-Philippians/Philippians-TC-Interlinear.md"
   ]
