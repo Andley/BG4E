@@ -1,6 +1,8 @@
 # 參考書目
 
-## 希臘文聖經
+
+## 新約
+### 希臘文聖經
 
 - Institute for New Testament Textual Research. _Novum Testamentum Graece_. 28 Rev Mul edition. Stuttgart: German Bible Society, 2012.
 - Trobisch, David. _A User's Guide to the Nestle-Aland 28 Greek New Testament_. Atlanta: Society of Biblical Literature, 2013.
@@ -9,7 +11,7 @@
 - Jongkind, Dirk, Peter J. Williams, Peter M. Head, and Patrick James, eds. _The Greek New Testament, produced at Tyndale House Cambridge_. Wheaton, IL : Cambridge, United Kingdom: Crossway Books ; Cambridge University Press, 2017.
 - Holmes, Michael W. _The Greek New Testament: SBL Edition_. Atlanta, Georgia : Bellingham, Washington: Society of Biblical Literature, 2010.
 
-## 經文鑑別 (Textual Criticism)
+### 經文鑑別 (Textual Criticism)
 
 - Metzger, Bruce M., and Bart D. Ehrman. _The Text of the New Testament: Its Transmission, Corruption, and Restoration_. 4th ed. New York: Oxford University Press, 2005.【根據英文 2nd ed. (1968) 的中譯：麥子格（Metzger, Bruce Manning）。《新約經文鑑別學》。康來昌譯。臺北巿：中華福音神學院，1981。】
 - Metzger, Bruce Manning. _The Canon of the New Testament: Its Origin, Development and Significance_. 1. issued in paperback. Oxford Berlin: Clarendon Press, 1997.
@@ -18,14 +20,14 @@
 - Black, David Alan. _New Testament Textual Criticism: A Concise Guide_. Grand Rapids, Mich: Baker Books, 1994. = 大衛‧阿藍‧布雷克(David Alan Black)。《新約經文鑑別學》。葉雅蓮譯、黃龍光譯。台北市：中華福音神學院，2009。
 - 黃錫木。《新約經文鑑別學概論》。香港：基道，1997。
 
-## 輔讀本 (Reader's Edition)
+### 輔讀本 (Reader's Edition)
 - Dodson, John Jeffrey, ed. <em>The Greek New Testament for Beginning Readers: Byzantine Textform</em>. Nürnberg: VTR, 2010.
 - Goodrich, Richard J., and Albert L. Lukaszewski, eds. <em>A Reader's Greek New Testament: Third Edition</em>. Third edition. Grand Rapids, MI.: Zondervan Academic, 2015.
 - Newman, Barclay M., and Florian Voss, eds. <em>UBS5 Greek New Testament, Reader's Edition</em>. Fifth revised. German Bible Society, 2015.
 - Williams, Peter J, Peter M Head, Patrick James, James R Covington, and Andrew Zulker, eds. <em>The Greek New Testament: Reader's Edition</em>. Edited by Dirk Jongkind and Drayton C Benner. Wheaton, Ill.: Crossway, 2018.
 - 傅約翰 (Johan Ferreira)。《新约希腊文读本》。South Pasadena, CA：美国麦种传道会，2014。
 
-## 辭典 (Lexion)
+### 辭典 (Lexion)
 
 - Bauer, W., F. W. Danker, W. F. Arndt, and F. W. Gingrich. <em>A Greek-English Lexicon of the New Testament and Other Early Christian Literature</em>. 3rd ed. Chicago, Ill.: University of Chicago Press, 2000. = W. Bauer、F. W. Danker、W. F. Arndt、F. W. Gingrich。《新約及早期基督敎文獻希臘文大詞典（中文版）》。麥啟新編。麥陳惠惠、麥啟新譯。香港：漢語聖經協會，2009。
 	- William Varner 介紹 BDAG 背景及使用方法的三個影片 [1](https://vimeo.com/225498714), [2](https://vimeo.com/225943004), [3](https://vimeo.com/227488008).
@@ -34,18 +36,18 @@
 - 包爾(Walter Bauer)。《新約希臘文中文辭典》。王正中編。戴德理 (Wright Doyle)譯。更新版。台中市：浸宣，2014。
 - 黃根春。《新約希臘文詞典》。香港：香港聖經公會，2015。
 
-## 神學辭典 (Dictionary)
+### 神學辭典 (Dictionary)
 
 - Silva, Moisés. _New International Dictionary of New Testament Theology and Exegesis_. Second edition. 5 vols. Grand Rapids, MI.: Zondervan, 2014.
 
-## 進階讀本 (Graded Reader)
+### 進階讀本 (Graded Reader)
 
 - Guthrie, George H, and George H. Guthrie & J. Scott Duvall. _Biblical Greek Exegesis: A Graded Approach to Learning Intermediate and Advanced Greek_. Grand Rapids, Mich.: Zondervan, 1998.
 - Mounce, William D. _A Graded Reader of Biblical Greek_. Grand Rapids, MI.: Zondervan, 1996. = 威廉‧孟恩思(William D. Mounce)。《聖經希臘文進階：讀本》。沈其光、潘秋松譯。美國：麥種傳道會，2015。
 
 ---
 
-## 初階語法 (Basic Grammar)
+### 初階語法 (Basic Grammar)
 - Harris, Dana M. _Introduction to Biblical Greek Grammar: Elementary Syntax and Linguistics._ Grand Rapids, MI.: Zondervan, 2020. 
 - Harris, Dana M, and Chi-ying Wang. _An Introduction to Biblical Greek Workbook: Elementary Syntax and Linguistics_. Grand Rapids, MI.: Zondervan Academic, 2020.
 - Gibson, Richard J., and Constantine R. Campbell. _Reading Biblical Greek: A Grammar for Students_. Grand Rapids, Michigan: Zondervan, 2017.
@@ -62,7 +64,7 @@
 - Porter, Stanley E., and Jeffrey T. Reed. _Fundamentals of New Testament Greek: Workbook_. Grand Rapids, Mich.: Eerdmans, 2010.
 - Porter, Stanley E., Jeffrey T. Reed, and Matthew Brook O'Donnell. _Fundamentals of New Testament Greek_. Grand Rapids, Mich: Eerdmans, 2010.
 
-## 進階語法 (Intermediate Grammar)
+### 進階語法 (Intermediate Grammar)
 - Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. <em>Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testament</em>. Nashville, TN.: B&H Academic, 2016.
 - Levinsohn, Stephen H. <em>Discourse Features of New Testament Greek: A Coursebook on the Information Structure of New Testament Greek</em>. 2nd ed. Dallas, Tex.: SIL International, 2000.
 - Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
@@ -72,49 +74,30 @@
 - Wallace, Daniel B. _The Basics of New Testament Syntax: An Intermediate Greek Grammar_. Grand Rapids, Mich.: Zondervan, 2000.
 - 張證豪、郭承天、周復初、劉偉倫。《新約聖經希臘文輕鬆速成》。新北市：聖經資源中心，2020。
 
-## 高階語法 (Reference Grammar)
+### 高階語法 (Reference Grammar)
 - Siebenthal, Heinrich von. <em>Ancient Greek Grammar for the Study of the New Testament</em>. Oxford New York: Peter Lang, 2020.
 - Robertson, A. T. _A Grammar of Greek New Testament in the Light of Historical Research_. 3rd ed. Nashville, Tenn.: Broadman Press, 1919.
 - Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
 - Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de Bakker. _Cambridge Grammar of Classical Greek_, 2019.
 
-## Diagram
-- https://www.ntgreekguy.com/
+### 圖析 (Diagram)
+#### 字詞層級 (word level)
+- [💰Randy Leedy — New Testament Greek Guy](https://www.ntgreekguy.com/)
 	- ![[images/Pasted image 20210913211615.png]]
-> I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries:
+	- I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries:
 	- ![images/Pasted image 20210913211336.png](images/Pasted%20image%2020210913211336.png)
-- https://www.inthebeginning.org/e-diagrams/
----
-
-##  原文與事奉
-- Campbell, Constantine R. <em>Keep Your Greek: Strategies for Busy People</em>. Grand Rapids, MI.: Zondervan, 2010.
-- Merkle, Benjamin L, and Robert L Plummer. <em>Greek for Life: Strategies for Learning, Retaining, and Reviving New Testament Greek</em>. Grand Rapids, MI.: Baker Academic, 2017.
-- Whitacre, Rodney A. <em>Using and Enjoying Biblical Greek: Reading the New Testament with Fluency and Devotion</em>. Grand Rapids, Mich.: Baker Academic, 2015.
-- Merkle, Benjamin L. _Exegetical Gems from Biblical Greek: A Refreshing Guide to Grammar and Interpretation_. Grand Rapids, Michigan: Baker Academic, 2019.
-- Webb, Joseph M, and Kysar, Robert. _Greek for Preachers_. St. Louis, Mo.: Chalice Press, 2002.
-- Easley, Kendell H. _User-Friendly Greek: A Common Sense Approach to the Greek New Testament_. Nashville, Tenn.: Broadman & Holman, 1994.
-- 李廣。《查考聖經得生命：如何使用原文編號新約、字典、彙編》。兩冊。永望文化，2003。
-- 羅羚、羅達理。《原文讀經好處多——五十個釋經範例，讓你愛上原文讀經》。香港：天道書樓，2017。
-- 張證豪、郭承天、周復初、劉偉倫。《新約聖經希臘文輕鬆速成》。新北市：聖經資源中心，2020。
-
-## 語言學
-
-- 里查兹(Richards, J. C.)。《朗文语言教学与应用语言学词典》。外语教学与研究出版社，2002。
-
-## 解經方法
-- Ramsay, Richard B. <em>Basic Greek and Exegesis: A Practical Manual That Teaches the Fundamentals of Greek and Exegesis, Including the Use of Linguistic Software.</em> Phillipsburg, NJ: P&R Publishing, 2007.
-- Silva, Moisés. _Biblical Words and Their Meaning: An Introduction to Lexical Semantics_. Rev. and Expanded. Grand Rapids: Zondervan, 2010.
-- 黃朱倫。《語言學與釋經：聖經詞彙的研究》。台北市：校園書房，1999。
-- Carson, D. A. _Exegetical Fallacies_. 2nd ed. Baker Academic, 1996. = 卡森(D.A. Carson)。《再思解經錯謬》。余德林、郭秀娟譯。台北市：校園書房，1998。
-
-## Verbal Aspects
-- Campbell, Constantine R. _Basics Of Verbal Aspect In Biblical Greek_. Zondervan, 2008. = 君士坦丁‧坎柏(Constantine R. Campbell)。《聖經希臘文基礎：動詞觀點》。汪仁潔譯。加州：麥種，2020。
-- Runge, Steven E, and Christopher J Fresch, eds. _The Greek Verb Revisited: A Fresh Approach for Biblical Exegesis_. Bellingham, WA.: Lexham Press, 2016.
+- [💰William Ramey — NT Greek In Diagram](https://www.inthebeginning.org/e-diagrams/)
+- [💰Accordance Bible Software — Greek Diagrams](http://accordancebible.com/product/greek-diagrams-not-for-mobile/)
 
 
-## 單卷希臘文解經
+#### 句法層級 (syntax level)
+- [🆓OpenText Project](http://www.opentext.org/)
+- [💰Accordance Bible Software — Grammatical Syntax add-on](https://accordancebible.com/product/grammatical-syntax-add-on-to-gnt28-t/)
+- [💰Logos Bible Software — Cascadia Syntax Graphs of the New Testament](https://www.logos.com/product/183840/cascadia-syntax-graphs-of-the-new-testament)
 
-### BHGNT Series
+### 單卷希臘文解經
+
+#### BHGNT Series
 
 - Adam, A. K. M. <em>James: A Handbook on the Greek Text</em>. BHGNT. Waco, Tex: Baylor University Press, 2013.
 - Brookins, Timothy A., and Bruce W. Longenecker. <em>1 Corinthians 1-9: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2016.
@@ -134,7 +117,7 @@
 - Perkins, Larry J. <em>The Pastoral Letters: A Handbook on the Greek Text</em>. BHGNT. Waco, Texas: Baylor University Press, 2017.
 - Varner, William C. <em>Philippians: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2016.
 
-### EGGNT Series
+#### EGGNT Series
 
 - Forbes, Greg W. <em>1 Peter</em>. EGGNT. Nashville, TN.: B & H Academic, 2014.
 - Harris, Dana M. <em>Hebrews</em>. EGGNT. Nashville, TN.: B & H Academic, 2019.
@@ -150,14 +133,14 @@
 - Vlachos, Chris A. <em>James</em>. EGGNT. Nashville, TN.: B & H Academic, 2013.
 - Williams, Joel F. <em>Mark</em>. EGGNT. Nashville, TN.: B & H Academic, 2020.
 
-### Big Greek Idea Series
+#### Big Greek Idea Series
 
 - Bateman IV, Herbert W. <em>John's Letters: An Exegetical Guide for Preaching and Teaching</em>. BGI. Grand Rapids, MI.: Kregel Academic, 2018.
 - Moore, Thomas. <em>Philippians: An Exegetical Guide for Preaching and Teaching</em>. BGI. Grand Rapids, MI.: Kregel Academic, 2019.
 - Simpson, Benjamin I. <em>Ephesians: An Exegetical Guide for Preaching and Teaching</em>. BGI. Grand Rapids, MI.: Kregel Academic, 2020.
 
 
-### Exegetical Summary Series
+#### Exegetical Summary Series
 
 - Abernathy, C. David. <em>An Exegetical Summary of 2 Corinthians</em>. ESS. Dallas, TX.: SIL International, 2008.
 - ———. <em>An Exegetical Summary of I Peter</em>. ESS. Dallas, TX.: SIL International, 2008.
@@ -192,4 +175,30 @@
 - ———. <em>An Exegetical Summary of Revelation 1-11</em>. ESS. Dallas, TX.: SIL International, 2008.
 - ———. <em>An Exegetical Summary of Revelation 12-22</em>. ESS. Dallas, TX.: SIL International, 2008.
 
+
+
+###  原文與事奉
+- Campbell, Constantine R. <em>Keep Your Greek: Strategies for Busy People</em>. Grand Rapids, MI.: Zondervan, 2010.
+- Merkle, Benjamin L, and Robert L Plummer. <em>Greek for Life: Strategies for Learning, Retaining, and Reviving New Testament Greek</em>. Grand Rapids, MI.: Baker Academic, 2017.
+- Whitacre, Rodney A. <em>Using and Enjoying Biblical Greek: Reading the New Testament with Fluency and Devotion</em>. Grand Rapids, Mich.: Baker Academic, 2015.
+- Merkle, Benjamin L. _Exegetical Gems from Biblical Greek: A Refreshing Guide to Grammar and Interpretation_. Grand Rapids, Michigan: Baker Academic, 2019.
+- Webb, Joseph M, and Kysar, Robert. _Greek for Preachers_. St. Louis, Mo.: Chalice Press, 2002.
+- Easley, Kendell H. _User-Friendly Greek: A Common Sense Approach to the Greek New Testament_. Nashville, Tenn.: Broadman & Holman, 1994.
+- 李廣。《查考聖經得生命：如何使用原文編號新約、字典、彙編》。兩冊。永望文化，2003。
+- 羅羚、羅達理。《原文讀經好處多——五十個釋經範例，讓你愛上原文讀經》。香港：天道書樓，2017。
+- 張證豪、郭承天、周復初、劉偉倫。《新約聖經希臘文輕鬆速成》。新北市：聖經資源中心，2020。
+
+## 語言學
+
+- 里查兹(Richards, J. C.)。《朗文语言教学与应用语言学词典》。外语教学与研究出版社，2002。
+
+## 解經方法
+- Ramsay, Richard B. <em>Basic Greek and Exegesis: A Practical Manual That Teaches the Fundamentals of Greek and Exegesis, Including the Use of Linguistic Software.</em> Phillipsburg, NJ: P&R Publishing, 2007.
+- Silva, Moisés. _Biblical Words and Their Meaning: An Introduction to Lexical Semantics_. Rev. and Expanded. Grand Rapids: Zondervan, 2010.
+- 黃朱倫。《語言學與釋經：聖經詞彙的研究》。台北市：校園書房，1999。
+- Carson, D. A. _Exegetical Fallacies_. 2nd ed. Baker Academic, 1996. = 卡森(D.A. Carson)。《再思解經錯謬》。余德林、郭秀娟譯。台北市：校園書房，1998。
+
+## Verbal Aspects
+- Campbell, Constantine R. _Basics Of Verbal Aspect In Biblical Greek_. Zondervan, 2008. = 君士坦丁‧坎柏(Constantine R. Campbell)。《聖經希臘文基礎：動詞觀點》。汪仁潔譯。加州：麥種，2020。
+- Runge, Steven E, and Christopher J Fresch, eds. _The Greek Verb Revisited: A Fresh Approach for Biblical Exegesis_. Bellingham, WA.: Lexham Press, 2016.
 
