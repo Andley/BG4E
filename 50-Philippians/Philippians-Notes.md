@@ -55,10 +55,10 @@ Interlinear 經文 (包括大小寫、標點符號、分行標記、段落標記
  R | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010. 
 
 ### 參考書目
-- Varner, William. _Php.lippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
-- Hellerman, Joseph H. _Php.lippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
-- Greenlee, J. Harold. _An Exegetical Summary of Php.lippians_. ESS. Dallas, TX.: SIL International, 2008.
-- Moore, Thomas. _Php.lippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
-- Novakovic, Lidija. _Php.lippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
+- Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
+- Hellerman, Joseph H. _Phplippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
+- Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
+- Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
+- Novakovic, Lidija. _Phplippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
 - 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
-
+- 吳道宗。《腓利比書》。香港：天道書樓，2011。
