@@ -80,20 +80,6 @@
 - Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
 - Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de Bakker. _Cambridge Grammar of Classical Greek_, 2019.
 
-### 圖析 (Diagram)
-#### 字詞層級 (word level)
-- [💰Randy Leedy — New Testament Greek Guy](https://www.ntgreekguy.com/)
-	- ![[images/Pasted image 20210913211615.png]]
-	- I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries:
-	- ![images/Pasted image 20210913211336.png](images/Pasted%20image%2020210913211336.png)
-- [💰William Ramey — NT Greek In Diagram](https://www.inthebeginning.org/e-diagrams/)
-- [💰Accordance Bible Software — Greek Diagrams](http://accordancebible.com/product/greek-diagrams-not-for-mobile/)
-
-
-#### 句法層級 (syntax level)
-- [🆓OpenText Project](http://www.opentext.org/)
-- [💰Accordance Bible Software — Grammatical Syntax add-on](https://accordancebible.com/product/grammatical-syntax-add-on-to-gnt28-t/)
-- [💰Logos Bible Software — Cascadia Syntax Graphs of the New Testament](https://www.logos.com/product/183840/cascadia-syntax-graphs-of-the-new-testament)
 
 ### 單卷希臘文解經
 
