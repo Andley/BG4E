@@ -2,10 +2,6 @@
 
 ## Biblical Greek for Everyone
 
-中文翻譯儘量按照：里查兹(Richards, J. C.)。《朗文语言教学与应用语言学词典》。外语教学与研究出版社，2002。
-
-
-https://andley.github.io/BG4E/
  
 
 ### 進階句法 (BG4E–Syntax)
@@ -16,6 +12,8 @@ https://andley.github.io/BG4E/
 
 ### 新約書卷 (Greek New Testament)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
+- [彼得前書](60-1Peter/1Peter-Notes.md)
+- [彼得後書](61-2Peter/2Peter-Notes.md)
 - [約翰一書](62-1John/1John-Notes.md)
 - [約翰二書](63-2John/2John-Notes.md)
 - [約翰三書](64-3John/3John-Notes.md)
