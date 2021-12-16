@@ -1,3 +1,6 @@
+<ruby><rbc><rb>10</rb>-<rb>31</rb>-<rb>2002</rb></rbc><rtc><rt>Month</rt><rt>Day</rt><rt>Year</rt></rtc><rtc>Expiration Date</rt></rtc></ruby>
+
+
 <ruby>Βίβλος<rt>[The] book</rt><rt>βίβλος</rt><rt>N-NSF</rt></ruby> 
 
 <ruby><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>βίβλος</rt></ruby><rt>N-NSF</rt></ruby>
