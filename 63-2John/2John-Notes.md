@@ -6,7 +6,6 @@
 Interlinear 經文出自 [STEPBible.org](https://www.STEPBible.or) 的 [TAGNT (Translators Amalgamated Greek NT)](https://github.com/STEPBible/STEPBible-Data)
 
 - [約翰二書 Interlinear](2John-Interlinear.md)
-- [約翰二書 Interlinear (DOCX 格式)](2John.docx)
 
 
 ### 原文特色
