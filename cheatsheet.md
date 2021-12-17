@@ -194,7 +194,7 @@ Points|Pixels
 ### 引用
 
 > 文字下標<sub>a</sub>
->> 雙重引用上標<sup>b</sup>
+>› 雙重引用上標<sup>b</sup>
 
 ---
 ## 註腳
