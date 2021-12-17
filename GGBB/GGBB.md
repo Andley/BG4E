@@ -1,4 +1,4 @@
-# Greek Grammar Beyond the Basics•中級希臘文文法<br>Syntax Summaries•語法規則簡述—中英頁碼對照
+# Greek Grammar Beyond the Basics•中級希臘文文法<br/>Syntax Summaries•語法規則簡述—中英頁碼對照
 
 說明1：(英文版 page number)•(中文版頁碼)。  
 說明2：➡表示重要、出現機率高的句法類別；✚表示容易誤解的句法類別。  

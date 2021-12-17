@@ -28,8 +28,8 @@ Interlinear 經文 (包括大小寫、標點符號、分行標記、段落標記
 ### 主要書目
 簡寫 | 出處
 :------:| --- 
-W<br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
-P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+W<br/>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br/>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+P<br/>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br/>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 吳 | 吳道宗。《約翰壹貳叁書》。天道聖經註釋。兩卷。香港：天道書樓，2007。
 
 
