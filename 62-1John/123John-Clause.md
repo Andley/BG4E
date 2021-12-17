@@ -103,8 +103,8 @@
 再看一個例子：
 
 - <rt>3Jo 1:3</rt> <RUBY><ruby><ruby><strong>ἐχάρην°¹</strong><rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>λίαν<rt>exceedingly</rt></ruby><rt>λίαν</rt></ruby><rt>ADV</rt></RUBY>)A°¹
-	- (<RUBY><ruby><ruby><mark><em>ἐρχομένων</em></mark><rt>when were coming</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-PNP-GPM</rt></RUBY> <<RUBY><ruby><ruby>ἀδελφῶν<rt>[the] brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-GPM</rt></RUBY>>s }A°¹⮥
-	- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark><em>μαρτυρούντων</em></mark><rt>those bearing witness</rt></ruby><rt>μαρτυρέω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> <<RUBY><ruby><ruby>σου<rt>from you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ,<rt>to truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>>c> }A°¹⮥
+	- (<RUBY><ruby><ruby><mark><em>ἐρχομένων</em></mark><rt>when were coming</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-PNP-GPM</rt></RUBY> ‹<RUBY><ruby><ruby>ἀδελφῶν<rt>[the] brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-GPM</rt></RUBY>›s }A°¹⮥
+	- <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark><em>μαρτυρούντων</em></mark><rt>those bearing witness</rt></ruby><rt>μαρτυρέω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> ‹<RUBY><ruby><ruby>σου<rt>from you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ,<rt>to truth,</rt></ruby><rt>ἀλήθεια</rt></ruby><rt>N-DSF</rt></RUBY>›c )A°¹⮥
 - 分詞 ἐρχομένων 當作動詞使用，因為動作者跟主要子句的主詞 (我) 不同，所以用所有格表達分詞的主語，形成 Genitive Absolute 分詞的獨立所有格 (W, 654–55 = 華, 691–92) 結構，成為分詞內嵌子句，當作副詞 (狀語) 使用，修飾主要動詞 <strong>ἐχάρην°¹</strong>。
 - 分詞 μαρτυρούντων 當作動詞使用，後面有自己的補語，合起來成為分詞內嵌子句，當作副詞 (狀語) 使用，修飾主要動詞 <strong>ἐχάρην°¹</strong>。
 
