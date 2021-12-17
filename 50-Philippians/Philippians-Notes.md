@@ -6,7 +6,7 @@
 Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)。
 
 - [Philippians Interlinear (英文) ](Philippians-Interlinear.md)
-- [腓立比書 Interlinear (中文) ](Philippians-TC-Interlinear.md)
+- [腓立比書 Interlinear (中文) ](Philippians-Interlinear-TC.md)
 
 ### 原文特色
 - [腓立比書—子句結構](Philippians-Clause.md)  
@@ -67,8 +67,8 @@ P<br/>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Secon
 Moore | Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
 Varner | Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 Novakovic | Novakovic, Lidija. _Phplippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
-Greenlee | Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
 Hellerman | Hellerman, Joseph H. _Phplippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
+Greenlee | Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
 
 
 簡寫 | 出處

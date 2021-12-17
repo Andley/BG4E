@@ -17,9 +17,8 @@
 
 以下就從約翰書信當中列舉幾個常見的例子。
 
-<div style="page-break-after: always;"></div>
 
-### (1) 主要子句 (Primary Clause)
+## (1) 主要子句 (Primary Clause)
 ### (1a) 對等連接詞 (coordinate conjunctive) 
 用對等連接詞 καί 帶出主要子句。καί 可以翻譯成 and/but。
 
@@ -51,7 +50,7 @@
 
 
 
-### (2) 從屬子句 (Subordinate Clause)
+## (2) 從屬子句 (Subordinate Clause)
 
 
 
@@ -86,7 +85,7 @@
 <div style="page-break-after: always;"></div>
 
 
-### (3) 內嵌子句 (Embedded Clause)
+## (3) 內嵌子句 (Embedded Clause)
 
 ### (3a) 不定詞內嵌子句
 不定詞是：動詞＋名詞的結合體。因為有名詞的特色，所以單獨一個不定詞，就可以當名詞使用，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是直接受格)、補語 (也是直接受格)、狀語，進而形成不定詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
