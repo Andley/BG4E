@@ -12,7 +12,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - [腓立比書—子句結構](Philippians-Clause.md)  
 - [腓立比書—詞彙分析](Philippians-Vocabulary.md)  
 
-### 句法筆記
+### 句法圖析
 經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)
 
 - Salutation
@@ -46,11 +46,30 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Php.4.21-23](Php.4.21-23.md)
 
 
-### 書目
+### 圖析符號
 
-- 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
-- 吳道宗。《腓利比書》。香港：天道書樓，2011。
+形式 (form) 的符號  | 含意 
+:---: | :----: |
+<strong>粗體字</strong><br><em>斜體字</em> | 動詞 <br>分詞 or 不定詞
+  !! | 命令語氣動詞 
+ ¬<br>¶ | 換行標記<br>段落標記 
+| « » | 按照原文順序的片語 or 子句 |
+| ⸉ ⸊ | 更動原文順序的片語 or 子句 |
+| { ... ( ... ‹ ... › ... ) ... } | 詞組、片語、子句之內的層級 |
+| ⦇、⦈ | 片語 or 子句的前半段、後半段|
 
+功能 (function)、<br/>意義 (meaning) 的符號  | 含意 |
+:---: | :----: | 
+S/P/C/A<br>s/p/c/a| 主要 & 從屬子句的元素用大寫<br>內嵌子句的元素用小寫|
+...xxx... | 從上下文推敲出來被省略掉的字詞 |
+°¹、°²<br/><mark>°¹</mark>、<mark>°²</mark>  | 指向、修飾、連結其他的字詞/片語/子句<br/><mark>被</mark>指向、被修飾、被連結的字詞/片語/子句 |
+°¹⮥<br/>°¹⮧ |  指向上文<br/>指向下文 |
+= |  與其他片語同位 (appositon) 
++ | 補充 (complement) 其他片語 
+══════<br/> ———<br/>·············| 大段落<br/>中段落<br/>小段落
+— ...... — | 插入的段落
+⸂ ...... ⸃| 插入的字詞
+🕀<br>🕂<br>🕁 | 聖父<br>聖子<br>聖靈 |
 
 ### 主要書目
 簡寫 | 出處
