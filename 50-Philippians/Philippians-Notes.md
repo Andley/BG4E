@@ -45,20 +45,34 @@ Interlinear 經文 (包括大小寫、標點符號、分行標記、段落標記
 - Final Greetings
 	- [Php.4.21-23](Php.4.21-23.md)
 
-### 出處縮寫
 
-| 縮寫  | 出處  |
-|:------:| -------- |
- W</br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. = 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。 
- P</br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. = 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 
- M | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. 
- R | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010. 
+### 書目
 
-### 參考書目
-- Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
-- Hellerman, Joseph H. _Phplippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
-- Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
-- Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea Series. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
-- Novakovic, Lidija. _Phplippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
 - 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
 - 吳道宗。《腓利比書》。香港：天道書樓，2011。
+
+
+### 主要書目
+簡寫 | 出處
+:------:| --- 
+W<br>=華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br>= 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+P<br>=波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>= 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+馮 | 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
+吳 | 吳道宗。《腓利比書》。香港：天道書樓，2011。
+
+
+### 參考資料
+簡寫 | 出處
+:------:| --- 
+Moore | Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
+Varner | Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
+Novakovic | Novakovic, Lidija. _Phplippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
+Greenlee | Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
+Hellerman | Hellerman, Joseph H. _Phplippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
+
+
+簡寫 | 出處
+:------:| --- 
+Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
+Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
+
