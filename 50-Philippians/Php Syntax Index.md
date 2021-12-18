@@ -1,3 +1,28 @@
+Following Runge's  suggestion,  I have interpreted various  cleft con-
+structions linguistically as either left -dislocations, "where the new entity 
+is  dislocated to  the beginning of the clause  and then resumed in the 
+main  clause  through  the  use  of a  pronominal trace"  (2010,  289),  or 
+right-dislocations, which entail "referring to a participant in the midst 
+of a clause using a pronoun or generic phrase and then adding more 
+information about the same participant at the end of the clause" ( 317). 
+I have identified nine relative clauses in Philippians that stand in left-
+dislocations: one in 3:7 ((inva ~v f!Ol KEpOTJ),  one in 3:16 (de; 0 ecp8acra-
+flEV ), six in 4:8 ( oaa E0"1"LV  UATJ8fJ,  oaa O"EflVU, oaa OLKaLU, oaa ayva, oaa 
+7tpocr<ptAfJ,  oaa EU<pTJf!U),  and one in 4:9 (a Kal Ef!U8£1"£ KUL1tapeA<l0e<£ 
+Kal  ~Km)aau Kal  d0£1"£  tv Ef!Ol}.  Right-dislocations  are more diverse 
+and include adverbs (1:17), attributive modifiers (3:9), and appositions 
+(3:9,  20;  4:18).  In my English translations, which seek to approximate 
+the word order and syntax of the Greek text for pedagogical purposes, I 
+have used em dashes (-) to indicate the end ofleft -dislocations and the 
+beginning of the main clauses. Right -dislocations are marked off either 
+by commas or em dashes, depending on the function they have in the 
+sentences in which they occur. 
+
+![[../images/Pasted image 20211218171325.png]]
+
+
+
+
 - accusative direct object, 1:4, 6, 72, 8, 9, 10, 11, 14, 15, 172, 23, 25, 27, 302; 2:23, 32, 42, 5, 6, 72, 8, 92, 12, 13, 14, 16, 192, 203, 212, 22, 232, 252, 26, 274, 282, 292, 30; 3:1, 23, 4, 6, 72, 84, 9, 103, 122, 132, 153, 172, 182, 19, 20, 212; 4:23, 3, 6, 73, 8, 92, 10, 11, 12, 13, 16, 172, 182, 19, 212, 22
 - accusative in apposition, 3:9, 20; 4:182
 - accusative of reference, 4:6, 13 accusative subject of the infinitive, 1:7, 10, 12, 13, 14; 3:13, 21
