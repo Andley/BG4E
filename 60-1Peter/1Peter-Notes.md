@@ -61,23 +61,23 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 ### 主要書目
-簡寫 | 出處
-:------:| --- 
-W | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. 
-華 | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
-P | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. 
-波 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
-Varner | Varner, William. _The Book of James a New Perspective: A Linguistic Commentary Applying Discourse Analysis_. Stl Distribution North Amer, 2011.
-Adam | Adam, A. K. M. _James: A Handbook on the Greek Text_. BHGNT. Waco, Tex: Baylor University Press, 2013.
-Vlachos | Vlachos, Chris A. _James_. EGGNT. Edited by Murray Harris and Andreas J. Köstenberger. Nashville, TN.: B & H Academic, 2013.
+|  簡寫   | 出處                                                                                                                                            |
+|:-------:| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|    W    | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996.                                                     |
+|   華    | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。                                                         |
+|    P    | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.      |
+|   波    | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。                                                |
+| Varner  | Varner, William. _The Book of James a New Perspective: A Linguistic Commentary Applying Discourse Analysis_. Stl Distribution North Amer, 2011. |
+|  Adam   | Adam, A. K. M. _James: A Handbook on the Greek Text_. BHGNT. Waco, Tex: Baylor University Press, 2013.                                          |
+| Vlachos | Vlachos, Chris A. _James_. EGGNT. Edited by Murray Harris and Andreas J. Köstenberger. Nashville, TN.: B & H Academic, 2013.                    |
 
 
 
 ### 參考資料
 
 
-簡寫 | 出處
-:------:| --- 
-Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
-Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
+|   簡寫    | 出處                                                                                                                                                                    |
+|:---------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. |
+|   Runge   | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.            |
 
