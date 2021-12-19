@@ -3,3 +3,4 @@ description: Biblical Greek for Everyone
 show_downloads: true
 
 theme: jekyll-theme-leap-day
+markdown: GFM
