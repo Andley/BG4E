@@ -2,48 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Noto Sans");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("Noto Sans CJK TC");
-}
-
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Arial Narrow");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("微軟正黑體");
-}
-
 ruby {
     display: inline-flex;
     flex-direction: column-reverse ;
@@ -51,12 +9,12 @@ ruby {
     font-size: 16px ; 
     line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: "AndleyFont", serif;
+    font-family: "SBL BibLit", "Times New Roman";
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: "Arial Narrow", "微軟正黑體";
+    font-family: "Arial Narrow", "微軟正黑體", "Microsoft JhengHei";
   }
   ul ruby {
     padding-bottom: 3px !important;
@@ -75,6 +33,10 @@ ruby {
   ruby em {
     color: blue;
     font-weight:600;
+  }
+
+  html, body {
+    font-family: "Noto Sans", "Noto Sans CJK TC", sans-serif;
   }
 
   
