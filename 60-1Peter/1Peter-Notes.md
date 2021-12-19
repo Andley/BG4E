@@ -69,7 +69,6 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 | Vlachos | Vlachos, Chris A. _James_. EGGNT. Edited by Murray Harris and Andreas J. Köstenberger. Nashville, TN.: B & H Academic, 2013.                    |
 
 
-
 ### 參考資料
 
 
