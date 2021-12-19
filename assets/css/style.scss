@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-/* ============= 設定字型 ================== */
 @font-face {
   font-family: AndleyFont;
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
@@ -57,7 +56,7 @@ ruby {
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: "InterlinearFont", sans-serif;
+    font-family: "Arial Narrow", "微軟正黑體";
   }
   ul ruby {
     padding-bottom: 3px !important;
