@@ -2,19 +2,62 @@
 ---
 
 @import "{{ site.theme }}";
+/* ============= 設定字型 ================== */
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("SBL BibLit");
+}
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("SBL BibLit");
+}
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+00-024F; /* English UNICODE */
+  src: local("Noto Sans");
+}
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+  src: local("Noto Sans CJK TC");
+}
+
+@font-face {
+  font-family: InterlinearFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("SBL BibLit");
+}
+@font-face {
+  font-family: InterlinearFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("SBL BibLit");
+}
+@font-face {
+  font-family: InterlinearFont;
+  unicode-range: U+00-024F; /* English UNICODE */
+  src: local("Arial Narrow");
+}
+@font-face {
+  font-family: InterlinearFont;
+  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+  src: local("微軟正黑體");
+}
+
 ruby {
     display: inline-flex;
     flex-direction: column-reverse ;
     align-items: center;
     font-size: 16px ; 
-    line-height: 15px ;
+    line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: 'SBL BibLit', 'Times New Roman', serif;
+    font-family: "AndleyFont", serif;
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: 'Arial Narrow', 'Noto Sans CJK TC', '微軟正黑體' ,'Microsoft JhengHei',sans-serif;
+    font-family: "InterlinearFont", sans-serif;
   }
   ul ruby {
     padding-bottom: 3px !important;
