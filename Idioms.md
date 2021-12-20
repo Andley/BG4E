@@ -19,59 +19,6 @@
 
 
 
-
-ἀκοή (24)P
-
-ἀκοή , ῆς f report, news, preaching; ear(s); hearing, listening; ἀκοῇ ἀκούσετε surely you will hear (Mt 13.14; Ac 28.26)
-
-ἀκολουθέω (90)P
-
-ἀκολουθέω follow, accompany; be a disciple
-
-ἀκούω (428)P
-
-ἀκούω (pf. ἀκήκοα ; aor. pass. ptc. ἀκουσθείς) hear; receive news of; give heed to; understand; recover one's hearing; give a judicial hearing (Jn 7.51; Ac 25.22)
-
-ἀκρασία (2)P
-
-ἀκρασία , ας f self-indulgence; lack of self-control
-
-ἀκρατής (1)P
-
-ἀκρατής , ές lacking self-control, violent
-
-ἄκρατος (1)P
-
-ἄκρατος , ον undiluted, full strength
-
-ἀκρίβεια (1)P
-
-ἀκρίβεια , ας f strictness, exactness
-
-ἀκριβής (5)P
-
-ἀκριβής , ές strict ( ἀκριβέστατος strictest Ac 26.5)
-
-ἀκριβόω (2)P
-
-ἀκριβόω ascertain, find out
-
-ἀκριβῶς (5)P
-
-ἀκριβῶς adv. accurately; with care
-
-ἀκρίς (4)P
-
-ἀκρίς , ίδος f locust, grasshopper
-
-ἀκροατήριον (1)P
-
-ἀκροατήριον , ου n audience hall
-
-ἀκροατής (4)P
-
-ἀκροατής , οῦ m a hearer
-
 ἀκροβυστία (20)P
 
 ἀκροβυστία , ας f uncircumcision (often of non-Jews); ἀκροβυστίαν ἔχω be a Gentile (Ac 11.3)
