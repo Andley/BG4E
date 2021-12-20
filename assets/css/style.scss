@@ -39,4 +39,12 @@ ruby {
     font-family: "Noto Sans", "Noto Sans CJK TC", sans-serif;
   }
 
+  /* text decoration for marking syntax functions */
+.S {text-decoration: underline double;}
+.P {text-decoration: underline wavy;}
+.C {text-decoration: underline dashed;}
+.O {text-decoration: underline dotted;}
+.A {text-decoration: underline solid; }
+p { text-underline-offset: 4px; }
+
   
