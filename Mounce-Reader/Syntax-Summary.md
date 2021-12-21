@@ -1,4 +1,4 @@
-# Mounce 進階讀本 <br/>句法摘要 (Syntax Summary)
+# Mounce 進階讀本 <br>句法摘要 (Syntax Summary)
 
 - [格 (Case)](#格-case)
   - [主格 (Nominative)](#主格-nominative)

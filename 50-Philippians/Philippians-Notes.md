@@ -51,8 +51,8 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 ### 主要書目
 簡寫 | 出處
 :------:| --- 
-W<br/>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br/>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
-P<br/>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br/>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+W<br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 馮 | 馮蔭坤。《腓立比書》。天道聖經註釋。香港：天道書樓，1997。
 吳 | 吳道宗。《腓利比書》。香港：天道書樓，2011。
 

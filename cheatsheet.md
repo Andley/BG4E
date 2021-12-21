@@ -261,13 +261,13 @@ Here are a few words on my thought about the movie <details><summary>Deadpool</s
 
 
 <details><summary>**Collapse / Expand**</summary> 	
-	Content goes here, something like <br/> 
+	Content goes here, something like <br> 
 	
-	1. **Something** <br/> 
+	1. **Something** <br> 
 	
-	2. So**met**hing <br/> 
+	2. So**met**hing <br> 
 	
-	3. Something.. <br/> 
+	3. Something.. <br> 
 	
 </details>
 
