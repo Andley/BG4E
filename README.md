@@ -18,7 +18,8 @@
 - [約翰二書](63-2John/2John-Notes.md)
 - [約翰三書](64-3John/3John-Notes.md)
 
-### 舊約書卷 (Septuagint)
+### 舊約書卷 (Septuagint 七十士譯本)
+- 十誡
 - [路得記](08-Ruth/Ruth-Notes.md)
 - [約拿書](32-Jonah/Jonah-Notes.md)
 
