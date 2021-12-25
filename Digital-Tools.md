@@ -69,7 +69,7 @@
 	- 發音：Erasmian
 	- 朗讀：Maurice Robinson
 	- 可以免費下載
-- Koine Greek - New Testament：[Dropbox](https://www.dropbox.com/sh/beoqrdw8zkq1ahr/AABPJTJa5J9RU1y2wyChvPIxa)、[Youtube](https://www.youtube.com/playlist?list=PL40D66708671D260F)
+- 🆓Koine Greek - New Testament：[Dropbox](https://www.dropbox.com/sh/beoqrdw8zkq1ahr/AABPJTJa5J9RU1y2wyChvPIxa)、[Youtube](https://www.youtube.com/playlist?list=PL40D66708671D260F)
 	- 經文版本：Textus Receptus
 	- 發音：Modern Greek
 	- 朗讀：Theo Karvounakis
