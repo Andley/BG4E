@@ -1,5 +1,5 @@
 #### 圖析 (Php 4:8–9)
-
+ 
 - <rt>4:8</rt> (<RUBY><ruby><ruby>Τὸ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν ,<rt>Finally</rt></ruby><rt>λοιπόν</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>ἀδελφοί ,<rt>brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
 	- <rt>4:8a</rt> (<RUBY><ruby><ruby><mark>ὅσα°¹</mark><rt>whatever</rt></ruby><rt>ὅσος</rt></ruby><rt>K-NPN</rt></RUBY>)S <RUBY><ruby><ruby><strong>ἐστὶν</strong><rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἀληθῆ ,<rt>true</rt></ruby><rt>ἀληθής</rt></ruby><rt>A-NPN</rt></RUBY>)C 
 	- <rt>4:8b</rt> (<RUBY><ruby><ruby><mark>ὅσα°¹</mark><rt>whatever</rt></ruby><rt>ὅσος</rt></ruby><rt>K-NPN</rt></RUBY>)S (<RUBY><ruby><ruby>σεμνά ,<rt>venerable</rt></ruby><rt>σεμνός</rt></ruby><rt>A-NPN</rt></RUBY>)C 
