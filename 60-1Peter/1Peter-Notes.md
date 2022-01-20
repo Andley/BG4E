@@ -20,7 +20,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [1Pe.1.1–2](1Pe.1.1–2.md)
 - A Living Hope
 	- [1Pe.1.3–9](1Pe.1.3–9.md)
-	- [1Pe.1.10–12](1Pe.1.10%E2%80%9312.md)
+	- [1Pe 1.10–12](1Pe%201.10–12.md)
 - A Call to Holy Living
 	- [[1Pe.1.13–16]]
 	- [[1Pe.1.17–21]]
