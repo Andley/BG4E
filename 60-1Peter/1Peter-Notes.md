@@ -17,9 +17,9 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 - Salutation
-	- [1Pe.1.1–2](1Pe.1.1–2.md)
+	- [1Pe 1.1–2](1Pe%201.1–2.md)
 - A Living Hope
-	- [1Pe.1.3–9](1Pe.1.3–9.md)
+	- [1Pe 1.3–9](1Pe%201.3–9.md)
 	- [1Pe 1.10–12](1Pe%201.10–12.md)
 - A Call to Holy Living
 	- [[1Pe.1.13–16]]
