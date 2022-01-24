@@ -66,12 +66,14 @@ W  | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: 
 波  | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 
 Forbes | Forbes, Greg W. _1 Peter_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2014.
 Dubis | Dubis, Mark. _1 Peter: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2010.
+Jobes | Jobes, Karen H. _1 Peter_. Baker Exegetical Commentary on the New Testament. Baker Academic, 2005.
+
 
 ### 參考資料
 
 
-| 簡寫  | 出處  |
-|:---:| -- |
-| Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. |
-| Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.  |
+ 簡寫  | 出處  
+:---:| -- 
+ Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. |
+ Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010. 
 
