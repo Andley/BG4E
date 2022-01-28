@@ -8,10 +8,7 @@
 
 ## HW❶ 單字背誦 (4個)
 
-**ὁ (52)** — ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that
-
-**γεννάω (40)** — γεννάω be father of; bear, give birth to (perhaps conceive); pass. be born; lead to, cause (2 Tm 2.23)
-
-**δέ (38)** — δέ but, to the contrary, rather; and; now, then, so; δὲ καί but also, but even; μὲν . . . δέ on the one hand . . . on the other hand
-
-**ἐκ (5)** — ἐκ (ἐξ before vowels) prep. with gen. from, out from, away from; by, by means of, by reason of, because; for; on, at; of
+- <strong>ὁ</strong> (19861) G:Art — the/this/who
+- <strong>γεννάω</strong> (97) G:V — to beget
+- <strong>δέ</strong> (2791) G:Conj — then
+- <strong>ἐκ</strong> (914) G:Prep — of/from
