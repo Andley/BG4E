@@ -7,7 +7,7 @@
 ## HW❸ 單字背誦 (10個)
 
 
-**κόσμος (4)** — κόσμος , ου m world, world order, universe; world inhabitants, mankind e*specially of men hostile to God); world, realm of existence, way of life e*specially as opposed to the purpose of God); adornment (1 Pe 3.3)
+**κόσμος (4)** — κόσμος , ου m world, world order, universe; world inhabitants, mankind especially of men hostile to God); world, realm of existence, way of life especially as opposed to the purpose of God); adornment (1 Pe 3.3)
 
 **φῶς (4)** — φῶς , φωτός n light (often with theological connotations); fire (Mk 14.54; Lk 22.56); ἐν τῷ φ. openly, publicly (Mt 10.27; Lk 12.3)
 
