@@ -8,23 +8,13 @@
 
 ## HW❶ 單字背誦 (10個)
 
-
-**ὁ (52)** — ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that
-
-**γεννάω (40)** — γεννάω be father of; bear, give birth to (perhaps conceive); pass. be born; lead to, cause (2 Tm 2.23)
-
-**δέ (38)** — δέ but, to the contrary, rather; and; now, then, so; δὲ καί but also, but even; μὲν . . . δέ on the one hand . . . on the other hand
-
-**ἐκ (5)** — ἐκ e;vξ before vowels) prep. with gen. from, out from, away from; by, by means of, by reason of, because; for; on, at; of
-
-**καί (3)** — καί conj. and, also, but, even; that is, namely; καὶ . . . καί both . . . and, not only . . . but also; frequently used merely to mark the beginning of a sentence
-
-**υἱός (2)** — υἱός , οῦ m son; descendant, offspring, heir; (with gen.) often one who shares a special relationship with or a likeness to someone or something; disciple, follower
-
-**χριστός (2)** — Χριστός , οῦ m Christ (lit. the Anointed One, equivalent to the Hebrew Messiah)
-
-**ἀνήρ (1)** — ἀνήρ , ἀνδρός m man; husband ( ἔχω ἀ. or γινώσκω ἀ. be a married woman); person
-
-**βασιλεύς (1)** — βασιλεύς , έως m king
-
-**βίβλος (1)** — βίβλος , ου f book; record (Mt 1.1)
+**ὁ (19861)**</BR>ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that</BR>
+**γεννάω (97)**</BR>γεννάω be father of; bear, give birth to (perhaps conceive); pass. be born; lead to, cause (2 Tm 2.23)</BR>
+**δέ (2791)**</BR>δέ but, to the contrary, rather; and; now, then, so; δὲ καί but also, but even; μὲν . . . δέ on the one hand . . . on the other hand</BR>
+**ἐκ (914)**</BR>ἐκ e;vξ before vowels) prep. with gen. from, out from, away from; by, by means of, by reason of, because; for; on, at; of</BR>
+**καί (9019)**</BR>καί conj. and, also, but, even; that is, namely; καὶ . . . καί both . . . and, not only . . . but also; frequently used merely to mark the beginning of a sentence</BR>
+**ἀδελφός (343)**</BR>ἀδελφός , οῦ m brother; fellow believer; fellow countryman, fellowman</BR>
+**αὐτός (5595)**</BR>αὐτός , ή , ό self, of oneself, even, very; preceded by the article the same; as a third person pro. he, she, it; ἐπὶ τὸ αὐτό together; κατὰ τὸ αὐτό so the same way; at the same time</BR>
+**υἱός (377)**</BR>υἱός , οῦ m son; descendant, offspring, heir; (with gen.) often one who shares a special relationship with or a likeness to someone or something; disciple, follower</BR>
+**ἀνήρ (216)**</BR>ἀνήρ , ἀνδρός m man; husband ( ἔχω ἀ. or γινώσκω ἀ. be a married woman); person</BR>
+**βασιλεύς (115)**</BR>βασιλεύς , έως m king</BR>
