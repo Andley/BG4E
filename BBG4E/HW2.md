@@ -4,13 +4,15 @@
 
 
 ## HW❷ 單字背誦 (10個)
-**εἰμί (2462)**</BR>εἰμί (impv. ἴσθι , ἔστω and ἤτω , 3 pl. ἔστωσαν ; inf. εἶναι ; impf. ἦν and ἤμην ; fut. ἔσομαι) be, exist; happen, take place; live; be located in; remain, stay; come (Jn 7.28, 29; 19.9); go (Jn 7.34, 36); οὐκ ἔστιν it is not possible (1 Cor 11.20; He 9.5); ὅ ἐστιν , τοῦτ ἔστιν that means, that is to say; εἰμὶ ἐκ belong to, be one of</BR>
-**ἐν (2752)**</BR>ἐν prep. with dat. in, on, at; near, by, before; among, within; by, with; into (= είς); to, for (rarely); ἐν τῷ with inf. during, while, as; ἐν ὀνόματι ὅτι because (Mk 9.41)</BR>
+
+
+**ἄνθρωπος (550)**</BR>ἄνθρωπος , ου m man, human being, person, one (friend, sir, man in address); pl. people; mankind, humanity ( κατὰ ἄ. according to human standards); husband (Mt 19.10); son (Mt 10.35); servant (Lk 12.36)</BR>
 **γίνομαι (669)**</BR>γίνομαι (fut. γενήσομαι ; aor. ἐγενόμην , opt. 3 sg. γένοιτο , inf. γενέσθαι , ptc. γενόμενος ; pf. γέγονα and γεγένημαι ; aor. pass. ἐγενήθην , impv. 3 sg. γενηθήτω ; plpf. 3 sg. ἐγεγόνει and γεγόνει) be.g. Mt 18.12)</BR>
+**εἰμί (2462)**</BR>εἰμί (impv. ἴσθι , ἔστω and ἤτω , 3 pl. ἔστωσαν ; inf. εἶναι ; impf. ἦν and ἤμην ; fut. ἔσομαι) be, exist; happen, take place; live; be located in; remain, stay; come (Jn 7.28, 29; 19.9); go (Jn 7.34, 36); οὐκ ἔστιν it is not possible (1 Cor 11.20; He 9.5); ὅ ἐστιν , τοῦτ ἔστιν that means, that is to say; εἰμὶ ἐκ belong to, be one of</BR></BR>
+**εἷς (345)**</BR>εἷς , μία , ἕν gen. ἑνός , μιᾶς , ἑνός one; a, an, single; only one; εἷς τις = τις a certain one, someone, one; εἷς τὸν ἕνα one another (1 Th 5.11); καθ ἕνα one by one (1 Cor 14.31)</BR>
+**ἐν (2752)**</BR>ἐν prep. with dat. in, on, at; near, by, before; among, within; by, with; into (= είς); to, for (rarely); ἐν τῷ with inf. during, while, as; ἐν ὀνόματι ὅτι because (Mk 9.41)</BR>
+**ζωή (135)**</BR>ζωή , ῆς f life; ψυχὴ ζωῆς living thing (Re 16.3)</BR>
 **θεός (1317)**</BR>θεός , οῦ m God ( κατὰ θεόν according to God's will, godly; after the likeness of God Eph 4.24); god; f goddess (Ac 19.37)</BR>
 **λόγος (330)**</BR>λόγος , ου m some.g. word; saying; message, teaching; talk, conversation; question after ἐρωτάω ; preaching 1 Tm 5.17; πολὺς ἡμῖν ὁ λόγος we have much to say He 5.11); Word (in Johannine Christology); account, settlement of an account ( πρὸς ὃν ἡμῖν ὁ λόγος to whom we must render an account He 4.13); value (Ac 20.24); reason, grounds ( κατὰ λόγον reasonably, patiently Ac 18.14); charge (Ac 19.38); matter, thing (Ac 8.21); book (Ac 1.1)</BR>
-**ἀρχή (55)**</BR>ἀρχή , ῆς f beginning, first ( τὴν ἀ. ὅ τι καὶ λαλῶ ὑμῖν what I have told you from the very beginning or why do I talk to you at all? Jn 8.25); origin, first cause; ruling power, authority, ruler (whether earthly or spiritual); what is elementary, elementary principle (He 5.12; 6.1); corner (of a cloth)</BR>
-**ζωή (135)**</BR>ζωή , ῆς f life; ψυχὴ ζωῆς living thing (Re 16.3)</BR>
-**πρός (700)**</BR>πρός prep. with: (1) acc. to; toward; for the sake or purpose of, in order to, so that e*specially of πρὸς τό with inf.); for; against; with, in company with; at, about, near, beside ( τὰ πρὸς τὴν θύραν on the street near the door Mk 2.2); pertaining to, with reference to ( τί πρὸς ἡμᾶς what is it to us? Mt 27.4; πρὸς οὐδὲ ἓν ῥῆμα not even one word Mt 27.14); before, in the presence of; in comparison with (Ro 8.18); (2) dat. at, on, near; (3) gen. for, for the sake of (Ac 27.34)</BR>
-**σκοτία (16)**</BR>σκοτία , ας f darkness; λέγω ἐν τῇ ς. speak in private (Mt 10.27; Lk 12.3)</BR>
-**φῶς (73)**</BR>φῶς , φωτός n light (often with theological connotations); fire (Mk 14.54; Lk 22.56); ἐν τῷ φ. openly, publicly (Mt 10.27; Lk 12.3)</BR>
+**οὗτος (1387)**</BR>οὗτος , αὕτη , τοῦτο demonstrative pro. and adj. this, this one; he, she, it; τοῦτ ἔστιν that is, which means</BR>
+**πρός (700)**</BR>πρός prespecially of πρὸς τό with inf.); for; against; with, in company with; at, about, near, beside ( τὰ πρὸς τὴν θύραν on the street near the door Mk 2.2); pertaining to, with reference to ( τί πρὸς ἡμᾶς what is it to us? Mt 27.4; πρὸς οὐδὲ ἓν ῥῆμα not even one word Mt 27.14); before, in the presence of; in comparison with (Ro 8.18); (2) dat. at, on, near; (3) gen. for, for the sake of (Ac 27.34)</BR>

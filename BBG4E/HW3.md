@@ -5,15 +5,13 @@
 
 ## HW❸ 單字背誦 (10個)
 
-      
-
-**κόσμος (186)**</BR>κόσμος , ου m world, world ordespecially of mespecially as opposed to the purpose of God); adornment (1 Pe 3.3)</BR>
-**ἵνα (663)**</BR>ἵνα conj. in orde.g. ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα the wife must respect her husband Eph 5.33)</BR>
-**ἄνθρωπος (550)**</BR>ἄνθρωπος , ου m man, human being, person, one (friend, sir, man in address); pl. people; mankind, humanity ( κατὰ ἄ. according to human standards); husband (Mt 19.10); son (Mt 10.35); servant (Lk 12.36)</BR>
 **διά (667)**</BR>διά prep. with: (1) gen. through, by means of, with; during, throughout ( διὰ παντός continually); through, among, throughout; (2) acc. because of, on account of, for the sake of; through, by (rarely); διὰ τοῦτο therefore, for this reason; διὰ (τό) with inf. because; διὰ τί why?</BR>
-**εἰς (1767)**</BR>εἰς prep. with acc. into, to; in, at, on, upon, by, near; among; against; concerning; as; εἰς τό with inf. denotes purpose and sometimes result</BR>
+**εἰς (1767)**</BR>εἰς prep. with acc. into, to; in, at, on, upon, by, near; among; against; concerning; as; εἰς τό with inf. denotes purpose and sometimes result</BR></BR></BR></BR>
 **ἔρχομαι (632)**</BR>ἔρχομαι (imperf. ἠρχόμην , fut. ἐλεύσομαι ; aor. ἦλθον and ἦλθα , inf. ἐλθεῖν ; pf. ἐλήλυθα) come ( εἰς τὸ χεῖρον ἐ. grow worse Mk 5.26); appear, make an appearance; go; return (Jn 4.27, 30; Ro 9.9); be brought (Mk 4.21); ἐ. εἰς προκοπήν help the progress (Php 1.12)</BR>
+**ἵνα (663)**</BR>ἵνα conj. in orde.g. ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα the wife must respect her husband Eph 5.33)</BR>
+**κόσμος (186)**</BR>κόσμος , ου m world, world ordespecially of mespecially as opposed to the purpose of God); adornment (1 Pe 3.3)</BR>
 **μαρτυρέω (76)**</BR>μαρτυρέω bear witness, testify, be a witness; attest, affirm, confirm; speak well of, approve (pass. be well spoken of, receive approval)</BR>
 **οὐ (1624)**</BR>οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected</BR>
 **πᾶς (1243)**</BR>πᾶς , πᾶσα , πᾶν gen. παντός , πάσης , παντός (1) without the article each, every (pl. all); every kind of; all, full, absolute, greatest; (2) with the article entire, whole; all ( πᾶς ὁ with ptc. everyone who); (3) everyone, everything ( διὰ παντός always, continually, forever; κατὰ πάντα in everything, in every respect)</BR>
 **περί (333)**</BR>περί prep. with: (1) gen. about, concerning, of, with reference to; for; on account of ( π. ἁμαρτίας often sin offering); (2) acc. around, about; near; of, with reference to, regarding ( οἱ π. τὰ τοιαῦτα ἐργάται workmen of the same trade Ac 19.25; τὰ π. ἐμέ how I stand Php 2.23); with, in company with</BR>
+**ποιέω (568)**</BR>ποιέω (unaugme.g. π. δέησιν pray (Lk 5.33); π. τὸ ἱκανόν please, satisfy (Mk 15.15); π. λύτρωσιν redeem, set free (Lk 1.68)</BR>

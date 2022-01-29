@@ -4,13 +4,15 @@
 <div style="page-break-after: always;"></div>
 
 ## HW❹ 單字背誦 (10個)
-**ἁμαρτία (173)**</BR>ἁμαρτία , ας f sin ( ἔχω ἁ. be sinful); περὶ ἁ. often sin offering</BR>
-**βαπτίζω (77)**</BR>βαπτίζω baptize; wash</BR>
-**ἔρημος (48)**</BR>ἔρημος , ου f deserted place, uninhabited region, desert</BR>ἔρημος , ον lonely, deserted, uninhabited; desolate</BR>
-**ὁδός (101)**</BR>ὁδός , οῦ f way, road; journey ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away, i.e. about half a mile Ac 1.12); way of life, conduct; Way (of the Christian faith and life)</BR>
+
 **ἄγγελος (175)**</BR>ἄγγελος , ου m angel; messenger, one who is sent</BR>
+**ἁμαρτία (173)**</BR>ἁμαρτία , ας f sin ( ἔχω ἁ. be sinful); περὶ ἁ. often sin offering</BR>
 **ἀποστέλλω (132)**</BR>ἀποστέλλω (fut. ἀποστελῶ ; aor. ἀπέστειλα , subj. ἀποστείλω [in Ac 7.33 this may be a dialectical peculiarity of the pres. ind.]; pf. ἀπέσταλκα ; aor. pass. ἀπεστάλην) send; send out or away</BR>
+**βαπτίζω (77)**</BR>βαπτίζω baptize; wash</BR>
 **γράφω (191)**</BR>γράφω (pf. γέγραφα ; pf. pass. 3 sg. γέγραπται ; aor. pass. ἐγράφην) write; record, compose; sign one's name (2 Th 3.17); cover with writing (Re 5.1)</BR>
 **ἐγώ (2581)**</BR>ἐγώ 1 pers. pro. ἐμοῦ (μου), ἐμοί (μοι), ἐμέ (με) I, me; pl. ἡμεις , ἡμῶν , ἡμῖν , ἡμᾶς we, us</BR>
 **εὐαγγέλιον (76)**</BR>εὐαγγέλιον , ου , n good news, gospel</BR>
-**εὐθύς (59)**</BR>εὐθύς , εῖα , ύ gen. έως straight; right, upright</BR>εὐθύς adv. immediately, at once; then</BR>εὐθέως adv. immediately, at once; soon</BR>
+**ἰδού (200)**</BR>ἰδού Look! See! Listen!; there or here is (are), there or here was (were); there or here comes (came); then, suddenly; even, yet (of emphasis)</BR>
+**κύριος (716)**</BR>κύριος , ου m Lord (of God and Christ); master, lord, owner; sir (of address)</BR>
+**ὁδός (101)**</BR>ὁδός , οῦ f way, road; journey ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away, i.e. about half a mile Ac 1.12); way of life, conduct; Way (of the Christian faith and life)</BR>
+

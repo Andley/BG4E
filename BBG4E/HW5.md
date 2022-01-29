@@ -3,14 +3,13 @@
 
 
 ## HW❺ 單字背誦 (10個)
-
-**ἀγαπητός (61)**</BR>ἀγαπητός , ή , όν beloved, deare*st); only</BR>
+**ἀναβαίνω (82)**</BR>ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)</BR>
 **ἀναβαίνω (82)**</BR>ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)</BR>
 **ἀπό (646)**</BR>ἀπό prep. with gen. from; away from; by means of; of; because of, as a result of; since, ever since; about, for; with; ἀπὸ μιᾶς πάντες one after another, one and all (Lk 14.18)</BR>
 **εἶδον (341)**</BR>εἶδον see εἶδος</BR>ἴδε Look! See! Listen!; here is; here are</BR>ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)</BR>
+**ἐκβάλλω (81)**</BR>ἐκβάλλω (fut. ἐκβαλῶ ; aor. ἐξέβαλον ; plpf. ἐκβεβλήκειν ; aor. pass. ἐξεβλήθην ; fut. pass. ἐκβληθήσομαι) force or drive out, expel, exclude, reject; without exercise of force: send away or out; lead out; take out; bring out; ἐ. ἔξωθεν leave out, omit (Re 11.2); ἐ. εἰς νῖκος τὴν κρίσιν cause justice to triumph (Mt 12.20)</BR>
 **ἡμέρα (389)**</BR>ἡμέρα , ας f day ( καθ ἡμέραν daily; διὰ τριῶν ἡ. in three days; δῖ ἡμερῶν some days later); time; legal day ( ἀνθρωπίνη ἡ. human court 1 Cor 4.3)</BR>
 **οὐρανός (273)**</BR>οὐρανός , οῦ m heaven (also used of God to avoid mention of the sacred name); sky</BR>οὐρανός , οῦ m heaven (also used of God to avoid mention of the sacred name); sky</BR>
 **πνεῦμα (379)**</BR>πνεῦμα , τος n Spirit (of God); spirit, inner life, self; disposition, state of mind; spirit, spirit being or power, power (often of evil spirits); life ( ἀφίημι τὸ π. die Mt 27.50); wind (He 1.7; perhaps Jn 3.8); breath (2 Th 2.8); ghost, apparition (Lk 24.37, 39)</BR>
 **σύ (2905)**</BR>σύ 2 pers. pro. σοῦ (σου), σοί (σοι), σέ (σε); pl. ὑμεῖς , ὑμῶν , ὑμῖν , ὑμᾶς you</BR>
 **ὑπό (220)**</BR>ὑπό prep. with: (1) gen. by, by means of; at the hands of; (2) acc. under, below; under the authority of; ὑπὸ τὸν ὄρθρον at daybreak (Ac 5.21)</BR>
-**ἐκβάλλω (81)**</BR>ἐκβάλλω (fut. ἐκβαλῶ ; aor. ἐξέβαλον ; plpf. ἐκβεβλήκειν ; aor. pass. ἐξεβλήθην ; fut. pass. ἐκβληθήσομαι) force or drive out, expel, exclude, reject; without exercise of force: send away or out; lead out; take out; bring out; ἐ. ἔξωθεν leave out, omit (Re 11.2); ἐ. εἰς νῖκος τὴν κρίσιν cause justice to triumph (Mt 12.20)</BR>
