@@ -40,10 +40,7 @@ ruby {
   }
 
   /* text decoration for marking syntax functions */
-.S {text-decoration: underline double; text-underline-offset: 4px; }
-.P {text-decoration: underline wavy; text-underline-offset: 4px; }
-.C {text-decoration: underline dashed; text-underline-offset: 4px; }
-.O {text-decoration: underline dotted; text-underline-offset: 4px; }
-.A {text-decoration: underline solid; text-underline-offset: 4px; }
-
-  
+.S {text-decoration: underline double; text-underline-offset: 5px; }
+.P {text-decoration: underline wavy; text-underline-offset: 5px; }
+.C {text-decoration: underline solid; text-underline-offset: 5px; }
+.A {text-decoration: underline dotted; text-underline-offset: 5px; }
