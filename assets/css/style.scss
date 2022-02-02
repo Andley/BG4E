@@ -7,13 +7,13 @@ ruby {
     flex-direction: column-reverse ;
     align-items: center;
     font-size: 16px ; 
-    line-height: 15px ;
+    line-height: 16px ;
     padding-bottom: 10px ;
     font-family: "SBL BibLit", "Times New Roman";
   }
   rt {
     font-size: 13px ; 
-    line-height: 12px ;
+    line-height: 13px ;
     font-family: "Arial Narrow", "微軟正黑體", "Microsoft JhengHei";
   }
   ul ruby {
@@ -27,10 +27,10 @@ ruby {
   h2 {
     text-align: center;
   }
-  ruby strong {
+  strong {
     color: red;
   }
-  ruby em {
+  em {
     color: blue;
     font-weight:600;
   }
@@ -40,11 +40,10 @@ ruby {
   }
 
   /* text decoration for marking syntax functions */
-.S {text-decoration: underline double;}
-.P {text-decoration: underline wavy;}
-.C {text-decoration: underline dashed;}
-.O {text-decoration: underline dotted;}
-.A {text-decoration: underline solid; }
-p { text-underline-offset: 3px; }
+.S {text-decoration: underline double; text-underline-offset: 4px; }
+.P {text-decoration: underline wavy; text-underline-offset: 4px; }
+.C {text-decoration: underline dashed; text-underline-offset: 4px; }
+.O {text-decoration: underline dotted; text-underline-offset: 4px; }
+.A {text-decoration: underline solid; text-underline-offset: 4px; }
 
   
