@@ -36,7 +36,7 @@ ruby {
   }
 
   html, body {
-    font-family: AndleyFont, "Noto Sans", "Noto Sans CJK TC", sans-serif;
+    font-family: "SBL BibLit", "Times New Roman";
   }
 
   /* text decoration for marking syntax functions */
@@ -44,45 +44,3 @@ ruby {
 .P {text-decoration: underline wavy; text-underline-offset: 4px; }
 .C {text-decoration: underline solid; text-underline-offset: 4px; }
 .A {text-decoration: underline dotted; text-underline-offset: 4px; }
-
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Noto Sans");
-}
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("Noto Sans CJK TC");
-}
-
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL BibLit");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+00-024F; /* English UNICODE */
-  src: local("Arial Narrow");
-}
-@font-face {
-  font-family: InterlinearFont;
-  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-  src: local("新細明體");
-}
