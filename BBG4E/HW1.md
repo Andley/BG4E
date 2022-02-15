@@ -17,3 +17,4 @@
 **καί (9019)**</BR>καί conj. and, also, but, even; that is, namely; καὶ . . . καί both . . . and, not only . . . but also; frequently used merely to mark the beginning of a sentence</BR>
 **ὁ (19861)**</BR>ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that</BR>
 **υἱός (377)**</BR>υἱός , οῦ m son; descendant, offspring, heir; (with gen.) often one who shares a special relationship with or a likeness to someone or something; disciple, follower</BR>
+ab–
