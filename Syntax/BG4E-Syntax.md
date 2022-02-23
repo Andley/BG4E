@@ -31,7 +31,7 @@
 	- Adjectives (形容詞) §33
 	- Pronouns (代名詞) §34
 - 功能詞類 §40
-		- Prepositions (介系詞) §41
+		- [Prepositions (介系詞)](§41.md)
 		- Adverbs (副詞) §42
 		- [Conjunctions (連接詞)](§43.md)
 		- Particles (質詞) §44
