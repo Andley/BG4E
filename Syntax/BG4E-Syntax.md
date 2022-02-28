@@ -50,6 +50,7 @@
 	- [Clauses (子句) §61](§61.md)
 	- [Sentence (句子) §62](§62.md)
 - Part VI 段落與話語篇章 (Paragraph and Discourse) §600
+	- [[discourse is more than]]
 - Part VII Context and Cotext §700
 
 - [[Hebraic Influence]]
