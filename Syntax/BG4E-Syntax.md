@@ -52,7 +52,7 @@
 - Part VI 段落與話語篇章 (Paragraph and Discourse) §600
 - Part VII Context and Cotext §700
 
-
+- [[Hebraic Influence]]
 
 - 附錄
 
