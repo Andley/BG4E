@@ -4,7 +4,6 @@
 
 ## HW❺ 單字背誦 (10個)
 **ἀναβαίνω (82)**</BR>ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)</BR>
-**ἀναβαίνω (82)**</BR>ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)</BR>
 **ἀπό (646)**</BR>ἀπό prep. with gen. from; away from; by means of; of; because of, as a result of; since, ever since; about, for; with; ἀπὸ μιᾶς πάντες one after another, one and all (Lk 14.18)</BR>
 **εἶδον (341)**</BR>εἶδον see εἶδος</BR>ἴδε Look! See! Listen!; here is; here are</BR>ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)</BR>
 **ἐκβάλλω (81)**</BR>ἐκβάλλω (fut. ἐκβαλῶ ; aor. ἐξέβαλον ; plpf. ἐκβεβλήκειν ; aor. pass. ἐξεβλήθην ; fut. pass. ἐκβληθήσομαι) force or drive out, expel, exclude, reject; without exercise of force: send away or out; lead out; take out; bring out; ἐ. ἔξωθεν leave out, omit (Re 11.2); ἐ. εἰς νῖκος τὴν κρίσιν cause justice to triumph (Mt 12.20)</BR>
