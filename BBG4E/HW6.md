@@ -3,14 +3,13 @@
 
 
 
-## HW❻ 單字背誦 (10 個)
+## HW❻ 單字背誦 (9 個)
 
 **αἷμα (97)**</BR>αἷμα , τος n blood; death; murder; σαρξ καὶ αἷμα man, human nature; ἐξ αἱμάτων through human procreation (Jn 1.13)</BR>
 **ἀκούω (428)**</BR>ἀκούω (pf. ἀκήκοα ; aor. pass. ptc. ἀκουσθείς) hear; receive news of; give heed to; understand; recover one's hearing; give a judicial hearing (Jn 7.51; Ac 25.22)</BR>
 **ἀλήθεια (109)**</BR>ἀλήθεια , ας f truth, truthfulness; reality; ἐπ ἀ. or ἐν ἀ. often truly, to be sure; ἀληθείᾳ with right motives (Php 1.18)</BR>
 **ἀλλήλων (100)**</BR>ἀλλήλων , ους , ους reciprocal pro. one another, each other; ἐν ἀ. mutual (Ro 1.12)</BR>
 **ἐάν (333)**</BR>ἐάν conj. if; e.g. Mt 5.19); ἐὰν μή unless; ἐάνπερ if only</BR>
-**εἶπον (1024)**</BR>εἶπον aor. of λέγω</BR>λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context)</BR>ῥηθείς aor. pass. ptc. of λέγω</BR>
 **ἔχω (708)**</BR>ἔχω (impf. εἶχον ; fut. ἕξω ; aor. ἔσχον , subj. σχῶ ; pf. ἔσχηκα) trans. have, hold, possess; keep; receive, get; regard, consider, think; can, be able, must (with inf.); be married to; wear (of clothes); be situated ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away Ac 1.12); τὸ νῦν ἔχον for the present (Ac 24.25); intrans. be, feel; impers. it is ( οὕτως ἔχει it is so); midd. ptc. next, neighboring ( τῇ εχομένῃ the next day Lk 13.33)</BR>
 **μετά (469)**</BR>μετά prep. with: (1) gen. with, in company with, among; by, in; on the side of; against; (2) acc. after, behind ( μετὰ τό with inf. after)</BR>
 **ὅτι (1294)**</BR>ὅτι conj. that ( τί ὅτι why? ὡς ὅτι that ge.g. 2 Cor 5.19; 11.21; 2 Th 2.2); because, for, since; may mark the beginning of direct discourse</BR>
