@@ -1,4 +1,4 @@
-## HW❶ (1:1–6a, 16) 圖析
+## HW❶ (Mat 1:1–6a, 16) 圖析
 - <rt>1:1a</rt> (<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>βίβλος</rt></ruby><rt>N-NSF</rt></RUBY> «<RUBY><ruby><ruby>γενέσεως<rt>of [the] genealogy</rt></ruby><rt>γένεσις</rt></ruby><rt>N-GSF</rt></RUBY> ‹<RUBY><ruby><ruby>Ἰησοῦ<rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY> › =‹<rt>1:1b</rt>› =‹<rt>1:1c</rt>› » )S
 	- <rt>1:1b</rt> <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Δαυὶδ<rt>of David</rt></ruby><rt>Δαυείδ, Δαυίδ, Δαβίδ</rt></ruby><rt>N-GSM-P</rt></RUBY> 
 	- <rt>1:1c</rt> <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἀβραάμ . ¶<rt>of Abraham</rt></ruby><rt>Ἀβραάμ</rt></ruby><rt>N-GSM-P</rt></RUBY>
