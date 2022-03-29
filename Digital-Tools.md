@@ -23,32 +23,29 @@
 	- 有 [Westcott-Hort 版本聖經＋NA27 Variants (異文)](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1) 加上簡單的斷句 (phrasing)
 	- 還有浸宣出版、戴德理翻譯的《新約希臘文中文辭典》：[中文 BAGD](http://bible.fhl.net/new/s.php?N=0&k=2316&m=)
 	- 還有 2020 年黃錫木主編、修訂 Louw–Nida 1998 出版 <em>Greek-English Lexicon of the New Testament: Based on Semantic Domains</em> 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
-	- 不能下載。
 - [🆓BibleArc](https://www.biblearc.com/)
 	- 有 SBL、NA28、LXX 經文版本
 	- 可以畫圖析 (word-level、phrase-level、proposition-level diagram)。圖析功能勝過付費軟體，而且可以把圖析和解經心得發佈到網路上
 	- 能夠作詞形搜尋 (morphological search)，以及簡單的句法搜尋 (syntax search)
 	- 需要申請帳號 (台灣 2020 年還是免費)
-- [🆓OpenGNT](https://opengnt.com/)、[🆓Marvel Bible](https://marvel.bible/)、[Bible Bento](https://BibleBento.com)、[🆓Unique Bible](https://www.uniquebible.app/home)
+- [🆓OpenGNT](https://opengnt.com/)、[🆓Marvel Bible](https://marvel.bible/)、[🆓Bible Bento](https://BibleBento.com)、[🆓Unique Bible](https://www.uniquebible.app/home)
 	- 都出自同一位作者 [Eliran wong](https://github.com/eliranwong)，嘗試整合網路上所有公開分享的資源，打造一個跨平台 (Windows, Android, macOS, Linux, Chrome OS) 的軟體，壯志雄心，令人欽佩！
-	- [🆓OpenHebrewBible](https://github.com/eliranwong/OpenHebrewBible)
-		- [ETCBC] (Hebrew text BHSA, linguitic annotations, morphology, etc.)
-		- OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)
-		- Berean.bible (interlinear translation, Berean Study Bible, etc.)
-	- [🆓OpenGNT](https://github.com/eliranwong/OpenGNT)
+- 聯合聖經公會的 [🆓Marble](https://semanticdictionary.org/semdic.php?databaseType=SDGNT&language=zht)
+- [🆓OpenHebrewBible](https://github.com/eliranwong/OpenHebrewBible)
+- [🆓ETCBC] (Hebrew text BHSA, linguitic annotations, morphology, etc.)
+	- OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)
+	- Berean.bible (interlinear translation, Berean Study Bible, etc.)
 - [🆓Academic Bible](https://www.academic-bible.com/en/home/)
 	- 德國聖經公會網站，有學術界標準的 NA28、UBS5、LXX (Ralphs-Hanhart 2006)，但沒有紙本聖經上其他的相關資料 (文本校勘欄、分段校勘欄、經文互參欄、舊約引據)。
-	- 沒有辭典；不能下載。
+- [🆓Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php)
 	- 義大利文 [La Parola (The Word) 網站](https://www.laparola.net/) 下面附屬的網頁，可以搜尋 Louw–Nida 辭典。
 - [🆓Robinson-Pierpont 2005](https://byzantinetext.com)
 	- Byzantine Text (Robinson-Pierpont 2005 版)。除了聖經文本電子檔之外，還有 John Jeffrey Dodson 所編 Reader's Edition (輔讀本) [電子檔](https://byzantinetext.com/wp-content/uploads/2017/08/RP2016-Readers-Edition.pdf)。
-	- 沒有辭典；但可以下載。
-- [🆓eRhema Bible App](https://bible.tjc.org)
-	- 真耶穌教會，不能離線
-- [🆓希,中,英對照聖經](http://daybread.org/xgreek/
-	- 召會，
-- ---
-- [🆓Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php)
+- 真耶穌教會的 [🆓eRhema Bible App](https://bible.tjc.org)
+	- 整合介面很棒
+- 召會弟兄做的 [🆓希,中,英對照聖經 xGreek](http://daybread.org/xgreek/
+
+
 
 ### Android
 - [🆓微讀聖經](https://app.wedevote.com/)
@@ -58,13 +55,13 @@
 	-  介面清爽，簡單易用。
 - [🆓Greek New Testament Reader](https://play.google.com/store/apps/details?id=com.mattrobertson.greek.reader)
 	- 介面清爽，適合純讀經。
-
+- [🆓希,中,英對照聖經 xGreek](https://play.google.com/store/apps/details?id=org.oldservant.greekinterlinear)
 
 ### iOS
 - [🆓微讀聖經](https://apps.apple.com/cn/app/wei-du-sheng-jing/id654898456/)
 	- 中文譯本多 (和合、和修、當代、新譯、呂振中、標準)，英文譯本可觀 (NIV, ESV, NASB, NKJV, NLT, Message, NET w/ notes)，排版美觀，還有信望愛原文資料庫 (連同中文 BAGD)。
 	- 大力推荐。
-- [🆓eRhema](https://apps.apple.com/us/app/erhema/id1584584621) 
+- [🆓📶eRhema](https://apps.apple.com/us/app/erhema/id1584584621) 
 - [🆓希,中,英對照聖經 xGreek](https://apps.apple.com/tw/app/%E5%B8%8C-%E4%B8%AD-%E8%8B%B1%E5%B0%8D%E7%85%A7%E8%81%96%E7%B6%93/id1431089763)
 
 ## 語音聖經
