@@ -44,7 +44,9 @@
 	- Byzantine Text (Robinson-Pierpont 2005 版)。除了聖經文本電子檔之外，還有 John Jeffrey Dodson 所編 Reader's Edition (輔讀本) [電子檔](https://byzantinetext.com/wp-content/uploads/2017/08/RP2016-Readers-Edition.pdf)。
 	- 沒有辭典；但可以下載。
 - [🆓eRhema Bible App](https://bible.tjc.org)
-	- 真耶穌教會 
+	- 真耶穌教會，不能離線
+- [🆓希,中,英對照聖經](http://daybread.org/xgreek/
+	- 召會，
 - ---
 - [🆓Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php)
 
@@ -59,9 +61,11 @@
 
 
 ### iOS
-- [🆓微讀聖經](https://app.wedevote.com/)
-	- 中文譯本多 (和合、和修、當代、新譯、呂振中、現代中文、標準)，排版美觀，還有信望愛原文資料庫 (連同中文 BAGD)。
+- [🆓微讀聖經](https://apps.apple.com/cn/app/wei-du-sheng-jing/id654898456/)
+	- 中文譯本多 (和合、和修、當代、新譯、呂振中、標準)，英文譯本可觀 (NIV, ESV, NASB, NKJV, NLT, Message, NET w/ notes)，排版美觀，還有信望愛原文資料庫 (連同中文 BAGD)。
 	- 大力推荐。
+- [🆓eRhema](https://apps.apple.com/us/app/erhema/id1584584621) 
+- [🆓希,中,英對照聖經 xGreek](https://apps.apple.com/tw/app/%E5%B8%8C-%E4%B8%AD-%E8%8B%B1%E5%B0%8D%E7%85%A7%E8%81%96%E7%B6%93/id1431089763)
 
 ## 語音聖經
 - [🆓Robinson-Pierpont 2005](https://byzantinetext.com/listen/)
