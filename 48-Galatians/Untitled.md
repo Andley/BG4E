@@ -1,3 +1,6 @@
+
+Galatians 149 verses
+
 ["Intermediate Biblical Greek Reader: Galatians and Related Texts" by Nijay K. Gupta and Jonah M. Sandford](https://digitalcommons.georgefox.edu/pennington_epress/2/)
 
 Intermediate Biblical Greek Reader: Galatians and Related Texts
