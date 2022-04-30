@@ -1,4 +1,4 @@
-#### 圖析 (Php 2:1–11)
+### 圖析 (Php 2:1–11)
 - <rt>2:1a</rt> ⸉<RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- <rt>2:1b</rt> <RUBY><ruby><ruby>Εἴ<rt>If [there is]</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>any</rt></ruby><rt>τις</rt></ruby><rt>X-NSF</rt></RUBY> ⸉...⸊ <RUBY><ruby><ruby>παράκλησις<rt>encouragement</rt></ruby><rt>παράκλησις</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ ,<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-DSM-T</rt></RUBY>)A 
 	- <rt>2:1c</rt> <RUBY><ruby><ruby>εἴ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τι<rt>any</rt></ruby><rt>τις</rt></ruby><rt>X-NSN</rt></RUBY> <RUBY><ruby><ruby>παραμύθιον<rt>comfort</rt></ruby><rt>παραμύθιον</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης ,<rt>of love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-GSF</rt></RUBY>)S 
