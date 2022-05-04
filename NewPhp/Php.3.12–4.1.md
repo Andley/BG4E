@@ -1,5 +1,5 @@
 ### 圖析 (Php 3:12–16)
-- <rt>3:12a</rt> <RUBY><ruby><ruby>Οὐχ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ...**λέγω**...
+- <rt>3:12a</rt> <RUBY><ruby><ruby>Οὐχ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ...**ἐστίν**...
 	- <rt>3:12b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἔλαβον</strong><rt>I have obtained [it]</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> 
 	- <rt>3:12c</rt> <RUBY><ruby><ruby>ἢ<rt>or</rt></ruby><rt>ἤ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>τετελείωμαι ,</strong><rt>have been perfected</rt></ruby><rt>τελειόω</rt></ruby><rt>V-RPI-1S</rt></RUBY> 
 - <mark><rt>3:12c</rt>°¹</mark> <RUBY><ruby><ruby><strong>διώκω</strong><rt>I am pursuing</rt></ruby><rt>διώκω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<rt>3:12d</rt>)C
