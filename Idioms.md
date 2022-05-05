@@ -1,4 +1,4 @@
-
+## from ubs lexicon
 
 - ἅγιος (233)
 	- οἱ ἅγιοι God's people
@@ -21294,3 +21294,5 @@
 ὠφέλιμος (4)P
 
 ὠφέλιμος , ον valuable, useful, beneficial
+
+## from web
