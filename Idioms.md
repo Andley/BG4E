@@ -21308,6 +21308,11 @@ benefit
 - ἀστὴρ πρωϊνός: (an idiom, literally ‘morning star’) a planet which is conspicuous in the morning sky (usually either Venus or Mars) — ‘morning star, bright star in the morning sky.’ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν ‘I will give them the morning star’ Re 2:28.
 - ὑπὸ τὸν οὐρανόν: (an idiom, literally ‘under the sky’) pertaining to being on the earth — ‘on earth.’ τοῦ κηρυχθέντος ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν ‘it was preached to all people on earth’ Col 1:23. ὑπὸ τὸν οὐρανόν is essentially equivalent in reference to ἐπίγειος ‘on the earth’ (1.41).
 - It would be possible to regard ἡ ἄμμος τῆς θαλάσσης, literally ‘the sand of the sea,’ as a type of idiom meaning ‘beach.’ Compare, for example, the meaning of ἄμμοςa (2.28).
+- ὁ κόλπος Ἀβραάμ  （習語，直譯：亞伯拉罕的懷抱）天上的居所，有親密關係的含義
+- 短語 ἅγια ἁγίων 比較具體地指明那是內室，直譯是「聖中之聖」來 9:3，這個希伯來習語表示最高級的程度。聖所的內室也可以稱為「在幔子裡面」（τὸ ἐσώτερον τοῦ καταπετάσματος，來 6:19）
+- πύλαι ᾅδου  （習語，直譯：陰間的門）死亡作為一種不具人格的超自然力量
+- εἰς ἀέρα λαλοῦντες 直譯為「對著空氣說話」，可以被看作是一種習語，意思是「毫無目的地說話」或「說話但卻無人理解」。因此，ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες 可以譯為「你們說話，但是沒有人明白」，或「你們說話，但所說的話沒有進入任何人心裡。」在 徒 22:23，κονιορτὸν βαλλόντων εἰς τὸν ἀέρα「把塵土向空中揚起來」，在許多語言中最好譯成「撒塵土到自己上方」或「把塵土揚起來」。在某些語言中，若把這短語直譯為「把塵土撒入空中」，或許會暗示空中是可以留住塵土的某種容器。
+- 
 
 ---
 [New Testament Greek (and Hebrew) Idioms – Mr. Greek Geek (mrgreekgeek.com)](https://www.mrgreekgeek.com/2021/08/17/greek-new-testament-idioms/)
