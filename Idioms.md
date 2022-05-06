@@ -21285,7 +21285,8 @@
 
 ὠφέλεια (2)P
 
-ὠφέλεια , ας f advantage, benefit
+ὠφέλεια , ας f advantage,
+benefit
 
 ὠφελέω (15)P
 
@@ -21296,3 +21297,21 @@
 ὠφέλιμος , ον valuable, useful, beneficial
 
 ## from web
+
+
+## from Louw-Nida
+- The expression εἰς ἀέρα λαλοῦντες, literally ‘talking into the air,’ may be regarded as a type of idiom meaning ‘talking to no purpose’ or ‘talking without anyone understanding.’ Accordingly, ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες may be rendered as ‘you will be talking, but no one will understand’ or ‘you will be talking, but your words will not enter anyone.’
+- κόλπος Ἀβραάμ: (an idiom, literally ‘Abraham’s bosom’) the heavenly abode, with the implication of close interpersonal relations — ‘Abraham’s bosom, heaven.’ ἀπενεχθῆναι αὐτὸν ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον Ἀβραάμ ‘he was borne by angels to Abraham’s bosom’ or ‘… heaven’ Lk 16:22.
+- λίμνη τοῦ πυρὸς (καὶ θείου): (an idiom, literally ‘lake of fire (and sulfur),’ occurring in some slightly different forms six times in Revelation, three times with the addition of [p. 7] θεῖον ‘sulfur’) a place of eternal punishment and destruction — ‘lake of fire, hell.’7 καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου ‘then the Devil, who deceived them, was thrown into the lake of fire and sulfur’ Re 20:10.
+- ὁ ζόφος τοῦ σκότους: (an idiom, literally ‘the gloom of darkness’) the dark, gloomy nature of hell as a place of punishment — ‘gloomy hell, black darkness.’ ἀστέρες πλανῆται οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται ‘wandering stars for whom the darkness of hell has been reserved forever’ Jd 13.
+- σῶμα ἐπουράνιον:8  (an idiom, literally ‘heavenly body,’ occurring in the NT only in the plural) the luminous objects in the sky: sun, moon, and other planets and stars — ‘heavenly body.’ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων ‘there are heavenly bodies and earthly bodies; there is a beauty that belongs to heavenly bodies, and another kind of beauty that belongs to earthly bodies’ 1Cor 15:40. See also 1.8.
+- ἀστὴρ πρωϊνός: (an idiom, literally ‘morning star’) a planet which is conspicuous in the morning sky (usually either Venus or Mars) — ‘morning star, bright star in the morning sky.’ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν ‘I will give them the morning star’ Re 2:28.
+- ὑπὸ τὸν οὐρανόν: (an idiom, literally ‘under the sky’) pertaining to being on the earth — ‘on earth.’ τοῦ κηρυχθέντος ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν ‘it was preached to all people on earth’ Col 1:23. ὑπὸ τὸν οὐρανόν is essentially equivalent in reference to ἐπίγειος ‘on the earth’ (1.41).
+- It would be possible to regard ἡ ἄμμος τῆς θαλάσσης, literally ‘the sand of the sea,’ as a type of idiom meaning ‘beach.’ Compare, for example, the meaning of ἄμμοςa (2.28).
+
+---
+[New Testament Greek (and Hebrew) Idioms – Mr. Greek Geek (mrgreekgeek.com)](https://www.mrgreekgeek.com/2021/08/17/greek-new-testament-idioms/)
+
+-   “[New Testament Figures of Speech](https://web.archive.org/web/20110907152359/http://bible-translation.110mb.com/ntfigures.htm)” compiled by Wayne Leman.
+
+-   “[New Testament Idioms](https://web.archive.org/web/20110910071149/http://bible-translation.110mb.com/ntidioms.htm)” compiled by Wayne Leman.
