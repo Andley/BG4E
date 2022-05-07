@@ -147,7 +147,7 @@ sdcsdcdsc 6
 # 標題 1
 ## level 2
 ### level 3
-### 4
+#### 4
 ##### 5
 ###### 6
 
@@ -176,12 +176,12 @@ windows default = 96 DPI
 Points|Pixels
 ---|---
 9pt|12px
-10pt|13px
+<strong><font color='red'>10pt</font></strong>|<mark>13px</mark>
 10.5pt|14px
 11pt|15px
-12pt|16px
+<strong><font color='red'>12pt</font></strong>|<mark>16px</mark>
 13pt|17px
-14pt|19px
+<strong><font color='red'>14pt</font></strong>|
 16pt|22px
 18pt|24px
 20pt|26px
