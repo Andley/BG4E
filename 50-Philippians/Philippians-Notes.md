@@ -13,7 +13,6 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - [腓立比書—詞彙分析](Philippians-Vocabulary.md)  
 
 ### 句法圖析
-經文大段落和標題是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/60/10001/19999/ch/9ae6cbbf13501064355209f3c3a858de/)；小段落和大小寫則是根據 OGNTa ([@GitHub](https://github.com/Andley/OGNTa)。
 
 - Salutation
 	- [Php.1.1-2](Php.1.1-2.md)
@@ -39,8 +38,6 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Php.4.21-23](Php.4.21-23.md)
 
 
-### 圖析符號
-
 ### 主要書目
 簡寫 | 出處
 :------:| --- 
@@ -53,10 +50,10 @@ P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second
 ### 參考資料
 簡寫 | 出處
 :------:| --- 
-Moore | Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
-Varner | Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 Novakovic | Novakovic, Lidija. _Phplippians: A Handbook on the Greek Text._ BHGNT. Waco: Baylor University Press, 2021.
 Hellerman | Hellerman, Joseph H. _Phplippians_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2016.
+Moore | Moore, Thomas. _Phplippians: An Exegetical Guide for Preaching and Teaching_. Big Greek Idea. Edited by Herbert W. Bateman IV. Grand Rapids, MI.: Kregel Academic, 2019.
+Varner | Varner, William. _Phplippians: An Exegetical Commentary._ Dallas, TX.: Fontes Press, 2021.
 Greenlee | Greenlee, J. Harold. _An Exegetical Summary of Phplippians_. ESS. Dallas, TX.: SIL International, 2008.
 
 
