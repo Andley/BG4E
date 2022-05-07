@@ -30,15 +30,11 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - The True Righteousness
 	- [Php.3.1-11](Php.3.1-11.md)
 - Pressing toward the Mark
-	- [Php.3.12-16](Php.3.12-16.md)
-	- [Php.3.17-21](Php.3.17-21.md)
-	- [Php.4.1](Php.4.1)
+	- [Php.3.12-4:1](Php.3.12-4.1.md)
 - Exhortations
-	- [Php.4.2-7](Php.4.2-7.md)
-	- [Php.4.8-9](Php.4.8-9.md)
-- Acknowledgement of the Php.lippians' Gift
-	- [Php.4.10-14](Php.4.10-14.md)
-	- [Php.4.15-20](Php.4.15-20.md)
+	- [Php.4.2-9](Php.4.2-9.md)
+- Acknowledgement of the Phplippians' Gift
+	- [Php.4.10-20](Php.4.10-20.md)
 - Final Greetings
 	- [Php.4.21-23](Php.4.21-23.md)
 
