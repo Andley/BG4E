@@ -1,4 +1,4 @@
-#### 圖析 (1Pe 1:17–21)
+#### 圖析 (1Pe 1:17-21)
 
 - <rt>1:17a</rt> <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:17b</rt> <RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Πατέρα<rt>[as] Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-ASM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐπικαλεῖσθε</strong><rt>you call on</rt></ruby><rt>ἐπικαλέω</rt></ruby><rt>V-PMI-2P</rt></RUBY> {<RUBY><ruby><ruby>τὸν<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀπροσωπολήμπτως<rt>impartially</rt></ruby><rt>ἀπροσωπολήπτως</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>κρίνοντα</em><rt>judging</rt></ruby><rt>κρίνω</rt></ruby><rt>V-PAP-ASM</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ἑκάστου<rt>of each</rt></ruby><rt>ἕκαστος</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>ἔργον ,<rt>work</rt></ruby><rt>ἔργον</rt></ruby><rt>N-ASN</rt></RUBY>}C

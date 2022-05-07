@@ -1,4 +1,4 @@
-### 圖析 (Php 3:1–11)
+### 圖析 (Php 3:1-11)
 - <rt>3:1a</rt> (<RUBY><ruby><ruby>Τὸ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν ,<rt>Finally</rt></ruby><rt>λοιπόν</rt></ruby><rt>A-ASN</rt></RUBY>) <RUBY><ruby><ruby>ἀδελφοί<rt>brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου ,<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> 
 - <rt>3:1b</rt> <RUBY><ruby><ruby><strong>χαίρετε !</strong><rt>rejoice</rt></ruby><rt>χαίρω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ .<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A 
 - <rt>3:1c</rt> { (<RUBY><ruby><ruby>τὰ<rt>The</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>αὐτὰ<rt>same things</rt></ruby><rt>αὐτός</rt></ruby><rt>P-APN</rt></RUBY>)c <RUBY><ruby><ruby><em>γράφειν</em><rt>to write</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAN</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)c }S (<RUBY><ruby><ruby>ἐμοὶ<rt>to me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>μὲν<rt>indeed</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY>)A <RUBY><ruby><ruby>οὐκ<rt>[is] not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ὀκνηρόν ,<rt>troublesome</rt></ruby><rt>ὀκνηρός</rt></ruby><rt>A-NSN</rt></RUBY>)C ...**ἐστίν**...
@@ -42,3 +42,8 @@
 			- ·············································
 				- <rt>3:10e</rt> { <RUBY><ruby><ruby><em>συμμορφιζόμενος</em><rt>being conformed</rt></ruby><rt>συμμορφόομαι</rt></ruby><rt>V-PPP-NSM</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>to the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>θανάτῳ<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ ,<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>)a  }A°⁵⮧
 			- <rt>3:11</rt> (<RUBY><ruby><ruby>εἴ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>πως<rt>by any means</rt></ruby><rt>πως</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>καταντήσω°⁵</strong></mark><rt>I may attain</rt></ruby><rt>καταντάω</rt></ruby><rt>V-AAS-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> «<RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐξανάστασιν<rt>resurrection</rt></ruby><rt>ἐξανάστασις</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>τὴν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out from</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν . ¶<rt>dead</rt></ruby><rt>νεκρός</rt></ruby><rt>A-GPM</rt></RUBY>› »)A
+
+
+
+---
+[Philippians-Notes↵](Philippians-Notes.md)

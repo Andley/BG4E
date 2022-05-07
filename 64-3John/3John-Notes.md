@@ -20,11 +20,11 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 - Salutation
-	- [3Jo 1:1–4](3Jo.1.1–4.md)
+	- [3Jo 1:1-4](3Jo.1.1-4.md)
 - Cooperation and Opposition
-	- [3Jo 1:5–12](3Jo.1.5–12.md)
+	- [3Jo 1:5-12](3Jo.1.5-12.md)
 - Final Greetings
-	- [3Jo 1:13–15](3Jo.1.13–15.md)
+	- [3Jo 1:13-15](3Jo.1.13-15.md)
 
 ### 主要書目
 | 簡寫 | 出處| 

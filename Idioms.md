@@ -21315,7 +21315,7 @@ benefit
 - 
 
 ---
-[New Testament Greek (and Hebrew) Idioms – Mr. Greek Geek (mrgreekgeek.com)](https://www.mrgreekgeek.com/2021/08/17/greek-new-testament-idioms/)
+[New Testament Greek (and Hebrew) Idioms - Mr. Greek Geek (mrgreekgeek.com)](https://www.mrgreekgeek.com/2021/08/17/greek-new-testament-idioms/)
 
 -   “[New Testament Figures of Speech](https://web.archive.org/web/20110907152359/http://bible-translation.110mb.com/ntfigures.htm)” compiled by Wayne Leman.
 

@@ -1,4 +1,4 @@
-#### 圖析 (2Jo 1:12–13)
+#### 圖析 (2Jo 1:12-13)
 
 - <rt>1:12a</rt> 
 	- { (<RUBY><ruby><ruby>Πολλὰ<rt>Many things</rt></ruby><rt>πολύς</rt></ruby><rt>A-APN</rt></RUBY>)c <RUBY><ruby><ruby><em>ἔχων</em><rt>having</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby><em>γράφειν</em><rt>to write,</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAN</rt></RUBY>)a }A°¹⮧

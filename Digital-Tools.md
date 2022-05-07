@@ -22,7 +22,7 @@
 	- 有[希臘文、中文 interlinear (逐字對照)](https://bible.fhl.net/new/read.php?VERSION16=interubs4&strongflag=0&TABFLAG=1&chineses=%E5%A4%AA&chap=1&submit1=%E9%96%B1%E8%AE%80)
 	- 有 [Westcott-Hort 版本聖經＋NA27 Variants (異文)](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1) 加上簡單的斷句 (phrasing)
 	- 還有浸宣出版、戴德理翻譯的《新約希臘文中文辭典》：[中文 BAGD](http://bible.fhl.net/new/s.php?N=0&k=2316&m=)
-	- 還有 2020 年黃錫木主編、修訂 Louw–Nida 1998 出版 <em>Greek-English Lexicon of the New Testament: Based on Semantic Domains</em> 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
+	- 還有 2020 年黃錫木主編、修訂 Louw-Nida 1998 出版 <em>Greek-English Lexicon of the New Testament: Based on Semantic Domains</em> 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
 - [🆓BibleArc](https://www.biblearc.com/)
 	- 有 SBL、NA28、LXX 經文版本
 	- 可以畫圖析 (word-level、phrase-level、proposition-level diagram)。圖析功能勝過付費軟體，而且可以把圖析和解經心得發佈到網路上
@@ -38,7 +38,7 @@
 - [🆓Academic Bible](https://www.academic-bible.com/en/home/)
 	- 德國聖經公會網站，有學術界標準的 NA28、UBS5、LXX (Ralphs-Hanhart 2006)，但沒有紙本聖經上其他的相關資料 (文本校勘欄、分段校勘欄、經文互參欄、舊約引據)。
 - [🆓Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php)
-	- 義大利文 [La Parola (The Word) 網站](https://www.laparola.net/) 下面附屬的網頁，可以搜尋 Louw–Nida 辭典。
+	- 義大利文 [La Parola (The Word) 網站](https://www.laparola.net/) 下面附屬的網頁，可以搜尋 Louw-Nida 辭典。
 - [🆓Robinson-Pierpont 2005](https://byzantinetext.com)
 	- Byzantine Text (Robinson-Pierpont 2005 版)。除了聖經文本電子檔之外，還有 John Jeffrey Dodson 所編 Reader's Edition (輔讀本) [電子檔](https://byzantinetext.com/wp-content/uploads/2017/08/RP2016-Readers-Edition.pdf)。
 - 真耶穌教會的 [🆓eRhema Bible App](https://bible.tjc.org)

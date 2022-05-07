@@ -1,5 +1,5 @@
 
-### 圖析 (1Jo 2:18–25)
+### 圖析 (1Jo 2:18-25)
 
 
 - <rt>2:18a</rt> <RUBY><ruby><ruby>Παιδία,<rt>Little children,</rt></ruby><rt>παιδίον</rt></ruby><rt>N-VPN</rt></RUBY> (<RUBY><ruby><ruby>ἐσχάτη<rt>(the) last</rt></ruby><rt>ἔσχατος</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>ὥρα<rt>hour</rt></ruby><rt>ὥρα</rt></ruby><rt>N-NSF</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστίν,</strong><rt>it is,</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
@@ -52,7 +52,7 @@
 ---
 
 
-### 圖析 (1Jo 2:26–27)
+### 圖析 (1Jo 2:26-27)
 
 - <rt>2:26</rt> <RUBY><ruby><ruby>Ταῦτα<rt>These things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY> <RUBY><ruby><ruby><strong>ἔγραψα</strong><rt>I have written</rt></ruby><rt>γράφω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> { <RUBY><ruby><ruby><em>πλανώντων</em><rt>leading astray</rt></ruby><rt>πλανάω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.<rt>you.</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY> } )A 
 - ——————————————

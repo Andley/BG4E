@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 3:19–24)
+#### 圖析 (1Jo 3:19-24)
 
 
 - <rt>3:19a</rt> (<RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>by</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ°⮥<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-DSN</rt></RUBY>)A <RUBY><ruby><ruby><strong>γνωσόμεθα</strong><rt>we will know</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-FDI-1P</rt></RUBY> 

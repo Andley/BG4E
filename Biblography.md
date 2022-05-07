@@ -94,8 +94,8 @@
 - Culy, Martin M. <em>I, II, III John: A Handbook on the Greek Text</em>. BHGNT. Baylor University Press, 2004.
 - Culy, Martin M., Mikeal C. Parsons, and Joshua J. Stigall. <em>Luke: A Handbook on the Greek Text</em>. BHGNT. Baylor University Press, 2010.
 - Davids, Peter H. <em>2 Peter and Jude: A Handbook on the Greek Text</em>. BHGNT. Waco, Tex: Baylor University Press, 2011.
-- Decker, Rodney J. <em>Mark 1–8: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2014.
-- ———. <em>Mark 9–16: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2014.
+- Decker, Rodney J. <em>Mark 1-8: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2014.
+- ———. <em>Mark 9-16: A Handbook on the Greek Text</em>. BHGNT. Waco: Baylor University Press, 2014.
 - DeSilva, David Arthur. <em>Galatians: A Handbook on the Greek Text</em>. BHGNT. Waco, Texas: Baylor University Press, 2014.
 - Dubis, Mark. <em>1 Peter: A Handbook on the Greek Text</em>. BHGNT. Baylor University Press, 2010.
 - Larkin, William J. <em>Ephesians: A Handbook on the Greek Text</em>. BHGNT. Baylor University Press, 2009.

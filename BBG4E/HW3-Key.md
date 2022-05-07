@@ -1,4 +1,4 @@
-## HW❸ (Joh 1:6–10) 圖析
+## HW❸ (Joh 1:6-10) 圖析
 - <rt>1:6a</rt> <RUBY><ruby><ruby><strong>Ἐγένετο</strong><rt>There came</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-2ADI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἄνθρωπος ,<rt>a man</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NSM</rt></RUBY>)S 
 	- <rt>1:6b</rt> { <RUBY><ruby><ruby><em>ἀπεσταλμένος</em><rt>having been sent</rt></ruby><rt>ἀποστέλλω</rt></ruby><rt>V-RPP-NSM</rt></RUBY> (<RUBY><ruby><ruby>παρὰ<rt>from</rt></ruby><rt>παρά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ ,<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)a }A 
 - <rt>1:6c</rt> (<RUBY><ruby><ruby>ὄνομα<rt>[the] name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>αὐτῷ<rt>to Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby><mark>Ἰωάννης°¹ ·</mark><rt>[was] John</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N-NSM-P</rt></RUBY> 

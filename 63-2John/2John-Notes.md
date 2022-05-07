@@ -19,11 +19,11 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 ### 句法筆記
 
 - Salutation 
-	- [2Jo 1:1–3](2Jo.1.1–3.md)
+	- [2Jo 1:1-3](2Jo.1.1-3.md)
 - Truth and Love 
-	- [2Jo 1:4–11](2Jo.1.4–11.md)
+	- [2Jo 1:4-11](2Jo.1.4-11.md)
 - Final Greetings 
-	- [2Jo 1:12–13](2Jo.1.12–13.md)
+	- [2Jo 1:12-13](2Jo.1.12-13.md)
 
 ### 主要書目
 簡寫 | 出處

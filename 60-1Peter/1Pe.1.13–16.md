@@ -1,4 +1,4 @@
-#### 圖析 (1Pe 1:13–16)
+#### 圖析 (1Pe 1:13-16)
 
 - <rt>1:13a</rt> <RUBY><ruby><ruby>Διὸ<rt>Therefore</rt></ruby><rt>διό</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>1:13b</rt> (<RUBY><ruby><ruby><em>ἀναζωσάμενοι</em><rt>having girded up</rt></ruby><rt>ἀναζώννυμι</rt></ruby><rt>V-AMP-NPM</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ὀσφύας<rt>loins</rt></ruby><rt>ὀσφῦς</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>διανοίας<rt>mind</rt></ruby><rt>διάνοια</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A°¹⮧

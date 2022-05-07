@@ -1,11 +1,11 @@
 - Salutation
-	- [[Jud.1.1–2]]
+	- [[Jud.1.1-2]]
 - Judgment on False Teachers
-	- [[Jud.1.3–4]]
-	- [[Jud.1.5–7]]
-	- [[Jud.1.8–13]]
-	- [[Jud.1.14–16]]
+	- [[Jud.1.3-4]]
+	- [[Jud.1.5-7]]
+	- [[Jud.1.8-13]]
+	- [[Jud.1.14-16]]
 - Warnings and Exhortations
-	- [[Jud.1.17–23]]
+	- [[Jud.1.17-23]]
 - Benediction
-	- [[Jud.1.24–25]]
+	- [[Jud.1.24-25]]

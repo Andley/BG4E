@@ -1,4 +1,4 @@
-#### 圖析 (1Pe 1:3–9)
+#### 圖析 (1Pe 1:3-9)
 
 
 - <rt>1:3a</rt> (<RUBY><ruby><ruby>Εὐλογητὸς<rt>Blessed [be]</rt></ruby><rt>εὐλογητός</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-NSM</rt></RUBY> «<RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>of us</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY>» =«<RUBY><ruby><ruby>Ἰησοῦ<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>» )S =<rt>1:3b</rt>

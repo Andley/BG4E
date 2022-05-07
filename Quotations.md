@@ -1,4 +1,4 @@
-Hayyim Nahman Bialik, Jewish Poet (1873–1934)
+Hayyim Nahman Bialik, Jewish Poet (1873-1934)
 >"Reading the Bible in translation is like kissing your new bride through a veil."
 
 ---

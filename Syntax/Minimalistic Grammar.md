@@ -8,11 +8,11 @@
 
 > A maximalist approach to Greek grammar is often an outgrowth of a view of Scripture as the inspired Word of God. Certainly if the NT is God’s Word, each grammatical expression must be semantically weighty and bursting with import! As Moisés Silva describes this perspective, "Surely an inspired text must be full of meaning: we can hardly think that so much as a single word in the Bible is insignificant or dispensable." [^5] We agree with Silva that this overlooks that God has spoken to his people in normal language. As authors, we are committed to the authority and inspiration of Scripture. However, this does not necessitate taking the Greek language in an unnatural or artificial way. Inspiration does not somehow transform the language into something more than it was before. Therefore, we are committed to a minimalistic view of grammar, where maximal meaning is not attributed to the individual linguistic units but is found in their broader context.[^6] Also, we have kept categories and labels to a minimum. This does not mean that grammar is unimportant or that precise grammatical analysis should be avoided, but we must understand the role it plays in contributing meaning to the overall context. There is danger in reading far more from the grammar than is justified. A minimalist approach also has an andragogical benefit: it relieves the student from the burden of learning an unwieldy list of case or tense labels. It greatly streamlines the choices and the categories for which students are responsible, thereby freeing them up to focus on entire texts instead of isolated details.
 > 
-> — source: Mathewson, *IGG*, xvii–xix
+> — source: Mathewson, *IGG*, xvii-xix
 
 [^2]: Moisés Silva, *God, Language, and Scripture: Reading the Bible in the Light of General Linguistics* (Grand Rapids: Zondervan, 1990), 144.
 [^3]: Ibid., 115: "But we can feel confident that no reasonable writer would seek to express a major point by leaning on a subtle grammatical distinction—especially if it is a point not otherwise clear from the whole context (and if it is clear from the context, then the grammatical subtlety plays at best a secondary role in exegesis)." 
-[^4]: Rodney J. Decker, *Mark 1–8: A Handbook on the Greek Text* (Waco: Baylor University Press, 2014), xxii–xxiii.
+[^4]: Rodney J. Decker, *Mark 1-8: A Handbook on the Greek Text* (Waco: Baylor University Press, 2014), xxii-xxiii.
 [^5]: Silva, *God, Language, and Scripture*, 13.
-[^6]: Decker, *Mark 1–8*, xxii.
+[^6]: Decker, *Mark 1-8*, xxii.
 

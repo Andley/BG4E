@@ -1,4 +1,4 @@
-# 全民希臘文句法 (BG4E–Syntax) <br>Biblical Greek for Everyone — Syntax
+# 全民希臘文句法 (BG4E-Syntax) <br>Biblical Greek for Everyone — Syntax
 
 ---
 

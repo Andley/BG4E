@@ -1,4 +1,4 @@
-#### 圖析 (2Jo 1:4–11)
+#### 圖析 (2Jo 1:4-11)
 
 
 - <rt>1:4a</rt> <RUBY><ruby><ruby><strong>Ἐχάρην</strong><rt>I rejoiced</rt></ruby><rt>χαίρω</rt></ruby><rt>V-2AOI-1S</rt></RUBY> (<RUBY><ruby><ruby>λίαν<rt>exceedingly</rt></ruby><rt>λίαν</rt></ruby><rt>ADV</rt></RUBY>)A

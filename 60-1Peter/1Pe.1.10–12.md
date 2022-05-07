@@ -1,4 +1,4 @@
-#### 圖析 (1Pe 1:10–12)
+#### 圖析 (1Pe 1:10-12)
 
   
 
@@ -17,7 +17,7 @@
 [1Peter-Notes↵](1Peter-Notes.md)
 
 Porter p.250 Internal referent & p.253 Incorporation
-ATR pp. 718–21 Incorporation
+ATR pp. 718-21 Incorporation
 BDF §294.5 Incorporation
 Culy Internally-Headed Relative Clause (IHRC)
 

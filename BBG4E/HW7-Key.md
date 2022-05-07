@@ -1,4 +1,4 @@
-## HW❼ (1Jo 2:7–11) 圖析
+## HW❼ (1Jo 2:7-11) 圖析
 
 - <rt>2:7a</rt> <RUBY><ruby><ruby>Ἀγαπητοί ,<rt>Beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐντολὴν<rt>a commandment</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καινὴν<rt>new</rt></ruby><rt>καινός</rt></ruby><rt>A-ASF</rt></RUBY>)C <RUBY><ruby><ruby><strong>γράφω</strong><rt>I am writing</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C
 - <rt>2:7b</rt> <RUBY><ruby><ruby>ἀλλ᾽<rt>but</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> (<mark><RUBY><ruby><ruby>ἐντολὴν°¹<rt>a commandment</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>παλαιὰν°¹<rt>old</rt></ruby><rt>παλαιός</rt></ruby><rt>A-ASF</rt></RUBY></mark>)C 

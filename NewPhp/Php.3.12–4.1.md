@@ -1,4 +1,4 @@
-### 圖析 (Php 3:12–16)
+### 圖析 (Php 3:12-16)
 - <rt>3:12a</rt> <RUBY><ruby><ruby>Οὐχ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ...**ἐστίν**...
 	- <rt>3:12b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἔλαβον</strong><rt>I have obtained [it]</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> 
 	- <rt>3:12c</rt> <RUBY><ruby><ruby>ἢ<rt>or</rt></ruby><rt>ἤ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>already</rt></ruby><rt>ἤδη</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>τετελείωμαι ,</strong><rt>have been perfected</rt></ruby><rt>τελειόω</rt></ruby><rt>V-RPI-1S</rt></RUBY> 
@@ -20,7 +20,7 @@
 - <rt>3:16a</rt> <RUBY><ruby><ruby>πλὴν<rt>Nevertheless</rt></ruby><rt>πλήν</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>to</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby><mark>ὃ°⁴</mark><rt>that which</rt></ruby><rt>ὅς, ἥ</rt></ruby><rt>R-ASN</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐφθάσαμεν ,</strong><rt>we have attained</rt></ruby><rt>φθάνω</rt></ruby><rt>V-AAI-1P</rt></RUBY> 
 - <rt>3:16b</rt> (<RUBY><ruby><ruby>τῷ<rt>by the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ°⁴⮥<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DSN</rt></RUBY>)A <RUBY><ruby><ruby><em>στοιχεῖν . ¶</em><rt>to walk</rt></ruby><rt>στοιχέω</rt></ruby><rt>V-PAN</rt></RUBY>
 
-### 圖析 (Php 3:17–4:1)
+### 圖析 (Php 3:17-4:1)
 
 - <rt>3:17a</rt> (<RUBY><ruby><ruby>Συμμιμηταί<rt>Imitators together</rt></ruby><rt>συμμιμητής</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)C <RUBY><ruby><ruby><strong>γίνεσθε ! ,</strong><rt>be</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί ,<rt>brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
 - <rt>3:17b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>σκοπεῖτε !</strong><rt>observe</rt></ruby><rt>σκοπέω</rt></ruby><rt>V-PAM-2P</rt></RUBY> {<RUBY><ruby><ruby>τοὺς<rt>those</rt></ruby><rt>ὁ</rt></ruby><rt>T-APM</rt></RUBY> (<RUBY><ruby><ruby><mark>οὕτω°⁵</mark><rt>thus</rt></ruby><rt>οὕτω, οὕτως</rt></ruby><rt>ADV</rt></RUBY>)a <RUBY><ruby><ruby><mark><em>περιπατοῦντας°⁶</em></mark><rt>walking</rt></ruby><rt>περιπατέω</rt></ruby><rt>V-PAP-APM</rt></RUBY> }C
@@ -53,3 +53,9 @@
 - <rt>4:1c</rt> (<RUBY><ruby><ruby>χαρὰ<rt>[the] joy</rt></ruby><rt>χαρά</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>στέφανός<rt>crown</rt></ruby><rt>στέφανος</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>μου ,<rt>of me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>)S 
 - <rt>4:1d</rt> (<RUBY><ruby><ruby>οὕτως<rt>in this way</rt></ruby><rt>οὕτω, οὕτως</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>στήκετε !</strong><rt>stand firm</rt></ruby><rt>στήκω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ ,<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἀγαπητοί . ¶<rt>beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY>)S
 
+
+
+
+
+---
+[Philippians-Notes↵](Philippians-Notes.md)

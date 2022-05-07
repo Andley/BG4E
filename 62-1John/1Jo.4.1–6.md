@@ -1,4 +1,4 @@
-#### 圖析 (1Jo 4:1–6)
+#### 圖析 (1Jo 4:1-6)
 
 
 - <rt>4:1a</rt> <RUBY><ruby><ruby>Ἀγαπητοί,<rt>Beloved,</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>παντὶ<rt>every</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματι<rt>spirit</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY>)C <RUBY><ruby><ruby><strong>πιστεύετε !!</strong><rt>do believe,</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAM-2P</rt></RUBY> 

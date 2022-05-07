@@ -1,4 +1,4 @@
-#### 圖析 (1Jn 5:13–15)
+#### 圖析 (1Jn 5:13-15)
 
 - <rt>5:13a</rt> (<RUBY><ruby><ruby>Ταῦτα<rt>These things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἔγραψα</strong><rt>have I written</rt></ruby><rt>γράφω</rt></ruby><rt>V-2AAI-1S</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C ={<rt>5:13d</rt>}
 	- <strong><font color='red'>TAGNT筆誤？</font></strong><RUBY><ruby><ruby><em>πιστεύουσιν</em><rt>believing</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAP-DPM</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>name</rt></ruby><rt>ὄνομα</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>υἱοῦ<rt>Son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ,<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>
@@ -24,7 +24,7 @@
 
 
 
-#### 圖析 (1Jn 5:16–17)
+#### 圖析 (1Jn 5:16-17)
 
 - <rt>5:16a</rt> 
 	- <RUBY><ruby><ruby>Ἐάν<rt>If</rt></ruby><rt>ἐάν</rt></ruby><rt>COND</rt></RUBY> (<RUBY><ruby><ruby><mark>τις°⁴</mark><rt>anyone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S <RUBY><ruby><ruby><strong>ἴδῃ</strong><rt>shall see</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAS-3S</rt></RUBY> (<mark><RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>brother</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY>°⁵</mark> « <rt>5:16b</rt> » )C
@@ -41,7 +41,7 @@
 - <rt>5:17b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἔστιν</strong><rt>there is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἁμαρτία<rt>sin</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby>οὐ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>unto</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θάνατον.<rt>death.</rt></ruby><rt>θάνατος</rt></ruby><rt>N-ASM</rt></RUBY>)A
 
 
-#### 圖析 (1Jn 5:18–21)
+#### 圖析 (1Jn 5:18-21)
 
 - <rt>5:18a</rt> <RUBY><ruby><ruby><strong>οἴδαμεν</strong><rt>We know</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1P</rt></RUBY> 
 	- <rt>5:18b</rt> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>πᾶς<rt>everyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>who</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><em>γεγεννημένος</em><rt>born</rt></ruby><rt>γεννάω</rt></ruby><rt>V-RPP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ,<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)a }S <RUBY><ruby><ruby>οὐχ<rt>not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἁμαρτάνει·</strong><rt>continues to sin,</rt></ruby><rt>ἁμαρτάνω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 

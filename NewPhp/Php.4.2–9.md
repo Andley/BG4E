@@ -1,4 +1,4 @@
-### 圖析 (Php 4:2–7)
+### 圖析 (Php 4:2-7)
 
 - <rt>4:2a</rt> (<RUBY><ruby><ruby>Εὐοδίαν<rt>Euodia</rt></ruby><rt>Εὐοδία</rt></ruby><rt>N-ASF-P</rt></RUBY>)C <RUBY><ruby><ruby><strong>παρακαλῶ</strong><rt>I exhort</rt></ruby><rt>παρακαλέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
 - <rt>4:2b</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Συντύχην<rt>Syntyche</rt></ruby><rt>Συντύχη</rt></ruby><rt>N-ASF-P</rt></RUBY>)C <RUBY><ruby><ruby><strong>παρακαλῶ</strong><rt>I exhort</rt></ruby><rt>παρακαλέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> { (<RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>αὐτὸ<rt>same</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY>)c <RUBY><ruby><ruby><em>φρονεῖν</em><rt>to be of mind</rt></ruby><rt>φρονέω</rt></ruby><rt>V-PAN</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ .<rt>[the] Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-DSM</rt></RUBY>)a }C
@@ -21,7 +21,7 @@
 	- <rt>4:7b</rt> (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N-NSF</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>of God</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> ›) (<RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> « <RUBY><ruby><ruby><em>ὑπερέχουσα</em><rt>surpassing</rt></ruby><rt>ὑπερέχω</rt></ruby><rt>V-PAP-NSF</rt></RUBY> ‹<RUBY><ruby><ruby>πάντα<rt>all</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>νοῦν<rt>understanding</rt></ruby><rt>νοῦς</rt></ruby><rt>N-ASM</rt></RUBY> ›c » )
 	- <rt>4:7c</rt> (<RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>καρδίας<rt>hearts</rt></ruby><rt>καρδία</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>) <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>νοήματα<rt>minds</rt></ruby><rt>νόημα</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>of you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)
 
-### 圖析 (Php 4:8–9)
+### 圖析 (Php 4:8-9)
 
 - <rt>4:8a</rt> (<RUBY><ruby><ruby>Τὸ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν ,<rt>Finally</rt></ruby><rt>λοιπόν</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>ἀδελφοί ,<rt>brothers</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> 
 	- <rt>4:8b</rt> (<RUBY><ruby><ruby>ὅσα°³⮧<rt>whatever</rt></ruby><rt>ὅσος</rt></ruby><rt>K-PN</rt></RUBY>)S <RUBY><ruby><ruby><strong>ἐστὶν</strong><rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἀληθῆ ,<rt>true</rt></ruby><rt>ἀληθής</rt></ruby><rt>A-NPN</rt></RUBY>)C 
@@ -40,3 +40,8 @@
 	- <rt>4:9d</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark><strong>εἴδετε°⁷</strong></mark><rt>have seen</rt></ruby><rt>εἴδω</rt></ruby><rt>V-2AAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοί ,<rt>me</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>)A°⁴⁵⁶⁷⮥
 - <rt>4:9f</rt> (<RUBY><ruby><ruby><mark>ταῦτα°⁸</mark><rt>these things</rt></ruby><rt>οὗτος</rt></ruby><rt>D-APN</rt></RUBY>)C <RUBY><ruby><ruby><strong>πράσσετε ! ·</strong><rt>practice</rt></ruby><rt>πράσσω</rt></ruby><rt>V-PAM-2P</rt></RUBY> 
 - <rt>4:9g</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>εἰρήνης<rt>of peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N-GSF</rt></RUBY>)S <RUBY><ruby><ruby><strong>ἔσται</strong><rt>will be</rt></ruby><rt>εἰμί</rt></ruby><rt>V-FDI-3S</rt></RUBY> (<RUBY><ruby><ruby>μεθ᾽<rt>with</rt></ruby><rt>μετά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν . ¶<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A
+
+
+
+---
+[Philippians-Notes↵](Philippians-Notes.md)

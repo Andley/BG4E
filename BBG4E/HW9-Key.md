@@ -1,4 +1,4 @@
-## HW❾ (Mat 6:9–13) 圖析
+## HW❾ (Mat 6:9-13) 圖析
 
 
 - <rt>6:9a</rt> (<RUBY><ruby><ruby>Οὕτως<rt>Thus</rt></ruby><rt>οὕτω, οὕτως</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby>οὖν<rt>therefore</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>προσεύχεσθε</strong><rt>pray</rt></ruby><rt>προσεύχομαι</rt></ruby><rt>V-PNM-2P</rt></RUBY> (<RUBY><ruby><ruby>ὑμεῖς ·<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2NP</rt></RUBY>)S

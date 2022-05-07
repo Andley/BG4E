@@ -1,4 +1,4 @@
-#### 圖析 (1Pe 1:1–2)
+#### 圖析 (1Pe 1:1-2)
 
 
 - <rt>1:1a</rt> (<RUBY><ruby><ruby>Πέτρος<rt>Peter</rt></ruby><rt>Πέτρος</rt></ruby><rt>N-NSM-P</rt></RUBY> =«<RUBY><ruby><ruby>ἀπόστολος<rt>an apostle</rt></ruby><rt>ἀπόστολος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM-T</rt></RUBY>» )S (<RUBY><ruby><ruby>Ἐκλεκτοῖς<rt>To [the] elect</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>παρεπιδήμοις<rt>sojourners</rt></ruby><rt>παρεπίδημος</rt></ruby><rt>A<strong><font color='red'>⁞N</font></strong>-DPM</rt></RUBY> <RUBY><ruby><ruby>Διασπορᾶς<rt>of [the] Dispersion</rt></ruby><rt>διασπορά</rt></ruby><rt>N-GSF</rt></RUBY> «<rt>1:1b</rt>» )C

@@ -18,31 +18,31 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 ### 句法圖析
 
 - The Word of Life
-	- [1Jo 1:1–4](1Jo.1.1–4.md)
+	- [1Jo 1:1-4](1Jo.1.1-4.md)
 - God is Light
-	- [1Jo 1:5–10](1Jo.1.5–10.md)
+	- [1Jo 1:5-10](1Jo.1.5-10.md)
 - Christ Our Advocate
-	- [1Jo 2:1–6](1Jo.2.1–6.md)
+	- [1Jo 2:1-6](1Jo.2.1-6.md)
 - The New Commandment
-	- [1Jo 2:7–17](1Jo.2.7–17.md)
+	- [1Jo 2:7-17](1Jo.2.7-17.md)
 - The Antichrist
-	- [1Jo 2:18–27](1Jo.2.18–27.md)
+	- [1Jo 2:18-27](1Jo.2.18-27.md)
 - Children of God
-	- [1Jo 2:28–3.10](1Jo.2.28–3.10.md)
+	- [1Jo 2:28-3.10](1Jo.2.28-3.10.md)
 - Love One Another
-	- [1Jo 3:11–18](1Jo.3.11–18.md)
+	- [1Jo 3:11-18](1Jo.3.11-18.md)
 - Confidence before God
-	- [1Jo 3:19–24](1Jo.3.19–24.md)
+	- [1Jo 3:19-24](1Jo.3.19-24.md)
 - The Spirit of God and the Spirit of Antichrist
-	- [1Jo 4:1–6](1Jo.4.1–6.md)
+	- [1Jo 4:1-6](1Jo.4.1-6.md)
 - God is Love
-	- [1Jo 4:7–21](1Jo.4.7–21.md)
+	- [1Jo 4:7-21](1Jo.4.7-21.md)
 - Faith is Victory over the World
-	- [1Jo 5:1–5](1Jo.5.1–5.md)
+	- [1Jo 5:1-5](1Jo.5.1-5.md)
 - The Witness concerning the Son
-	- [1Jo 5:6–12](1Jo.5.6–12.md)
+	- [1Jo 5:6-12](1Jo.5.6-12.md)
 - The Knowledge of Eternal Life
-	- [1Jo 5:13–21](1Jo.5.13–21.md)
+	- [1Jo 5:13-21](1Jo.5.13-21.md)
 
 ### 主要書目
 簡寫 | 出處

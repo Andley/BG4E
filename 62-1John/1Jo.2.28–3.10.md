@@ -1,4 +1,4 @@
-### 圖析 (1Jo 2:28–3:3)
+### 圖析 (1Jo 2:28-3:3)
 
 
 - <rt>2:28a</rt> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>νῦν,<rt>now,</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τεκνία,<rt>little children,</rt></ruby><rt>τεκνίον</rt></ruby><rt>N-VPN</rt></RUBY> 
@@ -33,11 +33,11 @@
 	- <rt>3:3b</rt> <RUBY><ruby><ruby>καθὼς<rt>just as</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος✝<rt>He</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἁγνός<rt>pure</rt></ruby><rt>ἁγνός</rt></ruby><rt>A-NSM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστιν.¶</strong><rt>is.</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 
 
-### 筆記 (1Jo 2:28–3:3)
+### 筆記 (1Jo 2:28-3:3)
 
 ---
 
-### 圖析 (1Jo 3:4–10)
+### 圖析 (1Jo 3:4-10)
 
 
 - <rt>3:4a</rt> (<RUBY><ruby><ruby>Πᾶς<rt>Everyone</rt></ruby><rt>πᾶς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>who</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> { <RUBY><ruby><ruby><em>ποιῶν</em><rt>is committing</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> (<RUBY><ruby><ruby>τὴν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίαν<rt>sin,</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>)c } )S (<RUBY><ruby><ruby>καὶ<rt>also</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τὴν<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀνομίαν<rt>lawlessness</rt></ruby><rt>ἀνομία</rt></ruby><rt>N-ASF</rt></RUBY>)C <RUBY><ruby><ruby><strong>ποιεῖ,</strong><rt>commits;</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
@@ -73,7 +73,7 @@
 
 
 
-### 筆記 (1Jo 3:4–10)
+### 筆記 (1Jo 3:4-10)
 
 
 ---
