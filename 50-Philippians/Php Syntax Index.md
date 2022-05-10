@@ -1,3 +1,4 @@
+
 Following Runge's  suggestion,  I have interpreted various  cleft con-
 structions linguistically as either left -dislocations, "where the new entity 
 is  dislocated to  the beginning of the clause  and then resumed in the 
