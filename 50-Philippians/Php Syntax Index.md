@@ -1,11 +1,5 @@
 
-Following Runge's  suggestion,  I have interpreted various  cleft con-
-structions linguistically as either left -dislocations, "where the new entity 
-is  dislocated to  the beginning of the clause  and then resumed in the 
-main  clause  through  the  use  of a  pronominal trace"  (2010,  289),  or 
-right-dislocations, which entail "referring to a participant in the midst 
-of a clause using a pronoun or generic phrase and then adding more 
-information about the same participant at the end of the clause" ( 317). 
+
 I have identified nine relative clauses in Philippians that stand in left-
 dislocations: one in 3:7 ((inva ~v f!Ol KEpOTJ),  one in 3:16 (de; 0 ecp8acra-
 flEV ), six in 4:8 ( oaa E0"1"LV  UATJ8fJ,  oaa O"EflVU, oaa OLKaLU, oaa ayva, oaa 

@@ -7,7 +7,7 @@
 		- <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>when</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>φανερωθῇ‚<rt>φανερόω</rt></ruby><rt>He appears</rt></ruby><rt>V-APS-3S</rt></RUBY>)P 
 	- 2:28c (<RUBY><ruby><ruby>σχῶμεν<rt>ἔχω</rt></ruby><rt>we might have</rt></ruby><rt>V-2AAS-1P</rt></RUBY>)P (<RUBY><ruby><ruby>παρρησίαν<rt>παρρησία</rt></ruby><rt>boldness</rt></ruby><rt>N-ASF</rt></RUBY>)C 
 	- 2:28d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY>)A1 (<RUBY><ruby><ruby>αἰσχυνθῶμεν<rt>αἰσχύνω</rt></ruby><rt>be ashamed</rt></ruby><rt>V-APS-1P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>ἀπό</rt></ruby><rt>before</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A2 (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>at</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>παρουσίᾳ<rt>παρουσία</rt></ruby><rt>coming</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>αὐτός</rt></ruby><rt>of Him.</rt></ruby><rt>P-GSM</rt></RUBY>)A3 
-- ---
+- ·············································
 - 2:29a
 	- <RUBY><ruby><ruby>Ἐὰν<rt>ἐάν</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰδῆτε<rt>εἴδω</rt></ruby><rt>you know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P 
 		- 2:29b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>δίκαιός<rt>δίκαιος</rt></ruby><rt>righteous</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐστιν‚<rt>εἰμί</rt></ruby><rt>He is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
