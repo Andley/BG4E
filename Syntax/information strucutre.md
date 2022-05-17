@@ -1,0 +1,1 @@
+資訊結構 (information structure) 就是在探討希臘文的 word-order (字序)。
