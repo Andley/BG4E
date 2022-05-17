@@ -102,4 +102,4 @@ Note:
 
 
 ---
-[腓立比書希臘文筆記  ↵](../50-Philippians/Philippians-Notes.md)
+[Philippians-Notes](Philippians-Notes.md)

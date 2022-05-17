@@ -19,21 +19,29 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - Paul's Prayer for the Philippians
 	- [Php 1:3-11](Php.1.3-11.md)
 - To Me to Live is Christ
-	- [Php 1:12-30](Php.1.12-30.md)
+	- [Php 1:12-14](Php.1.12-14.md)
+	- [Php 1:15-26](Php.1.15-26.md)
+	- [Php 1:27-30](Php.1.27-30.md)
 - Christian Humility and Christ's Humility
 	- [Php 2:1-11](Php.2.1-11.md)
 - Shinning as Light in the World
 	- [Php 2:12-18](Php.2.12-18.md)
 - Timothy and Epaphroditus
-	- [Php 2:19-30](Php.2.19-30.md)
+	- [Php 2:19-24](Php.2.19-24.md)
+	- [Php 2:25-30](Php.2.25-30.md)
 - The True Righteousness
-	- [Php 3:1-11](Php.3.1-11.md)
+	- [Php 3:1-11](Php.3.1.md)
+	- [Php 3:2-11](Php.3.2-11.md)
 - Pressing toward the Mark
-	- [Php 3:12-4:1](Php.3.12-4.1.md)
+	- [Php 3:12-16](Php.3.12-16.md)
+	- [Php 3:17-21](Php.3.17-21.md)
+	- [Php 4:1](Php.4.1.md)
 - Exhortations
-	- [Php 4:2-9](Php.4.2-9.md)
+	- [Php 4:2-7](Php.4.2-7.md)
+	- [Php 4:8-9](Php.4.8-9.md)
 - Acknowledgement of the Phplippians' Gift
-	- [Php 4:10-20](Php.4.10-20.md)
+	- [Php.4.10-14](Php.4.10-14.md)
+	- [Php 4:15-20](Php.4.15-20.md)
 - Final Greetings
 	- [Php 4:21-23](Php.4.21-23.md)
 

@@ -122,4 +122,4 @@ Interlinear 經文 (包括大小寫、標點符號、分行標記 `¬`、段落�
 
 
 ---
-[[Philippians-Notes]]
+[Philippians-Notes](Philippians-Notes.md)
