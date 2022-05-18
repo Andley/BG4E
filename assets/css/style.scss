@@ -39,9 +39,9 @@ ruby {
     font-family: 'Noto Sans TC', 'EB Garamond', sans-serif;
   }
 
-  .inner {
-    max-width: 85%;
-  }
+  section {
+    width: 90%;
+}
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
