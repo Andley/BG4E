@@ -9,12 +9,12 @@ ruby {
     font-size: 16px ; 
     line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: "Times New Roman", serif;
+    font-family: 'EB Garamond', serif;
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: "Arial Narrow", sans-serif;
+    font-family: 'Ubuntu Condensed', sans-serif;
   }
   ul ruby {
     padding-bottom: 3px !important;
@@ -35,8 +35,8 @@ ruby {
     font-weight:600;
   }
 
-  html, body {
-    font-family: "Times New Roman", serif;
+  p, html, body {
+    font-family: 'EB Garamond', 'Noto Sans TC', sans-serif;
   }
 
   /* text decoration for marking syntax functions */
