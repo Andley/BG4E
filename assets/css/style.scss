@@ -41,7 +41,13 @@ ruby {
 
   section {
     width: 90%;
-}
+  }
+
+  section.footnotes {
+    width: 90%;
+    margin-top: 30px;
+  }
+  
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
