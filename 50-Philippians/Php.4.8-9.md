@@ -11,7 +11,7 @@
 	- <rt>4:8h</rt> <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>any</rt></ruby><rt>X-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀρετὴ<rt>ἀρετή</rt></ruby><rt>excellence</rt></ruby><rt>N-NSF</rt></RUBY>)C 
 	- <rt>4:8i</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>any</rt></ruby><rt>X-NSM</rt></RUBY> <RUBY><ruby><ruby>ἔπαινος ,<rt>ἔπαινος</rt></ruby><rt>praise</rt></ruby><rt>N-NSM</rt></RUBY>)C 
 - <rt>4:8j</rt> (<RUBY><ruby><ruby><mark>ταῦτα°³</mark><rt>οὗτος</rt></ruby><rt>these things</rt></ruby><rt>D-APN</rt></RUBY>)C <RUBY><ruby><ruby><strong>λογίζεσθε ! ·</strong><rt>λογίζομαι</rt></ruby><rt>think on</rt></ruby><rt>V-PNM-2P</rt></RUBY> 
-- ·············································
+- ·······
 	- <rt>4:9a</rt> (<RUBY><ruby><ruby><mark>ἃ°⁴</mark><rt>ὅς, ἥ</rt></ruby><rt>What</rt></ruby><rt>R-APN</rt></RUBY>)C <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐμάθετε</strong><rt>μανθάνω</rt></ruby><rt>you have learned</rt></ruby><rt>V-2AAI-2P</rt></RUBY> 
 	- <rt>4:9b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>παρελάβετε</strong><rt>παραλαμβάνω</rt></ruby><rt>have received</rt></ruby><rt>V-2AAI-2P</rt></RUBY> 
 	- <rt>4:9c</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἠκούσατε</strong><rt>ἀκούω</rt></ruby><rt>have heard</rt></ruby><rt>V-AAI-2P</rt></RUBY> 
