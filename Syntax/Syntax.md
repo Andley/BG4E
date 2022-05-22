@@ -1,6 +1,5 @@
-# 全民希臘文句法 (BG4E-Syntax) <br>Biblical Greek for Everyone — Syntax
+# 全民希臘文句法 (BG4E-Syntax) 
 
----
 
 ## Part I 希臘文基礎
 八大詞類都從拉丁文而來：
