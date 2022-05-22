@@ -5,7 +5,7 @@
  
 
 ### 進階句法 (BG4E-Syntax)
-- [全民希臘文進階句法](Syntax/§0%20BG4E-Syntax.md)
+- [全民希臘文進階句法](Syntax/Syntax.md)
 - [Wallace GGBB 句法摘要中英對照](GGBB/GGBB.md)
 - [IGNT/IGNT](IGNT/IGNT.md)
 
