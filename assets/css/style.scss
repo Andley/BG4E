@@ -9,12 +9,12 @@ ruby {
     font-size: 16px ; 
     line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: 'EB Garamond', 'Noto Sans CJK TC', serif;
+    font-family: 'EB Garamond', 'Noto Sans TC', serif;
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: 'Ubuntu Condensed', 'Noto Sans CJK TC', sans-serif;
+    font-family: 'Ubuntu Condensed', 'Noto Sans TC', sans-serif;
   }
   ul ruby {
     padding-bottom: 3px !important;
@@ -27,16 +27,15 @@ ruby {
   h2 {
     text-align: center;
   }
-  strong {
+  ruby strong {
     color: red;
   }
-  em {
+  ruby em {
     color: blue;
-    font-weight:600;
   }
 
   p, html, body {
-    font-family: 'Noto Sans', 'Noto Sans CJK TC', 'EB Garamond', sans-serif;
+    font-family: 'EB Garamond','Noto Sans', 'Noto Sans TC',  sans-serif;
   }
 
   section {
