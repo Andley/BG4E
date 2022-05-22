@@ -9,12 +9,12 @@ ruby {
     font-size: 16px ; 
     line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: 'EB Garamond', 'Noto Sans TC', serif;
+    font-family: 'EB Garamond', 'Noto Sans CJK TC', serif;
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: 'Fira Sans Extra Condensed', 'Noto Sans TC', sans-serif;
+    font-family: 'Fira Sans Extra Condensed', 'Noto Sans CJK TC', sans-serif;
   }
   ul ruby {
     padding-bottom: 3px !important;
@@ -36,7 +36,7 @@ ruby {
   }
 
   p, html, body {
-    font-family: 'Noto Sans TC', 'EB Garamond', sans-serif;
+    font-family: 'Noto Sans', 'Noto Sans CJK TC', 'EB Garamond', sans-serif;
   }
 
   section {
