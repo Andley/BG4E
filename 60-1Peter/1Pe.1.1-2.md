@@ -1,0 +1,16 @@
+#### 圖析 (1Pe 1:1-2)
+
+
+- <rt>1:1a</rt> (<RUBY><ruby><ruby>Πέτρος<rt>Πέτρος</rt></ruby><rt>Peter</rt></ruby><rt>N-NSM-P</rt></RUBY> =«<RUBY><ruby><ruby>ἀπόστολος<rt>ἀπόστολος</rt></ruby><rt>an apostle</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>» )S (<RUBY><ruby><ruby><mark>Ἐκλεκτοῖς°¹</mark><rt>ἐκλεκτός</rt></ruby><rt>To [the] elect</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>παρεπιδήμοις<rt>παρεπίδημος</rt></ruby><rt>sojourners</rt></ruby><rt>A<strong><font color='red'>⁞N</font></strong>-DPM</rt></RUBY> «<RUBY><ruby><ruby>Διασπορᾶς<rt>διασπορά</rt></ruby><rt>of [the] Dispersion</rt></ruby><rt>N-GSF</rt></RUBY> ‹<rt>1:1b</rt>› » )C
+	- <rt>1:1b</rt> <RUBY><ruby><ruby>Πόντου ,<rt>Πόντος</rt></ruby><rt>of Pontus</rt></ruby><rt>N-GSM-L</rt></RUBY> <RUBY><ruby><ruby>Γαλατίας ,<rt>Γαλατία</rt></ruby><rt>Galatia</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>Καππαδοκίας ,<rt>Καππαδοκία</rt></ruby><rt>Cappadocia</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>Ἀσίας<rt>Ἀσία</rt></ruby><rt>Asia</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Βιθυνίας<rt>Βιθυνία</rt></ruby><rt>Bithynia</rt></ruby><rt>N-GSF-L</rt></RUBY>
+	- <rt>1:2a</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πρόγνωσιν<rt>πρόγνωσις</rt></ruby><rt>[the] foreknowledge</rt></ruby><rt>N-ASF</rt></RUBY> «<RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρός<rt>πατήρ</rt></ruby><rt>[the] Father</rt></ruby><rt>N-GSM</rt></RUBY>» )°¹⮥
+	- <rt>1:2b</rt> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἁγιασμῷ<rt>ἁγιασμός</rt></ruby><rt>[the] sanctification</rt></ruby><rt>N-DSM</rt></RUBY> « <RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>of [the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY>» )°¹⮥
+	- <rt>1:2c</rt> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>unto</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑπακοὴν<rt>ὑπακοή</rt></ruby><rt>[the] obedience</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ῥαντισμὸν<rt>ῥαντισμός</rt></ruby><rt>sprinkling</rt></ruby><rt>N-ASM</rt></RUBY> «<RUBY><ruby><ruby>αἵματος<rt>αἷμα</rt></ruby><rt>of [the] blood</rt></ruby><rt>N-GSN</rt></RUBY> ‹<RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ ,<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> › » )°¹⮥
+- <rt>1:2d</rt> (<RUBY><ruby><ruby>Χάρις<rt>χάρις</rt></ruby><rt>Grace</rt></ruby><rt>N-NSF</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C ⦈(<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>εἰρήνη</rt></ruby><rt>peace</rt></ruby><rt>N-NSF</rt></RUBY>)S <RUBY><ruby><ruby><strong>πληθυνθείη . ¶</strong><rt>πληθύνω</rt></ruby><rt>may be multiplied</rt></ruby><rt>V-APO-3S</rt></RUBY>
+
+
+
+---
+[1Peter-Notes↵](1Peter-Notes.md)
+
+
