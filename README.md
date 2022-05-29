@@ -5,6 +5,7 @@
 [名言](Quotations.md)
 [慣用語](Idioms.md)
 [背誦金句](Memorize.md)
+[希臘文字型比較](Greek-Fonts.pdf)
 
 ### 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)
