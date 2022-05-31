@@ -68,7 +68,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 W<br>華 | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. <br>華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
 P<br>波 | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. <br>斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 DeSilva | DeSilva, David Arthur. _Galatians: A Handbook on the Greek Text_. BHGNT. Waco, Texas: Baylor University Press, 2014.
-
+Gupta | Gupta, Nijay, and Jonah Sandford. _Intermediate Biblical Greek Reader: Galatians and Related Texts_. Pennington ePress, George Fox University Libraries, 2018.
 ### 參考資料
 簡寫 | 出處
 :------:| --- 
