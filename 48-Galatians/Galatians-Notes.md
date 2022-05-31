@@ -11,9 +11,9 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 ### 原文特色
-- [加拉太書子句結構](加拉太書-Clause.md)
-- [加拉太書風格特色](加拉太書-Style.md)
-- [加拉太書詞彙分析](加拉太書-Vocabulary.md)
+- [加拉太書子句結構](Galatians-Clause.md)
+- [加拉太書風格特色](Galatians-Style.md)
+- [加拉太書詞彙分析](Galatians-Vocabulary.md)
 
 
 ### 句法筆記

@@ -1,0 +1,46 @@
+- Salutation 
+	- [Gal 1:1-5](Gal.1.1-5.md)
+- There is No Other Gospel
+	- [Gal 1:6-9](Gal.1.6-9.md)
+	- [Gal 1:10](Gal.1.10.md)
+- How Paul Became an Apostle
+	- [Gal 1:11-12](Gal.1.11-12.md)
+	- [Gal 1:13-17](Gal.1.13-17.md)
+	- [Gal 1:18-24](Gal.1.18-24.md)
+- Paul Accepted by the Other Apostles
+	- [Gal 2:1-10](Gal.2.1-10.md)
+- Paul Rebukes Peter at Antioch
+	- [Gal 2:11-14](Gal.2.11-14.md)
+- Jews, like Gentiles, are Saved by Faith
+	- [Gal 2:15-21](Gal.2.15-21.md)
+- Law or Faith
+	- [Gal 3:1-6](Gal.3.1-6.md)
+	- [Gal 3:7-14](Gal.3.7-14.md)
+- The Law and the Promise
+	- [Gal 3:15-20](Gal.3.15-20.md)
+- Slaves and Sons
+	- [Gal 3:21-22](Gal.3.21-22.md)
+	- [Gal 3:23-25](Gal.3.23-25.md)
+	- [Gal 3:26-29](Gal.3.26-29.md)
+	- [Gal 4:1-7](Gal.4.1-7.md)
+- Paul’s Concern for the Galatians
+	- [Gal 4:8-11](Gal.4.8-11.md)
+	- [Gal 4:12-19](Gal.4.12-19.md)
+- The Allegory of Hagar and Sarah
+	- [Gal 4:21-5:1](Gal.4.21-5.1.md)
+- Christian Freedom
+	- [Gal 5:2-6](Gal.5.2-6.md)
+	- [Gal 5:7-12](Gal.5.7-12.md)
+	- [Gal 5:13-15](Gal.5.13-15.md)
+- The Fruit of the Spirit and the Works of the Flesh
+	- [Gal 5:16-21](Gal.5.16-21.md)
+	- [Gal 5:22-26](Gal.5.21-26.md)
+- Bear One Another’s Burdens
+	- [Gal 6:1-10](Gal.6.1-10.md)
+- Final Warning and Benediction
+	- [Gal 6:11-16](Gal.6.11-16.md)
+	- [Gal 6:17](Gal.6.17.md)
+	- [Gal 6:18](Gal.6.18.md)
+
+---
+[加拉太書希臘文筆記 ↵](Galatians-Notes.md)
