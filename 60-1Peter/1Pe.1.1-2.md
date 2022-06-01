@@ -14,4 +14,4 @@
 [1Peter-Notes↵](1Peter-Notes.md)
 
 
-[^1]: BDAG s.v. "παρεπίδημος" : **pert. to staying for a while in a strange or foreign place**, *sojourning, residing temporarily* in our lit. subst.；[BAGD 中文](https://bible.fhl.net/new/s.php?N=0&k=03927&m=)：在異地暫時「逗留的，寄居的」。新約中僅作實名詞
+[^1]: BDAG s.v. "παρεπίδημος" : **pert. to staying for a while in a strange or foreign place**, *sojourning, residing temporarily* in our lit. subst.；[BAGD 中文](https://bible.fhl.net/new/s.php?N=0&k=03927&m=)：在異地暫時「逗留的，寄居的」。新約中僅作實名詞 ⇒ 與強調「時間」
