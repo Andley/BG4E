@@ -2,7 +2,7 @@
 
   
 
-- <rt>1:10a</rt> (<RUBY><ruby><ruby>Περὶ<rt>περί</rt></ruby><rt>Concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἧς<rt>ὅς, ἥ</rt></ruby><rt>this</rt></ruby><rt>R-GSF</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας<rt>σωτηρία</rt></ruby><rt>salvation</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ἐξεζήτησαν°¹</strong></mark><rt>ἐκζητέω</rt></ruby><rt>sought out</rt></ruby><rt>V-AAI-3P</rt></RUBY> ...προφῆται...
+- <rt>1:10a</rt> (<RUBY><ruby><ruby>Περὶ<rt>περί</rt></ruby><rt>Concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἧς[^1]<rt>ὅς, ἥ</rt></ruby><rt>this</rt></ruby><rt>R-GSF</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας<rt>σωτηρία</rt></ruby><rt>salvation</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ἐξεζήτησαν°¹</strong></mark><rt>ἐκζητέω</rt></ruby><rt>sought out</rt></ruby><rt>V-AAI-3P</rt></RUBY> ...προφῆται...
 - <rt>1:10b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark><strong>ἐξηραύνησαν°¹</strong></mark><rt>ἐξερευνάω</rt></ruby><rt>searched out diligently</rt></ruby><rt>V-AAI-3P</rt></RUBY> (<RUBY><ruby><ruby><mark>προφῆται°²</mark><rt>προφήτης</rt></ruby><rt>[the] prophets</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NPM</rt></RUBY> «<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> ‹<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>toward</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY> › <RUBY><ruby><ruby>χάριτος<rt>χάρις</rt></ruby><rt>grace</rt></ruby><rt>N-GSF</rt></RUBY> » <RUBY><ruby><ruby><em>προφητεύσαντες</em><rt>προφητεύω</rt></ruby><rt>having prophesied</rt></ruby><rt>V-AAP-NPM</rt></RUBY>)S
 	- <rt>1:11a</rt> { <RUBY><ruby><ruby><em>ἐραυνῶντες</em><rt>ἐρευνάω</rt></ruby><rt>inquiring</rt></ruby><rt>V-PAP-NPM</rt></RUBY> (<rt>1:11b</rt>)c }A°¹
 		- <rt>1:11b</rt> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τίνα<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASM<strong></strong></rt></RUBY> <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ποῖον<rt>ποῖος</rt></ruby><rt>what manner of</rt></ruby><rt>I-ASM</rt></RUBY> <RUBY><ruby><ruby>καιρὸν<rt>καιρός</rt></ruby><rt>time</rt></ruby><rt>N-ASM</rt></RUBY>)A<RUBY><ruby><ruby><mark><strong>ἐδήλου°³</strong></mark><rt>δηλόω</rt></ruby><rt>was signifying</rt></ruby><rt>V-IAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> «<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς<rt>αὐτός</rt></ruby><rt>them</rt></ruby><rt>P-DPM</rt></RUBY>» <RUBY><ruby><ruby>Πνεῦμα<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)S 
@@ -16,8 +16,5 @@
 ---
 [1Peter-Notes↵](1Peter-Notes.md)
 
-Porter p.250 Internal referent & p.253 Incorporation
-ATR pp. 718-21 Incorporation
-BDF §294.5 Incorporation
-Culy Internally-Headed Relative Clause (IHRC)
 
+[^1]: 指向 1:9b σωτηρίαν ψυχῶν。
