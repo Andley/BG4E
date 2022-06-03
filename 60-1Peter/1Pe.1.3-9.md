@@ -34,4 +34,4 @@
 
 
 ---
-[1Peter-Notes↵](1Peter-Notes.md)
+[彼得前書希臘文筆記↵](1Peter-Notes.md)
