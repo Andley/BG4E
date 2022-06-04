@@ -49,6 +49,7 @@
 	- [Clauses (子句) §61](§61.md)
 	- [Relative Clause](Relative%20Clause.md)
 	- [Sentence (句子) §62](§62.md)
+	- [Hyperbaton](Hyperbaton.md)
 - Part VI 段落與話語篇章 (Paragraph and Discourse) §600
 	- [[discourse is more than]]
 	- [[information strucutre]]
