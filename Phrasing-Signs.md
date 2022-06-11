@@ -12,28 +12,8 @@
  ( ... « ... ‹ ... › ... » ... )  | 詞組、片語之內的大中小括弧 
 { ... } | 內嵌子句
  ◖、◗ | 片語 or 子句的前半段、後半段
-
-	[
-
-U+20DB
-[
-
-U+2299
-
-⊙
-
-`&odot;`
-
-HTML5
-
-](https://www.compart.com/en/unicode/U+2299)
-◌⃛
-
-`&tdot;`
-
-HTML5
-
-](https://www.compart.com/en/unicode/U+20DB)
+…A⬎
+...
 
 功能 (function) 的符號  | 含意
 :---: | :----: 
