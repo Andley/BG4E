@@ -29,22 +29,22 @@ For some reason, perhaps because of an oversight, or perhaps because the editors
 
 | Unicode | Basic codepoint | extended codepoint |
 |---------|-----------------|--------------------|
-| ά       | 03AC            | 1F71               |
-| έ       | 03AD            | 1F73               |
-| ή       | 03AE            | 1F75               |
-| ί       | 03AF            | 1F77               |
-| ό       | 03CC            | 1F79               |
-| ύ       | 03CD            | 1F7B               |
-| ώ       | 03CE            | 1F7D               |
-| Ά       | 386             | 1FBB               |
-| Έ       | 388             | 1FC9               |
-| Ή       | 389             | 1FCB               |
-| Ί       | 038A            | 1FDB               |
-| Ό       | 038C            | 1FF9               |
-| Ύ       | 038E            | 1-Feb              |
-| Ώ       | 038F            | 1FFB               |
-| ΐ       | 390             | 1FD3               |
-| ΰ       | 03B0            | 1FE3               |
+| ά       | \u03AC            | \u1F71               |
+| έ       | \u03AD            | \u1F73               |
+| ή       | \u03AE            | \u1F75               |
+| ί       | \u03AF            | \u1F77               |
+| ό       | \u03CC            | \u1F79               |
+| ύ       | \u03CD            | \u1F7B               |
+| ώ       | \u03CE            | \u1F7D               |
+| Ά       | \u0386             | \u1FBB               |
+| Έ       | \u0388             | \u1FC9               |
+| Ή       | \u0389             | \u1FCB               |
+| Ί       | \u038A            | \u1FDB               |
+| Ό       | \u038C            | \u1FF9               |
+| Ύ       | \u038E            | \u1FEB              |
+| Ώ       | \u038F            | \u1FFB               |
+| ΐ       | \u0390             | \u1FD3               |
+| ΰ       | \u03B0            | \u1FE3               |
 
 
 There is no semantic difference between, for example, ά and ά (both alpha-oxia), so in most cases you don't need to worry about this. Your [Greek Keyboards (Unicode)](https://wiki.digitalclassicist.org/Greek_Keyboards_(Unicode) "Greek Keyboards (Unicode)") will make a decision and input one or the other. A search engine should be able to find both from either input (just as they should be able to strip diacritics altogether from a search term, if desired).
