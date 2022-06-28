@@ -26,7 +26,7 @@
 - **ἰησοῦς** (917) —— ἐκ (914) —— ἐκ ἐξ before vowels) prep. with gen. from, out from, away from; by, by means of, by reason of, because; for; on, at; of
 - **ἐπί** (890) —— ἐπί prep. with: (1) gen. on, upon; over; at, by; before, in the presence of; when, under, at the time of; in the passage about (Mk 12.26; Lk 20.37); ἐπί or ἐπί στοματος on the evidence of (Mt 18.16; 2 Cor 13.1; 1 Tm 5.19); (2) dat. on, at, in; with, by near; over; because of, on the basis of; to, for; against; in addition to; about, concerning; of, from (rarely); after (Lk 1.59); (3) acc. on, upon; in; against; over; to, for; around, about, concerning; towards; among (rarely); ἐπί τὸ αὐτο together; ἐφ ὅσον χρόνον while, as long as; ἐπὶ τοῦτο for this purpose (Lk 4.43)
 
-#### 出現次數 600~800x (9 個字)
+#### 出現次數 560~800x (10 個字)
 
 - **κύριος** (716) —— κύριος , ου m Lord (of God and Christ); master, lord, owner; sir (of address)
 - **ἔχω** (708) —— ἔχω (impf. εἶχον ; fut. ἕξω ; aor. ἔσχον , subj. σχῶ ; pf. ἔσχηκα) trans. have, hold, possess; keep; receive, get; regard, consider, think; can, be able, must (with inf.); be married to; wear (of clothes); be situated ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away Ac 1.12); τὸ νῦν ἔχον for the present (Ac 24.25); intrans. be, feel; impers. it is ( οὕτως ἔχει it is so); midd. ptc. next, neighboring ( τῇ εχομένῃ the next day Lk 13.33)
@@ -37,10 +37,10 @@
 - **ἀπό** (646) —— ἀπό prep. with gen. from; away from; by means of; of; because of, as a result of; since, ever since; about, for; with; ἀπὸ μιᾶς πάντες one after another, one and all (Lk 14.18)
 - **ἀλλά** (638) —— ἀλλά conj. but, rather, on the contrary; with καί , γε καί , ἤ , or οὐδέ adds emphasis or contrast; not only this but also (2 Cor 7.11)
 - **ἔρχομαι** (632) —— ἔρχομαι (imperf. ἠρχόμην , fut. ἐλεύσομαι ; aor. ἦλθον and ἦλθα , inf. ἐλθεῖν ; pf. ἐλήλυθα) come ( εἰς τὸ χεῖρον ἐ. grow worse Mk 5.26); appear, make an appearance; go; return (Jn 4.27, 30; Ro 9.9); be brought (Mk 4.21); ἐ. εἰς προκοπήν help the progress (Php 1.12)
-
-#### 出現次數 450~600x (10 個字)
-
 - **ποιέω** (568) —— ποιέω (unaugmented plpf. 3 pl. πεποιήκεισαν) make, do, cause, effect, bring about, accomplish, perform, provide; create (of God); produce, yield, bear, put forth; give, prepare, keep, celebrate (of feasts, etc.); claim, pretend (to be somebody); show (mercy, etc.); work, be active; live, practice, act ( καλῶς π. do good, act benevolently or kindly); spend, stay (of time); exercise (authority); wage (war); execute (judgment); give (alms); appoint (Mk 3.14; He 3.2); consider, count (Ac 20.24); often with a noun as a verb equivalent, e.g. π. δέησιν pray (Lk 5.33); π. τὸ ἱκανόν please, satisfy (Mk 15.15); π. λύτρωσιν redeem, set free (Lk 1.68)
+
+#### 出現次數 425~560x (10 個字)
+
 - **τίς** (555) —— τίς , τί gen. τίνος dat. τίνι acc. τίνα , τί interrog. pro. and adj. who? which? what? what sort of? τί , διὰ τί , εἰς τί , τί ὅτι why?for what reason or purpose? τί γάρ , τί οὖν why then? ( τί γάρ λοω 1 Cor 7.16); τί ἡμῖν ῾εμοι καὶ σοί what have you to do with us (me)? κατὰ τί how? (Lk 1.18); τί θέλω εἰ would that, how I wish that (Lk 12.49)
 - **ἄνθρωπος** (550) —— ἄνθρωπος , ου m man, human being, person, one (friend, sir, man in address); pl. people; mankind, humanity ( κατὰ ἄ. according to human standards); husband (Mt 19.10); son (Mt 10.35); servant (Lk 12.36)
 - **τὶς** (534) —— τὶς , τὶ gen. τινός dat. τινί acc. τινά , τὶ enclitic pro. and adj. anyone, anything; someone, something; any, some, a certain, several; ἐάν τις (τι), εἴ τις (τι) whoever (whatever); εἶναί τις (τι) be someone (something) of importance
@@ -50,10 +50,10 @@
 - **οὖν** (498) —— οὖν therefore, then; thus, so, accordingly
 - **κατά** (473) —— κατά prep. with: (1) acc. according to, corresponding to, with reference to, just as ( τὰ κ. τινα one's case or circumstances; κ. τὰ αὐτά so, in the same way; κ. ἐμέ my; κ. τὸ αὐτό together Ac 14.1; κ. τί how Lk 1.18); used distributively with numerals and places; in; for; for the purpose of; at, about, (of time); on, upon, along, through, to, toward; off, opposite, near, bordering on; with, by means of, because of; (2) gen. against; down, down from; throughout; by (of oaths) ; over (of authority)
 - **μετά** (469) —— μετά prep. with: (1) gen. with, in company with, among; by, in; on the side of; against; (2) acc. after, behind ( μετὰ τό with inf. after)
-
-#### 出現次數 340~450x (10 個字)
-
 - **ἀκούω** (428) —— ἀκούω (pf. ἀκήκοα ; aor. pass. ptc. ἀκουσθείς) hear; receive news of; give heed to; understand; recover one's hearing; give a judicial hearing (Jn 7.51; Ac 25.22)
+
+#### 出現次數 333~425x (10 個字)
+
 - **πολύς** (416) —— πολύς , πολλή , πολύ gen. πολλοῦ , ῆς , οῦ (1) much, many (of great crowds; loud mourning; plentiful harvest; deep soil; late hour; long time; etc.); (2) πολλά many things; adv. often, frequently; strictly; insistently; strongly; hard; heartily; etc.; πολύ much, greatly ( ἐπὶ π. a long time Ac 28.6; μετ οὐ π. soon Ac 27.14; π. μᾶλλον much more, all the more He 12.9, 25); πολλῷ μᾶλλον much more, all the more; πολλῷ πλείους many more (Jn 4.41); πολλοῦ for a large sum (Mt 26.9)
 - **δίδωμι** (415) —— δίδωμι (διδῶ Re 3.9) (3 pl. διδόασιν , impv. 2 sg. δίδου , inf. διδόναι , ptc. διδούς ; impf. 3 sg. ἐδίδου , 3 pl. ἐδίδουν and ἐδίδοσαν ; fut. δώσω ; aor. ἔδωκα , subj. 3 sg. δῷ , δοῖ and δώῃ , opt. 3 sg. δῴη , impv. δός , inf. δοῦναι , ptc. δούς ; pf. δέδωκα ; pf. pass. δέδομαι ; plpf. ( ἐ) δεδώκειν ; aor. pass. ἐδόθην , ptc. δοθείς ; fut. pass. δοθήσομαι) give; grant, allow, permit; place, put; appoint; establish; give out, pay; produce, yield, cause; entrust; bring (offerings); inflict (punishment); δ. ἑαυτόν venture to go (Ac 19.31); cf. ἐργασία (Lk 12.58)
 - **πατήρ** (413) —— πατήρ , πατρός m father (sometimes as an honorary title for a noted person); Father (of God); forefather, ancestor
@@ -63,11 +63,11 @@
 - **εἷς** (345) —— εἷς , μία , ἕν gen. ἑνός , μιᾶς , ἑνός one; a, an, single; only one; εἷς τις = τις a certain one, someone, one; εἷς τὸν ἕνα one another (1 Th 5.11); καθ ἕνα one by one (1 Cor 14.31)
 - **ἀδελφός** (343) —— ἀδελφός , οῦ m brother; fellow believer; fellow countryman, fellowman
 - **ἤ** (343) —— ἤ particle or ( ἢ ... ἤ either ... or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
-
-
-#### 出現次數 250~340x (10 個字)
-
 - **ἐάν** (333) —— ἐάν conj. if; even if, though; when; sometimes equivalent to ἄν e*.g. Mt 5.19); ἐὰν μή unless; ἐάνπερ if only
+
+
+#### 出現次數 243~333x (10 個字)
+
 - **περί** (333) —— περί prep. with: (1) gen. about, concerning, of, with reference to; for; on account of ( π. ἁμαρτίας often sin offering); (2) acc. around, about; near; of, with reference to, regarding ( οἱ π. τὰ τοιαῦτα ἐργάται workmen of the same trade Ac 19.25; τὰ π. ἐμέ how I stand Php 2.23); with, in company with
 - **λόγος** (330) —— λόγος , ου m something said e*.g. word; saying; message, teaching; talk, conversation; question after ἐρωτάω ; preaching 1 Tm 5.17; πολὺς ἡμῖν ὁ λόγος we have much to say He 5.11); Word (in Johannine Christology); account, settlement of an account ( πρὸς ὃν ἡμῖν ὁ λόγος to whom we must render an account He 4.13); value (Ac 20.24); reason, grounds ( κατὰ λόγον reasonably, patiently Ac 18.14); charge (Ac 19.38); matter, thing (Ac 8.21); book (Ac 1.1)
 - **ἑαυτοῦ** (319) —— ἑαυτοῦ , ῆς , οῦ (not used in nominative) reflexive pro. himself, herself, itself, themselves; possessive pro. his, hers, etc.; reciprocal pro. one another, each other; τὸ ἑαυτοῦ one's own interest or advantage
@@ -77,10 +77,10 @@
 - **μαθητής** (261) —— μαθητής , οῦ m disciple, pupil, follower
 - **λαμβάνω** (258) —— λαμβάνω (fut. λήμψομαι ; aor. ἔλαβον , inf. λαβεῖν , ptc. λαβών , opt. 3 sg. λάβοι ; pf. εἴληπται) take, take hold of; receive, get, obtain; take away, remove; collect (of taxes, etc.); choose (He 5.1); put on (Jn 13.12); catch (Lk 5.5); trap, take advantage of (2 Cor 11.20; 12.16)
 - **γῆ** (250) —— γῆ , γῆς f the earth; land, country, region; soil, ground; mankind
-
-#### 出現次數 220~250x (10 個字)
-
 - **ἐκεῖνος** (243) —— ἐκεῖνος , η , ο demon. adj. that; he, she, it
+
+#### 出現次數 218~243x (10 個字)
+
 - **μέγας** (243) —— μέγας , μεγάλη , μέγα large, great (of a loud sound; strong wind; high fever; etc.); greatest; surprising (2 Cor 11.15)
 - **πίστις** (243) —— πίστις , εως f faith, trust, belief; the Christian faith; conviction, good conscience (Ro 14.22, 23); perhaps body of faith, doctrine (Jd 3, 20); assurance, proof (Ac 17.31); promise (1 Tm 5.12)
 - **πιστεύω** (241) —— πιστεύω believe (in), have faith (in) (with God or Christ as object); believe, believe in; have confidence (in someone or something), entrust (something to another); ὅς μὲν π. φαγεῖν πάντα one man's faith allows him to eat anything (Ro 14.2)
@@ -90,10 +90,10 @@
 - **ὄνομα** (229) —— ὄνομα , τος n name ( κατ ὄ. by name); title; person; authority, power; status, category e*. g. εἰς ὄ. προφήτου because he is a prophet; ἐν ὀ. ὅτι Χριστοῦ ἐστε because you are followers of Christ Mk 9.41); reputation (Mk 6.14; Re 3.1)
 - **γινώσκω** (222) —— γινώσκω (fut. γνώσομαι ; aor. ἔγνων , impv. γνῶθι , γνώτω , subj. 3 sg. γνῷ ανδ γνοῖ , inf. γνῶναι , ptc. γνούς ; pf. ἔγνωκα ; plpf. ἐγνώκειν ; aor. pass. ἐγνώσθην ; fut. pass. γνωσθήσομαι) know, have knowledge of (of sexual relations Mt 1.25; Lk 1.34); find out, learn, understand; perceive, discern; to have knowledge; acknowledge, recognize; impv. be very certain, remember
 - **ὑπό** (220) —— ὑπό prep. with: (1) gen. by, by means of; at the hands of; (2) acc. under, below; under the authority of; ὑπὸ τὸν ὄρθρον at daybreak (Ac 5.21)
-
-#### 出現次數 195~220x (9 個字)
-
 - **ἐξέρχομαι** (218) —— ἐξέρχομαι (fut. ἑξελεύσομαι ; aor. ἐξῆλθον ; pf. ἐξελήλυθα) come or go out or forth; get out, escape, get away; originate ( ἐ. ἐκ τῆς ὀσφύος descend from He 7.5); be gone, disappear (Ac 16.19)
+
+#### 出現次數 194~218x (10 個字)
+
 - **ἀνήρ** (216) —— ἀνήρ , ἀνδρός m man; husband ( ἔχω ἀ. or γινώσκω ἀ. be a married woman); person
 - **γυνή** (215) —— γυνή , αικός f woman, wife
 - **τέ** (215) —— τέ enclitic particle and; and so, so; τὲ...τέ or τὲ ... δέ both ... and, not only ... but also
@@ -102,11 +102,11 @@
 - **οὕτως** (208) —— οὕτως see οὕτω
 - **ἰδού** (200) —— ἰδού Look! See! Listen!; there or here is (are), there or here was (were); there or here comes (came); then, suddenly; even, yet (of emphasis)
 - **ἰουδαῖος** (195) —— εἰσέρχομαι (194) —— εἰσέρχομαι (fut. εἰσελεύσομαι ; aor. εἰσῆλθον ; pf. εἰσελήλυθα) come or go (in or into), enter; have part in, share in; fall into (temptation); arise (of arguments); εις. καὶ ἐξέρχομαι live among
-
-#### 出現次數 175~195x (10 個字)
-
 - **νόμος** (194) —— νόμος , ου m law (often of the Jewish sacred tradition; ὁ νόμος καὶ οἱ προφῆται the Old Testament; νόμος τοῦ ἀνδρὀς marriage law Ro 7.2); principle, rule
 - **παρά** (194) —— παρά prep. with: (1) gen. from, of ( τὰ παρά τινος one's provisions, money or gift; οἱ παρ αὐτοῦ his family Mk 3.21); by, with; (2) dat. with, in the presence of, before; in the judgment of; near, beside; for; (3) acc. beside, by, at; on, along; to; than, more than, above; rather than; contrary to; παρὰ τοῦτο because of this (1 Cor 12.15, 16); παρὰ μίαν less one (2 Cor 11.24)
+
+#### 出現次數 169~194x (10 個字)
+
 - **γράφω** (191) —— γράφω (pf. γέγραφα ; pf. pass. 3 sg. γέγραπται ; aor. pass. ἐγράφην) write; record, compose; sign one's name (2 Th 3.17); cover with writing (Re 5.1)
 - **κόσμος** (186) —— κόσμος , ου m world, world order, universe; world inhabitants, mankind especially of men hostile to God); world, realm of existence, way of life especially as opposed to the purpose of God); adornment (1 Pe 3.3)
 - **καθώς** (182) —— καθώς adv. as, just as; inasmuch as, because; in so far as, to the degree that; how, that (of indirect discourse)
@@ -115,11 +115,11 @@
 - **εὑρίσκω** (176) —— εὑρίσκω (impf. εὑ- and ηὑ- ; fut. εὑρήσω ; aor. εὗρον , opt. 3 pl. εὕροιεν ; pf. εὕρηκα ; aor. pass. εὑρέθην ; fut. pass. εὑρεθήσομαι) find, discover, come upon; obtain, secure, receive; pass. be found, be, appear; εὑ. εἰς θάνατον proved to mean death (Ro 7.10)
 - **ἄγγελος** (175) —— ἄγγελος , ου m angel; messenger, one who is sent
 - **ὄχλος** (175) —— ὄχλος , ου m crowd, multitude; (common) people; mob
-
-#### 出現次數 156~175x (12 個字)
-
 - **ἁμαρτία** (173) —— ἁμαρτία , ας f sin ( ἔχω ἁ. be sinful); περὶ ἁ. often sin offering
 - **ἔργον** (169) —— ἔργον , ου n work, deed, action; task, occupation, undertaking; practical expression; handiwork, workmanship (1 Cor 9.1); perhaps effect, result or product (Jas 1.4)
+
+#### 出現次數 156~169x (10 個字)
+
 - **ἄν** (166) —— ἄν particle indicating contingency in certain constructions
 - **δόξα** (166) —— δόξα , ης f glory, splendor, grandeur (in gen. often glorious); power, kingdom; praise, honor; pride ( δόξα καὶ χαρά pride and joy 1 Th 2.20); brightness, brilliance; revealed presence of God, God himself; heaven (1 Tm 3.16); glorious heavenly being (2 Pe 2.10; Jd 8); δὸς δόξαν τῷ θεῷ promise before God to tell the truth (Jn 9.24)
 - **βασιλεία** (162) —— βασιλεία , ας f reign, rule; kingdom, domain ( λαβεῖν β. to be made king Lk 19.12, 15)
@@ -132,7 +132,7 @@
 - **πέτρος** (156) —— Πέτρος , ου m Peter
 
 
-### Top 101~
+### Top 101~200
 #### 出現次數 146~156x (10 個字)
 
 - **ἄλλος** (155) —— ἄλλος , η , ο another, other ( ἄλλος ... ἄλλος one ... another); more, additional
@@ -186,7 +186,7 @@
 - **ζητέω** (117) —— ζητέω seek, search or look for; try, attempt, strive for ( ζ. τὸ ἐμαυτοῦ or ζ. τὰ ἐμαυτοῦ strive for one's own interest or advantage); want, ask, ask for; demand, require, expect; consider, deliberate, examine investigate
 - **ἀγάπη** (116) —— ἀγάπη , ης f love (primarily of Christian love); concern, interest; sacred meal shared by the early Church (Jd 12)
 
-#### 出現次數 110~116x (9 個字)
+#### 出現次數 109~116x (10 個字)
 
 - **βασιλεύς** (115) —— βασιλεύς , έως m king
 - **ἐκκλησία** (114) —— ἐκκλησία , ας f church, congregation; assembly, gathering (of religious, political, or unofficial groups)
@@ -197,11 +197,11 @@
 - **ὁράω** (113) —— ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
 - **ἀποθνῄσκω** (110) —— ἀποθνῄσκω (fut. ἀποθανοῦμαι ; aor. ἀπέθανον) die; face death, be at death's door; be mortal
 - **ὅσος** (110) —— ὅσος , η , ον correlative pro. as much as, how much; as great as, how great; as far as, how far; whoever ( = ὅσος ἄν , ὅσος ἐάν); pl. as many as, all, everyone; ἐφ ὅσον inasmuch as, while; καθ ὅσον just as, as ( καθ ὅσον ... κατὰ τοσοῦτο or ὅσα ... τοσοῦτον to the degree that ... to the same degree; κατὰ πάντα ὅσα ἄν whatever Ac 3.22); ὅσῳ as, just as, to the degree that (He 8.6); ὅσον ... μᾶλλον περισσὀτερον the more ... the more (Mk 7.36); τοσούτῳ ... ὅσῳ ῾βψ as much ... as (He 1.4); ὅσον χρὀνον as long as (Mk 2.19); ἔτι γὰρ μικρὸν ὅσον ὅσον for in a very short while (He 10.37)
-
-
-#### 出現次數 103~110x ( 個字)
-
 - **ἀλήθεια** (109) —— ἀλήθεια , ας f truth, truthfulness; reality; ἐπ ἀ. or ἐν ἀ. often truly, to be sure; ἀληθείᾳ with right motives (Php 1.18)
+
+
+#### 出現次數 102~109x (10 個字)
+
 - **μέλλω** (109) —— μέλλω (before an inf.) be going, be about, intend; must, be destined; (ptc. without inf.) coming, future; (finite verb without inf.) delay, wait ( τί μέλλεις what are you waiting for? Ac 22.16)
 - **ὅλος** (109) —— ὅλος , η , ον whole, all, complete, entire ( δῖ ὅλου throughout); altogether, wholly (Jn 9.34; 13.10)
 - **παρακαλέω** (109) —— παρακαλέω (pf. pass. παρακέκλημαι ; aor. pass. παρεκλήθην , subj. παρακληθῶ ; fut. pass. παρακληθήσομαι) beg, urge; encourage, speak words of encouragement; request, ask, appeal to; console, comfort, cheer up; invite, summon
@@ -211,10 +211,11 @@
 - **ὅτε** (103) —— ὅτε conj. when, at which time; while, as long as
 - **πῶς** (103) —— πῶς interrog. particle how? in what way? how is it possible?
 - **ψυχή** (103) —— ψυχή , ῆς f self, inner life, one's inmost being; (physical) life; that which has life, living creature, person, human being
-
-
-
 - **ἀγαθός** (102) —— ἀγαθός , ή , όν good; useful, satisfactory for one's (its) purpose, fitting, beneficial; sound (of trees), fertile (of soil), happy (of days); in a moral sense upright, just; kind, generous; clear (of conscience); perfect, inherently good (of God); τὸ ἀγαθόν the good, what is good; what is right or upright; what is beneficial or advantageous; τὰ ἀγαθά goods, possessions; good things (Lk 16.25); good deeds (Jn 5.29)
+
+
+#### 出現次數 98~102x (10 個字)
+
 - **ἐξουσία** (102) —— ἐξουσία , ας f authority, right, liberty; ability, capability; supernatural power; ruling power, government, official; jurisdiction (Lk 23.7); disposal (Ac 5.4); ἐ. ἐχειν ἐπὶ τῆς κεφαλῆς have a covering on her head (perhaps as a symbol of subjection to her husband's authority 1 Cor 11.10)
 - **αἴρω** (101) —— αἴρω (fut. 3 sg. ἀρεῖ ; aor. ἦρα , inf. ἆραι ; pf. ἦρκα ; pf. pass. ἦρμαι ; aor. pass. ἤρθην ; fut. pass. ἀρθήσομαι) take, take up; take away, remove ( αἴ. ἐκ τοῦ μέσου set aside Col 2.14); carry; sweep away (of a flood); raise (of one's voice); take over, conquer (Jn 11.48); kill (Jn 19.15); αἴ. τήν ψυχήν keep in suspense (Jn 10.24)
 - **δεῖ** (101) —— δεῖ (subj. δέῃ , inf. δεῖν , ptc. δέον ; impf. ἔδει) impers. be necessary, must; should, ought; be proper; impf. had to, should have
@@ -225,6 +226,10 @@
 - **τίθημι** (100) —— τίθημι (3 pl. τιθέασιν , ptc. τιθείς ; impf. 3 sg. ἐτίθει , 3 pl. ἐτίθουν and ἐτίθεσαν ; fut. θήσω ; aor. ἔθηκα , subj. θῶ , impv. 2 pl. θέτε , inf. θεῖναι , ptc. θείς ; pf. τέθεικα , ptc. τεθεικώς ; aor. midd. 2 sg. ἔθου , 3 pl. ἔθεντο , impv. 2 pl. θέσθε ; pf. pass. 3 sg. τέθειται ; aor. pass. ἐτέθην , subj. τεθώ , inf. τεθῆναι) put, place, lay, set ( τ. τὰ γόνατα kneel; τ. ἐν καρδίᾳ make up one's mind Lk 21.14); lay down, give up (one's life); lay aside, store up ( τ. παρ ἐμαυτῷ lay aside 1 Cor 16.2); make (someone something), appoint, destine ( τ. τὸ μέρος τινός assign one a place Mt 24.51; Lk 12.46); present, describe (by a parable); lay aside, remove (clothes); serve (wine); midd. put, place, lay, set ( τ. εἰς ὦτα keep in mind Lk 9.44; τ. ἐν καρδίᾳ keep in mind Lk 1.66; think of, decide Ac 5.4; τ. βουλήν advise, be in favor of Ac 27.12); make (someone something), appoint, destine; arrange (parts of the body); τ. ἐν τώ πνεύματι resolve, make up one's mind (Ac 19.21)
 - **τέκνον** (99) —— τέκνον , ου n child (my child in the vocative for familiar address); pl. descendants; posterity; people, inhabitants
 - **ἕτερος** (98) —— ἕτερος , α , ον other, another ( ἐν ἑτέρῳ in another passage Ac 13.35; He 5.6; γίνομαι ἕ. be altered or changed Lk 9.29; οὐδἑν ἕ. nothing else Ac 17.21); different strange ( σὰρξ ἕ. unnatural lust Jd 7); next ( τῇ ἑ. the next day Ac 20.15; 27.3)
+
+
+#### 出現次數 94~98x (10 個字)
+
 - **φαρισαῖος** (98) —— Φαρισαῖος , ου m Pharisee (member of a Jewish religious sect)
 - **αἷμα** (97) —— αἷμα , τος n blood; death; murder; σαρξ καὶ αἷμα man, human nature; ἐξ αἱμάτων through human procreation (Jn 1.13)
 - **ἄρτος** (97) —— ἄρτος , ου m bread, a loaf; food; ἄ. τῆς προθέσεως or πρόθεσις τῶν ἄ. cf. πρόθεσις
@@ -235,6 +240,10 @@
 - **φοβέω** (95) —— φοβέομαι trans. fear, be afraid of; fear, be afraid (to do something); fear, worship, reverence (God); respect (Eph 5.33); intrans. be afraid, be frightened
 - **ἐνώπιον** (94) —— ἐνώπιον prep. with gen. before, in the presence of, in front of; in the judgment of; among; ἁμαραρτάνω ἐ. sin against (Lk 15.18, 21)
 - **τόπος** (94) —— τόπος , ου m place, location, region, vicinity, spot ( κατὰ τόπους in various places; κατά τὸν τ. to that place Lk 10.32); station, position, office; chance, opportunity; (Jerusalem) temple; passage (of Scripture); seaport (Ac 27.2)
+
+
+#### 出現次數 90~94x (10 個字)
+
 - **ἔτι** (93) —— ἔτι adv. still, yet ( οὐκ ἔτι no longer; οὐδὲ ἔτι νῦν not even yet 1 Cor 3.2); even; further, in addition, moreover ( τίς ἔτι χρεία what further need? He 7.11)
 - **οἰκία** (93) —— οἰκία , ας f house, home, property; family, household
 - **πούς** (93) —— πούς , ποδός m foot (of the body); perhaps leg (Re 10.1)
@@ -245,6 +254,10 @@
 - **ἀκολουθέω** (90) —— ἀκολουθέω follow, accompany; be a disciple
 - **ἀπόλλυμι** (90) —— ἀπόλλυμι (fut. ἀπολέσω and ἀπολῶ ; aor. ἀπώλεσα , subj. 3 sg. ἀπολέσῃ , inf. ἀπολέσαι ; pf. ptc. ἀπολωλώς ; fut. midd. ἀπολοῦμαι ; aor. midd. ἀπωλόμην) destroy; kill; lose; midd. be lost, perish, be ruined; die; pass away (He 1.11); pf. ptc. lost
 - **μηδείς** (90) —— μηδείς , μηδεμία , μηδέν (1) no one, nothing; (2) adj. no; (3) μηδέν adv. not at all, in no way
+
+
+#### 出現次數 83~94x (10 個字)
+
 - **πίπτω** (90) —— πίπτω (fut. πεσοῦμαι ; aor. ἔπεσα , inf. πεσεῖν , ptc. πεσών ; pf. πέπτωκα , 2 sg. πέπτωκες) fall, fall down; fall to one's ruin or destruction; fall to one's knees, bow (of worship); be done away with, come to an end (Lk 16.17; 1 Cor 13.8); die (Lk 21.24; 1 Cor 10.8); strike, beat on (of the sun's heat); ἔπεσεν ὁ κλῆρος ἐπί the choice fell upon (Ac 1.26)
 - **ἑπτά** (88) —— ἑπτά seven
 - **οὔτε** (87) —— οὔτε adv. not, no, nor ( οὔτε ... οὔτε neither ... nor)
@@ -255,6 +268,12 @@
 - **προσεύχομαι** (85) —— προσεύχομαι pray
 - **κἀγώ** (84) —— κἀγώ (from καὶ ἐγώ) dat. κἀμοί acc. κἀμέ and I, but I; I also; I myself
 - **μήτηρ** (83) —— μήτηρ , τρος f mother
+
+
+### Top 201~310
+
+#### 出現次數 79~83x (10 個字)
+
 - **ὥστε** (83) —— ὥστε that, so that, with the result that; in order that, for the purpose of; therefore, thus, so, accordingly
 - **ἀναβαίνω** (82) —— ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)
 - **ἕκαστος** (82) —— ἕκαστος , η , ον each, every
@@ -265,9 +284,12 @@
 - **ἀπόστολος** (80) —— ἀπόστολος , ου m apostle; messenger
 - **μωϋσῆς** (80) —— Μωϋσῆς , έως m Moses
 - **δίκαιος** (79) —— δίκαιος , α , ον conforming to the standard, will, or character of God; upright, righteous, good; just, right; proper; in a right relationship with God; fair, honest; innocent
+
+#### 出現次數 76~79x (10 個字)
+
 - **πέμπω** (79) —— πέμπω send; commission, appoint
 - **ὑπάγω** (79) —— ὑπάγω go, go one's way; go away, depart ( ὕπαγε ὀπίσω μου get away from me Mt 16.23; Mk 8.33); go home; go back, return
-- **πονηρός** (78) —— πονηρός , ά , όν evil, bad, wicked, sinful; (noun evil person; Evil One [of the Devil]; τὸ π. what is evil, evil); guilty (of conscience); unsound e*ye); bad, worthless (of fruit); malignant or painful (of sores); ὀφθαλμὸς π. envy, jealousy (Mk 7.22)
+- **πονηρός** (78) —— πονηρός , ά , όν evil, bad, wicked, sinful; (noun evil person; Evil One [of the Devil]; τὸ π. what is evil, evil); guilty (of conscience); unsound eye); bad, worthless (of fruit); malignant or painful (of sores); ὀφθαλμὸς π. envy, jealousy (Mk 7.22)
 - **στόμα** (78) —— στόμα , τος n mouth ( ς. πρὸς ς. face to face 2 Jn 12; 3 Jn 14); word(s), utterance; power of speech ( ἀνεῴχθη δὲ τὸ ς. αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ and immediately his power of speech was restored Lk 1.64); eloquence, ability to speak with persuasion (Lk 21.15); evidence, testimony (Mt 18.16); edge (of a sword)
 - **ἀνοίγω** (77) —— ἀνοίγω (aor. ἀνέῳξα [ ἠνέῳξα and ἤνοιξα ]; pf. ἀνέῳγα ; pf. pass. ἀνέῳγμαι and ἠνέῳγμαι ; aor. pass. ἀνεῴχθην [ ἠνεῴχθην , ἠνοίχθην and ἠνοίγην ]) trans. open ( ἀ. τὸ στόμα speak, teach); restore, heal (of sight or hearing); intrans. (only in pf. ἀνέῳγα) open ( τὸ οτόμα ἡμῶν ἀ. πρὸς ὑμᾶς we have spoken frankly to you 2 Cor 6.11)
 - **βαπτίζω** (77) —— βαπτίζω baptize; wash
@@ -275,6 +297,9 @@
 - **ἐμός** (76) —— ἐμός , ή , όν possessive adj. my, mine
 - **εὐαγγέλιον** (76) —— εὐαγγέλιον , ου , n good news, gospel
 - **μαρτυρέω** (76) —— μαρτυρέω bear witness, testify, be a witness; attest, affirm, confirm; speak well of, approve (pass. be well spoken of, receive approval)
+
+#### 出現次數 73~76x (10 個字)
+
 - **πρόσωπον** (76) —— πρόσωπον , ου n face, countenance, appearance ( τὰ κατὰ π. what is before one's eyes 2 Cor 10.7; ἐν π. καυχῶμαι put on an outward show 2 Cor 5.12; π. τῆς γενέσεως one's natural face Jas 1.23); presence ( ἀπὸ π. from, from the presence of; κατὰ π. in the presence of, face to face; πρὸ π. before, ahead of; εἰς π. in the presence of 2 Cor 8.24); person ( λαμβάνω π. or βλέπω εἰς π. show favoritism; θαυμάζω π. flatter people Jd 16); surface (of the earth)
 - **ὕδωρ** (76) —— ὕδωρ , ὕδατος n water
 - **δώδεκα** (75) —— δώδεκα twelve
@@ -285,6 +310,10 @@
 - **χαίρω** (74) —— χαίρω (fut. χαρήσομαι ; aor. pass. ἐχάρην , inf. χαρῆναι) rejoice, be glad; χαῖρε , χαίρετε , χαίρειν greetings, etc. (of salutations)
 - **ἀβραάμ** (73) —— πίνω (73) —— πίνω (fut. πίομαι , 2 sg. πίεσαι ; aor. ἔπιον , subj. πίω , impv. πίε , inf. πιεῖν and πεῖν ; pf. πέπωκα) drink
 - **φῶς** (73) —— φῶς , φωτός n light (often with theological connotations); fire (Mk 14.54; Lk 22.56); ἐν τῷ φ. openly, publicly (Mt 10.27; Lk 12.3)
+
+
+#### 出現次數 67~73x (10 個字)
+
 - **αἰώνιος** (71) —— αἰώνιος , ον eternal (of quality rather than of time); unending, everlasting, for all time
 - **πῦρ** (71) —— πῦρ , ός n fire
 - **αἰτέω** (70) —— αἰτέω ask, request; require, demand
@@ -295,6 +324,10 @@
 - **σάββατον** (68) —— σάββατον , ου n (often in pl.; Jewish sacred day of worship and rest) the seventh day, Sabbath ( ἡμέρα σαββάτου the Sabbath day); week ( μία or πρώτη σαββάτων the first day of the week; κατὰ μίαν ς. on the first day of every week, every Sunday 1 Cor 16.2; δὶς τοῦ ς. twice a week Lk 18.12); ὁδὸς ς. cf. ὁδός
 - **ἐντολή** (67) —— ἐντολή , ῆς f commandment; command, order; instruction (Ac 17.15)
 - **πιστός** (67) —— πιστός , ή , όν faithful, trustworthy, reliable; believing (often believer, Christian; ὁ έκ περιτομῆς π. Jewish Christian Ac 10.45); sure, true, unfailing ( τὰ π. sure promises or blessings Ac 13.34)
+
+#### 出現次數 63~67x (10 個字)
+
+
 - **πλοῖον** (67) —— πλοῖον , ου n boat; ship, sailing vessel
 - **ἀπολύω** (66) —— ἀπολύω release, set free; send away; send off; divorce; forgive; midd. leave (Ac 28.25)
 - **καρπός** (66) —— καρπός , οῦ m fruit, grain; harvest; result, outcome; deed, action; return, gain, advantage; tribute, praise (of the lips); offspring (Lk 1.42) descendant (Ac 2.30)
@@ -305,6 +338,10 @@
 - **γραμματεύς** (63) —— γραμματεύς , έως m scribe, expert in the Jewish law (possibly with reference to Christians Mt 13.52; 23.34); town clerk (Ac 19.35); man of letters, scholar (1 Cor 1.20)
 - **δαιμόνιον** (63) —— δαιμόνιον , ου n demon, evil spirit; a god (Ac 17.18)
 - **ἔξω** (63) —— ἔξω (1) adv. out, outside; away; (2) prep. with gen. out of, outside; (3) ὁ ἔξω outsider, unbeliever; outer, physical (2 Cor 4.16); foreign (Ac 26.11)
+
+#### 出現次數 61~63x (10 個字)
+
+
 - **ἐρωτάω** (63) —— ἐρωτάω ask (a question); ask, request; beg, request urgently, urge
 - **ὄρος** (63) —— ὄρος , ους n mountain, hill, mount
 - **δοκέω** (62) —— δοκέω (aor. ἔδοξα) trans. think, suppose, consider, imagine; intrans. seem; be recognized, have a reputation (Mk 10.42; Ga 2.2, 6, 9); be disposed (1 Cor 11.16); impers. it seems, it seems good, proper or best
@@ -315,6 +352,9 @@
 - **δοξάζω** (61) —— δοξάζω praise, honor; glorify, exalt; pf. pass. ptc. glorious (1 Pe 1.8)
 - **ἤδη** (61) —— ἤδη adv. now, already; ἤδη ποτέ now at last
 - **κηρύσσω** (61) —— κηρύσσω proclaim, make known, preach
+
+#### 出現次數 59~61x (10 個字)
+
 - **νύξ** (61) —— νύξ , νυκτός f night
 - **ὧδε** (61) —— ὧδε adv. here, in this place ( πάντα τὰ ὧδε all that is happening here Col 4.9); here, to this place ( ἕως ὧδε here, to this place Lk 23.5); under these circumstances, in this case ( ὧδε λοιπόν moreover, in this connection 1 Cor 4.2)
 - **ἱμάτιον** (60) —— ἱμάτιον , ου n garment, clothing; coat, robe, cloak (of outer garments)
@@ -325,6 +365,9 @@
 - **διδάσκαλος** (59) —— διδάσκαλος , ου m teacher, rabbi
 - **εὐθύς** (59) —— εὐθύς , εῖα , ύ gen. έως straight; right, upright
 - **λίθος** (59) —— λίθος , ου m stone; precious stone; stone image (Ac 17.29)
+
+#### 出現次數 56~59x (10 個字)
+
 - **συνάγω** (59) —— συνάγω (aor. συνήγαγον , inf. συναγαγεῖν ; pf. pass. ptc. συνηγμένος ; aor. pass. συνήχθην ; fut. pass. συναχθήσομαι) gather; gather together, assemble, call together; welcome, receive as a guest (of strangers); catch (fish); store (Lk 12.17, 18); pass. often equivalent to intrans. gather, assemble, come together: meet
 - **χαρά** (59) —— χαρά , ᾶς f joy, gladness, happiness; cause or object of joy
 - **θεωρέω** (58) —— θεωρέω see; watch, look on, observe; perceive, notice; experience (death)
@@ -335,6 +378,9 @@
 - **μηδέ** (56) —— μηδέ negative particle nor, and not ( μηδὲ ... μηδέ neither ... nor); not even
 - **συναγωγή** (56) —— συναγωγή , ῆς f synagogue, Jewish place of worship (the same building was also used for judicial proceedings, e.g. Mt 10.17); congregation a synagogue; assembly, meeting (for worship)
 - **τρίτος** (56) —— τρίτος , η , ον adj. third ( ἐκ τ. for the third time Mt 26.44); τὸ τ. one-third, a third
+
+#### 出現次數 53~56x (10 個字)
+
 - **ἀρχή** (55) —— ἀρχή , ῆς f beginning, first ( τὴν ἀ. ὅ τι καὶ λαλῶ ὑμῖν what I have told you from the very beginning or why do I talk to you at all? Jn 8.25); origin, first cause; ruling power, authority, ruler (whether earthly or spiritual); what is elementary, elementary principle (He 5.12; 6.1); corner (of a cloth)
 - **κράζω** (55) —— κράζω (aor. in Ac 24.21 ἐκέκραξα ; pf. with pres. mng. κέκραγα) call out, cry out, shout
 - **λοιπός** (55) —— λοιπός , ή , όν (i) adj. rest, remaining, other; (2) adv. ( τὸ) λοιπόν finally; from now on, henceforth; still; beyond that, in addition; τοῦ λοιποῦ henceforth, in the future; finally; ὧδε λοιπόν moreover, in this connection
@@ -342,9 +388,13 @@
 - **δεξιός** (54) —— δεξιός , ά , όν right (opposite left); ἐν δ. , ἐκ δ. , ἐπὶ δ. at the right hand; δεξιὰς ἔδωκαν they shook hands (Ga 2.9); ὅπλον δ. weapon used to attack (2 Cor 6.7)
 - **εὐαγγελίζω** (54) —— εὐαγγελίζω act. and midd. bring the good news, preach the good news (sometimes preach the good news to, e.g. Ac 8.25); preach, proclaim; pass. hear the good news (of persons); be preached (of things)
 - **μαρία** (54) —— Μαρία , ας and Μαριάμ f Mary: (1) mother of Jesus; (2) sister of Martha and Lazarus; (3) Mary Magdalene; (4) mother of James and Joseph; (5) wife of Clopas (Jn 19.25); (6) mother of John Mark (Ac 12.12); (7) Christian in Ro 16.6
-- **οὐχί** (54) —— οὐχί e*mphatic form of οὐ) not; no, no indeed; used in questions when an affirmative answer is expected
+- **οὐχί** (54) —— οὐχί emphatic form of οὐ) not; no, no indeed; used in questions when an affirmative answer is expected
 - **χρόνος** (54) —— χρόνος , ου m time, extension or period of time ( ἐφ ὅσον χ. or ὅσον χ. as long as, while; ἐπὶ χ. or χρόνον τινά for a while Lk 18.5; 1 Cor 16.7; πρὸ χ. αἰωνίων or χ. αἰωνίοις before time began, from all eternity 2 Tm 1.9; Tt 1.2; Ro 16.25; πόσος χ. how long? Mk 9.21); time, moment of time, occasion; delay (Re 10.6)
 - **διό** (53) —— διό conj. therefore, for this reason
+
+
+#### 出現次數 50~53x (10 個字)
+
 - **ἐλπίς** (53) —— ἐλπίς , ίδος f hope ( παρ ἐ. ἐπ ἐ. hoping against hope Ro 4.18); ground or basis of hope; what is hoped for
 - **ὅπως** (53) —— ὅπως (or ὅπως ἄν) that, in order that
 - **ἐπαγγελία** (52) —— ἐπαγγελία , ας f promise, what is promised; consent or decision (Ac 23.21)
@@ -355,6 +405,9 @@
 - **σοφία** (51) —— σοφία , ας f wisdom, insight, intelligence, knowledge; Wisdom (of God)
 - **γλῶσσα** (50) —— γλῶσσα , ης f tongue; language; utterance
 - **γραφή** (50) —— γραφή , ῆς f Scripture; sacred writing; passage of Scripture (sg.), OT Scriptures (pl.)
+
+#### 出現次數 49~50x (10 個字)
+
 - **κακός** (50) —— κακός , ή , όν evil, bad, wrong; injury, harm (as a noun); foul, troublesome (sore)
 - **μακάριος** (50) —— μακάριος , α , ον blessed, fortunate, happy; μ. θεός God who is worthy of all praise (1 Tm 1.11; 6.15)
 - **παραβολή** (50) —— παραβολή , ῆς f parable, proverb; figure, symbol ( ἥτις π. εἰς this is a figure which refers to He 9.9; ἐν π. so to speak He 11.19)
