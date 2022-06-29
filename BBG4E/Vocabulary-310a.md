@@ -346,7 +346,7 @@
 
 #### 出現次數 60~75x (10 個字)
 
- **σίμων** (75) —— Σίμων , ωνος m Simon: (1) Simon Peter; (2) Simon ὁ Καναναῖος (ὁ ζηλωτής), one of the twelve; (3) brother of Jesus (Mt 13.55; Mk 6.3); (4) Simon of Cyrene (Mt 27.32; Mk 15.21; Lk 23.26); (5) father of Judas Iscariot (Jn 6.71; 13.2, 26); (6) a tanner in Joppa (Ac 9.43; 10.6, 17, 32b); (7) a magician of Samaria (Ac 8.9, 13, 18, 24); (8) the leper (Mt 26.6; Mk 14.3); (9) the Pharisee (Lk 7.40, 43, 44)
+ - **σίμων** (75) —— Σίμων , ωνος m Simon: (1) Simon Peter; (2) Simon ὁ Καναναῖος (ὁ ζηλωτής), one of the twelve; (3) brother of Jesus (Mt 13.55; Mk 6.3); (4) Simon of Cyrene (Mt 27.32; Mk 15.21; Lk 23.26); (5) father of Judas Iscariot (Jn 6.71; 13.2, 26); (6) a tanner in Joppa (Ac 9.43; 10.6, 17, 32b); (7) a magician of Samaria (Ac 8.9, 13, 18, 24); (8) the leper (Mt 26.6; Mk 14.3); (9) the Pharisee (Lk 7.40, 43, 44)
 - **ἀποκτείνω** (74) —— ἀποκτείνω and ἀποκτέννω , -ννύω (fut. ἀποκτενῶ ; aor. ἀπέκτεινα ; aor. pass. ἀπεκτάνθην) kill, put to death; murder
 - **ἱερός** (74) —— ἱερός , ά , όν sacred, holy; pertaining to the temple (of service and sacrifice) ‖ ἱερόν , οῦ n temple; temple precincts
 - **χαίρω** (74) —— χαίρω (fut. χαρήσομαι ; aor. pass. ἐχάρην , inf. χαρῆναι) rejoice, be glad; χαῖρε , χαίρετε , χαίρειν greetings, etc. (of salutations)
