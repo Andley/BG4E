@@ -5,22 +5,29 @@
 
 
 ## HW❶ 單字背誦 (10個)
-#### 出現次數 ＞ 1500x (10 個字)
-- **ὁ** (19861) —— ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that
-- **καί** (9019) —— καί conj. and, also, but, even; that is, namely; καὶ ... καί both ... and, not only ... but also; frequently used merely to mark the beginning of a sentence
-- **αὐτός** (5595) —— αὐτός , ή , ό self, of oneself, even, very; preceded by the article the same; as a third person pro. he, she, it; ἐπὶ τὸ αὐτό together; κατὰ τὸ αὐτό so the same way; at the same time
-- **σύ** (2905) —— σύ 2 pers. pro. σοῦ (σου), σοί (σοι), σέ (σε); pl. ὑμεῖς , ὑμῶν , ὑμῖν , ὑμᾶς you
-- **δέ** (2791) —— δέ but, to the contrary, rather; and; now, then, so; δὲ καί but also, but even; μὲν ... δέ on the one hand ... on the other hand
-- **ἐν** (2752) —— ἐν prep. with dat. in, on, at; near, by, before; among, within; by, with; into (= είς); to, for (rarely); ἐν τῷ with inf. during, while, as; ἐν ὀνόματι ὅτι because (Mk 9.41)
-- **ἐγώ** (2581) —— ἐγώ 1 pers. pro. ἐμοῦ (μου), ἐμοί (μοι), ἐμέ (με) I, me; pl. ἡμεις , ἡμῶν , ἡμῖν , ἡμᾶς we, us
-- **εἰμί** (2462) —— εἰμί (impv. ἴσθι , ἔστω and ἤτω , 3 pl. ἔστωσαν ; inf. εἶναι ; impf. ἦν and ἤμην ; fut. ἔσομαι) be, exist; happen, take place; live; be located in; remain, stay; come (Jn 7.28, 29; 19.9); go (Jn 7.34, 36); οὐκ ἔστιν it is not possible (1 Cor 11.20; He 9.5); ὅ ἐστιν , τοῦτ ἔστιν that means, that is to say; εἰμὶ ἐκ belong to, be one of
-- **εἰς** (1767) —— εἰς prep. with acc. into, to; in, at, on, upon, by, near; among; against; concerning; as; εἰς τό with inf. denotes purpose and sometimes result
-- **οὐ** (1624) —— οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected
-
-| lemma —— gloss | lemma —— gloss |
-|---|---|
-ὁ (19861) |ἐν (2752)
-καί (9019) |ἐγώ (2581)
-αὐτός (5595) |εἰμί (2462)
-σύ (2905) |εἰς (1767)
-δέ (2791) |οὐ (1624)
+- **ὁ, ἡ, τό** (19,865)
+	- the
+- **καί** (9,162)
+	- and; even, also; namely
+- **αὐτός, –ή, –ό** (5,597)
+	- personal: he, she, it (him, her); they (them)
+	- reflexive: him/her/itself
+	- identical: same
+- **δέ (δ᾿)** (2,791)
+	- but, and
+- **ἐν** (2,752)
+	- dat: in; on; among
+- **εἰμί** (2,460)
+	- I am, exist, live, am present
+	- ἔσομαι, –, –, –, –
+- **λέγω** (2,353)
+	- I say, speak
+	- ἐρῶ, εἶπον, εἴρηκα, εἴρημαι ἐρρέθην
+- **ὑμεῖς** (1,840)
+	- you (plural)
+- **εἰς** (1,767)
+	- acc: into; in
+- **ἐγώ** (1,718)
+	- I
+- **οὐ (οὐκ, οὐχ)** (1,624)
+	- not
