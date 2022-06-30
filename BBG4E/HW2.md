@@ -1,28 +1,42 @@
 ## HW❷ (Mat 6:9-13)
-<rt>Mat 6:9</rt> <RUBY><ruby><ruby>Οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>Thus</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>προσεύχεσθε</strong><rt>προσεύχομαι</rt></ruby><rt>pray</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς·<rt><font color='white'>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY></font></br> <RUBY><ruby><ruby>Πάτερ<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt><font color='white'>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY></font> <RUBY><ruby><ruby>ὁ<rt><font color='white'>ὁ</rt></ruby><rt>who [is]</rt></ruby><rt>T-VSM</rt></RUBY></font> <RUBY><ruby><ruby>ἐν<rt><font color='white'>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY></font> <RUBY><ruby><ruby>τοῖς<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY></font> <RUBY><ruby><ruby>οὐρανοῖς·<rt>οὐρανός</rt></ruby><rt>heavens</rt></ruby><rt>N-DPM</rt></RUBY></br> <RUBY><ruby><ruby><strong>Ἁγιασθήτω</strong><rt>ἁγιάζω</rt></ruby><rt>hallowed be</rt></ruby><rt>V-APM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY></font> <RUBY><ruby><ruby>ὄνομά<rt>ὄνομα</rt></ruby><rt>name</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου·<rt><font color='white'>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY></font></br> <rt>Mat 6:10</rt> <RUBY><ruby><ruby><strong>Ἐλθέτω</strong><rt>ἔρχομαι</rt></ruby><rt>Come</rt></ruby><rt>V-AAM-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY></font> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt><font color='white'>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY></font></br> <RUBY><ruby><ruby><strong>Γενηθήτω</strong><rt>γίνομαι</rt></ruby><rt>be done</rt></ruby><rt>V-AOM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY></font> <RUBY><ruby><ruby>θέλημά<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου,<rt><font color='white'>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY></font></br> <RUBY><ruby><ruby>Ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt><font color='white'>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY></font> <RUBY><ruby><ruby>οὐρανῷ<rt>οὐρανός</rt></ruby><rt>heaven</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt><font color='white'>καί</rt></ruby><rt>[so] also</rt></ruby><rt>CONJ</rt></RUBY></font> <RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γῆς·<rt>γῆ</rt></ruby><rt>earth</rt></ruby><rt>N-GSF</rt></RUBY></br> <rt>Mat 6:11</rt> <RUBY><ruby><ruby>Τὸν<rt><font color='white'>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-ASM</rt></RUBY></font> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt><font color='white'>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY></font> <RUBY><ruby><ruby>τὸν<rt><font color='white'>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY></font> <RUBY><ruby><ruby>ἐπιούσιον<rt>ἐπιούσιος</rt></ruby><rt>daily</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby><strong>δὸς</strong><rt>δίδωμι</rt></ruby><rt>grant</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt><font color='white'>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY></font> <RUBY><ruby><ruby>σήμερον·<rt>σήμερον</rt></ruby><rt>today</rt></ruby><rt>ADV</rt></RUBY></br> <rt>Mat 6:12</rt> <RUBY><ruby><ruby>Καὶ<rt><font color='white'>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY></font> <RUBY><ruby><ruby><strong>ἄφες</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt><font color='white'>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY></font> <RUBY><ruby><ruby>τὰ<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY></font> <RUBY><ruby><ruby>ὀφειλήματα<rt>ὀφείλημα</rt></ruby><rt>debts</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt><font color='white'>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY></font></br> <RUBY><ruby><ruby>Ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt><font color='white'>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY></font> <RUBY><ruby><ruby>ἡμεῖς<rt><font color='white'>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY></font> <RUBY><ruby><ruby><strong>ἀφήκαμεν</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-AAI-1P</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt><font color='white'>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY></font> <RUBY><ruby><ruby>ὀφειλέταις<rt>ὀφειλέτης</rt></ruby><rt>debtors</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν·<rt><font color='white'>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY></font></br> <rt>Mat 6:13</rt> <RUBY><ruby><ruby>Καὶ<rt><font color='white'>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY></font> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>εἰσενέγκῃς</strong><rt>εἰσφέρω</rt></ruby><rt>lead</rt></ruby><rt>V-AAS-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt><font color='white'>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY></font> <RUBY><ruby><ruby>εἰς<rt><font color='white'>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY></font> <RUBY><ruby><ruby>πειρασμόν,<rt>πειρασμός</rt></ruby><rt>temptation</rt></ruby><rt>N-ASM</rt></RUBY></br> <RUBY><ruby><ruby>Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ῥῦσαι</strong><rt>ῥύομαι</rt></ruby><rt>deliver</rt></ruby><rt>V-ADM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt><font color='white'>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY></font> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt><font color='white'>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM⁞GSN</rt></RUBY></font> <RUBY><ruby><ruby>πονηροῦ.¶<rt>πονηρός</rt></ruby><rt>evil</rt></ruby><rt>A-GSN</rt></RUBY> 
-
 
 ## HW❷ 單字背誦 (10個)
-
-- **οὗτος, αὕτη, τοῦτο** (1,387)
-	- singular: this; he, her, it
-	- plural: these
-- **ὅς, ἥ, ὅ** (1,365)
+- **ὅς, ἥ, ὅ** (1406)
 	- who (whom), which
-- **θεός –οῦ, ὁ** (1,317)
+	- 帶出關係子句修飾先行詞
+
+- **οὗτος, αὕτη, τοῦτο** (1387)
+	- singular: this; he, her, it ‖ plural: these
+	- 這
+
+- **λέγω** (2353)
+	- I say, speak ‖ ἐρῶ, εἶπον, εἴρηκα, εἴρημαι ἐρρέθην
+	- 說
+
+- **θεός –οῦ, ὁ** (1317)
 	- God, god
-- **ὅτι** (1,296)
+	- 上帝
+
+- **ὅτι** (1294)
 	- that; since, because; “ ”
-- **πᾶς, πᾶσα, πᾶν** (1,243)
-	- singular: each, every
-	- plural: all
-- **σύ** (1,067)
-	- you
-- **μή** (1,042)
+	- 因為、不必翻譯帶出子句
+
+- **πᾶς, πᾶσα, πᾶν** (1243)
+	- singular: each, every ‖ plural: all
+	- 每一個、所有的
+
+- **μή** (1042)
 	- not, lest
-- **γάρ** (1,041)
+	- 否定副詞
+
+- **γάρ** (1041)
 	- for; then
+	- 因為、的確
+
 - **Ἰησοῦς, –οῦ, ὁ** (917)
 	- Jesus, Joshua
+	- 專有名詞，人名：耶穌
+
 - **ἐκ (ἐξ)** (914)
 	- gen: from, out of
+	- 後接所有格，意思是「出於、從」
