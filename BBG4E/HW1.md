@@ -16,3 +16,11 @@
 - **εἰμί** (2462) —— εἰμί (impv. ἴσθι , ἔστω and ἤτω , 3 pl. ἔστωσαν ; inf. εἶναι ; impf. ἦν and ἤμην ; fut. ἔσομαι) be, exist; happen, take place; live; be located in; remain, stay; come (Jn 7.28, 29; 19.9); go (Jn 7.34, 36); οὐκ ἔστιν it is not possible (1 Cor 11.20; He 9.5); ὅ ἐστιν , τοῦτ ἔστιν that means, that is to say; εἰμὶ ἐκ belong to, be one of
 - **εἰς** (1767) —— εἰς prep. with acc. into, to; in, at, on, upon, by, near; among; against; concerning; as; εἰς τό with inf. denotes purpose and sometimes result
 - **οὐ** (1624) —— οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected
+
+| lemma —— gloss | lemma —— gloss |
+|---|---|
+ὁ (19861) |ἐν (2752)
+καί (9019) |ἐγώ (2581)
+αὐτός (5595) |εἰμί (2462)
+σύ (2905) |εἰς (1767)
+δέ (2791) |οὐ (1624)
