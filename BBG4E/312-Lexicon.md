@@ -1,4 +1,4 @@
-## 312 個新約常用詞彙 (出現 ≧ 50x) 小辭典
+## 309 個新約常用詞彙 (出現 ≧ 50x) 小辭典
 
 ### Top 1~100
 #### 出現次數 ＞ 1500x (10 個字)
@@ -10,22 +10,20 @@
 - **ἐν** (2752) —— ἐν prep. with dat. in, on, at; near, by, before; among, within; by, with; into (= είς); to, for (rarely); ἐν τῷ with inf. during, while, as; ἐν ὀνόματι ὅτι because (Mk 9.41)
 - **ἐγώ** (2581) —— ἐγώ 1 pers. pro. ἐμοῦ (μου), ἐμοί (μοι), ἐμέ (με) I, me; pl. ἡμεις , ἡμῶν , ἡμῖν , ἡμᾶς we, us
 - **εἰμί** (2462) —— εἰμί (impv. ἴσθι , ἔστω and ἤτω , 3 pl. ἔστωσαν ; inf. εἶναι ; impf. ἦν and ἤμην ; fut. ἔσομαι) be, exist; happen, take place; live; be located in; remain, stay; come (Jn 7.28, 29; 19.9); go (Jn 7.34, 36); οὐκ ἔστιν it is not possible (1 Cor 11.20; He 9.5); ὅ ἐστιν , τοῦτ ἔστιν that means, that is to say; εἰμὶ ἐκ belong to, be one of
+- **λέγω** (2353) —— λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context) ‖ εἶπον aor. of λέγω ‖ ἐρῶ fut. of λέγω ‖ ῥηθείς aor. pass. ptc. of λέγω
 - **εἰς** (1767) —— εἰς prep. with acc. into, to; in, at, on, upon, by, near; among; against; concerning; as; εἰς τό with inf. denotes purpose and sometimes result
-- **οὐ** (1624) —— οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected
 
 
 
 #### 出現次數 915~1500x (10 個字)
-
+- **οὐ** (1624) —— οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected
 - **ὅς** (1406) —— ὅς , ἥ , ὅ relative pro. who, which, what, that ( ὃς ἄν or ὃς ἐάν whoever; ὃς μὲν ... ὃς δέ one ... another) ; he, she ‖ ὅσπερ , ἥπερ , ὅπερ who, which
 - **οὗτος** (1387) —— οὗτος , αὕτη , τοῦτο demonstrative pro. and adj. this, this one; he, she, it; τοῦτ ἔστιν that is, which means
-- **λέγω** (1329) —— λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context) ‖ εἶπον aor. of λέγω ‖ ἐρῶ fut. of λέγω ‖ ῥηθείς aor. pass. ptc. of λέγω
 - **θεός** (1317) —— θεός , οῦ m God ( κατὰ θεόν according to God's will, godly; after the likeness of God Eph 4.24); god; f goddess (Ac 19.37)
 - **ὅτι** (1294) —— ὅτι conj. that ( τί ὅτι why? ὡς ὅτι that generally introducing the subjective opinion of the writer, e.g. 2 Cor 5.19; 11.21; 2 Th 2.2); because, for, since; may mark the beginning of direct discourse
 - **πᾶς** (1243) —— πᾶς , πᾶσα , πᾶν gen. παντός , πάσης , παντός (1) without the article each, every (pl. all); every kind of; all, full, absolute, greatest; (2) with the article entire, whole; all ( πᾶς ὁ with ptc. everyone who); (3) everyone, everything ( διὰ παντός always, continually, forever; κατὰ πάντα in everything, in every respect)
 - **μή** (1042) —— μή not (generally used with non-indicative verbs); used in questions when a negative answer is expected; used with οὐ for emphasis or solemn assertion
 - **γάρ** (1041) —— γάρ conj. for, since, then; indeed, certainly; τί γάρ what! why!
-- **εἶπον** (1024) —— εἶπον aor. of λέγω ‖ λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context) ‖ ῥηθείς aor. pass. ptc. of λέγω
 - **ἰησοῦς** (917) —— Ἰησοῦς gen. οῦ dat. οῦ acc. οῦν m (1) Jesus: (a) of the Lord; (b) Jesus Barabbas; (c) Jesus Justus (Col 4.11); (d) in the genealogy of Jesus (Lk 3.29); (2) Joshua (Ac 7.45; He 4.8)  
 
 
@@ -62,6 +60,7 @@
 #### 出現次數 343~475x (10 個字)
 
 - **μετά** (469) —— μετά prep. with: (1) gen. with, in company with, among; by, in; on the side of; against; (2) acc. after, behind ( μετὰ τό with inf. after)
+- **ὁράω** (454) —— ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
 - **ἀκούω** (428) —— ἀκούω (pf. ἀκήκοα ; aor. pass. ptc. ἀκουσθείς) hear; receive news of; give heed to; understand; recover one's hearing; give a judicial hearing (Jn 7.51; Ac 25.22)
 - **πολύς** (416) —— πολύς , πολλή , πολύ gen. πολλοῦ , ῆς , οῦ (1) much, many (of great crowds; loud mourning; plentiful harvest; deep soil; late hour; long time; etc.); (2) πολλά many things; adv. often, frequently; strictly; insistently; strongly; hard; heartily; etc.; πολύ much, greatly ( ἐπὶ π. a long time Ac 28.6; μετ οὐ π. soon Ac 27.14; π. μᾶλλον much more, all the more He 12.9, 25); πολλῷ μᾶλλον much more, all the more; πολλῷ πλείους many more (Jn 4.41); πολλοῦ for a large sum (Mt 26.9) ‖ πλείων , πλεῖον or πλέον gen. ονος nom. pl. πλείονες or πλείους (comp. of πολύς) more (more than of comparison; πολλῷ π. many more Jn 4.41; διὰ τῶν π. through more and more people 2 Cor 4.15); most, the majority (a larger amount Mt 20.10; Lk 7.43); many, a larger number; greater (greater than of comparison); more acceptable (sacrifice); ἐπὶ π. further, more and more, on and on; very far (2 Tm 3.9); ἐπὶ π. χρὀνον longer (Ac 18.20); δῖ ἐτῶν π. after some years' absence (Ac 24.17)  ‖ πλεῖστος , η , ον (superl. of πολύς) most; large; τὸ π. at the most (1 Cor 14.27)
 - **δίδωμι** (415) —— δίδωμι (διδῶ Re 3.9) (3 pl. διδόασιν , impv. 2 sg. δίδου , inf. διδόναι , ptc. διδούς ; impf. 3 sg. ἐδίδου , 3 pl. ἐδίδουν and ἐδίδοσαν ; fut. δώσω ; aor. ἔδωκα , subj. 3 sg. δῷ , δοῖ and δώῃ , opt. 3 sg. δῴη , impv. δός , inf. δοῦναι , ptc. δούς ; pf. δέδωκα ; pf. pass. δέδομαι ; plpf. ( ἐ) δεδώκειν ; aor. pass. ἐδόθην , ptc. δοθείς ; fut. pass. δοθήσομαι) give; grant, allow, permit; place, put; appoint; establish; give out, pay; produce, yield, cause; entrust; bring (offerings); inflict (punishment); δ. ἑαυτόν venture to go (Ac 19.31); cf. ἐργασία (Lk 12.58)
@@ -226,7 +225,6 @@
 
 - **μόνος** (114) —— μόνος , η , ον (1) adj. only, alone (Mt 12.4; Php 4.15) κατὰ μόνας alone; (2) adv. μόνον only, alone
 - **οἶκος** (114) —— οἶκος , ου m house, home ( κατ οἷκον or κατὰ τοὺς οἴκους from house to house; ἡ κατ οἶκον αὐτῶν ἐκκλησία the church in their house); family household; nation, people; temple, sanctuary
-- **ὁράω** (113) —— ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
 - **ἀποθνῄσκω** (110) —— ἀποθνῄσκω (fut. ἀποθανοῦμαι ; aor. ἀπέθανον) die; face death, be at death's door; be mortal
 - **ὅσος** (110) —— ὅσος , η , ον correlative pro. as much as, how much; as great as, how great; as far as, how far; whoever ( = ὅσος ἄν , ὅσος ἐάν); pl. as many as, all, everyone; ἐφ ὅσον inasmuch as, while; καθ ὅσον just as, as ( καθ ὅσον ... κατὰ τοσοῦτο or ὅσα ... τοσοῦτον to the degree that ... to the same degree; κατὰ πάντα ὅσα ἄν whatever Ac 3.22); ὅσῳ as, just as, to the degree that (He 8.6); ὅσον ... μᾶλλον περισσὀτερον the more ... the more (Mk 7.36); τοσούτῳ ... ὅσῳ ῾βψ as much ... as (He 1.4); ὅσον χρὀνον as long as (Mk 2.19); ἔτι γὰρ μικρὸν ὅσον ὅσον for in a very short while (He 10.37)
 - **ἀλήθεια** (109) —— ἀλήθεια , ας f truth, truthfulness; reality; ἐπ ἀ. or ἐν ἀ. often truly, to be sure; ἀληθείᾳ with right motives (Php 1.18)
@@ -435,7 +433,6 @@
 - **πιλᾶτος** (55) —— Πιλᾶτος , ου m Pilate
 - **δεξιός** (54) —— δεξιός , ά , όν right (opposite left); ἐν δ. , ἐκ δ. , ἐπὶ δ. at the right hand; δεξιὰς ἔδωκαν they shook hands (Ga 2.9); ὅπλον δ. weapon used to attack (2 Cor 6.7)
 - **εὐαγγελίζω** (54) —— εὐαγγελίζω act. and midd. bring the good news, preach the good news (sometimes preach the good news to, e.g. Ac 8.25); preach, proclaim; pass. hear the good news (of persons); be preached (of things)
-- **μαρία** (54) —— Μαρία , ας and Μαριάμ f Mary: (1) mother of Jesus; (2) sister of Martha and Lazarus; (3) Mary Magdalene; (4) mother of James and Joseph; (5) wife of Clopas (Jn 19.25); (6) mother of John Mark (Ac 12.12); (7) Christian in Ro 16.6
 - **οὐχί** (54) —— οὐχί emphatic form of οὐ) not; no, no indeed; used in questions when an affirmative answer is expected ‖ οὐ (οὐκ , οὐχ) not (generally used with indicative verbs); used in questions when an affirmative answer is expected
 - **χρόνος** (54) —— χρόνος , ου m time, extension or period of time ( ἐφ ὅσον χ. or ὅσον χ. as long as, while; ἐπὶ χ. or χρόνον τινά for a while Lk 18.5; 1 Cor 16.7; πρὸ χ. αἰωνίων or χ. αἰωνίοις before time began, from all eternity 2 Tm 1.9; Tt 1.2; Ro 16.25; πόσος χ. how long? Mk 9.21); time, moment of time, occasion; delay (Re 10.6)
 - **διό** (53) —— διό conj. therefore, for this reason ‖ διόπερ emphatic of διό) therefore indeed, for this very reason
