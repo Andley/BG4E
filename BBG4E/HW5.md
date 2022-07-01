@@ -1,14 +1,44 @@
-## HW❺ (Mar 1:9-13)
-</br><rt>Mar 1:9</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐγένετο</strong><rt>γίνομαι</rt></ruby><rt>it came to pass</rt></ruby><rt>V-2ADI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐκείναις<rt>ἐκεῖνος</rt></ruby><rt>those</rt></ruby><rt>D-DPF</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ἡμέραις<rt>ἡμέρα</rt></ruby><rt>days</rt></ruby><rt>N-DPF</rt></RUBY> <RUBY><ruby><ruby><strong>ἦλθεν</strong><rt>ἔρχομαι</rt></ruby><rt>[that] came</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ναζαρὲτ<rt>Ναζαρέθ, Ναζαρά</rt></ruby><rt>Nazareth</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Γαλιλαίας<rt>Γαλιλαία</rt></ruby><rt>of Galilee</rt></ruby><rt>N-GSF-L</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐβαπτίσθη</strong><rt>βαπτίζω</rt></ruby><rt>was baptized</rt></ruby><rt>V-API-3S</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Ἰορδάνην<rt>Ἰορδάνης</rt></ruby><rt>Jordan</rt></ruby><rt>N-ASM-L</rt></RUBY> <RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννου .<rt>Ἰωάννης</rt></ruby><rt>John</rt></ruby><rt>N-GSM-P</rt></RUBY> </br><rt>Mar 1:10</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εὐθὺς<rt>εὐθέως</rt></ruby><rt>immediately</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἀναβαίνων</em><rt>ἀναβαίνω</rt></ruby><rt>going up</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>ὕδατος<rt>ὕδωρ, ὕδατος</rt></ruby><rt>water</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby><strong>εἶδεν</strong><rt>εἴδω</rt></ruby><rt>he saw</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby><em>σχιζομένους</em><rt>σχίζω</rt></ruby><rt>tearing open</rt></ruby><rt>V-PPP-APM</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοὺς<rt>οὐρανός</rt></ruby><rt>heavens</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>περιστερὰν<rt>περιστερά</rt></ruby><rt>a dove</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><em>καταβαῖνον</em><rt>καταβαίνω</rt></ruby><rt>descending</rt></ruby><rt>V-PAP-ASN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτόν ·<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-ASM</rt></RUBY> </br><rt>Mar 1:11</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>φωνὴ<rt>φωνή</rt></ruby><rt>a voice</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><strong>ἐγένετο</strong><rt>γίνομαι</rt></ruby><rt>came</rt></ruby><rt>V-2ADI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>out of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν ·<rt>οὐρανός</rt></ruby><rt>heavens</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>Σὺ<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NS</rt></RUBY> <RUBY><ruby><ruby><strong>εἶ</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱός<rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητός ,<rt>ἀγαπητός</rt></ruby><rt>beloved</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σοὶ<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2DS</rt></RUBY> <RUBY><ruby><ruby><strong>εὐδόκησα . ¶</strong><rt>εὐδοκέω</rt></ruby><rt>I am well pleased</rt></ruby><rt>V-AAI-1S</rt></RUBY></br></br></br> </br><rt>Mar 1:12</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εὐθὺς<rt>εὐθέως</rt></ruby><rt>immediately</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐκβάλλει</strong><rt>ἐκβάλλω</rt></ruby><rt>drives out</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἔρημον .<rt>ἔρημος</rt></ruby><rt>wilderness</rt></ruby><rt>A-ASF</rt></RUBY> </br><rt>Mar 1:13</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἦν</strong><rt>εἰμί</rt></ruby><rt>He was</rt></ruby><rt>V-IAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐρήμῳ<rt>ἔρημος</rt></ruby><rt>wilderness</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τεσσεράκοντα<rt>τεσσαράκοντα</rt></ruby><rt>forty</rt></ruby><rt>A-APF-NUI</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας<rt>ἡμέρα</rt></ruby><rt>days</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby><em>πειραζόμενος</em><rt>πειράζω</rt></ruby><rt>being tempted</rt></ruby><rt>V-PPP-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Σατανᾶ ,<rt>Σατανᾶς</rt></ruby><rt>Satan</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἦν</strong><rt>εἰμί</rt></ruby><rt>He was</rt></ruby><rt>V-IAI-3S</rt></RUBY> <RUBY><ruby><ruby>μετὰ<rt>μετά</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>θηρίων ,<rt>θηρίον</rt></ruby><rt>wild animals</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἄγγελοι<rt>ἄγγελος</rt></ruby><rt>angels</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby><strong>διηκόνουν</strong><rt>διακονέω</rt></ruby><rt>were ministering</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ . ¶<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY>
+## HW❺ (
 
 
-## HW❺ 單字背誦 (9 個)
-**ἀναβαίνω (82)**</BR>ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)</BR>
-**ἀπό (646)**</BR>ἀπό prep. with gen. from; away from; by means of; of; because of, as a result of; since, ever since; about, for; with; ἀπὸ μιᾶς πάντες one after another, one and all (Lk 14.18)</BR>
-**εἶδον (341)**</BR>εἶδον see εἶδος</BR>ἴδε Look! See! Listen!; here is; here are</BR>ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)</BR>
-**ἐκβάλλω (81)**</BR>ἐκβάλλω (fut. ἐκβαλῶ ; aor. ἐξέβαλον ; plpf. ἐκβεβλήκειν ; aor. pass. ἐξεβλήθην ; fut. pass. ἐκβληθήσομαι) force or drive out, expel, exclude, reject; without exercise of force: send away or out; lead out; take out; bring out; ἐ. ἔξωθεν leave out, omit (Re 11.2); ἐ. εἰς νῖκος τὴν κρίσιν cause justice to triumph (Mt 12.20)</BR>
-**ἡμέρα (389)**</BR>ἡμέρα , ας f day ( καθ ἡμέραν daily; διὰ τριῶν ἡ. in three days; δῖ ἡμερῶν some days later); time; legal day ( ἀνθρωπίνη ἡ. human court 1 Cor 4.3)</BR>
-**οὐρανός (273)**</BR>οὐρανός , οῦ m heaven (also used of God to avoid mention of the sacred name); sky</BR>οὐρανός , οῦ m heaven (also used of God to avoid mention of the sacred name); sky</BR>
-**πνεῦμα (379)**</BR>πνεῦμα , τος n Spirit (of God); spirit, inner life, self; disposition, state of mind; spirit, spirit being or power, power (often of evil spirits); life ( ἀφίημι τὸ π. die Mt 27.50); wind (He 1.7; perhaps Jn 3.8); breath (2 Th 2.8); ghost, apparition (Lk 24.37, 39)</BR>
-**σύ (2905)**</BR>σύ 2 pers. pro. σοῦ (σου), σοί (σοι), σέ (σε); pl. ὑμεῖς , ὑμῶν , ὑμῖν , ὑμᾶς you</BR>
-**ὑπό (220)**</BR>ὑπό prep. with: (1) gen. by, by means of; at the hands of; (2) acc. under, below; under the authority of; ὑπὸ τὸν ὄρθρον at daybreak (Ac 5.21)</BR>
+## HW❺ 單字背誦 (10 個)
+
+- **ὁράω** (454)
+	- I see, notice, experience ‖ ὄψομαι, εἶδον, ἑώρακα, –, ὤφθην
+	- 看見
+
+- **ἀκούω** (428)
+	- I hear; learn, understand; obey ‖ ἀκούσω, ἤκουσα, ἀκήκοα, – ἠκούσθην
+	- 聽見
+
+- **πολύς, πολλή, πολύ** (416)
+	- singular: much ‖ plural: many ‖ adverb: often
+	- 很多、許多、大的
+
+- **δίδωμι** (415)
+	- I give; entrust ‖ δώσω, ἔδωκα, δέδωκα, δέδομαι ἐδόθην
+	- 給、使...發生、拿出
+
+- **πατήρ, πατρός, ὁ** (413)
+	- father
+	- 父親、祖先
+
+- **ἡμέρα, –ας, ἡ** (389)
+	- day
+	- 一天、日子
+
+- **πνεῦμα, –ατος, τό** (379)
+	- spirit, Spirit; wind, breath; inner life
+	- 靈、氣息、風、聖靈
+
+- **υἱός, –οῦ, ὁ** (377)
+	- son; descendant
+	- 兒子、子孫、子民
+
+- **εἷς, μία, ἕν** (345)
+	- one
+	- 一個的
+
+- **ἀδελφός, –οῦ, ὁ** (343)
+	- brother
+	- 弟兄、兄弟

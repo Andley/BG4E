@@ -1,17 +1,45 @@
 ## HW❾ 
-</br><rt>Mat 6:9</rt> <RUBY><ruby><ruby>Οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>Thus</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>προσεύχεσθε</strong><rt>προσεύχομαι</rt></ruby><rt>pray</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς ·<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY></br></br> <RUBY><ruby><ruby>¬ Πάτερ<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>who [is]</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς ·<rt>οὐρανός</rt></ruby><rt>heavens</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby><strong>¬ Ἁγιασθήτω</strong><rt>ἁγιάζω</rt></ruby><rt>hallowed be</rt></ruby><rt>V-APM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὄνομά<rt>ὄνομα</rt></ruby><rt>name</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου ·<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY> </br><rt>Mat 6:10</rt> <RUBY><ruby><ruby><strong>¬ Ἐλθέτω</strong><rt>ἔρχομαι</rt></ruby><rt>Come</rt></ruby><rt>V-2AAM-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου ·<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby><strong>¬ Γενηθήτω</strong><rt>γίνομαι</rt></ruby><rt>be done</rt></ruby><rt>V-AOM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>θέλημά<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου ,<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>¬ Ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐρανῷ<rt>οὐρανός</rt></ruby><rt>heaven</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>[so] also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γῆς ·<rt>γῆ</rt></ruby><rt>earth</rt></ruby><rt>N-GSF</rt></RUBY></br> </br><rt>Mat 6:11</rt> <RUBY><ruby><ruby>¬ Τὸν<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐπιούσιον<rt>ἐπιούσιος</rt></ruby><rt>daily</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby><strong>δὸς</strong><rt>δίδωμι</rt></ruby><rt>grant</rt></ruby><rt>V-2AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>σήμερον ·<rt>σήμερον</rt></ruby><rt>today</rt></ruby><rt>ADV</rt></RUBY> </br><rt>Mat 6:12</rt> <RUBY><ruby><ruby>¬ Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἄφες</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-2AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ὀφειλήματα<rt>ὀφείλημα</rt></ruby><rt>debts</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν ,<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>¬ Ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY> <RUBY><ruby><ruby><strong>ἀφήκαμεν</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-AAI-1P</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ὀφειλέταις<rt>ὀφειλέτης</rt></ruby><rt>debtors</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν ·<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> </br><rt>Mat 6:13</rt> <RUBY><ruby><ruby>¬ Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>εἰσενέγκῃς</strong><rt>εἰσφέρω</rt></ruby><rt>lead</rt></ruby><rt>V-2AAS-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πειρασμόν ,<rt>πειρασμός</rt></ruby><rt>temptation</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>¬ Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ῥῦσαι</strong><rt>ῥύομαι</rt></ruby><rt>deliver</rt></ruby><rt>V-ADM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM⁞GSN</rt></RUBY> <RUBY><ruby><ruby>πονηροῦ . ¶<rt>πονηρός</rt></ruby><rt>evil’</rt></ruby><rt>A-GSN</rt></RUBY></br></br> 【<RUBY><ruby><ruby>Ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σοῦ<rt>σύ</rt></ruby><rt>your</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δύναμις<rt>δύναμις</rt></ruby><rt>power</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δόξα<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνας.<rt>αἰών</rt></ruby><rt>age</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>Ἀμήν.<rt>ἀμήν</rt></ruby><rt>Amen.</rt></ruby><rt>HEB</rt></RUBY>】
+
 
 
 ## HW❾ 單字背誦 (10 個)
 
+- **εἰσέρχομαι** (194)
+	- I come in(to); go in(to), enter ‖ εἰσελεύσομαι, εἰσῆλθον, εἰσελήλυθα, –, –
+	- 進入
 
-**ἄρτος (97)**</BR>ἄρτος , ου m bread, a loaf; food; ἄ. τῆς προθέσεως or πρόθεσις τῶν ἄ. cf. πρόθεσις</BR>
-**ἀφίημι (143)**</BR>ἀφίημι (pres. 2 sg. ἀφεῖς , 1 pl. ἀφίομεν , 3 pl. ἀφίουσιν , inf. ἀφιέναι ; impf. 3 sg. ἤφιεν ; fut. ἀφήσω ; aor. ἀφῆκα , impv. ἄφες , 2 pl. ἄφετε , subj. ἀφῶ , ptc. ἀφείς ; aor. pass. ἀφέθην ; fut. pass. ἀφεθήσοραι ; pf. pass. 3 pl. ἀφέωνται) cancel, forgive, remit (of sin or debts); allow, let be, tolerate ( ἄφες ἴδωμεν Wait! Let us see! or simply Let us see! Mt 27.49; Mk 15.36); leave; leave behind, forsake, neglect; let go, dismiss, divorce; ἀθῆκεν τὸ πνεῦμα he died (Mt 27.50); ἀ. φωνὴν μεγάλην give a loud cry (Mk 15.37)</BR>
-**βασιλεία (162)**</BR>βασιλεία , ας f reign, rule; kingdom, domain ( λαβεῖν β. to be made king Lk 19.12, 15)</BR>
-**γῆ (250)**</BR>γῆ , γῆς f the earth; land, country, region; soil, ground; mankind</BR>
-**οὖν (498)**</BR>οὖν therefore, then; thus, so, accordingly</BR>
-**οὕτως (208)**</BR>οὕτως see οὕτω</BR>οὕτω and οὕτως (1) adv. in this way, thus, so, in the same way, like this ( ἔχειν οὕτως often be so or true; τὸ οὕτως εἶναι to remain as one is 1 Cor 7.26); as follows; (2) adj. such, of such kind ( ὁ μὲν οὕτως , ὁ δὲ οὕτως one of one kind and one of another 1 Cor 7.7)</BR>
-**πατήρ (413)**</BR>πατήρ , πατρός m father (sometimes as an honorary title for a noted person); Father (of God); forefather, ancestor</BR>
-**προσεύχομαι (85)**</BR>προσεύχομαι pray</BR>
-**σήμερον (41)**</BR>σήμερον adv. today; ἡ ς. or ἡ ς. ἡμέρα today, this very day</BR>
-**ὡς (504)**</BR>ὡς (1) particle of comparison as, like ( ὡς ἔπος εἰπεῖν so to speak He 7.9); as though, as if, on the grounds that, on the pretext of; with numerals about ( ὡς ἀπὸ σταδίων δεκαπέντε about fifteen stades away Jn 11.18; cf. 21.8; ὡς ἐπὶ ὥρας δύο for about two hours Ac 19.34); introducing discourse how, that ( ὡς ὅτι how, that); intensifying an adv. or adj. very, how ( ὡς τάχιστα as soon as possible Ac 17.15; ὡς ὡραῖοι how welcome Ro 10.15; cf. Ro 11.33; Ac 17.22); as in the sense to be e*. g. ὡς προφήτην αὐτὸν εἶχον they held him to be a prophet Mt 14.5); (2) temporal and consequential particle as, as long as, while, when (with pres. or impf.); when, after (with aor.); so that, in order that, because; ὡς ἄν e;vάν) when, as soon as</BR>
+- **νόμος, –ου, ὁ** (194)
+	- law; principle
+	- 律法、原則、方法
+
+- **παρά (παρ᾿)** (194)
+	- gen: from ‖ dat: beside, in the presence of ‖ acc: alongside of
+	- 後接間接受格時意思是「在...眼前、和...一起」
+
+- **γράφω** (191)
+	- I write ‖ γράψω, ἔγραψα, γέγραφα γέγραπμαι or γέγραμμαι, ἐγράφην
+	- 寫
+
+- **κόσμος, ου, ὁ** (186)
+	- world, universe; mankind
+	- 世界、宇宙、世人
+
+- **καθώς** (182)
+	- as, even as
+	- 正如、就像是...、照著
+
+- **μέν** (179)
+	- on the one hand; indeed
+	- 表達對比或繼續
+
+- **χείρ, χειρός, ἡ** (177)
+	- hand, arm, finger
+	- 手
+
+- **εὑρίσκω** (176)
+	- I find ‖ (εὕρισκον or ηὕρισκον), εὑρήσω, εὗρον εὕρηκα, –, εὑρέθην
+	- 發現、得到、找到、遇見
+
+- **ἄγγελος, –ου, ὁ** (175)
+	- angel; messenger
+	- 天使、使者

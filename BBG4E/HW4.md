@@ -1,18 +1,43 @@
-## HW❹ (Mar 1:1-5)
-<rt>Mar 1:1</rt> <RUBY><ruby><ruby>Ἀρχὴ<rt>ἀρχή</rt></ruby><rt>[The] beginning</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Υἱοῦ<rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ .<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY></br> <rt>Mar 1:2</rt> <RUBY><ruby><ruby>¬ Καθὼς<rt>καθώς</rt></ruby><rt>As</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>γέγραπται</strong><rt>γράφω</rt></ruby><rt>it has been written</rt></ruby><rt>V-RPI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἠσαΐᾳ<rt>Ἡσαΐας</rt></ruby><rt>Isaiah</rt></ruby><rt>N-DSM-P</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>προφήτῃ ·<rt>προφήτης</rt></ruby><rt>prophet</rt></ruby><rt>N-DSM</rt></RUBY></br> <RUBY><ruby><ruby>¬ Ἰδοὺ<rt>ἰδού</rt></ruby><rt>Behold</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἀποστέλλω</strong><rt>ἀποστέλλω</rt></ruby><rt>I send</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄγγελόν<rt>ἄγγελος</rt></ruby><rt>messenger</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>πρὸ<rt>πρό</rt></ruby><rt>before</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>προσώπου<rt>πρόσωπον</rt></ruby><rt>face</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>σου ,<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY></br> <RUBY><ruby><ruby>¬ ὃς<rt>ὅς, ἥ</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY> <RUBY><ruby><ruby><strong>κατασκευάσει</strong><rt>κατασκευάζω</rt></ruby><rt>will prepare</rt></ruby><rt>V-FAI-3S</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὁδόν<rt>ὁδός</rt></ruby><rt>way</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σου ·<rt>σύ</rt></ruby><rt>of You”</rt></ruby><rt>P-2GS</rt></RUBY></br> <rt>Mar 1:3</rt> <RUBY><ruby><ruby>¬ Φωνὴ<rt>φωνή</rt></ruby><rt>[The] voice</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><em>βοῶντος</em><rt>βοάω</rt></ruby><rt>of one crying</rt></ruby><rt>V-PAP-GSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐρήμῳ ·<rt>ἔρημος</rt></ruby><rt>wilderness</rt></ruby><rt>A-DSF</rt></RUBY></br> <RUBY><ruby><ruby><strong>¬ Ἑτοιμάσατε</strong><rt>ἑτοιμάζω</rt></ruby><rt>Prepare</rt></ruby><rt>V-AAM-2P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ὁδὸν<rt>ὁδός</rt></ruby><rt>way</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>Κυρίου ,<rt>κύριος</rt></ruby><rt>of [the] Lord</rt></ruby><rt>N-GSM</rt></RUBY></br> <RUBY><ruby><ruby>¬ εὐθείας<rt>εὐθύς</rt></ruby><rt>straight</rt></ruby><rt>A-APF</rt></RUBY> <RUBY><ruby><ruby><strong>ποιεῖτε</strong><rt>ποιέω</rt></ruby><rt>make</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>τρίβους<rt>τρίβος</rt></ruby><rt>paths</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ , ¶<rt>αὐτός</rt></ruby><rt>of Him’”</rt></ruby><rt>P-GSM</rt></RUBY></br></br> <rt>Mar 1:4</rt> <RUBY><ruby><ruby><strong>Ἐγένετο</strong><rt>γίνομαι</rt></ruby><rt>Came</rt></ruby><rt>V-2ADI-3S</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννης<rt>Ἰωάννης</rt></ruby><rt>John</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><em>βαπτίζων</em><rt>βαπτίζω</rt></ruby><rt>baptizing</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐρήμῳ<rt>ἔρημος</rt></ruby><rt>wilderness</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><em>κηρύσσων</em><rt>κηρύσσω</rt></ruby><rt>proclaiming</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>βάπτισμα<rt>βάπτισμα</rt></ruby><rt>[a] baptism</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>μετανοίας<rt>μετάνοια</rt></ruby><rt>of repentance</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἄφεσιν<rt>ἄφεσις</rt></ruby><rt>forgiveness</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν .<rt>ἁμαρτία</rt></ruby><rt>of sins</rt></ruby><rt>N-GPF</rt></RUBY> <rt>Mar 1:5</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐξεπορεύετο</strong><rt>ἐκπορεύω</rt></ruby><rt>were going out</rt></ruby><rt>V-INI-3S</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>πᾶσα<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαία<rt>Ἰουδαία</rt></ruby><rt>of Judea</rt></ruby><rt>A-NSF-L</rt></RUBY> <RUBY><ruby><ruby>χώρα<rt>χώρα</rt></ruby><rt>region</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>Ἱεροσολυμῖται<rt>Ἱεροσολυμίτης</rt></ruby><rt>of Jerusalem</rt></ruby><rt>N-NPM-L</rt></RUBY> <RUBY><ruby><ruby>πάντες ,<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐβαπτίζοντο</strong><rt>βαπτίζω</rt></ruby><rt>were being baptized</rt></ruby><rt>V-IPI-3P</rt></RUBY> <RUBY><ruby><ruby>ὑπ᾽<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἰορδάνῃ<rt>Ἰορδάνης</rt></ruby><rt>Jordan</rt></ruby><rt>N-DSM-L</rt></RUBY> <RUBY><ruby><ruby>ποταμῷ<rt>ποταμός</rt></ruby><rt>river</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby><em>ἐξομολογούμενοι</em><rt>ἐξομολογέομαι</rt></ruby><rt>confessing</rt></ruby><rt>V-PMP-NPM</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίας<rt>ἁμαρτία</rt></ruby><rt>sins</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν .<rt>αὐτός</rt></ruby><rt>of them</rt></ruby><rt>P-GPM</rt></RUBY> 
+## HW❹ (
 
-<div style="page-break-after: always;"></div>
 
 ## HW❹ 單字背誦 (10個)
+- **ποιέω** (568)
+	- I do, make ‖ ποιήσω, ἐποίησα, πεποίηκα πεποίημαι, –
+	- 做、使
 
-**ἄγγελος (175)**</BR>ἄγγελος , ου m angel; messenger, one who is sent</BR>
-**ἁμαρτία (173)**</BR>ἁμαρτία , ας f sin ( ἔχω ἁ. be sinful); περὶ ἁ. often sin offering</BR>
-**ἀποστέλλω (132)**</BR>ἀποστέλλω (fut. ἀποστελῶ ; aor. ἀπέστειλα , subj. ἀποστείλω [in Ac 7.33 this may be a dialectical peculiarity of the pres. ind.]; pf. ἀπέσταλκα ; aor. pass. ἀπεστάλην) send; send out or away</BR>
-**βαπτίζω (77)**</BR>βαπτίζω baptize; wash</BR>
-**γράφω (191)**</BR>γράφω (pf. γέγραφα ; pf. pass. 3 sg. γέγραπται ; aor. pass. ἐγράφην) write; record, compose; sign one's name (2 Th 3.17); cover with writing (Re 5.1)</BR>
-**ἐγώ (2581)**</BR>ἐγώ 1 pers. pro. ἐμοῦ (μου), ἐμοί (μοι), ἐμέ (με) I, me; pl. ἡμεις , ἡμῶν , ἡμῖν , ἡμᾶς we, us</BR>
-**εὐαγγέλιον (76)**</BR>εὐαγγέλιον , ου , n good news, gospel</BR>
-**ἰδού (200)**</BR>ἰδού Look! See! Listen!; there or here is (are), there or here was (were); there or here comes (came); then, suddenly; even, yet (of emphasis)</BR>
-**κύριος (716)**</BR>κύριος , ου m Lord (of God and Christ); master, lord, owner; sir (of address)</BR>
-**ὁδός (101)**</BR>ὁδός , οῦ f way, road; journey ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away, i.e. about half a mile Ac 1.12); way of life, conduct; Way (of the Christian faith and life)</BR>
+- **τίς, τί** (555)
+	- who? what? which? why?
+	- 誰、甚麼、哪一個、為什麼
 
+- **ἄνθρωπος, –ου, ὁ** (550)
+	- man, mankind, person, people humankind, human being
+	- 人
+
+- **τις, τι** (534)
+	- someone/thing, certain one/thing anyone/thing
+	- 某個、有的、什麼
+
+- **Χριστός, –οῦ, ὁ** (529)
+	- Christ, Messiah; Anointed One
+	- 基督（音譯）、承受膏油的、受膏者
+
+- **ὡς** (504)
+	- as, like; that, approximately; when, after
+	- 約有、如同、好像、正當
+
+- **εἰ** (502)
+	- if
+	- 是否、假若、既然
+
+- **οὖν** (498)
+	- therefore; accordingly; then
+	- 因此、所以
+
+- **κατά (κατ᾿, καθ᾿)** (473)
+	- gen: down from, against ‖ acc: according to, throughout, during
+	- 後接直接受格時意思是「朝著、依據、藉著、遍及」
+
+- **μετά (μετ᾿, μεθ᾿)** (469)
+	- gen: with ‖ acc: after
+	- 後接所有格時意思是「與....一起」、藉著、帶著
