@@ -8,7 +8,13 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 
 ---
 
-### 鍵盤輸入法
+### tonos vs. oxia ?
+#### software
+- Logos SBL GNT: tonos
+- STEPBible: tonos
+- Accordance : combining characters
+- Bibleworks10 : oxia
+#### 鍵盤輸入法
 - [Tyndale Keyboard](https://www.stepbible.org/downloads.jsp) ⇐ 只能輸出 pre-conposed character with oxia (e.g. ά =\u1F71)，不能用
 - [Logos Greek Keyboard](https://www.logos.com/product/53264/original-languages-keyboards-for-windows) ⇐ 只能輸出 combining characters (e.g. ά = \u03B1+\u0301), 不能用
 - 正確的 ά = \u03AC
