@@ -30,21 +30,9 @@
 ### 資源工具
 - [參考書目](Biblography.md)
 - [數位工具](Digital-Tools.md)
+	- [UNICODE 相關注意事項](UNICODE.md)
 
 
-
-## 靈感
-
-- [ ] Modern
-	- [ ] RKG (Buth)
-	- [ ] RKG (Polis)
-	- [ ] Lucian
-	- [ ] Attic
-	- [ ] Erasmian
-- [ ] 不要破壞wordorder
-	- [ ] 內嵌=放在同一行
-	- [ ] 從屬才分行
-	- [ ] ⮥⮧ 只給先行詞用
 
 ## 閱讀
 
