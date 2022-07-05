@@ -14,6 +14,9 @@
 - interjectio→ interjection
 
 ## Part II Phonology (字音)
+![[../images/Pasted image 20220706070847.png]]
+Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounciation versus Erasmian_ (Eugene, Oregon: Wipf & Stock, 2020), 8.
+
 
 ## Part III Morphology (字形)
 
