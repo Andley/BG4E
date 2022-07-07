@@ -6,9 +6,10 @@
 	- ⋯⋯⋯⋯⋯⋯⋯
 	- <rt>1:12a</rt> <RUBY><ruby><ruby>οὐδὲ<rt>οὐδέ</rt></ruby><rt>Neither</rt></ruby><rt>CONJ-N</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S (<RUBY><ruby><ruby>παρὰ<rt>παρά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>man</rt></ruby><rt>N-GSM</rt></RUBY>)A <RUBY><ruby><ruby><strong>παρέλαβον</strong><rt>παραλαμβάνω</rt></ruby><rt>received</rt></ruby><rt>V-AAI-1S</rt></RUBY> (<RUBY><ruby><ruby>αὐτό<rt>αὐτός</rt></ruby><rt>it</rt></ruby><rt>P-ASN</rt></RUBY>)C 
 	- <rt>1:12b</rt> <RUBY><ruby><ruby>οὔτε<rt>οὔτε</rt></ruby><rt>nor</rt></ruby><rt>CONJ-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἐδιδάχθην,</strong><rt>διδάσκω</rt></ruby><rt>was I taught [it]</rt></ruby><rt>V-API-1S</rt></RUBY> 
-	- <rt>1:12c</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀποκαλύψεως<rt>ἀποκάλυψις</rt></ruby><rt>a revelation</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ.<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)A
+	- ⋯⋯⋯⋯⋯⋯⋯
+	- <rt>1:12c</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY>[^1] ...<strong>ἔστιν</strong>... (<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀποκαλύψεως<rt>ἀποκάλυψις</rt></ruby><rt>a revelation</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ.<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)A
 
-
+[^1]: ἀλλὰ 與 1:11b 的 οὐκ 對比，所以補上省略的第三人稱動詞；1:12ab 動詞都是第一人稱，都在說明 1:11b 的 οὐκ κατὰ ἄνθρωπον。
 
 
 
