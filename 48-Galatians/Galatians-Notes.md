@@ -45,7 +45,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Gal 4:1-7](Gal.4.1-7.md)
 - Paul's Concern for the Galatians
 	- [Gal 4:8-11](Gal.4.8-11.md)
-	- [Gal 4:12-19](Gal.4.12-19.md)
+	- [Gal 4:12-20](Gal.4.12-20.md)
 - The Allegory of Hagar and Sarah
 	- [Gal 4:21-5:1](Gal.4.21-5.1.md)
 - Christian Freedom
