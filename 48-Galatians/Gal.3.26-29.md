@@ -12,17 +12,12 @@
 - ⋯⋯⋯⋯⋯⋯⋯
 - <rt>3:28e</rt> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>neither</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἔνι</strong><rt>ἔνι</rt></ruby><rt>there is</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἄρσεν<rt>ἄρρην, ἄρσην</rt></ruby><rt>male</rt></ruby><rt>A-NSN</rt></RUBY>)C <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>θῆλυ·<rt>θῆλυς</rt></ruby><rt>female</rt></ruby><rt>A-NSN</rt></RUBY> 
 - ⋯⋯⋯⋯⋯⋯⋯
-- <rt>3:28f</rt> <RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>
-- <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>
-
-加 3:29 
-- <rt>3:29</rt>
-- <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY>
-- <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you [are]</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>Christs</rt></ruby><rt>N-GSM-T</rt></RUBY>
-- <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἀβραὰμ<rt>Ἀβραάμ</rt></ruby><rt>Abrahams</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>σπέρμα<rt>σπέρμα</rt></ruby><rt>seed</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστέ,</strong><rt>εἰμί</rt></ruby><rt>you are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>κατ᾽<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίαν<rt>ἐπαγγελία</rt></ruby><rt>[the] promise</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι.¶<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY></br></br></br>
-
-
-
+- <rt>3:28f</rt> (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)A
+- ——————————————
+- <rt>3:29a</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊
+	- <rt>3:29b</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you [are]</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>Christs</rt></ruby><rt>N-GSM-T</rt></RUBY>)C
+- <rt>3:29c</rt> <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἀβραὰμ<rt>Ἀβραάμ</rt></ruby><rt>Abrahams</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>σπέρμα<rt>σπέρμα</rt></ruby><rt>seed</rt></ruby><rt>N-NSN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστέ,</strong><rt>εἰμί</rt></ruby><rt>you are</rt></ruby><rt>V-PAI-2P</rt></RUBY> 
+- <rt>3:29d</rt> (<RUBY><ruby><ruby>κατ᾽<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίαν<rt>ἐπαγγελία</rt></ruby><rt>[the] promise</rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby>κληρονόμοι.¶<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)C
 
 
 
