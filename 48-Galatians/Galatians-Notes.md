@@ -43,7 +43,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Gal 3:23-25](Gal.3.23-25.md)
 	- [Gal 3:26-29](Gal.3.26-29.md)
 	- [Gal 4:1-7](Gal.4.1-7.md)
-- Paul’s Concern for the Galatians
+- Paul's Concern for the Galatians
 	- [Gal 4:8-11](Gal.4.8-11.md)
 	- [Gal 4:12-19](Gal.4.12-19.md)
 - The Allegory of Hagar and Sarah
