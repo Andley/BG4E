@@ -54,7 +54,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Gal 5:13-15](Gal.5.13-15.md)
 - The Fruit of the Spirit and the Works of the Flesh
 	- [Gal 5:16-21](Gal.5.16-21.md)
-	- [Gal 5:22-26](Gal.5.21-26.md)
+	- [Gal 5:22-26](Gal.5.22-26.md)
 - Bear One Another’s Burdens
 	- [Gal 6:1-10](Gal.6.1-10.md)
 - Final Warning and Benediction
