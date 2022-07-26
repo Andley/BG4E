@@ -72,6 +72,7 @@ Gupta | Gupta, Nijay, and Jonah Sandford. _Intermediate Biblical Greek Reader: G
 ### 參考資料
 簡寫 | 出處
 :------:| --- 
+Silva | Silva, Moisés. _Interpreting Galatians: Explorations in Exegetical Method_. 2nd ed. Grand Rapids, Mich: Baker Academic, 2001.
 Stutzman | Stutzman, Robert. _An Exegetical Summary of Galatians_. ESS. Dallas, TX.: SIL International, 2008.
 Robertson | A. T. Robertson。《活泉新約希臘文解經 (卷七) 加拉太書、以弗所書、腓立比書、歌羅西書》。詹正義編。陳一萍譯。10卷。加州：美國活泉，1991。
 Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
