@@ -1,7 +1,6 @@
 #### 圖析 (Gal 5:16-21)
 
-- <rt>5:16</rt> <RUBY><ruby><ruby><strong>Λέγω</strong><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY>
-- <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>by [the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby><strong>περιπατεῖτε</strong><rt>περιπατέω</rt></ruby><rt>walk</rt></ruby><rt>V-PAM-2P</rt></RUBY>
+- <rt>5:16a</rt> <RUBY><ruby><ruby><strong>Λέγω</strong><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>by [the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby><strong>περιπατεῖτε</strong><rt>περιπατέω</rt></ruby><rt>walk</rt></ruby><rt>V-PAM-2P</rt></RUBY>
 - <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπιθυμίαν<rt>ἐπιθυμία</rt></ruby><rt>[the] desire</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σαρκὸς<rt>σάρξ</rt></ruby><rt>[of the] flesh</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>no</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>τελέσητε.</strong><rt>τελέω</rt></ruby><rt>you should gratify</rt></ruby><rt>V-AAS-2P</rt></RUBY>
 
 加 5:17 
