@@ -1,6 +1,7 @@
 # 加拉太書希臘文筆記
 ## ΠΡΟΣ ΓΑΛΑΤΑΣ
 
+Galatians 149 verses
 
 ### 經文閱讀
 Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/58/10001/19999/ch/bcddc003c20c8d1ff1213d3aa3920bdd/)。

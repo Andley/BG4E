@@ -19,3 +19,9 @@ see:
 [Discontinuous Syntax in the New Testament Part II – Koine-Greek](https://koine-greek.com/2008/11/08/discontinuous-syntax-in-the-new-testament-part-ii/)
 
 [Discontinuous Syntax in the New Testament Part III – Koine-Greek](https://koine-greek.com/2008/11/17/discontinuous-syntax-in-the-new-testament-part-iii/)
+
+[Baugh. 2017. *Hyperbaton and Greek Literary Style in Hebrews*](zotero://select/items/_D4FTX5CX)
+
+[Markovic. 2006. *Hyperbaton in the Greek Literary Sentence*](zotero://select/items/_42JMJWI7)
+
+[Devine. 2000. *Discontinuous syntax: hyperbaton in Greek*](zotero://select/items/_26KIF7AP)
