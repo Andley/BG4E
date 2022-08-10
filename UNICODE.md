@@ -22,6 +22,9 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 #### Microsoft Polytonic
 ![[images/key.png]]
 ![[images/Pasted image 20220630200904.png]]
+
+
+
 ### Macro
 >
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1F71","replacePattern":"\u03AC"}},
