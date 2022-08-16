@@ -25,7 +25,7 @@
 [^1]: Danker : "as marker generically or qualitatively expressing dissimilarity of one item relative to another item "
 [^2]: Danker : In Gal 1:7 ἄλλο is the second member of a play on words involving ἕτερος (vs. 6), the point being that the Galatians are inveigled into allegiance to 'a good news' that is diff erent from the one Paul proclaimed; but the diff erence is of such a nature that the opposition 'good news' cannot even qualify as 'good news' (s. ἕτερος). 
 [^a]: 根據上下文判斷，οὕτως 修飾 ταχέως 比較通順。
-[^b]: 
+[^b]: LN："εἰ μή 通過指出一個例外來表示對比 -- 除了；但是；然而；相反；但僅僅是"；BDAG：
 
 
 ---
