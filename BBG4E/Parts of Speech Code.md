@@ -1,0 +1,58 @@
+- Parts of Speech (CCAT)
+	- adjective A-
+	- conjunction C-
+	- adverb D-
+	- interjection I-
+	- noun N-
+	- preposition P-
+	- pronominal
+	- article RA
+	- demonstrative RD
+	- interrogative / indeﬁnite RI
+	- personal / possessive RP
+	- relative pronoun RR
+	- verb V-
+	- particle X-
+
+- Parts of Speech (Friberg)
+	- noun N
+	- pronoun NP
+	- verb V
+	- adjective A
+		- adverb AB
+		- pronominal AP
+		- cardinal, demonstrative, indeﬁnite, comparative, ordinal, relative, superlative, interrogative
+	- determiner D
+	- preposition P
+	- conjunction C
+		- coordinating, superordinating, subordinating
+	- particle Q
+		- negative, sentence, interrogative, verbal
+
+- Parts of Speech (Robinson)
+	- adverb ADV
+	- conjunction CONJ
+	- conditional COND
+	- particle PRT
+	- negative particle PRT-N
+	- preposition PREP
+	- interjection INJ
+	- Aramaic ARAM
+	- Hebrew HEB
+	- indeclinable proper noun N-PRI
+	- indeclinable numeral A-NUI
+	- indeclinable letter N-LI
+	- indeclinable noun (other) N-OI
+	- noun N-
+	- adjective A-
+	- relative pronoun R-
+	- reciprocal pronoun C-
+	- demonstrative pronoun D-
+	- deﬁnite article T-
+	- correlative pronoun K-
+	- interrogative pronoun I-
+	- indeﬁnite pronoun X-
+	- correlative or interrogative pronounQ-
+	- reﬂexive pronoun F-
+	- possessive pronoun S-
+	- personal pronoun P-
