@@ -8,7 +8,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 - [加拉太書 Interlinear (英文)](Galatians-Interlinear.md)
-- [加拉太書 Interlinear (中文)](Galatians-TC.md)
+- [加拉太書 Interlinear (中文)](Galatians-Interlinear-TC.md)
 
 
 ### 原文特色
