@@ -22,9 +22,9 @@
 	- <rt>1:9e</rt> (<RUBY><ruby><ruby>ἀνάθεμα<rt>ἀνάθεμα</rt></ruby><rt>accursed</rt></ruby><rt>N-NSN</rt></RUBY>)C <RUBY><ruby><ruby><mark><strong>ἔστω °⁴.¶</strong></mark><rt>εἰμί</rt></ruby><rt>let him be!</rt></ruby><rt>V-PAM-3S</rt></RUBY>
 
 
+[^a]: 根據上下文判斷，οὕτως 修飾 ταχέως 比較通順。
 [^1]: Danker : "as marker generically or qualitatively expressing dissimilarity of one item relative to another item "
 [^2]: Danker : In Gal 1:7 ἄλλο is the second member of a play on words involving ἕτερος (vs. 6), the point being that the Galatians are inveigled into allegiance to 'a good news' that is diff erent from the one Paul proclaimed; but the diff erence is of such a nature that the opposition 'good news' cannot even qualify as 'good news' (s. ἕτερος). 
-[^a]: 根據上下文判斷，οὕτως 修飾 ταχέως 比較通順。
 [^b]: LN："εἰ μή 通過指出一個例外來表示對比 -- 除了；但是；然而；相反；但僅僅是"。
 [^c]: Ἀλλὰ καὶ ἐὰν (連接詞—καὶ—ἐὰν) 的結構新約只有一次 (Gal 1:8; LXX 有 4 次：Ecc 11:8; Hos 9:12, 16; Amo 5:22)，意思與 Gal 6:1 的 ἐὰν καὶ 相當 (BAGD: "即使")。
 
