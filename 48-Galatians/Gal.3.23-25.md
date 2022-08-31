@@ -5,7 +5,7 @@
 	- <rt>3:24a</rt> <RUBY><ruby><ruby>ὥστε<rt>ὥστε</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>νόμος<rt>νόμος</rt></ruby><rt>Law</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>παιδαγωγὸς<rt>παιδαγωγός</rt></ruby><rt>trainer</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)C <RUBY><ruby><ruby><strong>γέγονεν</strong><rt>γίνομαι</rt></ruby><rt>has become</rt></ruby><rt>V-RAI-3S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>unto</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστόν,<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY>)A 
 		- <rt>3:24b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby><strong>δικαιωθῶμεν·</strong><rt>δικαιόω</rt></ruby><rt>we might be justified</rt></ruby><rt>V-APS-1P</rt></RUBY>
 - ——————————————
-- <rt>3:25</rt> (<RUBY><ruby><ruby><em>ἐλθούσης</em><rt>ἔρχομαι</rt></ruby><rt>Having come</rt></ruby><rt>V-AAP-GSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> ⦈( ‹<RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>›s )A (<RUBY><ruby><ruby>οὐκέτι<rt>οὐκέτι</rt></ruby><rt>no longer</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παιδαγωγόν<rt>παιδαγωγός</rt></ruby><rt>a trainer</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐσμεν.</strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>
+- <rt>3:25</rt> (<RUBY><ruby><ruby><em>ἐλθούσης</em><rt>ἔρχομαι</rt></ruby><rt>Having come</rt></ruby><rt>V-AAP-GSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> ⦈( ‹<RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>›s )A[^1] (<RUBY><ruby><ruby>οὐκέτι<rt>οὐκέτι</rt></ruby><rt>no longer</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παιδαγωγόν<rt>παιδαγωγός</rt></ruby><rt>a trainer</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐσμεν.</strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>
 
 
 
@@ -13,3 +13,5 @@
 
 ---
 [加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+
+[^1]: [SN] _ἐλθούσης_ τῆς πίστεως：獨立所有格 (genitive absolute) 分詞子句 (GGBB, ) 當作狀語 (adjunct) 修飾主要動詞 **ἐσμεν**。
