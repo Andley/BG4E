@@ -21,7 +21,7 @@
 - <rt>2:6a</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- <rt>2:6b</rt> (<RUBY><ruby><ruby>Ἀπὸ<rt>ἀπό</rt></ruby><rt>Of</rt></ruby><rt>PREP</rt></RUBY> ⸆ <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-GPM</rt></RUBY> «<RUBY><ruby><ruby><em>δοκούντων</em><rt>δοκέω</rt></ruby><rt>esteemed</rt></ruby><rt>V-PAP-GPM</rt></RUBY> ‹<RUBY><ruby><ruby><em>εἶναί</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>τι,<rt>τις</rt></ruby><rt>something</rt></ruby><rt>X-ASN</rt></RUBY>› » )A°⁶⮧
 	- <rt>2:6c</rt> —— (<RUBY><ruby><ruby>ὁποῖοί<rt>ὁποῖος</rt></ruby><rt>whatsoever</rt></ruby><rt>I-NPM</rt></RUBY>)S <RUBY><ruby><ruby>ποτε<rt>ποτέ</rt></ruby><rt>formerly</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><strong>ἦσαν</strong><rt>εἰμί</rt></ruby><rt>they were</rt></ruby><rt>V-IAI-3P</rt></RUBY>
-	- <rt>2:6d</rt> (<RUBY><ruby><ruby>οὐδέν<rt>οὐδείς</rt></ruby><rt>not</rt></ruby><rt>A-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)C <RUBY><ruby><ruby><strong>διαφέρει·</strong><rt>διαφέρω</rt></ruby><rt>makes a difference</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
+	- <rt>2:6d</rt> (<RUBY><ruby><ruby>οὐδέν<rt>οὐδείς</rt></ruby><rt>not</rt></ruby><rt>A-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)A <RUBY><ruby><ruby><strong>διαφέρει·</strong><rt>διαφέρω</rt></ruby><rt>makes a difference</rt></ruby><rt>V-PAI-3S</rt></RUBY>[^3] 
 	- <rt>2:6e</rt> (<RUBY><ruby><ruby>πρόσωπον<rt>πρόσωπον</rt></ruby><rt>[the] person</rt></ruby><rt>N-ASN</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S ⦈(<RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>of a man</rt></ruby><rt>N-GSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>λαμβάνει</strong><rt>λαμβάνω</rt></ruby><rt>does accept</rt></ruby><rt>V-PAI-3S</rt></RUBY> ——
 - <rt>2:6f</rt> (<RUBY><ruby><ruby>ἐμοὶ<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)C <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby><em>δοκοῦντες</em><rt>δοκέω</rt></ruby><rt>esteemed</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐδὲν<rt>οὐδείς</rt></ruby><rt>nothing</rt></ruby><rt>A-ASN</rt></RUBY>)C <RUBY><ruby><ruby><mark><strong>προσανέθεντο°⁶,</strong></mark><rt>προσανατίθημι</rt></ruby><rt>added</rt></ruby><rt>V-AMI-3P</rt></RUBY> 
 - ⋯⋯⋯⋯⋯⋯⋯
@@ -43,8 +43,12 @@
 
 
 
-[^1]: BAGD: μήπως 或 μή πως連接詞 副詞，憂慮的動詞後，「萬一，惟恐」，帶 Aorist 假設語氣動詞。
-[^2]: ἀναγκάζω + 不定詞當補語。
+
 
 ---
 [加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+
+
+[^1]: BAGD: μήπως 或 μή πως連接詞 副詞，憂慮的動詞後，「萬一，惟恐」，帶 Aorist 假設語氣動詞。
+[^2]: ἀναγκάζω + 不定詞當補語。
+[^3]: διαφέρω：不及物動詞 (Friberg)，所以 οὐδέν 和 μοι 不能當作補語，只能當作狀語 (adjunct)。
