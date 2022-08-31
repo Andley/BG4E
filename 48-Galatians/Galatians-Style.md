@@ -25,6 +25,13 @@ A (分詞子句) 前面有冠詞，所以不是「敘述用法」⇒ 名詞用�
 - 後置詞 
 - 1:3
 
+#### left-dislocation
+- Runger §14
+- cleft construction/hanging nominative (Young, 15)
+- pendent nominative (GGBB, 52) + pleonastiv/redundant/resumptive pronoun (GGBB, 329-330)
+- casus pendens (BDF §466)
+- independent nominative (Porter, 86)
+
 
 ## Semantic Distinctions
 
