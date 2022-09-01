@@ -1,7 +1,8 @@
 
 Porter p.250 Internal referent & p.253 Incorporation
 ATR pp. 718-21 Incorporation
-BDF §294.5 Incorporation
+BDF §294(5) Incorporation
+Mathewson IGG p.51-52 §2.20 IHRC or Incorporated antecedent
 Culy Internally-Headed Relative Clause (IHRC)
 
 
