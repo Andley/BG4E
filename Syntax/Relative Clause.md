@@ -4,6 +4,7 @@ ATR pp. 718-21 Incorporation
 BDF §294(5) Incorporation
 Mathewson IGG p.51-52 §2.20 IHRC or Incorporated antecedent
 Culy Internally-Headed Relative Clause (IHRC)
+AGG §289c
 
 
 -   Boyer, James L. “Relative Clauses in the Greek New Testament: A Statistical Study.” _Grace Theological Journal_ 9, no. Fall (1988): 233–56.[[*Boyer - 1988 - Relative Clauses in the Greek New Testament - A Statistical Study.pdf*](zotero://select/items/_IXTP4RH9)](file:///C:/Users/andle/SynologyDrive/Drive/ZotFiles/21%20%E5%B8%8C%E8%87%98%E6%96%87/Boyer%20-%201988%20-%20Relative%20Clauses%20in%20the%20Greek%20New%20Testament%20-%20A%20Statistical%20Study.pdf)
