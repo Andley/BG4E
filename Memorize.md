@@ -1,63 +1,115 @@
 ## The Lord's Prayer
 
-Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς·
-ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω ἡ βασιλεία σου· γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς·
-τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον· καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν·
-καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.
-ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας. ἀμήν.
-
+- <RUBY><ruby><ruby>Πάτερ<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>who [is]</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς·<rt>οὐρανός</rt></ruby><rt>heavens</rt></ruby><rt>N-DPM</rt></RUBY> 
+- <RUBY><ruby><ruby><strong>Ἁγιασθήτω</strong><rt>ἁγιάζω</rt></ruby><rt>hallowed be</rt></ruby><rt>V-APM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὄνομά<rt>ὄνομα</rt></ruby><rt>name</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY>
+- <RUBY><ruby><ruby><strong>Ἐλθέτω</strong><rt>ἔρχομαι</rt></ruby><rt>Come</rt></ruby><rt>V-AAM-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY> 
+- <RUBY><ruby><ruby><strong>Γενηθήτω</strong><rt>γίνομαι</rt></ruby><rt>be done</rt></ruby><rt>V-AOM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>θέλημά<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου,<rt>σύ</rt></ruby><rt>of You</rt></ruby><rt>P-2GS</rt></RUBY> 
+	- <RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐρανῷ<rt>οὐρανός</rt></ruby><rt>heaven</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>[so] also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γῆς·<rt>γῆ</rt></ruby><rt>earth</rt></ruby><rt>N-GSF</rt></RUBY> 
+- <RUBY><ruby><ruby>Τὸν<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐπιούσιον<rt>ἐπιούσιος</rt></ruby><rt>daily</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby><strong>δὸς</strong><rt>δίδωμι</rt></ruby><rt>grant</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>σήμερον·<rt>σήμερον</rt></ruby><rt>today</rt></ruby><rt>ADV</rt></RUBY> 
+- <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἄφες</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ὀφειλήματα<rt>ὀφείλημα</rt></ruby><rt>debts</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> 
+	- <RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY> <RUBY><ruby><ruby><strong>ἀφήκαμεν</strong><rt>ἀφίημι</rt></ruby><rt>forgive</rt></ruby><rt>V-AAI-1P</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ὀφειλέταις<rt>ὀφειλέτης</rt></ruby><rt>debtors</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν·<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> 
+- <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>εἰσενέγκῃς</strong><rt>εἰσφέρω</rt></ruby><rt>lead</rt></ruby><rt>V-AAS-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πειρασμόν,<rt>πειρασμός</rt></ruby><rt>temptation</rt></ruby><rt>N-ASM</rt></RUBY> 
+- <RUBY><ruby><ruby>Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ῥῦσαι</strong><rt>ῥύομαι</rt></ruby><rt>deliver</rt></ruby><rt>V-ADM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM⁞GSN</rt></RUBY> <RUBY><ruby><ruby>πονηροῦ.¶<rt>πονηρός</rt></ruby><rt>evil</rt></ruby><rt>A-GSN</rt></RUBY> 
+	- <RUBY><ruby><ruby>Ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σοῦ<rt>σύ</rt></ruby><rt>your</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δύναμις<rt>δύναμις</rt></ruby><rt>power</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δόξα<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνας.<rt>αἰών</rt></ruby><rt>age</rt></ruby><rt>N-APM</rt></RUBY>
+- <RUBY><ruby><ruby>Ἀμήν.<rt>ἀμήν</rt></ruby><rt>Amen.</rt></ruby><rt>HEB</rt></RUBY>
 
 ## The Apostles’ Creed
+<RUBY><ruby><ruby>Πιστεύω<rt>πιστεύω</rt></ruby><rt>I believe</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα,<rt>πατέρ</rt></ruby><rt>father</rt></ruby><rt>N-ASM</rt></RUBY> 
 
-Πιστεύω εἰς Θεὸν Πατέρα,  
-    παντοκράτορα, ποιητὴν οὐρανοῦ καὶ γῆς.
+<RUBY><ruby><ruby>παντοκράτορα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ποιητὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>οὐρανός</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>γῆ</rt></ruby><rt>earth</rt></ruby><rt>N-GSF</rt></RUBY>
 
-Καὶ εἰς Ἰησοῦν Χρίστον, υἱὸν αὐτοῦ τὸν μονογενῆ, τὸν κύριον ἡμῶν,  
-    τὸν συλληφθέντα ἐκ πνεύματος ἁγίου,  
-    γεννηθέντα ἐκ Μαρίας τῆς παρθένου,  
-    παθόντα ἐπὶ Ποντίου Πιλάτου,  
-    σταυρωθέντα, θανόντα, και ταφέντα,  
-    τῇ τρίτη ἡμέρᾳ ἀναστάντα ἀπὸ τῶν νεκρῶν,  
-    ἀνελθόντα εἰς τοὺς οὐρανούς,  
-    καθεζόμενον ἐν δεξιᾷ θεοῦ πατρὸς παντοδυνάμου,  
-    ἐκεῖθεν ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.
+  
 
-Πιστεύω εἰς τὸ Πνεύμα τὸ Ἅγιον,  
-ἁγίαν καθολικὴν ἐκκλησίαν,  
-ἁγίων κοινωνίαν,  
-ἄφεσιν ἁμαρτιῶν,  
-σαρκὸς ἀνάστασιν,  
-ζωήν αἰώνιον.  
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Χρίστον,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>υἱὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>μονογενῆ,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κύριον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>συλληφθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁγίου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>γεννηθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Μαρίας<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>παρθένου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>παθόντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ποντίου<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πιλάτου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>σταυρωθέντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>θανόντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ταφέντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>τῇ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τρίτη<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμέρᾳ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀναστάντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>ἀνελθόντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐρανούς,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>καθεζόμενον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>δεξιᾷ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πατρὸς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>παντοδυνάμου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+ <RUBY><ruby><ruby>ἐκεῖθεν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐρχόμενον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>κρῖναι<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ζῶντας<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> νεκρούς.
+
+  
+
+<RUBY><ruby><ruby>Πιστεύω<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πνεύμα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ἅγιον,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ἁγίαν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>καθολικὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίαν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ἁγίων<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>κοινωνίαν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ἄφεσιν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>σαρκὸς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀνάστασιν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ζωήν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>αἰώνιον.<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
 Ἀμήν.
+
 
 
 ## The Nicene Creed
 
-Πιστεύομεν εἰς ἕνα Θεὸν Πατέρα παντοκράτορα  
-ποιητὴν οὐρανοῦ καὶ γῆς ὁρατῶν τε πάντων καὶ ἀοράτων·  
-καὶ εἰς ἕνα Κύριον Ἰησοῦν Χριστὸν  
-τὸν υἱὸν τοῦ Θεοῦ τὸν Μονογενῆ,  
-τὸν ἐκ τοῦ Πατρὸς γεννηθέντα πρὸ πάντων τῶν αἰώνων,  
-Φῶς ἐκ Φωτός,  
-Θεὸν ἀληθινὸν ἐκ Θεοῦ ἀληθινοῦ,  
-γεννηθέντα οὐ ποιηθέντα,  
-ὁμοούσιον τῷ Πατρί,  
-δι’ οὗ τὰ πάντα ἐγένετο·  
-τὸν δι’ ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν κατελθόντα ἐκ τῶν οὐρανῶν,  
-καὶ σαρκωθέντα ἐκ Πνεύματος Ἁγίου καὶ Μαρίας τῆς παρθένου,  
-καὶ ἐνανθρωπήσαντα,  
-σταυρωθέντα τε ὑπὲρ ἡμῶν ἐπὶ Ποντίου Πιλάτου,  
-καὶ παθόντα, καὶ ταφέντα,  
-καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφὰς,  
-καὶ ἀνελθόντα εἰς τοὺς οὐρανοὺς,  
-καὶ καθεζόμενον ἐν δεξιᾷ τοῦ Πατρὸς,  
-καὶ πάλιν ἐρχόμενον μετὰ δόξης κρῖναι ζῶντας καὶ νεκρούς,  
-οὗ τῆς βασιλείας οὐκ ἔσται τέλος·  
-καὶ εἰς τὸ Πνεῦμα τὸ Ἅγιον, τὸ Κύριον καὶ Ζωοποιόν,  
-τὸ ἐκ τοῦ Πατρὸς ἐκπορευόμενον,  
-τὸ σὺν Πατρὶ καὶ Υἱῷ συμπροσκυνούμενον καὶ συνδοξαζόμενον,  
-τὸ λαλῆσαν διὰ τῶν προφητῶν·  
-εἰς μίαν ἁγίαν καθολικὴν καὶ ἀποστολικὴν ἐκκλησίαν·  
-ὁμολογοῦμεν ἓν βάπτισμα εἰς ἄφεσιν ἁμαρτιῶν·  
-προσδοκῶμεν ἀνάστασιν νεκρῶν,  
-καὶ ζωὴν τοῦ μέλλοντος αἰῶνος. ἀμήν.
+<RUBY><ruby><ruby>Πιστεύομεν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἕνα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατέρα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>παντοκράτορα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ποιητὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ὁρατῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τε<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πάντων<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀοράτων·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἕνα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Κύριον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>υἱὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Μονογενῆ,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>γεννηθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πρὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πάντων<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>αἰώνων,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Φῶς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Φωτός,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Θεὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀληθινὸν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀληθινοῦ,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>γεννηθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ποιηθέντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ὁμοούσιον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατρί,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>δι’<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐγένετο·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>δι’<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπους<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμετέραν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>σωτηρίαν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>κατελθόντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σαρκωθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ἁγίου<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Μαρίας<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>παρθένου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐνανθρωπήσαντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>σταυρωθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τε<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ποντίου<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πιλάτου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>παθόντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ταφέντα,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀναστάντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τρίτῃ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἡμέρᾳ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>γραφὰς,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀνελθόντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐρανοὺς,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καθεζόμενον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>δεξιᾷ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάλιν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐρχόμενον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>μετὰ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>κρῖναι<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ζῶντας<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>νεκρούς,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>οὗ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>βασιλείας<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἔσται<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τέλος·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Ἅγιον,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Κύριον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Ζωοποιόν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκπορευόμενον,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>σὺν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Πατρὶ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Υἱῷ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>συμπροσκυνούμενον<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>συνδοξαζόμενον,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>τὸ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>λαλῆσαν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>προφητῶν·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>μίαν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁγίαν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>καθολικὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀποστολικὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίαν·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>ὁμολογοῦμεν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἓν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>βάπτισμα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἄφεσιν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν·<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>προσδοκῶμεν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἀνάστασιν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>νεκρῶν,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
+
+<RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ζωὴν<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>μέλλοντος<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>αἰῶνος.<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> ἀμήν.
