@@ -13,5 +13,7 @@ John Piper, _Brothers, We are Not Professionals_, 102.
 Scott Hafemann, "The  Forum: Profiles of Expository Preaching," _SBTJ_ 3, no. 2 (1999): 88.
 > "One hour in the text [in the original language] is worth more than ten in secondary literature."
 
-→
-⇒
+---
+B. B. Warfield
+
+> 
