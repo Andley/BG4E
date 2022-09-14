@@ -15,12 +15,12 @@
 	- <rt>1:8b</rt> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY>)[^9] (<RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY>[^10])S 
 	- <rt>1:8c</rt> <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἄγγελος<rt>ἄγγελος</rt></ruby><rt>an angel</rt></ruby><rt>N-NSM</rt></RUBY><RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>out of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>οὐρανός</rt></ruby><rt>heaven</rt></ruby><rt>N-GSM</rt></RUBY>)S <RUBY><ruby><ruby><strong>εὐαγγελίζηται</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>should preach a gospel</rt></ruby><rt>V-PMS-3S</rt></RUBY>[^11] (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>παρ᾽<rt>παρά</rt></ruby><rt>contrary to</rt></ruby><rt>PREP</rt></RUBY> ‹<rt>1:8d</rt>›[^12] )A
 		- <rt>1:8d</rt> (<RUBY><ruby><ruby>ὃ<rt>ὅς, ἥ</rt></ruby><rt>what</rt></ruby><rt>R-ASN</rt></RUBY>)C <RUBY><ruby><ruby><strong>εὐηγγελισάμεθα</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>we proclaimed</rt></ruby><rt>V-AMI-1P</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
-- <rt>1:8e</rt> (<RUBY><ruby><ruby>ἀνάθεμα<rt>ἀνάθεμα</rt></ruby><rt>accursed</rt></ruby><rt>N-NSN</rt></RUBY>[^13])C <RUBY><ruby><ruby><strong>ἔστω.</strong><rt>εἰμί</rt></ruby><rt>let him be!</rt></ruby><rt>V-PAM-3S</rt></RUBY> 
+- <rt>1:8e</rt>[^13] (<RUBY><ruby><ruby>ἀνάθεμα<rt>ἀνάθεμα</rt></ruby><rt>accursed</rt></ruby><rt>N-NSN</rt></RUBY>[^14])C <RUBY><ruby><ruby><strong>ἔστω.</strong><rt>εἰμί</rt></ruby><rt>let him be!</rt></ruby><rt>V-PAM-3S</rt></RUBY>[^15]
 - ⋯⋯⋯⋯⋯⋯⋯
-	- <rt>1:9a</rt> {<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>As</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>προειρήκαμεν</strong><rt>προερέω</rt></ruby><rt>we have said before</rt></ruby><rt>V-RAI-1P</rt></RUBY>}°³⮧
+	- <rt>1:9a</rt> {<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>As</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>προειρήκαμεν</strong><rt>προερέω</rt></ruby><rt>we have said before</rt></ruby><rt>V-RAI-1P</rt></RUBY>[^16]}°³⮧
 - <rt>1:9b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἄρτι<rt>ἄρτι</rt></ruby><rt>now</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>λέγω °³·</strong></mark><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
 - ⋯⋯⋯⋯⋯⋯⋯
-	- <rt>1:9c</rt> <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>[to] you</rt></ruby><rt>P-2AP</rt></RUBY>)C <RUBY><ruby><ruby><strong>εὐαγγελίζεται</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>is preaching a gospel</rt></ruby><rt>V-PEI-3S</rt></RUBY> (<RUBY><ruby><ruby>παρ᾽<rt>παρά</rt></ruby><rt>contrary to</rt></ruby><rt>PREP</rt></RUBY> ‹<rt>1:9d</rt>›[^14] )A
+	- <rt>1:9c</rt> <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>[to] you</rt></ruby><rt>P-2AP</rt></RUBY>)C <RUBY><ruby><ruby><strong>εὐαγγελίζεται</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>is preaching a gospel</rt></ruby><rt>V-PEI-3S</rt></RUBY> (<RUBY><ruby><ruby>παρ᾽<rt>παρά</rt></ruby><rt>contrary to</rt></ruby><rt>PREP</rt></RUBY> ‹<rt>1:9d</rt>›[^17] )A
 		- <rt>1:9d</rt> (<RUBY><ruby><ruby>ὃ<rt>ὅς, ἥ</rt></ruby><rt>what</rt></ruby><rt>R-ASN</rt></RUBY>)C <RUBY><ruby><ruby><strong>παρελάβετε,</strong><rt>παραλαμβάνω</rt></ruby><rt>you received</rt></ruby><rt>V-AAI-2P</rt></RUBY> 
 - <rt>1:9e</rt> (<RUBY><ruby><ruby>ἀνάθεμα<rt>ἀνάθεμα</rt></ruby><rt>accursed</rt></ruby><rt>N-NSN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἔστω.¶</strong><rt>εἰμί</rt></ruby><rt>let him be!</rt></ruby><rt>V-PAM-3S</rt></RUBY>
 
@@ -36,8 +36,11 @@
 [^7]: οἱ _ταράσσοντες_ ... καὶ _θέλοντες_ ...：一個冠詞＋兩個分詞子句的結構，合起來當作實名詞用 (GGBB, 241)。
 [^8]: _μεταστρέψαι_ τὸ εὐαγγέλιον τοῦ Χριστοῦ：雖然 GGBB 列在不定詞的複詞用法 (complementary/supplementary; GGBB, 598-599) 下面，但比較好的理解是把不定詞子句當實名詞用 (GGBB, 601-603)，成為意欲動詞 _θέλοντες_ 的補語 (直接受詞; GGBB, 599 n.29)。
 [^9]: Ἀλλὰ καὶ ἐὰν：連接詞—καὶ—ἐὰν 的結構新約只有一次 (Gal 1:8; LXX 有 4 次：Ecc 11:8; Hos 9:12, 16; Amo 5:22)，意思與 Gal 6:1 的 ἐὰν καὶ (即使) 相當 (BAGD)。
-[^10]: ἡμεῖς：沒有人稱、數與之一致的動詞，算是文法上插入的主格 (parenthetic nominative; GGBB, 53-54) or 破格 (anacoluthon; GGBB, 54)。
-[^11]: **εὐαγγελίζηται**：第三人稱單數，與 1:8c 的 ἄγγελος 一致，但與 1:8b 的 ἡμεῖς 不合，算是文法上的 anacoluthon (破格)。
+[^10]: ἡμεῖς：沒有人稱、數與之一致的動詞，算是文法上插入的主格 (parenthetic nominative; GGBB, 53-54) or 破格 (anacoluthon; GGBB, 54)。雖然 ἡμεῖς 有可能指保羅自己 (editorial we; GGBB 396)，但也有可能保羅把第一次宣教之旅的同工巴拿巴也包括在內。
+[^11]: **εὐαγγελίζηται**：第三人稱單數，與 1:8c 的 ἄγγελος 一致，但與 1:8b 的 ἡμεῖς 不合，算是文法上的 anacoluthon (破格)。1:8b 的 ἐὰν 含意延續到 1:8c，後面接上假設語氣動詞 **εὐαγγελίζηται** 形成第三類條件句 (1:8bcde) 的條件子句 (GGBB, 689)。
 [^12]: παρ᾽ὃ **εὐηγγελισάμεθα** ὑμῖν：沒有 antecedent (先行詞) 的關係內嵌子句 (GGBB, 339-342) 當實名詞用，前面加上介系詞 παρά，合起來成為介系詞片語。
-[^13]: ἀνάθεμα：補語擺在句首，表示強調。
-[^14]: παρ᾽ὃ **παρελάβετε**：沒有 antecedent (先行詞) 的關係內嵌子句 (GGBB, 339-342) 當實名詞用，前面加上介系詞 παρά，合起來成為介系詞片語。
+[^13]: ἀνάθεμα **ἔστω**：第三類條件句 (1:8bcde) 的結果子句。
+[^14]: ἀνάθεμα：補語擺在句首，表示強調。
+[^15]: **ἔστω**：命令語氣，表達強烈的意圖 (GGBB, 446)，在此甚至有「他必須、我命令他是」被咒詛 (GGBB, 486) 的含意。
+[^16]: **προειρήκαμεν**：完成式時態形式，表達動作的狀態 (Idioms, 39-40)，強調「我們已經說過了」。
+[^17]: παρ᾽ὃ **παρελάβετε**：沒有 antecedent (先行詞) 的關係內嵌子句 (GGBB, 339-342) 當實名詞用，前面加上介系詞 παρά，合起來成為介系詞片語。
