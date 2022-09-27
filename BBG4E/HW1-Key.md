@@ -1,4 +1,4 @@
-## HW❶ (1:1-6a) 圖析
+## HW❶ (Mat 1:1-6a) 圖析
 
 - <rt>1:1</rt> (<RUBY><ruby><ruby>Βίβλος<rt>βίβλος</rt></ruby><rt>[The] book</rt></ruby><rt>N-NSF</rt></RUBY>)S 
 	- <RUBY><ruby><ruby>γενέσεως<rt>γένεσις</rt></ruby><rt>of [the] genealogy</rt></ruby><rt>N-GSF</rt></RUBY> 

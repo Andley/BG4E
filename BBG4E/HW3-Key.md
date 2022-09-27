@@ -1,4 +1,4 @@
-## HW❸ (1:1-5) 圖析
+## HW❸ (Mar 1:1-5) 圖析
 - <rt>1:1</rt> (<RUBY><ruby><ruby>Ἀρχὴ<rt>ἀρχή</rt></ruby><rt>[The] beginning</rt></ruby><rt>N-NSF</rt></RUBY>)S 
 	- (<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-GSN</rt></RUBY>)
 		- (<RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>of Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>) =(<RUBY><ruby><ruby>Υἱοῦ<rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)
