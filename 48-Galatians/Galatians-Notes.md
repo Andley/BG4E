@@ -29,7 +29,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [Gal 1:13-17](Gal.1.13-17.md)
 	- [Gal 1:18-24](Gal.1.18-24.md)
 - Paul Accepted by the Other Apostles
-	- [Gal 2:1-10](Gal.2.1-10.md)
+	- [Gal 2:1-10](Gal.2.1-5.md)
 - Paul Rebukes Peter at Antioch
 	- [Gal 2:11-14](Gal.2.11-14.md)
 - Jews, like Gentiles, are Saved by Faith
