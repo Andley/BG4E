@@ -1,4 +1,4 @@
-## HW❺ (Joh 1:14-18) 圖析
+## HW❺   (Joh 1:14-18) 圖析
   
 
 - <rt>1:14a</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Λόγος<rt>λόγος</rt></ruby><rt>Word</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>σὰρξ<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἐγένετο</strong><rt>γίνομαι</rt></ruby><rt>became</rt></ruby><rt>V-ADI-3S</rt></RUBY>)P
