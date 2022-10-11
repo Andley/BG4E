@@ -1,10 +1,10 @@
 #### 圖析 (Gal 2:6-10)
 
 - <rt>2:6a</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊[^1]
-	- <rt>2:6b</rt> (<RUBY><ruby><ruby>Ἀπὸ<rt>ἀπό</rt></ruby><rt>Of</rt></ruby><rt>PREP</rt></RUBY>  ⸉⸊ <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-GPM</rt></RUBY> «<RUBY><ruby><ruby><em>δοκούντων</em><rt>δοκέω</rt></ruby><rt>esteemed</rt></ruby><rt>V-PAP-GPM</rt></RUBY> ‹<RUBY><ruby><ruby><em>εἶναί</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>τι,<rt>τις</rt></ruby><rt>something</rt></ruby><rt>X-ASN</rt></RUBY>› » )[^2]
-- <rt>2:6c</rt> ——[^3] (<RUBY><ruby><ruby>ὁποῖοί<rt>ὁποῖος</rt></ruby><rt>whatsoever</rt></ruby><rt>I-NPM</rt></RUBY>)S <RUBY><ruby><ruby>ποτε<rt>ποτέ</rt></ruby><rt>formerly</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><strong>ἦσαν</strong><rt>εἰμί</rt></ruby><rt>they were</rt></ruby><rt>V-IAI-3P</rt></RUBY>
+	- <rt>2:6b</rt> (<RUBY><ruby><ruby>Ἀπὸ<rt>ἀπό</rt></ruby><rt>Of</rt></ruby><rt>PREP</rt></RUBY>  ⸉⸊ <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-GPM</rt></RUBY> «<RUBY><ruby><ruby><em>δοκούντων</em><rt>δοκέω</rt></ruby><rt>esteemed</rt></ruby><rt>V-PAP-GPM</rt></RUBY> ‹<RUBY><ruby><ruby><em>εἶναί</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>τι,<rt>τις</rt></ruby><rt>something</rt></ruby><rt>X-ASN</rt></RUBY>› » )[^2]A°¹⮧
+- <rt>2:6c</rt> ——[^3](<RUBY><ruby><ruby>ὁποῖοί<rt>ὁποῖος</rt></ruby><rt>whatsoever</rt></ruby><rt>I-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ποτε<rt>ποτέ</rt></ruby><rt>formerly</rt></ruby><rt>PRT</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἦσαν</strong><rt>εἰμί</rt></ruby><rt>they were</rt></ruby><rt>V-IAI-3P</rt></RUBY> 
 - <rt>2:6d</rt> (<RUBY><ruby><ruby>οὐδέν<rt>οὐδείς</rt></ruby><rt>not</rt></ruby><rt>A-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)A <RUBY><ruby><ruby><strong>διαφέρει·</strong><rt>διαφέρω</rt></ruby><rt>makes a difference</rt></ruby><rt>V-PAI-3S</rt></RUBY>[^4] 
-- <rt>2:6e</rt> (<RUBY><ruby><ruby>πρόσωπον<rt>πρόσωπον</rt></ruby><rt>[the] person</rt></ruby><rt>N-ASN</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S ⦈(<RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>of a man</rt></ruby><rt>N-GSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>λαμβάνει</strong><rt>λαμβάνω</rt></ruby><rt>does accept</rt></ruby><rt>V-PAI-3S</rt></RUBY> ——
+- <rt>2:6e</rt> (<RUBY><ruby><ruby>πρόσωπον<rt>πρόσωπον</rt></ruby><rt>[the] person</rt></ruby><rt>N-ASN</rt></RUBY>)⦇[^5] (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S ⦈(<RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>of a man</rt></ruby><rt>N-GSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>λαμβάνει</strong><rt>λαμβάνω</rt></ruby><rt>does accept</rt></ruby><rt>V-PAI-3S</rt></RUBY> ——[^6]
 - <rt>2:6f</rt> (<RUBY><ruby><ruby>ἐμοὶ<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)C <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby><em>δοκοῦντες</em><rt>δοκέω</rt></ruby><rt>esteemed</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>οὐδὲν<rt>οὐδείς</rt></ruby><rt>nothing</rt></ruby><rt>A-ASN</rt></RUBY>)C <RUBY><ruby><ruby><mark><strong>προσανέθεντο°⁶,</strong></mark><rt>προσανατίθημι</rt></ruby><rt>added</rt></ruby><rt>V-AMI-3P</rt></RUBY> 
 - ⋯⋯⋯⋯⋯⋯⋯
 - <rt>2:7a</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> 
@@ -20,14 +20,14 @@
 	- <rt>2:9d</rt> (<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>they</rt></ruby><rt>P-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>περιτομήν·<rt>περιτομή</rt></ruby><rt>circumcision</rt></ruby><rt>N-ASF</rt></RUBY>)A
 	- ⋯⋯⋯⋯⋯⋯⋯
 	- <rt>2:10a</rt> (<RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>Only [they asked]</rt></ruby><rt>A-ASN</rt></RUBY>)A ⸉<RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY>⸊ 
-		- <rt><mark>2:10b°⁷</mark></rt> (<RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>πτωχῶν<rt>πτωχός</rt></ruby><rt>poor</rt></ruby><rt>A-GPM</rt></RUBY>)[^5]C ⸉...⸊ <RUBY><ruby><ruby><strong>μνημονεύωμεν,</strong><rt>μνημονεύω</rt></ruby><rt>we should remember</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
+		- <rt><mark>2:10b°⁷</mark></rt> (<RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>πτωχῶν<rt>πτωχός</rt></ruby><rt>poor</rt></ruby><rt>A-GPM</rt></RUBY>)[^7]C ⸉...⸊ <RUBY><ruby><ruby><strong>μνημονεύωμεν,</strong><rt>μνημονεύω</rt></ruby><rt>we should remember</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
 	- <rt>2:10c</rt> —— ( ‹<RUBY><ruby><ruby>ὃ°⁷⮥<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>›c )⦇ (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐσπούδασα</strong><rt>σπουδάζω</rt></ruby><rt>I was eager</rt></ruby><rt>V-AAI-1S</rt></RUBY> ⦈( =‹<RUBY><ruby><ruby>αὐτὸ<rt>αὐτός</rt></ruby><rt>the same</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>thing</rt></ruby><rt>D-ASN</rt></RUBY>›c <RUBY><ruby><ruby><em>ποιῆσαι.¶</em><rt>ποιέω</rt></ruby><rt>to do</rt></ruby><rt>V-AAN</rt></RUBY>)C
 
 
-[^1]: δὲ：後置詞，不能放在句首；但因為是對等連接詞，延續上文 2:4-5 的破格繼續推進論述。
-[^2]: Ἀπὸ τῶν _δοκούντων_ _εἶναί_ τι：又是 anacoluthon (破格)，沒有主要動詞，子句不完整——其中有三層俄羅斯娃娃，一層套一層：
-[^3]: parenthesis (插入 ?)
-[^4]: διαφέρω：不及物動詞 (Friberg)，所以 οὐδέν 和 μοι 不能當作補語，只能當作狀語 (adjunct)。
-[^5]: word-order：prolepsis (AGG §128b.d)
-內層 
-中層
+[^1]: δὲ：後置詞，不能放在句首；但因為是對等連接詞，延續上文 2:4-5 的破格繼續推進論述，往下銜接 2:6f 的主要子句。
+[^2]: Ἀπὸ τῶν _δοκούντων_ _εἶναί_ τι：有三層俄羅斯娃娃。最內圈：不定詞內嵌子句 (_εἶναί_ τι) 當作第二圈分詞 (_δοκούντων_) 的補語，意思是「以為『是 something』」；第二圈分詞內嵌子句 (_δοκούντων_ ...) 之所以是所有格，是因為被前面的介系詞 (Ἀπὸ) 掐住脖子，合起來形成最外圈的介系詞片語，整個往下修飾主要子句 2:6f 的主要動詞 **προσανέθεντο**。
+[^3]: ὁποῖοί ποτε **ἦσαν**：從上下文判斷，當作打斷思緒的 parenthesis 插入句 (AGG, §292d)，意思是「whoever-they were formerly 不管他們之前是誰」。
+[^4]: **διαφέρει**：διαφέρω 是不及物動詞 (Friberg)，所以 οὐδέν 和 μοι 不能當作補語，只能當作狀語 (adjunct)。
+[^5]: πρόσωπον ... ἀνθρώπου：完整片語被打斷，中間插入 ὁ Θεὸς 的現象稱為 hyperbaton (倒置)。
+[^6]: 從上下文推敲，打斷思緒的插入句在此結束。
+[^7]: word-order：prolepsis (AGG §128b.d)
