@@ -18,9 +18,9 @@
 	- <rt>2:9d</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we [should go]</rt></ruby><rt>P-1NP</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔθνη,<rt>ἔθνος</rt></ruby><rt>Gentiles</rt></ruby><rt>N-APN</rt></RUBY>)A 
 	- <rt>2:9e</rt> (<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>they</rt></ruby><rt>P-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>περιτομήν·<rt>περιτομή</rt></ruby><rt>circumcision</rt></ruby><rt>N-ASF</rt></RUBY>)A
 	- ⋯⋯⋯⋯⋯⋯⋯
-	- <rt>2:10a</rt> (<RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>Only [they asked]</rt></ruby><rt>A-ASN</rt></RUBY>)A ⸉<RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY>⸊ 
-		- <rt><mark>2:10b°⁷</mark></rt> (<RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>πτωχῶν<rt>πτωχός</rt></ruby><rt>poor</rt></ruby><rt>A-GPM</rt></RUBY>)[^19]C ⸉...⸊ <RUBY><ruby><ruby><strong>μνημονεύωμεν,</strong><rt>μνημονεύω</rt></ruby><rt>we should remember</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
-	- <rt>2:10c</rt> —— ( ‹<RUBY><ruby><ruby>ὃ°⁷⮥<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>›c )⦇ (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐσπούδασα</strong><rt>σπουδάζω</rt></ruby><rt>I was eager</rt></ruby><rt>V-AAI-1S</rt></RUBY> ⦈( =‹<RUBY><ruby><ruby>αὐτὸ<rt>αὐτός</rt></ruby><rt>the same</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>thing</rt></ruby><rt>D-ASN</rt></RUBY>›c <RUBY><ruby><ruby><em>ποιῆσαι.¶</em><rt>ποιέω</rt></ruby><rt>to do</rt></ruby><rt>V-AAN</rt></RUBY>)C
+	- <rt>2:10a</rt> (<RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>Only [they asked]</rt></ruby><rt>A-ASN</rt></RUBY>)A ⸉<RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY>⸊[^19] 
+		- <rt><mark>2:10b°⁷</mark></rt> (<RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>πτωχῶν<rt>πτωχός</rt></ruby><rt>poor</rt></ruby><rt>A-GPM</rt></RUBY>)[^20]C ⸉...⸊ <RUBY><ruby><ruby><strong>μνημονεύωμεν,</strong><rt>μνημονεύω</rt></ruby><rt>we should remember</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
+	- <rt>2:10c</rt> ( ‹<RUBY><ruby><ruby>ὃ°⁷⮥<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>›c )⦇ (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐσπούδασα</strong><rt>σπουδάζω</rt></ruby><rt>I was eager</rt></ruby><rt>V-AAI-1S</rt></RUBY>[^21] ⦈( =‹<RUBY><ruby><ruby>αὐτὸ<rt>αὐτός</rt></ruby><rt>the same</rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>thing</rt></ruby><rt>D-ASN</rt></RUBY>›c <RUBY><ruby><ruby><em>ποιῆσαι.¶</em><rt>ποιέω</rt></ruby><rt>to do</rt></ruby><rt>V-AAN</rt></RUBY>)[^22]C
 
 
 [^1]: δὲ：後置詞，不能放在句首；但因為是對等連接詞，延續上文 2:4-5 的破格繼續推進論述，往下銜接 2:6f 的主要子句。
@@ -41,4 +41,7 @@
 [^16]: στῦλοι _εἶναι_：不定詞內嵌子句當作實名詞用，作為 _δοκοῦντες_ (感知言說動詞 δοκέω；GGBB, 604-605) 的補語。因為不定詞本身是 εἰμί (等同動詞)，所以 στῦλοι 也是主格，作為內嵌子句裡面的 predicate nominative (述詞主格)。
 [^17]: 分詞 (_δοκοῦντες_)＋實名詞 (不定詞內嵌子句) 的結構。
 [^18]: **ἔδωκαν**：δίδωμι 可以帶出兩個補語，人 (間接受格 ἐμοὶ καὶ Βαρνάβα) & 事物 (直接受格 δεξιὰς κοινωνίας)。
-[^19]: word-order：prolepsis (AGG §292b)
+[^19]: μόνον ⸉ἵνα⸊：中性的 μόνον當副詞使用 (BAGD)，把 2:10ab 與 2:9de 分別出來，在此有「但書」的意思——教會柱石與保羅行相交之禮 (2:9c)，希望產生兩種結果：第一個 ἵνα，去傳福音 (2:9de)；第二個 ἵνα，要關心窮人 (2:10ab)。Wallace 誤以為這是 imperatival  ἵνα (GGBB, 477)，很可能是沒看到前後兩個 ἵνα 的關聯 (都從屬於 2:9c)。
+[^20]: τῶν πτωχῶν ἵνα ...：τῶν πτωχῶν 脫離正常的 word-order，被擺在從屬連接子句連接詞 ἵνα 之前，為了刻意凸顯「窮人」的重要。這樣的筆法，在語法上稱之為 prolepsis (AGG §292b)。
+[^21]: **ἐσπούδασα**：σπουδάζω 後面要接不定詞 (BAGD)，才能表達完整的含意。
+[^22]: ὃ ... αὐτὸ τοῦτο _ποιῆσαι_：不定詞內嵌子句當實名詞用，作為主要動詞 **ἐσπούδασα** 的補語 (C)。在不定詞子句裡面，ὃ 是補語 (c)，之後的 αὐτὸ τοῦτο (this very thing) 與 ὃ 同位，補充、強調「這件事情」。
