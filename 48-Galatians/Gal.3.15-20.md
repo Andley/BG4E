@@ -31,14 +31,11 @@
 	- ⋯⋯⋯⋯⋯⋯⋯
 	- <rt>3:19d</rt> {<RUBY><ruby><ruby><em>διαταγεὶς</em><rt>διατάσσω</rt></ruby><rt>having been ordained</rt></ruby><rt>V-APP-NSM</rt></RUBY> ‹<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀγγέλων<rt>ἄγγελος</rt></ruby><rt>angels</rt></ruby><rt>N-GPM</rt></RUBY>›a ‹<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>χειρὶ<rt>χείρ</rt></ruby><rt>[the] hand</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>μεσίτου.<rt>μεσίτης</rt></ruby><rt>of a mediator</rt></ruby><rt>N-GSM</rt></RUBY>›a }A°²⮥
 - ——————————————
-- <rt>3:20a</rt> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>However</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>μεσίτης<rt>μεσίτης</rt></ruby><rt>a mediator</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἑνὸς<rt>εἷς</rt></ruby><rt>of one [person]</rt></ruby><rt>A-GSM</rt></RUBY>)C <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἔστιν,</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
+- <rt>3:20a</rt> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>However</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>μεσίτης<rt>μεσίτης</rt></ruby><rt>a mediator</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἑνὸς<rt>εἷς</rt></ruby><rt>of one [person]</rt></ruby><rt>A-GSM</rt></RUBY>)[^2]C <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἔστιν,</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
 - <rt>3:20b</rt> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστιν.</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>
 
 
 
 
 [^1]: ἄχρις οὗ Temporal. Here ἄχρις and the relative οὗ function as a conjunction “until the time when” (BDAG, 160– 61.1.b.α). 
-
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+[^2]: ἑνὸς：predicate genitive (ATR, )
