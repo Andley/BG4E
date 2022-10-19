@@ -38,7 +38,6 @@
 
 
 ## TO-DO
-- [ ] OGNTa + LN ?
 
 
 
