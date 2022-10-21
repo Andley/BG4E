@@ -1,8 +1,8 @@
 #### 圖析 (Gal 2:11-14)
 
 - <rt>2:11a</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY>⸊
-	- <rt>2:11b</rt> <RUBY><ruby><ruby>Ὅτε<rt>ὅτε</rt></ruby><rt>When</rt></ruby><rt>CONJ</rt></RUBY> ⸉...⸊ <RUBY><ruby><ruby><strong>ἦλθεν</strong><rt>ἔρχομαι</rt></ruby><rt>came</rt></ruby><rt>V-AAI-3S</rt></RUBY> (<RUBY><ruby><ruby>Κηφᾶς<rt>Κηφᾶς</rt></ruby><rt>Peter</rt></ruby><rt>N-NSM-P</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἀντιόχειαν,<rt>Ἀντιόχεια</rt></ruby><rt>Antioch</rt></ruby><rt>N-ASF-L</rt></RUBY>)A 
-- <rt>2:11c</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πρόσωπον<rt>πρόσωπον</rt></ruby><rt>face</rt></ruby><rt>N-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>his⁞<strong><font color='red'>him</font></strong></rt></ruby><rt>P-DSM</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἀντέστην,</strong><rt>ἀνθίστημι</rt></ruby><rt>I opposed [him]</rt></ruby><rt>V-AAI-1S</rt></RUBY>
+	- <rt>2:11b</rt> <RUBY><ruby><ruby>Ὅτε<rt>ὅτε</rt></ruby><rt>When</rt></ruby><rt>CONJ</rt></RUBY>[^1] ⸉...⸊ <RUBY><ruby><ruby><strong>ἦλθεν</strong><rt>ἔρχομαι</rt></ruby><rt>came</rt></ruby><rt>V-AAI-3S</rt></RUBY> (<RUBY><ruby><ruby>Κηφᾶς<rt>Κηφᾶς</rt></ruby><rt>Peter</rt></ruby><rt>N-NSM-P</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἀντιόχειαν,<rt>Ἀντιόχεια</rt></ruby><rt>Antioch</rt></ruby><rt>N-ASF-L</rt></RUBY>)A 
+- <rt>2:11c</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πρόσωπον<rt>πρόσωπον</rt></ruby><rt>face</rt></ruby><rt>N-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>his⁞<strong><font color='red'>him</font></strong></rt></ruby><rt>P-DSM</rt></RUBY>)C[^2] <RUBY><ruby><ruby><strong>ἀντέστην,</strong><rt>ἀνθίστημι</rt></ruby><rt>I opposed [him]</rt></ruby><rt>V-AAI-1S</rt></RUBY>
 	- <rt>2:11c</rt><RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><em>κατεγνωσμένος</em><rt>καταγινώσκω</rt></ruby><rt>condemned</rt></ruby><rt>V-RPP-NSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἦν.</strong><rt>εἰμί</rt></ruby><rt>he stood</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P
 - ——————————————
 - <rt>2:12a</rt> ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
@@ -24,10 +24,5 @@
 		- <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>σὺ<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NS</rt></RUBY>)S (<RUBY><ruby><ruby>Ἰουδαῖος<rt>Ἰουδαῖος</rt></ruby><rt>a Jew</rt></ruby><rt>A-NSM-PG</rt></RUBY> <RUBY><ruby><ruby><em>ὑπάρχων</em><rt>ὑπάρχω</rt></ruby><rt>being</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἐθνικῶς<rt>ἐθνικῶς</rt></ruby><rt>like a Gentile</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαϊκῶς<rt>Ἰουδαϊκῶς</rt></ruby><rt>like a Jew</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ζῇς,</strong><rt>ζάω</rt></ruby><rt>live</rt></ruby><rt>V-PAI-2S</rt></RUBY> 
 	- <rt>2:14f</rt> <RUBY><ruby><ruby>πῶς<rt>πως</rt></ruby><rt>why</rt></ruby><rt>ADV</rt></RUBY> ( ‹<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔθνη<rt>ἔθνος</rt></ruby><rt>Gentiles</rt></ruby><rt>N-APN</rt></RUBY>›s )⦇ <RUBY><ruby><ruby><strong>ἀναγκάζεις</strong><rt>ἀναγκάζω</rt></ruby><rt>do you compel</rt></ruby><rt>V-PAI-2S</rt></RUBY> ⦈(<RUBY><ruby><ruby><em>ἰουδαΐζειν;</em><rt>Ἰουδαΐζω</rt></ruby><rt>to Judaize?</rt></ruby><rt>V-PAN</rt></RUBY>)C
 
-
-
-
-
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+[^1]: Ὅτε：表達時間的從屬連接詞 (BAGD)，帶出 2:11b 從屬子句，修飾 2:11c 的主要動詞 **ἀντέστην**。
+[^2]: αὐτῷ：因為主要動詞 **ἀντέστην** 帶間接受格表達所要抵擋的人 or 事物 (BAGD)，所以這裡的 αὐτῷ 要當作 C，
