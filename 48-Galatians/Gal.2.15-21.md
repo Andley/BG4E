@@ -41,9 +41,9 @@
 - <rt>2:21d</rt> <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Χριστὸς<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby>δωρεὰν<rt>δωρεάν</rt></ruby><rt>for naught</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἀπέθανεν.¶</strong><rt>ἀποθνήσκω</rt></ruby><rt>died</rt></ruby><rt>V-AAI-3S</rt></RUBY>
 
 
-[^1]:  νόμου：從上下文推敲，要理解成受詞所有格 objective genitive (GGBB, 116-119) 比較通順。ἔργων νόμου 合起來的意思是「行律法」，不是「律法的行為」。
+[^1]:  νόμου：從上下文推敲，要理解成受詞所有格 objective genitive (GGBB, 116-119) 比較通順。中心詞 (head noun) ἔργων 同字根動詞是 ἔργων νόμου 合起來的意思是「行律法」，不是「律法的行為」。
 [^2]: ἐὰν μὴ：慣用語，意思是「除非 except」(BAGD)。
-[^3]: Ἰησοῦ Χριστοῦ：從上下文推敲， 2:16d 是在跟 2:16c 的「行律法」作對比。因此，在此也是理解成受詞所有格 objective genitive (GGBB, 116-119) 比較通順。πίστεως Ἰησοῦ Χριστοῦ 合起來的意思是「信耶穌基督」，不是「耶穌基督的信實」(主詞所有格)。。
+[^3]: Ἰησοῦ Χριστοῦ：從上下文推敲， 2:16d 是在跟 2:16c 的「行律法」作對比。因此，在此也是理解成受詞所有格 objective genitive (GGBB, 116-119) 比較通順。πίστεως Ἰησοῦ Χριστοῦ 合起來的意思是「信耶穌基督」，不是「耶穌基督的信實」。
 [^4]: 2:16a-h 是一個句子，主要子句 2:16e 的連接詞是 2:16a 的 δὲ，這裡的 καὶ 當副詞使用。
 [^5]: ὃ νῦν **ζῶ** ἐν σαρκί：沒有先行詞的關係子句 (headless relative clause)，因為 ζάω 是不及物動詞，所以 ὃ 不是 accusative of content (馮, 597 n.1)，而是直接受格當副詞使用 (Robertson, 479 & 715)。
 [^6]: τῇ ：不只是把 τοῦ Υἱοῦ τοῦ Θεοῦ ... 變成名詞 (deSilva, 48)，而是接續前面的 πίστει (DSF)，用同位的方式來進一步說明 πίστει 的內涵。
