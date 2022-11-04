@@ -55,6 +55,10 @@ ruby {
     font-weight: 800;
   }
 
+  td {
+    border: 1px solid;
+  }
+
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
 .P {text-decoration: underline wavy; text-underline-offset: 4px; }
