@@ -47,6 +47,13 @@ ruby {
     margin-top: 30px;
   }
   
+  th {
+    border-bottom: 4px double;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-left: 2px solid;
+    font-weight: 800;
+  }
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
