@@ -1,6 +1,6 @@
 #### 圖析 (Gal 3:7-14)
 
-- <rt>3:7a</rt> <RUBY><ruby><ruby><strong>Γινώσκετε</strong><rt>γινώσκω</rt></ruby><rt>Know</rt></ruby><rt>V-PAI⁞PAM-2P</rt></RUBY> <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY>
+- <rt>3:7a</rt> <RUBY><ruby><ruby><strong>Γινώσκετε</strong><rt>γινώσκω</rt></ruby><rt>Know</rt></ruby><rt>V-PAI⁞PAM-2P</rt></RUBY>[^1] <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY>
 	- <rt>3:7b</rt> <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<mark><RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως,<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>°¹</mark>)S 
 	- <rt>3:7c</rt> (<RUBY><ruby><ruby>οὗτοι°¹⮥<rt>οὗτος</rt></ruby><rt>these</rt></ruby><rt>D-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>υἱοί<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby><strong>εἰσιν</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-3P</rt></RUBY> ⦈(<RUBY><ruby><ruby>Ἀβραάμ.<rt>Ἀβραάμ</rt></ruby><rt>of Abraham</rt></ruby><rt>N-GSM-P</rt></RUBY>)C
 - ——————————————
@@ -32,9 +32,4 @@
 		- <rt>3:14b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίαν<rt>ἐπαγγελία</rt></ruby><rt>promise</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-GSN</rt></RUBY>)C <RUBY><ruby><ruby><strong>λάβωμεν</strong><rt>λαμβάνω</rt></ruby><rt>we might receive</rt></ruby><rt>V-AAS-1P</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως.¶<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>)A
 
 
-
-
-
-
----
-[加拉太書希臘文筆記 ↵](Galatians-Notes.md)
+[^1]: **Γινώσκετε**：現在式時態形式 (present tense-form)、第二人稱的直說語氣、命令語氣字形一模一樣，要從上下文去判斷。這裡兩種都說得通。
