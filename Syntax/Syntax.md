@@ -26,7 +26,7 @@ Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounc
 	- Noun (名詞) §31
 		- [Nominative (主格) §31.1](§31.1.md)
 		- Genitive (所有格) §31.2
-		- Dative (間接受格) §31.3
+		- [Dative (間接受格) §31.3](§31.3.md)
 		- [Accusative (直接受格) §31.4](§31.4.md)
 		- Vocative (呼格) §31.5
 	- Article (冠詞) §32
