@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 ruby {
     display: inline-flex;
     flex-direction: column-reverse ;
@@ -24,17 +25,32 @@ ruby {
   }
   h2 {
     text-align: center;
+    color:black;
   }
+  h3, h4, h5, h6 {
+    color:black;
+  }
+
   ruby strong {
     color: red;
+    font-weight:700;
   }
   ruby em {
     color: blue;
+    font-weight:700;
   }
 
-  p, html, body, ruby, rt {
+  p, html, body, ruby, rt, ul, ol {
     font-family: 'Tinos', 'Noto Sans TC';
     color: black;
+  }
+  
+  ul li::marker {
+    color: black;
+  }
+
+  ul, ol {
+    margin-bottom:0px;
   }
 
   section {
