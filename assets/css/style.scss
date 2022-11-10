@@ -56,14 +56,9 @@ section {
   margin-top: 120px;
 }
 
-ul{
-  list-style-image:url('./bullet.png');
-}
-
 ul li::marker {
   content: '• ';
 }
-
 
 nav {
   ul li::marker {
