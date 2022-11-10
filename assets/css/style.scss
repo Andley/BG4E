@@ -52,6 +52,17 @@ ruby {
 ul{
   list-style-image:url('./bullet.png');
 }
+
+ul li::marker {
+  content: '• ';
+}
+
+
+nav {
+  ul li::marker {
+    content: none;
+  }
+}
   section {
     width: 700px;
   } 
