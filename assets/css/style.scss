@@ -50,7 +50,8 @@ ruby {
 }
 
 ul{
-  list-style-image:url('../images/bullet.png');
+  list-style-image:url('./bullet.png');
+  assets/images/bullet.png
 }
   section {
     width: 700px;
