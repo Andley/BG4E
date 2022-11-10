@@ -44,15 +44,9 @@ ruby {
     font-family: 'Tinos', 'Noto Sans TC';
     color: black;
   }
-  
- ul li::marker {
-    content: '✝ ';
-    font-size: 1.2em;
-  color: red;
-}
 
-  p, ul, ol, table, pre, dl {
-    margin: 0 0 0px;
+  ul, ol, dl {
+    margin-bottom: 0px;
 }
 
   section {
