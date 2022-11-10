@@ -45,13 +45,15 @@ ruby {
     color: black;
   }
   
-  ul li::marker {
-    color: black;
-  }
+ ul li::marker {
+    content: '✝ ';
+    font-size: 1.2em;
+  color: red;
+}
 
-  ul, ol {
-    margin-bottom:0px;
-  }
+  p, ul, ol, table, pre, dl {
+    margin: 0 0 0px;
+}
 
   section {
     width: 700px;
