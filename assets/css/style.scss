@@ -36,8 +36,13 @@ ruby {
 
   p, html, body {
     font-family: 'EB Garamond','Noto Sans', 'Noto Sans TC',  sans-serif;
+    color: black;
   }
 
+  ::maker {
+    color: deepskyblue;
+  }
+  
   section {
     width: 700px;
   } 
