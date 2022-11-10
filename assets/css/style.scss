@@ -33,13 +33,8 @@ ruby {
   }
 
   p, html, body, ruby, rt {
-    font-family: 'Gentium Book Plus', 'Noto Sans TC',  sans-serif;
+    font-family: 'Tinos', 'Noto Sans TC';
     color: black;
-  }
-
-  li::marker {
-    color: black;
-    content: '•';
   }
 
   section {
