@@ -74,7 +74,12 @@ nav {
     width: 90%;
     margin-top: 30px;
   }
-  
+
+/* table */
+  table {
+    border-color: black;
+    width: auto;
+  }
   th {
     border-bottom: 4px double;
     border-top: 2px solid;
@@ -82,7 +87,6 @@ nav {
     border-left: 2px solid;
     font-weight: 800;
   }
-
   td {
     border: 1px solid;
   }
