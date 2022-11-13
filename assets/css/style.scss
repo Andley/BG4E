@@ -102,7 +102,7 @@ nav {
 ul ul { position: relative; }
 ul ul::before {
  content:'';
- border-left: 1px dotted grey ;
+ border-left: 1px solid grey ;
  position: absolute;
 }
 ul ul::before { left: -10px; top: 0; bottom: 0; 
