@@ -38,16 +38,14 @@ Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounc
 		- [Conjunctions (連接詞)](§43.md)
 		- Particles (質詞) §44
 - 動詞類 §50
-		- Verb (動詞)
-			- [Tense and Aspect (時態與觀點) §51](§51.md)
-			- [Voice (語態) §52](§52.md)
-			- [Mood (語氣) §53](§53.md)
-			- [Person (人稱) §54](§54.md)
-			- [Number (數) §55](§55.md)
-		- [Infinitive (不定詞) §56](§56.md)
-		- [Participle (分詞) §57](§57.md)
-		
-		
+	- Verb (動詞)
+		- [Tense and Aspect (時態與觀點) §51](§51.md)
+		- [Voice (語態) §52](§52.md)
+		- [Mood (語氣) §53](§53.md)
+		- [Person (人稱) §54](§54.md)
+		- [Number (數) §55](§55.md)
+	- [Infinitive (不定詞) §56](§56.md)
+	- [Participle (分詞) §57](§57.md)
 - Part V 子句與句子 (Clause and Sentence) §60
 	- [Clauses (子句) §61](§61.md)
 	- [Relative Clause](Relative%20Clause.md)
