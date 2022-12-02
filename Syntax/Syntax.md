@@ -2,53 +2,69 @@
 
 
 ## 目錄
-- Part I 希臘文基礎
-	- 希臘文歷史 
+- Part I 希臘文基礎 §1xx
+	- 希臘文歷史 §100
 		- 閃語對聖經希臘文的影響 §1b
 		- 耶穌也說希臘文 §1c
 		- 聖經希臘文與古典希臘文之異同 §1d
 		- 聖經希臘文與現代希臘文之異同 §1e
-	- 語言學基礎
+	- 語言學基礎 §120
 		- 語言金字塔 §2a
 		- 形式與功能 §2b
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
 - ═════════════
-- Part II Word and Phrase (字詞與片語) 
-	- 名詞類 §30
-		- Noun (名詞) §31
-			- [Nominative (主格) §31.1](§31.1.md)
-			- Genitive (所有格) §31.2
-			- [Dative (間接受格) §31.3](§31.3.md)
-			- [Accusative (直接受格) §31.4](§31.4.md)
-			- Vocative (呼格) §31.5
-		- Article (冠詞) §32
-		- Adjectives (形容詞) §33
-		- Pronouns (代名詞) §34
-	- 功能詞類 §40
-		- [Prepositions (介系詞)](§41.md)
-		- Adverbs (副詞) §42
-		- [Conjunctions (連接詞)](§43.md)
-		- Particles (質詞) §44
-	- 動詞類 §50
-		- Verb (動詞)
-			- [Tense and Aspect (時態與觀點) §51](§51.md)
-			- [Voice (語態) §52](§52.md)
-			- [Mood (語氣) §53](§53.md)
-			- [Person (人稱) §54](§54.md)
-			- [Number (數) §55](§55.md)
-		- [Infinitive (不定詞) §56](§56.md)
-		- [Participle (分詞) §57](§57.md)
- - ═════════════
-- Part V 子句與句子 (Clause and Sentence) §60
-	- [Clauses (子句) §61](§61.md)
-	- [Relative Clause](Relative%20Clause.md)
-	- [Sentence (句子) §62](§62.md)
-	- [Hyperbaton](Hyperbaton.md)
-- Part VI 段落與話語篇章 (Paragraph and Discourse) §600
+- Part II 聲音與字形 §2xx
+	- phonetics §210
+	- morphology §220
+- ═════════════
+- Part III 字詞與片語 (Word and Phrase §3xx-§5xx)
+	- 名詞類 §3xx
+		- Noun (名詞) §310
+			- [Nominative (主格) §311](§311.md)
+			- [Genitive (所有格) §312](§312.md)
+			- [Dative (間接受格) §313](§313.md)
+			- [Accusative (直接受格) §314](§314.md)
+			- [Vocative (呼格) §315](§315.md)
+		- [Article (冠詞) §320](§320.md)
+		- [Adjectives (形容詞) §330](§330.md)
+		- [Personal Pronouns (人稱代名詞) §340](§340.md)
+		- [Demonstrative Pronouns (指示代名詞) §350](§350.md)
+		- [Relative Pronouns (關係代名詞) §360](§360.md)
+		- [Interrogative Pronouns (疑問代名詞) §370](§370.md)
+		- [Indefinite Pronouns (不定代名詞) §380](§380.md)
+	- 功能詞類 §4xx
+		- [Prepositions (介系詞) §410](§410.md)
+		- [Conjunctions (連接詞) §420](§420.md)
+		- [Adverbs (副詞) §430](§430.md)
+		- [Particles (質詞) §440](§440.md)
+	- 動詞類 §5xx
+		- [Verb (動詞) §510](§510.md)
+			- [Tense and Aspect (時態與觀點) §511](§511.md)
+			- [Voice (語態) §512](§512.md)
+			- [Mood (語氣) §513](§513.md)
+			- [Person (人稱) §514](§514.md)
+			- [Number (數) §515](§515.md)
+		- [Participle (分詞) §520](§520.md)
+		- [Infinitive (不定詞) §530](§530.md)
+- ═════════════
+- Part IV 子句與句子 (Clause and Sentence) §6xx
+	- [Clauses (子句) §610](§610.md)
+		- [[Word Order]]
+		- [Hyperbaton](Hyperbaton.md)
+		- [[command and prohibition]]
+		- [[question]]
+		- [[negation]]
+		- [Relative Clause](Relative%20Clause.md)
+			- internally-headed
+			- externally-headed
+			- un-headed
+	- [Sentence (句子) §620](§620.md)
+- ═════════════
+- Part V 段落與篇章 (Paragraph and Discourse) §7xx
 	- [[discourse is more than]]
 	- [[information strucutre]]
-- Part VII Context and Cotext §700
+	- Context and Cotext 
 
 - [[Hebraic Influence]]
 
