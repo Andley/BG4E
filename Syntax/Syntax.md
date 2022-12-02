@@ -1,51 +1,45 @@
 # 全民希臘文句法 (BG4E-Syntax) 
 
 
-## Part I 希臘文基礎
-八大詞類都從拉丁文而來：
-- nomen → noun
-	- nomen 意思是「名字」
-- pronomen→ pronoun
-- verbum → verb
-- adverbium→ adverb
-- participium → participle
-- praepositio→ preposition
-- conjunctio → conjunction
-- interjectio→ interjection
-
-## Part II Phonology (字音)
-![[../images/Pasted image 20220706070847.png]]
-Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounciation versus Erasmian_ (Eugene, Oregon: Wipf & Stock, 2020), 8.
-
-
-## Part III Morphology (字形)
-
-
-## Part IV Word and Phrase (字詞與片語) 
-- 名詞類 §30
-	- Noun (名詞) §31
-		- [Nominative (主格) §31.1](§31.1.md)
-		- Genitive (所有格) §31.2
-		- [Dative (間接受格) §31.3](§31.3.md)
-		- [Accusative (直接受格) §31.4](§31.4.md)
-		- Vocative (呼格) §31.5
-	- Article (冠詞) §32
-	- Adjectives (形容詞) §33
-	- Pronouns (代名詞) §34
-- 功能詞類 §40
+## 目錄
+- Part I 希臘文基礎
+	- 希臘文歷史 
+		- 閃語對聖經希臘文的影響 §1b
+		- 耶穌也說希臘文 §1c
+		- 聖經希臘文與古典希臘文之異同 §1d
+		- 聖經希臘文與現代希臘文之異同 §1e
+	- 語言學基礎
+		- 語言金字塔 §2a
+		- 形式與功能 §2b
+		- Choice implies Meaning §2c
+		- 希臘文詞類 (Parts of Speech) §2d
+- ═════════════
+- Part II Word and Phrase (字詞與片語) 
+	- 名詞類 §30
+		- Noun (名詞) §31
+			- [Nominative (主格) §31.1](§31.1.md)
+			- Genitive (所有格) §31.2
+			- [Dative (間接受格) §31.3](§31.3.md)
+			- [Accusative (直接受格) §31.4](§31.4.md)
+			- Vocative (呼格) §31.5
+		- Article (冠詞) §32
+		- Adjectives (形容詞) §33
+		- Pronouns (代名詞) §34
+	- 功能詞類 §40
 		- [Prepositions (介系詞)](§41.md)
 		- Adverbs (副詞) §42
 		- [Conjunctions (連接詞)](§43.md)
 		- Particles (質詞) §44
-- 動詞類 §50
-	- Verb (動詞)
-		- [Tense and Aspect (時態與觀點) §51](§51.md)
-		- [Voice (語態) §52](§52.md)
-		- [Mood (語氣) §53](§53.md)
-		- [Person (人稱) §54](§54.md)
-		- [Number (數) §55](§55.md)
-	- [Infinitive (不定詞) §56](§56.md)
-	- [Participle (分詞) §57](§57.md)
+	- 動詞類 §50
+		- Verb (動詞)
+			- [Tense and Aspect (時態與觀點) §51](§51.md)
+			- [Voice (語態) §52](§52.md)
+			- [Mood (語氣) §53](§53.md)
+			- [Person (人稱) §54](§54.md)
+			- [Number (數) §55](§55.md)
+		- [Infinitive (不定詞) §56](§56.md)
+		- [Participle (分詞) §57](§57.md)
+ - ═════════════
 - Part V 子句與句子 (Clause and Sentence) §60
 	- [Clauses (子句) §61](§61.md)
 	- [Relative Clause](Relative%20Clause.md)
@@ -82,3 +76,10 @@ Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounc
 |   Funk    | Funk, Robert W. <em>A Beginning-Intermediate Grammar of Hellenistic Greek</em>. 3rd ed. Polebridge Press, 2013.                                                                                                                |
 |   Runge   | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.                                                                   |
 | Levinsohn | Levinsohn, Stephen H. <em>Discourse Features of New Testament Greek: A Coursebook on the Information Structure of New Testament Greek</em>. 2nd ed. Dallas, Tex.: SIL International, 2000.                                     |
+
+
+
+
+![[../images/Pasted image 20220706070847.png]]
+Philemon Zachariou, _Reading and Pronouncing Biblical Greek: Historical Pronounciation versus Erasmian_ (Eugene, Oregon: Wipf & Stock, 2020), 8.
+

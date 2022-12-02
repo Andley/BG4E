@@ -27,7 +27,7 @@
 
 - <rt>腓1:9a</rt> <RUBY><ruby><ruby><mark>Καὶ</mark><rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>προσεύχομαι,</strong><rt>προσεύχομαι</rt></ruby><rt>I pray,</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P ⇒ 我禱告這個
 
-用對等連接詞 δέ 帶出主要子句。δέ 也可以翻譯成 and/but，但跟 καί 最大的差別則是「把論述推進 (development) 到下一個論點」。
+用對等連接詞 δέ 帶出主要子句。δέ 也可以翻譯成 and/but，跟 καί 最大的差別是「把論述推進 (development) 到下一個論點」。
 
 - δέ 是後置詞，不能放在句首，通常放在子句的第二個字，但也可能放在更後面。
 
