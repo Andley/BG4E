@@ -14,11 +14,15 @@
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
 - ═════════════
-- Part II 聲音與字形 §2xx
+- Part II Phonology §1xx
+- ═════════════
+- Part III Morphology §2xx
 	- phonetics §210
 	- morphology §220
 - ═════════════
-- Part III 字詞與片語 (Word and Phrase §3xx-§5xx)
+- Part IV Semantics
+- ═════════════
+- Part V字詞與片語 (Word and Phrase §3xx-§5xx)
 	- 名詞類 §3xx
 		- Noun (名詞) §310
 			- [Nominative (主格) §311](§311.md)
@@ -48,7 +52,8 @@
 		- [Participle (分詞) §520](§520.md)
 		- [Infinitive (不定詞) §530](§530.md)
 - ═════════════
-- Part IV 子句與句子 (Clause and Sentence) §6xx
+
+- Part VI 子句與句子 (Clause and Sentence) §6xx
 	- [Clauses (子句) §610](§610.md)
 		- [[Word Order]]
 		- [Hyperbaton](Hyperbaton.md)
@@ -61,8 +66,8 @@
 			- un-headed
 	- [Sentence (句子) §620](§620.md)
 - ═════════════
-- Part V 段落與篇章 (Paragraph and Discourse) §7xx
 	- [[discourse is more than]]
+- Part VII 段落與篇章 (Paragraph and Discourse) §7xx
 	- [[information strucutre]]
 	- Context and Cotext 
 
