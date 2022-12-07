@@ -15,4 +15,4 @@
 - <rt>4:11b</rt> <RUBY><ruby><ruby>μή<rt>μή</rt></ruby><rt>lest</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>πως<rt>πως</rt></ruby><rt>perhaps</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>εἰκῇ<rt>εἰκῇ</rt></ruby><rt>in vain</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>κεκοπίακα</strong><rt>κοπιάω</rt></ruby><rt>I have toiled</rt></ruby><rt>V-RAI-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς.¶<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)A
 
 
-[^1]: BAGD 1.a. 不及物，獨立用法 "顯著的特色是受詞的預期敘述法，φοβοῦμαι ὑμᾶς μήπως εἰκῇ κεκοπίακα εἰς ὑμᾶς 我為你們害怕，唯恐我在你們身上是枉費了工夫"—— 所以 ὑμᾶς 要當作副詞用，意思是：為你們。
+[^1]: ὑμᾶς：不是害怕的對象，而是 BAGD 1.a. 不及物，獨立用法 "A notable feature is the prolepsis of the obj. (顯著的特色是受詞的預期敘述法)，φοβοῦμαι ὑμᾶς μήπως εἰκῇ κεκοπίακα εἰς ὑμᾶς 我為你們害怕，唯恐我在你們身上是枉費了工夫"—— 所以要當作副詞用，意思是：為你們。

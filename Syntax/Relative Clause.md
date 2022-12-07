@@ -12,7 +12,17 @@ AGG §289c
 -   Fauconnier, Stefanie. “Internal and External Relative Clauses in Ancient Greek.” _Journal of Greek Linguistics_ 14, no. 2 (2014): 141–62.[[*Fauconnier - 2014 - Internal and External Relative Clauses in Ancient Greek.pdf*](zotero://select/items/_I3I3RE8A)](file:///C:/Users/andle/SynologyDrive/Drive/ZotFiles/21%20%E5%B8%8C%E8%87%98%E6%96%87/Fauconnier%20-%202014%20-%20Internal%20and%20External%20Relative%20Clauses%20in%20Ancient%20Greek.pdf)
 -   Hayes, Michael. “An Analysis of the Attributive Participle and the Relative Clause in the Greek New Testament.” Doctor of Philosophy, Concordia Seminary, 2014.[[*Hayes - 2018 - An Analysis of the Attributive Participle and the Relative Clause in the Greek.pdf*](zotero://select/items/_H4TEVN5J)](file:///C:/Users/andle/SynologyDrive/Drive/ZotFiles/21%20%E5%B8%8C%E8%87%98%E6%96%87/Hayes%20-%202018%20-%20An%20Analysis%20of%20the%20Attributive%20Participle%20and%20the%20Relative%20Clause%20in%20the%20Greek.pdf)
 
-
+### Typology
+- 用結構區分：
+	- EHRC (External-Headed Relative Clause)
+		- pre-nominal Relative Clause
+		- post-nominal Relative Clause
+	- IHRC (Internal-Headed Relative Clause)
+- 用語意區分：
+	- Restrictive Relative Clause
+	- Non-Restrictive Relative Clause
+		- Appositional Relative Clause
+		- Continuative  Relative Clause
 #### IHRC
 - Mar 4:24 (Mat 7:2) ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν 你們用甚麼量器量給人、也必用甚麼量器量給你們
 	- ⋯⋯⋯⋯⋯⋯⋯
