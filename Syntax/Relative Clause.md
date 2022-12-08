@@ -17,7 +17,7 @@ AGG §289c
 	- EHRC (External-Headed Relative Clause)
 		- pre-nominal Relative Clause
 		- post-nominal Relative Clause
-	- IHRC (Internal-Headed Relative Clause)
+	- IHRC (Internal-Headed Relative Clause) 中心詞內置的關係子句
 - 用語意區分：
 	- Restrictive Relative Clause
 	- Non-Restrictive Relative Clause
