@@ -47,4 +47,4 @@ source: Richard A. Young, _Intermediate New Testament Greek: A Linguistic and Ex
 #### 圖析 & 大綱 (Semantic Structure Analysis)
 source: Richard A. Young, _Intermediate New Testament Greek: A Linguistic and Exegetical Approach_ (Nashville, Tenn: Broadman & Holman, 1994), 277.
 
-![[../images/Pasted image 20221208210620.png]]
+![[../images/Pasted image 20221208211602.png]]
