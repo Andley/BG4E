@@ -6,6 +6,7 @@
       {
         "id": "50eacfd7e524db52",
         "type": "tabs",
+        "dimension": 56.71874999999999,
         "children": [
           {
             "id": "7381c9ad24bf0a92",
@@ -24,6 +25,7 @@
       {
         "id": "c2f695e2c6121ed0",
         "type": "tabs",
+        "dimension": 43.28125,
         "children": [
           {
             "id": "a4a388eaf0490360",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Gal.4.12-20.md"
+                "file": "48-Galatians/Galatians-Interlinear.md"
               }
             }
           },
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "48-Galatians/Gal.4.12-20.md",
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "48-Galatians/Gal.4.12-20.md",
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +157,10 @@
     "width": 183.0555419921875,
     "collapsed": true
   },
-  "active": "a4a388eaf0490360",
+  "active": "7381c9ad24bf0a92",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Gal.4.12-20.md",
+    "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Gal.4.8-11.md",
     "48-Galatians/Gal.4.1-7.md",
     "48-Galatians/Gal.4.21-5.1.md",
