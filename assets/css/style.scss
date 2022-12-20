@@ -88,6 +88,11 @@
     border-left: 1px solid;
   }
 
+  /* offset footnote jumping */
+  html {
+    scroll-padding-top: 70px; /* height of sticky header */
+  }
+
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
 .P {text-decoration: underline wavy; text-underline-offset: 4px; }
