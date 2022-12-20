@@ -1,4 +1,4 @@
-- <rt>2:8</rt> ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>For</rt></ruby><rt>CONJ</rt></RUBY>⸊
+- 2:8 ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>For</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- (<RUBY><ruby><ruby>Τῇ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>χάριτί<rt>χάρις</rt></ruby><rt>by grace</rt></ruby><rt>N-DSF</rt></RUBY>)A 
 - (<RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>you are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby><em>σεσῳσμένοι</em><rt>σῴζω</rt></ruby><rt>saved</rt></ruby><rt>V-RPP-NPM</rt></RUBY>)P 
 	- (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως·<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>)A 
