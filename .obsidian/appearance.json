@@ -1,0 +1,17 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "BG4E",
+    "font",
+    "default",
+    "bg4e"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "accentColor": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": false
+}

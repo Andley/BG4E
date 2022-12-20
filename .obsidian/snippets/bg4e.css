@@ -1,0 +1,145 @@
+/* Obsidian 介面 */
+.theme-dark {
+  --text-tag: #4f8dc2;
+  --text-muted: #E6E6E6;
+  --text-faint: goldenrod;
+  --icon-color: var(--text-faint);
+  --titlebar-text-color: var(--text-faint);
+  --color1:#ea4335;
+  --color2:#4285f4;
+  --color3:#34a853;
+  --color4:#ff8a00;
+  --color-strong: greenyellow;
+  --color-em:gold;
+  --text-accent:yellow;
+  --font-text: "Gentium Book Plus","Tinos", "Noto Sans TC";
+  --control-character-color: white;
+}
+.theme-light {
+  --text-tag: rgb(128, 136, 240);
+  --text-normal:black;
+  --text-faint: grey;
+  --background-primary: white;
+  --color1:darkred;
+  --color2:darkblue;
+  --color3:darkgreen;
+  --color4:darkorange;
+  --color-strong: red;
+  --color-em:blue;
+  --link-color:rgb(128, 136, 240);
+  --link-external-color:rgb(128, 136, 240);
+  --font-text: "Gentium Book Plus", "Tinos", "Noto Sans TC";
+}
+
+/* HTML tags in preview and editor */
+.cm-s-obsidian span.cm-tag {
+  color: var(--text-tag);
+  font-size: 13px;
+  font-family: "Arial Narrow"
+}
+
+/* 標題 */
+.cm-header-1, .markdown-preview-view h1 {
+  color: var(--color1);
+  font-size:26px; /* 20pt 字體大小*/
+  text-align: center;
+  border-bottom: 4px double ;
+}
+.cm-header-2,.markdown-preview-view h2 {
+  color: var(--color2);
+  font-size:24px; /* 18pt 字體大小*/
+  text-align: center;
+}
+.cm-header-3,.markdown-preview-view h3 {
+  color: var(--color3);
+  font-size:22px; /* 16pt 字體大小*/
+}
+.cm-header-4,.markdown-preview-view h4 {
+  color: var(--color4);
+  font-size:19px; /* 14pt 字體大小*/
+}
+.cm-header-5,.markdown-preview-view h5 {
+  color: var(--color5);
+  font-size:16px; /* 12pt 字體大小*/
+}
+
+/*   Table  */
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markdown-rendered thead tr > th , .markdown-preview-view th {
+  border: 1px solid;
+  border-bottom: 4px double;
+  font-weight: 800;
+}
+
+.markdown-preview-view td {
+  border: 1px solid;
+}
+
+
+/*   Ruby Interlinear  */
+ruby {
+  line-height: 5em;
+}
+
+ul ruby {
+  line-height: 1em;
+}
+
+rt {
+  font-size: 0.85em ; 
+}
+
+ul {
+  padding-bottom: 0em ; 
+  margin-bottom: 0em;
+}
+
+strong, .cm-strong {
+    color: var(--color-strong);
+    font-weight:bolder;
+  }
+em, .cm-em {
+    color: var(--color-em);
+    font-weight:bold;
+    font-style:italic;
+  }
+
+.nav-file-title, .nav-folder-title {
+  display: flex;
+  border: 1px solid transparent;
+  border-radius: px;
+  cursor: pointer;
+  color: var(--text-faint);
+  font-size: 13px;
+  line-height: 13px;
+  padding: 2px 0 0 15px;
+  white-space: nowrap;
+}
+
+
+/* text decoration for marking syntax functions */
+.S {text-decoration: underline double; text-underline-offset: 5px;}
+.P {text-decoration: underline wavy; text-underline-offset: 5px;}
+.C {text-decoration: underline solid; text-underline-offset: 5px;}
+.A {text-decoration: underline dotted; text-underline-offset: 5px;}
+
+
+/* handle both LTR and RTL automatically */
+* {
+  unicode-bidi: plaintext;
+}
+
+
+/* BULLET POINT RELATIONSHIP LINES */
+.cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
+.cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px dotted grey ;
+ position: absolute;
+}
+ul ul::before { left: -15px; top: 0; bottom: 0; 
+} 

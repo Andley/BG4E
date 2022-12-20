@@ -1,0 +1,10 @@
+/* ============= 列印 PDF 設定 ============= */
+@page {
+  size: A4 portrait;
+  margin: 2.5cm;
+  }
+
+.markdown-source-view, .markdown-preview-view, .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 600px;
+  margin: auto;
+  } 

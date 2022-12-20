@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "3969f3923e6cfedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c58faa39706a81",
+        "type": "leaf",
+        "dimension": 35.089209855564995,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "48-Galatians/Gal.2.6-10.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "127e20a57164b3d9",
+        "type": "leaf",
+        "dimension": 64.910790144435,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "48-Galatians/Gal.2.6-10.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1e149eb78e8515",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb89deb39da52857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b75d906b38f1fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b1314860610141a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hyper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "47f03e690283089d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5015697479248,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1464b72f66019d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f62b3dd05030d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c60c8158acd8037",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "48-Galatians/Gal.2.6-10.md"
+              }
+            }
+          },
+          {
+            "id": "ffff73b72ba5875f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183.0555419921875,
+    "collapsed": true
+  },
+  "active": "e4c58faa39706a81",
+  "lastOpenFiles": [
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Gal.2.6-10.md",
+    "48-Galatians/Gal.3.23-25.md",
+    "48-Galatians/Galatians-Style.md",
+    "48-Galatians/Galatians-Clause.md",
+    "48-Galatians/Gal.2.1-5.md",
+    "BBG4E/HW6-Key.md",
+    "BBG4E/HW6.md",
+    "BBG4E/HW5-Key.md",
+    "BBG4E/Untitled.md"
+  ]
+}

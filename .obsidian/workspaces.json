@@ -1,0 +1,405 @@
+{
+  "workspaces": {
+    "2Sync": {
+      "main": {
+        "id": "3969f3923e6cfedb",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a81d9f000627cca",
+            "type": "leaf",
+            "dimension": 40.99547511312217,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.7-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "98d95b26b4414933"
+          },
+          {
+            "id": "e4c58faa39706a81",
+            "type": "leaf",
+            "dimension": 59.00452488687783,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.7-14.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "98d95b26b4414933"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b1e149eb78e8515",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb89deb39da52857",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75b75d906b38f1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1314860610141a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "47f03e690283089d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267,
+        "collapsed": true
+      },
+      "right": {
+        "id": "1464b72f66019d33",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f62b3dd05030d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c60c8158acd8037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "48-Galatians/Gal.3.7-14.md"
+                  }
+                }
+              },
+              {
+                "id": "ffff73b72ba5875f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 183.0555419921875,
+        "collapsed": true
+      },
+      "active": "1a81d9f000627cca"
+    },
+    "3Sync": {
+      "main": {
+        "id": "3969f3923e6cfedb",
+        "type": "split",
+        "children": [
+          {
+            "id": "44f88da71f2f6711",
+            "type": "split",
+            "children": [
+              {
+                "id": "1a81d9f000627cca",
+                "type": "leaf",
+                "dimension": 70.72368421052632,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 8.md",
+                    "mode": "source",
+                    "backlinks": false
+                  }
+                },
+                "group": "98d95b26b4414933"
+              },
+              {
+                "id": "2285639621995e45",
+                "type": "leaf",
+                "dimension": 29.276315789473685,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 8.md",
+                    "mode": "source",
+                    "backlinks": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "e4c58faa39706a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "backlinks": false
+              }
+            },
+            "group": "98d95b26b4414933"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b1e149eb78e8515",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb89deb39da52857",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75b75d906b38f1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1314860610141a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "47f03e690283089d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267
+      },
+      "right": {
+        "id": "1464b72f66019d33",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f62b3dd05030d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c60c8158acd8037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Untitled 8.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 183.0555419921875,
+        "collapsed": true
+      },
+      "active": "1a81d9f000627cca"
+    },
+    "4Sync": {
+      "main": {
+        "id": "3969f3923e6cfedb",
+        "type": "split",
+        "children": [
+          {
+            "id": "5edc552c970c1023",
+            "type": "split",
+            "dimension": 46.16883116883117,
+            "children": [
+              {
+                "id": "1a81d9f000627cca",
+                "type": "leaf",
+                "dimension": 66.60175267770204,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "60-1Peter/1Pe.1.17-21.md",
+                    "mode": "source",
+                    "backlinks": false
+                  }
+                },
+                "group": "98d95b26b4414933"
+              },
+              {
+                "id": "31ee533b2099d910",
+                "type": "split",
+                "dimension": 33.398247322297955,
+                "children": [
+                  {
+                    "id": "e4e995cdf3f708be",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "README.md",
+                        "mode": "preview",
+                        "backlinks": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "94aa3f7692cf3730",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "60-1Peter/1Peter-Notes.md",
+                        "mode": "source",
+                        "backlinks": false
+                      }
+                    }
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "e4c58faa39706a81",
+            "type": "leaf",
+            "dimension": 53.83116883116883,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-1Peter/1Pe.1.17-21.md",
+                "mode": "preview",
+                "backlinks": false
+              }
+            },
+            "group": "98d95b26b4414933"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b1e149eb78e8515",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb89deb39da52857",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75b75d906b38f1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b1314860610141a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "47f03e690283089d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267,
+        "collapsed": true
+      },
+      "right": {
+        "id": "1464b72f66019d33",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f62b3dd05030d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c60c8158acd8037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "60-1Peter/1Peter-Notes.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 183.0555419921875,
+        "collapsed": true
+      },
+      "active": "94aa3f7692cf3730"
+    }
+  },
+  "active": "2Sync"
+}

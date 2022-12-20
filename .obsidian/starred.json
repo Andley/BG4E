@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "§0",
+      "path": "Syntax/Syntax.md"
+    },
+    {
+      "type": "file",
+      "title": "Phrasing-Signs",
+      "path": "Phrasing-Signs.md"
+    },
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "Idioms",
+      "path": "Idioms.md"
+    }
+  ]
+}
