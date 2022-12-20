@@ -3,92 +3,89 @@
 
 @import "{{ site.theme }}";
 
-ruby {
-    display: inline-flex;
-    flex-direction: column-reverse ;
-    align-items: center;
-    font-size: 16px ; 
-    line-height: 16px ;
-    padding-bottom: 10px ;
+  body {
+    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
+    color: black;
   }
-  rt {
-    font-size: 13px ; 
-    line-height: 13px ;
-  }
-  ul ruby {
-    padding-bottom: 3px !important;
-  }
+
   h1 {
     color: #C00000;
     text-align: center;
     border-bottom: 4px double ;
   }
+
   h2 {
     text-align: center;
   }
-h2, h3, h4, h5, h6 {
-    color:black;
+
+  h2, h3, h4, h5, h6 {
     margin-top: 10px;
-    margin-bottom: 0px;
+    color:black;
   }
 
-strong {
+  strong {
     color: red;
     font-weight:700;
   }
-em {
+
+  em {
     color: blue;
     font-weight:700;
   }
 
-  p, html, body, ruby, rt, ul, ol {
-    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
-    color: black;
+  ul   {
+    margin-bottom: 0em;
   }
 
-  ul, ol, dl {
-    margin-bottom: 0px;
-}
-
-header {
-  padding: 20px 20px 20px 20px;
-}
-section {
-  margin-top: 120px;
-}
-
-ul li::marker {
-  content: '• ';
-}
-
-nav {
-  ul li::marker {
-    content: none;
+  ruby {
+    line-height: 3.5em;
   }
-}
+  
+  /* page layout */
+  header {
+    padding: 20px 20px 5px 20px;
+  }
+
   section {
-    width: 700px;
-  } 
+    margin-top: 100px;
+    padding-top:20px;
+  }
+
+  ul li::marker {
+    content: '• ';
+  }
+
+  nav {
+    ul li::marker {
+      content: none;
+    }
+  }
 
   section.footnotes {
     width: 90%;
     margin-top: 30px;
   }
 
-/* table */
+  /* table */
   table {
-    border-color: black;
-    width: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
+  
   th {
     border-bottom: 4px double;
     border-top: 2px solid;
     border-right: 2px solid;
     border-left: 2px solid;
     font-weight: 800;
+    border-color: black;
   }
   td {
     border: 1px solid;
+    border-color: black;
+  }
+  td:first-child {
+    border-left: 1px solid;
   }
 
   /* text decoration for marking syntax functions */
