@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "file",
+      "title": "canvas",
+      "path": "canvas.canvas"
+    },
+    {
+      "type": "file",
       "title": "§0",
       "path": "Syntax/Syntax.md"
     },
