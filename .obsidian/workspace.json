@@ -11,11 +11,15 @@
             "id": "a870b4adb412e005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Idioms.md",
-                "mode": "source",
-                "source": true
+                "file": "canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -86,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idioms.md"
+                "file": "canvas.canvas"
               }
             }
           },
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idioms.md",
+                "file": "canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idioms.md",
+                "file": "canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +151,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a870b4adb412e005",
+  "active": "47f03e690283089d",
   "lastOpenFiles": [
+    "Idioms.md",
     "canvas.canvas",
     "Digital-Tools.md",
     "48-Galatians/Gal.5.16-21.md",
@@ -157,7 +162,6 @@
     "48-Galatians/Gal.4.12-20.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Gal.4.8-11.md",
-    "48-Galatians/Gal.4.1-7.md",
-    "BBG4E/HW12-Key.md"
+    "48-Galatians/Gal.4.1-7.md"
   ]
 }
