@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3969f3923e6cfedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5748edf8582a2070",
+        "type": "tabs",
+        "dimension": 44.52054794520548,
+        "children": [
+          {
+            "id": "d32be6744707a525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Heb.2.1-4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50eacfd7e524db52",
+        "type": "tabs",
+        "dimension": 55.47945205479452,
+        "children": [
+          {
+            "id": "7381c9ad24bf0a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Heb.2.1-4.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1e149eb78e8515",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb89deb39da52857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b75d906b38f1fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b1314860610141a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hyper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f03e690283089d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1464b72f66019d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f62b3dd05030d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c60c8158acd8037",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "58-Hebrews/Heb.2.1-4.md"
+              }
+            }
+          },
+          {
+            "id": "ffff73b72ba5875f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10ca0c35e69c92bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "58-Hebrews/Heb.2.1-4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df027e429ddfe341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "58-Hebrews/Heb.2.1-4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183.0555419921875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d32be6744707a525",
+  "lastOpenFiles": [
+    "48-Galatians/Gal.4.12-20.md",
+    "58-Hebrews/Heb.2.1-4.md",
+    "52-1Thessalonians/1Th.5.1-11.md",
+    "BBG4E/HW12-PreachingNote.md",
+    "BBG4E/HW12-Key.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "BBG4E/HW11-Key.md",
+    "Parables/Joh.15.1-8.md",
+    "52-1Thessalonians/1Th.1.1–2.md",
+    "BBG4E/BBG4E.md"
+  ]
+}
