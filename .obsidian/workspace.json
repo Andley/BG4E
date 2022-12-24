@@ -11,15 +11,29 @@
             "id": "a870b4adb412e005",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c41a29e27a07b428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab5fb0245ebd63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas.canvas"
+                "file": "48-Galatians/Gal.4.21-5.1.md"
               }
             }
           },
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas.canvas",
+                "file": "48-Galatians/Gal.4.21-5.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas.canvas",
+                "file": "48-Galatians/Gal.4.21-5.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +164,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47f03e690283089d",
+  "active": "a870b4adb412e005",
   "lastOpenFiles": [
-    "Idioms.md",
     "canvas.canvas",
+    "Idioms.md",
     "Digital-Tools.md",
     "48-Galatians/Gal.5.16-21.md",
     "48-Galatians/Gal.5.13-15.md",
