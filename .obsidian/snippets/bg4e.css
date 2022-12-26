@@ -98,6 +98,9 @@ ul ruby {
   padding-bottom: 5px ;
 }
 
+ul p {
+  margin-bottom: 0px ;
+}
 
 strong, .cm-strong {
     color: var(--color-strong);

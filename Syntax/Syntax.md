@@ -4,7 +4,7 @@
 ## 目錄
 - Part I 希臘文基礎 §1xx
 	- 希臘文歷史 §100
-		- 閃語對聖經希臘文的影響 §1b
+		- 閃語對聖經希臘文的影響 §1b [[Hebraic Influence]]
 		- 耶穌也說希臘文 §1c
 		- 聖經希臘文與古典希臘文之異同 §1d
 		- 聖經希臘文與現代希臘文之異同 §1e
@@ -22,7 +22,7 @@
 - ═════════════
 - Part IV Semantics
 - ═════════════
-- Part V字詞與片語 (Word and Phrase §3xx-§5xx)
+- Part V 字詞與片語 (Word and Phrase §3xx-§5xx)
 	- 名詞類 §3xx
 		- Noun (名詞) §310
 			- [Nominative (主格) §311](§311.md)
@@ -32,11 +32,12 @@
 			- [Vocative (呼格) §315](§315.md)
 		- [Article (冠詞) §320](§320.md)
 		- [Adjectives (形容詞) §330](§330.md)
-		- [Personal Pronouns (人稱代名詞) §340](§340.md)
-		- [Demonstrative Pronouns (指示代名詞) §350](§350.md)
-		- [Relative Pronouns (關係代名詞) §360](§360.md)
-		- [Interrogative Pronouns (疑問代名詞) §370](§370.md)
-		- [Indefinite Pronouns (不定代名詞) §380](§380.md)
+		- [Pronouns (代名詞) §340](§340.md)
+			- [Personal Pronouns (人稱代名詞) §341](§341.md)
+			- [Demonstrative Pronouns (指示代名詞) §342](§342.md)
+			- [Relative Pronouns (關係代名詞) §343](§343.md)
+			- [Interrogative Pronouns (疑問代名詞) §344](§344.md)
+			- [Indefinite Pronouns (不定代名詞) §345](§345.md)
 	- 功能詞類 §4xx
 		- [Prepositions (介系詞) §410](§410.md)
 		- [Conjunctions (連接詞) §420](§420.md)
@@ -66,23 +67,16 @@
 			- un-headed
 	- [Sentence (句子) §620](§620.md)
 - ═════════════
-	- [[discourse is more than]]
 - Part VII 段落與篇章 (Paragraph and Discourse) §7xx
+	- [[discourse is more than]]
 	- [[information strucutre]]
 	- Context and Cotext 
-
-- [[Hebraic Influence]]
-
+- ═════════════
 - 附錄
-
-[[definition]]
-
-- 附錄 I：希臘文學習策略與方法
-	- 課程設計進路：文法導向、經文導向、任務導向
-	- 學習方法：翻譯、朗讀、聆聽、手抄、解經、背誦、默想
-
-
-
+	- 附錄 I：希臘文學習策略與方法
+		- 課程設計進路：文法導向、經文導向、任務導向
+		- 學習方法：翻譯、朗讀、聆聽、手抄、解經、背誦、默想
+- ═════════════
 - 參考書目
 
 

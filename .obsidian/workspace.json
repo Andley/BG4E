@@ -6,6 +6,7 @@
       {
         "id": "3bb997667b3b2cc5",
         "type": "tabs",
+        "dimension": 43.04054054054054,
         "children": [
           {
             "id": "a870b4adb412e005",
@@ -13,17 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "file": "Syntax/Syntax.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5bc96eda661de6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c41a29e27a07b428",
         "type": "tabs",
+        "dimension": 56.95945945945946,
         "children": [
           {
             "id": "cab5fb0245ebd63e",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "file": "Syntax/Syntax.md",
                 "mode": "preview",
                 "source": true
               }
@@ -83,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Gal.4.21-5.1.md"
+                "file": "Syntax/Syntax.md"
               }
             }
           },
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "file": "Syntax/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "48-Galatians/Gal.4.21-5.1.md",
+                "file": "Syntax/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +178,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a870b4adb412e005",
+  "active": "d5bc96eda661de6b",
   "lastOpenFiles": [
+    "48-Galatians/Gal.4.21-5.1.md",
+    "Syntax/Syntax.md",
+    "template/template.md",
     "canvas.canvas",
     "Idioms.md",
     "Digital-Tools.md",
     "48-Galatians/Gal.5.16-21.md",
     "48-Galatians/Gal.5.13-15.md",
-    "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/Gal.4.12-20.md",
-    "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Gal.4.8-11.md",
-    "48-Galatians/Gal.4.1-7.md"
+    "48-Galatians/Galatians-Interlinear.md"
   ]
 }
