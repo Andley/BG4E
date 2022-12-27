@@ -24,9 +24,11 @@
             "id": "d5bc96eda661de6b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "BBG4E/HW12-PreachingNote.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -96,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Syntax.md"
+                "file": "BBG4E/HW12-PreachingNote.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Syntax.md",
+                "file": "BBG4E/HW12-PreachingNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Syntax.md",
+                "file": "BBG4E/HW12-PreachingNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
