@@ -4,52 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3bb997667b3b2cc5",
+        "id": "f54cd810fa43b98d",
         "type": "tabs",
-        "dimension": 43.04054054054054,
         "children": [
           {
-            "id": "a870b4adb412e005",
+            "id": "8307039f01aafd33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax/Syntax.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5bc96eda661de6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW12-PreachingNote.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c41a29e27a07b428",
-        "type": "tabs",
-        "dimension": 56.95945945945946,
-        "children": [
-          {
-            "id": "cab5fb0245ebd63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax/Syntax.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -117,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BBG4E/HW12-PreachingNote.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW12-PreachingNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW12-PreachingNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,17 +138,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d5bc96eda661de6b",
+  "active": "8307039f01aafd33",
   "lastOpenFiles": [
-    "48-Galatians/Gal.4.21-5.1.md",
     "Syntax/Syntax.md",
+    "50-Philippians/Php.2.1-11.md",
+    "BBG4E/HW12-PreachingNote.md",
+    "48-Galatians/Gal.4.21-5.1.md",
     "template/template.md",
     "canvas.canvas",
     "Idioms.md",
     "Digital-Tools.md",
     "48-Galatians/Gal.5.16-21.md",
-    "48-Galatians/Gal.5.13-15.md",
-    "48-Galatians/Gal.4.12-20.md",
-    "48-Galatians/Galatians-Interlinear.md"
+    "48-Galatians/Gal.5.13-15.md"
   ]
 }
