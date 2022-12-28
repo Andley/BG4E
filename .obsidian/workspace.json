@@ -11,8 +11,30 @@
             "id": "8307039f01aafd33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "50-Philippians/Php.2.1-11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "284fd9867799bddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56d98228839fe79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-Philippians/Php.2.1-11.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -80,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "50-Philippians/Php.2.1-11.md"
+              }
             }
           },
           {
@@ -100,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "50-Philippians/Php.2.1-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "50-Philippians/Php.2.1-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
