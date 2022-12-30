@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f54cd810fa43b98d",
+        "id": "5f3653be6a2da41d",
         "type": "tabs",
         "children": [
           {
-            "id": "8307039f01aafd33",
+            "id": "eb72b37b6a445bb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "284fd9867799bddc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f56d98228839fe79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "50-Philippians/Php.2.1-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +138,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8307039f01aafd33",
+  "active": "eb72b37b6a445bb3",
   "lastOpenFiles": [
-    "Syntax/Syntax.md",
     "50-Philippians/Php.2.1-11.md",
+    "Syntax/Syntax.md",
     "BBG4E/HW12-PreachingNote.md",
     "48-Galatians/Gal.4.21-5.1.md",
     "template/template.md",
