@@ -11,8 +11,12 @@
             "id": "eb72b37b6a445bb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.7-14.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "48-Galatians/Gal.3.7-14.md"
+              }
             }
           },
           {
@@ -100,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "48-Galatians/Gal.3.7-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "48-Galatians/Gal.3.7-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +148,7 @@
   },
   "active": "eb72b37b6a445bb3",
   "lastOpenFiles": [
+    "50-Philippians/Php.3.2-11.md",
     "50-Philippians/Php.2.1-11.md",
     "Syntax/Syntax.md",
     "BBG4E/HW12-PreachingNote.md",
@@ -148,7 +157,6 @@
     "canvas.canvas",
     "Idioms.md",
     "Digital-Tools.md",
-    "48-Galatians/Gal.5.16-21.md",
-    "48-Galatians/Gal.5.13-15.md"
+    "48-Galatians/Gal.5.16-21.md"
   ]
 }
