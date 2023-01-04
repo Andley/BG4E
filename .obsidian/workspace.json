@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.5.2-6.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.5.2-6.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Gal.5.2-6.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "48-Galatians/Gal.5.2-6.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "48-Galatians/Gal.5.2-6.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +164,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb72b37b6a445bb3",
+  "active": "f811302564cca288",
   "lastOpenFiles": [
-    "48-Galatians/Gal.4.21-5.1.md",
+    "62-1John/1John-Interlinear.md",
+    "62-1John/123John-Style.md",
+    "62-1John/1Jo.1.1-4.md",
     "48-Galatians/Gal.5.2-6.md",
+    "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/Gal.4.12-20.md",
     "48-Galatians/Gal.4.8-11.md",
     "48-Galatians/Gal.3.7-14.md",
     "50-Philippians/Php.3.2-11.md",
-    "50-Philippians/Php.2.1-11.md",
-    "Syntax/Syntax.md",
-    "BBG4E/HW12-PreachingNote.md",
-    "template/template.md"
+    "50-Philippians/Php.2.1-11.md"
   ]
 }

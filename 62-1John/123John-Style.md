@@ -31,6 +31,53 @@ Bateman (55) 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅ�
 	- <RUBY><ruby><ruby><mark>ἵνα°²</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὰς<rt>commandments</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><strong>τηρῶμεν·</strong><rt>we may keep;</rt></ruby><rt>τηρέω</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
 	- ἵνα 從屬子句 同位補充說明上文的 αὕτη。
 
+### (4) ἐιμί 只有一個 valence (配價) 
+
+等同動詞 ἐιμί 通常有兩價 (di-valent 前後有兩個實名詞)，而且兩個都是主格，一個用作 S (主語)、一個用作 C (補語)。
+
+但當 ἐιμί 只有一價 (mono-valent 前後只有一個實名詞)，而且不是代名詞、專有名詞、帶冠詞之名詞的時候，主語 (S) 就會內含在動詞裡面。
+
+- 一價 (mono-valent) 的經文：
+	- καὶ σκοτία ἐν αὐτῷ οὐκ ἔστιν οὐδεμία. (1 Jn. 1:5 GLT) ⇒ and (there) is not none-darkness in him.
+	- πιστός ἐστιν καὶ δίκαιος (1 Jn. 1:9 GLT) ⇒ (He) is faithful and righteous
+	- ὅτι ἐν αὐτῷ ἐσμεν. (1 Jn. 2:5 GLT) ⇒ that (we) are in Him.
+	- καὶ σκάνδαλον ἐν αὐτῷ οὐκ ἔστιν· (1 Jn. 2:10 GLT) ⇒ and (there) is not cause-of-stumbling in him;
+	- ὅτι ἰσχυροί ἐστε (1 Jn. 2:14 GLT) ⇒ because (you) are strong
+	- οὐκ ἔστιν ἐκ τοῦ πατρὸς  (1 Jn. 2:16 GLT) ⇒  (it) is not out-of the father 
+	- ἀλλ᾽ ἐκ τοῦ κόσμου ἐστίν (1 Jn. 2:16 GLT) ⇒but (it) is out-of the world
+	- ἐσχάτη ὥρα ἐστίν (1 Jn. 2:18 GLT) ⇒ (it) is last hour
+	- ὅτι ἐσχάτη ὥρα ἐστίν (1 Jn. 2:18 GLT) ⇒ because (it) is last hour
+	- εἰ γὰρ ἐξ ἡμῶν ἦσαν (1 Jn. 2:19 GLT) ⇒ for if (they) were out-of us
+	- ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν (1 Jn. 2:19 GLT) ⇒ because (they) all are not out-of us
+	- καὶ ἀληθές ἐστιν καὶ οὐκ ἔστιν ψεῦδος (1 Jn. 2:27 GLT) ⇒ and (it) is true and (it) is not a-lie
+	- ὅτι δίκαιός ἐστιν (1 Jn. 2:29 GLT) ⇒ that (he) is righteous
+	- τέκνα θεοῦ ἐσμεν (1 Jn. 3:2 GLT) ⇒ (we) are children of-God
+	- τί ἐσόμεθα (1 Jn. 3:2 GLT) ⇒ (we) will-be what
+	- ὅμοιοι αὐτῷ ἐσόμεθα (1 Jn. 3:2 GLT) ⇒ (we) will-be like Him
+	- καθώς ἐστιν (1 Jn. 3:2 GLT) ⇒ just-as (He) is
+	- καὶ ἁμαρτία ἐν αὐτῷ οὐκ ἔστιν (1 Jn. 3:5 GLT) ⇒ and (there) is not sin in Him
+	- ὅτι ἐκ τῆς ἀληθείας ἐσμέν. (1 Jn. 3:19 GLT) ⇒ because (we) are out-of the truth
+	- καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη (1 Jn. 4:3 GLT) ⇒ and now (it) is in the world already
+	- φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ (1 Jn. 4:18 GLT) ⇒ (there) is not fear in the love
+	- ψεύστης ἐστίν· (1 Jn. 4:20 GLT) ⇒ (he) is a-liar
+	- ἔστιν ἁμαρτία πρὸς θάνατον (1 Jn. 5:16 GLT) ⇒ (there) is sin to death
+	- καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον. (1 Jn. 5:17 GLT) ⇒ and (there) is sin not to death
+	- ὅτι ἐκ τοῦ θεοῦ ἐσμεν (1 Jn. 5:19 GLT) ⇒ that (we) are out-of the God
+	- καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, (1 Jn. 5:20 GLT) ⇒ and (we) are in the truth
+- 零價 (a-valent) 的經文：
+	- καὶ ἐσμέν (1 Jn. 3:1 GLT) ⇒ and (we) are 
+- 可能有疑慮的經文：
+	- ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. (1 Jn. 2:21 GLT)
+		- that all lie is not out-of the truth 還是
+		- <mark>(there) is not any lie out-of the truth</mark> 比較好，可以合乎規則 😀
+	- πᾶν πνεῦμα <ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα> ἐκ τοῦ θεοῦ ἐστιν, (1 Jn. 4:2 GLT)
+		- all spirit <...> is out-of the God
+		- all spirit <...> <mark>‖ (it) is out-of the God</mark> 切成兩個子句，就合乎規則 😀
+	- καὶ πᾶν πνεῦμα <ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν> ἐκ τοῦ θεοῦ οὐκ ἔστιν (1 Jn. 4:3 GLT)
+		- and all spirit <...> is not out-of the God
+		- and all spirit <...> <mark>‖ (it) is not out-of the God</mark> 切成兩個子句，就合乎規則 😀
+
+
 ---
 
 [約翰一書希臘文筆記 ↵](1John-Notes.md)
