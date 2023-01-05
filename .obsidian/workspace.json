@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Style.md"
+                "file": "62-1John/1Jo.1.1-4.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,9 @@
   },
   "active": "f811302564cca288",
   "lastOpenFiles": [
-    "62-1John/1John-Interlinear.md",
     "62-1John/123John-Style.md",
     "62-1John/1Jo.1.1-4.md",
+    "62-1John/1John-Interlinear.md",
     "48-Galatians/Gal.5.2-6.md",
     "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/Gal.4.12-20.md",
