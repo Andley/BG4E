@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5f3653be6a2da41d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb72b37b6a445bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "05fda53b8bfe1336",
         "type": "tabs",
         "children": [
@@ -29,11 +11,15 @@
             "id": "f811302564cca288",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
-                "mode": "preview",
-                "source": true
+                "file": "canvas.canvas",
+                "viewState": {
+                  "x": -143.5,
+                  "y": 20.5,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -87,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -103,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md"
+                "file": "canvas.canvas"
               }
             }
           },
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +153,8 @@
   },
   "active": "f811302564cca288",
   "lastOpenFiles": [
-    "62-1John/123John-Style.md",
     "62-1John/1Jo.1.1-4.md",
+    "62-1John/123John-Style.md",
     "62-1John/1John-Interlinear.md",
     "48-Galatians/Gal.5.2-6.md",
     "48-Galatians/Gal.4.21-5.1.md",
