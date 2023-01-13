@@ -11,15 +11,11 @@
             "id": "f811302564cca288",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas.canvas",
-                "viewState": {
-                  "x": -143.5,
-                  "y": 20.5,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Memorize.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -90,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvas.canvas"
+                "file": "Memorize.md"
               }
             }
           },
@@ -111,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas.canvas",
+                "file": "Memorize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvas.canvas",
+                "file": "Memorize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +148,7 @@
   },
   "active": "f811302564cca288",
   "lastOpenFiles": [
+    "canvas.canvas",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/123John-Style.md",
     "62-1John/1John-Interlinear.md",
@@ -161,7 +157,6 @@
     "48-Galatians/Gal.4.12-20.md",
     "48-Galatians/Gal.4.8-11.md",
     "48-Galatians/Gal.3.7-14.md",
-    "50-Philippians/Php.3.2-11.md",
-    "50-Philippians/Php.2.1-11.md"
+    "50-Philippians/Php.3.2-11.md"
   ]
 }
