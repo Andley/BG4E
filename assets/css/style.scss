@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
   body {
-    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
+    font-family: 'Gentium Book Plus', 'Noto Sans TC';
     color: black;
   }
 
@@ -89,9 +89,11 @@
   }
 
   /* offset footnote jumping */
-  html {
-    scroll-padding-top: 20px; /* height of sticky header */
-  }
+  
+:target {
+    padding-top: 65px;
+    margin-top: -65px;
+}
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
