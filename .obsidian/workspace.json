@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize.md",
+                "file": "62-1John/1John-Notes.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e59b5a092402387b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5586c16e3867c917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1John-Notes.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memorize.md"
+                "file": "62-1John/1John-Notes.md"
               }
             }
           },
@@ -106,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memorize.md",
+                "file": "62-1John/1John-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memorize.md",
+                "file": "62-1John/1John-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +164,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f811302564cca288",
+  "active": "5586c16e3867c917",
   "lastOpenFiles": [
+    "Memorize.md",
     "canvas.canvas",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/123John-Style.md",
@@ -156,7 +175,6 @@
     "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/Gal.4.12-20.md",
     "48-Galatians/Gal.4.8-11.md",
-    "48-Galatians/Gal.3.7-14.md",
-    "50-Philippians/Php.3.2-11.md"
+    "48-Galatians/Gal.3.7-14.md"
   ]
 }
