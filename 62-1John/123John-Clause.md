@@ -2,9 +2,9 @@
 
 聖經希臘文的子句結構可以分成三種：(1) 主要 (primary)、獨立 (independent) 子句；(2) 次要 (secondary)、從屬 (dependent/subordinate) 子句；(3) 內嵌 (embedded) 子句。三者的功用並不相同。  
 
-因為就人與人溝通的特質來說，不論是文字或口語，語言都是線性 (linear) 的傳輸過程。意思是：發送端 (說的人、寫的人)，是一個字、一個字地傳遞出去；而接收端 (聽的人、讀的人)，也是一個字、一個字地接收和理解。因此，思路的進展，或者說 Discourse (話語、篇章、論述) 推進的過程，會是類似流水一般線性的過程。
+就人與人溝通的特質來說，不論是文字或口語，語言都是線性 (linear) 的傳輸過程。意思是：發送端 (說的人、寫的人)，是一個字、一個字地傳遞出去；而接收端 (聽的人、讀的人)，也是一個字、一個字地接收和理解。因此，思路的進展，或者說 Discourse (話語、篇章、論述) 推進的過程，會是類似河水流動的過程。
 
-在這過程當中，三種子句扮演了不同的角色：
+在溝通的過程當中，三種子句扮演了不同的角色：
 
 ![](../images/discourse-flow.png)
 
@@ -19,16 +19,15 @@
 
 
 ## (1) 主要子句 (Primary Clause)
+
 ### (1a) 對等連接詞 (coordinate conjunctive) 
+
 用對等連接詞 καί 帶出主要子句。καί 可以翻譯成 and/but。
 
 - <rt>1Jo 1:5</rt> <RUBY><ruby><ruby><mark>καὶ</mark><rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἔστιν</strong><rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>this</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>message</rt></ruby><rt>ἀγγελία</rt></ruby><rt>N-NSF</rt></RUBY>)C
 - <rt>2Jo 1:5</rt> <RUBY><ruby><ruby><mark>καὶ</mark><rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νῦν<rt>now</rt></ruby><rt>νῦν</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐρωτῶ</strong><rt>I implore</rt></ruby><rt>ἐρωτάω</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>σε,<rt>you,</rt></ruby><rt>σύ</rt></ruby><rt>P-2AS</rt></RUBY>)C <RUBY><ruby><ruby>κυρία,<rt>lady,</rt></ruby><rt>Κυρία</rt></ruby><rt>N-VSF</rt></RUBY> 
 
-
 - καί 通常會放在句首——如果 καί 不是子句的第一個字，那麼很可能是當作副詞使用，意思是 also (也)、even (甚至)。
-
-
 
 用對等連接詞 δέ 帶出主要子句。δέ 也可以翻譯成 and/but，但跟 καί 最大的差別則是：把論述推進 (development) 到下一個論點 (Runge, 31-36)。
 
@@ -40,9 +39,8 @@
 
 
 
-
-
 ### (1b) 無連接詞 (asyndeton)
+
 主要子句可以不需要連接詞，這在句法上叫做 Asyndeton (省略連接詞)，有些文法書用 Ø 符號來代表。在語意上，無連接詞<em>可能</em>是一個新段落的開始。
 
 - <rt>1Jo 2:15</rt> <RUBY><ruby><ruby><mark>Μὴ</mark><rt>Not</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἀγαπᾶτε</strong><rt>do love</rt></ruby><rt>ἀγαπάω</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόσμον<rt>world</rt></ruby><rt>κόσμος</rt></ruby><rt>N-ASM</rt></RUBY>)C 
