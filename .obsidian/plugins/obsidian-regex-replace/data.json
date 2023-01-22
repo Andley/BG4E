@@ -1,6 +1,6 @@
 {
-  "findText": "^- (.*?)- \\[1Jo",
-  "replaceText": "- [$1 1John",
+  "findText": "<RUBY><ruby><ruby><strong>(.*?)</strong><rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>V(.*?)</rt></RUBY>",
+  "replaceText": "(<RUBY><ruby><ruby><strong>$1</strong><rt>$2</rt></ruby><rt>$3</rt></ruby><rt>V$4</rt></RUBY>)P",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
