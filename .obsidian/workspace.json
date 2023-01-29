@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.1.5-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.1.5-10.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md"
+                "file": "62-1John/1Jo.1.5-10.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.1.5-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.1.5-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +164,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f811302564cca288",
+  "active": "5586c16e3867c917",
   "lastOpenFiles": [
-    "62-1John/123John-Style.md",
     "62-1John/1Jo.1.1-4.md",
+    "62-1John/1Jo.1.5-10.md",
+    "62-1John/123John-Style.md",
     "62-1John/1John-Notes.md",
     "62-1John/123John-Clause.md",
     "62-1John/1Jo.2.18-27.md",
     "Memorize.md",
     "canvas.canvas",
     "62-1John/1John-Interlinear.md",
-    "48-Galatians/Gal.5.2-6.md",
-    "48-Galatians/Gal.4.21-5.1.md"
+    "48-Galatians/Gal.5.2-6.md"
   ]
 }
