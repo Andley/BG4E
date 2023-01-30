@@ -131,6 +131,35 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d5c45ca857cd0960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "62-1John/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da20af245b7dacba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "62-1John/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
