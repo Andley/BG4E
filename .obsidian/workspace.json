@@ -4,34 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "05fda53b8bfe1336",
+        "id": "054409738ce66bf0",
         "type": "tabs",
         "children": [
           {
-            "id": "f811302564cca288",
+            "id": "1a81d9f000627cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/1John-Interlinear.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6bcaf70c178a99e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/Untitled.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "e59b5a092402387b",
+        "id": "c3cae601ca6558ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5586c16e3867c917",
+            "id": "0ffef1cb05d7bfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md"
+                "file": "62-1John/Untitled.md"
               }
             }
           },
@@ -115,35 +129,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "10ca0c35e69c92bd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "df027e429ddfe341",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           }
@@ -164,17 +149,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5586c16e3867c917",
+  "active": "0ffef1cb05d7bfda",
   "lastOpenFiles": [
+    "62-1John/1John-Interlinear.md",
+    "62-1John/Untitled.md",
     "62-1John/1Jo.1.1-4.md",
+    "48-Galatians/Gal.3.7-14.md",
     "62-1John/1Jo.1.5-10.md",
     "62-1John/123John-Style.md",
     "62-1John/1John-Notes.md",
     "62-1John/123John-Clause.md",
     "62-1John/1Jo.2.18-27.md",
-    "Memorize.md",
-    "canvas.canvas",
-    "62-1John/1John-Interlinear.md",
-    "48-Galatians/Gal.5.2-6.md"
+    "Memorize.md"
   ]
 }

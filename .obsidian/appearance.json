@@ -13,5 +13,5 @@
   "accentColor": "",
   "nativeMenus": false,
   "translucency": false,
-  "showViewHeader": false
+  "showViewHeader": true
 }
