@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "51-Colossians/Col-1.24–29.md",
+                "file": "51-Colossians/Col.1.24–29.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -193,9 +192,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95bd3adfeb5d3606",
+  "active": "0ffef1cb05d7bfda",
   "lastOpenFiles": [
-    "51-Colossians/Col-1.24–29.md",
+    "51-Colossians/Col.1.24–29.md",
     "51-Colossians/Col.1.9-20.md",
     "62-1John/Untitled.md",
     "62-1John/1John-Interlinear.md",
