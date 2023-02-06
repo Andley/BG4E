@@ -1,5 +1,12 @@
 {
-  "workspace:close": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
   "command-palette:open": [
     {
       "modifiers": [
