@@ -11,8 +11,12 @@
             "id": "edbc585bf04877ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/神的愛.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greek language",
+                "query": "上帝的愛",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Syntax/神的愛.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Syntax/神的愛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Syntax/神的愛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +149,7 @@
   },
   "active": "edbc585bf04877ef",
   "lastOpenFiles": [
+    "62-1John/1Jo.1.1-4.md",
     "Syntax/§520.md",
     "Syntax/§57.5.md",
     "Syntax/Syntax.md",
@@ -148,7 +158,6 @@
     "Syntax/§000.md",
     "62-1John/1Jo.2.7-17.md",
     "62-1John/1Jo.2.1-6.md",
-    "62-1John/1Jo.1.5-10.md",
-    "62-1John/1Jo.1.1-4.md"
+    "62-1John/1Jo.1.5-10.md"
   ]
 }
