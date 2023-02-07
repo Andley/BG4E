@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/神的愛.md",
+                "file": "BBG4E/309-Glosses.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "上帝的愛",
+                "query": "115",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -87,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/神的愛.md"
+                "file": "BBG4E/309-Glosses.md"
               }
             }
           },
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/神的愛.md",
+                "file": "BBG4E/309-Glosses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/神的愛.md",
+                "file": "BBG4E/309-Glosses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +148,15 @@
   },
   "active": "8ebdb27345dbcb31",
   "lastOpenFiles": [
+    "BBG4E/309-Lexicon.md",
+    "BBG4E/309-Glosses.md",
+    "Syntax/神的愛.md",
     "62-1John/1Jo.1.1-4.md",
     "Syntax/§520.md",
     "Syntax/§57.5.md",
     "Syntax/Syntax.md",
     "Syntax/Syntax-00.md",
     "Syntax/§311.md",
-    "Syntax/§000.md",
-    "62-1John/1Jo.2.7-17.md",
-    "62-1John/1Jo.2.1-6.md",
-    "62-1John/1Jo.1.5-10.md"
+    "Syntax/§000.md"
   ]
 }

@@ -534,6 +534,7 @@
 	- I see, look at ‖ βλέψω, ἔβλεψα, –, –, –
 	- 看、凝視、能看見、得到視力、留心
 
+#### others
 - **ἀμήν** (128)
 	- verily, truly, amen, so let it be
 	- 阿們、真正地、誠心地、真實地
