@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd07a773ed824972",
+        "id": "97b59c5f5f294ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "edbc585bf04877ef",
+            "id": "8ebdb27345dbcb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -147,7 +148,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edbc585bf04877ef",
+  "active": "8ebdb27345dbcb31",
   "lastOpenFiles": [
     "62-1John/1Jo.1.1-4.md",
     "Syntax/§520.md",
