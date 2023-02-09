@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/309-Glosses.md",
+                "file": "BBG4E/圖析風格.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/309-Glosses.md"
+                "file": "BBG4E/圖析風格.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/309-Glosses.md",
+                "file": "BBG4E/圖析風格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/309-Glosses.md",
+                "file": "BBG4E/圖析風格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +148,8 @@
   },
   "active": "8ebdb27345dbcb31",
   "lastOpenFiles": [
-    "BBG4E/309-Lexicon.md",
     "BBG4E/309-Glosses.md",
+    "BBG4E/309-Lexicon.md",
     "Syntax/神的愛.md",
     "62-1John/1Jo.1.1-4.md",
     "Syntax/§520.md",

@@ -2,9 +2,6 @@
 .theme-dark {
   --text-tag: #4f8dc2;
   --text-muted: #E6E6E6;
-  --text-faint: goldenrod;
-  --icon-color: var(--text-faint);
-  --titlebar-text-color: var(--text-faint);
   --color1:#ea4335;
   --color2:#4285f4;
   --color3:#34a853;
@@ -12,13 +9,12 @@
   --color-strong: greenyellow;
   --color-em:gold;
   --text-accent:yellow;
-  --font-text: "Gentium Book Plus","Tinos", "Noto Sans TC";
+  --font-text: "Gentium Book Plus","Ezra SIL", "Noto Sans TC";
   --control-character-color: white;
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
   --text-normal:black;
-  --text-faint: grey;
   --background-primary: white;
   --color1:darkred;
   --color2:darkblue;
@@ -28,7 +24,7 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text: "Gentium Book Plus", "Tinos", "Noto Sans TC";
+  --font-text: "Gentium Book Plus", "Ezra SIL", "Noto Sans TC";
 }
 
 /* HTML tags in preview and editor */
@@ -117,13 +113,14 @@ em, .cm-em {
   border: 1px solid transparent;
   border-radius: px;
   cursor: pointer;
-  color: var(--text-faint);
+  /*color: var(--text-faint);*/
   font-size: 13px;
   line-height: 13px;
   padding: 2px 0 0 15px;
   white-space: nowrap;
 }
-
+.workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar {
+  background-color: rgb(101, 2, 2);}
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
