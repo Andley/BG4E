@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "97b59c5f5f294ad8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ebdb27345dbcb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ecf7fe6902b3892a",
         "type": "tabs",
         "children": [
@@ -31,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.5.6-12.md",
+                "file": "49-Ephesians/Eph.2.8-9.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "95760389a9044420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614536e7df4a7106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "49-Ephesians/Eph.2.8-9.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.5.6-12.md"
+                "file": "49-Ephesians/Eph.2.8-9.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.5.6-12.md",
+                "file": "49-Ephesians/Eph.2.8-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.5.6-12.md",
+                "file": "49-Ephesians/Eph.2.8-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,14 +168,14 @@
   "active": "d4125551a09dd39b",
   "lastOpenFiles": [
     "62-1John/1Jo.1.1-4.md",
+    "49-Ephesians/Eph.2.8-9.md",
+    "62-1John/1Jo.5.6-12.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1John-Interlinear-TC.md",
     "62-1John/1Jo.5.13-21.md",
-    "62-1John/1Jo.5.6-12.md",
     "62-1John/1John-Notes.md",
     "62-1John/1Jo.2.7-17.md",
     "BBG4E/圖析風格.md",
-    "BBG4E/309-Glosses.md",
-    "BBG4E/309-Lexicon.md"
+    "BBG4E/309-Glosses.md"
   ]
 }
