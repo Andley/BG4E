@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1John-Interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1John-Interlinear.md"
+                "file": "62-1John/1Jo.1.1-4.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1John-Interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1John-Interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +166,11 @@
   },
   "active": "8ebdb27345dbcb31",
   "lastOpenFiles": [
-    "62-1John/1Jo.5.13-21.md",
     "62-1John/1John-Interlinear.md",
+    "62-1John/1John-Interlinear-TC.md",
+    "62-1John/1Jo.5.13-21.md",
     "62-1John/1Jo.5.6-12.md",
     "62-1John/1John-Notes.md",
-    "62-1John/1John-Interlinear-TC.md",
     "62-1John/1Jo.2.7-17.md",
     "62-1John/1Jo.1.1-4.md",
     "BBG4E/圖析風格.md",
