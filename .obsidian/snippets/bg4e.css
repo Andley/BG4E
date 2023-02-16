@@ -15,6 +15,7 @@
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
+  --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
   --color1:darkred;
@@ -121,7 +122,7 @@ em, .cm-em {
   white-space: nowrap;
 }
 .workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
-  background-color: rgb(101, 2, 2);}
+  background-color: var(--ribbon-color);}
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
