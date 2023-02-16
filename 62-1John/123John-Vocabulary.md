@@ -1,6 +1,6 @@
 # 約翰書信 (123John) 詞彙分析
 
-### 詞彙頻率 (≧ 5x)
+## 詞彙頻率 (≧ 5x)
 ### 功能詞 (Function Words)
 
 | 連接詞 | 介系詞 |
@@ -51,16 +51,11 @@
 | αἰτέω, to ask (5x) | |
 | μισέω, to hate (5x) | |
 
-### Hapax legomenon (罕見字、生僻字、孤寡字)
+## Hapax legomenon (罕見字、生僻字、孤寡字)
 
 - 除了名字 (丟特腓 Διοτρέφης) 之外，在新約當中只出現過一次的字 (Hapax legomenon) 總共 4 個。
-	- νίκη	victory
-	- φιλοπρωτεύω	(φίλος, πρό)	desire to be first
-	- φλυαρέω	(φλύαρος)	to slander; talk nonsense
-	- χάρτης	(χαράσσω)	papyrus sheet; record
+	- νίκη = victory
+	- φιλοπρωτεύω	(φίλος, πρό) = desire to be first
+	- φλυαρέω	(φλύαρος) = to slander; talk nonsense
+	- χάρτης (χαράσσω) = papyrus sheet; record
 
-
-
----
-
-[約翰一書希臘文筆記 ↵](1John-Notes.md)

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/123John-Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/123John-Vocabulary.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Style.md"
+                "file": "62-1John/123John-Vocabulary.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/123John-Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/123John-Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +170,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a81d9f000627cca",
+  "active": "e4c58faa39706a81",
   "lastOpenFiles": [
     "62-1John/1John-Notes.md",
+    "62-1John/1Jo.3.19-24.md",
+    "62-1John/123John-Vocabulary.md",
+    "62-1John/123John-Style.md",
     "48-Galatians/Gal.3.7-14.md",
     "62-1John/123John-Clause.md",
     "49-Ephesians/Eph.3.16-19.md",
     "49-Ephesians/Eph.2.8-9.md",
     "62-1John/1Jo.1.1-4.md",
-    "62-1John/1Jo.5.6-12.md",
-    "62-1John/1John-Interlinear.md",
-    "62-1John/1John-Interlinear-TC.md",
-    "62-1John/1Jo.5.13-21.md"
+    "62-1John/1Jo.5.6-12.md"
   ]
 }
