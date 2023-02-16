@@ -4,53 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "95760389a9044420",
+        "id": "22a1a2de6a4342dd",
         "type": "tabs",
-        "dimension": 45.127436281859076,
+        "dimension": 40.99547511312217,
         "children": [
           {
-            "id": "614536e7df4a7106",
+            "id": "1a81d9f000627cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.2.8-9.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ada6fbb51980a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "98d95b26b4414933"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "90bae4e84c3bd45a",
+        "id": "9d61350c58a2fe7d",
         "type": "tabs",
-        "dimension": 54.872563718140924,
+        "dimension": 59.00452488687783,
         "children": [
           {
-            "id": "9228e33fbcc4ab38",
+            "id": "e4c58faa39706a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "98d95b26b4414933"
           }
         ]
       }
@@ -81,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "115",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -135,12 +126,12 @@
             }
           },
           {
-            "id": "d5c45ca857cd0960",
+            "id": "bfd7f0747f848765",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +143,12 @@
             }
           },
           {
-            "id": "da20af245b7dacba",
+            "id": "789ada87de011de2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +171,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ada6fbb51980a01",
+  "active": "1a81d9f000627cca",
   "lastOpenFiles": [
+    "62-1John/1John-Notes.md",
+    "48-Galatians/Gal.3.7-14.md",
+    "62-1John/123John-Clause.md",
+    "49-Ephesians/Eph.3.16-19.md",
     "49-Ephesians/Eph.2.8-9.md",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/1Jo.5.6-12.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1John-Interlinear-TC.md",
-    "62-1John/1Jo.5.13-21.md",
-    "62-1John/1John-Notes.md",
-    "62-1John/1Jo.2.7-17.md",
-    "BBG4E/圖析風格.md",
-    "BBG4E/309-Glosses.md"
+    "62-1John/1Jo.5.13-21.md"
   ]
 }
