@@ -6,7 +6,7 @@
 ### (2) ἐν τούτῳ 的 τούτῳ 指向下文
 其次，就句法來看，ἐν τούτῳ 這個介系詞片語總共出現 14 次 (1 Jo. 2:3, 4, 5 [2x]; 3:10, 16, 19, 24; 4:2, 9, 10, 13, 17; 5:2)。解經時最大的挑戰，就是要釐清 τούτῳ 指的是什麼？究竟是指向上文的子句、字詞、概念 (句法上所謂的「前指 anaphoric」)，又或者是指向下文的子句、字詞、概念 (句法上所謂的「後指 cataphoric」)。  
 
-Bateman[^1] 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι、ἵνα、ἐάν、ὅταν 帶出來的從屬子句，那麼 τούτῳ 就是 cataphoric (後指)；反過來說，如果 ἐν τούτῳ 後面沒有這些從屬子句，那麼 τούτῳ 就是 anaphoric (前指)。  
+Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι、ἵνα、ἐάν、ὅταν 帶出來的從屬子句，那麼 τούτῳ 就是 cataphoric (後指)；反過來說，如果 ἐν τούτῳ 後面沒有這些從屬子句，那麼 τούτῳ 就是 anaphoric (前指)。[^1]
 
 這個原則，如果搭配 UBS5 的標點符號，就會看得更加清楚。以 1Jo 2:3 為例：
 
@@ -72,9 +72,9 @@ Bateman[^1] 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτ
 		- <mark>(there) is not any lie out-of the truth</mark> 比較好，可以合乎規則 😀
 	- πᾶν πνεῦμα <ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα> ἐκ τοῦ θεοῦ ἐστιν, (1 Jn. 4:2)
 		- all spirit <...> is out-of the God
-		- all spirit <...> <mark>‖ (it) is out-of the God</mark> 切成兩個子句，就合乎規則 😀
+		- all spirit <...> ‖ <mark>(it) is out-of the God</mark> 切成兩個子句，就合乎規則 😀
 	- καὶ πᾶν πνεῦμα <ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν> ἐκ τοῦ θεοῦ οὐκ ἔστιν (1 Jn. 4:3)
 		- and all spirit <...> is not out-of the God
-		- and all spirit <...> <mark>‖ (it) is not out-of the God</mark> 切成兩個子句，就合乎規則 😀
+		- and all spirit <...> ‖ <mark>(it) is not out-of the God</mark> 切成兩個子句，就合乎規則 😀
 
 [^1]: Herbert W. Bateman IV, _John’s Letters: An Exegetical Guide for Preaching and Teaching_, Big Greek Idea (Grand Rapids, MI.: Kregel Academic, 2018), 55.
