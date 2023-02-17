@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hyperbat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a81d9f000627cca",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
     "62-1John/1Jo.1.1-4.md",
     "62-1John/123John-Style.md",
