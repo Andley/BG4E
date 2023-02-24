@@ -31,9 +31,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "76f939d068f790bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "39e49d001308d988",
+  "active": "76f939d068f790bc",
   "lastOpenFiles": [
     "61-2Peter/2Pe.1.3–4.md",
     "61-2Peter/2Pe.1.16-21.md",
