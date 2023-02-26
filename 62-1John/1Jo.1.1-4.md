@@ -31,5 +31,5 @@
 	- 1:4b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>χαρὰ<rt>χαρά</rt></ruby><rt>joy</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ᾖ</strong><rt>εἰμί</rt></ruby><rt>may be</rt></ruby><rt>V-PAS-3S</rt></RUBY> <RUBY><ruby><ruby><em>πεπληρωμένη.</em><rt>πληρόω</rt></ruby><rt>completed.</rt></ruby><rt>V-RPP-NSF</rt></RUBY>)P
 
 
-[^1]: Ὃ：單就詞形 (morphology) 來看，可以是 NSN 或 ASN —— 可是從上下文推敲，因為動詞是 εἰμί，前後都必須是主格，因此 1:1a 的 Ὃ 只能是 NSN。
+[^1]: Ὃ：單就詞形 (morphology) 來看，可以是 NSN 或 ASN —— 但從上下文推敲，因為動詞是 εἰμί，前後都必須是主格，因此 1:1a 的 Ὃ 只能是 NSN。另外，關係代名詞 Ὃ 沒有先行詞 (antecedent)，
 [^2]: καὶ：對等連接詞，把 1:1d 和 1:1e 黏在一起。句法上 1:1e 沒有補語，但語意上卻是延續 1:1d 的 ὃ。
