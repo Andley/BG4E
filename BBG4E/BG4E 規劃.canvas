@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","label":"Level 0","id":"b11959b94de707af","x":-1000,"y":-200,"width":980,"height":220},
+		{"type":"group","label":"Level 1","id":"0dcf4bfb8b524057","x":-1000,"y":-440,"width":980,"height":160},
+		{"type":"group","label":"Level 2","id":"a0151cf5883b1ded","x":-1000,"y":-660,"width":980,"height":140},
+		{"type":"text","text":"名詞類","id":"95eb9eb146a691a6","x":-965,"y":-620,"width":250,"height":60},
+		{"type":"text","text":"動詞類","id":"187c141809309468","x":-645,"y":-620,"width":250,"height":60},
+		{"type":"text","text":"功能詞類 & 句法","id":"58a0cb08704d4091","x":-320,"y":-620,"width":250,"height":60},
+		{"type":"text","text":"希臘文工具","id":"9378e4da9a5ccf82","x":-320,"y":-80,"width":250,"height":60},
+		{"type":"file","file":"BBG4E/§2.md","id":"c4b42193b1d84dec","x":-682,"y":-80,"width":325,"height":60},
+		{"type":"file","file":"BBG4E/§1.md","id":"518e55e14b75a1e6","x":-965,"y":-160,"width":250,"height":60},
+		{"id":"6ddd7def60f298e6","x":-965,"y":-70,"width":250,"height":50,"type":"text","text":"課程大綱 & 學習方法"},
+		{"type":"text","text":"名詞類","id":"5d0c0d156ac64468","x":-965,"y":-380,"width":250,"height":60},
+		{"type":"text","text":"動詞類","id":"e89eaec1aba6fafe","x":-645,"y":-380,"width":250,"height":60},
+		{"type":"text","text":"功能詞類 & 句法","id":"85dec0a2c5c333b9","x":-320,"y":-380,"width":250,"height":60}
+	],
+	"edges":[]
+}
