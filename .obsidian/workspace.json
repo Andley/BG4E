@@ -21,24 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "10a2235dae1678ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "BBG4E/BG4E 規劃.canvas",
-                "viewState": {
-                  "x": -510,
-                  "y": -320,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da9a91ff787ef7ab",
@@ -183,12 +167,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10a2235dae1678ce",
+  "active": "d433c7b0e8061fbe",
   "lastOpenFiles": [
+    "Exploring Semantic Structures.md",
+    "BBG4E/BG4E 規劃.canvas",
     "exploring-semantic-structures.md",
+    "exploring-semantic-structures-zotero.md",
+    "BBG4E/Untitled.md",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/1Jo.2.7-17.md",
-    "BBG4E/BG4E 規劃.canvas",
     "BBG4E/BBG4E.md",
     "BBG4E/§1.md",
     "BBG4E/§2.md",
