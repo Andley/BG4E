@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "1041874b0a2bc154",
+        "id": "c6e93b9cdb62fda4",
         "type": "tabs",
         "children": [
           {
-            "id": "a75da2045d2adea0",
+            "id": "814b012798313a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md"
+                "file": "62-1John/Untitled.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +164,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75b75d906b38f1fb",
+  "active": "814b012798313a7c",
   "lastOpenFiles": [
-    "62-1John/1Jo.5.6-12.md",
+    "62-1John/1Jo.1.1-4.md",
+    "62-1John/Untitled.md",
+    "62-1John/1Jo.1.5-10.md",
     "62-1John/1Jo.5.1-5.md",
+    "62-1John/1Jo.5.6-12.md",
     "62-1John/1Jo.4.7-21.md",
     "62-1John/1Jo.4.1-6.md",
     "62-1John/1Jo.3.19-24.md",
@@ -176,9 +179,7 @@
     "62-1John/1Jo.2.18-27.md",
     "62-1John/1Jo.2.7-17.md",
     "62-1John/1Jo.2.1-6.md",
-    "62-1John/1Jo.1.5-10.md",
     "62-1John/1John-Interlinear.md",
-    "62-1John/1Jo.1.1-4.md",
     "62-1John/123John-Style.md",
     "BBG4E/BG4E 規劃.canvas",
     "Exploring Semantic Structures.md",
@@ -191,7 +192,6 @@
     "48-Galatians/Gal.6.1-10.md",
     "BBG4E/圖析風格.md",
     "Syntax/Syntax.md",
-    "Syntax/§000.md",
-    "61-2Peter/2Pe.1.1–2.md"
+    "Syntax/§000.md"
   ]
 }
