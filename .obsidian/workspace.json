@@ -36,8 +36,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "158670bfa1fe4e75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -165,7 +175,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7369547043f5022f",
+  "active": "158670bfa1fe4e75",
   "lastOpenFiles": [
     "62-1John/123John-Style.md",
     "62-1John/1Jo.1.5-10.md",
