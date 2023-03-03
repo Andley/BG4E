@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "da9a91ff787ef7ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7369547043f5022f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e6739e3af120d516",
         "type": "tabs",
         "children": [
@@ -31,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "Syntax/神的愛.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "158670bfa1fe4e75",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md"
+                "file": "Syntax/神的愛.md"
               }
             }
           },
@@ -135,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "Syntax/神的愛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "Syntax/神的愛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,17 +146,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "158670bfa1fe4e75",
+  "active": "66ba06dba7520206",
   "lastOpenFiles": [
-    "62-1John/123John-Style.md",
+    "62-1John/1Jo.1.1-4.md",
     "62-1John/1Jo.1.5-10.md",
+    "62-1John/123John-Style.md",
     "Phrasing-Signs.md",
     "cheatsheet.md",
     "Living Greek Resources.md",
     "Memorize.md",
     "Quotations.md",
     "README.md",
-    "62-1John/1Jo.1.1-4.md",
     "62-1John/Untitled.md",
     "62-1John/1Jo.5.1-5.md",
     "62-1John/1Jo.5.6-12.md",
