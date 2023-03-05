@@ -1,10 +1,11 @@
 ### 圖析 (1Jo 2:1-6)
-- 2:1a <RUBY><ruby><ruby>Τεκνία<rt>τεκνίον</rt></ruby><rt>Little children</rt></ruby><rt>N-VPN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me,</rt></ruby><rt>P-1GS</rt></RUBY> (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><strong>γράφω</strong><rt>γράφω</rt></ruby><rt>I am writing</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2
-	- 2:1b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>ἁμάρτητε·</strong><rt>ἁμαρτάνω</rt></ruby><rt>you may sin.</rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P 
+- 2:1a <RUBY><ruby><ruby>Τεκνία<rt>τεκνίον</rt></ruby><rt>Little children</rt></ruby><rt>N-VPN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me,</rt></ruby><rt>P-1GS</rt></RUBY> 
+- 2:1b (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><strong>γράφω</strong><rt>γράφω</rt></ruby><rt>I am writing</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2
+	- 2:1c <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY>[^1] <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>ἁμάρτητε·</strong><rt>ἁμαρτάνω</rt></ruby><rt>you may sin.</rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P 
 - ——————————————
-- 2:1c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> 
-	- <RUBY><ruby><ruby>ἐάν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>COND</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἁμάρτῃ,</strong><rt>ἁμαρτάνω</rt></ruby><rt>shall sin,</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P 
-- 2:1d (<RUBY><ruby><ruby>παράκλητον<rt>παράκλητος</rt></ruby><rt>an advocate</rt></ruby><rt>N-ASM</rt></RUBY>)C<sub>-</sub> (<RUBY><ruby><ruby><strong>ἔχομεν</strong><rt>ἔχω</rt></ruby><rt>we have</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>πατέρα,<rt>πατήρ</rt></ruby><rt>Father,</rt></ruby><rt>N-ASM</rt></RUBY>)A <sub>-</sub>C( = <RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY> <RUBY><ruby><ruby>δίκαιον,<rt>δίκαιος</rt></ruby><rt>[the] Righteous [One].</rt></ruby><rt>A-ASM</rt></RUBY>)
+- 2:1c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY>[^2]
+	- 2:1d <RUBY><ruby><ruby>ἐάν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>COND</rt></RUBY>[^3] (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἁμάρτῃ,</strong><rt>ἁμαρτάνω</rt></ruby><rt>shall sin,</rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P 
+- 2:1e (<RUBY><ruby><ruby>παράκλητον<rt>παράκλητος</rt></ruby><rt>an advocate</rt></ruby><rt>N-ASM</rt></RUBY>)⦇[^4] (<RUBY><ruby><ruby><strong>ἔχομεν</strong><rt>ἔχω</rt></ruby><rt>we have</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>πατέρα,<rt>πατήρ</rt></ruby><rt>Father,</rt></ruby><rt>N-ASM</rt></RUBY>)A ⦈( =« <RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY> <RUBY><ruby><ruby>δίκαιον,<rt>δίκαιος</rt></ruby><rt>[the] Righteous [One].</rt></ruby><rt>A-ASM</rt></RUBY> »[^5])C
 - 2:2a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἱλασμός<rt>ἱλασμός</rt></ruby><rt>[the] propitiation</rt></ruby><rt>N-NSM</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν<rt>ἁμαρτία</rt></ruby><rt>sins</rt></ruby><rt>N-GPF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν·<rt>ἐγώ</rt></ruby><rt>of us;</rt></ruby><rt>P-1GP</rt></RUBY>)A1
 	- 2:2b <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἡμετέρων<rt>ἡμέτερος</rt></ruby><rt>of ours</rt></ruby><rt>S-1PGPF</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>only,</rt></ruby><rt>A-ASN</rt></RUBY>)A2
 	- 2:2c <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὅλου<rt>ὅλος</rt></ruby><rt>all</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>κόσμου.<rt>κόσμος</rt></ruby><rt>world.</rt></ruby><rt>N-GSM</rt></RUBY>)A3
@@ -31,13 +32,8 @@
 		- 2:6d { <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>that [one]</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>περιεπάτησεν,</strong><rt>περιπατέω</rt></ruby><rt>walked</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P }a°⁵⮧
 	- 2:6e (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)a (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>)a (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in the same way</rt></ruby><rt>ADV</rt></RUBY>)a <RUBY><ruby><ruby><em><mark>περιπατεῖν°⁵</mark>.¶</em><rt>περιπατέω</rt></ruby><rt>to walk.</rt></ruby><rt>V-PAN</rt></RUBY>
 
-
-
-### 筆記 (1Jo 2:1-6)
-
-
-
-
----
-
-[約翰一書希臘文筆記 ↵](1John-Notes.md)
+[^1]: ἵνα：從屬連接詞，後面接假設語氣動詞，從上下文推敲，在此表達目的 (GGBB, 472)。
+[^2]: καὶ：連續兩個連接詞，καὶ 是用來對等連接 2:1bc 和 2:1de 兩個句子。
+[^3]: ἐάν：從屬連接詞，後面接假設語氣動詞，是第三類條件句 (GGBB, 689) 的結構。就語意來說，作者只是要表達條件「有可能發生」(GGBB, 696)——但並沒有要表達條件成立的可能性高低，是四種條件句中最沒有標記性的 (unmarked; AGG, §280c)。
+[^4]: παράκλητον ... Ἰησοῦν Χριστὸν δίκαιον：是一個片語，當作主要動詞 **ἔχομεν** 的補語使用。片語切成兩半，中間插入一串字，這種現象在文法上稱之為 hyperbaton (ATR, 424-25; AGG, §292c)。
+[^5]: Ἰησοῦν Χριστὸν δίκαιον：形容詞 δίκαιον 修飾 Ἰησοῦν Χριστὸν，三個字合起來整個片語和前面的 παράκλητον 同位 (GGBB, 198-99)。
