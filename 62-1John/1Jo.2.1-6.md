@@ -24,8 +24,9 @@
 - 2:5c (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>By</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ°⁴⮥?<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-DSN</rt></RUBY>[^23])A (<RUBY><ruby><ruby><strong>γινώσκομεν</strong><rt>γινώσκω</rt></ruby><rt>we know</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 	- 2:5d <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐσμεν.</strong><rt>εἰμί</rt></ruby><rt>we are:</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 - ——————————————
-- 2:6a {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The [one]</rt></ruby><rt>T-NSM</rt></RUBY>[^24] (<RUBY><ruby><ruby><em>λέγων</em><rt>λέγω</rt></ruby><rt>claiming</rt></ruby><rt>V-PAP-NSM</rt></RUBY>[^26] «<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><em>μένειν</em><rt>μένω</rt></ruby><rt>to abide,</rt></ruby><rt>V-PAN</rt></RUBY>[^27]») }S (<RUBY><ruby><ruby><strong>ὀφείλει,</strong><rt>ὀφείλω</rt></ruby><rt>ought</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P —2:6b—[^25] { (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)a (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>)a (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in the same way</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><em>περιπατεῖν.¶</em><rt>περιπατέω</rt></ruby><rt>to walk.</rt></ruby><rt>V-PAN</rt></RUBY>)p }C
-	- 2:6b <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>that [one]</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>περιεπάτησεν,</strong><rt>περιπατέω</rt></ruby><rt>walked</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P
+- 2:6a {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The [one]</rt></ruby><rt>T-NSM</rt></RUBY>[^24] (<RUBY><ruby><ruby><em>λέγων</em><rt>λέγω</rt></ruby><rt>claiming</rt></ruby><rt>V-PAP-NSM</rt></RUBY>[^25] «<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><em>μένειν</em><rt>μένω</rt></ruby><rt>to abide,</rt></ruby><rt>V-PAN</rt></RUBY>[^26]») }S (<RUBY><ruby><ruby><strong>ὀφείλει,</strong><rt>ὀφείλω</rt></ruby><rt>ought</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
+- 2:6b ——[^27] <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>that [one]</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>περιεπάτησεν,</strong><rt>περιπατέω</rt></ruby><rt>walked</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P ——
+- 2:6c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>[^28])S ...<strong>ὀφείλει</strong> ...[^29] { (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in the same way</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><em>περιπατεῖν.¶</em><rt>περιπατέω</rt></ruby><rt>to walk.</rt></ruby><rt>V-PAN</rt></RUBY>[^30])p }C
 
 [^1]: ἵνα：從屬連接詞，後面接假設語氣動詞，從上下文推敲，在此表達目的 (GGBB, 472)。
 [^2]: καὶ：連續兩個連接詞，καὶ 是用來對等連接 2:1bc 和 2:1de 兩個句子。
@@ -42,8 +43,8 @@
 [^13]: **ἐγνώκαμεν**：完成式時態形式，表達「因過去動作而產生的狀態 state of affairs」(GGBB, 573)，是希臘文中語意最強的時態。
 [^14]: ἐὰν：帶出不完整的第三類條件句，只有條件子句，但卻沒有結果子句——雖然句法上不完整，但語意卻可以從上下文推敲得知「if 我們守他的誡命 ⇒ then 我們就是處於認識他的狀態」。
 [^15]: ὁ _λέγων_ ... καὶ ... _τηρῶν_：冠詞＋分詞內嵌子句 = 實名詞的結構 (GGBB, 233-34)，在此兩個分詞內嵌子句共用同一個冠詞，滿足 TSKS 的 Sharp 規則 (GGBB, 271-72)，代表兩個分詞內嵌子句是在講同一個人 (既說認識他、又不遵行他誡命)。
-[^16]: _λέγων_  ...：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是形容詞，所以前面加上冠詞的時候就當作實名詞用；因為是動詞，所以後面可以接 2:4b 當作補語 (小 c)。
-[^17]: _τηρῶν_：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是形容詞，所以前面加上冠詞的時候就當作實名詞用；因為是動詞，所以前面的 τὰς ἐντολὰς αὐτοῦ 要當作補語 (小 c)。
+[^16]: _λέγων_  ...：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是動詞，所以後面可以接 2:4b 當作補語 (小 c)，形成分詞內嵌子句；因為是形容詞，所以前面加上冠詞就當作實名詞用。
+[^17]: _τηρῶν_：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是動詞，所以前面的 τὰς ἐντολὰς αὐτοῦ 要當作補語 (小 c)，形成分詞內嵌子句；因為是形容詞，所以前面加上冠詞就當作實名詞用。
 [^18]: ψεύστης：沒有冠詞，所以只能當補語 (GGBB,43)。
 [^19]: ὅτι：帶出內嵌子句當實名詞用，當作 2:4a 感知分詞 _λέγων_ 的補語，屬於直接引述 (direct discourse; GGBB, 454-55)。
 [^20]: τούτῳ：單就詞形來說，τούτῳ 可以是 DSM 或 DSN——但根據上下文判斷，這裡應該是指向 2:4a 的主語 (既說認識他、又不遵行他誡命的人)，因此代碼要寫成 SM (單數陽性)。
@@ -51,6 +52,9 @@
 [^22]: τούτῳ：單就詞形來說，τούτῳ 可以是 DSM 或 DSN——但根據上下文判斷，這裡應該是指向 2:5a 的主語 (遵守他誡命的人)，因此代碼要寫成 SM (單數陽性)。
 [^23]: τούτῳ：單就詞形來說，τούτῳ 可以是 DSM 或 DSN——但根據上下文判斷，這裡很可能是在總結 2:3-5b 的論述，因此代碼要寫成 SN (單數中性)。
 [^24]: ὁ _λέγων_ ...：冠詞＋分詞內嵌子句 = 實名詞的結構 (GGBB, 233-34)。
-[^25]: 根據上下文判斷，2:6b 應該是 parenthesis (插入的括號; AGG, §292d)，打斷了原本的思路，所以也算是 hyperbaton (倒置)。
-[^26]: _λέγων_：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是形容詞，所以前面加上冠詞的時候就當作實名詞用；因為是動詞，所以後面的不定詞內嵌子句 (ἐν αὐτῷ _μένειν_) 要當作補語 (小 c)。
-[^27]: ἐν αὐτῷ _μένειν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是名詞，所以可以當作實名詞用，成為上一層子句 _λέγων_ 的補語；因為是動詞，所以前面的介系詞片語 (ἐν αὐτῷ) 是狀語 (小a)。
+[^25]: _λέγων_：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是動詞，所以後面的不定詞內嵌子句 (ἐν αὐτῷ _μένειν_) 要當作補語 (小 c)，形成分詞內嵌子句；因為是形容詞，所以前面加上冠詞就當作實名詞用。
+[^26]: ἐν αὐτῷ _μένειν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是動詞，所以前面的介系詞片語 (ἐν αὐτῷ) 是狀語 (小a)，形成不定詞內嵌子句；因為是名詞，所以可以當作實名詞用，成為上一層子句 _λέγων_ 的補語。
+[^27]: 根據上下文判斷，2:6b 應該是 parenthesis (插入的括號; AGG, §292d)，打斷了原本的思路，所以也算是 hyperbaton (倒置)。
+[^28]: αὐτὸς：根據上下文判斷，應該是 resumptive pronoun (復述代名詞; GGBB, 329-30)，把插入括號之前的主語 (ὁ _λέγων_ ἐν αὐτῷ _μένειν_) 重新復述一遍，延續被打斷的話題。
+[^29]: 根據上下文推敲，補上被省略的動詞 **ὀφείλει**。
+[^30]: οὕτως _περιπατεῖν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是動詞，所以前面的副詞 (οὕτως) 是狀語 (小a)，形成不定詞內嵌子句；因為是名詞，所以可以當作實名詞用，成為被省略掉的主要動詞 **ὀφείλει** 的補語。
