@@ -4,34 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee9e76680462610",
+        "id": "eee049fea3b48119",
         "type": "tabs",
+        "dimension": 43.5625,
         "children": [
           {
-            "id": "e4c58faa39706a81",
+            "id": "afb08076d7d935de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/1Jo.2.1-6.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b43adf3c046f0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/123John-Style.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "1bcb0868887c607c",
+        "id": "3bf844f930f8c672",
         "type": "tabs",
+        "dimension": 56.43749999999999,
         "children": [
           {
-            "id": "42a1188b76252304",
+            "id": "30cc7b751594b57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -113,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.1.5-10.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +179,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4c58faa39706a81",
+  "active": "5b43adf3c046f0ba",
   "lastOpenFiles": [
     "62-1John/1Jo.2.1-6.md",
     "62-1John/1Jo.1.5-10.md",
