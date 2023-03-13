@@ -24,9 +24,8 @@
 - 2:5c (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>By</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ°⁴⮥?<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-DSN</rt></RUBY>[^23])A (<RUBY><ruby><ruby><strong>γινώσκομεν</strong><rt>γινώσκω</rt></ruby><rt>we know</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 	- 2:5d <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐσμεν.</strong><rt>εἰμί</rt></ruby><rt>we are:</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 - ——————————————
-- 2:6a {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The [one]</rt></ruby><rt>T-NSM</rt></RUBY>[^24] (<RUBY><ruby><ruby><em>λέγων</em><rt>λέγω</rt></ruby><rt>claiming</rt></ruby><rt>V-PAP-NSM</rt></RUBY>[^25] «<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><em>μένειν</em><rt>μένω</rt></ruby><rt>to abide,</rt></ruby><rt>V-PAN</rt></RUBY>[^26]») }S (<RUBY><ruby><ruby><strong>ὀφείλει,</strong><rt>ὀφείλω</rt></ruby><rt>ought</rt></ruby><rt>V-PAI-3S</rt></RUBY>[^27])P 
-- 2:6b ——[^28] <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>that [one]</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>περιεπάτησεν,</strong><rt>περιπατέω</rt></ruby><rt>walked</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P ——
-- 2:6c (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>[^29])A (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>[^30])S { (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in the same way</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><em>περιπατεῖν.¶</em><rt>περιπατέω</rt></ruby><rt>to walk.</rt></ruby><rt>V-PAN</rt></RUBY>[^31])p }C
+- 2:6a {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The [one]</rt></ruby><rt>T-NSM</rt></RUBY>[^24] (<RUBY><ruby><ruby><em>λέγων</em><rt>λέγω</rt></ruby><rt>claiming</rt></ruby><rt>V-PAP-NSM</rt></RUBY>[^25] «<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><em>μένειν</em><rt>μένω</rt></ruby><rt>to abide,</rt></ruby><rt>V-PAN</rt></RUBY>[^26]») }S (<RUBY><ruby><ruby><strong>ὀφείλει,</strong><rt>ὀφείλω</rt></ruby><rt>ought</rt></ruby><rt>V-PAI-3S</rt></RUBY>[^27])P ——2:6b—— (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>[^28])A (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>[^29])S { (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in the same way</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><em>περιπατεῖν.¶</em><rt>περιπατέω</rt></ruby><rt>to walk.</rt></ruby><rt>V-PAN</rt></RUBY>[^30])p }C
+	- 2:6b ——[^31] <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>that [one]</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>περιεπάτησεν,</strong><rt>περιπατέω</rt></ruby><rt>walked</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P ——
 
 [^1]: ἵνα：從屬連接詞，後面接假設語氣動詞，從上下文推敲，在此表達目的 (GGBB, 472)。
 [^2]: καὶ：連續兩個連接詞，καὶ 是用來對等連接 2:1bc 和 2:1de 兩個句子。
@@ -55,7 +54,7 @@
 [^25]: _λέγων_：分詞是半個動詞 (小 p)＋半個形容詞的結合體。因為是動詞，所以後面的不定詞內嵌子句 (ἐν αὐτῷ _μένειν_) 要當作補語 (小 c)，形成分詞內嵌子句；因為是形容詞，所以前面加上冠詞就當作實名詞用。
 [^26]: ἐν αὐτῷ _μένειν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是動詞，所以前面的介系詞片語 (ἐν αὐτῷ) 是狀語 (小a)，形成不定詞內嵌子句；因為是名詞，所以可以當作實名詞用，成為上一層子句 _λέγων_ 的補語。
 [^27]: **ὀφείλει**：後面可以接 2:6c 內含的不定詞內嵌子句，這樣意思才算完整 (BAGD)。
-[^28]: 根據上下文判斷，2:6b 應該是 parenthesis (插入的括號; AGG, §292d)，打斷了原本的思路，所以也算是 hyperbaton (倒置)。
-[^29]: καὶ：因為 2:6c 是延續 2:6a 的子句，所以這裡應該當副詞用，意思是 also。
-[^30]: αὐτὸς：根據上下文判斷，應該是 resumptive pronoun (復述代名詞; GGBB, 329-30)，把插入括號之前的主語 (ὁ _λέγων_ ἐν αὐτῷ _μένειν_) 重新復述一遍，延續被打斷的話題。
-[^31]: οὕτως _περιπατεῖν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是動詞，所以前面的副詞 (οὕτως) 是狀語 (小a)，形成不定詞內嵌子句；因為是名詞，所以可以當作實名詞用，成為被省略掉的主要動詞 **ὀφείλει** 的補語。
+[^28]: καὶ：因為 2:6c 是延續 2:6a 的子句，所以這裡應該當副詞用，意思是 also。
+[^29]: αὐτὸς：根據上下文判斷，應該是 resumptive pronoun (復述代名詞; GGBB, 329-30)，把插入括號之前的主語 (ὁ _λέγων_ ἐν αὐτῷ _μένειν_) 重新復述一遍，延續被打斷的話題。
+[^30]: οὕτως _περιπατεῖν_：不定詞是半個動詞 (小 p)＋半個名詞的結合體。因為是動詞，所以前面的副詞 (οὕτως) 是狀語 (小a)，形成不定詞內嵌子句；因為是名詞，所以可以當作實名詞用，成為被省略掉的主要動詞 **ὀφείλει** 的補語。
+[^31]: 根據上下文判斷，2:6b 應該是 parenthesis (插入的括號; AGG, §292d)，打斷了原本的思路，所以也算是 hyperbaton (倒置)。
