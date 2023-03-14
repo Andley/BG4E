@@ -24,7 +24,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - Christ Our Advocate
 	- [1John 2:1-6](1Jo.2.1-6.md)
 - The New Commandment
-	- [1John 2:7-17](1Jo.2.7-17.md)
+	- [1John 2:7-17](1Jo.2.7-11.md)
 - The Antichrist
 	- [1John 2:18-27](1Jo.2.18-27.md)
 - Children of God
