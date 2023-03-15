@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
-                "mode": "preview",
+                "file": "62-1John/1Jo.2.1-6.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md"
+                "file": "62-1John/1Jo.2.1-6.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +148,8 @@
   },
   "active": "f0b36a865f53333b",
   "lastOpenFiles": [
-    "62-1John/1Jo.2.7-11.md",
     "62-1John/1Jo.2.12-17.md",
+    "62-1John/1Jo.2.7-11.md",
     "62-1John/1Jo.2.1-6.md",
     "58-Hebrews/Heb.11.11.md",
     "58-Hebrews/Heb.2.1-4.md",
