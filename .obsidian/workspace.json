@@ -13,31 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "58-Hebrews/Heb.2.1-4.md",
                 "mode": "source",
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e9302b63568082d5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e2e8fa2badcbd65a",
+            "id": "f1c560d8a8be9071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "Biblography.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7441f98305a0522b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66-Revelation/Rev.1.4-6.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md"
+                "file": "66-Revelation/Rev.1.4-6.md"
               }
             }
           },
@@ -114,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "66-Revelation/Rev.1.4-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.12-17.md",
+                "file": "66-Revelation/Rev.1.4-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +172,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f0b36a865f53333b",
+  "active": "7441f98305a0522b",
   "lastOpenFiles": [
+    "Biblography.md",
+    "66-Revelation/Rev.1.4-6.md",
+    "66-Revelation",
+    "58-Hebrews/Heb.1.4-6.md",
+    "62-1John/1Jo.2.12-17.md",
+    "58-Hebrews/Heb.2.1-4.md",
     "62-1John/1Jo.2.7-11.md",
     "62-1John/1Jo.2.1-6.md",
     "62-1John/123John-Style.md",
-    "62-1John/1Jo.2.12-17.md",
     "58-Hebrews/Heb.11.11.md",
-    "58-Hebrews/Heb.2.1-4.md",
     "50-Philippians/Php.2.12-18.md",
     "62-1John/1Jo.1.5-10.md",
     "62-1John/1Jo.1.1-4.md",
@@ -190,9 +201,6 @@
     "62-1John/1Jo.4.1-6.md",
     "62-1John/1Jo.3.19-24.md",
     "62-1John/1Jo.3.11-18.md",
-    "62-1John/1Jo.2.28-3.10.md",
-    "62-1John/1Jo.2.18-27.md",
-    "62-1John/1John-Interlinear.md",
     "BBG4E/BG4E 規劃.canvas"
   ]
 }
