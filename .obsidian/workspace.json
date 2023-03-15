@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "62-1John/1Jo.2.12-17.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9302b63568082d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e8fa2badcbd65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.2.12-17.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -85,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md"
+                "file": "62-1John/1Jo.2.12-17.md"
               }
             }
           },
@@ -95,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "62-1John/1Jo.2.12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "62-1John/1Jo.2.12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +167,10 @@
   },
   "active": "f0b36a865f53333b",
   "lastOpenFiles": [
-    "62-1John/123John-Style.md",
-    "62-1John/1Jo.2.1-6.md",
-    "62-1John/1Jo.2.12-17.md",
     "62-1John/1Jo.2.7-11.md",
+    "62-1John/1Jo.2.1-6.md",
+    "62-1John/123John-Style.md",
+    "62-1John/1Jo.2.12-17.md",
     "58-Hebrews/Heb.11.11.md",
     "58-Hebrews/Heb.2.1-4.md",
     "50-Philippians/Php.2.12-18.md",
