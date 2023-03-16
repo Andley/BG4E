@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "770e4b38eff8f0cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0ec23090aad2b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/123John-Style.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -121,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +189,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7441f98305a0522b",
+  "active": "7e0ec23090aad2b5",
   "lastOpenFiles": [
-    "Biblography.md",
     "66-Revelation/Rev.1.4-6.md",
+    "Biblography.md",
     "66-Revelation",
     "58-Hebrews/Heb.1.4-6.md",
     "62-1John/1Jo.2.12-17.md",
