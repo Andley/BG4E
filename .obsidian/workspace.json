@@ -4,51 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a04ada5d924b43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f0b36a865f53333b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "58-Hebrews/Heb.2.1-4.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f1c560d8a8be9071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biblography.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7441f98305a0522b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/123John-Style.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "770e4b38eff8f0cf",
         "type": "tabs",
+        "dimension": 46.822916666666664,
         "children": [
           {
             "id": "7e0ec23090aad2b5",
@@ -56,8 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "Syntax/§311a.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "be206114aab07480",
+        "type": "tabs",
+        "dimension": 53.17708333333333,
+        "children": [
+          {
+            "id": "9e7ed5d162264574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/§311a.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -112,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -128,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Style.md"
+                "file": "Syntax/§311a.md"
               }
             }
           },
@@ -138,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "Syntax/§311a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "Syntax/§311a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,15 +169,22 @@
   },
   "active": "7e0ec23090aad2b5",
   "lastOpenFiles": [
-    "66-Revelation/Rev.1.4-6.md",
+    "58-Hebrews/Heb.2.1-4.md",
     "Biblography.md",
+    "62-1John/123John-Style.md",
+    "Syntax/§311a.md",
+    "Syntax/§311.md",
+    "Syntax/§57.5.md",
+    "Syntax/§000.md",
+    "Syntax/Accusative Subject of Infinitive.md",
+    "Syntax/Apposition.md",
+    "Syntax/Syntax.md",
+    "66-Revelation/Rev.1.4-6.md",
     "66-Revelation",
     "58-Hebrews/Heb.1.4-6.md",
     "62-1John/1Jo.2.12-17.md",
-    "58-Hebrews/Heb.2.1-4.md",
     "62-1John/1Jo.2.7-11.md",
     "62-1John/1Jo.2.1-6.md",
-    "62-1John/123John-Style.md",
     "58-Hebrews/Heb.11.11.md",
     "50-Philippians/Php.2.12-18.md",
     "62-1John/1Jo.1.5-10.md",
@@ -211,13 +196,6 @@
     "Living Greek Resources.md",
     "Memorize.md",
     "Quotations.md",
-    "README.md",
-    "62-1John/1Jo.5.1-5.md",
-    "62-1John/1Jo.5.6-12.md",
-    "62-1John/1Jo.4.7-21.md",
-    "62-1John/1Jo.4.1-6.md",
-    "62-1John/1Jo.3.19-24.md",
-    "62-1John/1Jo.3.11-18.md",
     "BBG4E/BG4E 規劃.canvas"
   ]
 }
