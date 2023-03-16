@@ -24,6 +24,11 @@
       "type": "file",
       "title": "Idioms",
       "path": "Idioms.md"
+    },
+    {
+      "type": "file",
+      "title": "§311a",
+      "path": "Syntax/§311a.md"
     }
   ]
 }
