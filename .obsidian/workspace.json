@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
-                "mode": "preview",
+                "file": "open-source.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "完成式時態形式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md"
+                "file": "open-source.md"
               }
             }
           },
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "open-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "open-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +166,9 @@
   },
   "active": "02c5a57a810ffed6",
   "lastOpenFiles": [
+    "README.md",
+    "open-source.md",
+    "62-1John/1Jo.2.1-6.md",
     "62-1John/1Jo.2.12-17.md",
     "Phrasing-Signs.md",
     "images/Pasted image 20230317084752.png",
@@ -186,7 +188,6 @@
     "Syntax/Syntax.md",
     "66-Revelation",
     "58-Hebrews/Heb.1.4-6.md",
-    "62-1John/1Jo.2.1-6.md",
     "58-Hebrews/Heb.11.11.md",
     "50-Philippians/Php.2.12-18.md",
     "62-1John/1Jo.1.1-4.md",
@@ -194,7 +195,6 @@
     "Syntax/神的愛.md",
     "cheatsheet.md",
     "Living Greek Resources.md",
-    "Memorize.md",
     "BBG4E/BG4E 規劃.canvas"
   ]
 }
