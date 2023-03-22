@@ -77,4 +77,10 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 		- and all spirit <...> is not out-of the God
 		- and all spirit <...> ‖ <mark>(it) is not out-of the God</mark> 切成兩個子句，就合乎規則 😀
 
+但是一價的時候，帶冠詞的名詞又如何？
+- 1Jo 1:8
+- 1Jo 1:10
+- 1Jo 2:4b
+- 
+
 [^1]: Herbert W. Bateman IV, _John’s Letters: An Exegetical Guide for Preaching and Teaching_, Big Greek Idea (Grand Rapids, MI.: Kregel Academic, 2018), 55.
