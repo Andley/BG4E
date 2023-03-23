@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,9 @@
   },
   "active": "aad56371277446b5",
   "lastOpenFiles": [
-    "62-1John/1Jo.2.12-17.md",
     "62-1John/1Jo.2.18-27.md",
+    "62-1John/123John-Style.md",
+    "62-1John/1Jo.2.12-17.md",
     "Untitled.md",
     "66-Revelation/Rev.1.4-6.md",
     "48-Galatians/Gal.2.6-10.md",
@@ -178,7 +179,6 @@
     "43-John/Joh.20.31.md",
     "cheatsheet.md",
     "62-1John/1Jo.1.5-10.md",
-    "62-1John/123John-Style.md",
     "Mat.19.5-6.md",
     "43-John/Joh.3.16.md",
     "62-1John/1Jo.2.7-11.md",
