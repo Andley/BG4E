@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "34e6ea295f4b60a0",
+        "id": "539bed0e2e10dd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "49ccf7bea043b0a0",
+            "id": "aad56371277446b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +147,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49ccf7bea043b0a0",
+  "active": "aad56371277446b5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "66-Revelation/Rev.1.4-6.md",
+    "48-Galatians/Gal.2.6-10.md",
+    "66-Revelation/Untitled.md",
+    "BBG4E/HW1.md",
     "62-1John/1Jo.2.18-27.md",
     "Syntax/§311a.md",
     "43-John/Joh.20.31.md",
@@ -157,7 +170,6 @@
     "Phrasing-Signs.md",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
-    "66-Revelation/Rev.1.4-6.md",
     "58-Hebrews/Heb.2.1-4.md",
     "Biblography.md",
     "Syntax/§311.md",
@@ -165,11 +177,7 @@
     "Syntax/§000.md",
     "Syntax/Accusative Subject of Infinitive.md",
     "Syntax/Apposition.md",
-    "Syntax/Syntax.md",
     "66-Revelation",
-    "58-Hebrews/Heb.1.4-6.md",
-    "58-Hebrews/Heb.11.11.md",
-    "50-Philippians/Php.2.12-18.md",
     "BBG4E/BG4E 規劃.canvas"
   ]
 }
