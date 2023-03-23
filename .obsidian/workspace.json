@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "62-1John/1Jo.2.18-27.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8de09035565f382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb62c83daec4f8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.2.18-27.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "62-1John/1Jo.2.18-27.md"
               }
             }
           },
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "62-1John/1Jo.2.18-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "62-1John/1Jo.2.18-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,15 +167,15 @@
   },
   "active": "aad56371277446b5",
   "lastOpenFiles": [
+    "62-1John/1Jo.2.12-17.md",
+    "62-1John/1Jo.2.18-27.md",
     "Untitled.md",
     "66-Revelation/Rev.1.4-6.md",
     "48-Galatians/Gal.2.6-10.md",
     "66-Revelation/Untitled.md",
     "BBG4E/HW1.md",
-    "62-1John/1Jo.2.18-27.md",
     "Syntax/§311a.md",
     "43-John/Joh.20.31.md",
-    "62-1John/1Jo.2.12-17.md",
     "cheatsheet.md",
     "62-1John/1Jo.1.5-10.md",
     "62-1John/123John-Style.md",
