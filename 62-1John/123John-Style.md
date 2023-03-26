@@ -64,29 +64,31 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 	- καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον. (1 Jn. 5:17) ⇒ and (*there*) is sin not to death
 	- ὅτι ἐκ τοῦ θεοῦ ἐσμεν (1 Jn. 5:19) ⇒ that (we) are out-of the God
 	- καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, (1 Jn. 5:20) ⇒ and (we) are in the truth
-- 零價 (a-valent) 的經文：
-	- καὶ ἐσμέν (1 Jn. 3:1) ⇒ and (we) are 
+- ————————
 - 可能有疑慮的經文：
 	- ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. (1 Jn. 2:21)
 		- that all lie is not out-of the truth 還是
-		- <mark>(*there*) is not any lie out-of the truth</mark> 比較好，可以合乎規則 😀
+		- <mark>(*there*) is not any lie out-of the truth</mark> ⇐ 比較好，可以合乎規則 😀
 	- πᾶν πνεῦμα <ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα> ἐκ τοῦ θεοῦ ἐστιν, (1 Jn. 4:2)
 		- all spirit <...> is out-of the God
-		- all spirit <...> ‖ <mark>(it) is out-of the God</mark> 切成兩個子句，就合乎規則 😀
+		- all spirit <...> ‖ <mark>(it) is out-of the God</mark> ⇐ 切成兩個子句，就可以合乎規則 😀
 	- καὶ πᾶν πνεῦμα <ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν> ἐκ τοῦ θεοῦ οὐκ ἔστιν (1 Jn. 4:3)
 		- and all spirit <...> is not out-of the God
-		- and all spirit <...> ‖ <mark>(it) is not out-of the God</mark> 切成兩個子句，就合乎規則 😀
-
-一價是帶冠詞的名詞
-- 1Jo 1:8 καὶ ἡ ἀλήθεια οὐκ ἔστιν ἐν ἡμῖν. ⇒ and (*there*) is not the truth
-- 1Jo 1:10 καὶ ὁ λόγος αὐτοῦ οὐκ ἔστιν ἐν ἡμῖν. ⇒ and (*there*) is not his word in him.
-- 1Jo 2:4b καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν· ⇒ and (*there*) is not the truth in this (man).
-
-πᾶς 
-- 1Jn 2:19 ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν. ⇒ because all (of them) are not from us.
-- 1Jn 2:21 ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. ⇒ because (*there*) is not any lie from the truth. ⇒ and (*there*) is not any spirit [which does not confess Jesus] is from God.
-- 1Jn 4:3  καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν· 
-- 1Jn 5:17  πᾶσα ἀδικία ἁμαρτία ἐστίν, ⇒ every unrighteousness is sin,【不是一價，是兩價，所以不適用於 Wallace 規則】
+		- and all spirit <...> ‖ <mark>(it) is not out-of the God</mark> ⇐ 切成兩個子句，就可以合乎規則 😀
+- ————————
+- 零價 (a-valent) 的經文：
+	- καὶ ἐσμέν (1 Jn. 3:1) ⇒ and (we) are 
+- ————————
+- 一價是帶冠詞的名詞
+	- 1Jo 1:8 καὶ ἡ ἀλήθεια οὐκ ἔστιν ἐν ἡμῖν. ⇒ and (*there*) is not the truth
+	- 1Jo 1:10 καὶ ὁ λόγος αὐτοῦ οὐκ ἔστιν ἐν ἡμῖν. ⇒ and (*there*) is not his word in him.
+	- 1Jo 2:4b καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν· ⇒ and (*there*) is not the truth in this (man).
+- ————————
+- πᾶς 
+	- 1Jn 2:19 ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν. ⇒ because all (of them) are not from us.
+	- 1Jn 2:21 ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. ⇒ because (*there*) is not any lie from the truth. ⇒ and (*there*) is not any spirit [which does not confess Jesus] is from God.
+	- 1Jn 4:3  καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν· 
+	- 1Jn 5:17  πᾶσα ἀδικία ἁμαρτία ἐστίν, ⇒ every unrighteousness is sin,【不是一價，是兩價，所以不適用於 Wallace 規則】
 
 
 

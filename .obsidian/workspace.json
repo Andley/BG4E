@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "539bed0e2e10dd8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aad56371277446b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/123John-Style.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a8de09035565f382",
         "type": "tabs",
         "children": [
@@ -33,7 +15,7 @@
               "state": {
                 "file": "62-1John/123John-Style.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -165,7 +146,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aad56371277446b5",
+  "active": "fb62c83daec4f8df",
   "lastOpenFiles": [
     "62-1John/1Jo.2.18-27.md",
     "62-1John/123John-Style.md",
