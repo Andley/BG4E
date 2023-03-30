@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ec98bccf45d3b80",
@@ -100,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Style.md"
+                "file": "62-1John/1Jo.2.18-27.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.2.18-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "62-1John/1Jo.2.18-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +177,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cecd93ef675042c",
+  "active": "36103f27790e82f4",
   "lastOpenFiles": [
+    "62-1John/123John-Style.md",
     "62-1John/1Jo.2.18-27.md",
     "62-1John/1Jo.2.12-17.md",
-    "62-1John/123John-Style.md",
     "Syntax/§311a.md",
     "62-1John/1Jo.1.5-10.md",
     "Untitled.md",
