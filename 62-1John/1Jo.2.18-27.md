@@ -13,15 +13,15 @@
 - 2:19a (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>From among</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐξῆλθαν</strong><rt>ἐξέρχομαι</rt></ruby><rt>they went out</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P
 - 2:19b <RUBY><ruby><ruby>ἀλλ᾽<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>ἦσαν</strong><rt>εἰμί</rt></ruby><rt>they were</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A
 - 2:19e ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
-	- 2:19f <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἦσαν,</strong><rt>εἰμί</rt></ruby><rt>they had been</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P 
-- 2:19g (<RUBY><ruby><ruby><strong>μεμενήκεισαν</strong><rt>μένω</rt></ruby><rt>they would have remained</rt></ruby><rt>V-LAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>-</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>μεθ᾽<rt>μετά</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν—<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>[^3])A
+	- 2:19f <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY>[^3] ⸉⸊ (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἦσαν,</strong><rt>εἰμί</rt></ruby><rt>they had been</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P 
+- 2:19g (<RUBY><ruby><ruby><strong>μεμενήκεισαν</strong><rt>μένω</rt></ruby><rt>they would have remained</rt></ruby><rt>V-LAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>-</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>μεθ᾽<rt>μετά</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν—<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>[^4])A
 - ⋯⋯⋯⋯⋯⋯⋯
 - 2:19h <RUBY><ruby><ruby>ἀλλ᾽<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 2:19i <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>[it is] so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>φανερωθῶσιν</strong><rt>φανερόω</rt></ruby><rt>it might be made manifest</rt></ruby><rt>V-APS-3P</rt></RUBY>)P
-		- 2:19j <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY>[^4] (<RUBY><ruby><ruby><strong>εἰσὶν</strong><rt>εἰμί</rt></ruby><rt>they are</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S[^5] (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν.<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A
+		- 2:19j <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY>[^5] (<RUBY><ruby><ruby><strong>εἰσὶν</strong><rt>εἰμί</rt></ruby><rt>they are</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S[^6] (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν.<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY>)A
 - ⋯⋯⋯⋯⋯⋯⋯
 - 2:20a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>χρῖσμα<rt>χρῖσμα</rt></ruby><rt>[the] anointing</rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἔχετε</strong><rt>ἔχω</rt></ruby><rt>have</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἁγίου<rt>ἅγιος</rt></ruby><rt>Holy [One]</rt></ruby><rt>A-GSM</rt></RUBY>)A
-- 2:20b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>οἴδατε</strong><rt>εἴδω</rt></ruby><rt>know you</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντες.<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S[^6]
+- 2:20b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>οἴδατε</strong><rt>εἴδω</rt></ruby><rt>know you</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντες.<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S[^7]
 - 2:21a <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔγραψα</strong><rt>γράφω</rt></ruby><rt>I have written</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
 	- 2:21b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>οἴδατε</strong><rt>εἴδω</rt></ruby><rt>you know</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀλήθειαν<rt>ἀλήθεια</rt></ruby><rt>truth</rt></ruby><rt>N-ASF</rt></RUBY>)C
 - 2:21c <RUBY><ruby><ruby>ἀλλ᾽<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY>
@@ -61,17 +61,10 @@
 
 
 
-
-
-
-
----
-
-(約翰一書希臘文筆記 ↵)(1John-Notes.md)
-
-[^1]: καὶ：有兩種可能：(1) 當作連接詞，與 2:18b 的 καὶ 重覆，都是用來連接 2:18a 和 2:18e，只是口語上的重覆；(2) 當作副詞，意思是 also，連同 2:18c 翻譯出來有「正如你們聽過 ... 現在(νῦν) 也(καὶ) 出現了」。根據上下文判斷，(2) 似乎比較通順。
+[^1]: καὶ：有兩種可能：(1) 當作連接詞，與 2:18b 的 καὶ 重覆，都是用來連接 2:18a 和 2:18e，只是口語上的重覆；(2) 當作副詞，意思是 also/even，連同 2:18c 翻譯出來有「正如你們聽過 ... 現在(νῦν) 也(καὶ) 出現了」。根據上下文判斷，(2) 似乎比較通順。
 [^2]: ὅθεν：根據上下文判斷，在此當副詞使用比較通順，意思是「由此事實」(BAGD)。
-[^3]: —：UBS5/NA28 認為這裡語氣有轉折，所以加上破折號
-[^4]: οὐκ：位置放在主要動詞 **εἰσὶν** 前面，所以是用來否定動詞 (All of them are not from us)，不是用來否定 πάντες (Not all of them are from us)。
-[^5]: πάντες：嚴格來說，主語 (S) 是內含在主要動詞 **εἰσὶν** 裡面的 3P  (他們_，πάντες 只是形容詞，修飾動詞內含的主語。
-[^6]: πάντες：嚴格來說，主語 (S) 是內含在主要動詞 **οἴδατε** 裡面的 2P (你們)，πάντες 只是形容詞，修飾動詞內含的主語。
+[^3]: εἰ ... **ἦσαν**：εἰ + 直說語氣、不定過去式時態形式 (or 不完成式時態形式) 動詞，結果子句 (2:19g) 又有 ἂν ⇒ 標準的第二類條件句 (GGBB, 689)，表達「與作者、發話者內心事實相反」的條件 (GGBB, 694-6)。
+[^4]: —：UBS5/NA28 認為這裡語氣有轉折，所以加上破折號
+[^5]: οὐκ：位置放在主要動詞 **εἰσὶν** 前面，所以是用來否定動詞、連同以動詞為核心的整個子句 (Idioms, 281-2)，意思是 All of them are not from us，不是用來否定 πάντες (Not all of them are from us)。
+[^6]: πάντες：嚴格來說，主語 (S) 是內含在主要動詞 **εἰσὶν** 裡面的 3P  (他們)，πάντες 只是形容詞，修飾動詞內含的主語，所以要翻譯成 all of them。
+[^7]: πάντες：嚴格來說，主語 (S) 是內含在主要動詞 **οἴδατε** 裡面的 2P (你們)，πάντες 只是形容詞，修飾動詞內含的主語，所以要翻譯成 all of you。
