@@ -1,7 +1,7 @@
 {
   "hideRibbon": true,
   "hideStatus": false,
-  "hideTabs": false,
+  "hideTabs": true,
   "hideScroll": false,
   "hideSidebarButtons": false,
   "hideTooltips": false,
