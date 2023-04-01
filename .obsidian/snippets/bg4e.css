@@ -89,11 +89,11 @@ ruby {
 }
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
-  line-height: 13px ;
+  line-height: 13px;
 }
 
 ul ruby {
-  padding-bottom: 5px ;
+  padding-bottom: 3px ;
 }
 
 ul p {
