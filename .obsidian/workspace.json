@@ -4,34 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "7996566a77b76531",
+        "id": "6c99b6c6b5004466",
         "type": "tabs",
+        "dimension": 40.99547511312217,
         "children": [
           {
-            "id": "4cecd93ef675042c",
+            "id": "1a81d9f000627cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.2.18-27.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4a2c5321484d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/123John-Clause.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "277fe5ce47a0ac6e",
+        "type": "tabs",
+        "dimension": 59.00452488687783,
+        "children": [
+          {
+            "id": "e4c58faa39706a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "62-1John/1Jo.2.18-27.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "62f702b8366529d2",
+            "id": "8faf67c9868aafeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/§311a.md",
+                "file": "62-1John/123John-Clause.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -97,41 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.18-27.md"
+                "file": "62-1John/123John-Clause.md"
               }
             }
           },
           {
-            "id": "e08efcd1a53a630d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "584f84ca45a5da8d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "776c35f371d6f221",
+            "id": "ffff73b72ba5875f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.0555419921875,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,20 +165,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cecd93ef675042c",
+  "active": "8faf67c9868aafeb",
   "lastOpenFiles": [
-    "62-1John/1Jo.2.12-17.md",
+    "62-1John/1Jo.2.18-27.md",
+    "62-1John/123John-Clause.md",
+    "48-Galatians/Gal.3.7-14.md",
     "Syntax/§311a.md",
+    "62-1John/1Jo.1.5-10.md",
+    "62-1John/1Jo.2.12-17.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.2.1-6.md",
     "62-1John/123John-Style.md",
     "62-1John/1John-Notes.md",
-    "62-1John/1Jo.2.18-27.md",
     "62-1John/1John-Interlinear-TC.md",
     "Untitled.md",
     "40-Matthew/Mat.19.5-6.md",
     "40-Matthew",
-    "62-1John/1Jo.1.5-10.md",
     "66-Revelation/Rev.1.4-6.md",
     "48-Galatians/Gal.2.6-10.md",
     "66-Revelation/Untitled.md",
@@ -187,8 +196,6 @@
     "images/Pasted image 20230317084649.png",
     "58-Hebrews/Heb.2.1-4.md",
     "Biblography.md",
-    "Syntax/§311.md",
-    "Syntax/§57.5.md",
     "66-Revelation",
     "BBG4E/BG4E 規劃.canvas"
   ]
