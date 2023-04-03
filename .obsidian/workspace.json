@@ -20,21 +20,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e4a2c5321484d0ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/123John-Clause.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "277fe5ce47a0ac6e",
@@ -53,21 +40,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "8faf67c9868aafeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/123John-Clause.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Clause.md"
+                "file": "62-1John/1Jo.2.18-27.md"
               }
             }
           },
@@ -153,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +140,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8faf67c9868aafeb",
+  "active": "1a81d9f000627cca",
   "lastOpenFiles": [
-    "62-1John/1Jo.2.18-27.md",
     "62-1John/123John-Clause.md",
+    "62-1John/1Jo.2.18-27.md",
     "48-Galatians/Gal.3.7-14.md",
     "Syntax/§311a.md",
     "62-1John/1Jo.1.5-10.md",
