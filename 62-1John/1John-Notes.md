@@ -26,7 +26,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - The New Commandment
 	- [1John 2:7-17](1Jo.2.7-11.md)
 - The Antichrist
-	- [1John 2:18-27](1Jo.2.18-27.md)
+	- [1John 2:18-27](1Jo.2.18-25.md)
 - Children of God
 	- [1John 2:28-3.10](1Jo.2.28-3.10.md)
 - Love One Another

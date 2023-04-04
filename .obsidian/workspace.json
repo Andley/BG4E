@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c99b6c6b5004466",
+        "id": "1ef2814bf64534fa",
         "type": "tabs",
-        "dimension": 40.99547511312217,
         "children": [
           {
-            "id": "1a81d9f000627cca",
+            "id": "e6f9dfb9cd3f51ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "277fe5ce47a0ac6e",
-        "type": "tabs",
-        "dimension": 59.00452488687783,
-        "children": [
-          {
-            "id": "e4c58faa39706a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.2.18-27.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "62-1John/1Jo.2.18-27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,6 +92,33 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8a6baf0fafd0235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38dc668f00a93deb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -140,10 +139,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a81d9f000627cca",
+  "active": "e6f9dfb9cd3f51ab",
   "lastOpenFiles": [
+    "62-1John/1Jo.2.18-25.md",
+    "62-1John/1Jo.2.26-27.md",
+    "Syntax/§000.md",
+    "Syntax/Syntax.md",
+    "Syntax/GGBB Apposition vs Epexgetisis.md",
+    "images/Pasted image 20230403142914.png",
     "62-1John/123John-Clause.md",
-    "62-1John/1Jo.2.18-27.md",
     "48-Galatians/Gal.3.7-14.md",
     "Syntax/§311a.md",
     "62-1John/1Jo.1.5-10.md",
@@ -165,12 +169,8 @@
     "43-John/Joh.3.16.md",
     "62-1John/1Jo.2.7-11.md",
     "open-source.md",
-    "README.md",
-    "Phrasing-Signs.md",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
-    "58-Hebrews/Heb.2.1-4.md",
-    "Biblography.md",
     "66-Revelation",
     "BBG4E/BG4E 規劃.canvas"
   ]
