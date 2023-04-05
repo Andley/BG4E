@@ -11,8 +11,12 @@
             "id": "e6f9dfb9cd3f51ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "50-Philippians/Php.4.2-7.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "50-Philippians/Php.4.2-7.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "50-Philippians/Php.4.2-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "50-Philippians/Php.4.2-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
