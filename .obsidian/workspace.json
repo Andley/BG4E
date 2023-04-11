@@ -36,8 +36,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d19cf8bb4766ce23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.18-25.md"
+                "file": "62-1John/Untitled.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.18-25.md",
+                "file": "62-1John/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.18-25.md",
+                "file": "62-1John/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +177,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42eacb26c8031d82",
+  "active": "d19cf8bb4766ce23",
   "lastOpenFiles": [
-    "50-Philippians/Php.4.2-7.md",
     "62-1John/1Jo.2.18-25.md",
+    "62-1John/Untitled.md",
+    "50-Philippians/Php.4.2-7.md",
     "62-1John/1Jo.2.26-27.md",
     "Syntax/§000.md",
     "Syntax/Syntax.md",
@@ -193,7 +207,6 @@
     "43-John/Joh.20.31.md",
     "cheatsheet.md",
     "43-John/Joh.3.16.md",
-    "62-1John/1Jo.2.7-11.md",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
     "66-Revelation",
