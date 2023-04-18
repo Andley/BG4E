@@ -28,7 +28,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - The Antichrist
 	- [1John 2:18-27](1Jo.2.18-25.md)
 - Children of God
-	- [1John 2:28-3.10](1Jo.2.28-3.10.md)
+	- [1John 2:28-3.10](1Jo.2.28-3.3.md)
 - Love One Another
 	- [1John 3:11-18](1Jo.3.11-18.md)
 - Confidence before God
