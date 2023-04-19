@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.28-3.3.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9eb9cbe634ae0206",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42eacb26c8031d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.2.28-3.3.md",
+                "file": "BG4E–III/HW8-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.28-3.3.md"
+                "file": "BG4E–III/HW8-Key.md"
               }
             }
           },
@@ -125,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.28-3.3.md",
+                "file": "BG4E–III/HW8-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.28-3.3.md",
+                "file": "BG4E–III/HW8-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +148,10 @@
   },
   "active": "e6f9dfb9cd3f51ab",
   "lastOpenFiles": [
-    "62-1John/1Jo.3.4-10.md",
+    "BG4E–III/HW8.md",
+    "BG4E–III/2021-CTTS.md",
     "62-1John/1Jo.2.28-3.3.md",
+    "62-1John/1Jo.3.4-10.md",
     "62-1John/1Jo.2.26-27.md",
     "62-1John/1Jo.2.18-25.md",
     "62-1John/Untitled.md",
@@ -193,8 +176,6 @@
     "66-Revelation/Rev.1.4-6.md",
     "48-Galatians/Gal.2.6-10.md",
     "66-Revelation/Untitled.md",
-    "BBG4E/HW1.md",
-    "43-John/Joh.20.31.md",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
     "66-Revelation",
