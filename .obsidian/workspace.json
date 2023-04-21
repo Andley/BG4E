@@ -4,35 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1ef2814bf64534fa",
+        "id": "f9d5969a803ea924",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f9dfb9cd3f51ab",
+            "id": "dae111dd20f5ff34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E–III/HW8-Key.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4e969fac66424bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG4E–III/Untitled.md",
+                "file": "62-1John/1Jo.3.4-10.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "04f7ac18f5e3104b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "529bac82284d93e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.3.4-10.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -98,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E–III/Untitled.md"
+                "file": "62-1John/1Jo.3.4-10.md"
               }
             }
           },
@@ -119,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E–III/Untitled.md",
+                "file": "62-1John/1Jo.3.4-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E–III/Untitled.md",
+                "file": "62-1John/1Jo.3.4-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e969fac66424bbe",
+  "active": "dae111dd20f5ff34",
   "lastOpenFiles": [
     "BG4E–III/HW8-Key.md",
     "BG4E–III/Untitled.md",
