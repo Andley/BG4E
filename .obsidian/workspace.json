@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.3.4-10.md",
+                "file": "62-1John/1Jo.3.11-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.3.4-10.md",
+                "file": "62-1John/1Jo.3.11-18.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.3.4-10.md"
+                "file": "62-1John/1Jo.3.11-18.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.3.4-10.md",
+                "file": "62-1John/1Jo.3.11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.3.4-10.md",
+                "file": "62-1John/1Jo.3.11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +165,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dae111dd20f5ff34",
+  "active": "529bac82284d93e1",
   "lastOpenFiles": [
-    "62-1John/1Jo.3.11-18.md",
     "62-1John/1Jo.3.4-10.md",
+    "62-1John/1Jo.3.11-18.md",
     "62-1John/Untitled 1.md",
     "62-1John/Untitled.md",
     "BG4E–III/HW8-Key.md",
