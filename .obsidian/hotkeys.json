@@ -187,10 +187,9 @@
     {
       "modifiers": [
         "Alt",
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "6"
+      "key": "F"
     }
   ],
   "cm-show-whitespace-obsidian:toggle-show-whitespace": [

@@ -13,38 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.3.11-18.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9870096c9367d9d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/Untitled.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c2a6eb3dc5c71121",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc62330d4357dc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/Untitled.md",
+                "file": "62-1John/1Jo.4.1-6.md",
                 "mode": "source",
                 "source": true
               }
@@ -62,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.3.11-18.md",
+                "file": "62-1John/1Jo.4.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -135,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/Untitled.md"
+                "file": "62-1John/1Jo.4.1-6.md"
               }
             }
           },
@@ -156,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/Untitled.md",
+                "file": "62-1John/1Jo.4.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/Untitled.md",
+                "file": "62-1John/1Jo.4.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +165,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9870096c9367d9d5",
+  "active": "dae111dd20f5ff34",
   "lastOpenFiles": [
+    "62-1John/1Jo.3.19-24.md",
+    "62-1John/1Jo.4.1-6.md",
     "62-1John/1Jo.3.11-18.md",
     "62-1John/Untitled.md",
     "62-1John/1Jo.3.4-10.md",
@@ -223,8 +194,6 @@
     "62-1John/1Jo.2.1-6.md",
     "62-1John/123John-Style.md",
     "62-1John/1John-Notes.md",
-    "62-1John/1John-Interlinear-TC.md",
-    "Untitled.md",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
