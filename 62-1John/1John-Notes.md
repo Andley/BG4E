@@ -36,7 +36,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - The Spirit of God and the Spirit of Antichrist
 	- [1John 4:1-6](1Jo.4.1-6.md)
 - God is Love
-	- [1John 4:7-21](1Jo.4.7-21.md)
+	- [1John 4:7-21](1Jo.4.7-12.md)
 - Faith is Victory over the World
 	- [1John 5:1-5](1Jo.5.1-5.md)
 - The Witness concerning the Son

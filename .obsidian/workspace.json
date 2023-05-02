@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
+                "file": "62-1John/1Jo.4.13-16c.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "19a70e94e57ca660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b4cbc1d559a5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62-1John/1Jo.4.13-16c.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -85,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md"
+                "file": "62-1John/1Jo.4.13-16c.md"
               }
             }
           },
@@ -106,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
+                "file": "62-1John/1Jo.4.13-16c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
+                "file": "62-1John/1Jo.4.13-16c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +167,13 @@
   },
   "active": "06a7afa7c635cbe8",
   "lastOpenFiles": [
+    "62-1John/1Jo.4.7-12.md",
+    "62-1John/1Jo.4.13-16c.md",
+    "62-1John/1Jo.4.16d-21.md",
     "62-1John/1Jo.4.1-6.md",
     "62-1John/1Jo.3.19-24.md",
+    "57-Philemon/Phm.1.4-7.md",
     "62-1John/1Jo.3.11-18.md",
-    "62-1John/Untitled.md",
     "62-1John/1Jo.3.4-10.md",
     "62-1John/Untitled 1.md",
     "BG4E–III/HW8-Key.md",
@@ -172,9 +194,6 @@
     "62-1John/1Jo.1.5-10.md",
     "62-1John/1Jo.2.12-17.md",
     "62-1John/1John-Interlinear.md",
-    "62-1John/1Jo.2.1-6.md",
-    "62-1John/123John-Style.md",
-    "62-1John/1John-Notes.md",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
