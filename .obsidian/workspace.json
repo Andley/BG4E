@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7b72af722cc383",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81cd0c66fe3313d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "46-1Corinthians/1Co.15.1-11.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2576cf2934a47e31",
         "type": "tabs",
         "children": [
@@ -173,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81cd0c66fe3313d4",
+  "active": "298b60141897141f",
   "lastOpenFiles": [
     "62-1John/1Jo.4.13-16c.md",
     "46-1Corinthians/1Co.15.1-11.md",
