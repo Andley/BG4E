@@ -110,19 +110,9 @@ em, .cm-em {
     font-style:italic;
   }
 
-.nav-file-title, .nav-folder-title {
-  display: flex;
-  border: 1px solid transparent;
-  border-radius: px;
-  cursor: pointer;
-  /*color: var(--text-faint);*/
-  font-size: 13px;
-  line-height: 13px;
-  padding: 2px 0 0 15px;
-  white-space: nowrap;
-}
 .workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
-  background-color: var(--ribbon-color);}
+  background-color: var(--ribbon-color);
+}
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
