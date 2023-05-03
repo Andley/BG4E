@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "65a97296e65f0ed9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "19a70e94e57ca660",
@@ -80,6 +91,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a4e606d30f10e57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -165,7 +184,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "06a7afa7c635cbe8",
+  "active": "65a97296e65f0ed9",
   "lastOpenFiles": [
     "62-1John/1Jo.4.7-12.md",
     "62-1John/1Jo.4.13-16c.md",
