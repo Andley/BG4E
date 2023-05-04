@@ -100,11 +100,11 @@ ul p {
   margin-bottom: 0px ;
 }
 
-strong, .cm-strong {
+ruby strong, ruby .cm-strong {
     color: var(--color-strong);
     font-weight:bolder;
   }
-em, .cm-em {
+ruby em, ruby .cm-em {
     color: var(--color-em);
     font-weight:bold;
     font-style:italic;
