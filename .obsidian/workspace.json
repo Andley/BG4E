@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -179,11 +178,12 @@
   "lastOpenFiles": [
     "62-1John/1Jo.4.13-16c.md",
     "62-1John/1Jo.4.7-12.md",
+    "62-1John/1Jo.4.7-12.pdf",
+    "62-1John/1Jo.4.16d-21.md",
     "62-1John/1Jo.3.19-24.md",
     "62-1John/1Jo.4.1-6.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "46-1Corinthians/1Co.14.1-4.md",
-    "62-1John/1Jo.4.16d-21.md",
     "57-Philemon/Phm.1.4-7.md",
     "62-1John/1Jo.3.11-18.md",
     "62-1John/1Jo.3.4-10.md",
@@ -203,7 +203,6 @@
     "62-1John/123John-Clause.md",
     "48-Galatians/Gal.3.7-14.md",
     "Syntax/§311a.md",
-    "62-1John/1Jo.1.5-10.md",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
