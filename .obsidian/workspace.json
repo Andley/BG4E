@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.4.7-12.md",
-                "mode": "preview",
+                "file": "62-1John/1Jo.5.1-5.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.4.7-12.md",
+                "file": "62-1John/1Jo.5.1-5.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.4.7-12.md"
+                "file": "62-1John/1Jo.5.1-5.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.4.7-12.md",
+                "file": "62-1John/1Jo.5.1-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.4.7-12.md",
+                "file": "62-1John/1Jo.5.1-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +177,11 @@
   },
   "active": "f74f11b3f42a82ea",
   "lastOpenFiles": [
+    "62-1John/1Jo.4.7-12.md",
+    "62-1John/1Jo.5.1-5.md",
     "62-1John/1Jo.4.16d-21.md",
     "62-1John/1Jo.4.13-16c.md",
     "57-Philemon/Phm.1.4-7.md",
-    "62-1John/1Jo.4.7-12.md",
     "62-1John/1Jo.4.7-12.pdf",
     "62-1John/1Jo.3.19-24.md",
     "62-1John/1Jo.4.1-6.md",
