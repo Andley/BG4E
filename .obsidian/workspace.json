@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/1Jo.5.6-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/1Jo.5.6-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md"
+                "file": "62-1John/1Jo.5.6-12.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/1Jo.5.6-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.5.1-5.md",
+                "file": "62-1John/1Jo.5.6-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,10 @@
   },
   "active": "f74f11b3f42a82ea",
   "lastOpenFiles": [
-    "62-1John/1Jo.4.7-12.md",
+    "62-1John/1John-Interlinear.md",
+    "62-1John/1Jo.5.6-12.md",
     "62-1John/1Jo.5.1-5.md",
+    "62-1John/1Jo.4.7-12.md",
     "62-1John/1Jo.4.16d-21.md",
     "62-1John/1Jo.4.13-16c.md",
     "57-Philemon/Phm.1.4-7.md",
@@ -203,8 +205,6 @@
     "Syntax/GGBB Apposition vs Epexgetisis.md",
     "images/Pasted image 20230403142914.png",
     "62-1John/123John-Clause.md",
-    "48-Galatians/Gal.3.7-14.md",
-    "Syntax/§311a.md",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
