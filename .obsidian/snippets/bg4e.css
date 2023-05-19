@@ -1,4 +1,27 @@
-/* Obsidian 介面 */
+/* ============= 設定字型 ================== */
+@font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+	src: local("Ezra SIL");
+  }
+  @font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+00-024F; /* English UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+    font-family: InterlinearFont;
+    unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
+    src: local("Noto Sans TC");
+  }
+
+
+  /* Obsidian 介面 */
 .theme-dark {
   --text-tag: #4f8dc2;
   --ribbon-color : rgb(101, 2, 2);
@@ -10,7 +33,7 @@
   --color-strong: greenyellow;
   --color-em:gold;
   --text-accent:yellow;
-  --font-text: "Gentium Book Plus","Ezra SIL", "Noto Sans TC";
+  --font-text: InterlinearFont;
   --control-character-color: white;
 }
 .theme-light {
@@ -26,14 +49,15 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text: "Gentium Book Plus", "Ezra SIL", "Noto Sans TC";
+  --font-text: InterlinearFont;
+
 }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag {
   color: var(--text-tag);
   font-size: 13px;
-  font-family: "Arial Narrow"
+  font-family: InterlinearFont
 }
 
 /* 標題 */
@@ -121,12 +145,6 @@ ruby em, ruby .cm-em {
 .A {text-decoration: underline dotted; text-underline-offset: 5px;}
 
 
-/* handle both LTR and RTL automatically 
-* {
-  unicode-bidi: plaintext;
-}
-*/
-
 /* BULLET POINT RELATIONSHIP LINES */
 .cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
 .cm-hmd-list-indent .cm-tab::before, ul ul::before {
@@ -139,6 +157,6 @@ ul ul::before { left: -15px; top: 0; bottom: 0;
 
 @media print {
   body {
-  --font-text:  "Gentium Book Plus","Ezra SIL", "Noto Sans TC" !important;
+  --font-text:  InterlinearFont !important;
   }
 }
