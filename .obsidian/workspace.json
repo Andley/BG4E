@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba4ddb568944564",
+        "id": "78ff9b35f3ae8c28",
         "type": "tabs",
         "children": [
           {
-            "id": "f74f11b3f42a82ea",
+            "id": "4d7274d9875fbedb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "Syntax/§610.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "be0c07ce781548eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98983c3f529dbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/§610.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,12 +91,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -94,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Relative Clause.md"
+                "file": "Syntax/§610.md"
               }
             }
           },
@@ -115,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "Syntax/§610.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "Syntax/§610.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +173,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f74f11b3f42a82ea",
+  "active": "d98983c3f529dbba",
   "lastOpenFiles": [
+    "Syntax/Relative Clause.md",
+    "Syntax/§610.md",
+    "Syntax/Syntax.md",
+    "Syntax/§620.md",
     "62-1John/123John-Style.md",
     "62-1John/1Jo.5.1-5.md",
-    "Syntax/Relative Clause.md",
     "62-1John/1Jo.5.6-12.md",
     "Syntax/§000.md",
     "62-1John/1John-Interlinear.md",
@@ -181,9 +202,6 @@
     "BG4E–III/2021-CTTS.md",
     "62-1John/1Jo.2.28-3.3.md",
     "62-1John/1Jo.2.26-27.md",
-    "62-1John/1Jo.2.18-25.md",
-    "50-Philippians/Php.4.2-7.md",
-    "Syntax/Syntax.md",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
