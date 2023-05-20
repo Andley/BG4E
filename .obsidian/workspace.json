@@ -6,7 +6,6 @@
       {
         "id": "1ba4ddb568944564",
         "type": "tabs",
-        "dimension": 48,
         "children": [
           {
             "id": "f74f11b3f42a82ea",
@@ -15,25 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Syntax/Relative Clause.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9350a6c24959ef98",
-        "type": "tabs",
-        "dimension": 52,
-        "children": [
-          {
-            "id": "8f1e769ec1524279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62-1John/1Jo.5.6-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -177,10 +157,12 @@
   },
   "active": "f74f11b3f42a82ea",
   "lastOpenFiles": [
-    "Syntax/§000.md",
-    "62-1John/1Jo.5.6-12.md",
-    "62-1John/1John-Interlinear.md",
+    "62-1John/123John-Style.md",
     "62-1John/1Jo.5.1-5.md",
+    "Syntax/Relative Clause.md",
+    "62-1John/1Jo.5.6-12.md",
+    "Syntax/§000.md",
+    "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.4.7-12.md",
     "62-1John/1Jo.4.16d-21.md",
     "62-1John/1Jo.4.13-16c.md",
@@ -202,9 +184,7 @@
     "62-1John/1Jo.2.18-25.md",
     "50-Philippians/Php.4.2-7.md",
     "Syntax/Syntax.md",
-    "Syntax/GGBB Apposition vs Epexgetisis.md",
     "images/Pasted image 20230403142914.png",
-    "62-1John/123John-Clause.md",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
     "images/Pasted image 20230317084649.png",
