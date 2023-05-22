@@ -1,0 +1,45 @@
+- The Sermon on the Mount
+	- [Mat 5:1-2](Mat.5.1-2.md)
+- The Beatitudes
+	- [Mat 5:3-12](Mat.5.3-12.md)
+- Salt and Light
+	- [Mat 5:13-16](Mat.5.13-16.md)
+- Teaching about the Law
+	- [Mat 5:17-20](Mat.5.17-20.md)
+- Teaching about Anger
+	- [Mat 5:21-26](Mat.5.21-26.md)
+- Teaching about Adultery
+	- [Mat 5:27-30](Mat.5.27-30.md)
+- Teaching about Divorce
+	- [Mat 5:33-37](Mat.5.33-37.md)
+- Teaching about Retaliation
+	- [Mat 5:38-42](Mat.5.38-42.md)
+- Love for Enemies
+	- [Mat 5:43-48](Mat.5.43-48.md)
+- Teaching about Almsgiving
+	- [Mat 6:1](Mat.6.1.md)
+	- [Mat 6:2-4](Mat.6.2-4.md)
+- Teaching about Prayer
+	- [Mat 6:5-15](Mat.6.5-15.md)
+- Teaching about Fasting
+	- [Mat 6:16-18](Mat.6.16-18.md)
+- Treasure in Heaven
+	- [Mat 6:19-21](Mat.6.19-21.md)
+- The Light of the Body
+	- [Mat 6:22-23](Mat.6.22-23.md)
+- God and Mammon
+	- [Mat 6:24](Mat.6.24.md)
+- Care and Anxiety
+	- [Mat 6:25-34](Mat.6.25-34.md)
+- Judging Others
+	- [Mat 7:1-6](Mat.7.1-6.md)
+- Ask, Seek, Knock
+	- [Mat 7:7-12](Mat.7.7-12.md)
+- The Narrow Gate
+	- [Mat 7:13-14](Mat.7.13-14.md)
+- A Tree Known by Its Fruit
+	- [Mat 7:15-20](Mat.7.15-20.md)
+- I Never Knew You
+	- [Mat 7:21-23](Mat.7.21-23.md)
+- The Two Foundations
+	- [Mat 7:24-29](Mat.7.24-29.md)
