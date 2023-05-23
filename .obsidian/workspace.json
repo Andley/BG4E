@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "78ff9b35f3ae8c28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d7274d9875fbedb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.19.5-6.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b58fa7ab9eafb8cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Sermon on the Mount.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "af71c4d68db801b0",
         "type": "tabs",
         "children": [
@@ -187,11 +156,11 @@
   },
   "active": "b62d2001947f9e3f",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.19.5-6.md",
     "40-Matthew/Sermon on the Mount.md",
+    "40-Matthew/Mat.5.1-2.md",
     "62-1John/1John-Notes.md",
     "Syntax/§610.md",
-    "40-Matthew/Mat.19.5-6.md",
     "Syntax/Relative Clause.md",
     "Syntax/Syntax.md",
     "Syntax/§620.md",

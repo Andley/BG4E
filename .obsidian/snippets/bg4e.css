@@ -66,23 +66,29 @@
   font-size:26px; /* 20pt 字體大小*/
   text-align: center;
   border-bottom: 4px double ;
+  margin-bottom: 26px;
 }
 .cm-header-2,.markdown-preview-view h2 {
   color: var(--color2);
   font-size:24px; /* 18pt 字體大小*/
   text-align: center;
+  margin-bottom: 24px;
 }
 .cm-header-3,.markdown-preview-view h3 {
   color: var(--color3);
   font-size:22px; /* 16pt 字體大小*/
+  margin-bottom: 22px;
 }
 .cm-header-4,.markdown-preview-view h4 {
   color: var(--color4);
   font-size:19px; /* 14pt 字體大小*/
+  margin-bottom: 19px;
 }
 .cm-header-5,.markdown-preview-view h5 {
   color: var(--color5);
   font-size:16px; /* 12pt 字體大小*/
+  margin-bottom: 16px;
+
 }
 
 /*   Table  */
@@ -158,5 +164,7 @@ ul ul::before { left: -15px; top: 0; bottom: 0;
 @media print {
   body {
   --font-text:  InterlinearFont !important;
+  
   }
+
 }
