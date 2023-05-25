@@ -12,7 +12,7 @@
   @font-face {
 	font-family: InterlinearFont;
 	unicode-range: U+00-024F; /* English UNICODE */
-	src: local("Gentium Book Plus");
+	src: local("Arial Narrow");
   }
   @font-face {
     font-family: InterlinearFont;
@@ -110,12 +110,11 @@ table {
 
 /*   Ruby Interlinear  */
 ruby {
-  display: inline-flex;
+  display:inline;
   flex-direction: column-reverse ;
   align-items: center;
   font-size: 16px ; /* 12pt 字體大小*/
-  line-height: 16px ;
-  padding-bottom: 16px ;
+  line-height: 32px ;
 }
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
