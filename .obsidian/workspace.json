@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d6f23bfc169e5042",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f588440147c9c2c4",
@@ -173,7 +184,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b62d2001947f9e3f",
+  "active": "d6f23bfc169e5042",
   "lastOpenFiles": [
     "40-Matthew/Sermon on the Mount.md",
     "40-Matthew/Mat.19.5-6.md",
