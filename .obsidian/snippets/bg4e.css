@@ -112,7 +112,6 @@ table {
 ruby {
   display:inline;
   flex-direction: column-reverse ;
-  align-items: center;
   font-size: 16px ; /* 12pt 字體大小*/
   line-height: 32px ;
 }
