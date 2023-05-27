@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "31b3284b3c2b47a5",
-        "type": "tabs",
-        "dimension": 47.358247422680414,
-        "children": [
-          {
-            "id": "cdff6e9deeab79ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "44-Acts/Act1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5d0849f6f1d3e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "44-Acts/Act.2.1-21.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "095584b81897142a",
         "type": "tabs",
-        "dimension": 52.641752577319586,
         "children": [
           {
             "id": "71f4ed64f2937610",
@@ -110,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -188,7 +154,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5d0849f6f1d3e1b",
+  "active": "71f4ed64f2937610",
   "lastOpenFiles": [
     "44-Acts/Act1.md",
     "44-Acts/Act.2.1-21.md",
