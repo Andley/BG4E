@@ -131,11 +131,11 @@ ul p {
   margin-bottom: 0px ;
 }
 
-ruby strong, ruby .cm-strong {
+ strong,  .cm-strong {
     color: var(--color-strong);
     font-weight:bolder;
   }
-ruby em, ruby .cm-em {
+ em,  .cm-em {
     color: var(--color-em);
     font-weight:bold;
     font-style:italic;
