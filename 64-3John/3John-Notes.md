@@ -6,7 +6,6 @@
 Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/74/10001/19999/ch/7a538c64cb48d15fa62a4fea869f10ce/)。
 
 - [約翰三書 Interlinear (英文)](3John-Interlinear.md)
-- [約翰三書 Interlinear (中文)](3John-Interlinear-TC.md)
 
 
 ### 原文特色

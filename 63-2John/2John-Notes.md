@@ -7,7 +7,6 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 - [約翰二書 Interlinear (英文)](2John-Interlinear.md)
-- [約翰二書 Interlinear (中文)](2John-Interlinear-TC.md)
 
 
 ### 原文特色

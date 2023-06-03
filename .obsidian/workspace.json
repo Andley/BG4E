@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "63-2John/2Jo.1.12–13.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "63-2John/2Jo.1.12–13.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md"
+                "file": "63-2John/2Jo.1.12–13.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "63-2John/2Jo.1.12–13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "63-2John/2Jo.1.12–13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +174,15 @@
   },
   "active": "aba6ffc5bfa16b8a",
   "lastOpenFiles": [
+    "64-3John/3Jo.1.1–4.md",
+    "63-2John/2Jo.1.12–13.md",
     "63-2John/2Jo.1.4–11.md",
     "63-2John/2Jo.1.1–3.md",
-    "63-2John/2Jo.1.12–13.md",
+    "64-3John/3John-Notes.md",
+    "62-1John/1John-Notes.md",
+    "63-2John/2John-Notes.md",
+    "63-2John/2John-Interlinear.md",
+    "63-2John/2John-Interlinear-TC.md",
     "48-Galatians/Galatians-Style.md",
     "62-1John/1Jo.2.1-6.md",
     "46-1Corinthians/1Co.12.3-14.md",
@@ -187,7 +193,6 @@
     "40-Matthew/Sermon on the Mount.md",
     "40-Matthew/Mat.19.5-6.md",
     "40-Matthew/Mat.5.1-2.md",
-    "62-1John/1John-Notes.md",
     "Syntax/§610.md",
     "Syntax/Relative Clause.md",
     "Syntax/Syntax.md",
@@ -195,11 +200,6 @@
     "62-1John/123John-Style.md",
     "62-1John/1Jo.5.1-5.md",
     "62-1John/1Jo.5.6-12.md",
-    "Syntax/§000.md",
-    "62-1John/1John-Interlinear.md",
-    "62-1John/1Jo.4.7-12.md",
-    "62-1John/1Jo.4.16d-21.md",
-    "62-1John/1Jo.4.13-16c.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
