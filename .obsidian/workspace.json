@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "48-Galatians/Galatians-Style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ihrc",
+                "query": "resumptive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md"
+                "file": "48-Galatians/Galatians-Style.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "48-Galatians/Galatians-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "63-2John/2Jo.1.1–3.md",
+                "file": "48-Galatians/Galatians-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +175,7 @@
   },
   "active": "c9152695dbc6e67b",
   "lastOpenFiles": [
+    "62-1John/1Jo.2.1-6.md",
     "63-2John/2Jo.1.4–11.md",
     "63-2John/2Jo.1.1–3.md",
     "63-2John/2Jo.1.12–13.md",
@@ -200,7 +202,6 @@
     "62-1John/1Jo.4.13-16c.md",
     "57-Philemon/Phm.1.4-7.md",
     "62-1John/1Jo.4.7-12.pdf",
-    "62-1John/1Jo.3.19-24.md",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
     "images/Pasted image 20230317084752.png",
