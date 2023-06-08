@@ -35,6 +35,9 @@
   --text-accent:yellow;
   --font-text: InterlinearFont;
   --control-character-color: white;
+  --nav-item-parent-padding: 0.1em;
+  --nav-item-padding:0.1em;
+
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
@@ -51,6 +54,10 @@
   --link-external-color:rgb(128, 136, 240);
   --font-text: InterlinearFont;
 
+}
+
+.view-header-title-container, .workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
+  background-color: var(--ribbon-color);
 }
 
 /* HTML tags in preview and editor */
@@ -141,9 +148,7 @@ ul p {
     font-style:italic;
   }
 
-.workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
-  background-color: var(--ribbon-color);
-}
+
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
