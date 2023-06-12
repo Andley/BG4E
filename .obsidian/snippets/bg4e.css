@@ -73,28 +73,32 @@
   text-align: center;
   border-bottom: 4px double ;
   margin-bottom: 26px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-2,.markdown-preview-view h2 {
   color: var(--color2);
   font-size:24px; /* 18pt 字體大小*/
   text-align: center;
   margin-bottom: 24px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-3,.markdown-preview-view h3 {
   color: var(--color3);
   font-size:22px; /* 16pt 字體大小*/
   margin-bottom: 22px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-4,.markdown-preview-view h4 {
   color: var(--color4);
   font-size:19px; /* 14pt 字體大小*/
   margin-bottom: 19px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-5,.markdown-preview-view h5 {
   color: var(--color5);
   font-size:16px; /* 12pt 字體大小*/
   margin-bottom: 16px;
-
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 
 /*   Table  */
@@ -115,18 +119,27 @@ table {
 
 
 /*   Ruby Interlinear  */
-ruby {
+li ruby {
   display:inline;
   flex-direction: column-reverse ;
   font-size: 16px ; /* 12pt 字體大小*/
-  line-height: 4 ;
+  line-height: 3 ;
   padding: 1px;
+}
+
+p ruby {
+  display:inline;
+  flex-direction: column-reverse ;
+  font-size: 16px ; /* 12pt 字體大小*/
+  padding: 1px;
+  line-height: 6 ;
 }
 
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
   line-height: 13px;
   text-align: center;
+  padding: 1px;
 }
 
 ul ruby {

@@ -1,6 +1,6 @@
 {
-  "findText": "<rt>([A-Za-z 0-9]*?)</rt> ",
-  "replaceText": "$1",
+  "findText": "<rt>(Mat \\d+:\\d+)</rt> ",
+  "replaceText": "$1 ",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
