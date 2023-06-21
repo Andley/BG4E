@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW3.md"
+                "file": "BBG4E/HW1.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW3.md",
+                "file": "BBG4E/HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW3.md",
+                "file": "BBG4E/HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,7 @@
   },
   "active": "cc363a1ff0cae5e8",
   "lastOpenFiles": [
+    "BBG4E/HW3.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2.md",
     "64-3John/3Jo.1.13–15.md",
@@ -182,7 +183,6 @@
     "48-Galatians/Galatians-Style.md",
     "62-1John/1Jo.2.1-6.md",
     "46-1Corinthians/1Co.12.3-14.md",
-    "46-1Corinthians/1Co.14.1-4.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
