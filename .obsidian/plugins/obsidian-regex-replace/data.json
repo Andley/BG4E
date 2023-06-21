@@ -1,6 +1,6 @@
 {
-  "findText": "<rt>(Mat \\d+:\\d+)</rt> ",
-  "replaceText": "$1 ",
+  "findText": "<rt>(Luk \\d+:\\d+)</rt>",
+  "replaceText": "$1",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
