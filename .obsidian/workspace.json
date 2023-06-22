@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW7.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW7.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -88,6 +88,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "736a966b36ab7fac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW7.md"
+                "file": "BBG4E/HW12.md"
               }
             }
           },
@@ -121,6 +129,35 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39cd6aac92d22136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BBG4E/HW12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "392a1098713250e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BBG4E/HW12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -143,8 +180,9 @@
   },
   "active": "1a81d9f000627cca",
   "lastOpenFiles": [
-    "BBG4E/HW6.md",
+    "BBG4E/HW11.md",
     "BBG4E/HW7.md",
+    "BBG4E/HW6.md",
     "BBG4E/HW8.md",
     "BBG4E/HW9.md",
     "BBG4E/HW10.md",
@@ -165,7 +203,6 @@
     "BBG4E/HW1-Key.md",
     "BBG4E/HW3.md",
     "BBG4E/HW1.md",
-    "BBG4E/HW11.md",
     "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HWy.md",
     "BBG4E/HWx.md",
