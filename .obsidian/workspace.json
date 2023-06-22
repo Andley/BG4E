@@ -6,7 +6,6 @@
       {
         "id": "1005844132e798f5",
         "type": "tabs",
-        "dimension": 40.99547511312217,
         "children": [
           {
             "id": "1a81d9f000627cca",
@@ -14,34 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "46-1Corinthians/1Co.11.23-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "98d95b26b4414933"
-          }
-        ]
-      },
-      {
-        "id": "f0bc3f93d8470d2d",
-        "type": "tabs",
-        "dimension": 59.00452488687783,
-        "children": [
+            }
+          },
           {
-            "id": "e4c58faa39706a81",
+            "id": "41b3f794595f0611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
-                "mode": "preview",
-                "backlinks": false,
+                "file": "46-1Corinthians/1Co.11.23-28.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "98d95b26b4414933"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3135fa663d498e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d94ab6b455d7518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "46-1Corinthians/1Co.11.23-28.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -101,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -117,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW12.md"
+                "file": "46-1Corinthians/1Co.11.23-28.md"
               }
             }
           },
@@ -138,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "46-1Corinthians/1Co.11.23-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "46-1Corinthians/1Co.11.23-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +187,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a81d9f000627cca",
+  "active": "41b3f794595f0611",
   "lastOpenFiles": [
+    "64-3John/3John-Interlinear.md",
+    "46-1Corinthians/1Co.11.23-28.md",
+    "46-1Corinthians/1Co.12.3-14.md",
+    "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
@@ -202,10 +215,6 @@
     "BBG4E/HW2-Key.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW1.md",
-    "BBG4E/HW11-PreachingNote.md",
-    "BBG4E/HWy.md",
-    "BBG4E/HWx.md",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
