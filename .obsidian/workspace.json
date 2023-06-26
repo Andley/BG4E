@@ -11,11 +11,14 @@
             "id": "36ba646d3afcd2fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "46-1Corinthians/1Co.11.17-28.md",
-                "mode": "source",
-                "source": true
+                "file": "BBG4E/BG4E 規劃.canvas",
+                "viewState": {
+                  "x": -510,
+                  "y": -320,
+                  "zoom": -0.5604138668000681
+                }
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "46-1Corinthians/1Co.11.17-28.md"
+                "file": "BBG4E/BG4E 規劃.canvas"
               }
             }
           },
@@ -132,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "46-1Corinthians/1Co.11.17-28.md",
+                "file": "BBG4E/BG4E 規劃.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "46-1Corinthians/1Co.11.17-28.md",
+                "file": "BBG4E/BG4E 規劃.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75b75d906b38f1fb",
+  "active": "36ba646d3afcd2fa",
   "lastOpenFiles": [
-    "64-3John/3John-Interlinear.md",
     "46-1Corinthians/1Co.11.17-28.md",
+    "64-3John/3John-Interlinear.md",
     "46-1Corinthians/1Co.12.3-14.md",
     "BBG4E/HW12.md",
     "BBG4E/HW11.md",
