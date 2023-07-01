@@ -11,6 +11,7 @@
 - [全民希臘文進階句法](Syntax/Syntax.md)
 
 ### 新約書卷 (Greek New Testament)
+- [登山寶訓](40-Matthew/Sermon-on-the-Mount-Interlinear.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
 - [彼得前書](60-1Peter/1Peter-Notes.md)
