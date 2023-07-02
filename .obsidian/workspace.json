@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "62-1John/1John-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md"
+                "file": "62-1John/1John-Interlinear.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "62-1John/1John-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "62-1John/1John-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +184,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2bff8f0f4d072bcf",
+  "active": "7d70f35487a5bf98",
   "lastOpenFiles": [
-    "62-1John/1John-Interlinear.md",
+    "62-1John/1Jo.1.1-4.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+    "62-1John/1John-Interlinear.md",
     "40-Matthew/Mat.5.1-2.md",
     "README.md",
     "BBG4E/HW1.md",
@@ -213,7 +213,6 @@
     "BBG4E/HW11-Key.md",
     "BBG4E/HW8-Key.md",
     "BBG4E/HW2.md",
-    "BBG4E/HW6-Key.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
