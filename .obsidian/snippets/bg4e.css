@@ -1,26 +1,4 @@
-/* ============= 設定字型 ================== */
-@font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Book Plus");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("Ezra SIL");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+00-024F; /* English UNICODE */
-	src: local("Arial Narrow");
-  }
-  @font-face {
-    font-family: InterlinearFont;
-    unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
-    src: local("Noto Sans TC");
-  }
-
-  /* Obsidian 介面 */
+/* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
   --ribbon-color : rgb(101, 2, 2);
@@ -32,9 +10,9 @@
   --color-strong: greenyellow;
   --color-em:gold;
   --text-accent:yellow;
-  --font-text: InterlinearFont;
   --control-character-color: white;
-}
+  }
+
 .theme-light {
   --text-tag: rgb(128, 136, 240);
   --ribbon-color :rgb(223, 219, 219);
@@ -48,18 +26,68 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text: InterlinearFont;
 }
 
 .workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
   background-color: var(--ribbon-color);
-}
+    }
+
+.nav-file-title, .nav-folder-title {
+  font-size: 13px;
+  line-height: 13px;
+  padding: 2px 0 0 15px;
+  white-space: nowrap;
+  }
+
+
+/* BULLET POINT RELATIONSHIP LINES */
+.cm-hmd-list-indent .cm-tab, ul ul { 
+  position: relative; 
+  }
+
+.cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px dotted grey ;
+ position: absolute;
+  }
+
+ul ul::before { 
+  left: -15px; top: 0; bottom: 0; 
+  } 
+
+/* ============= 設定字型 ================== */
+  @font-face {
+	font-family: AndleyFont;
+	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+	font-family: AndleyFont;
+	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+	font-family: AndleyFont;
+	unicode-range: U+00-024F; /* English UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+    font-family: AndleyFont;
+    unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
+    src: local("Noto Sans TC");
+  }
+
+  @font-face {
+    font-family: InterlinearFont;
+    unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+    src: local("Gentium Book Plus");
+    }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag {
   color: var(--text-tag);
   font-size: 13px;
-  font-family: InterlinearFont
+  font-family: "Arial Narrow";
 }
 
 /* 標題 */
@@ -114,53 +142,54 @@ table {
 }
 
 /*   Ruby Interlinear  */
-li ruby {
+ruby {
   display:inline;
-  flex-direction: column-reverse ;
   font-size: 16px ; /* 12pt 字體大小*/
-  line-height: 3 ;
-  padding: 1px;
-}
-
-p ruby {
-  display:inline;
-  flex-direction: column-reverse ;
-  font-size: 16px ; /* 12pt 字體大小*/
-  padding: 1px;
-  line-height: 6 ;
-}
-
-rt {
-  font-size: 13px ; /* 10pt 字體大小*/
-  line-height: 13px;
+  font-family: AndleyFont;
   text-align: center;
   padding: 1px;
 }
 
-ul ruby {
-  padding-bottom: 3px ;
+rt {
+  font-size: 13px ; /* 10pt 字體大小*/
+  font-family: AndleyFont;
+  text-align: center;
+  padding: 1px;
 }
 
-ul p {
-  margin-bottom: 0px ;
+li ruby {
+  line-height: 3.5 ;
 }
 
- strong,  .cm-strong {
+li rt {
+  font-family:"Arial Narrow";
+}
+p ruby {
+  display:inline;
+  font-size: 16px ; /* 12pt 字體大小*/
+  line-height: 6 ;
+  padding: 1px;
+  font-family: AndleyFont;
+}
+
+p rt {
+  font-size: 13px ; /* 10pt 字體大小*/
+  text-align: center;
+  padding: 1px;
+  font-family:"Arial Narrow";
+}
+
+strong,  .cm-strong {
     color: var(--color-strong);
     font-weight:bolder;
   }
- em,  .cm-em {
+
+em,  .cm-em {
     color: var(--color-em);
     font-weight:bold;
     font-style:italic;
   }
 
-  .nav-file-title, .nav-folder-title {
-    font-size: 13px;
-    line-height: 13px;
-    padding: 2px 0 0 15px;
-    white-space: nowrap;
-  }
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
@@ -169,20 +198,9 @@ ul p {
 .A {text-decoration: underline dotted; text-underline-offset: 5px;}
 
 
-/* BULLET POINT RELATIONSHIP LINES */
-.cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
-.cm-hmd-list-indent .cm-tab::before, ul ul::before {
- content:'';
- border-left: 1px dotted grey ;
- position: absolute;
-}
-ul ul::before { left: -15px; top: 0; bottom: 0; 
-} 
 
 @media print {
   body {
-  --font-text:  InterlinearFont !important;
-  
-  }
-
+    --font-text:  InterlinearFont !important;
+    }
 }
