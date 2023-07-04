@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
-                "mode": "preview",
+                "file": "40-Matthew/Mat.5.1-12.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md"
+                "file": "40-Matthew/Mat.5.1-12.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
   "active": "7d70f35487a5bf98",
   "lastOpenFiles": [
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
-    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.5.1-12.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.1-4.md",
     "README.md",
