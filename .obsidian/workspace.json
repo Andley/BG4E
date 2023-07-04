@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "21441492e291659b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d988155de98ba6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -93,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md"
+                "file": "40-Matthew/Mat.5.1-2.md"
               }
             }
           },
@@ -114,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +175,8 @@
   },
   "active": "7d70f35487a5bf98",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+    "40-Matthew/Mat.5.1-2.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.1-4.md",
     "README.md",
