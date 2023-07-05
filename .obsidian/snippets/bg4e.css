@@ -76,12 +76,28 @@ ul ul::before {
     unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
     src: local("Noto Sans TC");
   }
-
+  /* ---- */
   @font-face {
     font-family: InterlinearFont;
     unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
     src: local("Gentium Book Plus");
     }
+    @font-face {
+    font-family: InterlinearFont;
+    unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+    src: local("SBL Hebrew");
+    }
+    @font-face {
+    font-family: InterlinearFont;
+    unicode-range: U+00-024F; /* English UNICODE */
+    src: local("Arial Narrow");
+    }
+    @font-face {
+      font-family: InterlinearFont;
+      unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
+      src: local("Noto Sans TC");
+    }
+
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag {
@@ -140,14 +156,14 @@ table {
 ruby {
   display:inline;
   font-size: 16px ; /* 12pt 字體大小*/
-  font-family: AndleyFont;
+  font-family: InterlinearFont;
   text-align: center;
   padding: 1px;
 }
 
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
-  font-family: "Arial Narrow";
+  font-family:InterlinearFont;
   text-align: center;
   padding: 1px;
 }
@@ -156,9 +172,6 @@ li ruby {
   line-height: 3.5 ;
 }
 
-li rt {
-  font-family:"Arial Narrow";
-}
 
 p ruby {
   display:inline;
@@ -195,6 +208,10 @@ em,  .cm-em {
 
 @media print {
   body {
-    --font-text:  InterlinearFont !important;
+    --font-text:  AndleyFont !important;
     }
+
+  ruby {
+    --font-text:  InterlinearFont !important;
+  }
 }
