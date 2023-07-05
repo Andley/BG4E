@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "873d48e490efa063",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d70f35487a5bf98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.1-12.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "21441492e291659b",
         "type": "tabs",
         "children": [
@@ -173,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7d70f35487a5bf98",
+  "active": "2d988155de98ba6f",
   "lastOpenFiles": [
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
     "40-Matthew/Mat.5.1-12.md",
