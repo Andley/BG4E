@@ -21,7 +21,7 @@
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "rightToLeft": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "lineWrap": true,
   "spellcheckLanguages": [
     "en-US"

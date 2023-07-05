@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f04547fe32267e54",
+        "id": "af24ae7ee0013b46",
         "type": "tabs",
         "children": [
           {
-            "id": "733f3247e36a7b09",
+            "id": "bbdfd5bc74270599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "838a991037af5f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232131c31854f0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW2-Key.md"
+                "file": "40-Matthew/Mat.5.1-12.md"
               }
             }
           },
@@ -115,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +173,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "733f3247e36a7b09",
+  "active": "232131c31854f0b6",
   "lastOpenFiles": [
-    "BBG4E/HW2.md",
     "BBG4E/HW2-Key.md",
+    "BBG4E/HW2.md",
     "BBG4E/HW1-Key.md",
     "Untitled.md",
     "40-Matthew/Mat.5.1-12.md",

@@ -11,6 +11,7 @@
   --color-em:gold;
   --text-accent:yellow;
   --control-character-color: white;
+  --font-text: AndleyFont;
   }
 
 .theme-light {
@@ -26,6 +27,7 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
+  --font-text: AndleyFont;
 }
 
 .workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
@@ -177,18 +179,8 @@ li ruby {
   line-height: 3.5 ;
 }
 
-
 p ruby {
-  display:inline;
-  font-size: 16px ; /* 12pt 字體大小*/
   line-height: 6 ;
-  padding: 1px;
-}
-
-p rt {
-  font-size: 13px ; /* 10pt 字體大小*/
-  text-align: center;
-  padding: 1px;
 }
 
 strong,  .cm-strong {
@@ -202,7 +194,6 @@ em,  .cm-em {
     font-style:italic;
   }
 
-
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}
 .P {text-decoration: underline wavy; text-underline-offset: 5px;}
@@ -210,13 +201,16 @@ em,  .cm-em {
 .A {text-decoration: underline dotted; text-underline-offset: 5px;}
 
 
+body, .markdown-preview-view {
+  font-family:  AndleyFont;
+  }
 
 @media print {
   body {
-    --font-text:  AndleyFont !important;
+    --font-text:  InterlinearFont !important;
     }
 
-  ruby {
+  ruby, rt {
     --font-text:  InterlinearFont !important;
   }
 }
