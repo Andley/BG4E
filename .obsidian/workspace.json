@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "40-Matthew/Mat.5.1-12.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -173,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "232131c31854f0b6",
+  "active": "bbdfd5bc74270599",
   "lastOpenFiles": [
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2.md",
