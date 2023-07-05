@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21441492e291659b",
+        "id": "f04547fe32267e54",
         "type": "tabs",
         "children": [
           {
-            "id": "2d988155de98ba6f",
+            "id": "733f3247e36a7b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "BBG4E/HW2-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "BBG4E/HW2-Key.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "BBG4E/HW2-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "BBG4E/HW2-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +155,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2d988155de98ba6f",
+  "active": "733f3247e36a7b09",
   "lastOpenFiles": [
+    "BBG4E/HW2.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW1-Key.md",
+    "Untitled.md",
     "40-Matthew/Mat.5.1-12.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.1-4.md",
     "README.md",
     "BBG4E/HW1.md",
-    "BBG4E/HW1-Key.md",
     "BBG4E/BG4E 規劃.canvas",
     "46-1Corinthians/1Co.11.17-28.md",
     "64-3John/3John-Interlinear.md",
@@ -180,9 +184,6 @@
     "64-3John/3Jo.1.5–12.md",
     "BBG4E/HWy-Key.md",
     "BBG4E/HWx-Key.md",
-    "BBG4E/HW11-Key.md",
-    "BBG4E/HW8-Key.md",
-    "BBG4E/HW2.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
