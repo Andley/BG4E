@@ -209,8 +209,4 @@ body, .markdown-preview-view {
   body {
     --font-text:  InterlinearFont !important;
     }
-
-  ruby, rt {
-    --font-text:  InterlinearFont !important;
-  }
 }
