@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW4.md"
+                "file": "BBG4E/HW4-Key.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "09c0e66086555603",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
-    "BBG4E/HW4-Key.md",
     "BBG4E/HW4.md",
+    "BBG4E/HW4-Key.md",
     "BBG4E/HW3-Key.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "BBG4E/HW3.md",
