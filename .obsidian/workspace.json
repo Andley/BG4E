@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9005c35444c4947e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f926adb92f71d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW4-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -94,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW4.md"
+                "file": "BBG4E/HW4-Key.md"
               }
             }
           },
@@ -115,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/HW4-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +174,11 @@
   },
   "active": "232131c31854f0b6",
   "lastOpenFiles": [
-    "BBG4E/HW3.md",
     "BBG4E/HW4.md",
+    "BBG4E/HW4-Key.md",
     "BBG4E/HW3-Key.md",
+    "46-1Corinthians/1Co.15.1-11.md",
+    "BBG4E/HW3.md",
     "64-3John/3John-Interlinear.md",
     "64-3John/3Jo.1.5–12.md",
     "cheatsheet.md",
@@ -182,8 +201,6 @@
     "BBG4E/HW11.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
-    "BBG4E/HW8.md",
-    "BBG4E/HW9.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",

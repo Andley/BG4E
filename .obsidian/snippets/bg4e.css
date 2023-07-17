@@ -142,7 +142,6 @@ em,  .cm-em {
 .C {text-decoration: underline solid; text-underline-offset: 5px;}
 .A {text-decoration: underline dotted; text-underline-offset: 5px;}
 
-
-body, .markdown-preview-view {
+li, p {
   font-family:  'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
   }
