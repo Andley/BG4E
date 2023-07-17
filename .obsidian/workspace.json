@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9005c35444c4947e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9f926adb92f71d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW4-Key.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ce8e6b160ded94bc",
         "type": "tabs",
         "children": [
@@ -173,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e9f926adb92f71d2",
+  "active": "684fd40358fa2fb2",
   "lastOpenFiles": [
     "BBG4E/HW4.md",
     "BBG4E/HW4-Key.md",

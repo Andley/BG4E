@@ -109,14 +109,16 @@ table {
 
 /*   Ruby Interlinear  */
 ruby {
+  display:inline-flex;
+  flex-direction: column;
   font-family: 'Gentium Book Plus';
+  text-align: center;
   font-size: 16px ;
   line-height: 5em;
-  padding: 0px 2px;
 }
 
 ul ruby {
-  line-height:2em;
+  line-height:16px;
 }
 
 rt {
@@ -145,3 +147,9 @@ em,  .cm-em {
 li, p {
   font-family:  'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
   }
+
+
+  @page {
+    size: A4 portrait;
+    margin: 1cm 0cm;
+    }
