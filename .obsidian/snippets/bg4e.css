@@ -1,7 +1,8 @@
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
-  --ribbon-color : rgb(101, 2, 2);
+  --ribbon-background : rgb(101, 2, 2);
+  --titlebar-background: rgb(101, 2, 2);
   --text-muted: #E6E6E6;
   --color1:#ea4335;
   --color2:#4285f4;
@@ -32,7 +33,6 @@
   padding: 0 0 0 15px;
   font-family: 'Noto Sans', 'Noto Sans TC';
   }
-
 
 /* BULLET POINT RELATIONSHIP LINES */
 .cm-hmd-list-indent .cm-tab, ul ul { 

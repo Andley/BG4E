@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "838a991037af5f85",
+        "id": "9005c35444c4947e",
         "type": "tabs",
         "children": [
           {
-            "id": "232131c31854f0b6",
+            "id": "e9f926adb92f71d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "9005c35444c4947e",
+        "id": "ce8e6b160ded94bc",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f926adb92f71d2",
+            "id": "684fd40358fa2fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -172,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "232131c31854f0b6",
+  "active": "e9f926adb92f71d2",
   "lastOpenFiles": [
     "BBG4E/HW4.md",
     "BBG4E/HW4-Key.md",
