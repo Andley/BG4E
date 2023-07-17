@@ -36,11 +36,11 @@ Joh 3:14 <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>C
 - **οὖν** (498)
 	- therefore; accordingly; then
 	- 因此、所以
-
-- **κατά (κατ᾿, καθ᾿)** (473)
+- θ
+- **κατά (κατ᾿ , καθ ᾿ )** (473)
 	- gen: down from, against ‖ acc: according to, throughout, during
 	- 後接直接受格時意思是「朝著、依據、藉著、遍及」
 
-- **μετά (μετ᾿, μεθ᾿)** (469)
+- **μετά (μετ᾿ , μεθ ᾿ )** (469)
 	- gen: with ‖ acc: after
 	- 後接所有格時意思是「與....一起」、藉著、帶著
