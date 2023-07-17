@@ -44,3 +44,4 @@ Joh 3:14 <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>C
 - **μετά (μετ᾿ , μεθ ᾿ )** (469)
 	- gen: with ‖ acc: after
 	- 後接所有格時意思是「與....一起」、藉著、帶著
+	- 
