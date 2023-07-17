@@ -176,12 +176,11 @@ windows default = 96 DPI
 Points|Pixels
 ---|---
 9pt|12px
-<strong><font color='red'>10pt</font></strong>|<mark>13px</mark>
-10.5pt|14px
+10pt|13px
 11pt|15px
-<strong><font color='red'>12pt</font></strong>|<mark>16px</mark>
+12pt|16px
 13pt|17px
-<strong><font color='red'>14pt</font></strong>|
+14pt|19px
 16pt|22px
 18pt|24px
 20pt|26px
