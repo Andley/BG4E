@@ -109,22 +109,19 @@ table {
 
 /*   Ruby Interlinear  */
 ruby {
-  display:inline-flex;
-  flex-direction: column;
-  font-family: 'Gentium Book Plus';
-  text-align: center;
   font-size: 16px ;
   line-height: 5em;
 }
 
 ul ruby {
-  line-height:16px;
+  line-height:3em;
 }
 
 rt {
-  font-family:'Arial Narrow';
-  font-size: 13px ; /* 10pt 字體大小*/
+  font-family: 'Arial Narrow';
+  font-size: 13px ; 
   text-align: center;
+  padding: 0 3px;
 }
 
 strong,  .cm-strong {
@@ -149,7 +146,7 @@ li, p {
   }
 
 
-  @page {
+@page {
     size: A4 portrait;
     margin: 1cm 0cm;
     }

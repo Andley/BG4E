@@ -23,12 +23,12 @@
     color:black;
   }
 
-  ruby strong {
+  strong {
     color: red;
     font-weight:700;
   }
 
-  ruby em {
+  em {
     color: blue;
     font-weight:700;
   }
@@ -41,6 +41,9 @@
     line-height: 3.5em;
   }
   
+  rt {
+    padding: 0 2px;
+  }
   /* page layout */
   header {
     padding: 20px 20px 5px 20px;
