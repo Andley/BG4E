@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/§410.md",
+                "file": "Syntax/§311a.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "24c6b61e858de17f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89591b7f4cd9974f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/§311a.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,13 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -95,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/§410.md"
+                "file": "Syntax/§311a.md"
               }
             }
           },
@@ -116,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/§410.md",
+                "file": "Syntax/§311a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/§410.md",
+                "file": "Syntax/§311a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +174,11 @@
   },
   "active": "d460d216e5f83442",
   "lastOpenFiles": [
+    "Idioms.md",
+    "Syntax/§311a.md",
     "Syntax/Syntax.md",
     "Syntax/§420.md",
+    "Syntax/§410.md",
     "BBG4E/HW4.md",
     "BBG4E/HW4-Key.md",
     "BBG4E/HW3-Key.md",
@@ -182,9 +201,6 @@
     "README.md",
     "BBG4E/BG4E 規劃.canvas",
     "46-1Corinthians/1Co.11.17-28.md",
-    "46-1Corinthians/1Co.12.3-14.md",
-    "BBG4E/HW12.md",
-    "BBG4E/HW11.md",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
     "40-Matthew",
