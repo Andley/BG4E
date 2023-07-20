@@ -6,12 +6,13 @@
 - [慣用語](Idioms.md)
 - [背誦金句](Memorize.md)
 - [圖析符號說明](Phrasing-Signs.md)
+- [同義字 Synonyms](synonyms.md)
 
 ### 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)
 
 ### 新約書卷 (Greek New Testament)
-- [登山寶訓](40-Matthew/Sermon-on-the-Mount-Interlinear.md)
+- [登山寶訓 (馬太福音 5-7 章節](40-Matthew/Sermon-on-the-Mount-Interlinear.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
 - [彼得前書](60-1Peter/1Peter-Notes.md)
