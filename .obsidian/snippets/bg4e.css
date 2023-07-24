@@ -27,6 +27,7 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
+  --font-text:'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
 }
 
 .nav-file-title, .nav-folder-title {
@@ -135,11 +136,19 @@ em,  .cm-em {
     font-style:italic;
   }
 
-/* text decoration for marking syntax functions */
-.S {text-decoration: underline double; text-underline-offset: 5px;}
-.P {text-decoration: underline wavy; text-underline-offset: 5px;}
-.C {text-decoration: underline solid; text-underline-offset: 5px;}
-.A {text-decoration: underline dotted; text-underline-offset: 5px;}
+  /* text decoration for marking syntax functions */
+  mark {
+    font-weight:bold;
+    &.S {background: none; text-decoration: underline double; text-underline-offset: 5px;}
+    &.P {background: none; text-decoration: underline wavy; text-underline-offset: 5px;}
+    &.C {background: none; text-decoration: underline solid; text-underline-offset: 5px;}
+    &.A {background: none; text-decoration: underline dotted; text-underline-offset: 5px;}
+    &.green {background-color: lightgreen; }
+    &.red {background-color: lightcoral; }
+    &.blue {background-color: skyblue; }
+    &.purple {background-color: purple; }
+  }
+  
 
 @media print {
     body {
