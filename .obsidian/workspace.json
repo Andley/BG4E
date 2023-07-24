@@ -30,9 +30,39 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cc3c8aa5c5e4f3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "5033a0a66a62d9c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc43ae4872925b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Untitled.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md"
+                "file": "40-Matthew/Untitled.md"
               }
             }
           },
@@ -127,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "40-Matthew/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+                "file": "40-Matthew/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +197,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3efdb70aaada17d",
+  "active": "dbc43ae4872925b8",
   "lastOpenFiles": [
+    "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+    "40-Matthew/Untitled.md",
     "synonyms.md",
     "Syntax/§311a.md",
     "README.md",
@@ -193,8 +225,6 @@
     "BBG4E/HW2.md",
     "BBG4E/HW1-Key.md",
     "Untitled.md",
-    "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
-    "62-1John/1John-Interlinear.md",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
