@@ -35,31 +35,22 @@
         "currentTab": 1
       },
       {
-        "id": "5033a0a66a62d9c6",
+        "id": "c98645de910cbbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc43ae4872925b8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c3b7555a1043af53",
+            "id": "758b1ee6123c21c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +185,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3efdb70aaada17d",
+  "active": "758b1ee6123c21c7",
   "lastOpenFiles": [
     "Untitled 1.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
