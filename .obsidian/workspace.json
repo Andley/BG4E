@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW5-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW5-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW5-Key.md"
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW5-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW5-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +199,11 @@
   },
   "active": "04226cc5f92a2c70",
   "lastOpenFiles": [
-    "BBG4E/HW5.md",
     "BBG4E/HW5-Key.md",
+    "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
+    "BBG4E/HW5.md",
     "BBG4E/HW4.md",
     "BBG4E/HW4-Key.md",
-    "40-Matthew/Sermon-on-the-Mount-Interlinear.md",
     "Untitled 1.md",
     "40-Matthew/Untitled.md",
     "synonyms.md",
