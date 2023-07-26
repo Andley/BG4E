@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (BIBa).md",
-                "mode": "source",
+                "file": "40-Matthew/Mat.5.1-12.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (BIBa).md"
+                "file": "40-Matthew/Mat.5.1-12.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+                "file": "40-Matthew/Mat.5.1-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +212,10 @@
   },
   "active": "34f1eff7709ba5e4",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
-    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+    "40-Matthew/Mat.13.24-43.md",
     "40-Matthew/Mat.5.1-12.md",
+    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
     "BBG4E/HW5-Key.md",
     "BBG4E/HW5.md",
     "BBG4E/HW4.md",
@@ -223,7 +224,6 @@
     "synonyms.md",
     "Syntax/§311a.md",
     "README.md",
-    "40-Matthew/Mat.13.24-43.md",
     "Idioms.md",
     "Syntax/Syntax.md",
     "Syntax/§420.md",
