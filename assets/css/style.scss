@@ -103,10 +103,18 @@
 }
 
   /* text decoration for marking syntax functions */
-.S {text-decoration: underline double; text-underline-offset: 4px; }
-.P {text-decoration: underline wavy; text-underline-offset: 4px; }
-.C {text-decoration: underline solid; text-underline-offset: 4px; }
-.A {text-decoration: underline dotted; text-underline-offset: 4px; }
+  mark {
+    &.pm {background: none;font-weight:900; }
+    &.S {background: none; text-decoration: underline double; text-underline-offset: 5px;}
+    &.P {background: none; text-decoration: underline wavy; text-underline-offset: 5px;}
+    &.C {background: none; text-decoration: underline solid; text-underline-offset: 5px;}
+    &.A {background: none; text-decoration: underline dotted; text-underline-offset: 5px;}
+    &.green {background-color: lightgreen; }
+    &.red {background-color: lightcoral; }
+    &.blue {background-color: skyblue; }
+    &.purple {background-color: purple; }
+  }
+  
 
 
 /* BULLET POINT RELATIONSHIP LINES */
