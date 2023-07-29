@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md"
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md"
               }
             }
           },
@@ -289,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,14 +329,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "467168f71b666d6c",
+  "active": "ffd4c7c93284a6bf",
   "lastOpenFiles": [
-    "README.md",
     "40-Matthew/Sermon-on-the-Mount-Notes.md",
-    "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
+    "40-Matthew/Mat.5-7-Interlinear(OGNTa).md",
+    "README.md",
     "40-Matthew/Mat.5.1-2.md",
     "62-1John/1John-Notes.md",
-    "40-Matthew/Mat.5-7-Interlinear (BIBa).md",
+    "40-Matthew/Mat.5-7-Interlinear(BIBa).md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
