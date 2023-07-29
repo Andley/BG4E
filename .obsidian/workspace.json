@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
                 "mode": "preview",
                 "source": true
               }
@@ -242,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -259,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md"
+                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md"
               }
             }
           },
@@ -280,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,17 +319,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83b242807b65fc9a",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
+    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
+    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+    "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
-    "40-Matthew/Mat.5.43-48.md",
-    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
-    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",

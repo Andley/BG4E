@@ -1,6 +1,6 @@
-#  登山寶訓
+# 登山寶訓
 
-##  馬太福音 5-7 章 Interlinear
+## 馬太福音 5-7 章 Interlinear
 
 Interlinear 經文 (包括大小寫、標點符號) 出自 [Berean Interlinear Bible](https://bereanbible.com/)；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/50/50001/59999/ch/c673adf26899a3292a81b5722ece71d8/)。
 
