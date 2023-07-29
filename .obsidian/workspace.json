@@ -188,7 +188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md"
               }
             }
           },
@@ -289,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,8 +329,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75b75d906b38f1fb",
+  "active": "467168f71b666d6c",
   "lastOpenFiles": [
+    "README.md",
     "40-Matthew/Sermon-on-the-Mount-Notes.md",
     "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
     "40-Matthew/Mat.5.1-2.md",
@@ -354,7 +355,6 @@
     "Untitled 1.md",
     "synonyms.md",
     "Syntax/§311a.md",
-    "README.md",
     "Idioms.md",
     "Syntax/Syntax.md",
     "BBG4E/BG4E 規劃.canvas",
