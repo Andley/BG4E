@@ -3,12 +3,12 @@
 ## 馬太福音 5-7 章希臘文筆記
 
 ### 經文閱讀
-- [Mat 5-7 Interlinear (OpenGNT)](Sermon-on-the-Mount-Interlinear.OGNTa.md)
-- [Mat 5-7 Interlinear (Berean Bible)](Sermon-on-the-Mount-Interlinear.BIBa.md)
+- [Mat 5-7 Interlinear (OpenGNT Abridged)](Sermon-on-the-Mount-Interlinear.OGNTa.md)
+- [Mat 5-7 Interlinear (Berean Interlinear Bible Abridged)](Sermon-on-the-Mount-Interlinear.BIBa.md)
 
 ### 句法圖析
 - 前言 (Mat 5:1-16)
-	- [The Sermon on the Mount ](Mat.5.1-2.md)
+	- [The Sermon on the Mount (Mat 5:1-2)](Mat.5.1-2.md)
 	- [The Beatitudes (Mat 5:3-12)](Mat.5.3-12.md)
 	- [Salt and Light (Mat 5:13-16)](Mat.5.13-16.md)
 - 主體 (Mat 5:17-7:12)
