@@ -3,8 +3,8 @@
 ## 馬太福音 5-7 章希臘文筆記
 
 ### 經文閱讀
-- [Mat 5-7 Interlinear (OpenGNT)](Mat.5-7-Interlinear(OGNTa).md)
-- [Mat 5-7 Interlinear (Berean Bible)](Mat.5-7-Interlinear(BIBa).md)
+- [Mat 5-7 Interlinear (OpenGNT)](Sermon-on-the-Mount-Interlinear.OGNTa.md)
+- [Mat 5-7 Interlinear (Berean Bible)](Sermon-on-the-Mount-Interlinear.BIBa.md)
 
 ### 句法圖析
 - 前言 (Mat 5:1-16)
