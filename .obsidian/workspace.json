@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
                 "mode": "source",
                 "source": true
               }
@@ -157,32 +157,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "fb7d53823336053c"
-          }
-        ],
-        "currentTab": 12
-      },
-      {
-        "id": "4e05de49a658e7cd",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "7aa5ae9d04f63ff8",
+            "id": "ffd4c7c93284a6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "f0ecbabecd025be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "467168f71b666d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "fb7d53823336053c"
+            }
           }
         ]
       }
@@ -258,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md"
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md"
               }
             }
           },
@@ -279,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,10 +329,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75b75d906b38f1fb",
+  "active": "467168f71b666d6c",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
-    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+    "40-Matthew/Mat.5-7-Interlinear (OGNTa).md",
+    "40-Matthew/Sermon-on-the-Mount-Notes.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "62-1John/1John-Notes.md",
+    "40-Matthew/Mat.5-7-Interlinear (BIBa).md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
@@ -332,7 +345,6 @@
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
-    "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.13.24-43.md",
     "BBG4E/HW5-Key.md",
     "BBG4E/HW4-Key.md",
@@ -345,8 +357,6 @@
     "README.md",
     "Idioms.md",
     "Syntax/Syntax.md",
-    "Syntax/§420.md",
-    "Syntax/§410.md",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
