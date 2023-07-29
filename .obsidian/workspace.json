@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -321,15 +322,15 @@
   },
   "active": "83b242807b65fc9a",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
-    "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.21-26.md",
-    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
     "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/Mat.5.43-48.md",
+    "40-Matthew/Sermon-on-the-Mount (OGNTa).md",
+    "40-Matthew/Sermon-on-the-Mount (BIBa).md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
