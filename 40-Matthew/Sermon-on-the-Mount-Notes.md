@@ -46,7 +46,7 @@ Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Gr
 Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
 AGG | Siebenthal, Heinrich von. _Ancient Greek Grammar for the Study of the New Testament_. Oxford New York: Peter Lang, 2020. [https://www.peterlang.com/document/1111098](https://www.peterlang.com/document/1111098).
 ATR | Robertson, A. T. _A Grammar of Greek New Testament in the Light of Historical Research_. 3rd ed. Nashville, Tenn.: Broadman Press, 1919. [https://biblicalelearning.org/wp-content/uploads/2022/01/Robertson-GreekGrammar.pdf](https://biblicalelearning.org/wp-content/uploads/2022/01/Robertson-GreekGrammar.pdf).
-BDF | Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.
+BDF | Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961. https://nicksdata.files.wordpress.com/2008/12/bdf-a-greek-grammar-of-the-new-testament-and-other-early-christian-literature.pdf.
 
 
 
