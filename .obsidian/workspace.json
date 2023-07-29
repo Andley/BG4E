@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -329,11 +329,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffd4c7c93284a6bf",
+  "active": "467168f71b666d6c",
   "lastOpenFiles": [
     "40-Matthew/Sermon-on-the-Mount-Notes.md",
-    "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
+    "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
     "README.md",
     "62-1John/1John-Notes.md",
