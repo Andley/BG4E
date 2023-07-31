@@ -13,14 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BBG4E/HW6-Key.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "1b2a9d0048be86b5"
+          },
+          {
+            "id": "9479568dd53c6799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW6-Key.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             },
             "group": "1b2a9d0048be86b5"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4c17b66bf4a17b58",
@@ -32,8 +48,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BBG4E/HW6-Key.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             },
@@ -114,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md"
+                "file": "BBG4E/HW6-Key.md"
               }
             }
           },
@@ -135,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BBG4E/HW6-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BBG4E/HW6-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +192,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80341c8247f9de96",
+  "active": "9479568dd53c6799",
   "lastOpenFiles": [
+    "BBG4E/HW5-Key.md",
+    "BBG4E/HW6-Key.md",
+    "BBG4E/HW4-Key.md",
+    "BBG4E/HW3-Key.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW1-Key.md",
+    "BBG4E/HW5.md",
+    "BBG4E/HW6.md",
+    "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.19-21.md",
@@ -184,11 +210,9 @@
     "Syntax/Syntax.md",
     "Syntax/§313.md",
     "40-Matthew/Mat.6.16-18.md",
-    "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.5-15.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "40-Matthew/Mat.5.3-12.md",
-    "BBG4E/HW5.md",
     "47-2Corinthians/2Co.2.12-13.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.21-26.md",
@@ -197,13 +221,6 @@
     "Greek Pedagogy.md",
     "47-2Corinthians",
     "40-Matthew/Sermon-on-the-Mount-Notes.md",
-    "40-Matthew/Mat.6.1-4.md",
-    "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
-    "40-Matthew/Mat.7.24-29.md",
-    "40-Matthew/Mat.7.21-23.md",
-    "40-Matthew/Mat.7.15-20.md",
-    "40-Matthew/Mat.7.13-14.md",
-    "40-Matthew/Mat.7.7-12.md",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
     "images/Pasted image 20230403142914.png",
