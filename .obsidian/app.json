@@ -23,9 +23,7 @@
   "rightToLeft": false,
   "readableLineLength": false,
   "lineWrap": true,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "showInlineTitle": false,
   "showUnsupportedFiles": true,
   "strictLineBreaks": true,

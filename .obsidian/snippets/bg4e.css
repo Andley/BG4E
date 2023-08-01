@@ -156,6 +156,6 @@ em,  .cm-em {
     }
 
     @page {
-      margin: 1cm 1.5cm;
+      margin: 1cm 0cm;
     }
 }
