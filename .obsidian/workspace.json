@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW6-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW6-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
             "group": "1b2a9d0048be86b5"
-          },
-          {
-            "id": "0b1f3bef0891a206",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4c17b66bf4a17b58",
@@ -58,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW6-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -141,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW6-Key.md"
+                "file": "40-Matthew/Mat.6.25-34.md"
               }
             }
           },
@@ -162,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW6-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW6-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +192,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b1f3bef0891a206",
+  "active": "9479568dd53c6799",
   "lastOpenFiles": [
-    "BBG4E/HW5-Key.md",
     "BBG4E/HW6-Key.md",
+    "BBG4E/HW5-Key.md",
     "BBG4E/HW4-Key.md",
     "BBG4E/HW3-Key.md",
     "BBG4E/HW2-Key.md",
