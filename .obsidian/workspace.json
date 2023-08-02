@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Relative Clause.md"
+                "file": "40-Matthew/Mat.7.1-6.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Relative Clause.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,6 +195,7 @@
   "active": "9479568dd53c6799",
   "lastOpenFiles": [
     "Syntax/Syntax.md",
+    "Syntax/Relative Clause.md",
     "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
@@ -219,7 +220,6 @@
     "40-Matthew/Mat.6.5-15.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "40-Matthew/Mat.5.3-12.md",
-    "47-2Corinthians/2Co.2.12-13.md",
     "47-2Corinthians",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
