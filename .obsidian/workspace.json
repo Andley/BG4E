@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -109,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md"
+                "file": "40-Matthew/Mat.7.7-12.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +193,9 @@
   },
   "active": "9479568dd53c6799",
   "lastOpenFiles": [
+    "40-Matthew/Mat.7.1-6.md",
     "Syntax/Syntax.md",
     "Syntax/Relative Clause.md",
-    "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
     "40-Matthew/Mat.7.21-23.md",
