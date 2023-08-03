@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "Syntax/§313.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "Syntax/§313.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md"
+                "file": "Syntax/§313.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "Syntax/§313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "Syntax/§313.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +193,9 @@
   },
   "active": "9479568dd53c6799",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
+    "Syntax/Syntax.md",
     "40-Matthew/Mat.7.24-29.md",
+    "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/Mat.7.15-20.md",
     "40-Matthew/Mat.7.13-14.md",
@@ -201,7 +203,6 @@
     "BBG4E/HW6.md",
     "BBG4E/HW6-Key.md",
     "40-Matthew/Mat.7.1-6.md",
-    "Syntax/Syntax.md",
     "Syntax/Relative Clause.md",
     "40-Matthew/Mat.6.25-34.md",
     "BBG4E/HW5-Key.md",
