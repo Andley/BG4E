@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "136215ede165064b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80341c8247f9de96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "dc6953e52f605198",
         "type": "tabs",
         "children": [
@@ -30,12 +11,8 @@
             "id": "1f29e3fbc98f9a45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parables/Parables-John.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BBG4E/HW7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +145,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80341c8247f9de96",
+  "active": "1f29e3fbc98f9a45",
   "lastOpenFiles": [
+    "Parables/Joh.10.1-18.md",
+    "Parables/Joh.15.1-8.md",
     "Parables/Parables-John.md",
+    "Parables/Parables-Mark.md",
+    "BBG4E/HW7.md",
     "Biblography.md",
     "cheatsheet.md",
     "Digital-Tools.md",
@@ -195,13 +171,9 @@
     "Mounce-Reader/GRBG-01c.md",
     "Mounce-Reader/GRBG-01b.md",
     "Mounce-Reader/GRBG-01a.md",
-    "BBG4E/HW7.md",
     "Mounce-Reader/GRBG.md",
     "Mounce-Reader/GRBG-02a.md",
     "BBG4E/HW6-Key.md",
-    "Mounce-BBG/複習 7 (Mat 13.1–23) 解答.md",
-    "Mounce-BBG/BBG.md",
-    "Mounce-BBG/複習 5 (Joh 9.18–34) 解答.md",
     "47-2Corinthians",
     "BBG4E/BG4E 規劃.canvas",
     "62-1John/1Jo.4.7-12.pdf",
