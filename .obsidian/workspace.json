@@ -6,7 +6,6 @@
       {
         "id": "dc6953e52f605198",
         "type": "tabs",
-        "dimension": 47.68934531450578,
         "children": [
           {
             "id": "1f29e3fbc98f9a45",
@@ -14,32 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW7-Key.md",
+                "file": "BBG4E/HW8.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "e8ca5ee66ff17c48"
-          }
-        ]
-      },
-      {
-        "id": "d63d007dc869d616",
-        "type": "tabs",
-        "dimension": 52.31065468549422,
-        "children": [
+            }
+          },
           {
-            "id": "1b4879051e86c430",
+            "id": "98abbe7463585b9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW7-Key.md",
+                "file": "BBG4E/HW8-Key.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8d0930ff48ffd700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f6e648568c0760a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW8-Key.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "e8ca5ee66ff17c48"
+            }
           }
         ]
       }
@@ -116,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW7-Key.md"
+                "file": "BBG4E/HW8-Key.md"
               }
             }
           },
@@ -137,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW7-Key.md",
+                "file": "BBG4E/HW8-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW7-Key.md",
+                "file": "BBG4E/HW8-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f29e3fbc98f9a45",
+  "active": "98abbe7463585b9c",
   "lastOpenFiles": [
+    "BBG4E/HW8.md",
+    "BBG4E/HW8-Key.md",
+    "BBG4E/HW7-Key.md",
     "BBG4E/HW9.md",
     "BBG4E/HW10.md",
-    "BBG4E/HW8.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
     "BBG4E/HW5.md",
@@ -190,7 +201,6 @@
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
     "BBG4E/HW1.md",
-    "BBG4E/HW7-Key.md",
     "Parables/Joh.10.1-18.md",
     "Parables/Joh.15.1-8.md",
     "Parables/Parables-John.md",
@@ -204,7 +214,6 @@
     "Memorize.md",
     "Mounce-Syntax-Summary.md",
     "open-source.md",
-    "Phrasing-Signs.md",
     "Synonyms",
     "47-2Corinthians",
     "BBG4E/BG4E 規劃.canvas",
