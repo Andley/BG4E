@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW8-Key.md",
-                "mode": "source",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW8-Key.md"
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW8-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW8-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +187,11 @@
   },
   "active": "98abbe7463585b9c",
   "lastOpenFiles": [
-    "BBG4E/HW8.md",
+    "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Sermon-on-the-Mount-Notes.md",
+    "40-Matthew/Mat.5.43-48.md",
     "BBG4E/HW8-Key.md",
+    "BBG4E/HW8.md",
     "BBG4E/HW7-Key.md",
     "BBG4E/HW9.md",
     "BBG4E/HW10.md",
@@ -211,9 +213,6 @@
     "Greek Pedagogy.md",
     "Idioms.md",
     "Living Greek Resources.md",
-    "Memorize.md",
-    "Mounce-Syntax-Summary.md",
-    "open-source.md",
     "Synonyms",
     "47-2Corinthians",
     "BBG4E/BG4E 規劃.canvas",
