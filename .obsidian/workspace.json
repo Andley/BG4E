@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6953e52f605198",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f29e3fbc98f9a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW8.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "98abbe7463585b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "8d0930ff48ffd700",
         "type": "tabs",
         "children": [
@@ -44,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW8-Key.md",
+                "file": "BBG4E/HW9-Key.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44d4ddd7e66f4102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fa0f69cbf74ed4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW9-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md"
+                "file": "BBG4E/HW9-Key.md"
               }
             }
           },
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "BBG4E/HW9-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
+                "file": "BBG4E/HW9-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,15 +173,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98abbe7463585b9c",
+  "active": "0f6e648568c0760a",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.1-4.md",
-    "40-Matthew/Sermon-on-the-Mount-Notes.md",
-    "40-Matthew/Mat.5.43-48.md",
-    "BBG4E/HW8-Key.md",
     "BBG4E/HW8.md",
-    "BBG4E/HW7-Key.md",
+    "BBG4E/HW9-Key.md",
     "BBG4E/HW9.md",
+    "BBG4E/HW8-Key.md",
+    "40-Matthew/Sermon-on-the-Mount-Notes.md",
+    "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.5.43-48.md",
+    "BBG4E/HW7-Key.md",
     "BBG4E/HW10.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
@@ -212,7 +201,6 @@
     "Digital-Tools.md",
     "Greek Pedagogy.md",
     "Idioms.md",
-    "Living Greek Resources.md",
     "Synonyms",
     "47-2Corinthians",
     "BBG4E/BG4E 規劃.canvas",
