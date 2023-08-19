@@ -114,8 +114,8 @@ ruby {
   line-height: 6em;
 }
 
-ul ruby {
-  line-height:2.5em;
+li ruby {
+  line-height:3.6em;
 }
 
 rt {
@@ -156,6 +156,6 @@ em,  .cm-em {
     }
 
     @page {
-      margin: 1cm 1cm;
+      margin: 0.5cm 0cm;
     }
 }
