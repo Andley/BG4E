@@ -4,73 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44d4ddd7e66f4102",
+        "id": "95be5119a8ecb53b",
         "type": "tabs",
-        "dimension": 43.966623876765084,
         "children": [
           {
-            "id": "2fa0f69cbf74ed4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount-Notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e7c25e78a7b40dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW10.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c83a1f0e31286295",
+            "id": "6afc6a0974a2a38e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "49-Ephesians/Eph.1.3-14.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f9ea19fef5f46b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "49-Ephesians/Eph.1.3--14.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "4b912db56a7d9efe",
-        "type": "tabs",
-        "dimension": 56.033376123234916,
-        "children": [
-          {
-            "id": "58bc9cb8ae5f920b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "49-Ephesians/Eph.1.3--14.md",
                 "mode": "preview",
                 "source": true
               }
@@ -134,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -151,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49-Ephesians/Eph.1.3--14.md"
+                "file": "49-Ephesians/Eph.1.3-14.md"
               }
             }
           },
@@ -172,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49-Ephesians/Eph.1.3--14.md",
+                "file": "49-Ephesians/Eph.1.3-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49-Ephesians/Eph.1.3--14.md",
+                "file": "49-Ephesians/Eph.1.3-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,13 +154,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9ea19fef5f46b69",
+  "active": "6afc6a0974a2a38e",
   "lastOpenFiles": [
+    "49-Ephesians/Eph.2.8-9.md",
     "49-Ephesians/Eph.1.3-14.md",
-    "49-Ephesians/Eph.1.3--14.md",
+    "49-Ephesians/Eph.1.3-14.md",
+    "40-Matthew/Sermon-on-the-Mount-Notes.md",
+    "BBG4E/HW10.md",
+    "BBG4E/HW5.md",
     "BBG4E/HW10-Key.md",
     "43-John/Joh.20.31.md",
-    "BBG4E/HW10.md",
     "BBG4E/HW9-Key.md",
     "BBG4E/HW9.md",
     "BBG4E/§2.md",
@@ -227,7 +172,6 @@
     "BBG4E/309-Glosses.md",
     "Syntax/§311a.md",
     "43-John/Joh.3.16.md",
-    "40-Matthew/Sermon-on-the-Mount-Notes.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.OGNTa.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
     "Syntax/Syntax.md",
@@ -239,8 +183,6 @@
     "BBG4E/HW8.md",
     "BBG4E/HW8-Key.md",
     "40-Matthew/Mat.6.1-4.md",
-    "40-Matthew/Mat.5.43-48.md",
-    "BBG4E/HW7-Key.md",
     "Synonyms",
     "47-2Corinthians",
     "62-1John/1Jo.4.7-12.pdf",

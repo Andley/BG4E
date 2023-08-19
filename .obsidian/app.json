@@ -7,9 +7,9 @@
   "attachmentFolderPath": "images",
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "A3",
     "landscape": true,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 100
   },
   "autoConvertHtml": true,
