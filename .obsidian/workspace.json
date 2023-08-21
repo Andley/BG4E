@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md"
+                "file": "BBG4E/HW12.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+                "file": "BBG4E/HW12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+                "file": "BBG4E/HW12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,8 +263,11 @@
   },
   "active": "193eca1e22865904",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-4.md",
+    "BBG4E/HW11.md",
+    "BBG4E/HW10.md",
+    "BBG4E/HW10-Key.md",
     "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-3.md",
     "BG4E-ExpPreaching/Sermon-5.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
@@ -273,9 +276,7 @@
     "ASBHR/06.md",
     "49-Ephesians/Eph.1.3-14.md",
     "Biblography.md",
-    "BBG4E/HW10-Key.md",
     "BG4E-ExpPreaching",
-    "BBG4E/HW10.md",
     "BBG4E/HW9-Key.md",
     "BBG4E/HW6-Key.md",
     "BBG4E/HW1-Key.md",
@@ -289,7 +290,6 @@
     "BBG4E/HW9.md",
     "BBG4E/§2.md",
     "BBG4E/§1.md",
-    "BBG4E/309-Lexicon.md",
     "BBG4E/BG4E 規劃.canvas",
     "Synonyms",
     "47-2Corinthians",
