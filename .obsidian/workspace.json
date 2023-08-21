@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5.md",
+                "file": "BG4E-ExpPreaching/Sermon-3.md",
                 "mode": "source",
                 "source": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5.md"
+                "file": "BG4E-ExpPreaching/Sermon-3.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5.md",
+                "file": "BG4E-ExpPreaching/Sermon-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5.md",
+                "file": "BG4E-ExpPreaching/Sermon-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +250,8 @@
   },
   "active": "2a2e08dec7ca418a",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-5.md",
+    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "BG4E-ExpPreaching/Sermon-1.md",
     "BG4E-ExpPreaching/Sermon-3.md",
