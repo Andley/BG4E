@@ -92,26 +92,39 @@
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "0743596eb78df606",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d36bf335b1ba9574",
+            "id": "193eca1e22865904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-4.md",
+                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "45918e60e501c4dc"
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "c26ada7114559321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1cb08ce2a2e0b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "d48c818c3613f569"
+            "group": "45918e60e501c4dc"
           }
         ]
       }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3.md"
+                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md"
               }
             }
           },
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3.md",
+                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3.md",
+                "file": "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,13 +261,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a2e08dec7ca418a",
+  "active": "193eca1e22865904",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-5.md",
     "BG4E-ExpPreaching/Sermon-4.md",
+    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+    "BG4E-ExpPreaching/Sermon-3.md",
+    "BG4E-ExpPreaching/Sermon-5.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "BG4E-ExpPreaching/Sermon-1.md",
-    "BG4E-ExpPreaching/Sermon-3.md",
     "BG4E-ExpPreaching/Sermon-2.md",
     "ASBHR/06.md",
     "49-Ephesians/Eph.1.3-14.md",
@@ -276,7 +290,6 @@
     "BBG4E/§2.md",
     "BBG4E/§1.md",
     "BBG4E/309-Lexicon.md",
-    "BBG4E/309-Glosses.md",
     "BBG4E/BG4E 規劃.canvas",
     "Synonyms",
     "47-2Corinthians",
