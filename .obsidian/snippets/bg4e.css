@@ -118,6 +118,10 @@ li ruby {
   line-height:3.6em;
 }
 
+li {
+  line-height:1.5em;
+}
+
 rt {
   font-family: 'Arial Narrow';
   font-size: 13px ; 

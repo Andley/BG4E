@@ -1,4 +1,4 @@
-## HW❷ (6:9-13) 圖析參考
+## HW❷ (Mat 6:9-13) 圖析參考
 
 
 - 6:9a (<RUBY><ruby><ruby>Οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>Thus</rt></ruby><rt>ADV</rt></RUBY>) <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>προσεύχεσθε</strong><rt>προσεύχομαι</rt></ruby><rt>pray</rt></ruby><rt>V-PNM-2P</rt></RUBY>P (<RUBY><ruby><ruby>ὑμεῖς·<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S

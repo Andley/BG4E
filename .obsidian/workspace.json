@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,8 +119,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
-                "mode": "preview",
+                "file": "BBG4E/HW12.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW1-Key.md"
+                "file": "BBG4E/HW12.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "BBG4E/HW12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "BBG4E/HW12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,14 +261,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1cb08ce2a2e0b13",
+  "active": "193eca1e22865904",
   "lastOpenFiles": [
+    "BBG4E/HW12-Key.md",
     "BBG4E/HW1.md",
-    "BG4E-ExpPreaching/Sermon-1.md",
+    "BBG4E/easily confused words.md",
+    "BBG4E/BG4E 規劃.canvas",
+    "BBG4E/BBG4E.md",
+    "BBG4E/圖析風格.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW2-Key.md",
     "BBG4E/HW2.md",
+    "BBG4E/HW2-Key.md",
     "BBG4E/HW1-Key.md",
+    "BG4E-ExpPreaching/Sermon-1.md",
     "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/HW10.md",
@@ -285,12 +290,7 @@
     "BG4E-ExpPreaching",
     "BBG4E/HW9-Key.md",
     "BBG4E/HW6-Key.md",
-    "BBG4E/easily confused words.md",
-    "BBG4E/BBG4E.md",
     "49-Ephesians/Eph.2.8-9.md",
-    "40-Matthew/Sermon-on-the-Mount-Notes.md",
-    "BBG4E/HW5.md",
-    "BBG4E/BG4E 規劃.canvas",
     "Synonyms",
     "47-2Corinthians",
     "62-1John/1Jo.4.7-12.pdf",
