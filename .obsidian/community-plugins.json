@@ -1,8 +1,8 @@
 [
-  "obsidian-hider",
-  "obsidian-git",
-  "wikilinks-to-mdlinks-obsidian",
+  "control-characters",
   "obsidian-footnotes",
+  "obsidian-hider",
   "obsidian-tidy-footnotes",
-  "control-characters"
+  "obsidian-git",
+  "wikilinks-to-mdlinks-obsidian"
 ]
