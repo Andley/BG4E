@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "49-Ephesians/Eph.3.14-19.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "49-Ephesians/Eph.3.14-19.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md"
+                "file": "49-Ephesians/Eph.3.14-19.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "49-Ephesians/Eph.3.14-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49-Ephesians/Eph.3.16-19.md",
+                "file": "49-Ephesians/Eph.3.14-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
