@@ -41,20 +41,18 @@ ul ul::before {
 
 /* RUBY Interlinear 格式 */
 ruby {
+  display:ruby-base;
+  flex-direction: column-reverse;
   font-family: 'Gentium Book Plus';
-  font-size: 16px ;
-  line-height: 5em;
-  padding: 0px 1px;
-}
-
-ul ruby {
-  line-height:2em;
+  font-size: 19px ; /* 10pt 字體大小*/
+  margin: 10px 1px;
 }
 
 rt {
   font-family: 'Arial Narrow';
   font-size: 13px ; /* 10pt 字體大小*/
   text-align: center;
+  padding:10px 0;
 }
 
 strong,  .cm-strong {
