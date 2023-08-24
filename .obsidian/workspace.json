@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Ephesians-Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49-Ephesians/Ephesians-Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49-Ephesians/Ephesians-Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49-Ephesians/Ephesians-Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +182,8 @@
   },
   "active": "9e1fdb5ea62145ff",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Notes.md",
     "49-Ephesians/Ephesians-Notes.md",
+    "48-Galatians/Galatians-Notes.md",
     "49-Ephesians/Eph.3.14-19.md",
     "49-Ephesians/Eph.1.3-14.md",
     "32-Jonah/Jon.1.md",

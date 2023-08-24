@@ -14,6 +14,7 @@
 ### 新約書卷 (Greek New Testament)
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/Sermon-on-the-Mount-Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
+- [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
 - [彼得前書](60-1Peter/1Peter-Notes.md)
 - [彼得後書](61-2Peter/2Peter-Notes.md)
