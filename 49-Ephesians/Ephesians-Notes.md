@@ -1,12 +1,13 @@
 # 以弗所書希臘文筆記
 ## ΠΡΟΣ ΕΦΕΣΙΟΥΣ
 
-Galatians 149 verses
 
-### 經文閱讀
+
+### 經文閱讀 (155 verses)
 Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/59/10001/19999/ch/b6a1aacfc4f2dacdc6c9527cb6feace3/)。
 
-### 
+### 句法筆記 (155 verses)
+
 - Salutation
 	- [Eph.1.1-2](Eph.1.1-2.md)
 - Spiritual Blessings in Christ
