@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "cheatsheet.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW1.md"
+                "file": "cheatsheet.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,13 @@
   },
   "active": "a1cb08ce2a2e0b13",
   "lastOpenFiles": [
+    "Digital-Tools.md",
+    "cheatsheet.md",
+    "Idioms.md",
+    "Memorize.md",
+    "UNICODE.md",
+    "Quotations.md",
+    "BBG4E/HW1.md",
     "BBG4E/HWy.md",
     "BBG4E/HWx.md",
     "BBG4E/HW12.md",
@@ -163,7 +170,6 @@
     "BG4E-ExpPreaching/Sermon-1.md",
     "BG4E-ExpPreaching/Sermon-2.md",
     "BBG4E/HW12-Key.md",
-    "BBG4E/HW1.md",
     "BBG4E/easily confused words.md",
     "BBG4E/BG4E 規劃.canvas",
     "BBG4E/BBG4E.md",
@@ -177,13 +183,7 @@
     "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
     "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-3.md",
-    "BG4E-ExpPreaching/Sermon-5.md",
-    "BG4E-ExpPreaching/Sermon-4-Key.md",
-    "ASBHR/06.md",
-    "49-Ephesians/Eph.1.3-14.md",
-    "Biblography.md",
     "BG4E-ExpPreaching",
-    "BBG4E/HW9-Key.md",
     "Synonyms",
     "47-2Corinthians",
     "62-1John/1Jo.4.7-12.pdf",
