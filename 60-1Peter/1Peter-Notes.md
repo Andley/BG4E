@@ -27,7 +27,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [1Pe 1:22-25](1Pe.1.22-25.md)
 - The Living Stone and the Holy Nation
 	- [1Pe 2:1-10](1Pe.2.1-10.md)
-- - Live as Servants of God
+- Live as Servants of God
 	- [1Pe 2:11-12](1Pe.2.11-12.md)
 	- [1Pe 2:13-17](1Pe.2.13-17.md)
 - The Example of Christ's Suffering
