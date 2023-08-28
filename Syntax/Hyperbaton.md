@@ -1,3 +1,6 @@
+參考：ATR, 424-25; AGG, §292c; GoingDeeper, 470-71; Whitacre, 353; Cambridge Grammar of Classical Greek, §60.18-19
+
+- ἦν γὰρ <mark>αὐτῶν</mark> πονηρὰ <mark>τὰ ἔργα</mark>. (Jn. 3:19 GLT)
 - οὗτος ὁ ἄνθρωπος <mark>πολλὰ</mark> ποιεῖ <mark>σημεῖα</mark> (Jn. 11:47 GNT)
 
 - διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλὴμ αὐτὸν (Lk. 19:11 GLT)
@@ -5,6 +8,9 @@
 - Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί. (Gal. 6:11 GLT)
 
 - <mark>Ταλαίπωρος</mark> ἐγὼ <mark>ἄνθρωπος</mark>·  (Rom. 7:24 GLT)
+
+hyperbaton vs. anastrophe
+hyperbaton =  一串字倒裝、轉置；anastrophe = 一個字倒裝、轉置
 
 
 --- 
