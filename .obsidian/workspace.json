@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17d4af87bc236ac2",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
     "62-1John/1Jo.1.5-10.md",
     "Syntax/Hyperbaton.md",
