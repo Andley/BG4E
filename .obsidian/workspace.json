@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Hyperbaton.md",
+                "file": "BBG4E/HW10-Key.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bf070db05860c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "967a17b8268432b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW10-Key.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -93,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Hyperbaton.md"
+                "file": "BBG4E/HW10-Key.md"
               }
             }
           },
@@ -114,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Hyperbaton.md",
+                "file": "BBG4E/HW10-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Hyperbaton.md",
+                "file": "BBG4E/HW10-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,10 +173,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75b75d906b38f1fb",
+  "active": "17d4af87bc236ac2",
   "lastOpenFiles": [
-    "62-1John/1Jo.1.5-10.md",
     "Syntax/Hyperbaton.md",
+    "62-1John/1Jo.1.5-10.md",
     "Syntax/Syntax.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
