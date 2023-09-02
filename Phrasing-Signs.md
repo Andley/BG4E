@@ -12,13 +12,17 @@
 ⸉...⸊ | 調換字序 (word order) 之後的新位置
 ⸉⸊ | 調換字序 (word order) 之前的原本位置
 
+---
+
 功能 (function) 的符號  | 含意
 :---: | :----: 
 S/P/C/A| 主要子句、從屬子句的元素用大寫<br>S=主語; P=謂語; C=補語; A=狀語
 s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀語
-= |  同位 (apposition)
-‡| 附帶說明 (epexegetical) 
-+   | 補充 (complement) 
+＝ |  同位 (apposition)</br>通常涉及名詞類，可以取代先行詞 (antecedent)
+≒| 附帶說明 (epexegetical)</br>通常涉及動詞類，不能取代先行詞 (antecedent)
+＋   | 補充 (complement) </br> object-complement 中的 complement (相當於 object 的 predicate)
+
+---
 
 意義 (meaning) 的符號  | 含意
 :---: | :----: 
@@ -27,6 +31,7 @@ s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀�
 <mark>...°¹</mark>、<mark>...°²</mark>  | <mark>被</mark>指向 (修飾、連結) 的字詞/片語
 ⮥、⮧ |  指向上文、指向下文
 
+---
 
 段落 (paragraph) 的符號  | 含意
 :---: | :----: 
@@ -34,6 +39,8 @@ s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀�
 ————————| 中段落
 ⋯⋯⋯⋯⋯⋯⋯| 小段落
 —— ... —— | 插入的段落
+
+--- 
 
 <div style='page-break-after: always;'></div>
 
