@@ -10,32 +10,36 @@
           {
             "id": "17d4af87bc236ac2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "BG4E-ExpPreaching/Sermon-2.md",
                 "mode": "source",
                 "source": true
-              }
-            }
+              },
+              "pinned": true
+            },
+            "group": "11c558f3c92b3342"
           }
         ]
       },
       {
-        "id": "840f9d0d16c4f81f",
+        "id": "53c317cdb17dab84",
         "type": "tabs",
         "children": [
           {
-            "id": "7eff6a4b3ecc88cd",
+            "id": "c7e7863e2b9e6a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "BG4E-ExpPreaching/Sermon-2.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "11c558f3c92b3342"
           }
         ]
       }
@@ -95,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phrasing-Signs.md"
+                "file": "BG4E-ExpPreaching/Sermon-2.md"
               }
             }
           },
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "BG4E-ExpPreaching/Sermon-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "BG4E-ExpPreaching/Sermon-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +176,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17d4af87bc236ac2",
+  "active": "c7e7863e2b9e6a5a",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-1.md",
+    "BG4E-ExpPreaching/Sermon-4-Key.md",
+    "BG4E-ExpPreaching/Sermon-5.md",
+    "BG4E-ExpPreaching/Sermon-4.md",
+    "BG4E-ExpPreaching/Sermon-3.md",
+    "BG4E-ExpPreaching/Sermon-2.md",
+    "Phrasing-Signs.md",
     "Syntax/GGBB Apposition vs Epexgetisis.md",
     "Mounce-Syntax-Summary.md",
     "47-2Corinthians/2Co.2.12-13.md",
@@ -186,7 +196,6 @@
     "62-1John/1Jo.1.5-10.md",
     "Syntax/Syntax.md",
     "46-1Corinthians/1Co.15.1-11.md",
-    "BG4E-ExpPreaching/Sermon-4-Key.md",
     "48-Galatians/Gal.6.1-10.md",
     "cheatsheet.md",
     "48-Galatians/Galatians-Clause.md",
@@ -195,12 +204,6 @@
     "README.md",
     "49-Ephesians/Ephesians-Notes.md",
     "49-Ephesians/Eph.3.14-19.md",
-    "32-Jonah/Jon.1.md",
-    "32-Jonah/Jonah-Notes.md",
-    "08-Ruth/Ruth-Notes.md",
-    "32-Jonah/Jon.3.md",
-    "32-Jonah/Jon.2.md",
-    "32-Jonah/hebrew.md",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
