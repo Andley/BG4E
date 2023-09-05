@@ -2,7 +2,7 @@
 
 ### 句法圖析 (Syntax Diagram)
 
-- 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY>)=C (<mark><RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>°¹</mark>)C
+- 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>[^1])P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY>)=C (<mark><RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>°¹</mark>)C
 	- 15:1b (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>°¹⮥)C (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C 
 	- 15:1c (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-ASN</rt></RUBY>°¹⮥)C (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παρελάβετε,</strong><rt>παραλαμβάνω</rt></ruby><rt>you received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
 	- 15:1d (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-DSN</rt></RUBY>°¹⮥)A (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἑστήκατε,</strong><rt>ἵστημι</rt></ruby><rt>you stand</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P 
@@ -38,7 +38,21 @@
 - 15:11a <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>Whether</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S
 - 15:11b <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνοι,<rt>ἐκεῖνος</rt></ruby><rt>they</rt></ruby><rt>D-NPM</rt></RUBY>)S 
 - 15:11c (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>κηρύσσομεν</strong><rt>κηρύσσω</rt></ruby><rt>we preach</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P
-- 15:11d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.¶</strong><rt>πιστεύω</rt></ruby><rt>you believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
+- 15:11d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.¶</strong><rt>πιστεύω</rt></ruby><rt>you believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P
+
+### 句法筆記 (Syntax Notes)
+
+- 15:1a Γνωρίζωδὲὑμῖν ,ἀδελφοί ,τὸεὐαγγέλιονὃεὐηγγελισάμηνὑμῖν ,ὃκαὶπαρελάβετε ,ἐνᾧκαὶἑστήκατε ,ἵστημιyou standV-RAI-2P【弟兄們，我如今把先前所傳給你們的福音告訴你們知道；這福音你們也領受了，又靠著站立得住，】 
+- 15:2 δι᾽οὗκαὶσῴζεσθε ,τίνιλόγῳεὐηγγελισάμηνὑμῖνεἰκατέχετε ,ἐκτὸςεἰμὴεἰκῇἐπιστεύσατε .πιστεύωyou have believedV-AAI-2P【並且你們若不是徒然相信，能以持守我所傳給你們的，就必因這福音得救。】 
+- 15:3 Παρέδωκαγὰρὑμῖνἐνπρώτοις ,ὃκαὶπαρέλαβον ,ὅτιΧριστὸςἀπέθανενὑπὲρτῶνἁμαρτιῶνἡμῶνκατὰτὰςγραφάςγραφήScripturesN-APF【我當日所領受又傳給你們的：第一，就是基督照聖經所說，為我們的罪死了，】 
+- 15:4 καὶὅτιἐτάφηκαὶὅτιἐγήγερταιτῇἡμέρᾳτῇτρίτῃκατὰτὰςγραφάςγραφήScripturesN-APF【而且埋葬了；又照聖經所說，第三天復活了，】 
+- 15:5 καὶὅτιὤφθηΚηφᾷεἶτατοῖςδώδεκα ·δώδεκαTwelveA-DPM【並且顯給磯法看，然後顯給十二使徒看；】 
+- 15:6 ἔπειταὤφθηἐπάνωπεντακοσίοιςἀδελφοῖςἐφάπαξ ,ἐξὧνοἱπλείονεςμένουσινἕωςἄρτι ,τινὲςδὲἐκοιμήθησαν ·κοιμάωhave fallen asleepV-API-3P【後來一時顯給五百多弟兄看，其中一大半到如今還在，卻也有已經睡了的。】 
+- 15:7 ἔπειταὤφθηἸακώβῳεἶτατοῖςἀποστόλοιςπᾶσιν ·πᾶςallA-DPM【以後顯給雅各看，再顯給眾使徒看，】 
+- 15:8 ἔσχατονδὲπάντωνὡσπερεὶτῷἐκτρώματιὤφθηκἀμοί .κἀγώalso to meP-1DS-K【末了也顯給我看；我如同未到產期而生的人一般。】 
+- 15:9 Ἐγὼγάρεἰμιὁἐλάχιστοςτῶνἀποστόλωνὃςοὐκεἰμὶἱκανὸςκαλεῖσθαιἀπόστολος ,διότιἐδίωξατὴνἐκκλησίαντοῦΘεοῦ ·θεόςof GodN-GSM【我原是使徒中最小的，不配稱為使徒，因為我從前逼迫神的教會。】 
+- 15:10 χάριτιδὲΘεοῦεἰμιὅεἰμι ,καὶἡχάριςαὐτοῦἡεἰςἐμὲοὐκενὴἐγενήθη ,ἀλλὰπερισσότεροναὐτῶνπάντωνἐκοπίασα ,οὐκἐγὼδὲἀλλὰἡχάριςτοῦΘεοῦἡσὺνἐμοί .ἐγώmeP-1DS【然而，我今日成了何等人，是蒙神的恩纔成的，並且他所賜我的恩不是徒然的。我比眾使徒格外勞苦；這原不是我，乃是神的恩與我同在。】 
+- 15:11 εἴτεοὖνἐγὼεἴτεἐκεῖνοι ,οὕτωςκηρύσσομενκαὶοὕτωςἐπιστεύσατε .πιστεύωyou believedV-AAI-2P【不拘是我，是眾使徒，我們如此傳，你們也如此信了。】 
 
 ### 語意圖析 (Semantic Diagram)
 
