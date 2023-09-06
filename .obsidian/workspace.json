@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "ff96b2b507d7fec8"
           }
         ]
       },
@@ -31,11 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "ff96b2b507d7fec8"
           }
         ]
       }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md"
+                "file": "40-Matthew/Mat.5.1-2.md"
               }
             }
           },
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +175,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82c945ba6d9147fd",
+  "active": "9d6aaf62d9be9ed1",
   "lastOpenFiles": [
-    "60-1Peter/1Pe.1.1-2.md",
+    "40-Matthew/Mat.5.3-12.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
+    "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
+    "60-1Peter/1Pe.1.1-2.md",
     "BG4E-ExpPreaching/Sermon-1.md",
     "images/2023-05-10-1Co.15.1-11小抄.jpg",
     "images/2023-05-10-1Co.15.1-11b 1.png",
@@ -199,10 +206,6 @@
     "Mounce-Syntax-Summary.md",
     "47-2Corinthians/2Co.2.12-13.md",
     "Syntax/§530.md",
-    "47-2Corinthians/2Co.3.1-6.md",
-    "49-Ephesians/Eph.1.3-14.md",
-    "BBG4E/HW10-Key.md",
-    "Syntax/Hyperbaton.md",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",

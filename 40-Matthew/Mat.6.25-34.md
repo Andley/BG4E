@@ -58,5 +58,5 @@
 
 
 ---
-[登山寶訓↵](Sermon-on-the-Mount-Notes.md)
+[登山寶訓↵](Sermon-on-the-Mount.Notes.md)
 
