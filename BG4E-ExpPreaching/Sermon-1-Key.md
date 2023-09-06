@@ -2,16 +2,15 @@
 
 ### 句法圖析 (Syntax Diagram)
 
-- 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>[^1])P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY>)=C (<mark><RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>°¹</mark>)C
+- 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY>)=C (<mark><RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>°¹</mark>)C
 	- 15:1b (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>°¹⮥)C (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C 
 	- 15:1c (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-ASN</rt></RUBY>°¹⮥)C (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παρελάβετε,</strong><rt>παραλαμβάνω</rt></ruby><rt>you received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
 	- 15:1d (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-DSN</rt></RUBY>°¹⮥)A (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἑστήκατε,</strong><rt>ἵστημι</rt></ruby><rt>you stand</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P 
 	- 15:2a (<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-GSN</rt></RUBY>°¹⮥)A (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<mark><RUBY><ruby><ruby><strong>σῴζεσθε,</strong><rt>σῴζω</rt></ruby><rt>you are being saved</rt></ruby><rt>V-PPI-2P</rt></RUBY>°²</mark>)P 
-	- ⋯⋯⋯⋯⋯⋯⋯
-	- 15:2b (<RUBY><ruby><ruby>τίνι<rt>τίς</rt></ruby><rt>to the</rt></ruby><rt>I-DSM</rt></RUBY> <RUBY><ruby><ruby>λόγῳ<rt>λόγος</rt></ruby><rt>word</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C ——
-	- ⋯⋯⋯⋯⋯⋯⋯
-		- 15:2c { <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>κατέχετε,</strong><rt>κατέχω</rt></ruby><rt>you hold fast</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P }°¹⮥
-		- 15:2d <RUBY><ruby><ruby>ἐκτὸς<rt>ἐκτός</rt></ruby><rt>unless</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>εἰκῇ<rt>εἰκῇ</rt></ruby><rt>in vain</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.</strong><rt>πιστεύω</rt></ruby><rt>you have believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
+		- ⋯⋯⋯⋯⋯⋯⋯
+			- 15:2b (<RUBY><ruby><ruby>τίνι<rt>τίς</rt></ruby><rt>to the</rt></ruby><rt>I-DSM</rt></RUBY>°³⮧)A ⸉⸊ (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
+		- 15:2c { ⸉(<mark><RUBY><ruby><ruby>λόγῳ<rt>λόγος</rt></ruby><rt>word</rt></ruby><rt>N-DSM</rt></RUBY>°³</mark>)A⸊<RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>κατέχετε,</strong><rt>κατέχω</rt></ruby><rt>you hold fast</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P }A°²⮥
+		- 15:2d { <RUBY><ruby><ruby>ἐκτὸς<rt>ἐκτός</rt></ruby><rt>unless</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>εἰκῇ<rt>εἰκῇ</rt></ruby><rt>in vain</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.</strong><rt>πιστεύω</rt></ruby><rt>you have believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P }A°²⮥
 - ————————
 - 15:3a (<RUBY><ruby><ruby><strong>Παρέδωκα</strong><rt>παραδίδωμι</rt></ruby><rt>I delivered</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C1 (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πρώτοις,<rt>πρῶτος</rt></ruby><rt>the foremost</rt></ruby><rt>A-DPN</rt></RUBY>)A { (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>what</rt></ruby><rt>R-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παρέλαβον,</strong><rt>παραλαμβάνω</rt></ruby><rt>I received</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P }C2
 	- 15:3b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Χριστὸς<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-NSM-T</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἀπέθανεν</strong><rt>ἀποθνήσκω</rt></ruby><rt>died</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑπὲρ<rt>ὑπέρ</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτιῶν<rt>ἁμαρτία</rt></ruby><rt>sins</rt></ruby><rt>N-GPF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)A1 (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>γραφάς<rt>γραφή</rt></ruby><rt>Scriptures</rt></ruby><rt>N-APF</rt></RUBY>)A2 
@@ -42,8 +41,36 @@
 
 ### 句法筆記 (Syntax Notes)
 
-1Co 15:1-11
-Mat 1:1
+- 1Co 15:1 Γνωρίζω δὲ ὑμῖν , ἀδελφοί , τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν , ὃ καὶ παρελάβετε , ἐν ᾧ καὶ ἑστήκατε , 弟兄們，我如今把先前所傳給你們的福音告訴你們知道；這福音你們也領受了，又靠著站立得住， 
+	- 15:1a Γνωρίζω：可以接兩個補語 (BAGD)，直接受格 (τὸ εὐαγγέλιον) 表達「某事」，間接受格 (ὑμῖν) 表達「某人」。
+	- 15:1b ὃ：關係代名詞，在 15:1b 中當作補語 (C)，所以是直接受格。先行詞是 15:1a 同樣 SN (單數、中性) 的 τὸ εὐαγγέλιον。
+	- 15:1b εὐηγγελισάμην：可以接兩個補語 (BAGD)，直接受格 (ὃ) 表達「某事」，間接受格 (ὑμῖν) 表達「某人」。
+	- 15:1c καὶ：根據上下文判斷，這裡要當作狀語 (A) 使用，意思是 also (BAGD)。
+	- 15:1d ἑστήκατε：完成式時態形式, 表達因過去某個動作而產生之現在的 "狀態 state of affairs" (GGBB, 573 = 華, 604), 就解經來說是最重要的時態。
+- 1Co 15:2 δι᾽ οὗ καὶ σῴζεσθε , τίνι λόγῳ εὐηγγελισάμην ὑμῖν εἰ κατέχετε , ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε . 並且你們若不是徒然相信，能以持守我所傳給你們的，就必因這福音得救。 
+	- 15:2a σῴζεσθ： 現在式時態形式, 表達內部的觀點, 聚焦在動作的進展與歷程 (GGBB, 514 = 華, 540)；被動語態，加上 διά 的介系詞片語 (δι᾽ οὗ)，表達 "intermediate agent 居間的施作者" (GGBB, 431-2 = 華, 453-4)——至於 "ultimate agent" 是誰，根據上下文判斷，因為下文提到福音的內涵＝基督的事奉，所以這裡應該是『神』比較恰當。
+	- 15:2bc 在句法上比較困難，有好幾種可能，關鍵在於疑問代名詞 τίνι 是：
+		- (a) 當作關係代名詞使用 (BAGD 一A.4.)，圖析起來會是：
+			- 15:2a (δι᾽ οὗ)A (καὶ)A (σῴζεσθε°²)P —— through-which also your-are-being-saved
+				- ⋯⋯⋯⋯⋯⋯⋯
+					- 15:2b (τίνι°³⮧)A (εὐηγγελισάμην)P (ὑμῖν)C —— which I-proclaimed to-you
+				- 15:2c { (λόγῳ°³)A εἰ (κατέχετε)P }°²⮥ —— to-word if you-hold-fast
+			- 這樣解釋起來上下文最通順，而且絕大多數中英譯本都是如此理解——唯一的缺點就是句法上 λόγῳ 的位置倒置 (hyperbaton; AGG §292c)，與子句 εἰ κατέχετε 分離。
+		- (b) 當作疑問代名詞使用，圖析起來會是：
+			- 15:2b (τίνι λόγῳ)A (εὐηγγελισάμην)P (ὑμῖν)C —— in-what-word I-proclaimed to-you，然後把整個子句上接 15:1a，成為 Γνωρίζω ὑμῖν (我要你們知道) 的內容。
+			- 這樣理解也說得通，Opentext 和 RSV 就是如此理解 "Now I would remind you, brethren, *in what terms* I preached to you the gospel"——但缺點是距離 15:1a 稍嫌遙遠。
+			- 另一種可能是把這個子句當作插入句 (parenthesis; AGG §292d)，直譯起來變成 “...through which also you are being saved *(For what reason[τίνι λόγῳ] did I preach to you?)*, if you hold fast” (Brookins and Longenecker 2016, 136)。
+
+
+- 15:3 Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις , ὃ καὶ παρέλαβον , ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς 我當日所領受又傳給你們的：第一，就是基督照聖經所說，為我們的罪死了， 
+- 15:4 καὶ ὅτι ἐτάφη καὶ ὅτι ἐγήγερται τῇ ἡμέρᾳ τῇ τρίτῃ κατὰ τὰς γραφάς 而且埋葬了；又照聖經所說，第三天復活了， 
+- 15:5 καὶ ὅτι ὤφθη Κηφᾷ εἶτα τοῖς δώδεκα · 並且顯給磯法看，然後顯給十二使徒看； 
+- 15:6 ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ , ἐξ ὧν οἱ πλείονες μένουσιν ἕως ἄρτι , τινὲς δὲ ἐκοιμήθησαν · 後來一時顯給五百多弟兄看，其中一大半到如今還在，卻也有已經睡了的。 
+- 15:7 ἔπειτα ὤφθη Ἰακώβῳ εἶτα τοῖς ἀποστόλοις πᾶσιν · 以後顯給雅各看，再顯給眾使徒看， 
+- 15:8 ἔσχατον δὲ πάντων ὡσπερεὶ τῷ ἐκτρώματι ὤφθη κἀμοί . 末了也顯給我看；我如同未到產期而生的人一般。 
+- 15:9 Ἐγὼ γάρ εἰμι ὁ ἐλάχιστος τῶν ἀποστόλων ὃς οὐκ εἰμὶ ἱκανὸς καλεῖσθαι ἀπόστολος , διότι ἐδίωξα τὴν ἐκκλησίαν τοῦ Θεοῦ · 我原是使徒中最小的，不配稱為使徒，因為我從前逼迫神的教會。 
+- 15:10 χάριτι δὲ Θεοῦ εἰμι ὅ εἰμι , καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη , ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα , οὐκ ἐγὼ δὲ ἀλλὰ ἡ χάρις τοῦ Θεοῦ ἡ σὺν ἐμοί . 然而，我今日成了何等人，是蒙神的恩纔成的，並且他所賜我的恩不是徒然的。我比眾使徒格外勞苦；這原不是我，乃是神的恩與我同在。 
+- 15:11 εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι , οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε . 不拘是我，是眾使徒，我們如此傳，你們也如此信了。 
 
 ### 語意圖析 (Semantic Diagram)
 
