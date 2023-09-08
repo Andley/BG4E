@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md"
+                "file": "40-Matthew/Mat.5.3-12.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +172,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9d6aaf62d9be9ed1",
+  "active": "82c945ba6d9147fd",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
