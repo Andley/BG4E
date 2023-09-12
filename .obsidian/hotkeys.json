@@ -223,5 +223,14 @@
       ],
       "key": "R"
     }
+  ],
+  "control-characters:toggle": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }
