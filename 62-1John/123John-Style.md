@@ -81,11 +81,13 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 		- and every spirit <...> ‖ (it) is not out-of the God ⇐ 切成兩個子句，就可以合乎規則 😀
 	- 1Jn 5:17  ==πᾶσα== ἀδικία ἁμαρτία **ἐστίν**, ⇒ every unrighteousness is sin,【不是一價，是兩價，所以不適用於 Wallace 規則】
 - ————————
-- 一價，但卻是帶冠詞的名詞
+- 一價，但卻是帶冠詞的名詞時 ⇒ 帶冠詞的名詞是 S
 	-  καὶ ἡ ἀλήθεια οὐκ **ἔστιν** ἐν ἡμῖν. (1Jo 1:8) ⇒ and  the truth is not in us
 	- καὶ ὁ λόγος αὐτοῦ οὐκ **ἔστιν** ἐν ἡμῖν. (1Jo 1:1)⇒ and his word is not in him.
 	- καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ **ἔστιν**· (1Jo 2:4b) ⇒ and the truth is not in this (man).
 
+疑問：
+- John 1:1 Ἐν ἀρχῇ ἦν ὁ λόγος ⇒ the-word was in-beginning // (there)was the-word in-beginning
 
 
 [^1]: Herbert W. Bateman IV, _John’s Letters: An Exegetical Guide for Preaching and Teaching_, Big Greek Idea (Grand Rapids, MI.: Kregel Academic, 2018), 55.

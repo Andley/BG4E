@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-                "mode": "preview",
+                "file": "62-1John/123John-Style.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "10e4d6fe704dbf07",
+        "id": "14517a8a53cbfa6e",
         "type": "tabs",
         "children": [
           {
-            "id": "82c945ba6d9147fd",
+            "id": "9756d5662648365b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "62-1John/123John-Style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md"
+                "file": "62-1John/123John-Style.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "62-1John/123John-Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "62-1John/123John-Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,9 @@
   },
   "active": "9d6aaf62d9be9ed1",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+    "62-1John/123John-Style.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/Mat.5.1-2.md",
@@ -202,7 +203,6 @@
     "60-1Peter/1Pe.1.10-12.md",
     "Syntax/GGBB Apposition vs Epexgetisis.md",
     "Mounce-Syntax-Summary.md",
-    "47-2Corinthians/2Co.2.12-13.md",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
