@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "31231bb799c6b46c",
+        "id": "f1c756dcf5cc5c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6aaf62d9be9ed1",
+            "id": "3eaae06956359fca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/key.png"
-              }
-            }
-          },
-          {
-            "id": "678edf3c19987a83",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
+                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/key.png"
+                "file": "BG4E-ExpPreaching/Sermon-1-Key.md"
               }
             }
           },
@@ -123,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/key.png",
+                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/key.png",
+                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +148,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,20 +165,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "678edf3c19987a83",
+  "active": "3eaae06956359fca",
   "lastOpenFiles": [
-    "images/Mounce-Reader.png",
-    "images/key.png",
-    "images/00015.png",
-    "images/IGNT-cover.png",
-    "images/IGNT-封面.png",
-    "images/IGG-cover.png",
-    "images/icon-Home.png",
-    "images/Guthrie-Reader.jpg",
-    "images/GGBB-cover.png",
-    "images/GGBB-封面.png",
-    "images/GDNTG-cover.png",
+    "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
+    "BG4E-ExpPreaching/Sermon-3.md",
+    "BG4E-ExpPreaching/Sermon-1.md",
+    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+    "images/key.png",
+    "images/Pasted image 20221208210229.png",
+    "images/Pasted image 20221208210320.png",
+    "images/Pasted image 20230317084649.png",
+    "images/Pasted image 20230317084752.png",
+    "images/Pasted image 20230403142914.png",
+    "images/Pasted image 20211020143849.png",
+    "images/Pasted image 20211020143723.png",
+    "images/Pasted image 20211018144032.png",
+    "images/Pasted image 20210918060146.png",
     "62-1John/123John-Style.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
@@ -195,19 +190,15 @@
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
     "60-1Peter/1Pe.1.1-2.md",
-    "BG4E-ExpPreaching/Sermon-1.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "Phrasing-Signs.md",
-    "BG4E-ExpPreaching/Sermon-3.md",
     "BG4E-ExpPreaching/Sermon-4.md",
-    "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-5-Key.md",
     "BG4E-ExpPreaching/Sermon-5.md",
     "BG4E-ExpPreaching/Sermon-c.md",
     "BG4E-ExpPreaching/Sermon-b.md",
     "BG4E-ExpPreaching/Sermon-a.md",
     "BG4E-ExpPreaching/Sermon-3-Key.md",
-    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
     "60-1Peter/1Pe.1.3-9.md",
     "60-1Peter/1Pe.1.10-12.md",
     "Syntax/GGBB Apposition vs Epexgetisis.md",

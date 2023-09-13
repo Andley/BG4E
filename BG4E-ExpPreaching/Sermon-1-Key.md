@@ -1,6 +1,6 @@
 ## Sermon-1 (林前15:1-11) 參考解答
 
-#### 句法圖析 (Syntax Diagram)
+### 句法圖析 (Syntax Diagram)
 
 - 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY>)=C (<mark><RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>°¹</mark>)C
 	- 15:1b (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>°¹⮥)C (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C 
@@ -41,7 +41,7 @@
 
 <div style='page-break-after: always;'></div>
 
-#### 句法筆記 (Syntax Notes)
+### 句法筆記 (Syntax Notes)
 
 - 15:1 Γνωρίζω δὲ ὑμῖν , ἀδελφοί , τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν , ὃ καὶ παρελάβετε , ἐν ᾧ καὶ ἑστήκατε , 弟兄們，我如今把先前所傳給你們的福音告訴你們知道；這福音你們也領受了，又靠著站立得住， 
 	- 15:1a Γνωρίζω：可以接兩個補語 (BAGD)，直接受格 (τὸ εὐαγγέλιον) 表達「某事」，間接受格 (ὑμῖν) 表達「某人」。
@@ -86,7 +86,7 @@
 
 <div style='page-break-after: always;'></div>
 
-#### 語意圖析 (Semantic Diagram)
+### 語意圖析 (Semantic Diagram)
 
 
 ![../images/2023-05-10-1Co.15.1-11b 1.png](../images/2023-05-10-1Co.15.1-11b%201.png)
@@ -94,7 +94,7 @@
 
 <div style='page-break-after: always;'></div>
 
-#### 大綱 (Outline)
+### 大綱 (Outline)
 
 - (0) 開場：神學院有什麼用？！
 	- 來神學院學什麼？對弟兄姊妹有用嗎？能解決教會的問題嗎？
@@ -126,12 +126,12 @@
 
 <div style='page-break-after: always;'></div> 
 
-#### 小抄 (memo)
+### 小抄 (memo)
 
 
 ![../images/2023-05-10-1Co.15.1-11小抄.jpg|500x520](../images/2023-05-10-1Co.15.1-11%E5%B0%8F%E6%8A%84.jpg)
 
 
-#### 講道影片
+### 講道影片
 
 https://youtu.be/1iBlCf7-zFM
