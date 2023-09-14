@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
-                "mode": "preview",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "b3ab7bbd90cba8f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md"
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md"
               }
             }
           },
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,10 +164,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3ab7bbd90cba8f9",
+  "active": "3eaae06956359fca",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-2.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
+    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
+    "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-3.md",
     "BG4E-ExpPreaching/Sermon-1.md",
     "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
@@ -193,8 +184,6 @@
     "images/Pasted image 20211018144032.png",
     "images/Pasted image 20210918060146.png",
     "62-1John/123John-Style.md",
-    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/Mat.5.1-2.md",
