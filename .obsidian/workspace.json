@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8471f5519319ec02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094ee6f8362bbc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.4.23-25.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -93,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md"
+                "file": "40-Matthew/Mat.4.23-25.md"
               }
             }
           },
@@ -114,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +185,10 @@
   },
   "active": "3eaae06956359fca",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount.Notes.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
     "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-3.md",
@@ -185,8 +206,6 @@
     "images/Pasted image 20210918060146.png",
     "62-1John/123John-Style.md",
     "40-Matthew/Mat.5.3-12.md",
-    "40-Matthew/Mat.4.23-25.md",
-    "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount-Interlinear.BIBa.md",
     "60-1Peter/1Pe.1.1-2.md",
     "46-1Corinthians/1Co.15.1-11.md",
