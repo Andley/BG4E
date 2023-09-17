@@ -54,9 +54,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "258c35a4178d6603",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ea9c9af4ff4ca466",
@@ -220,7 +230,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "30f3dcc33169cbb3",
+  "active": "258c35a4178d6603",
   "lastOpenFiles": [
     "43-John/Joh.3.16.md",
     "43-John/Joh.3.12.md",
