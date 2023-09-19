@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7572993a6c541e01",
+        "id": "87a95da25738156e",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b7ef08ab656f68",
+            "id": "7147772757c1a8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheet.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "538bcbe40bde305d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG4E-ExpPreaching/Sermon-z.md",
+                "file": "BG4E-ExpPreaching/Sermon-2.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "48e18a64335febbe",
+            "id": "3d7b225d0ff91fd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "43-John/Joh.3.16.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30f3dcc33169cbb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "43-John/Joh.3.12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "ea9c9af4ff4ca466",
+        "id": "9bb9c4e7aac6eae7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0fbaed8feb84c69",
+            "id": "2a7acaf2d39ef7a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "43-John/Joh.3.12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "43-John/Joh.3.12.md"
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
               }
             }
           },
@@ -170,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "43-John/Joh.3.12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "43-John/Joh.3.12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,25 +196,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f0fbaed8feb84c69",
+  "active": "3d7b225d0ff91fd0",
   "lastOpenFiles": [
-    "43-John/Joh.3.16.md",
+    "BG4E-ExpPreaching/Sermon-2.md",
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
+    "BG4E-ExpPreaching/Sermon-1-Key.md",
+    "BG4E-ExpPreaching/Sermon-4.md",
+    "BG4E-ExpPreaching/Sermon-3.md",
+    "BG4E-ExpPreaching/Sermon-1.md",
     "43-John/Joh.3.12.md",
+    "43-John/Joh.3.16.md",
+    "cheatsheet.md",
     "BG4E-ExpPreaching/Sermon-a.md",
     "BG4E-ExpPreaching/Sermon-z.md",
     "BG4E-ExpPreaching/Sermon-x.md",
     "41-Mark/Mar.8.27-38.md",
-    "cheatsheet.md",
     "41-Mark",
     "54-1Timothy/1Ti.6.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
-    "BG4E-ExpPreaching/Sermon-1-Key.md",
-    "BG4E-ExpPreaching/Sermon-2.md",
-    "BG4E-ExpPreaching/Sermon-3.md",
-    "BG4E-ExpPreaching/Sermon-1.md",
     "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
@@ -256,9 +234,7 @@
     "60-1Peter/1Pe.1.1-2.md",
     "46-1Corinthians/1Co.15.1-11.md",
     "Phrasing-Signs.md",
-    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-5-Key.md",
-    "BG4E-ExpPreaching/Sermon-5.md",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
