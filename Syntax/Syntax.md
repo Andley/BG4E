@@ -26,6 +26,7 @@
 	- 名詞類 §3xx
 		- Noun (名詞) §310
 			- [Nominative (主格) §311](§311.md)
+				- [聯繫動詞 copular verb](§311a.md)
 			- [Genitive (所有格) §312](§312.md)
 			- [Dative (間接受格) §313](§313.md)
 			- [Accusative (直接受格) §314](§314.md)
