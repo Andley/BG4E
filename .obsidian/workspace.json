@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "Syntax/§313.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "Syntax/§313.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epexge",
+                "query": "tag:#ManC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md"
+                "file": "Syntax/§313.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "Syntax/§313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "Syntax/§313.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,15 +186,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62ef7e84d2ded4bc",
+  "active": "6bdc1207e227a02f",
   "lastOpenFiles": [
+    "Syntax/Syntax.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
-    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "Syntax/§311a.md",
     "62-1John/123John-Style.md",
-    "Syntax/Syntax.md",
     "README.md",
     "Syntax/§311.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
