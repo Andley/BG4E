@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c312beccdba11e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62ef7e84d2ded4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "48afaaa01097a12d",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md"
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
               }
             }
           },
@@ -132,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,11 +166,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62ef7e84d2ded4bc",
+  "active": "6bdc1207e227a02f",
   "lastOpenFiles": [
+    "40-Matthew/Mat.5.3-12.md",
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
-    "40-Matthew/Mat.5.3-12.md",
     "Syntax/§313.md",
     "Syntax/Syntax.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
@@ -195,7 +179,6 @@
     "62-1John/123John-Style.md",
     "README.md",
     "Syntax/§311.md",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
     "BG4E-ExpPreaching/Sermon-4.md",
