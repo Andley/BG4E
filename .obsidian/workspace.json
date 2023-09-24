@@ -13,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.4.23-25.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "8242264f4780276a"
+            }
           }
         ]
       },
@@ -32,12 +31,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.4.23-25.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "8242264f4780276a"
+            }
           }
         ]
       }
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.4.23-25.md"
+                "file": "40-Matthew/Mat.5.3-12.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.4.23-25.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.4.23-25.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +185,9 @@
   },
   "active": "62ef7e84d2ded4bc",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
+    "40-Matthew/Mat.5.3-12.md",
     "Syntax/§313.md",
     "Syntax/Syntax.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
