@@ -62,10 +62,14 @@
 - 8:38c (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>of Man</rt></ruby><rt>N-GSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>ἐπαισχυνθήσεται</strong></strong><rt>ἐπαισχύνομαι</rt></ruby><rt>will be ashamed of</rt></ruby><rt>V-FMI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτὸν <mark class="pm">,</mark><rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY>)C
 	- 8:38d <RUBY><ruby><ruby>ὅταν<rt>ὅταν</rt></ruby><rt>when</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἔλθῃ</strong></strong><rt>ἔρχομαι</rt></ruby><rt>He shall come</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>δόξῃ<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>μετὰ<rt>μετά</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀγγέλων<rt>ἄγγελος</rt></ruby><rt>angels</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίων <mark class="pm">.</mark><rt>ἅγιος</rt></ruby><rt>holy</rt></ruby><rt>A-GPM</rt></RUBY>)A
 
+<div style='page-break-after: always;'></div>
+
 ### 語意圖析 (Semantic Diagram)
 https://app.biblearc.com/shared/c1264e57-e912-43a8-a0b2-342c229aa6c9
 
 ![../images/Pasted image 20230926101428.png](../images/Pasted%20image%2020230926101428.png)![../images/Pasted image 20230926101345.png](../images/Pasted%20image%2020230926101345.png)
+
+<div style='page-break-after: always;'></div>
 
 ### 解經
 
