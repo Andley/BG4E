@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "a1eb92b0430900b3"
           }
         ]
       },
@@ -31,11 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "a1eb92b0430900b3"
           }
         ]
       }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
               }
             }
           },
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +188,15 @@
   },
   "active": "0959cc466e2b3f9e",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
+    "BG4E-ExpPreaching/Sermon-3b.md",
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-3a.md",
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "images/Pasted image 20230926101428.png",
     "images/Pasted image 20230926101345.png",
     "44-Acts/Act.4.16-17.md",
     "44-Acts/Act.2.1-21.md",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
@@ -210,9 +216,6 @@
     "43-John/Joh.3.16.md",
     "cheatsheet.md",
     "BG4E-ExpPreaching/Sermon-a.md",
-    "BG4E-ExpPreaching/Sermon-z.md",
-    "BG4E-ExpPreaching/Sermon-x.md",
-    "41-Mark/Mar.8.27-38.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
@@ -222,7 +225,6 @@
     "images/Pasted image 20230403142914.png",
     "images/Pasted image 20211020143849.png",
     "images/Pasted image 20211020143723.png",
-    "images/Pasted image 20211018144032.png",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
