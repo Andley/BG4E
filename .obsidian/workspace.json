@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48afaaa01097a12d",
+        "id": "7ee4ef8d79891813",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdc1207e227a02f",
+            "id": "0959cc466e2b3f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "44-Acts/Act.4.16-17.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
+                "file": "44-Acts/Act.4.16-17.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "44-Acts/Act.4.16-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "44-Acts/Act.4.16-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +165,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6bdc1207e227a02f",
+  "active": "0959cc466e2b3f9e",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.3-12.md",
+    "44-Acts/Act.2.1-21.md",
+    "44-Acts/Act.4.16-17.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
     "Syntax/§313.md",
@@ -193,8 +194,6 @@
     "41-Mark/Mar.8.27-38.md",
     "41-Mark",
     "54-1Timothy/1Ti.6.1-2.md",
-    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
     "images/Pasted image 20221208210320.png",
