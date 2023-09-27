@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c2735595e7ffe39",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "09bbdf17f8f73720",
@@ -197,7 +207,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "585d7cc3bfc0d6e6",
+  "active": "9c2735595e7ffe39",
   "lastOpenFiles": [
     "BG4E-ExpPreaching/Sermon-5a.md",
     "BG4E-ExpPreaching/Sermon-5b.md",
