@@ -1,5 +1,6 @@
 ## Sermon-3a (太13:10-23) 參考解答
 
+
 ### 句法圖析 (Syntax Diagram)
 
 - 13:10a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><em>προσελθόντες</em><rt>προσέρχομαι</rt></ruby><rt>having come to [Him]</rt></ruby><rt>V-AAP-NPM</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>μαθητής</rt></ruby><rt>disciples</rt></ruby><rt>N-NPM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>εἶπαν</strong></strong><rt>εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ <mark class="pm">·</mark><rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY>)C 
