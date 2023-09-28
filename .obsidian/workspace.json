@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "09bbdf17f8f73720",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c01e5141a6835bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "66168548c03192ec",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md"
+                "file": "40-Matthew/Mat.4.23-25.md"
               }
             }
           },
@@ -132,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.4.23-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +166,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c01e5141a6835bea",
+  "active": "e91b31e34c7799aa",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.3-12.md",
