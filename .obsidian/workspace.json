@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md"
+                "file": "40-Matthew/Mat.5.17-20.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +186,10 @@
   },
   "active": "c01e5141a6835bea",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.33-37.md",
-    "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.13-16.md",
+    "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/Mat.5.38-42.md",
+    "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
@@ -212,7 +214,6 @@
     "Syntax/§311a.md",
     "62-1John/123John-Style.md",
     "README.md",
-    "Syntax/§311.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
