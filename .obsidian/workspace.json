@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee4ef8d79891813",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "585d7cc3bfc0d6e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "09bbdf17f8f73720",
         "type": "tabs",
         "children": [
@@ -31,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "66168548c03192ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e91b31e34c7799aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
+                "file": "40-Matthew/Mat.5.13-16.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +184,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "585d7cc3bfc0d6e6",
+  "active": "c01e5141a6835bea",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-5b.md",
+    "40-Matthew/Mat.5.3-12.md",
+    "40-Matthew/Mat.5.13-16.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.4.23-25.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-5b.md",
     "BG4E-ExpPreaching/Sermon-5a.md",
     "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-a-Key.md",
@@ -201,9 +205,6 @@
     "images/Pasted image 20230926101345.png",
     "44-Acts/Act.4.16-17.md",
     "44-Acts/Act.2.1-21.md",
-    "40-Matthew/Mat.5.3-12.md",
-    "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/Mat.4.23-25.md",
     "Syntax/§313.md",
     "Syntax/Syntax.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
@@ -213,7 +214,6 @@
     "Syntax/§311.md",
     "BG4E-ExpPreaching/Sermon-2.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
-    "BG4E-ExpPreaching/Sermon-3.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
