@@ -65,7 +65,6 @@
 <div style='page-break-after: always;'></div>
 
 
-
 ### 語意圖析 (Semantic Diagram)
 https://app.biblearc.com/shared/c1264e57-e912-43a8-a0b2-342c229aa6c9
 
