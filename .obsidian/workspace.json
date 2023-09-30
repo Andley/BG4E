@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +183,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e91b31e34c7799aa",
+  "active": "9ef36ef26133a13a",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
@@ -193,7 +194,6 @@
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.1-2.md",
-    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-5b.md",
     "BG4E-ExpPreaching/Sermon-5a.md",
     "BG4E-ExpPreaching/Sermon-4.md",
@@ -201,7 +201,6 @@
     "BG4E-ExpPreaching/Sermon-b.md",
     "BG4E-ExpPreaching/Sermon-a.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3b.md",
     "images/Pasted image 20230926101428.png",
