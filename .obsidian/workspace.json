@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md"
+                "file": "40-Matthew/Mat.5.27-30.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +183,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9ef36ef26133a13a",
+  "active": "a82ceae0a4493314",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.21-26.md",
+    "40-Matthew/Mat.5.27-30.md",
+    "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.17-20.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
@@ -213,7 +213,6 @@
     "Syntax/Syntax.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "Syntax/§311a.md",
-    "62-1John/123John-Style.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
