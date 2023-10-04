@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "43-John/Joh.3.16.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "54abf211b138ac0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "source",
                 "source": true
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6dc894d6ac2736ee",
@@ -56,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "41-Mark/Mar.10.11-12.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "preview",
                 "source": true
               }
@@ -121,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "41-Mark/Mar.10.11-12.md"
+                "file": "40-Matthew/Mat.5.27-30.md"
               }
             }
           },
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "41-Mark/Mar.10.11-12.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "41-Mark/Mar.10.11-12.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +222,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "72e49b0b0b061e84",
+  "active": "54abf211b138ac0f",
   "lastOpenFiles": [
-    "41-Mark/Mar.8.27-38.md",
-    "41-Mark/Mar.10.11-12.md",
+    "43-John/Joh.3.26.md",
     "40-Matthew/Mat.5.27-30.md",
+    "43-John/Joh.3.16.md",
+    "43-John/Joh.3.12.md",
+    "41-Mark/Mar.10.11-12.md",
+    "41-Mark/Mar.8.27-38.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
@@ -234,11 +250,8 @@
     "BG4E-ExpPreaching/Sermon-b.md",
     "BG4E-ExpPreaching/Sermon-a.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
-    "BG4E-ExpPreaching/Sermon-3b.md",
     "images/Pasted image 20230926101428.png",
     "images/Pasted image 20230926101345.png",
-    "44-Acts/Act.4.16-17.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
