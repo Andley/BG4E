@@ -4,78 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0194526958e3ba1a",
+        "id": "f39f991045abd660",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef36ef26133a13a",
+            "id": "f65c5d4d79273575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Rom.4.1-8.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2c336cff3208115f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "43-John/Joh.3.16.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "54abf211b138ac0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6dc894d6ac2736ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a82ceae0a4493314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "41-Mark/Mar.8.27-38.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "72e49b0b0b061e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md"
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
               }
             }
           },
@@ -171,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,21 +166,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54abf211b138ac0f",
+  "active": "f65c5d4d79273575",
   "lastOpenFiles": [
-    "43-John/Joh.3.26.md",
     "40-Matthew/Mat.5.27-30.md",
+    "41-Mark/Mar.8.27-38.md",
+    "45-Romans/Rom.4.1-8.md",
     "43-John/Joh.3.16.md",
+    "40-Matthew/Mat.5.21-26.md",
+    "43-John/Joh.3.26.md",
     "43-John/Joh.3.12.md",
     "41-Mark/Mar.10.11-12.md",
-    "41-Mark/Mar.8.27-38.md",
-    "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
     "45-Romans/Rom.11.2.md",
     "BBG4E/HW4-Key.md",
-    "45-Romans/Rom.4.1-8.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.4.23-25.md",
