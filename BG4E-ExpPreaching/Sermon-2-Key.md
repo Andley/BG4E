@@ -66,10 +66,14 @@
 
 
 ### 語意圖析 (Semantic Diagram)
+#### 命題 = 子句層級 (clause level)
 https://app.biblearc.com/shared/c1264e57-e912-43a8-a0b2-342c229aa6c9
 
-![../images/Pasted image 20230926101428.png](../images/Pasted%20image%2020230926101428.png)![../images/Pasted image 20230926101345.png](../images/Pasted%20image%2020230926101345.png)
+![../images/Pasted image 20231005160632.png](../images/Pasted%20image%2020231005160632.png) ![../images/Pasted image 20231005160600.png](../images/Pasted%20image%2020231005160600.png)
+#### 命題 = 句子層級 (sentence level)
+https://app.biblearc.com/shared/c834dd96-7055-496c-bb59-a9ad9e714b20
 
+![../images/Pasted image 20231005160123.png](../images/Pasted%20image%2020231005160123.png)
 <div style='page-break-after: always;'></div>
 
 ### 解經
