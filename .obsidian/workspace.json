@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md"
+                "file": "40-Matthew/Mat.5.17-20.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-2-Key.md",
+                "file": "40-Matthew/Mat.5.17-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +184,8 @@
   },
   "active": "f65c5d4d79273575",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
+    "40-Matthew/Mat.5.17-20.md",
     "images/Pasted image 20231005160632.png",
     "images/Pasted image 20231005160600.png",
     "images/Pasted image 20231005160123.png",
@@ -192,7 +194,6 @@
     "images/Pasted image 20231005160417.png",
     "images/Pasted image 20231005160443.png",
     "images/Pasted image 20231005160534.png",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.5.27-30.md",
     "41-Mark/Mar.8.27-38.md",
     "45-Romans/Rom.4.1-8.md",
@@ -201,7 +202,6 @@
     "43-John/Joh.3.26.md",
     "43-John/Joh.3.12.md",
     "41-Mark/Mar.10.11-12.md",
-    "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
     "45-Romans/Rom.11.2.md",
