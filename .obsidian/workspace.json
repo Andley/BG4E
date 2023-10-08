@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
-                "mode": "preview",
+                "file": "40-Matthew/Mat.5.21-26.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.21-26.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md"
+                "file": "40-Matthew/Mat.5.21-26.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
+                "file": "40-Matthew/Mat.5.21-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
+                "file": "40-Matthew/Mat.5.21-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,12 +184,13 @@
   },
   "active": "f65c5d4d79273575",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.38-42.md",
-    "40-Matthew/Mat.5.33-37.md",
+    "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/Mat.5.13-16.md",
+    "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
-    "40-Matthew/Mat.5.21-26.md",
-    "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/Mat.5.33-37.md",
+    "40-Matthew/Mat.5.38-42.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
     "images/Pasted image 20231005160632.png",
     "images/Pasted image 20231005160600.png",
@@ -205,7 +206,6 @@
     "43-John/Joh.3.26.md",
     "43-John/Joh.3.12.md",
     "41-Mark/Mar.10.11-12.md",
-    "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/Mat.5.3-12.md",
     "45-Romans/Rom.11.2.md",
     "BBG4E/HW4-Key.md",
