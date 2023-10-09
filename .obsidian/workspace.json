@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "40-Matthew/Mat.5.27-30.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -104,12 +104,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/§313.md"
+                "file": "40-Matthew/Mat.5.27-30.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +196,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f65c5d4d79273575",
+  "active": "fca6a099b6a11e0e",
   "lastOpenFiles": [
     "README.md",
-    "Syntax/Untitled.md",
-    "Syntax/§313.md",
     "40-Matthew/Mat.5.27-30.md",
+    "Syntax/§313.md",
+    "Syntax/Untitled.md",
     "Syntax/Syntax.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
