@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Syntax/§313.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Syntax/§313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Syntax/§313.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,13 +196,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fca6a099b6a11e0e",
+  "active": "f65c5d4d79273575",
   "lastOpenFiles": [
+    "README.md",
     "Syntax/Untitled.md",
     "Syntax/§313.md",
     "40-Matthew/Mat.5.27-30.md",
     "Syntax/Syntax.md",
-    "README.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
