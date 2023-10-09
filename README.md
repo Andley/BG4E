@@ -2,6 +2,8 @@
 
 ## Biblical Greek for Everyone
 
+[§313#313 Dative](%C2%A7313#313%20Dative.md)
+
 - [名言](Quotations.md)
 - [慣用語](Idioms.md)
 - [背誦金句](Memorize.md)
