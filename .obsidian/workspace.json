@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md"
+                "file": "40-Matthew/Mat.5.27-30.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.21-26.md",
+                "file": "40-Matthew/Mat.5.27-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,13 +182,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f65c5d4d79273575",
+  "active": "6e50b12640d45623",
   "lastOpenFiles": [
+    "40-Matthew/Mat.5.21-26.md",
+    "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
-    "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.31-32.md",
-    "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.38-42.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
