@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b.md"
+                "file": "README.md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +198,10 @@
   },
   "active": "f65c5d4d79273575",
   "lastOpenFiles": [
+    "Syntax/Syntax.md",
+    "BG4E-ExpPreaching/Sermon-3b.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
-    "BG4E-ExpPreaching/Sermon-3b.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
     "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
@@ -211,7 +213,6 @@
     "README.md",
     "Syntax/§313.md",
     "Syntax/Untitled.md",
-    "Syntax/Syntax.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",

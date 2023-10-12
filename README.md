@@ -2,7 +2,8 @@
 
 ## Biblical Greek for Everyone
 
-[§313#313 Dative](%C2%A7313#313%20Dative.md)
+
+[Syntax/§313#173b Dative 功能|§313](Syntax/%C2%A7313#173b%20Dative%20%E5%8A%9F%E8%83%BD%7C%C2%A7313.md)
 
 - [名言](Quotations.md)
 - [慣用語](Idioms.md)
