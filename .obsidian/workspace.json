@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f8ae1697ffb0a5e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b62cac892f37a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax/§313.md",
+                "file": "Syntax/Syntax.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "fca6a099b6a11e0e",
+            "id": "b8f89dacb41c8643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b.md",
-                "mode": "preview",
+                "file": "Syntax/AGG-Outline.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "24699d8e96ae0cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e194800a803ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/AGG-Outline.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Syntax/AGG-Outline.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Syntax/AGG-Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Syntax/AGG-Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +197,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f65c5d4d79273575",
+  "active": "b8f89dacb41c8643",
   "lastOpenFiles": [
-    "Syntax/Syntax.md",
+    "Syntax/§313.md",
     "BG4E-ExpPreaching/Sermon-3b.md",
+    "Syntax/AGG-Outline.md",
+    "Syntax/Syntax.md",
+    "README.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
@@ -210,8 +214,6 @@
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
-    "README.md",
-    "Syntax/§313.md",
     "Syntax/Untitled.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/Mat.5.17-20.md",
@@ -231,7 +233,6 @@
     "43-John/Joh.3.12.md",
     "41-Mark/Mar.10.11-12.md",
     "40-Matthew/Mat.5.3-12.md",
-    "45-Romans/Rom.11.2.md",
     "41-Mark",
     "images/key.png",
     "images/Pasted image 20221208210229.png",
