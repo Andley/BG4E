@@ -30,5 +30,6 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "smartIndentList": true,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "useMarkdownLinks": true
 }

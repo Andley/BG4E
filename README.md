@@ -3,7 +3,7 @@
 ## Biblical Greek for Everyone
 
 
-[Syntax/§313#173a Dative 分類|§313](Syntax/§313.md#173a Dative 分類Syntax/%C2%A7313#173a%20Dative%20%E5%88%86%E9%A1%9E%7C%C2%A7313.md)
+[173a Dative 分類](Syntax/§313.md#173a%20Dative%20分類)
 
 - [名言](Quotations.md)
 - [慣用語](Idioms.md)
