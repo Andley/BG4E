@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/AGG-Outline.md"
+                "file": "Syntax/Syntax.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/AGG-Outline.md",
+                "file": "Syntax/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/AGG-Outline.md",
+                "file": "Syntax/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8f89dacb41c8643",
+  "active": "8c60c8158acd8037",
   "lastOpenFiles": [
     "Syntax/§313.md",
     "BG4E-ExpPreaching/Sermon-3b.md",

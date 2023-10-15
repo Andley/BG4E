@@ -1,0 +1,306 @@
+- 3 Syntax
+	- 3.1 Basics of syntax
+		- §126 Definition and organization of syntax
+		- §127 Sentence and its constituents
+		- §128 Means of expressing syntactic relationships.
+	- 3.2 Words and phrases as sentence elements.
+		- 3.2.1 Syntax of declinable words and their phrases
+			- §129 Peculiarities of number use.
+			- 3.2.1.1 Syntax of the article
+				- §130 Usage differences between Ancient Greek and English
+				- §131 The pronominal use of the article
+				- §132 Standard use of the article.
+				- §133 Definiteness without the article
+				- §134 The article and proper names
+				- §135 Article use with complements and adverbials
+				- §136 Article use and the attributive and predicative positions
+			- 3.2.1.2 Syntax of the adjective
+				- §137 Adjective phrases and their use
+				- §138 Comparison.
+			- 3.2.1.3 Syntax of pronouns
+				- §139 Personal and reciprocal pronouns
+				- §140 The possessive pronoun and its alternatives
+				- §141 Demonstrative pronouns
+				- §142 Relative pronouns
+				- §143 Interrogative pronouns
+				- §144 Indefinite pronoun.
+			- 3.2.1.4 Syntax of numerals
+				- §145 Important points on numeral use
+			- 3.2.1.5 Syntax of case forms.
+				- §146 Syntax of case forms: preliminaries
+				- (i) Nominative and vocative
+					- §147 Nominative
+					- §148 Vocative
+				- (ii) Accusative.
+					- §149 Accusative: preliminaries
+					- (a) Object accusative.
+						- §150 Accusative of direct external object
+						- §151 Accusative of direct internal object
+						- §152 Simple object accusative.
+						- §153 Double accusative
+						- §154 Accusative and passive transformation.
+					- (b) Free use accusative
+						- §155 Accusative of extent
+						- §156 Accusative of respect
+						- §157 Adverbial accusative.
+				- (iii) Genitive
+					- §158 Genitive: preliminaries
+					- (a) Genitive proper
+						- (aa) Genitive of appurtenances
+							- §159 Genitive of originator or possessor.
+							- §160 Subjective and objective genitive
+							- §161 Genitive of material or content
+							- §162 Genitive of quality
+							- §163 Genitive of value or price
+							- §164 Genitive of direction or purpose
+							- §165 Genitive of explanation or apposition.
+						- (ab) Partitive genitive
+							- §166 Partitive genitive modifying noun phrases
+							- §167 Verbs combining with partitive genitive objects
+						- (ac) Genitive of time
+							- §168 Genitive of time
+					- (b) Ablative genitive (genitive of departure point)
+						- §169 Genitive of separation
+						- §170 Genitive of comparison.
+						- §171 Genitive of place
+					- (c) Special cases of genitive use
+						- §172 Combinations of different types of genitives
+				- (iv) Dative
+					- §173 Dative: preliminaries.
+					- (a) Dative proper
+						- §174 Objective dative
+						- §175 Objective dative with adjectives
+						- §176 Dative of interest.
+					- (b) Instrumental dative
+						- §177 Dative of instrument or cause
+						- §178 Dative of respect
+					- (c) Sociative dative
+						- §179 Dative of association.
+						- §180 Dative of manner
+					- (d) Locative dative
+						- §181 Dative of place
+						- §182 Dative of time
+			- 3.2.1.6 Prepositions.
+				- §183 Syntax of prepositions: preliminaries
+				- §184 Proper prepositions
+				- §185 Improper prepositions
+				- §186 Prepositional prefixes
+				- §187 Overview of phrases indicating space, time etc..
+		- 3.2.2 Syntax of verb forms
+			- 3.2.2.1 Voice.
+				- §188 Voice: preliminaries
+				- §189 The active voice
+				- §190 The middle voice
+				- §191 The passive voice
+			- 3.2.2.2 Aspects and tenses
+				- (i) General points on aspects and tenses
+					- §192 Preliminary remarks about aspects and tenses
+					- §193 Synopsis of aspect forms with and without tense value
+					- §194 The three aspects: detailed explanation
+					- §195 Overview: examples of typical aspect use
+				- (ii) Indicative verb forms
+					- §196 Indicative forms: preliminaries
+					- §197 Indicative present
+					- §198 Imperfect.
+					- §199 Indicative aorist.
+					- §200 Indicative perfect
+					- §201 Pluperfect
+					- §202 Indicative future
+					- §203 Periphrastic conjugation
+				- (iii) Non-indicative verb forms
+					- §204 Overview of non-indicative verb forms
+				- (iv) Verb forms seemingly expressing a tense value
+					- §205 Absolute tense seemingly expressed by certain verb forms
+					- §206 Relative tense seemingly expressed by certain verb forms
+			- 3.2.2.3 Moods
+				- §207 Moods: preliminaries
+				- §208 Moods and tense/aspect meanings
+				- §209 Indicative
+				- §210 Subjunctive
+				- §211 Optative.
+				- §212 Imperative
+			- 3.2.2.4 Non-finite verb (nominal verb forms)
+				- (i) Infinitive.
+					- §213 Infinitive: preliminaries
+					- §214 Infinitive and tense/aspect meanings
+					- §215 Negated infinitive phrases
+					- §216 Cases inside infinitive phrases: ACI et al
+				- (a) Non-articular infinitive/ACI
+					- §217 Infinitive/ACI phrases as subjects
+					- §218 Infinitive/ACI phrases as objects
+					- §219 Infinitive phrases as complements of adjectives.
+					- §220 Infinitive/ACI phrases as adverbials of purpose.
+					- §221 Infinitive/ACI phrases as adverbials of result.
+					- §222 Explanatory infinitive/ACI phrases as appositions.
+				- (b) Articular infinitive/ACI.
+					- §223 Articular infinitive/ACI phrases: preliminaries
+					- §224 Infinitive/ACI phrases with simple article
+					- §225 Infinitive/ACI phrases with &#964;&#959;&#8166;
+					- §226 Articular infinitive/ACI phrases governed by prepositions
+				- (ii) Participle
+					- §227 Participle: preliminaries
+					- §228 Participle and tense/aspect meanings
+					- §229 Syntactic use of participles
+				- (a) Adverbial participle.
+					- §230 Adverbial participle: &#8220;p.c.&#8221; and &#8220;gen.abs.&#8221;
+					- §231 Adverbial participle: adverbial nuances
+					- §232 Adverbial participle: standard ways of translating it
+				- (b) Predicative participle.
+					- §233 Predicative participle: ACP (and GCP)
+					- §234 Predicative participle: modifying verbs
+					- §235 Predicative participle: periphrastic conjugation
+				- (c) Attributive and nominalized participles
+					- §236 Participle phrases as attributive modifiers
+					- §237 Nominalized participle phrases.
+				- (d) Special idiomatic uses of participles
+					- §238 &#8220;Graphic&#8221; participle
+					- §239 Pleonastic participles
+					- §240 Participle and the Hebrew infinitive absolute.
+		- 3.2.3 Uninflected words
+			- 3.2.3.1 Adverbs
+				- §241 On the use of adverbs
+				- §242 Comparison of adverbs
+			- 3.2.3.2 Negatives
+				- §243 Overview of negatives in Ancient Greek
+				- §244 Typical use of negatives in KG.
+				- §245 Use of the negative particle &#959;&#8016;
+				- §246 Use of the negative particle &#956;&#8053;
+				- §247 Peculiar uses of negative particles
+				- §248 Double and multiple negatives
+				- §249 Negation influenced by Semitic usage
+			- 3.2.3.3 Conjunctions
+				- §250 Conjunctions: preliminaries
+				- §251 Overview of conjunctions
+				- §252 Alphabetical list of important uninflected words
+	- 3.3 Sentences and their constituents
+		- §253 Sentences and their constituents: preliminaries
+		- 3.3.1 Sentence constituents
+			- §254 Sentence constituents: terminological approach.
+			- 3.3.1.1 Obligatory sentence constituents
+				- (i) Subject
+					- §255 Subject: function and ways of expressing it
+				- (ii) Predicate
+					- §256 The predicator
+					- §257 Complements: objects.
+					- §258 Complements: other types of predicative elements
+			- 3.3.1.2 Optional sentence constituents
+				- §259 Adverbial adjuncts and subject/object adjuncts
+			- 3.3.1.3 Attributive modifiers
+				- §260 Attributive modifiers including apposition.
+		- 3.3.2 Concord
+			- §261 Concord: preliminaries
+			- §262 Number concord
+			- §263 Gender, number and case concord
+			- §264 Phrases joined by means of &#954;&#945;&#8055; &#8220;and&#8221; or the like
+			- §265 Notional concord.
+	- 3.4 Sentence/clause types
+		- §266 Sentence/clause types: preliminaries
+		- 3.4.1 Independent (main) clauses
+			- §267 Independent declarative clauses
+			- §268 Independent desiderative clauses
+			- §269 Independent interrogative clauses (direct questions)
+		- 3.4.2 Dependent (subordinate) clauses
+			- §270 Dependent (subordinate) clauses: preliminaries
+			- 3.4.2.1 Conjunctional clauses
+				- (i) Conjunctional subject-object clauses
+					- §271 Dependent declarative (subject-object) clauses
+					- §272 Dependent desiderative (subject-object) clauses
+					- §273 Dependent interrogative (subject-object) clauses
+					- §274 Direct and indirect speech.
+					- §275 Overview of constructions often rendered by &#8220;that&#8221;-clauses
+				- (ii) Conjunctional adverbial clauses
+					- §276 Temporal clauses
+					- §277 Causal clauses
+					- §278 Purpose clauses
+					- §279 Result clauses
+					- §280 Conditional clauses: preliminaries and overview
+					- §281 Indefinite conditional case
+					- §282 Prospective conditional case.
+					- §283 Potential conditional case.
+					- §284 Remote conditional case.
+					- §285 Mixed conditional constructions and special cases
+					- §286 Concessive and exceptive conditional clauses
+					- §287 Manner clauses
+				- (iii) Conjunctional clauses as attributive modifiers
+					- §288 Conjunctional attributive clauses
+			- 3.4.2.2 Relative clauses.
+				- §289 Form and syntactic function of relative clauses
+				- §290 Relative clauses with adverbial force
+	- 3.5 Deviations from syntactic and other &#8220;norms&#8221;
+		- §291 Deviations as stylistic devices or &#8220;figures of speech&#8221;
+		- §292 Figures involving word or clause order
+		- §293 Figures involving omission.
+		- §294 Figures involving repetition and amplification.
+		- §295 Tropes
+		- §296 Figures involving paraphrasing, veiling, and unveiling
+- 4 Textgrammar
+	- 4.1 Text basics
+		- 4.1.1 Texts as a linguistic phenomenon
+			- §297 Basic characteristics of a text
+			- 4.1.1.1 Text structure
+				- §298 The concept of text structure
+				- §299 Example: text structure of Matthew 13:45f
+			- 4.1.1.2 Coherence
+				- §300 The concept of coherence
+				- §301 Example: coherence of Matthew 13:45f
+			- 4.1.1.3 Communicative function of texts
+				- §302 The concept of communicative function of texts
+				- §303 Example: the communicative function of Matthew 13:45f
+			- 4.1.1.4 Further text-related aspects
+				- §304 Text production strategies.
+				- §305 Text types and text genres
+				- §306 Macro-texts and partial texts.
+				- §307 Example: further text-related aspects of Matthew 13:45f
+		- 4.1.2 Text comprehension.
+			- §308 Text comprehension and text interpretation.
+			- §309 Text comprehension &#8211; types of knowledge
+			- §310 Text comprehension &#8211; interaction of two processes
+			- §311 Text comprehension &#8211; parsing and text constituents
+			- §312 Text comprehension &#8211; propositional structure
+			- §313 Text comprehension &#8211; frames.
+			- §314 Text comprehension &#8211; implied elements
+	- 4.2 Coherence and the two sides of text structures
+		- 4.2.1 Coherence and the grammatical side of text structures
+			- 4.2.1.1 Coherence and connectives.
+				- (i) Connectives: possible forms
+					- §318 Connectives: conjunctions
+					- §319 Connectives: relatives
+					- §320 Connectives: adverbs or the like
+					- §321 Connectives: prepositions and case forms
+				- (ii) Connections.
+					- §322 Basics of connections
+					- §323 Overview of connections
+				- (a) Copulative connections
+					- §325 Additive connection
+					- §326 Alternative connection
+				- (b) Temporal connection.
+					- §328 Temporal-anterior connection.
+					- §329 Temporal-posterior connection.
+					- §330 Temporal-simultaneous connection
+				- (c) Conditional connection
+					- §331 Conditional connection
+				- (d) Causal-codirectional connections in the widest sense
+					- §333 Causal connection in a narrower sense
+					- §334 Consequential connection
+					- §335 Modal-instrumental connection
+					- §336 Purpose-oriented connection.
+				- (e) Causal-contradirectional connections in the widest sense
+					- §338 Adversative connection.
+					- §339 Concessive connection
+				- (f) Specifying connections
+					- §341 Explanatory connection
+					- §342 Restrictive connection.
+				- (g) Connections involving comparisons
+					- §344 Comparative connection
+					- §345 Proportional connection
+			- 4.2.1.2 Coherence and phoric or deictic function words
+				- §347 Phora and deixis
+				- §348 Words used for phora and deixis
+		- 4.2.2 Coherence and the content side of text structures
+			- 4.2.2.1 Content words
+				- §350 Coherence and coreferentiality
+				- §351 Types of coreferentiality
+			- 4.2.2.2 Propositional structure
+				- §352 Semantic relations between propositions
+				- §353 Example: relational structure of Philippians 2:5&#8211;11
+				- §354 Alphabetical list of connectives and the like
