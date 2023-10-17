@@ -48,3 +48,6 @@
 	- ————————
 	- 22:14a (<RUBY><ruby><ruby>Πολλοὶ<rt>πολύς</rt></ruby><rt>Many</rt></ruby><rt>A-NPM</rt></RUBY>)S <RUBY><ruby><ruby>γάρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>εἰσιν</strong></strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>κλητοὶ <mark class="pm">,</mark><rt>κλητός</rt></ruby><rt>called</rt></ruby><rt>A-NPM</rt></RUBY>)C 
 	- 22:!4b (<RUBY><ruby><ruby>ὀλίγοι<rt>ὀλίγος</rt></ruby><rt>few</rt></ruby><rt>A-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> ...<RUBY><ruby>εἰσιν<rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY>... (<RUBY><ruby><ruby>ἐκλεκτοί <mark class="pm">.</mark><rt>ἐκλεκτός</rt></ruby><rt>chosen</rt></ruby><rt>A-NPM</rt></RUBY>)C
+
+
+### 語意圖析 (Semantic Diagram)
