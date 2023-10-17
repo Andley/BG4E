@@ -13,48 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/Syntax.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b8f89dacb41c8643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax/AGG-Outline.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "e647e8f6dfccec3c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "24699d8e96ae0cd1",
+        "id": "eb25b3eb9fdb97cb",
         "type": "tabs",
         "children": [
           {
-            "id": "60e194800a803ba4",
+            "id": "44e8d5bc04db7cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/AGG-Outline.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,12 +91,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -135,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/Syntax.md"
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md"
               }
             }
           },
@@ -156,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/Syntax.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/Syntax.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,15 +183,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e647e8f6dfccec3c",
+  "active": "44e8d5bc04db7cba",
   "lastOpenFiles": [
-    "Syntax/§313.md",
     "BG4E-ExpPreaching/Sermon-3b.md",
-    "Syntax/AGG-Outline.md",
-    "Syntax/Syntax.md",
-    "README.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "Syntax/Syntax.md",
+    "Syntax/AGG-Outline.md",
+    "Syntax/§313.md",
+    "README.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
     "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
