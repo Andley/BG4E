@@ -14,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5cfe8372a490c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b73f396cc922961d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -167,15 +184,17 @@
   },
   "active": "44e8d5bc04db7cba",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.31-32.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
-    "BG4E-ExpPreaching/Sermon-3b.md",
+    "BG4E-ExpPreaching/Sermon-3a.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
+    "images/Pasted image 20231018153851.png",
+    "images/Pasted image 20231018152112.png",
+    "40-Matthew/Mat.5.31-32.md",
+    "BG4E-ExpPreaching/Sermon-3b.md",
     "Syntax/Syntax.md",
     "Syntax/AGG-Outline.md",
     "Syntax/§313.md",
     "README.md",
-    "BG4E-ExpPreaching/Sermon-3a.md",
     "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.5.43-48.md",
@@ -200,10 +219,7 @@
     "43-John/Joh.3.26.md",
     "43-John/Joh.3.12.md",
     "41-Mark/Mar.10.11-12.md",
-    "40-Matthew/Mat.5.3-12.md",
     "41-Mark",
-    "images/key.png",
-    "images/Pasted image 20221208210229.png",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
