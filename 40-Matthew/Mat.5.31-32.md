@@ -14,7 +14,7 @@
 		- 5:32d (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>whoever</rt></ruby><rt>R-NSM</rt></RUBY>)S <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby><em>ἀπολελυμένην</em><rt>ἀπολείπω</rt></ruby><rt>her having been divorced</rt></ruby><rt>V-RPP-ASF</rt></RUBY>)[^2]C (<RUBY><ruby><ruby><strong>γαμήσῃ <mark class="pm">,</mark></strong><rt>γαμέω</rt></ruby><rt>shall marry</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P 
 	- 5:32e (<RUBY><ruby><ruby><strong>μοιχᾶται <mark class="pm">.</mark></strong><rt>μοιχάω</rt></ruby><rt>commits adultery</rt></ruby><rt>V-PMI-3S</rt></RUBY>)[^3]P
 
-#### 句法筆記 (Syntax Notex)
+#### 句法筆記 (Syntax Note)
 
 [^1]: _μοιχευθῆναι_：μοιχεύω 的被動語態，主要用於女性 (BAGD)。
 [^2]: _ἀπολελυμένην_：單獨一個分詞當名詞用，前面沒有冠詞，表示沒有特定對象，所以在解釋上要跟 5:31-32 的 τὴν γυναῖκα 和 αὐτὴν 區隔開來，作者沒有明言是同一個人。完成式時態形式，表達因過去某個動作而產生之現在的 “狀態 state of affairs” (GGBB, 573 = 華, 604)。
