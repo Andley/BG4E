@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,16 +184,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44e8d5bc04db7cba",
+  "active": "736a966b36ab7fac",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
+    "Syntax/Syntax.md",
     "Syntax/§313.md",
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "Syntax/§314.md",
     "Syntax/§311a.md",
     "Syntax/§311.md",
     "Syntax/Relative Clause.md",
     "Syntax/syntactic ambiguity.md",
-    "Syntax/Syntax.md",
     "Syntax/Syntax-00.md",
     "Syntax/Word-Order.md",
     "Syntax/πᾶς–ὁ.md",

@@ -2,6 +2,7 @@
 
 
 ## 目錄
+
 - Part I 希臘文基礎 §1xx
 	- 希臘文歷史 §100
 		- 閃語對聖經希臘文的影響 §1b [[Hebraic Influence]]
@@ -14,15 +15,7 @@
 		- Choice implies Meaning §2c
 		- 希臘文詞類 (Parts of Speech) §2d
 - ═════════════
-- Part II Phonology §1xx
-- ═════════════
-- Part III Morphology §2xx
-	- phonetics §210
-	- morphology §220
-- ═════════════
-- Part IV Semantics
-- ═════════════
-- Part V 字詞與片語 (Word and Phrase §3xx-§5xx)
+- Part V 字詞與片語 (Word and Phrase §2xx-§5xx)
 	- 名詞類 §3xx
 		- Noun (名詞) §310
 			- [Nominative (主格) §311](§311.md)
