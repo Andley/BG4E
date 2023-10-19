@@ -130,13 +130,22 @@ rt {
   padding: 0 3px;
 }
 
-strong,  .cm-strong {
+ruby strong,  .cm-strong {
     color: var(--color-strong);
     font-weight:bolder;
   }
 
-em,  .cm-em {
+ruby em,  .cm-em {
     color: var(--color-em);
+    font-weight:bold;
+    font-style:italic;
+  }
+
+strong,  .cm-strong {
+    font-weight:bolder;
+  }
+
+em,  .cm-em {
     font-weight:bold;
     font-style:italic;
   }
