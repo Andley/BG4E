@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ManC",
+                "query": "tag:#AGG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,12 +92,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -167,12 +166,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +183,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "736a966b36ab7fac",
+  "active": "8b1314860610141a",
   "lastOpenFiles": [
     "Syntax/Syntax.md",
     "Syntax/§313.md",
