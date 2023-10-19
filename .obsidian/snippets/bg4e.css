@@ -9,8 +9,9 @@
   --color4:#ff8a00;
   --color-strong: greenyellow;
   --color-em:gold;
-  --text-accent:yellow;
-  --control-character-color: white;
+  --text-accent:lightgreen;
+  --control-character-color: silver;
+  --collapse-icon-color-collapsed: lightgreen;
   --font-text:'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
   }
 

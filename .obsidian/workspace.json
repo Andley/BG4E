@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "f5cfe8372a490c90",
+        "id": "8946a7acccca35a8",
         "type": "tabs",
         "children": [
           {
-            "id": "b73f396cc922961d",
+            "id": "1621eb0176571673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "Syntax/§313.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
