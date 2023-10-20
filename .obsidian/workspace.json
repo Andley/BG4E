@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/§313.md"
+                "file": "40-Matthew/Mat.6.1-4.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax/§313.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +183,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b1314860610141a",
+  "active": "44e8d5bc04db7cba",
   "lastOpenFiles": [
-    "Syntax/Syntax.md",
+    "40-Matthew/Mat.5.43-48.md",
+    "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.5.38-42.md",
+    "40-Matthew/Mat.5.33-37.md",
+    "40-Matthew/Mat.5.31-32.md",
+    "40-Matthew/Mat.5.27-30.md",
     "Syntax/§313.md",
+    "Syntax/Syntax.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "Syntax/§314.md",
     "Syntax/§311a.md",
@@ -207,12 +213,6 @@
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
-    "40-Matthew/Mat.5.31-32.md",
-    "BG4E-ExpPreaching/Sermon-3b.md",
-    "Syntax/AGG-Outline.md",
-    "README.md",
-    "40-Matthew/Mat.6.1-4.md",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "images/Pasted image 20231005160632.png",
     "images/Pasted image 20231005160600.png",
     "images/Pasted image 20231005160123.png",
