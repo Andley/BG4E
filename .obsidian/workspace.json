@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
-                "mode": "source",
+                "file": "40-Matthew/Mat.5.43-48.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md"
+                "file": "40-Matthew/Mat.5.43-48.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.5.43-48.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.5.43-48.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,8 +185,8 @@
   },
   "active": "44e8d5bc04db7cba",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
