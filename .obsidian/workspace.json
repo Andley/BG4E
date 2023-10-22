@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "eb25b3eb9fdb97cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44e8d5bc04db7cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8946a7acccca35a8",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md"
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
               }
             }
           },
@@ -132,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.43-48.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +166,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44e8d5bc04db7cba",
+  "active": "1621eb0176571673",
   "lastOpenFiles": [
     "40-Matthew/Mat.6.1-4.md",
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-3a.md",
+    "Digital-Tools.md",
+    "Memorize.md",
+    "UNICODE.md",
+    "open-source.md",
+    "README.md",
+    "Quotations.md",
+    "Phrasing-Signs.md",
+    "Mounce-Syntax-Summary.md",
+    "Living Greek Resources.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
@@ -200,17 +194,6 @@
     "Syntax/Relative Clause.md",
     "Syntax/syntactic ambiguity.md",
     "Syntax/Syntax-00.md",
-    "Syntax/Word-Order.md",
-    "Syntax/πᾶς–ὁ.md",
-    "Syntax/Untitled.md",
-    "Syntax/Participle.md",
-    "Syntax/James Nugget.md",
-    "Syntax/Hyperbaton.md",
-    "Syntax/Hebraic Influence.md",
-    "Syntax/GGBB Apposition vs Epexgetisis.md",
-    "Syntax/Aspect and Prominence.md",
-    "BG4E-ExpPreaching/Sermon-3a.md",
-    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
     "images/Pasted image 20231005160632.png",
