@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4cd5bc4aa6688d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E-ExpPreaching/LN-Semantic.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4743e7fa3cc7c9bb",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
+                "file": "BG4E-ExpPreaching/LN-Semantic.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/LN-Semantic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/LN-Semantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +197,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1621eb0176571673",
+  "active": "4cd5bc4aa6688d62",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/LN-Semantic.md",
+    "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
     "Digital-Tools.md",
     "Memorize.md",
@@ -211,7 +225,6 @@
     "Syntax/§311.md",
     "Syntax/Relative Clause.md",
     "Syntax/syntactic ambiguity.md",
-    "Syntax/Syntax-00.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
     "images/Pasted image 20231005160632.png",
