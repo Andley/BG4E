@@ -6,7 +6,7 @@
       {
         "id": "f204acb8f084e917",
         "type": "tabs",
-        "dimension": 35.17329910141206,
+        "dimension": 37.67650834403081,
         "children": [
           {
             "id": "8445007c9a34f12b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
       {
         "id": "97d0054153b217ac",
         "type": "tabs",
-        "dimension": 64.82670089858793,
+        "dimension": 62.323491655969185,
         "children": [
           {
             "id": "bbf980980eeb1e7d",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +185,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bbf980980eeb1e7d",
+  "active": "8445007c9a34f12b",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231024103152.png",
     "BG4E-ExpPreaching/LN-Semantic.md",
-    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "40-Matthew/Mat.6.1-4.md",
     "BG4E-ExpPreaching/Sermon-3a.md",
     "Digital-Tools.md",
@@ -208,7 +209,6 @@
     "40-Matthew/Mat.5.27-30.md",
     "Syntax/§313.md",
     "Syntax/Syntax.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "Syntax/§314.md",
     "Syntax/§311a.md",
     "Syntax/§311.md",
@@ -222,7 +222,6 @@
     "images/Pasted image 20230926101428.png",
     "images/Pasted image 20231005160417.png",
     "images/Pasted image 20231005160443.png",
-    "images/Pasted image 20231005160534.png",
     "41-Mark",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
