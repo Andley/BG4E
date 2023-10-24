@@ -73,9 +73,8 @@
 		- 13:23d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ποιεῖ</strong></strong><rt>ποιέω</rt></ruby><rt>produces</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>some</rt></ruby><rt>R-ASN⁞<strong><font color='red'>NSN</font></strong></rt></RUBY>)S (<RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby>ἑκατὸν <mark class="pm">,</mark><rt>ἑκατόν</rt></ruby><rt>a hundredfold</rt></ruby><rt>A-APN</rt></RUBY>)C 
 		- 13:23e ...<RUBY><ruby><ruby><strong><strong>ποιεῖ</strong></strong><rt>ποιέω</rt></ruby></ruby><rt>V-PAI-3S</rt></RUBY>... (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>some</rt></ruby><rt>R-ASN⁞<strong><font color='red'>NSN</font></strong></rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἑξήκοντα <mark class="pm">,</mark><rt>ἑξήκοντα</rt></ruby><rt>sixty</rt></ruby><rt>A-APN</rt></RUBY>)C 
 		- 13:23f ...<RUBY><ruby><ruby><strong><strong>ποιεῖ</strong></strong><rt>ποιέω</rt></ruby></ruby><rt>V-PAI-3S</rt></RUBY>... (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>some</rt></ruby><rt>R-ASN⁞<strong><font color='red'>NSN</font></strong></rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τριάκοντα <mark class="pm">.</mark><rt>τριάκοντα</rt></ruby><rt>thirty</rt></ruby><rt>A-APN</rt></RUBY>)C
-### 語意圖析 (Semantic Diagram)
 
-![[../images/Pasted image 20231024103152.png]]
+
 ### 解經 (Exegesis)
 
 - 思路場景分析：
@@ -167,6 +166,10 @@
 	- v.23c 從屬子句 ὃς 是人 or 道？或許兩者皆可。
 - 太13:23d 與 13:8c ，是本段的結論，也是耶穌對門徒的期待：結實累累。
 
+### 語意圖析 (Semantic Diagram)
+https://app.biblearc.com/shared/6e4dace8-22b5-4d09-8c38-593a0426a79d
+
+![../images/Pasted image 20231024103152.png](../images/Pasted%20image%2020231024103152.png)
 
 
 ### 大綱 (Outline)

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +184,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8445007c9a34f12b",
+  "active": "bbf980980eeb1e7d",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "images/Pasted image 20231024103152.png",
     "BG4E-ExpPreaching/LN-Semantic.md",
     "40-Matthew/Mat.6.1-4.md",
