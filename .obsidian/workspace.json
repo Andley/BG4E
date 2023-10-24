@@ -6,6 +6,7 @@
       {
         "id": "f204acb8f084e917",
         "type": "tabs",
+        "dimension": 35.17329910141206,
         "children": [
           {
             "id": "8445007c9a34f12b",
@@ -15,6 +16,25 @@
               "state": {
                 "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "97d0054153b217ac",
+        "type": "tabs",
+        "dimension": 64.82670089858793,
+        "children": [
+          {
+            "id": "bbf980980eeb1e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -148,8 +168,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +185,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8445007c9a34f12b",
+  "active": "bbf980980eeb1e7d",
   "lastOpenFiles": [
+    "images/Pasted image 20231024103152.png",
     "BG4E-ExpPreaching/LN-Semantic.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "40-Matthew/Mat.6.1-4.md",
@@ -193,7 +213,6 @@
     "Syntax/§311a.md",
     "Syntax/§311.md",
     "Syntax/Relative Clause.md",
-    "Syntax/syntactic ambiguity.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
     "images/Pasted image 20231005160632.png",

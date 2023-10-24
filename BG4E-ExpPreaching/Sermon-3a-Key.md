@@ -75,7 +75,7 @@
 		- 13:23f ...<RUBY><ruby><ruby><strong><strong>ποιεῖ</strong></strong><rt>ποιέω</rt></ruby></ruby><rt>V-PAI-3S</rt></RUBY>... (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>some</rt></ruby><rt>R-ASN⁞<strong><font color='red'>NSN</font></strong></rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τριάκοντα <mark class="pm">.</mark><rt>τριάκοντα</rt></ruby><rt>thirty</rt></ruby><rt>A-APN</rt></RUBY>)C
 ### 語意圖析 (Semantic Diagram)
 
-
+![[../images/Pasted image 20231024103152.png]]
 ### 解經 (Exegesis)
 
 - 思路場景分析：
