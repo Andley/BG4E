@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "open-source.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cb8d2fb4d21be3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louw-Nida.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "97d0054153b217ac",
@@ -33,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "Louw-Nida.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AGG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md"
+                "file": "Louw-Nida.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "Louw-Nida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
+                "file": "Louw-Nida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +197,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8445007c9a34f12b",
+  "active": "bbf980980eeb1e7d",
   "lastOpenFiles": [
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "Louw-Nida.md",
+    "open-source.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231024103152.png",
     "BG4E-ExpPreaching/LN-Semantic.md",
@@ -195,7 +210,6 @@
     "Digital-Tools.md",
     "Memorize.md",
     "UNICODE.md",
-    "open-source.md",
     "README.md",
     "Quotations.md",
     "Phrasing-Signs.md",
