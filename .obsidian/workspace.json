@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "18517c036d2ddaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4980f2bf81ac16f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louw-Nida.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +183,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb8d2fb4d21be3db",
+  "active": "4980f2bf81ac16f0",
   "lastOpenFiles": [
     "open-source.md",
     "Louw-Nida.md",
