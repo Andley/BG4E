@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louw-Nida.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louw-Nida.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Louw-Nida.md"
+                "file": "40-Matthew/Mat.6.5-15.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Louw-Nida.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Louw-Nida.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +182,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4980f2bf81ac16f0",
+  "active": "cb8d2fb4d21be3db",
   "lastOpenFiles": [
-    "open-source.md",
+    "UNICODE.md",
+    "40-Matthew/Mat.6.5-15.md",
     "Louw-Nida.md",
+    "open-source.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231024103152.png",
@@ -195,7 +196,6 @@
     "BG4E-ExpPreaching/Sermon-3a.md",
     "Digital-Tools.md",
     "Memorize.md",
-    "UNICODE.md",
     "README.md",
     "Quotations.md",
     "Phrasing-Signs.md",
@@ -211,7 +211,6 @@
     "Syntax/§314.md",
     "Syntax/§311a.md",
     "Syntax/§311.md",
-    "Syntax/Relative Clause.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
     "images/Pasted image 20231005160632.png",
