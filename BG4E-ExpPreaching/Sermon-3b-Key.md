@@ -51,12 +51,16 @@
 
 ### 語意圖析 (Semantic Diagram)
 https://app.biblearc.com/shared/4dbfac71-fd7f-4eb6-bfa7-7cbee01305b4
+![../images/Pasted image 20231027085033.png](../images/Pasted%20image%2020231027085033.png)
 
-![../images/Pasted image 20231018153851.png](../images/Pasted%20image%2020231018153851.png)
 
 
 ### 大綱 (Outline)
 
+- (1) 被召的人多——神樂意萬人悔改
+	- (1a) 
+- (2) 選上的人少
+- 
 
 [^1]: **Ὡμοιώθη**：意思是「使 A ... 像 B ...」，後面可以接兩個補語 (BAGD)，直接受格表示 A，間接受格表示 B。
 [^2]: ὅστις：這裡並沒有「無論誰，每一位…的」的意思，應該只是取代簡單的關係代名詞而已 (BAGD)。
