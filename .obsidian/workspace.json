@@ -6,7 +6,7 @@
       {
         "id": "f204acb8f084e917",
         "type": "tabs",
-        "dimension": 29.653401797175867,
+        "dimension": 37.034659820282414,
         "children": [
           {
             "id": "cb8d2fb4d21be3db",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "3eb47df0a05f9bf8",
+        "id": "d2a5bf59626c9a1c",
         "type": "tabs",
-        "dimension": 70.34659820282413,
+        "dimension": 62.965340179717586,
         "children": [
           {
-            "id": "629a9871597d08d1",
+            "id": "1e7b695b4a83f01b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb8d2fb4d21be3db",
+  "active": "1e7b695b4a83f01b",
   "lastOpenFiles": [
     "images/Pasted image 20231027085033.png",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
