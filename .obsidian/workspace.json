@@ -11,24 +11,33 @@
             "id": "09eedd20ac2e5c4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4518a0fa64e835b8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3e6df8b0fb8990ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86764b74fc2be1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.6.1-4.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "40-Matthew/Mat.6.1-4.md"
               }
             }
           },
@@ -124,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "40-Matthew/Mat.6.1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,14 +182,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4518a0fa64e835b8",
+  "active": "09eedd20ac2e5c4b",
   "lastOpenFiles": [
+    "40-Matthew/Mat.6.5-15.md",
+    "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.5.43-48.md",
+    "40-Matthew/Mat.5.38-42.md",
     "Untitled.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231027085033.png",
     "BG4E-ExpPreaching/Sermon-3b.md",
-    "40-Matthew/Mat.6.1-4.md",
-    "40-Matthew/Mat.6.5-15.md",
     "UNICODE.md",
     "Louw-Nida.md",
     "open-source.md",
@@ -196,8 +206,6 @@
     "Phrasing-Signs.md",
     "Mounce-Syntax-Summary.md",
     "Living Greek Resources.md",
-    "40-Matthew/Mat.5.43-48.md",
-    "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
