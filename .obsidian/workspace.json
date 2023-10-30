@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md"
+                "file": "40-Matthew/Mat.6.5-15.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +182,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86764b74fc2be1ce",
+  "active": "09eedd20ac2e5c4b",
   "lastOpenFiles": [
+    "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.6.1-4.md",
-    "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "Untitled.md",
