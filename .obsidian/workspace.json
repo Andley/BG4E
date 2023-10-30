@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.16-18.md",
-                "mode": "preview",
+                "file": "63-2John/2John-Notes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.6.16-18.md"
+                "file": "63-2John/2John-Notes.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.6.16-18.md",
+                "file": "63-2John/2John-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.6.16-18.md",
+                "file": "63-2John/2John-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +184,12 @@
   },
   "active": "86764b74fc2be1ce",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.24.md",
+    "64-3John/3John-Notes.md",
+    "62-1John/123John-Style.md",
+    "62-1John/123John-Clause.md",
+    "64-3John/3John-Interlinear.md",
     "40-Matthew/Mat.6.16-18.md",
+    "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.25-34.md",
@@ -208,10 +212,6 @@
     "Digital-Tools.md",
     "Memorize.md",
     "README.md",
-    "Quotations.md",
-    "Phrasing-Signs.md",
-    "Mounce-Syntax-Summary.md",
-    "Living Greek Resources.md",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
     "images/Pasted image 20231005160632.png",
