@@ -53,7 +53,7 @@
 	- 6:15a <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἀφῆτε</strong></strong><rt>ἀφίημι</rt></ruby><rt>you forgive</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώποις <mark class="pm">,</mark><rt>ἄνθρωπος</rt></ruby><rt>men</rt></ruby><rt>N-DPM</rt></RUBY>)C 
 - 6:15b <RUBY><ruby><ruby>οὐδὲ<rt>οὐδέ</rt></ruby><rt>neither</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>ἀφήσει</strong></strong><rt>ἀφίημι</rt></ruby><rt>will forgive</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>παραπτώματα<rt>παράπτωμα</rt></ruby><rt>trespasses</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν <mark class="pm">.</mark><rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)C
 
-[^1]: **ἔσεσθε**：聯繫動詞 εἰμί 的主語 (S) 內含在動詞的 2P 裡面，補語 (C) 則是 ὡς οἱ ὑποκριταί，補充說明主語的「屬性 property」(AGG §258b)。
+[^1]: **ἔσεσθε**：未來式時態形式帶否定，表達禁令 (GGBB, 723 = 華, 760)；主語 (S) 內含在動詞的 2P 裡面，補語 (C) 則是 ὡς οἱ ὑποκριταί，補充說明主語的「屬性 property」(AGG §258b)。
 [^2]: ἐν ταῖς συναγωγαῖς ... _ἑστῶτες_ _προσεύχεσθαι_：不定詞 _προσεύχεσθαι_ 的內嵌子句，當作主要動詞 **φιλοῦσιν** 的補語 (BAGD)。
 [^3]: σὺ：主語前置，表示強調；從 6:5 的第二人稱複數，轉變成單數，有針對、聚焦的味道。
 [^4]: **ὁμοιωθῆτε**：ὁμοιόω 後面接間接受格，表示對象 (BAGD)。
