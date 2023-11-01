@@ -6,7 +6,6 @@
       {
         "id": "1e0d0963852e179e",
         "type": "tabs",
-        "dimension": 35.109114249037226,
         "children": [
           {
             "id": "09eedd20ac2e5c4b",
@@ -23,20 +22,15 @@
         ]
       },
       {
-        "id": "ef7f5b9ffcfb6b8e",
+        "id": "9ec2ed2973306855",
         "type": "tabs",
-        "dimension": 64.89088575096277,
         "children": [
           {
-            "id": "67f4d6c6cec90f54",
+            "id": "a535426c4963b216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -186,7 +180,9 @@
   },
   "active": "09eedd20ac2e5c4b",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Untitled.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "64-3John/3John-Notes.md",
     "64-3John/3Jo.1.1-4.md",
     "64-3John/3Jo.1.13-15.md",
@@ -209,10 +205,8 @@
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "Untitled.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231027085033.png",
     "BG4E-ExpPreaching/Sermon-3b.md",
-    "UNICODE.md",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
