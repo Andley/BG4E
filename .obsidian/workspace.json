@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-3a-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-3b-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +186,7 @@
   },
   "active": "09eedd20ac2e5c4b",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "64-3John/3John-Notes.md",
     "64-3John/3Jo.1.1-4.md",
     "64-3John/3Jo.1.13-15.md",
@@ -213,7 +213,6 @@
     "images/Pasted image 20231027085033.png",
     "BG4E-ExpPreaching/Sermon-3b.md",
     "UNICODE.md",
-    "Louw-Nida.md",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
     "images/Pasted image 20231018152112.png",
