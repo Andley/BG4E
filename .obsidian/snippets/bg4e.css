@@ -159,7 +159,7 @@ em,  .cm-em {
     &.A {background: none; text-decoration: underline dotted; text-underline-offset: 5px;}
     &.green {background-color: lightgreen; }
     &.red {background-color: lightcoral; }
-    &.blue {background-color: skyblue; }
+    &.blue {background-color: lightcyan; }
     &.purple {background-color: purple; }
   }
   
