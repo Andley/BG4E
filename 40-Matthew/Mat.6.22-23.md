@@ -14,11 +14,4 @@
 - ⋯⋯⋯⋯⋯⋯⋯
 - 6:23d ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 6:23e <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>φῶς<rt>φῶς</rt></ruby><rt>light</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>that [is]</rt></ruby><rt>T-NSN</rt></RUBY> ‹<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>within</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σοὶ<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2DS</rt></RUBY> › )S (<RUBY><ruby><ruby>σκότος<rt>σκότος</rt></ruby><rt>darkness</rt></ruby><rt>N-NSN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἐστίν <mark class="pm">,</mark></strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
-- 6:23f (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>that</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σκότος<rt>σκότος</rt></ruby><rt>darkness</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>πόσον <mark class="pm">.</mark><rt>πόσος</rt></ruby><rt>how great!</rt></ruby><rt>Q-NSN</rt></RUBY>)C
-
-#### 句法筆記 (Syntax Notes)
-
-
----
-[登山寶訓↵](Sermon-on-the-Mount.Notes.md)
-
+- 6:23f (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>that</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σκότος<rt>σκότος</rt></ruby><rt>darkness</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>πόσον <mark class="pm">.</mark><rt>πόσος</rt></ruby><rt>how great!</rt></ruby><rt>Q-NSN</rt></RUBY>)C ... <RUBY><ruby><ruby><strong>ἔσται </strong><rt>εἰμί</rt></ruby></ruby><rt>V-FMI-3S</rt></RUBY> ...

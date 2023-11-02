@@ -4,9 +4,9 @@
 #### 句法圖析 (Syntax Diagram)
 
 - 6:25a (<RUBY><ruby><ruby>Διὰ<rt>διά</rt></ruby><rt>Because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>λέγω</strong></strong><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν <mark class="pm">·</mark><rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C 
-	- 6:25b <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>μεριμνᾶτε</strong></strong><rt>μεριμνάω</rt></ruby><rt>be anxious about</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ψυχῇ<rt>ψυχή</rt></ruby><rt>life</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)C (6:25cd)C
-		- 6:25c (<RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>φάγητε</strong></strong><rt>φαγεῖν</rt></ruby><rt>you should eat</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P
-		- 6:25d <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> )C<(RUBY><ruby><ruby><strong>πίητε <mark class="pm">,</mark></strong><rt>πίνω</rt></ruby><rt>you should drink</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P
+	- 6:25b <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>μεριμνᾶτε</strong></strong><rt>μεριμνάω</rt></ruby><rt>be anxious about</rt></ruby><rt>V-PAM-2P</rt></RUBY>[^1])P (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ψυχῇ<rt>ψυχή</rt></ruby><rt>life</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)C {6:25cd}C
+		- 6:25c {(<RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>φάγητε</strong></strong><rt>φαγεῖν</rt></ruby><rt>you should eat</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P}
+		- 6:25d <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> {(<RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> )C <RUBY><ruby><ruby><strong>πίητε <mark class="pm">,</mark></strong><rt>πίνω</rt></ruby><rt>you should drink</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P
 	- 6:25e <RUBY><ruby><ruby>μηδὲ<rt>μηδέ</rt></ruby><rt>nor</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>σώματι<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)C (6:25f)C
 		- 6:25f (<RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἐνδύσησθε <mark class="pm">.</mark></strong><rt>ἐνδύω</rt></ruby><rt>you should put on</rt></ruby><rt>V-AMS-2P</rt></RUBY>)P 
 - ————————
@@ -54,9 +54,4 @@
 - 6:34b (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>αὔριον<rt>αὔριον</rt></ruby><rt>tomorrow</rt></ruby><rt>ADV</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>μεριμνήσει</strong></strong><rt>μεριμνάω</rt></ruby><rt>will be anxious about</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἑαυτῆς <mark class="pm">·</mark><rt>ἑαυτοῦ</rt></ruby><rt>itself</rt></ruby><rt>F-3GSF</rt></RUBY>)C 
 - 6:34c (<RUBY><ruby><ruby>ἀρκετὸν<rt>ἀρκετός</rt></ruby><rt>Sufficient</rt></ruby><rt>A-NSN</rt></RUBY>)C (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρᾳ<rt>ἡμέρα</rt></ruby><rt>day [is]</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>κακία<rt>κακία</rt></ruby><rt>trouble</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῆς <mark class="pm">.</mark><rt>αὐτός</rt></ruby><rt>of it</rt></ruby><rt>P-GSF</rt></RUBY>)S
 
-#### 句法筆記 (Syntax Notes)
-
-
----
-[登山寶訓↵](Sermon-on-the-Mount.Notes.md)
-
+[^1]: **μεριμνᾶτε**：後面可以接兩個補語，間接受詞表示為「某人」憂慮，疑問內嵌子句 (6:25c) 表示憂慮的「內容和問題」。

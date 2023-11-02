@@ -3,7 +3,7 @@
 #### 句法圖析 (Syntax Diagram)
 
 - 6:19a <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>θησαυρίζετε</strong></strong><rt>θησαυρίζω</rt></ruby><rt>store up</rt></ruby><rt>V-PAM-2P</rt></RUBY>)[^1]P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>for yourselves</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>θησαυροὺς<rt>θησαυρός</rt></ruby><rt>treasures</rt></ruby><rt>N-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>γῆς <mark class="pm">,</mark><rt>γῆ</rt></ruby><rt>earth</rt></ruby><rt>N-GSF</rt></RUBY>)A
-	- 6:19b {<RUBY><ruby><ruby>ὅπου<rt>ὅπου</rt></ruby><rt>where</rt></ruby><rt>CONJ</rt></RUBY>[^3] (<RUBY><ruby><ruby>σὴς<rt>σής</rt></ruby><rt>moth</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>βρῶσις<rt>βρῶσις</rt></ruby><rt>rust</rt></ruby><rt>N-NSF</rt></RUBY>)[^2]S (<RUBY><ruby><ruby><strong><strong>ἀφανίζει</strong></strong><rt>ἀφανίζω</rt></ruby><rt>destroy</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P}⮥
+	- 6:19b {<RUBY><ruby><ruby>ὅπου<rt>ὅπου</rt></ruby><rt>where</rt></ruby><rt>CONJ</rt></RUBY>[^2] (<RUBY><ruby><ruby>σὴς<rt>σής</rt></ruby><rt>moth</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>βρῶσις<rt>βρῶσις</rt></ruby><rt>rust</rt></ruby><rt>N-NSF</rt></RUBY>)[^3]S (<RUBY><ruby><ruby><strong><strong>ἀφανίζει</strong></strong><rt>ἀφανίζω</rt></ruby><rt>destroy</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P}⮥
 - 6:19c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 6:19d {<RUBY><ruby><ruby>ὅπου<rt>ὅπου</rt></ruby><rt>where</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>κλέπται<rt>κλέπτης</rt></ruby><rt>thieves</rt></ruby><rt>N-NPM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>διορύσσουσιν</strong></strong><rt>διορύσσω</rt></ruby><rt>break in</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P}⮥
 	- 1:19e {<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>κλέπτουσιν <mark class="pm">·</mark></strong><rt>κλέπτω</rt></ruby><rt>steal</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P}⮥
@@ -20,8 +20,8 @@
 
 
 [^1]: **θησαυρίζετε**：後面接直接受格表達某物，接間接受格表達為了某人 (BAGD)。
-[^2]: σὴς καὶ βρῶσις：複合主詞使用單數動詞，目的是要凸顯第一個主詞 σὴς (GGBB, 401-2 = 華, 421-2)。
-[^3]: ὅπου：可以是連接詞，也可以是從屬關係質詞，表示地方 (BAGD)。根據上下文判斷，指的是 6:19a 的 τῆς γῆς。
+[^2]: ὅπου：可以是連接詞，也可以是從屬關係質詞，表示地方 (BAGD)。根據上下文判斷，指的是 6:19a 的 τῆς γῆς。
+[^3]: σὴς καὶ βρῶσις：複合主詞使用單數動詞，目的是要凸顯第一個主詞 σὴς (GGBB, 401-2 = 華, 421-2)。
 [^4]: οὔτε…οὔτε：意思是「既不…也不」(BAGD)。
 [^5]: ὅπου：可以是連接詞，也可以是關係質詞，表示地方 (BAGD)。根據上下文判斷，指的是 6:21b 的 ἐκεῖ。就句法來說，
 [^6]: **ἔσται**：聯繫動詞，帶冠詞的名詞 (ἡ καρδία σου) 是主語，副詞 ἐκεῖ 是補語，說明主語的屬性 (AGG §285b)。
