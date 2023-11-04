@@ -1,4 +1,4 @@
-Levnsoh
+
 - Mar 10:52d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εὐθὺς<rt>εὐθέως</rt></ruby><rt>immediately</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><strong>ἀνέβλεψεν</strong><rt>ἀναβλέπω</rt></ruby><rt>he received sight</rt></ruby><rt>V-AAI-3S</rt></RUBY> 瞎子立刻<mark class='blue'>看見了(Aorist)</mark>
 - Mar 10:52e <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἠκολούθει</strong><rt>ἀκολουθέω</rt></ruby><rt>he began following</rt></ruby><rt>V-IAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>on</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ὁδῷ <mark class="pm">.</mark><rt>ὁδός</rt></ruby><rt>way</rt></ruby><rt>N-DSF</rt></RUBY> 就在路上<mark class='green'>跟隨(Imperfect)</mark>耶穌
 - ————————
