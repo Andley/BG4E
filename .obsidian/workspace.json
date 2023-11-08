@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0d0963852e179e",
+        "id": "29d46f3b465dea1e",
         "type": "tabs",
-        "dimension": 51.0837727006444,
         "children": [
           {
-            "id": "09eedd20ac2e5c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "41-Mark/Mar.10.11-12.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bafa43e4b9867b38",
+            "id": "63405fd4484f193e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,16 +19,14 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "9ec2ed2973306855",
+        "id": "d506f88ac8f095c6",
         "type": "tabs",
-        "dimension": 48.9162272993556,
         "children": [
           {
-            "id": "a535426c4963b216",
+            "id": "9f9907343353c43e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,13 +183,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bafa43e4b9867b38",
+  "active": "63405fd4484f193e",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/Mat.6.25-34.md",
+    "41-Mark/Mar.10.11-12.md",
+    "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/Mat.6.24.md",
     "41-Mark/Mar.15.11-15.md",
-    "41-Mark/Mar.10.11-12.md",
     "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.19-21.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
