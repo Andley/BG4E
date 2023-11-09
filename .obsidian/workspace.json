@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BG4E-ExpPreaching/Sermon-4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1eaca0113ffd558e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d506f88ac8f095c6",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md"
+                "file": "BG4E-ExpPreaching/Sermon-4-Key.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +196,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63405fd4484f193e",
+  "active": "9f9907343353c43e",
   "lastOpenFiles": [
+    "BG4E-ExpPreaching/Sermon-4.md",
+    "BG4E-ExpPreaching/Sermon-4-Key.md",
+    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "40-Matthew/Mat.6.25-34.md",
     "41-Mark/Mar.10.11-12.md",
     "40-Matthew/Mat.6.16-18.md",
@@ -192,8 +208,6 @@
     "41-Mark/Mar.15.11-15.md",
     "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.19-21.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
-    "BG4E-ExpPreaching/Untitled.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "64-3John/3John-Notes.md",
     "64-3John/3Jo.1.1-4.md",
@@ -210,7 +224,6 @@
     "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.6.1-4.md",
     "40-Matthew/Mat.5.43-48.md",
-    "40-Matthew/Mat.5.38-42.md",
     "images/Pasted image 20231027085033.png",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
