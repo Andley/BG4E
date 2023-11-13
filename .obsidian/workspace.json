@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-4-Key.md"
+                "file": "40-Matthew/Mat.6.25-34.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-4-Key.md",
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +197,8 @@
   },
   "active": "1eaca0113ffd558e",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
+    "BG4E-ExpPreaching/Sermon-4.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "40-Matthew/Mat.6.25-34.md",
     "41-Mark/Mar.10.11-12.md",
