@@ -14,8 +14,26 @@
               "type": "markdown",
               "state": {
                 "file": "40-Matthew/Mat.6.25-34.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2ae2a61bb891519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b247f3e49b810649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
