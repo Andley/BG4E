@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d506f88ac8f095c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4ff868da4e272b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b2ae2a61bb891519",
         "type": "tabs",
         "children": [
@@ -184,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ff868da4e272b5c",
+  "active": "b247f3e49b810649",
   "lastOpenFiles": [
     "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.6.16-18.md",
