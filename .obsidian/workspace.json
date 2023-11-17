@@ -15,7 +15,25 @@
               "state": {
                 "file": "40-Matthew/Mat.6.25-34.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "101695fb42a12098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0e20736b6ebef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.6.25-34.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -166,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b247f3e49b810649",
+  "active": "8b0e20736b6ebef8",
   "lastOpenFiles": [
     "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.6.16-18.md",
