@@ -1,5 +1,5 @@
 #### reference
-- Porter p.250 Internal referent & p.253 Incorporation
+- Porter Ch.15 §3.1.2 (p.250) Internal referent & §4.4 (p.253) Incorporation
 - ATR pp. 718-21 Incorporation
 - BDF §294(5) Incorporation
 - Mathewson IGG p.51-52 §2.20 IHRC or Incorporated antecedent
