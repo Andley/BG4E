@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md"
+                "file": "40-Matthew/Mat.7.7-12.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.7.1-6.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +186,9 @@
   },
   "active": "0ed3d634254efe78",
   "lastOpenFiles": [
-    "Syntax/Relative Clause.md",
     "40-Matthew/Mat.7.1-6.md",
+    "40-Matthew/Mat.7.7-12.md",
+    "Syntax/Relative Clause.md",
     "BBG4E/HW11-Key.md",
     "BBG4E/HW11.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
@@ -214,7 +214,6 @@
     "64-3John/3Jo.1.13-15.md",
     "64-3John/3Jo.1.5-12.md",
     "63-2John/2Jo.1.12-13.md",
-    "63-2John/2Jo.1.4-11.md",
     "images/Pasted image 20231027085033.png",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
