@@ -1,0 +1,7 @@
+- Mat 5:14 <RUBY><ruby><ruby>Ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>φῶς<rt>φῶς</rt></ruby><rt>light</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>κόσμου <mark class="pm">.</mark><rt>κόσμος</rt></ruby><rt>world</rt></ruby><rt>N-GSM</rt></RUBY>
+- Young & Wallace: You are the-light-of-the-world.
+- 1Co 11:14  <RUBY><ruby><ruby>ἀτιμία<rt>ἀτιμία</rt></ruby><rt>a dishonor</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν <mark class="pm">,</mark></strong><rt>εἰμί</rt></ruby><rt>it is</rt></ruby><rt>V-PAI-3S</rt></RUBY>
+- Young: Dishonor is to-him.
+- Wallace: [It] is dishonor to-him.
+- Joh 21:7 <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Κύριός<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>it is</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
+- Young & Wallace: [He] is the-Lord.
