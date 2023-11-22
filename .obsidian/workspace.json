@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.21-23.md",
+                "file": "40-Matthew/Mat.7.13-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.21-23.md",
+                "file": "40-Matthew/Mat.7.13-14.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.7.21-23.md"
+                "file": "40-Matthew/Mat.7.13-14.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.7.21-23.md",
+                "file": "40-Matthew/Mat.7.13-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.7.21-23.md",
+                "file": "40-Matthew/Mat.7.13-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +186,10 @@
   },
   "active": "03515ba7bde71087",
   "lastOpenFiles": [
-    "40-Matthew/Mat.7.15-20.md",
-    "40-Matthew/Mat.7.21-23.md",
+    "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.13-14.md",
+    "40-Matthew/Mat.7.21-23.md",
+    "40-Matthew/Mat.7.15-20.md",
     "40-Matthew/Mat.7.7-12.md",
     "40-Matthew/Mat.7.1-6.md",
     "43-John/Joh.20.31.md",
@@ -213,7 +214,6 @@
     "41-Mark/Mar.10.11-12.md",
     "40-Matthew/Mat.6.24.md",
     "41-Mark/Mar.15.11-15.md",
-    "40-Matthew/Mat.6.22-23.md",
     "images/Pasted image 20231027085033.png",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
