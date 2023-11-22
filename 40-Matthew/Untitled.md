@@ -1,7 +1,12 @@
 - Mat 5:14 <RUBY><ruby><ruby>Ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>φῶς<rt>φῶς</rt></ruby><rt>light</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>κόσμου <mark class="pm">.</mark><rt>κόσμος</rt></ruby><rt>world</rt></ruby><rt>N-GSM</rt></RUBY>
 - Young & Wallace: You are the-light-of-the-world.
 - 1Co 11:14  <RUBY><ruby><ruby>ἀτιμία<rt>ἀτιμία</rt></ruby><rt>a dishonor</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν <mark class="pm">,</mark></strong><rt>εἰμί</rt></ruby><rt>it is</rt></ruby><rt>V-PAI-3S</rt></RUBY>
-- Young: Dishonor is to-him.
-- Wallace: [It] is dishonor to-him.
+- Young: Dishonor is to-him
+- Wallace: [It] is dishonor to-him
 - Joh 21:7 <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Κύριός<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>it is</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
-- Young & Wallace: [He] is the-Lord.
+- Young: [He/It] is the-Lord
+- Wallace: 規則 2a 沒有明說 😢
+- Mat 19:5  <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔσονται</strong><rt>εἰμί</rt></ruby><rt>will become</rt></ruby><rt>V-FMI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>δύο<rt>δύο</rt></ruby><rt>two</rt></ruby><rt>A-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>μίαν <mark class="pm">.</mark><rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-ASF</rt></RUBY>)C
+- Heb 1:5a (<RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἔσομαι</strong><rt>εἰμί</rt></ruby><rt>will be</rt></ruby><rt>V-FMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πατέρα <mark class="pm">,</mark><rt>πατήρ</rt></ruby><rt>a Father</rt></ruby><rt>N-ASM</rt></RUBY>)C
+- 
+- Heb 1:5b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸς<rt>αὐτός</rt></ruby><rt>He</rt></ruby><rt>P-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἔσται</strong><rt>εἰμί</rt></ruby><rt>will be</rt></ruby><rt>V-FMI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to Me</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Υἱόν <mark class="pm">;</mark><rt>υἱός</rt></ruby><rt>a Son?</rt></ruby><rt>N-ASM</rt></RUBY>)C
