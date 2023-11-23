@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "e04139b493c639cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cfa496d84b2d66b7",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Mat.7.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md"
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md"
               }
             }
           },
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,22 +196,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7615ef8266c48ec",
+  "active": "e04139b493c639cc",
   "lastOpenFiles": [
+    "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+    "40-Matthew/Untitled 1.md",
+    "40-Matthew/Mat.7.1-6.md",
+    "BBG4E/HW11-Key.md",
+    "BBG4E/HW10-Key.md",
     "40-Matthew/Mat.19.5-6.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/Mat.7.15-20.md",
-    "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
-    "40-Matthew/Mat.7.1-6.md",
     "43-John/Joh.20.31.md",
     "40-Matthew/Untitled.md",
     "62-1John/123John-Style.md",
     "Syntax/Relative Clause.md",
-    "BBG4E/HW11-Key.md",
     "BBG4E/HW11.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "40-Matthew/Mat.6.25-34.md",
@@ -212,8 +226,6 @@
     "Excalidraw",
     "BG4E-ExpPreaching/Untitled.md",
     "images/Pasted image 20231115105737.png",
-    "BG4E-ExpPreaching/Sermon-4.md",
-    "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "images/Pasted image 20231027085033.png",
     "images/Pasted image 20231024103152.png",
     "images/Pasted image 20231018153851.png",
