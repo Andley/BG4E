@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW11-Key.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5fbdca3424fe76e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c936884013466f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW11-Key.md",
+                "file": "BBG4E/HW11-PreachingNote.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW11-Key.md"
+                "file": "BBG4E/HW11-PreachingNote.md"
               }
             }
           },
@@ -133,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW11-Key.md",
+                "file": "BBG4E/HW11-PreachingNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW11-Key.md",
+                "file": "BBG4E/HW11-PreachingNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,14 +167,14 @@
   },
   "active": "e04139b493c639cc",
   "lastOpenFiles": [
-    "40-Matthew/Mat.7.7-12.md",
     "BBG4E/HW11-Key.md",
+    "BBG4E/HW11-PreachingNote.md",
+    "40-Matthew/Mat.7.7-12.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
     "40-Matthew/Mat.7.1-6.md",
-    "BBG4E/HW11-PreachingNote.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "40-Matthew/Untitled.md",
     "40-Matthew/Untitled 1.md",
