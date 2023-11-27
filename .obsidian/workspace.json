@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "83245eef8668c250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW11-PreachingNote.md"
+                "file": "BBG4E/Untitled.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW11-PreachingNote.md",
+                "file": "BBG4E/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW11-PreachingNote.md",
+                "file": "BBG4E/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e04139b493c639cc",
+  "active": "83245eef8668c250",
   "lastOpenFiles": [
-    "BBG4E/HW11-Key.md",
     "BBG4E/HW11-PreachingNote.md",
+    "BBG4E/Untitled.md",
+    "BBG4E/HW11-Key.md",
     "40-Matthew/Mat.7.7-12.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
@@ -192,7 +206,6 @@
     "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.6.16-18.md",
-    "40-Matthew/Mat.6.5-15.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
