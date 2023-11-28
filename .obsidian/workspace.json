@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9030e00913885be6",
+            "id": "a1dd3aaadaf63df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "3a409ecc1a2fd7ae",
+        "id": "37357abb6c32eead",
         "type": "tabs",
         "children": [
           {
-            "id": "1dced087ee73e8d1",
+            "id": "a909be16e73d4dd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW12-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW12-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/HW12-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,12 +184,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9030e00913885be6",
+  "active": "a1dd3aaadaf63df7",
   "lastOpenFiles": [
-    "BBG4E/HW12-PreachingNote.md",
-    "BBG4E/HW12-Key.md",
-    "BBG4E/HW11-PreachingNote.md",
+    "BG4E-ExpPreaching/Sermon-5b-Key.md",
+    "BG4E-ExpPreaching/Sermon-5a-Key.md",
+    "BG4E-ExpPreaching/Sermon-5b.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
+    "BG4E-ExpPreaching/Sermon-5a.md",
+    "BBG4E/HW12-Key.md",
+    "BBG4E/HW12-PreachingNote.md",
+    "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HWy.md",
     "BBG4E/HWx.md",
     "BBG4E/Vocabulary in Context.md",
@@ -207,10 +212,6 @@
     "BBG4E/HW10-Key.md",
     "40-Matthew/Mat.19.5-6.md",
     "40-Matthew/Mat.7.24-29.md",
-    "40-Matthew/Mat.7.21-23.md",
-    "40-Matthew/Mat.7.15-20.md",
-    "43-John/Joh.20.31.md",
-    "62-1John/123John-Style.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
