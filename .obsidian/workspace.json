@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -186,8 +185,9 @@
   },
   "active": "9030e00913885be6",
   "lastOpenFiles": [
-    "BBG4E/HW11-PreachingNote.md",
+    "BBG4E/HW12-PreachingNote.md",
     "BBG4E/HW12-Key.md",
+    "BBG4E/HW11-PreachingNote.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
     "BBG4E/HWy.md",
     "BBG4E/HWx.md",
@@ -211,7 +211,6 @@
     "40-Matthew/Mat.7.15-20.md",
     "43-John/Joh.20.31.md",
     "62-1John/123John-Style.md",
-    "Syntax/Relative Clause.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
