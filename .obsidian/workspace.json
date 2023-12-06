@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/123John-Style.md"
+                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/123John-Style.md",
+                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,6 +186,7 @@
   },
   "active": "a1dd3aaadaf63df7",
   "lastOpenFiles": [
+    "62-1John/123John-Style.md",
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
     "BG4E-ExpPreaching/Sermon-5a-Key.md",
     "images/Pasted image 20231206094330.png",
