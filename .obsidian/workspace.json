@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md"
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5b-Key.md",
+                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,8 @@
   },
   "active": "a1dd3aaadaf63df7",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-5a-Key.md",
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
+    "BG4E-ExpPreaching/Sermon-5a-Key.md",
     "BBG4E/HW12-Key.md",
     "BG4E-ExpPreaching/Sermon-5b.md",
     "BG4E-ExpPreaching/Sermon-4-Key.md",
