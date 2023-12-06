@@ -31,15 +31,16 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 	- <rt>1Jo 5:3b</rt> <RUBY><ruby><ruby><mark>ἵνα°²</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὰς<rt>commandments</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> (<RUBY><ruby><ruby><strong>τηρῶμεν·</strong><rt>we may keep;</rt></ruby><rt>τηρέω</rt></ruby><rt>V-PAS-1P</rt></RUBY>)P 
 		- ἵνα 從屬子句 同位補充說明上文的 αὕτη。
 
-### (4) ἐιμί 前後只有一個實名詞的時候，主語內含在 ἐιμί 裡面
+### (4) ἐιμί 前後只有一個不帶冠詞的名詞時，主語內含在 ἐιμί 裡面
 
 等同動詞 ἐιμί 通常前後有兩個實名詞 (文法上稱之為：兩價 di-valent)，而且兩個都是主格，一個用作 S (主語)、一個用作 C (補語)。Wallace 提供了判斷哪個是 S、哪個是 C 的原則 (GGBB 42-44 = 華 42-43)，以及優先順序 (GGBB 44-45 = 華 43-44)。
 
-但當 ἐιμί 前後只有一個實名詞 (一價 mono-valent )，而且這個實名詞既不是代名詞，又不是專有名詞、帶冠詞之名詞的時候，主語 (S) 就會內含在動詞裡面。
+但當 ἐιμί 前後只有一個不帶冠詞的名詞 (一價 mono-valent ) 時，主語 (S) 就會內含在動詞裡面。
 
 - ————————
 - 零價 (a-valent) 的經文：
 	- καὶ **ἐσμέν** (1 Jn. 3:1) ⇒ and (we) are 
+	-  ὅτι **ἔστιν** (Heb. 11:6) ⇒ that (He) is
 - ————————
 - 一價 (mono-valent) 的經文：
 	- καὶ σκοτία ἐν αὐτῷ οὐκ **ἔστιν** οὐδεμία. (1 Jn. 1:5) ⇒ and (*there*) is not none-darkness in him.
