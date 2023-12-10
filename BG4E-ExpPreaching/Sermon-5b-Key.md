@@ -65,3 +65,5 @@
 
 
 ### 語意圖析 (Semantic Diagram)
+
+![[../images/Pasted image 20231211062635.png]]
