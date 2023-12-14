@@ -345,7 +345,7 @@ label.color-input-container > input {
   padding: 0;
 }
 
-.excalidraw-settings input {
+.excalidraw-settings input:not([type="color"]) {
   min-width: 10em;
 }
 
@@ -471,4 +471,64 @@ summary.excalidraw-setting-h4 {
 
 hr.excalidraw-setting-hr {
   margin: 1rem 0rem 0rem 0rem;
+}
+
+.excalidraw-mdEmbed-hideFilename .mod-header {
+  display: none;
+}
+
+.excalidraw__embeddable-container .canvas-node:not(.is-editing).transparent {
+  ::-webkit-scrollbar,
+  ::-webkit-scrollbar-horizontal {
+    display: none;
+  }
+}
+
+.canvas-node:not(.is-editing):has(.excalidraw-canvas-immersive) {
+  ::-webkit-scrollbar,
+  ::-webkit-scrollbar-horizontal {
+    display: none;
+  }
+  background-color: transparent !important;
+}
+
+.canvas-node:not(.is-editing) .canvas-node-container:has(.excalidraw-canvas-immersive) {
+  border:       unset;
+  box-shadow:   unset;
+}
+
+.excalidraw .canvas-node .ex-md-font-hand-drawn {
+  --font-text: "Virgil";
+}
+
+.excalidraw .canvas-node .ex-md-font-code {
+  --font-text: "Cascadia";
+}
+
+.excalidraw__embeddable-container .workspace-leaf,
+.excalidraw__embeddable-container .workspace-leaf .view-content {
+  ::-webkit-scrollbar,
+  ::-webkit-scrollbar-horizontal {
+    display: none;
+  }
+  background-color: transparent !important;
+}
+
+.excalidraw__embeddable-container .workspace-leaf-content .view-content {
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.excalidraw__embeddable-container .workspace-leaf .view-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.excalidraw__embeddable-container  .workspace-leaf-content .image-container,
+.excalidraw__embeddable-container .workspace-leaf-content .audio-container,
+.excalidraw__embeddable-container .workspace-leaf-content .video-container {
+  display: flex;
 }
