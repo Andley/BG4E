@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
-                "mode": "preview",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md"
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-5a-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +185,9 @@
   },
   "active": "a1dd3aaadaf63df7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 06.23.07.excalidraw.md",
+    "40-Matthew/Mat.5.1-2.md",
     "BG4E-ExpPreaching/Sermon-5a-Key.md",
+    "Excalidraw/Drawing 2023-12-15 06.23.07.excalidraw.md",
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
     "images/Pasted image 20231211062635.png",
     "62-1John/123John-Style.md",
@@ -213,7 +213,6 @@
     "40-Matthew/Untitled 1.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-    "BBG4E/HW10-Key.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
