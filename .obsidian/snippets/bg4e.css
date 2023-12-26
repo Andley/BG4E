@@ -110,9 +110,10 @@ table {
 }
 
 /*   Ruby Interlinear  */
+
+
 ruby {
-  font-size: 16px ;
-  line-height: 6em;
+line-height:5em;
 }
 
 li ruby {
