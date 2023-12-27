@@ -15,7 +15,7 @@
               "state": {
                 "file": "ASBHR/06.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -23,9 +23,11 @@
             "id": "534d08e50c5a6154",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "66-Revelation/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASBHR/06.md"
+                "file": "66-Revelation/Untitled.md"
               }
             }
           },
@@ -139,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASBHR/06.md",
+                "file": "66-Revelation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASBHR/06.md",
+                "file": "66-Revelation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +196,7 @@
   },
   "active": "534d08e50c5a6154",
   "lastOpenFiles": [
+    "66-Revelation/Rev.1.4-6.md",
     "Untitled.md",
     "62-1John/1John-Interlinear.md",
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
@@ -221,7 +224,6 @@
     "BG4E-ExpPreaching/Sermon-3b-Key.md",
     "BG4E-ExpPreaching/Sermon-3a-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
-    "40-Matthew/Mat.7.1-6.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
