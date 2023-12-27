@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ASBHR/06.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "534d08e50c5a6154",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a54aad2bfba8a51b",
@@ -29,12 +40,8 @@
             "id": "0da434fbb27c642e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "ASBHR/06.md"
               }
             }
           },
@@ -133,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ASBHR/06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "ASBHR/06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -184,10 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4da3cbe939685ac8",
+  "active": "534d08e50c5a6154",
   "lastOpenFiles": [
-    "62-1John/1John-Interlinear.md",
     "Untitled.md",
+    "62-1John/1John-Interlinear.md",
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
     "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
     "43-John/Joh.3.16.md",
