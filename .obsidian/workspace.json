@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASBHR/06.md",
-                "mode": "source",
+                "file": "Mounce-Syntax-Summary.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65069322e9faf4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital-Tools.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASBHR/06.md"
+                "file": "Digital-Tools.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASBHR/06.md",
+                "file": "Digital-Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASBHR/06.md",
+                "file": "Digital-Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +180,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4da3cbe939685ac8",
+  "active": "65069322e9faf4de",
   "lastOpenFiles": [
-    "3-lines-interlinear.md",
+    "cheatsheet.md",
+    "Mounce-Syntax-Summary.md",
+    "open-source.md",
+    "Phrasing-Signs.md",
+    "Quotations.md",
     "README.md",
+    "UNICODE.md",
+    "ASBHR/06.md",
+    "3-lines-interlinear.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/1Jo.1.5-10.md",
@@ -190,13 +210,6 @@
     "images/Pasted image 20231211062635.png",
     "62-1John/123John-Style.md",
     "images/Pasted image 20231206094330.png",
-    "BG4E-ExpPreaching/Sermon-5b.md",
-    "BG4E-ExpPreaching/Sermon-5a.md",
-    "BBG4E/HWy.md",
-    "BBG4E/HWx.md",
-    "BBG4E/Vocabulary in Context.md",
-    "BBG4E/Untitled.md",
-    "BBG4E/HW11-Key.md",
     "Excalidraw",
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
