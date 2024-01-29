@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4da3cbe939685ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mounce-Syntax-Summary.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65069322e9faf4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "58-Hebrews/Heb.1.4-6.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5948bbbaab8e1e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "3-lines-interlinear.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "1df53c93ee96c287",
+        "id": "52dce6565a227cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "324f7bb5485ceb23",
+            "id": "a662d00690b45769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "3-lines-interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -137,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md"
+                "file": "3-lines-interlinear.md"
               }
             }
           },
@@ -158,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "3-lines-interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "3-lines-interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +188,8 @@
   },
   "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
-    "58-Hebrews/Heb.1.4-6.md",
     "58-Hebrews/Heb.1.1-4.md",
+    "58-Hebrews/Heb.1.4-6.md",
     "Digital-Tools.md",
     "cheatsheet.md",
     "Mounce-Syntax-Summary.md",
