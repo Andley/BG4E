@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -185,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5948bbbaab8e1e89",
+  "active": "231cc75aa8517517",
   "lastOpenFiles": [
     "3-lines-interlinear.md",
     "48-Galatians/Galatians-AllinOne.md",
