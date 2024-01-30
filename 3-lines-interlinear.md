@@ -13,4 +13,5 @@
 
 ---
 ## 1-line-interlinear
-  - Rev 3:12 <span title="ὁ&#10;T-NSM&#10;The [one]">Ὁ</span> <span title="νικάω&#10;V-PAP-NSM&#10;overcoming"><em>νικῶν</em></span> <span title="ποιέω&#10;V-FAI-1S&#10;I will make"><strong>ποιήσω</strong></span>  <span title="αὐτός&#10;P-ASM&#10;him">αὐτὸν</span> <span title="στῦλος&#10;N-ASM&#10;a pillar">στῦλον</span> <span title="ἐν&#10;PREP&#10;in">ἐν</span> <span title="ὁ&#10;T-DSM&#10;the">τῷ</span> <span title="ναός&#10;N-DSM&#10;temple">ναῷ</span> <span title="ὁ&#10;T-GSM&#10;of the">τοῦ</span> <span title="θεός&#10;N-GSM&#10;God">Θεοῦ</span> <span title="ἐγώ&#10;P-1GS&#10;of Me">μου</span>
+- Rev 3:12a <mark class='S'><span title="ὁ&#10;T-NSM&#10;The [one]">Ὁ</span> <span title="νικάω&#10;V-PAP-NSM&#10;overcoming"><em>νικῶν</em></span></mark> 
+- 3:!2b <mark class='P'><span title="ποιέω&#10;V-FAI-1S&#10;I will make"><strong>ποιήσω</strong></span></mark>  <mark class='C'><span title="αὐτός&#10;P-ASM&#10;him">αὐτὸν</span></mark> <mark class='C'><span title="στῦλος&#10;N-ASM&#10;a pillar">στῦλον</span></mark> <mark class="A"><span title="ἐν&#10;PREP&#10;in">ἐν</span> <span title="ὁ&#10;T-DSM&#10;the">τῷ</span> <span title="ναός&#10;N-DSM&#10;temple">ναῷ</span> <span title="ὁ&#10;T-GSM&#10;of the">τοῦ</span> <span title="θεός&#10;N-GSM&#10;God">Θεοῦ</span> <span title="ἐγώ&#10;P-1GS&#10;of Me">μου</span></mark>
