@@ -7,7 +7,7 @@ Interlinear  經文 (包括大小寫、標點符號、分行標記 `¬`、段落
 ### Salutation 
 
 #### Gal 1:1-5
-- 1:1 <mark class='S'><span title="Παῦλος&#10;Paul&#10;N-NSM-P">Παῦλος</span></mark> =<mark class='S'><span title="ἀπόστολος&#10;an apostle&#10;N-NSM">ἀπόστολος</span></mark> 
+- 1:1 <mark class='S'><span title="Παῦλος&#10;Paul&#10;N-NSM-P" tabindex="0">Παῦλος</span></mark> =<mark class='S'><span title="ἀπόστολος&#10;an apostle&#10;N-NSM" tabindex="0">ἀπόστολος</span></mark> 
 	- <span title="οὐ&#10;not&#10;PRT-N">οὐκ</span> <span title="ἀπό&#10;from&#10;PREP">ἀπ᾽</span> <span title="ἄνθρωπος&#10;men&#10;N-GPM">ἀνθρώπων</span> 
 	- <span title="οὐδέ&#10;nor&#10;CONJ-N">οὐδὲ</span> <span title="διά&#10;through&#10;PREP">δι᾽</span> <span title="ἄνθρωπος&#10;man&#10;N-GSM">ἀνθρώπου</span> 
 	- <span title="ἀλλά&#10;but&#10;CONJ">ἀλλὰ</span> <span title="διά&#10;through&#10;PREP">διὰ</span> <span title="Ἰησοῦς&#10;Jesus&#10;N-GSM-P">Ἰησοῦ</span> <span title="Χριστός&#10;Christ&#10;N-GSM-T">Χριστοῦ</span> <span title="καί&#10;and&#10;CONJ">καὶ</span> <span title="θεός&#10;God&#10;N-GSM">Θεοῦ</span> <span title="πατήρ&#10;[the] Father&#10;N-GSM">Πατρὸς</span> ={<span title="ὁ&#10;the [One]&#10;T-GSM">τοῦ</span> <mark class='P'><span title="ἐγείρω&#10;having raised&#10;V-AAP-GSM"><em>ἐγείραντος</em></span></mark> <mark class='C'><span title="αὐτός&#10;Him&#10;P-ASM">αὐτὸν</span></mark> <mark class='A'><span title="ἐκ&#10;out from&#10;PREP">ἐκ</span> <span title="νεκρός&#10;[the] dead&#10;A-GPM">νεκρῶν,</span></mark>} 
