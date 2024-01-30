@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "52dce6565a227cb0",
+        "id": "dbb72a27321b1e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "a662d00690b45769",
+            "id": "231cc75aa8517517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-lines-interlinear.md"
+                "file": "48-Galatians/Galatians-AllinOne.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5948bbbaab8e1e89",
+  "active": "231cc75aa8517517",
   "lastOpenFiles": [
+    "3-lines-interlinear.md",
+    "48-Galatians/Galatians-AllinOne.md",
+    "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "48-Galatians/Galatians-Interlinear-TC.md",
+    "48-Galatians/Galatians-Intertextuality.md",
     "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.1.4-6.md",
     "Digital-Tools.md",
@@ -199,7 +205,6 @@
     "README.md",
     "UNICODE.md",
     "ASBHR/06.md",
-    "3-lines-interlinear.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.1-4.md",
     "62-1John/1Jo.1.5-10.md",
@@ -209,11 +214,6 @@
     "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
     "43-John/Joh.3.16.md",
     "BBG4E/HW12-PreachingNote.md",
-    "BBG4E/HW12-Key.md",
-    "BG4E-ExpPreaching/Sermon-4-Key.md",
-    "BBG4E/HW11-PreachingNote.md",
-    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-    "40-Matthew/Mat.5.1-2.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
