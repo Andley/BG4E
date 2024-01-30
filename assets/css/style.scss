@@ -129,3 +129,23 @@ ul ul::before {
 }
 ul ul::before { left: -7px; top: 0; bottom: 0; 
 } 
+
+
+/*Functional Styling*/
+@media (pointer: coarse), (hover: none) {
+  [title] {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+  }
+  [title]:focus::after {
+    content: attr(title);
+    position: absolute;
+    top: 90%;
+    color: #000;
+    background-color: #fff;
+    border: 1px solid;
+    width: fit-content;
+    padding: 3px;
+    font-size: 10px;
+  }
