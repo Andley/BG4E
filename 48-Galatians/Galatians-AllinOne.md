@@ -2,12 +2,11 @@
 
 ## 加拉太書 Interlinear All-in-One
 
-Interlinear 經文 (包括大小寫、標點符號、分行標記 `¬`、段落標記 `¶` ) 出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/58/10001/19999/ch/bcddc003c20c8d1ff1213d3aa3920bdd/)。
+Interlinear  經文 (包括大小寫、標點符號、分行標記 `¬`、段落標記 `¶` ) 出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/58/10001/19999/ch/bcddc003c20c8d1ff1213d3aa3920bdd/)。
 
 ### Salutation 
 
 #### Gal 1:1-5
-
 - 1:1 <mark class='S'><span title="Παῦλος&#10;Paul&#10;N-NSM-P">Παῦλος</span></mark> =<mark class='S'><span title="ἀπόστολος&#10;an apostle&#10;N-NSM">ἀπόστολος</span></mark> 
 	- <span title="οὐ&#10;not&#10;PRT-N">οὐκ</span> <span title="ἀπό&#10;from&#10;PREP">ἀπ᾽</span> <span title="ἄνθρωπος&#10;men&#10;N-GPM">ἀνθρώπων</span> 
 	- <span title="οὐδέ&#10;nor&#10;CONJ-N">οὐδὲ</span> <span title="διά&#10;through&#10;PREP">δι᾽</span> <span title="ἄνθρωπος&#10;man&#10;N-GSM">ἀνθρώπου</span> 

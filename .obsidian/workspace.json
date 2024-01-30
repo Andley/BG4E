@@ -182,11 +182,10 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "231cc75aa8517517",
+  "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
     "3-lines-interlinear.md",
     "48-Galatians/Galatians-AllinOne.md",
