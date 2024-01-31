@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
+                "file": "template/template.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md"
+                "file": "template/template.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
+                "file": "template/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
+                "file": "template/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,9 @@
   },
   "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
-    "3-lines-interlinear.md",
+    "template/template.md",
     "48-Galatians/Galatians-AllinOne.md",
+    "3-lines-interlinear.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Interlinear-TC.md",
@@ -211,7 +212,6 @@
     "BG4E-ExpPreaching/Sermon-5b-Key.md",
     "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
     "43-John/Joh.3.16.md",
-    "BBG4E/HW12-PreachingNote.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
