@@ -14,24 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "3-lines-interlinear.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dbb72a27321b1e0e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "231cc75aa8517517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "preview",
                 "source": true
               }
@@ -186,10 +168,10 @@
   },
   "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
-    "README.md",
-    "template/template.md",
     "48-Galatians/Galatians-AllinOne.md",
     "3-lines-interlinear.md",
+    "README.md",
+    "template/template.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Interlinear-TC.md",
