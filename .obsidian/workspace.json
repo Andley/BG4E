@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4b99570b47c51ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47bb8c16a5e1bff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66-Revelation/Rev.1.4-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-lines-interlinear.md"
+                "file": "62-1John/1Jo.1.1-4.md"
               }
             }
           },
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-lines-interlinear.md",
+                "file": "62-1John/1Jo.1.1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +186,18 @@
   },
   "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-AllinOne.md",
+    "Louw-Nida.md",
+    "Living Greek Resources.md",
+    "Idioms.md",
+    "Digital-Tools.md",
+    "cheatsheet.md",
+    "Biblography.md",
     "3-lines-interlinear.md",
+    "Greek Pedagogy.md",
+    "66-Revelation/Rev.1.4-6.md",
+    "51-Colossians/Col.1.9-20.md",
+    "51-Colossians/Col.1.24–29.md",
+    "48-Galatians/Galatians-AllinOne.md",
     "README.md",
     "template/template.md",
     "48-Galatians/Galatians-Notes.md",
@@ -178,22 +206,12 @@
     "48-Galatians/Galatians-Intertextuality.md",
     "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.1.4-6.md",
-    "Digital-Tools.md",
-    "cheatsheet.md",
     "Mounce-Syntax-Summary.md",
     "open-source.md",
     "Phrasing-Signs.md",
     "Quotations.md",
     "UNICODE.md",
     "ASBHR/06.md",
-    "62-1John/1John-Interlinear.md",
-    "62-1John/1Jo.1.1-4.md",
-    "62-1John/1Jo.1.5-10.md",
-    "66-Revelation/Rev.1.4-6.md",
-    "Untitled.md",
-    "BG4E-ExpPreaching/Sermon-5b-Key.md",
-    "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
-    "43-John/Joh.3.16.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
