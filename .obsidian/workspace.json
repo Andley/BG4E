@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md"
+                "file": "62-1John/1Jo.2.1-6.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.1.1-4.md",
+                "file": "62-1John/1Jo.2.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +186,8 @@
   },
   "active": "5948bbbaab8e1e89",
   "lastOpenFiles": [
+    "62-1John/1Jo.1.5-10.md",
+    "62-1John/1Jo.1.1-4.md",
     "Louw-Nida.md",
     "Living Greek Resources.md",
     "Idioms.md",
@@ -210,8 +212,6 @@
     "open-source.md",
     "Phrasing-Signs.md",
     "Quotations.md",
-    "UNICODE.md",
-    "ASBHR/06.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
