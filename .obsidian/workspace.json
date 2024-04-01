@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5948bbbaab8e1e89",
+            "id": "97577394ce8d02da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
-                "mode": "preview",
+                "file": "42-Luke/Luk.1.5-26.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "4b99570b47c51ea8",
+        "id": "67d2c49e5ac3b9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "47bb8c16a5e1bff9",
+            "id": "672e4c47eb1ba682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md",
+                "file": "42-Luke/Luk.1.5-26.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md"
+                "file": "42-Luke/Luk.1.5-26.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "42-Luke/Luk.1.5-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "62-1John/1Jo.2.1-6.md",
+                "file": "42-Luke/Luk.1.5-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +185,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5948bbbaab8e1e89",
+  "active": "672e4c47eb1ba682",
   "lastOpenFiles": [
+    "42-Luke/Luk.1.1-4.md",
+    "42-Luke/Luk.1.5-26.md",
+    "66-Revelation/Rev.1.4-6.md",
+    "README.md",
+    "42-Luke",
+    "62-1John/1Jo.2.1-6.md",
     "62-1John/1Jo.1.5-10.md",
     "62-1John/1Jo.1.1-4.md",
     "Louw-Nida.md",
@@ -196,11 +203,9 @@
     "Biblography.md",
     "3-lines-interlinear.md",
     "Greek Pedagogy.md",
-    "66-Revelation/Rev.1.4-6.md",
     "51-Colossians/Col.1.9-20.md",
     "51-Colossians/Col.1.24–29.md",
     "48-Galatians/Galatians-AllinOne.md",
-    "README.md",
     "template/template.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Interlinear.md",
@@ -209,9 +214,6 @@
     "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.1.4-6.md",
     "Mounce-Syntax-Summary.md",
-    "open-source.md",
-    "Phrasing-Signs.md",
-    "Quotations.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
