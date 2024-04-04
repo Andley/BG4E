@@ -4,46 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "45a4d50b228ddfe9",
+        "id": "c74a4564c1428622",
         "type": "tabs",
         "children": [
           {
-            "id": "97577394ce8d02da",
+            "id": "1f51649e1d155a48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42-Luke/Luk.1.5-26.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "67d2c49e5ac3b9aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "672e4c47eb1ba682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42-Luke/Luk.1.5-26.md",
+                "file": "BBG4E/HW9-Key.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "e4f530b2c84fe4fa",
+            "id": "8ccc820ed52e9e4a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "BBG4E/Untitled.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -77,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大多學",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42-Luke/Luk.1.5-26.md"
+                "file": "BBG4E/Untitled.md"
               }
             }
           },
@@ -144,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42-Luke/Luk.1.5-26.md",
+                "file": "BBG4E/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42-Luke/Luk.1.5-26.md",
+                "file": "BBG4E/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +180,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4f530b2c84fe4fa",
+  "active": "8ccc820ed52e9e4a",
   "lastOpenFiles": [
-    "42-Luke/Luk.1.1-4.md",
+    "BBG4E/HW9-Key.md",
+    "BBG4E/Untitled.md",
+    "BBG4E/HW9.md",
     "42-Luke/Luk.1.5-26.md",
+    "42-Luke/Luk.1.1-4.md",
     "66-Revelation/Rev.1.4-6.md",
     "README.md",
     "42-Luke",
@@ -222,9 +209,6 @@
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Interlinear-TC.md",
     "48-Galatians/Galatians-Intertextuality.md",
-    "58-Hebrews/Heb.1.1-4.md",
-    "58-Hebrews/Heb.1.4-6.md",
-    "Mounce-Syntax-Summary.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",
