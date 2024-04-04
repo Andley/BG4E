@@ -36,8 +36,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e4f530b2c84fe4fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +196,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "672e4c47eb1ba682",
+  "active": "e4f530b2c84fe4fa",
   "lastOpenFiles": [
     "42-Luke/Luk.1.1-4.md",
     "42-Luke/Luk.1.5-26.md",
