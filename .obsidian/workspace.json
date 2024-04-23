@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/Untitled.md",
-                "mode": "preview",
+                "file": "3-lines-interlinear.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/Untitled.md"
+                "file": "3-lines-interlinear.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/Untitled.md",
+                "file": "3-lines-interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBG4E/Untitled.md",
+                "file": "3-lines-interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,13 +181,13 @@
   },
   "active": "8ccc820ed52e9e4a",
   "lastOpenFiles": [
-    "BBG4E/HW9-Key.md",
+    "README.md",
     "BBG4E/Untitled.md",
+    "BBG4E/HW9-Key.md",
     "BBG4E/HW9.md",
     "42-Luke/Luk.1.5-26.md",
     "42-Luke/Luk.1.1-4.md",
     "66-Revelation/Rev.1.4-6.md",
-    "README.md",
     "42-Luke",
     "62-1John/1Jo.2.1-6.md",
     "62-1John/1Jo.1.5-10.md",
