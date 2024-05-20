@@ -14,15 +14,17 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 - STEPBible: tonos
 - Accordance : combining characters
 - Bibleworks10 : oxia
-#### 鍵盤輸入法
-- [Tyndale Keyboard](https://www.stepbible.org/downloads.jsp) ⇐ 只能輸出 pre-conposed character with oxia (e.g. ά =\u1F71)，不能用
-	- customize 之後就可以用了 😀
-- [Logos Greek Keyboard](https://www.logos.com/product/53264/original-languages-keyboards-for-windows) ⇐ 只能輸出 combining characters (e.g. ά = \u03B1+\u0301), 不能用
-- 正確的 ά = \u03AC
 
-#### Microsoft Polytonic
-![[images/key.png]]
-![[images/Pasted image 20220630200904.png]]
+#### 鍵盤輸入法
+- [Tyndale Keyboard](https://www.stepbible.org/downloads.jsp) 
+	- 只能輸出 pre-composed character with oxia (e.g. ά =\u1F71)，不能用
+	- customize 之後就可以用了 😀
+- [Logos Greek Keyboard](https://www.logos.com/product/53264/original-languages-keyboards-for-windows) 
+	- 只能輸出 combining characters (e.g. ά = \u03B1+\u0301)，不能用
+- Microsoft Polytonic
+	- 可以輸出 tonos (ά U+03AC) 和 oxia (ά U+1F71) 的 pre-composed character，記得要用 tonos ！
+	- ![images/key.png](images/key.png)
+	- ![images/Pasted image 20220630200904.png](images/Pasted%20image%2020220630200904.png)
 
 
 
