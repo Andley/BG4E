@@ -115,13 +115,15 @@ table {
 ruby {
   font-size: 16px ; /* 12pt 字體大小*/
   line-height:5em;
-
+  text-align: center;
 }
+
 rt {
-  font-size: 13px ; /* 10pt 字體大小*/
-  line-height:3.5em;
-
+  font-family: 'Arial Narrow';
+  font-size: 13px ; 
+  padding: 0 3px;
 }
+
 
 li ruby {
   line-height:3.5em;
@@ -129,13 +131,6 @@ li ruby {
 
 li {
   line-height:1.5em;
-}
-
-rt {
-  font-family: 'Arial Narrow';
-  font-size: 13px ; 
-  text-align: center;
-  padding: 0 3px;
 }
 
 strong,  .cm-strong {
@@ -201,3 +196,4 @@ em,  .cm-em {
     padding: 3px;
     font-size: 12px;
   }
+}
