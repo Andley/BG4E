@@ -9,7 +9,7 @@
 	- 11:9e <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>εὑρήσετε,</strong></strong><rt>εὑρίσκω</rt></ruby><rt>you will find</rt></ruby><rt>V-FAI-2P</rt></RUBY>)P 
 	- ⋯⋯⋯⋯⋯⋯⋯
 	- 11:9f (<RUBY><ruby><ruby><strong><strong>κρούετε</strong></strong><rt>κρούω</rt></ruby><rt>knock</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P
-	- 11:9g <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἀνοιγήσεται</strong></strong><rt>ἀνοίγω</rt></ruby><rt>it will be opened</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν·<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)A 
+	- 11:9g <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἀνοιγήσεται</strong></strong><rt>ἀνοίγω</rt></ruby><rt>it will be opened</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν·<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)A 
 	- ————————
 	- 11:10a ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 11:10b (<RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>Everyone</rt></ruby><rt>A-NSM</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><em><em>αἰτῶν</em></em><rt>αἰτέω</rt></ruby><rt>asking</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>λαμβάνει</strong></strong><rt>λαμβάνω</rt></ruby><rt>receives</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P

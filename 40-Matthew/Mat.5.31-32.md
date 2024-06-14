@@ -3,7 +3,7 @@
 
 #### 句法圖析 (Syntax Diagram)
 
-- 5:31a (<RUBY><ruby><ruby><strong>Ἐρρέθη</strong><rt>εἶπον</rt></ruby><rt>It was said</rt></ruby><rt>V-API-3S</rt></RUBY>)P <RUBY><ruby><ruby>δέ <mark class="pm">·</mark><rt>δέ</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> 
+- 5:31a (<RUBY><ruby><ruby><strong>Ἐρρέθη</strong><rt>εἶπον</rt></ruby><rt>It was said</rt></ruby><rt>V-API-3S</rt></RUBY>)P <RUBY><ruby><ruby>δέ <mark class="pm">·</mark><rt>δέ</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> 
 	- ⋯⋯⋯⋯⋯⋯⋯
 		- 5:31b (<RUBY><ruby><ruby>Ὃς<rt>ὅς</rt></ruby><rt>Whoever</rt></ruby><rt>R-NSM</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>-</rt></ruby><rt>PRT</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἀπολύσῃ</strong><rt>ἀπολύω</rt></ruby><rt>shall divorce</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>γυναῖκα<rt>γυνή</rt></ruby><rt>wife</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ <mark class="pm">,</mark><rt>αὐτός</rt></ruby><rt>of him</rt></ruby><rt>P-GSM</rt></RUBY>)C 
 	- 5:31c (<RUBY><ruby><ruby><strong>δότω</strong><rt>δίδωμι</rt></ruby><rt>let him give</rt></ruby><rt>V-AAM-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῇ<rt>αὐτός</rt></ruby><rt>to her</rt></ruby><rt>P-DSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἀποστάσιον <mark class="pm">.</mark><rt>ἀποστάσιον</rt></ruby><rt>a letter of divorce</rt></ruby><rt>N-ASN</rt></RUBY>)C

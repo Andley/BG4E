@@ -28,7 +28,7 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 再看一個例子：
 
 - <rt>1Jo 5:3a</rt> (<RUBY><ruby><ruby>αὕτη°³⮧<rt>This</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>)S <RUBY><ruby><ruby>γάρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>ἐστιν</strong><rt>is</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπη<rt>love</rt></ruby><rt>ἀγάπη</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>[the]</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ,<rt>of God,</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>)C
-	- <rt>1Jo 5:3b</rt> <RUBY><ruby><ruby><mark>ἵνα°²</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὰς<rt>commandments</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> (<RUBY><ruby><ruby><strong>τηρῶμεν·</strong><rt>we may keep;</rt></ruby><rt>τηρέω</rt></ruby><rt>V-PAS-1P</rt></RUBY>)P 
+	- <rt>1Jo 5:3b</rt> <RUBY><ruby><ruby><mark>ἵνα°²</mark><rt>that</rt></ruby><rt>ἵνα</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐντολὰς<rt>commandments</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>of Him</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> (<RUBY><ruby><ruby><strong>τηρῶμεν·</strong><rt>we may keep;</rt></ruby><rt>τηρέω</rt></ruby><rt>V-PAS-1P</rt></RUBY>)P 
 		- ἵνα 從屬子句 同位補充說明上文的 αὕτη。
 
 ### (4) ἐιμί 前後只有一個不帶冠詞的名詞時，主語內含在 ἐιμί 裡面

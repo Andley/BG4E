@@ -2,23 +2,23 @@
 
 - [格 (Case)](#格-case)
   - [主格 (Nominative)](#主格-nominative)
-    - [A. 主要用法 (Primary Uses of the Nominative)](#a-主要用法-primary-uses-of-the-nominative)
+  - [A. 主要用法 (Primary Uses of the Nominative)](#a-主要用法-primary-uses-of-the-nominative)
       - [1. 主詞 (Subject)](#1-主詞-subject)
       - [2. 述詞主格 (Predicate Nominative)](#2-述詞主格-predicate-nominative)
       - [3. 單純同位句型的主格 (Nominative in Simple Apposition)](#3-單純同位句型的主格-nominative-in-simple-apposition)
-    - [B. 獨立用法 (Grammatically Independent Uses of the Nominative)](#b-獨立用法-grammatically-independent-uses-of-the-nominative)
+  - [B. 獨立用法 (Grammatically Independent Uses of the Nominative)](#b-獨立用法-grammatically-independent-uses-of-the-nominative)
       - [4. 獨立主格 (Nominative Absolute)](#4-獨立主格-nominative-absolute)
       - [5. 懸置主格 (Pendent Nominative)](#5-懸置主格-pendent-nominative)
       - [6. 插句主格 (Parenthetic Nominative)](#6-插句主格-parenthetic-nominative)
       - [7. 稱謂主格 (Nominative for Vocative/Nominative of Address)](#7-稱謂主格-nominative-for-vocativenominative-of-address)
       - [8. 驚嘆主格 (Nominative of Exclamation)](#8-驚嘆主格-nominative-of-exclamation)
-    - [C. 取代斜格 (Nominatives in Place of Oblique Cases)](#c-取代斜格-nominatives-in-place-of-oblique-cases)
+  - [C. 取代斜格 (Nominatives in Place of Oblique Cases)](#c-取代斜格-nominatives-in-place-of-oblique-cases)
       - [9. 稱號主格 (Nominative of Appellation)](#9-稱號主格-nominative-of-appellation)
   - [呼格 (Vocative)](#呼格-vocative)
       - [1. 單純的稱呼 (Simple Address)](#1-單純的稱呼-simple-address)
       - [2. 強調的、帶感情的稱呼 (Emphatic/Emotional Address)](#2-強調的帶感情的稱呼-emphaticemotional-address)
   - [所有格 (Genitive)](#所有格-genitive)
-    - [A. 形容用法 (Adjectival Genitive)](#a-形容用法-adjectival-genitive)
+  - [A. 形容用法 (Adjectival Genitive)](#a-形容用法-adjectival-genitive)
       - [1. 描述的所有格 (descriptive Genitive)](#1-描述的所有格-descriptive-genitive)
       - [2. 擁有的所有格 (Possessive Genitive)](#2-擁有的所有格-possessive-genitive)
       - [3. 親屬關係的所有格 (Genitive of Relationship)](#3-親屬關係的所有格-genitive-of-relationship)
@@ -30,56 +30,56 @@
       - [9. 單純同位的所有格 (Genitive in Simple Apposition)](#9-單純同位的所有格-genitive-in-simple-apposition)
       - [10. 附加說明的、同位句型的、定義的所有格 (Epexegetical Genitive, Genitive of Apposition/Definition)](#10-附加說明的同位句型的定義的所有格-epexegetical-genitive-genitive-of-appositiondefinition)
       - [11. 隸屬的所有格 (Genitive of Subordination)](#11-隸屬的所有格-genitive-of-subordination)
-    - [B. 分離用法 (Ablative Genitive)](#b-分離用法-ablative-genitive)
+  - [B. 分離用法 (Ablative Genitive)](#b-分離用法-ablative-genitive)
       - [12. 隔開的所有格 (Genitive of Separation)](#12-隔開的所有格-genitive-of-separation)
       - [12a. 來源的所有格 (Genitive of Source)](#12a-來源的所有格-genitive-of-source)
       - [13. 比較的所有格 (Genitive of Comparison)](#13-比較的所有格-genitive-of-comparison)
-    - [C. 動詞用法 (Verbal Genitive [Genitive Related to a Verbal Noun])](#c-動詞用法-verbal-genitive-genitive-related-to-a-verbal-noun)
+  - [C. 動詞用法 (Verbal Genitive \[Genitive Related to a Verbal Noun\])](#c-動詞用法-verbal-genitive-genitive-related-to-a-verbal-noun)
       - [14. 主詞所有格 (Subjective Genitive)](#14-主詞所有格-subjective-genitive)
       - [15. 受詞所有格 (Objective Genitive)](#15-受詞所有格-objective-genitive)
       - [16. 整全所有格 (Plenary Genitive)](#16-整全所有格-plenary-genitive)
-    - [D. 副詞用法 (Adverbial Genitive)](#d-副詞用法-adverbial-genitive)
+  - [D. 副詞用法 (Adverbial Genitive)](#d-副詞用法-adverbial-genitive)
       - [17. 時間 (Genitive of Time)](#17-時間-genitive-of-time)
       - [18. 關聯 (Genitive of Association)](#18-關聯-genitive-of-association)
-    - [E. 在某些字之後 (After Certain Words)](#e-在某些字之後-after-certain-words)
+  - [E. 在某些字之後 (After Certain Words)](#e-在某些字之後-after-certain-words)
       - [19. 在某些動詞之後，作為直接受詞 (as a Direct Object)](#19-在某些動詞之後作為直接受詞-as-a-direct-object)
       - [20. 在某些形容詞、副詞之後 (After Certain Adjectives/Adverbs)](#20-在某些形容詞副詞之後-after-certain-adjectivesadverbs)
   - [間接受格 (Dative)](#間接受格-dative)
-    - [A. 單純用法 (Pure Dative Uses)](#a-單純用法-pure-dative-uses)
+  - [A. 單純用法 (Pure Dative Uses)](#a-單純用法-pure-dative-uses)
       - [1. 間接受詞的間接受格 (Dative of Indirect Object)](#1-間接受詞的間接受格-dative-of-indirect-object)
       - [2. 利益的間接受格 (Dative of Interest)](#2-利益的間接受格-dative-of-interest)
       - [3. 指涉的、關注的間接受格 (Dative of Reference/Respect)](#3-指涉的關注的間接受格-dative-of-referencerespect)
       - [4. 單純同位的間接受格 (Dative of Simple Apposition)](#4-單純同位的間接受格-dative-of-simple-apposition)
-    - [B. 位置用法 (Local Dative Uses)](#b-位置用法-local-dative-uses)
+  - [B. 位置用法 (Local Dative Uses)](#b-位置用法-local-dative-uses)
       - [5. 表示範圍的間接受格 (Dative of Sphere)](#5-表示範圍的間接受格-dative-of-sphere)
       - [6. 表示時間的間接受格 (Dative of Time)](#6-表示時間的間接受格-dative-of-time)
-    - [C. 憑藉用法 (Instrumental Dative Uses)](#c-憑藉用法-instrumental-dative-uses)
+  - [C. 憑藉用法 (Instrumental Dative Uses)](#c-憑藉用法-instrumental-dative-uses)
       - [7. 關聯的、陪伴的、隨伴的間接受格 (Dative of Association/Accompaniment)](#7-關聯的陪伴的隨伴的間接受格-dative-of-associationaccompaniment)
       - [8. 方式的、副詞的間接受格 (Dative of Manner, Adverbial Dative)](#8-方式的副詞的間接受格-dative-of-manner-adverbial-dative)
       - [9. 途徑的、憑藉的間接受格 (Dative of Means/Instrument)](#9-途徑的憑藉的間接受格-dative-of-meansinstrument)
       - [10. 量度的、程度的間接受格 (Dative of Measure/Degree of Difference)](#10-量度的程度的間接受格-dative-of-measuredegree-of-difference)
       - [11. 原因的間接受格 (Dative of Cause)](#11-原因的間接受格-dative-of-cause)
-    - [D. 在某些字之後 (The Uses of the Dative After Certain Words)](#d-在某些字之後-the-uses-of-the-dative-after-certain-words)
+  - [D. 在某些字之後 (The Uses of the Dative After Certain Words)](#d-在某些字之後-the-uses-of-the-dative-after-certain-words)
       - [12. 直接受詞的間接受格 (Dative of Interest)](#12-直接受詞的間接受格-dative-of-interest)
       - [13. 在某些名詞之後 (After Certain Nouns)](#13-在某些名詞之後-after-certain-nouns)
       - [14. 在某些形容詞之後 (After Certain Adjectives)](#14-在某些形容詞之後-after-certain-adjectives)
   - [直接受格 (Accusative)](#直接受格-accusative)
-    - [A. 名詞用法 (Substantival Uses of the Accusative)](#a-名詞用法-substantival-uses-of-the-accusative)
+  - [A. 名詞用法 (Substantival Uses of the Accusative)](#a-名詞用法-substantival-uses-of-the-accusative)
       - [1. 直接受詞的直接受格 (Accusative of Direct Object)](#1-直接受詞的直接受格-accusative-of-direct-object)
       - [2. 雙重直接受格 (Double Accusative)](#2-雙重直接受格-double-accusative)
       - [3. 述詞的的直接受格 (Predicate Accusative)](#3-述詞的的直接受格-predicate-accusative)
       - [4. 不定詞主詞的的直接受格 (Accusative Subject of the Infinitive)](#4-不定詞主詞的的直接受格-accusative-subject-of-the-infinitive)
       - [5. 單純同位的直接受格 (Accusative in Simple Apposition)](#5-單純同位的直接受格-accusative-in-simple-apposition)
-    - [B. 副詞用法 (Adverbial Uses of the Accusative)](#b-副詞用法-adverbial-uses-of-the-accusative)
+  - [B. 副詞用法 (Adverbial Uses of the Accusative)](#b-副詞用法-adverbial-uses-of-the-accusative)
       - [6. 副詞的、方式的直接受格 (Adverbial Accusative, Accusative of Manner)](#6-副詞的方式的直接受格-adverbial-accusative-accusative-of-manner)
       - [7. 度量的、時空的直接受格 (Accusative of Measure, Extent of Time or Space)](#7-度量的時空的直接受格-accusative-of-measure-extent-of-time-or-space)
       - [8. 關注的、一般指涉的直接受格 (Accusative of Respect, General Reference)](#8-關注的一般指涉的直接受格-accusative-of-respect-general-reference)
 - [冠詞 (The Article)](#冠詞-the-article)
-    - [A. 作為代名詞 (As a Pronoun)⸺部分獨立用法 (Partially Independent Use)](#a-作為代名詞-as-a-pronoun部分獨立用法-partially-independent-use)
+  - [A. 作為代名詞 (As a Pronoun)⸺部分獨立用法 (Partially Independent Use)](#a-作為代名詞-as-a-pronoun部分獨立用法-partially-independent-use)
       - [1. 人稱代名詞 (Personal Pronoun)](#1-人稱代名詞-personal-pronoun)
       - [2. 關係代名詞 (Relative Pronoun)](#2-關係代名詞-relative-pronoun)
       - [3. 所有代名詞 (Possessive Pronoun)](#3-所有代名詞-possessive-pronoun)
-    - [B. 帶出名詞 (with Substantive)⸺修飾用法 (Modifying Use)](#b-帶出名詞-with-substantive修飾用法-modifying-use)
+  - [B. 帶出名詞 (with Substantive)⸺修飾用法 (Modifying Use)](#b-帶出名詞-with-substantive修飾用法-modifying-use)
       - [4. 單純指認 (Simple Identification)](#4-單純指認-simple-identification)
       - [5. 回指前面提過的東西 (Anaphoric, Previous Reference)](#5-回指前面提過的東西-anaphoric-previous-reference)
       - [6. 直指就在眼前的東西 (Deictic/Pointing Article)](#6-直指就在眼前的東西-deicticpointing-article)
@@ -88,8 +88,8 @@
       - [9. 熟知、高知名度 (Well-Known/Celebrity Article)](#9-熟知高知名度-well-knowncelebrity-article)
       - [10. 抽象 (Abstract)](#10-抽象-abstract)
       - [11. 通性化、表示類別的 (Genetic/Categorical Article)](#11-通性化表示類別的-geneticcategorical-article)
-    - [C. 使某字成為名詞 (As a Substantiver)](#c-使某字成為名詞-as-a-substantiver)
-    - [D. 標示某種功能 (As a Function Marker)](#d-標示某種功能-as-a-function-marker)
+  - [C. 使某字成為名詞 (As a Substantiver)](#c-使某字成為名詞-as-a-substantiver)
+  - [D. 標示某種功能 (As a Function Marker)](#d-標示某種功能-as-a-function-marker)
       - [12. 標示形容詞的位置 (to Denote Adjectival Positions)](#12-標示形容詞的位置-to-denote-adjectival-positions)
       - [13. 與所有代名詞連用 (with Possessive Pronouns)](#13-與所有代名詞連用-with-possessive-pronouns)
       - [14. 用於所有格片語 (in Genitive Phrases)](#14-用於所有格片語-in-genitive-phrases)
@@ -98,33 +98,33 @@
       - [17. 與指示詞連用 (with Demonstratives)](#17-與指示詞連用-with-demonstratives)
       - [18. 與主格名詞連用 (with Nominative Nouns)](#18-與主格名詞連用-with-nominative-nouns)
       - [19. 區別主詞 vs. 述詞主格 (Subject vs. Predicate Nominative)，區別受詞 vs. 補語 (Object vs. Complement)](#19-區別主詞-vs-述詞主格-subject-vs-predicate-nominative區別受詞-vs-補語-object-vs-complement)
-    - [E. 無冠詞 (Absence of the Article)](#e-無冠詞-absence-of-the-article)
+  - [E. 無冠詞 (Absence of the Article)](#e-無冠詞-absence-of-the-article)
       - [20. 非特定 (Indefinite)](#20-非特定-indefinite)
       - [21. 定性 (Qualitative)](#21-定性-qualitative)
       - [22. 特定 (Definite)](#22-特定-definite)
 - [語態 (Voice)](#語態-voice)
-    - [A. 主動語態 (Active Voice)](#a-主動語態-active-voice)
+  - [A. 主動語態 (Active Voice)](#a-主動語態-active-voice)
       - [1. 簡單主動 (Simple Active)](#1-簡單主動-simple-active)
       - [2. 使役主動 (Causative/Ergative Active)](#2-使役主動-causativeergative-active)
       - [3. 狀態主動 (Stative Active)](#3-狀態主動-stative-active)
       - [4. 反身主動 (Reflexive Active)](#4-反身主動-reflexive-active)
-    - [B. 關身語態 (Middle Voice)](#b-關身語態-middle-voice)
+  - [B. 關身語態 (Middle Voice)](#b-關身語態-middle-voice)
       - [1. 直接的、反身的、直接反身的關身 (Direct/Reflexive/Direct Reflexive Middle)](#1-直接的反身的直接反身的關身-directreflexivedirect-reflexive-middle)
       - [2. 間接的、間接反身的、受惠的、加強的、動態的關身 (Indirect/Indirect Reflexive/Benefactive/Intensive/Dynamic Middle)](#2-間接的間接反身的受惠的加強的動態的關身-indirectindirect-reflexivebenefactiveintensivedynamic-middle)
       - [3. 使役的關身 (Causative Middle)](#3-使役的關身-causative-middle)
       - [4. 允許的關身 (Permissive Middle)](#4-允許的關身-permissive-middle)
       - [5. 關身形主動意 (Deponent Middle)](#5-關身形主動意-deponent-middle)
-    - [C. 被動語態 (Passive Voice)](#c-被動語態-passive-voice)
+  - [C. 被動語態 (Passive Voice)](#c-被動語態-passive-voice)
       - [1. 簡單被動 (Simple Passive)](#1-簡單被動-simple-passive)
       - [2. 被動形主動意 (Deponent Passive)](#2-被動形主動意-deponent-passive)
 - [語氣 (Mood)](#語氣-mood)
-    - [A. 直說語氣 (Indicative Mood)](#a-直說語氣-indicative-mood)
+  - [A. 直說語氣 (Indicative Mood)](#a-直說語氣-indicative-mood)
       - [1. 宣告 (Declarative Indicative)](#1-宣告-declarative-indicative)
       - [2. 疑問 (Interrogative Indicative)](#2-疑問-interrogative-indicative)
       - [3. 條件 (Conditional Indicative)](#3-條件-conditional-indicative)
       - [4. 潛在 (Potential Indicative)](#4-潛在-potential-indicative)
       - [5. 勸慰、命令、意願 (Cohortative/Command/Volitive Indicative)](#5-勸慰命令意願-cohortativecommandvolitive-indicative)
-    - [B. 假設語氣 (Subjunctive Mood)](#b-假設語氣-subjunctive-mood)
+  - [B. 假設語氣 (Subjunctive Mood)](#b-假設語氣-subjunctive-mood)
       - [1. 勸告、意願 (Hortatory/Volitive Subjunctive)](#1-勸告意願-hortatoryvolitive-subjunctive)
       - [2. 考慮、懷疑 (Deliberative/Dubitative Subjunctive)](#2-考慮懷疑-deliberativedubitative-subjunctive)
       - [3. 強烈否定 (Emphatic Negation Subjunctive)](#3-強烈否定-emphatic-negation-subjunctive)
@@ -135,10 +135,10 @@
       - [8. 間接問句裡的假設語氣 (Subjunctive in Indirect Questions)](#8-間接問句裡的假設語氣-subjunctive-in-indirect-questions)
       - [8. 不定關係子句裡的假設語氣 (Subjunctive in Indefinite Relative Clause)](#8-不定關係子句裡的假設語氣-subjunctive-in-indefinite-relative-clause)
       - [8. 不定時間子句裡的假設語氣 (Subjunctive in Indefinite Temporal Clause)](#8-不定時間子句裡的假設語氣-subjunctive-in-indefinite-temporal-clause)
-    - [C. 期望語氣 (Optative Mood)](#c-期望語氣-optative-mood)
+  - [C. 期望語氣 (Optative Mood)](#c-期望語氣-optative-mood)
       - [1. 意願的、意欲的、可達到之願望的期望語氣 (Voluntative/Volitative Optative, Optative of Obtainable Wish)](#1-意願的意欲的可達到之願望的期望語氣-voluntativevolitative-optative-optative-of-obtainable-wish)
       - [2. 潛在的期望語氣 (Potential Optative)](#2-潛在的期望語氣-potential-optative)
-    - [D. 命令語氣 (Imperative Mood)](#d-命令語氣-imperative-mood)
+  - [D. 命令語氣 (Imperative Mood)](#d-命令語氣-imperative-mood)
       - [1. 命令 (Command)](#1-命令-command)
       - [2. 禁止 (Prohibition)](#2-禁止-prohibition)
       - [3. 請求、請願、客氣的命令 (Request, Entreaty, Polite Command)](#3-請求請願客氣的命令-request-entreaty-polite-command)
@@ -146,26 +146,26 @@
       - [5. 問候 (As a Stereotyped Greeting)](#5-問候-as-a-stereotyped-greeting)
 - [時態 (Tense)](#時態-tense)
   - [現在式時態形式 (Present Tense-Form)](#現在式時態形式-present-tense-form)
-    - [A. 短期的現在式 (Narrow-Band Presents)](#a-短期的現在式-narrow-band-presents)
+  - [A. 短期的現在式 (Narrow-Band Presents)](#a-短期的現在式-narrow-band-presents)
       - [1. 即時的、不定過去的、點狀的現在式 (Instantaneous/Aoristic/Punctiliar Present)](#1-即時的不定過去的點狀的現在式-instantaneousaoristicpunctiliar-present)
       - [2. 進行的、描述的現在式 (Progressive/Descriptive Present)](#2-進行的描述的現在式-progressivedescriptive-present)
-    - [B. 長期 (Broad-Band Presents)](#b-長期-broad-band-presents)
+  - [B. 長期 (Broad-Band Presents)](#b-長期-broad-band-presents)
       - [3. 從過去延伸至今的、仍在進行的現在式 (Extending-from-Past Present, Present of Past Action Still in Progress)](#3-從過去延伸至今的仍在進行的現在式-extending-from-past-present-present-of-past-action-still-in-progress)
       - [4. 重複的現在式 (Iterative Present)](#4-重複的現在式-iterative-present)
       - [5. 習慣的、慣常的、一般的現在式 (Customary/Habitual/General Present)](#5-習慣的慣常的一般的現在式-customaryhabitualgeneral-present)
       - [6. 格言的現在式 (Gnomic Present)](#6-格言的現在式-gnomic-present)
-    - [C. 特殊用法的現在式 (Special Uses of the Presents)](#c-特殊用法的現在式-special-uses-of-the-presents)
+  - [C. 特殊用法的現在式 (Special Uses of the Presents)](#c-特殊用法的現在式-special-uses-of-the-presents)
       - [7. 歷史的、生動的現在式 (Historical/Dramatic Present)](#7-歷史的生動的現在式-historicaldramatic-present)
       - [8. 未來的現在式 (Futuristic Present)](#8-未來的現在式-futuristic-present)
       - [9. 在間述句裡 (Present Retained in Indirect Discourse)](#9-在間述句裡-present-retained-in-indirect-discourse)
   - [不完成式時態形式 (Imperfect Tense-Form)](#不完成式時態形式-imperfect-tense-form)
-    - [A. 短期的不完成式 (Narrow-Band Imperfects)](#a-短期的不完成式-narrow-band-imperfects)
+  - [A. 短期的不完成式 (Narrow-Band Imperfects)](#a-短期的不完成式-narrow-band-imperfects)
       - [1. 進行的、描述的不完成式 (Progressive/Descriptive Imperfect)](#1-進行的描述的不完成式-progressivedescriptive-imperfect)
       - [2. 起始的、表始的、發端的不完成式 (Ingressive/Inchoative/Inceptive Present)](#2-起始的表始的發端的不完成式-ingressiveinchoativeinceptive-present)
-    - [B. 長期的不完成式 (Broad-Band Imperfects)](#b-長期的不完成式-broad-band-imperfects)
+  - [B. 長期的不完成式 (Broad-Band Imperfects)](#b-長期的不完成式-broad-band-imperfects)
       - [3. 重複的不完成式 (Iterative Imperfect)](#3-重複的不完成式-iterative-imperfect)
       - [4. 習慣的、慣常的、一般的不完成式 (Customary/Habitual/General Imperfect)](#4-習慣的慣常的一般的不完成式-customaryhabitualgeneral-imperfect)
-    - [C. 特殊用法的不完成式 (Special Uses of the Imperfects)](#c-特殊用法的不完成式-special-uses-of-the-imperfects)
+  - [C. 特殊用法的不完成式 (Special Uses of the Imperfects)](#c-特殊用法的不完成式-special-uses-of-the-imperfects)
       - [5. 嘗試的、意願的、瀕臨的不完成式 (Conative/Voluntative/Tendential Imperfect)](#5-嘗試的意願的瀕臨的不完成式-conativevoluntativetendential-imperfect)
       - [6. 在間述句裡面 (Imperfect Retained in Indirect Discourse)](#6-在間述句裡面-imperfect-retained-in-indirect-discourse)
   - [未來式時態形式 (Future Tesne-Form)](#未來式時態形式-future-tesne-form)
@@ -182,32 +182,32 @@
       - [6. 預期的、未來的不定過去式 (Proleptic/Futuristic Aorist)](#6-預期的未來的不定過去式-prolepticfuturistic-aorist)
       - [7. 剛過的、生動的不定過去式 (Immediate Past/Dramatic Aorist)](#7-剛過的生動的不定過去式-immediate-pastdramatic-aorist)
   - [現在完成式、過去完成式時態形式 (Perfect and Plluperfect Tense-Form)](#現在完成式過去完成式時態形式-perfect-and-plluperfect-tense-form)
-    - [A. 現在完成式時態形式 (Perfect Tense-Form)](#a-現在完成式時態形式-perfect-tense-form)
+  - [A. 現在完成式時態形式 (Perfect Tense-Form)](#a-現在完成式時態形式-perfect-tense-form)
       - [1. 加強的、結果的現在完成式 (Intensive/Resultative Perfect)](#1-加強的結果的現在完成式-intensiveresultative-perfect)
       - [2. 廣泛的、完成的現在完成式 (Extensive/Consummative Perfect)](#2-廣泛的完成的現在完成式-extensiveconsummative-perfect)
       - [3. 具有現在涵義的現在完成式 (Perfect with a Present Force)](#3-具有現在涵義的現在完成式-perfect-with-a-present-force)
-    - [B. 過去完成式時態形式 (Pluperfect Tense-Form)](#b-過去完成式時態形式-pluperfect-tense-form)
+  - [B. 過去完成式時態形式 (Pluperfect Tense-Form)](#b-過去完成式時態形式-pluperfect-tense-form)
       - [1. 加強的、結果的過去完成式 (Intensive/Resultative Pluperfect)](#1-加強的結果的過去完成式-intensiveresultative-pluperfect)
       - [2. 廣泛的、完成的過去完成式 (Extensive/Consummative Pluperfect)](#2-廣泛的完成的過去完成式-extensiveconsummative-pluperfect)
 - [不定詞 (Infinitive)](#不定詞-infinitive)
-    - [A. 副詞用法 (Adverbial Uses)](#a-副詞用法-adverbial-uses)
+  - [A. 副詞用法 (Adverbial Uses)](#a-副詞用法-adverbial-uses)
       - [1. 目的 (Purpose)](#1-目的-purpose)
       - [2. 結果 (Result)](#2-結果-result)
       - [3. 時間 (Time)](#3-時間-time)
       - [4. 原因 (Cause)](#4-原因-cause)
       - [5. 途徑 (Means)](#5-途徑-means)
       - [6. 補語的 (Complementary)](#6-補語的-complementary)
-    - [B. 名詞用法 (Substantival Uses)](#b-名詞用法-substantival-uses)
+  - [B. 名詞用法 (Substantival Uses)](#b-名詞用法-substantival-uses)
       - [7. 主詞 (Subject)](#7-主詞-subject)
       - [8. 直接受詞 (Direct Object)](#8-直接受詞-direct-object)
       - [9. 間述句 (Indirect Discourse)](#9-間述句-indirect-discourse)
       - [8. 同位句型 (Appositional)](#8-同位句型-appositional)
       - [8. 附加說明 (Epexgetical)](#8-附加說明-epexgetical)
 - [分詞 (Participle)](#分詞-participle)
-    - [A. 形容用法 (Adjectival Participles)](#a-形容用法-adjectival-participles)
+  - [A. 形容用法 (Adjectival Participles)](#a-形容用法-adjectival-participles)
       - [1. 正式的形容用法 (Adjectival Proper)、附屬用法 (Dependent)](#1-正式的形容用法-adjectival-proper附屬用法-dependent)
       - [2. 名詞、獨立用法 (Substantival/Independent)](#2-名詞獨立用法-substantivalindependent)
-    - [B. 與動詞有關的用法 (Verbal Participles)](#b-與動詞有關的用法-verbal-participles)
+  - [B. 與動詞有關的用法 (Verbal Participles)](#b-與動詞有關的用法-verbal-participles)
       - [3. 表示情境的副詞用法 (Adverbial/Circumstantial)](#3-表示情境的副詞用法-adverbialcircumstantial)
       - [4. 附帶狀況 (Attendant Circumstance)](#4-附帶狀況-attendant-circumstance)
       - [5. 迂說 (Periphrastic)](#5-迂說-periphrastic)
@@ -253,7 +253,7 @@
 
 ##### 6. 插句主格 (Parenthetic Nominative)
 
-- <rt>約1:6</rt> <RUBY><ruby><ruby>Ἐγένετο<rt>γίνομαι</rt></ruby><rt>There came</rt></ruby><rt>V-2ADI-3S</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος‚<rt>ἄνθρωπος</rt></ruby><rt>a man</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀπεσταλμένος<rt>ἀποστέλλω</rt></ruby><rt>having been sent</rt></ruby><rt>V-RPP-NSM</rt></RUBY> <RUBY><ruby><ruby>παρὰ<rt>παρά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>θεός</rt></ruby><rt>God;</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ὄνομα</mark><rt>ὄνομα</rt></ruby><rt>[the] name</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννης·<rt>Ἰωάννης</rt></ruby><rt>[was] John.</rt></ruby><rt>N-NSM-P</rt></RUBY> <rt>有一個人，是從神那裡差來的，<mark>名</mark>叫約翰。</rt> 
+- <rt>約1:6</rt> <RUBY><ruby><ruby>Ἐγένετο<rt>γίνομαι</rt></ruby><rt>There came</rt></ruby><rt>V-2ADI-3S</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος‚<rt>ἄνθρωπος</rt></ruby><rt>a man</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀπεσταλμένος<rt>ἀποστέλλω</rt></ruby><rt>having been sent</rt></ruby><rt>V-RPP-NSM</rt></RUBY> <RUBY><ruby><ruby>παρὰ<rt>παρά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>θεός</rt></ruby><rt>God;</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ὄνομα</mark><rt>ὄνομα</rt></ruby><rt>[the] name</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννης·<rt>Ἰωάννης</rt></ruby><rt>[was] John.</rt></ruby><rt>N-NSM-P</rt></RUBY> <rt>有一個人，是從神那裡差來的，<mark>名</mark>叫約翰。</rt> 
 
 ##### 7. 稱謂主格 (Nominative for Vocative/Nominative of Address)
 
@@ -264,24 +264,24 @@
 
 ##### 8. 驚嘆主格 (Nominative of Exclamation)
 
-- <rt>羅7:24</rt> <RUBY><ruby><ruby>Ταλαίπωρος<rt>ταλαίπωρος</rt></ruby><rt>O wretched</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I am</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby><mark>ἄνθρωπος·</mark><rt>ἄνθρωπος</rt></ruby><rt>man!</rt></ruby><rt>N-NSM</rt></RUBY> <rt>我真是苦阿！</rt> 
+- <rt>羅7:24</rt> <RUBY><ruby><ruby>Ταλαίπωρος<rt>ταλαίπωρος</rt></ruby><rt>O wretched</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I am</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby><mark>ἄνθρωπος·</mark><rt>ἄνθρωπος</rt></ruby><rt>man!</rt></ruby><rt>N-NSM</rt></RUBY> <rt>我真是苦阿！</rt> 
 
 ### C. 取代斜格 (Nominatives in Place of Oblique Cases)
 
 ##### 9. 稱號主格 (Nominative of Appellation)
 
-- <rt>約13:13</rt> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>φωνεῖτέ<rt>φωνέω</rt></ruby><rt>call</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>με·<rt>ἐγώ</rt></ruby><rt>Me</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby><mark>Ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>Διδάσκαλος‚</mark><rt>διδάσκαλος</rt></ruby><rt>Teacher</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ·<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>Κύριος‚</mark><rt>κύριος</rt></ruby><rt>Lord‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>你們稱呼我<mark>夫子</mark>，稱呼我<mark>主</mark></rt> 
+- <rt>約13:13</rt> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>φωνεῖτέ<rt>φωνέω</rt></ruby><rt>call</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>με·<rt>ἐγώ</rt></ruby><rt>Me</rt></ruby><rt>P-1AS</rt></RUBY> <RUBY><ruby><ruby><mark>Ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>Διδάσκαλος‚</mark><rt>διδάσκαλος</rt></ruby><rt>Teacher</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ·<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>Κύριος‚</mark><rt>κύριος</rt></ruby><rt>Lord‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>你們稱呼我<mark>夫子</mark>，稱呼我<mark>主</mark></rt> 
 
 ### 呼格 (Vocative)
 
 ##### 1. 單純的稱呼 (Simple Address)
-- <rt>太9:22</rt> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus‚</rt></ruby><rt>N-NSM-P</rt></RUBY> ... <RUBY><ruby><ruby>εἶπεν·<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said‚</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>Θάρσει‚<rt>θαρσέω</rt></ruby><rt>Take courage‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby><mark>θύγατερ·</mark><rt>θυγάτηρ</rt></ruby><rt>daughter;</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>σέσωκέν<rt>σῴζω</rt></ruby><rt>has cured</rt></ruby><rt>V-RAI-3S</rt></RUBY> <RUBY><ruby><ruby>σε.<rt>σύ</rt></ruby><rt>you.</rt></ruby><rt>P-2AS</rt></RUBY> <rt>耶穌…說：<mark>女兒</mark>，放心！你的信救了你。</rt> 
+- <rt>太9:22</rt> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus‚</rt></ruby><rt>N-NSM-P</rt></RUBY> ... <RUBY><ruby><ruby>εἶπεν·<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said‚</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>Θάρσει‚<rt>θαρσέω</rt></ruby><rt>Take courage‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby><mark>θύγατερ·</mark><rt>θυγάτηρ</rt></ruby><rt>daughter;</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>σέσωκέν<rt>σῴζω</rt></ruby><rt>has cured</rt></ruby><rt>V-RAI-3S</rt></RUBY> <RUBY><ruby><ruby>σε.<rt>σύ</rt></ruby><rt>you.</rt></ruby><rt>P-2AS</rt></RUBY> <rt>耶穌…說：<mark>女兒</mark>，放心！你的信救了你。</rt> 
 
-- <rt>路4:23</rt> <RUBY><ruby><ruby>Πάντως<rt>πάντως</rt></ruby><rt>Surely</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἐρεῖτέ<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>you will say</rt></ruby><rt>V-FAI-2P</rt></RUBY> <RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to Me</rt></ruby><rt>P-1DS</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>παραβολὴν<rt>παραβολή</rt></ruby><rt>proverb</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ταύτην·<rt>οὗτος</rt></ruby><rt>this‚</rt></ruby><rt>D-ASF</rt></RUBY> <RUBY><ruby><ruby><mark>Ἰατρέ‚</mark><rt>ἰατρός</rt></ruby><rt>Physician</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>θεράπευσον<rt>θεραπεύω</rt></ruby><rt>heal</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>σεαυτόν·<rt>σεαυτοῦ</rt></ruby><rt>yourself!</rt></ruby><rt>F-2ASM</rt></RUBY> <rt>你們必引這俗語向我說：<mark>醫生</mark>，你醫治自己罷！</rt> 
+- <rt>路4:23</rt> <RUBY><ruby><ruby>Πάντως<rt>πάντως</rt></ruby><rt>Surely</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἐρεῖτέ<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>you will say</rt></ruby><rt>V-FAI-2P</rt></RUBY> <RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to Me</rt></ruby><rt>P-1DS</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>παραβολὴν<rt>παραβολή</rt></ruby><rt>proverb</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ταύτην·<rt>οὗτος</rt></ruby><rt>this‚</rt></ruby><rt>D-ASF</rt></RUBY> <RUBY><ruby><ruby><mark>Ἰατρέ‚</mark><rt>ἰατρός</rt></ruby><rt>Physician</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>θεράπευσον<rt>θεραπεύω</rt></ruby><rt>heal</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>σεαυτόν·<rt>σεαυτοῦ</rt></ruby><rt>yourself!</rt></ruby><rt>F-2ASM</rt></RUBY> <rt>你們必引這俗語向我說：<mark>醫生</mark>，你醫治自己罷！</rt> 
 
 ##### 2. 強調的、帶感情的稱呼 (Emphatic/Emotional Address)
 
-- <rt>太15:28</rt> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῇ·<rt>αὐτός</rt></ruby><rt>to her‚</rt></ruby><rt>P-DSF</rt></RUBY> <RUBY><ruby><ruby>Ὦ<rt>ὦ</rt></ruby><rt>O</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby><mark>γύναι‚</mark><rt>γυνή</rt></ruby><rt>woman‚</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>μεγάλη<rt>μέγας</rt></ruby><rt>great [is]</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις·<rt>πίστις</rt></ruby><rt>faith!</rt></ruby><rt>N-NSF</rt></RUBY> <rt>耶穌說：<mark>婦人</mark>，你的信心是大的！</rt> 
+- <rt>太15:28</rt> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῇ·<rt>αὐτός</rt></ruby><rt>to her‚</rt></ruby><rt>P-DSF</rt></RUBY> <RUBY><ruby><ruby>Ὦ<rt>ὦ</rt></ruby><rt>O</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby><mark>γύναι‚</mark><rt>γυνή</rt></ruby><rt>woman‚</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>μεγάλη<rt>μέγας</rt></ruby><rt>great [is]</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις·<rt>πίστις</rt></ruby><rt>faith!</rt></ruby><rt>N-NSF</rt></RUBY> <rt>耶穌說：<mark>婦人</mark>，你的信心是大的！</rt> 
 
 - <rt>雅2:20</rt> <RUBY><ruby><ruby>Θέλεις<rt>θέλω</rt></ruby><rt>Do you want</rt></ruby><rt>V-PAI-2S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γνῶναι‚<rt>γινώσκω</rt></ruby><rt>to come to know‚</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>ὦ<rt>ὦ</rt></ruby><rt>O</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἄνθρωπε</mark><rt>ἄνθρωπος</rt></ruby><rt>man</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>κενέ‚</mark><rt>κενός</rt></ruby><rt>foolish‚</rt></ruby><rt>A-VSM</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>χωρὶς<rt>χωρίς</rt></ruby><rt>apart from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>ἔργων<rt>ἔργον</rt></ruby><rt>works</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>ἀργή<rt>ἀργός</rt></ruby><rt>worthless</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐστιν;<rt>εἰμί</rt></ruby><rt>is?</rt></ruby><rt>V-PAI-3S</rt></RUBY> <rt><mark>虛浮的人哪</mark>，你願意知道沒有行為的信心是死的麼？</rt> 
 
@@ -297,7 +297,7 @@
 
 - <rt>太26:51</rt> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>δοῦλον<rt>δοῦλος</rt></ruby><rt>servant</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀρχιερέως</mark><rt>ἀρχιερεύς</rt></ruby><rt>high priest‚</rt></ruby><rt>N-GSM</rt></RUBY> <rt><mark>大祭司的</mark>僕人</rt> 
 
-- <rt>約20:28</rt> <RUBY><ruby><ruby>Ἀπεκρίθη<rt>ἀποκρίνω</rt></ruby><rt>Answered</rt></ruby><rt>V-ADI-3S</rt></RUBY> <RUBY><ruby><ruby>Θωμᾶς<rt>Θωμᾶς</rt></ruby><rt>Thomas</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ·<rt>αὐτός</rt></ruby><rt>to Him‚</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Κύριός<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>μου</mark><rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Θεός<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>μου.</mark><rt>ἐγώ</rt></ruby><rt>of me!</rt></ruby><rt>P-1GS</rt></RUBY> <rt>多馬說：<mark>我的</mark>主！<mark>我的</mark>神！</rt> 
+- <rt>約20:28</rt> <RUBY><ruby><ruby>Ἀπεκρίθη<rt>ἀποκρίνω</rt></ruby><rt>Answered</rt></ruby><rt>V-ADI-3S</rt></RUBY> <RUBY><ruby><ruby>Θωμᾶς<rt>Θωμᾶς</rt></ruby><rt>Thomas</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ·<rt>αὐτός</rt></ruby><rt>to Him‚</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Κύριός<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>μου</mark><rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Θεός<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>μου.</mark><rt>ἐγώ</rt></ruby><rt>of me!</rt></ruby><rt>P-1GS</rt></RUBY> <rt>多馬說：<mark>我的</mark>主！<mark>我的</mark>神！</rt> 
 
 ##### 3. 親屬關係的所有格 (Genitive of Relationship)
 
@@ -386,7 +386,7 @@
 
 ##### 14. 主詞所有格 (Subjective Genitive)
 
-- <rt>太24:27</rt> <RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>so</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἔσται<rt>εἰμί</rt></ruby><rt>will be</rt></ruby><rt>V-FDI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>παρουσία<rt>παρουσία</rt></ruby><rt>coming</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Υἱοῦ</mark><rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀνθρώπου·</mark><rt>ἄνθρωπος</rt></ruby><rt>of Man.</rt></ruby><rt>N-GSM</rt></RUBY> <rt><mark>人子的</mark>降臨，也要這樣</rt> 
+- <rt>太24:27</rt> <RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>so</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἔσται<rt>εἰμί</rt></ruby><rt>will be</rt></ruby><rt>V-FDI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>παρουσία<rt>παρουσία</rt></ruby><rt>coming</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Υἱοῦ</mark><rt>υἱός</rt></ruby><rt>Son</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀνθρώπου·</mark><rt>ἄνθρωπος</rt></ruby><rt>of Man.</rt></ruby><rt>N-GSM</rt></RUBY> <rt><mark>人子的</mark>降臨，也要這樣</rt> 
 
 
 - <rt>羅8:35</rt> <RUBY><ruby><ruby>Τίς<rt>τίς</rt></ruby><rt>Who</rt></ruby><rt>I-NSM</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>χωρίσει<rt>χωρίζω</rt></ruby><rt>will separate</rt></ruby><rt>V-FAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Χριστοῦ;</mark><rt>Χριστός</rt></ruby><rt>of Christ?</rt></ruby><rt>N-GSM-T</rt></RUBY> <rt>誰能使我們與<mark>基督的</mark>愛隔絕呢？</rt> 
@@ -396,7 +396,7 @@
 - <rt>太12:31</rt> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>against</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby><mark>Πνεύματος</mark><rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>βλασφημία<rt>βλασφημία</rt></ruby><rt>blasphemy</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἀφεθήσεται.<rt>ἀφίημι</rt></ruby><rt>will be forgiven.</rt></ruby><rt>V-FPI-3S</rt></RUBY> <rt>惟獨褻瀆<mark>聖靈</mark>，總不得赦免。</rt> 
 
 
-- <rt>路11:42</rt> <RUBY><ruby><ruby>οὐαὶ<rt>οὐαί</rt></ruby><rt>woe</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>Φαρισαίοις‚<rt>Φαρισαῖος</rt></ruby><rt>Pharisees‚</rt></ruby><rt>N-DPM-T</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ... <RUBY><ruby><ruby>παρέρχεσθε<rt>παρέρχομαι</rt></ruby><rt>you pass by</rt></ruby><rt>V-PNI-2P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>κρίσιν<rt>κρίσις</rt></ruby><rt>justice</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Θεοῦ·</mark><rt>θεός</rt></ruby><rt>of God.</rt></ruby><rt>N-GSM</rt></RUBY> <rt>你們法利賽人有禍了！因為你們忽略了公義和愛<mark>神</mark></rt> 
+- <rt>路11:42</rt> <RUBY><ruby><ruby>οὐαὶ<rt>οὐαί</rt></ruby><rt>woe</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>Φαρισαίοις‚<rt>Φαρισαῖος</rt></ruby><rt>Pharisees‚</rt></ruby><rt>N-DPM-T</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ... <RUBY><ruby><ruby>παρέρχεσθε<rt>παρέρχομαι</rt></ruby><rt>you pass by</rt></ruby><rt>V-PNI-2P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>κρίσιν<rt>κρίσις</rt></ruby><rt>justice</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>Θεοῦ·</mark><rt>θεός</rt></ruby><rt>of God.</rt></ruby><rt>N-GSM</rt></RUBY> <rt>你們法利賽人有禍了！因為你們忽略了公義和愛<mark>神</mark></rt> 
 
 ##### 16. 整全所有格 (Plenary Genitive)
 
@@ -419,13 +419,13 @@
 - <rt>太23:30</rt>  <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἤμεθα<rt>εἰμί</rt></ruby><rt>we would have been</rt></ruby><rt>V-IMI-1P</rt></RUBY> <RUBY><ruby><ruby><mark>αὐτῶν</mark><rt>αὐτός</rt></ruby><rt>with them</rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>κοινωνοὶ<rt>κοινωνός</rt></ruby><rt>partakers</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>αἵματι<rt>αἷμα</rt></ruby><rt>blood</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>προφητῶν.<rt>προφήτης</rt></ruby><rt>prophets.</rt></ruby><rt>N-GPM</rt></RUBY> <rt>我們必不<mark>和他們</mark>同流先知的血</rt> 
 
 
-- <rt>羅8:17</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τέκνα‚<rt>τέκνον</rt></ruby><rt>children‚</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι·<rt>κληρονόμος</rt></ruby><rt>heirs‚</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>θεός</rt></ruby><rt>of God‚</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>συνκληρονόμοι<rt>συγκληρονόμος</rt></ruby><rt>joint‑heirs</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>Χριστοῦ‚</mark><rt>Χριστός</rt></ruby><rt>of Christ‚</rt></ruby><rt>N-GSM-T</rt></RUBY> <rt>既是兒女，便是後嗣，就是神的後嗣，<mark>和基督</mark>同作後嗣</rt> 
+- <rt>羅8:17</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τέκνα‚<rt>τέκνον</rt></ruby><rt>children‚</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι·<rt>κληρονόμος</rt></ruby><rt>heirs‚</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>κληρονόμοι<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ‚<rt>θεός</rt></ruby><rt>of God‚</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>συνκληρονόμοι<rt>συγκληρονόμος</rt></ruby><rt>joint‑heirs</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>Χριστοῦ‚</mark><rt>Χριστός</rt></ruby><rt>of Christ‚</rt></ruby><rt>N-GSM-T</rt></RUBY> <rt>既是兒女，便是後嗣，就是神的後嗣，<mark>和基督</mark>同作後嗣</rt> 
 
 ### E. 在某些字之後 (After Certain Words)
 
 ##### 19. 在某些動詞之後，作為直接受詞 (as a Direct Object)
 
-- <rt>可5:41</rt> <RUBY><ruby><ruby>κρατήσας<rt>κρατέω</rt></ruby><rt>having taken</rt></ruby><rt>V-AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῆς</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby><mark>χειρὸς</mark><rt>χείρ</rt></ruby><rt>hand</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>παιδίου<rt>παιδίον</rt></ruby><rt>child‚</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῇ·<rt>αὐτός</rt></ruby><rt>to her‚</rt></ruby><rt>P-DSF</rt></RUBY> <RUBY><ruby><ruby>Ταλιθὰ<rt>ταλιθά</rt></ruby><rt>Talitha‚</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>κούμ‚<rt>κοῦμι</rt></ruby><rt>koum!</rt></ruby><rt>ARAM</rt></RUBY> <rt>拉著孩子的<mark>手</mark>，對她說：大利大，古米！</rt> 
+- <rt>可5:41</rt> <RUBY><ruby><ruby>κρατήσας<rt>κρατέω</rt></ruby><rt>having taken</rt></ruby><rt>V-AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῆς</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby><mark>χειρὸς</mark><rt>χείρ</rt></ruby><rt>hand</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>παιδίου<rt>παιδίον</rt></ruby><rt>child‚</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῇ·<rt>αὐτός</rt></ruby><rt>to her‚</rt></ruby><rt>P-DSF</rt></RUBY> <RUBY><ruby><ruby>Ταλιθὰ<rt>ταλιθά</rt></ruby><rt>Talitha‚</rt></ruby><rt>N-VSF</rt></RUBY> <RUBY><ruby><ruby>κούμ‚<rt>κοῦμι</rt></ruby><rt>koum!</rt></ruby><rt>ARAM</rt></RUBY> <rt>拉著孩子的<mark>手</mark>，對她說：大利大，古米！</rt> 
 
 ##### 20. 在某些形容詞、副詞之後 (After Certain Adjectives/Adverbs)
 
@@ -486,7 +486,7 @@
 - <rt>徒9:7</rt> <RUBY><ruby><ruby>Οἱ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἄνδρες<rt>ἀνήρ</rt></ruby><rt>the men</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>συνοδεύοντες<rt>συνοδεύω</rt></ruby><rt>traveling with</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby><mark>αὐτῷ</mark><rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-DSM</rt></RUBY> <rt><mark>與他</mark>同行的人</rt>  
 
 
-- <rt>林後6:14</rt> <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γίνεσθε<rt>γίνομαι</rt></ruby><rt>become</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ἑτεροζυγοῦντες<rt>ἑτεροζυγέω</rt></ruby><rt>unequally yoked together</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀπίστοις·</mark><rt>ἄπιστος</rt></ruby><rt>with unbelievers;</rt></ruby><rt>A-DPM</rt></RUBY> <rt>你們<mark>和不信的</mark>原不相配，不要同負一軛</rt>  
+- <rt>林後6:14</rt> <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γίνεσθε<rt>γίνομαι</rt></ruby><rt>become</rt></ruby><rt>V-PNM-2P</rt></RUBY> <RUBY><ruby><ruby>ἑτεροζυγοῦντες<rt>ἑτεροζυγέω</rt></ruby><rt>unequally yoked together</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀπίστοις·</mark><rt>ἄπιστος</rt></ruby><rt>with unbelievers;</rt></ruby><rt>A-DPM</rt></RUBY> <rt>你們<mark>和不信的</mark>原不相配，不要同負一軛</rt>  
 
 ##### 8. 方式的、副詞的間接受格 (Dative of Manner, Adverbial Dative)
 
@@ -613,7 +613,7 @@
 
 ##### 1. 人稱代名詞 (Personal Pronoun)
 
-- <rt>約4:32</rt> <RUBY><ruby><ruby><mark>Ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY>   <rt>但<mark>耶穌</mark>對他們說</rt>  
+- <rt>約4:32</rt> <RUBY><ruby><ruby><mark>Ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY>   <rt>但<mark>耶穌</mark>對他們說</rt>  
 
 ##### 2. 關係代名詞 (Relative Pronoun)
 - <rt>林前1:18</rt> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>λόγος</rt></ruby><rt>message</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>σταυροῦ<rt>σταυρός</rt></ruby><rt>cross‚</rt></ruby><rt>N-GSM</rt></RUBY> <rt>因為十字架的道理</rt> 
@@ -630,7 +630,7 @@
 
 ##### 4. 單純指認 (Simple Identification)
 
-- <rt>路4:20</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πτύξας<rt>πτύσσω</rt></ruby><rt>having rolled up</rt></ruby><rt>V-AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τὸ</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>βιβλίον</mark><rt>βιβλίον</rt></ruby><rt>scroll‚</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀποδοὺς<rt>ἀποδίδωμι</rt></ruby><rt>having delivered [it]</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῷ</mark><rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>ὑπηρέτῃ</mark><rt>ὑπηρέτης</rt></ruby><rt>attendant‚</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>ἐκάθισεν·<rt>καθίζω</rt></ruby><rt>He sat down‚</rt></ruby><rt>V-AAI-3S</rt></RUBY> <rt>於是把<mark>書</mark>捲起來，交還<mark>執事</mark>，就坐下</rt> 
+- <rt>路4:20</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πτύξας<rt>πτύσσω</rt></ruby><rt>having rolled up</rt></ruby><rt>V-AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τὸ</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>βιβλίον</mark><rt>βιβλίον</rt></ruby><rt>scroll‚</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>ἀποδοὺς<rt>ἀποδίδωμι</rt></ruby><rt>having delivered [it]</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>τῷ</mark><rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>ὑπηρέτῃ</mark><rt>ὑπηρέτης</rt></ruby><rt>attendant‚</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>ἐκάθισεν·<rt>καθίζω</rt></ruby><rt>He sat down‚</rt></ruby><rt>V-AAI-3S</rt></RUBY> <rt>於是把<mark>書</mark>捲起來，交還<mark>執事</mark>，就坐下</rt> 
 
 
 ##### 5. 回指前面提過的東西 (Anaphoric, Previous Reference)
@@ -642,7 +642,7 @@
 
 ##### 6. 直指就在眼前的東西 (Deictic/Pointing Article)
 
-- <rt>太14:15</rt> <RUBY><ruby><ruby>προσῆλθον<rt>προσέρχομαι</rt></ruby><rt>came</rt></ruby><rt>V-2AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>μαθητής</rt></ruby><rt>disciples‚</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Ἔρημός<rt>ἔρημος</rt></ruby><rt>Desolate</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐστιν<rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>ὁ</rt></ruby><rt>this</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>τόπος<rt>τόπος</rt></ruby><rt>place‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>門徒進前來，說：<mark>這</mark>是野地</rt> 
+- <rt>太14:15</rt> <RUBY><ruby><ruby>προσῆλθον<rt>προσέρχομαι</rt></ruby><rt>came</rt></ruby><rt>V-2AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>μαθηταὶ<rt>μαθητής</rt></ruby><rt>disciples‚</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Ἔρημός<rt>ἔρημος</rt></ruby><rt>Desolate</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐστιν<rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>ὁ</mark><rt>ὁ</rt></ruby><rt>this</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>τόπος<rt>τόπος</rt></ruby><rt>place‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>門徒進前來，說：<mark>這</mark>是野地</rt> 
 
 
 ##### 7. 出類拔萃 (Par Excellence)
@@ -696,7 +696,7 @@
 
 ##### 14. 用於所有格片語 (in Genitive Phrases)
 
-- <rt>可1:15</rt> <RUBY><ruby><ruby>ἤγγικεν<rt>ἐγγίζω</rt></ruby><rt>has drawn near</rt></ruby><rt>V-RAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ·<rt>θεός</rt></ruby><rt>of God;</rt></ruby><rt>N-GSM</rt></RUBY> <rt>神的國近了</rt>  
+- <rt>可1:15</rt> <RUBY><ruby><ruby>ἤγγικεν<rt>ἐγγίζω</rt></ruby><rt>has drawn near</rt></ruby><rt>V-RAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ·<rt>θεός</rt></ruby><rt>of God;</rt></ruby><rt>N-GSM</rt></RUBY> <rt>神的國近了</rt>  
 
 ##### 15. 與無格變式的名詞連用 (with Indeclinable Nouns)
 
@@ -758,7 +758,7 @@
 
 - <rt>可15:30</rt> <RUBY><ruby><ruby><mark>σῶσον</mark><rt>σῴζω</rt></ruby><rt>save</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>σεαυτὸν<rt>σεαυτοῦ</rt></ruby><rt>Yourself‚</rt></ruby><rt>F-2ASM</rt></RUBY> <rt>可以<mark>救</mark>自己</rt>  
 
-- <rt>提前4:7</rt> <RUBY><ruby><ruby><mark>γύμναζε</mark><rt>γυμνάζω</rt></ruby><rt>Train</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>rather</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σεαυτὸν<rt>σεαυτοῦ</rt></ruby><rt>yourself</rt></ruby><rt>F-2ASM</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐσέβειαν·<rt>εὐσέβεια</rt></ruby><rt>godliness.</rt></ruby><rt>N-ASF</rt></RUBY> <rt>在敬虔上<mark>操練</mark>自己</rt>  
+- <rt>提前4:7</rt> <RUBY><ruby><ruby><mark>γύμναζε</mark><rt>γυμνάζω</rt></ruby><rt>Train</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>rather</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>σεαυτὸν<rt>σεαυτοῦ</rt></ruby><rt>yourself</rt></ruby><rt>F-2ASM</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐσέβειαν·<rt>εὐσέβεια</rt></ruby><rt>godliness.</rt></ruby><rt>N-ASF</rt></RUBY> <rt>在敬虔上<mark>操練</mark>自己</rt>  
 
 
 ### B. 關身語態 (Middle Voice)
@@ -772,7 +772,7 @@
 
 - <rt>徒5:2</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἐνοσφίσατο</mark><rt>νοσφίζω</rt></ruby><rt>he kept back</rt></ruby><rt>V-AMI-3S</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>τιμῆς‚<rt>τιμή</rt></ruby><rt>proceeds‚</rt></ruby><rt>N-GSF</rt></RUBY> <rt>把價銀<mark>私自留下</mark>幾分</rt>  
 
-- <rt>太27:24</rt>  <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πιλᾶτος<rt>Πιλᾶτος</rt></ruby><rt>Pilate</rt></ruby><rt>N-NSM-P</rt></RUBY> ... <RUBY><ruby><ruby><mark>ἀπενίψατο</mark><rt>ἀπονίπτω</rt></ruby><rt>he washed</rt></ruby><rt>V-AMI-3S</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>χεῖρας<rt>χείρ</rt></ruby><rt>hands</rt></ruby><rt>N-APF</rt></RUBY> ... <RUBY><ruby><ruby>λέγων·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἀθῷός<rt>ἀθῷος</rt></ruby><rt>Guiltless</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>εἰμί</rt></ruby><rt>I am</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>αἵματος<rt>αἷμα</rt></ruby><rt>blood</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τούτου·<rt>οὗτος</rt></ruby><rt>of this.</rt></ruby><rt>D-GSM</rt></RUBY> <rt>彼拉多<mark>洗</mark>手，說：罪不在我</rt>  
+- <rt>太27:24</rt>  <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πιλᾶτος<rt>Πιλᾶτος</rt></ruby><rt>Pilate</rt></ruby><rt>N-NSM-P</rt></RUBY> ... <RUBY><ruby><ruby><mark>ἀπενίψατο</mark><rt>ἀπονίπτω</rt></ruby><rt>he washed</rt></ruby><rt>V-AMI-3S</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>χεῖρας<rt>χείρ</rt></ruby><rt>hands</rt></ruby><rt>N-APF</rt></RUBY> ... <RUBY><ruby><ruby>λέγων·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἀθῷός<rt>ἀθῷος</rt></ruby><rt>Guiltless</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>εἰμί</rt></ruby><rt>I am</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>αἵματος<rt>αἷμα</rt></ruby><rt>blood</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τούτου·<rt>οὗτος</rt></ruby><rt>of this.</rt></ruby><rt>D-GSM</rt></RUBY> <rt>彼拉多<mark>洗</mark>手，說：罪不在我</rt>  
 
 ##### 3. 使役的關身 (Causative Middle)
 
@@ -817,13 +817,13 @@
 
 - <rt>太27:11</rt> <RUBY><ruby><ruby>Σὺ<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NS</rt></RUBY> <RUBY><ruby><ruby><mark>εἶ</mark><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Βασιλεὺς<rt>βασιλεύς</rt></ruby><rt>King</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαίων;<rt>Ἰουδαῖος</rt></ruby><rt>Jews?</rt></ruby><rt>A-GPM-PG</rt></RUBY> <rt>你<mark>是</mark>猶太人的王麼？</rt>  
 
-- <rt>約1:38</rt> <RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>ζητεῖτε;</mark><rt>ζητέω</rt></ruby><rt>seek you?</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>Οἱ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπαν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>they said</rt></ruby><rt>V-2AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ·<rt>αὐτός</rt></ruby><rt>to Him‚</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ῥαββί‚<rt>ῥαββί</rt></ruby><rt>Rabbi</rt></ruby><rt>HEB-T</rt></RUBY> ... <RUBY><ruby><ruby>Ποῦ<rt>ποῦ</rt></ruby><rt>where</rt></ruby><rt>ADV-I</rt></RUBY> <RUBY><ruby><ruby><mark>μένεις;</mark><rt>μένω</rt></ruby><rt>are You staying?</rt></ruby><rt>V-PAI-2S</rt></RUBY> <rt>耶穌問他們說：「<mark>你們要</mark>甚麼？」他們說：「拉比，在那裡<mark>住</mark>？」</rt>  
+- <rt>約1:38</rt> <RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>ζητεῖτε;</mark><rt>ζητέω</rt></ruby><rt>seek you?</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>Οἱ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπαν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>they said</rt></ruby><rt>V-2AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ·<rt>αὐτός</rt></ruby><rt>to Him‚</rt></ruby><rt>P-DSM</rt></RUBY> <RUBY><ruby><ruby>Ῥαββί‚<rt>ῥαββί</rt></ruby><rt>Rabbi</rt></ruby><rt>HEB-T</rt></RUBY> ... <RUBY><ruby><ruby>Ποῦ<rt>ποῦ</rt></ruby><rt>where</rt></ruby><rt>ADV-I</rt></RUBY> <RUBY><ruby><ruby><mark>μένεις;</mark><rt>μένω</rt></ruby><rt>are You staying?</rt></ruby><rt>V-PAI-2S</rt></RUBY> <rt>耶穌問他們說：「<mark>你們要</mark>甚麼？」他們說：「拉比，在那裡<mark>住</mark>？」</rt>  
 
 ##### 3. 條件 (Conditional Indicative)
 
 - <rt>太12:27</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Βεελζεβοὺλ<rt>Βεελζεβούλ</rt></ruby><rt>Beelzebul</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby><mark>ἐκβάλλω</mark><rt>ἐκβάλλω</rt></ruby><rt>cast out</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>δαιμόνια‚<rt>δαιμόνιον</rt></ruby><rt>demons‚</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>υἱοὶ<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τίνι<rt>τίς</rt></ruby><rt>whom</rt></ruby><rt>I-DSM</rt></RUBY> <RUBY><ruby><ruby>ἐκβάλλουσιν;<rt>ἐκβάλλω</rt></ruby><rt>do they cast out?</rt></ruby><rt>V-PAI-3P</rt></RUBY> <rt>我若靠著別西卜<mark>趕</mark>鬼，你們的子弟趕鬼又靠著誰呢？</rt>  
 
-- <rt>約5:46</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἐπιστεύετε</mark><rt>πιστεύω</rt></ruby><rt>you were believing</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>Μωϋσεῖ‚<rt>Μωϋσῆς, Μωσῆς</rt></ruby><rt>Moses‚</rt></ruby><rt>N-DSM-P</rt></RUBY> <RUBY><ruby><ruby>ἐπιστεύετε<rt>πιστεύω</rt></ruby><rt>you would have believed</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἐμοί·<rt>ἐγώ</rt></ruby><rt>Me;</rt></ruby><rt>P-1DS</rt></RUBY> <rt>你們如果<mark>信</mark>摩西，也必信我</rt>  
+- <rt>約5:46</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἐπιστεύετε</mark><rt>πιστεύω</rt></ruby><rt>you were believing</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>Μωϋσεῖ‚<rt>Μωϋσῆς, Μωσῆς</rt></ruby><rt>Moses‚</rt></ruby><rt>N-DSM-P</rt></RUBY> <RUBY><ruby><ruby>ἐπιστεύετε<rt>πιστεύω</rt></ruby><rt>you would have believed</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἐμοί·<rt>ἐγώ</rt></ruby><rt>Me;</rt></ruby><rt>P-1DS</rt></RUBY> <rt>你們如果<mark>信</mark>摩西，也必信我</rt>  
 
 
 ##### 4. 潛在 (Potential Indicative)
@@ -847,7 +847,7 @@
 
 ##### 2. 考慮、懷疑 (Deliberative/Dubitative Subjunctive)
 
-- <rt>太6:31</rt> <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μεριμνήσητε<rt>μεριμνάω</rt></ruby><rt>be anxious‚</rt></ruby><rt>V-AAS-2P</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>φάγωμεν;</mark><rt>φαγεῖν</rt></ruby><rt>shall we eat?</rt></ruby><rt>V-AAS-1P</rt></RUBY> <RUBY><ruby><ruby>ἤ·<rt>ἤ</rt></ruby><rt>Or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>πίωμεν;</mark><rt>πίνω</rt></ruby><rt>shall we drink?</rt></ruby><rt>V-2AAS-1P</rt></RUBY> <RUBY><ruby><ruby>ἤ·<rt>ἤ</rt></ruby><rt>Or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>περιβαλώμεθα;</mark><rt>περιβάλλω</rt></ruby><rt>shall we wear?</rt></ruby><rt>V-2AMS-1P</rt></RUBY> <rt>不要憂慮說：<mark>吃</mark>甚麼？<mark>喝</mark>甚麼？<mark>穿</mark>甚麼？</rt>  
+- <rt>太6:31</rt> <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μεριμνήσητε<rt>μεριμνάω</rt></ruby><rt>be anxious‚</rt></ruby><rt>V-AAS-2P</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>φάγωμεν;</mark><rt>φαγεῖν</rt></ruby><rt>shall we eat?</rt></ruby><rt>V-AAS-1P</rt></RUBY> <RUBY><ruby><ruby>ἤ·<rt>ἤ</rt></ruby><rt>Or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>πίωμεν;</mark><rt>πίνω</rt></ruby><rt>shall we drink?</rt></ruby><rt>V-2AAS-1P</rt></RUBY> <RUBY><ruby><ruby>ἤ·<rt>ἤ</rt></ruby><rt>Or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>περιβαλώμεθα;</mark><rt>περιβάλλω</rt></ruby><rt>shall we wear?</rt></ruby><rt>V-2AMS-1P</rt></RUBY> <rt>不要憂慮說：<mark>吃</mark>甚麼？<mark>喝</mark>甚麼？<mark>穿</mark>甚麼？</rt>  
 
 
 - <rt>可8:37</rt> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>δοῖ</mark><rt>δίδωμι</rt></ruby><rt>shall give</rt></ruby><rt>V-2AAS-3S</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>a man</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀντάλλαγμα<rt>ἀντάλλαγμα</rt></ruby><rt>[as] an exchange</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>for the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ψυχῆς<rt>ψυχή</rt></ruby><rt>soul</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ;<rt>αὐτός</rt></ruby><rt>of him?</rt></ruby><rt>P-GSM</rt></RUBY> <rt>人還能<mark>拿</mark>甚麼換生命呢？</rt>  
@@ -862,7 +862,7 @@
 
 ##### 4. 禁止 (Prohibitive Subjunctive)
 
-- <rt>太1:20</rt> <RUBY><ruby><ruby><mark>μὴ</mark><rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>φοβηθῇς</mark><rt>φοβέω</rt></ruby><rt>you should fear</rt></ruby><rt>V-AOS-2S</rt></RUBY> <RUBY><ruby><ruby>παραλαβεῖν<rt>παραλαμβάνω</rt></ruby><rt>to receive</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>Μαρίαν<rt>Μαρία</rt></ruby><rt>Mary</rt></ruby><rt>N-ASF-P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>[as] the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>γυναῖκά<rt>γυνή</rt></ruby><rt>wife</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of you;</rt></ruby><rt>P-2GS</rt></RUBY> <rt><mark>不要怕！</mark>只管娶過你的妻子馬利亞來</rt>  
+- <rt>太1:20</rt> <RUBY><ruby><ruby><mark>μὴ</mark><rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>φοβηθῇς</mark><rt>φοβέω</rt></ruby><rt>you should fear</rt></ruby><rt>V-AOS-2S</rt></RUBY> <RUBY><ruby><ruby>παραλαβεῖν<rt>παραλαμβάνω</rt></ruby><rt>to receive</rt></ruby><rt>V-2AAN</rt></RUBY> <RUBY><ruby><ruby>Μαρίαν<rt>Μαρία</rt></ruby><rt>Mary</rt></ruby><rt>N-ASF-P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>[as] the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>γυναῖκά<rt>γυνή</rt></ruby><rt>wife</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of you;</rt></ruby><rt>P-2GS</rt></RUBY> <rt><mark>不要怕！</mark>只管娶過你的妻子馬利亞來</rt>  
 
 
 ##### 5. 條件句裡的假設語氣 (Subjunctive in Conditional Sentences)
@@ -876,7 +876,7 @@
 
 ###### 6a. 目的 (Purpose)
 
-- <rt>太12:10</rt> <RUBY><ruby><ruby>ἐπηρώτησαν<rt>ἐπερωτάω</rt></ruby><rt>they asked</rt></ruby><rt>V-AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>Him‚</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>Is</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἔξεστιν<rt>ἔξεστι, ἐξόν</rt></ruby><rt>it lawful</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>on the</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>σάββασιν<rt>σάββατον</rt></ruby><rt>Sabbaths</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>θεραπεῦσαι;<rt>θεραπεύω</rt></ruby><rt>to heal?</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>κατηγορήσωσιν</mark><rt>κατηγορέω</rt></ruby><rt>they might accuse</rt></ruby><rt>V-AAS-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>αὐτός</rt></ruby><rt>Him.</rt></ruby><rt>P-GSM</rt></RUBY> <rt>那裡有一個人枯乾了一隻手。有人問耶穌說：安息日治病可以不可以？意思是要<mark>控告</mark>他。</rt>  
+- <rt>太12:10</rt> <RUBY><ruby><ruby>ἐπηρώτησαν<rt>ἐπερωτάω</rt></ruby><rt>they asked</rt></ruby><rt>V-AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>Him‚</rt></ruby><rt>P-ASM</rt></RUBY> <RUBY><ruby><ruby>λέγοντες·<rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NPM</rt></RUBY> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>Is</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἔξεστιν<rt>ἔξεστι, ἐξόν</rt></ruby><rt>it lawful</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>on the</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>σάββασιν<rt>σάββατον</rt></ruby><rt>Sabbaths</rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>θεραπεῦσαι;<rt>θεραπεύω</rt></ruby><rt>to heal?</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>κατηγορήσωσιν</mark><rt>κατηγορέω</rt></ruby><rt>they might accuse</rt></ruby><rt>V-AAS-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.<rt>αὐτός</rt></ruby><rt>Him.</rt></ruby><rt>P-GSM</rt></RUBY> <rt>那裡有一個人枯乾了一隻手。有人問耶穌說：安息日治病可以不可以？意思是要<mark>控告</mark>他。</rt>  
 
 
 ###### 6b. 結果 (Result)
@@ -891,24 +891,24 @@
 
 ###### 6d. 附加說明 (Epexegetical)
 
-- <rt>路7:6</rt> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἱκανός<rt>ἱκανός</rt></ruby><rt>worthy</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>εἰμί</rt></ruby><rt>I am</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>στέγην<rt>στέγη</rt></ruby><rt>roof</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby><mark>εἰσέλθῃς·</mark><rt>εἰσέρχομαι</rt></ruby><rt>You should come;</rt></ruby><rt>V-2AAS-2S</rt></RUBY> <rt>因你<mark>到</mark>我舍下，我不敢當</rt>  
+- <rt>路7:6</rt> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἱκανός<rt>ἱκανός</rt></ruby><rt>worthy</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>εἰμι<rt>εἰμί</rt></ruby><rt>I am</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>στέγην<rt>στέγη</rt></ruby><rt>roof</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby><mark>εἰσέλθῃς·</mark><rt>εἰσέρχομαι</rt></ruby><rt>You should come;</rt></ruby><rt>V-2AAS-2S</rt></RUBY> <rt>因你<mark>到</mark>我舍下，我不敢當</rt>  
 
 
 ###### 63. 補語 (Complementary)
 
-- <rt>太26:4</rt> <RUBY><ruby><ruby>συνεβουλεύσαντο<rt>συμβουλεύω</rt></ruby><rt>they plotted together‚</rt></ruby><rt>V-AMI-3P</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>in order that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>δόλῳ<rt>δόλος</rt></ruby><rt>by guile</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>κρατήσωσιν</mark><rt>κρατέω</rt></ruby><rt>they might seize</rt></ruby><rt>V-AAS-3P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἀποκτείνωσιν·</mark><rt>ἀποκτείνω</rt></ruby><rt>kill.</rt></ruby><rt>V-AAS-3P</rt></RUBY> <rt>大家商議要用詭計<mark>拿住</mark>耶穌，<mark>殺</mark>他</rt>  
+- <rt>太26:4</rt> <RUBY><ruby><ruby>συνεβουλεύσαντο<rt>συμβουλεύω</rt></ruby><rt>they plotted together‚</rt></ruby><rt>V-AMI-3P</rt></RUBY> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>in order that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-ASM-P</rt></RUBY> <RUBY><ruby><ruby>δόλῳ<rt>δόλος</rt></ruby><rt>by guile</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby><mark>κρατήσωσιν</mark><rt>κρατέω</rt></ruby><rt>they might seize</rt></ruby><rt>V-AAS-3P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark>ἀποκτείνωσιν·</mark><rt>ἀποκτείνω</rt></ruby><rt>kill.</rt></ruby><rt>V-AAS-3P</rt></RUBY> <rt>大家商議要用詭計<mark>拿住</mark>耶穌，<mark>殺</mark>他</rt>  
 
 
 ##### 7. 與表示害怕 ... 等的動詞連用 (Subjunctive with Verbs of Fearing etc.)
 
-- <rt>路21:8</rt> <RUBY><ruby><ruby>Βλέπετε<rt>βλέπω</rt></ruby><rt>Take heed‚</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>lest</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>πλανηθῆτε·</mark><rt>πλανάω</rt></ruby><rt>you be led astray;</rt></ruby><rt>V-APS-2P</rt></RUBY> <rt>你們要謹慎，不要<mark>受迷惑</mark></rt>  
+- <rt>路21:8</rt> <RUBY><ruby><ruby>Βλέπετε<rt>βλέπω</rt></ruby><rt>Take heed‚</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>lest</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>πλανηθῆτε·</mark><rt>πλανάω</rt></ruby><rt>you be led astray;</rt></ruby><rt>V-APS-2P</rt></RUBY> <rt>你們要謹慎，不要<mark>受迷惑</mark></rt>  
 
 - <rt>林前8:9</rt> <RUBY><ruby><ruby>Βλέπετε<rt>βλέπω</rt></ruby><rt>Be careful</rt></ruby><rt>V-PAM-2P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however‚</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μή<rt>μή</rt></ruby><rt>lest</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>πως<rt>πως</rt></ruby><rt>somehow</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐξουσία<rt>ἐξουσία</rt></ruby><rt>right</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>αὕτη<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSF</rt></RUBY> <RUBY><ruby><ruby>πρόσκομμα<rt>πρόσκομμα</rt></ruby><rt>an occasion of stumbling</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby><mark>γένηται</mark><rt>γίνομαι</rt></ruby><rt>becomes</rt></ruby><rt>V-2ADS-3S</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>to those</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἀσθενέσιν.<rt>ἀσθενής</rt></ruby><rt>being weak.</rt></ruby><rt>A-DPM</rt></RUBY> <rt>只是你們要謹慎，恐怕你們這自由竟<mark>成了</mark>那軟弱人的絆腳石。</rt>  
 
 
 ##### 8. 間接問句裡的假設語氣 (Subjunctive in Indirect Questions)
 
-- <rt>太15:32</rt> <RUBY><ruby><ruby>ἤδη<rt>ἤδη</rt></ruby><rt>already</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἡμέραι<rt>ἡμέρα</rt></ruby><rt>days</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>τρεῖς<rt>τρεῖς, τρία</rt></ruby><rt>three</rt></ruby><rt>A-NPF</rt></RUBY> <RUBY><ruby><ruby>προσμένουσίν<rt>προσμένω</rt></ruby><rt>they continue</rt></ruby><rt>V-PAI-3P</rt></RUBY> <RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>with Me‚</rt></ruby><rt>P-1DS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>nothing</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἔχουσιν<rt>ἔχω</rt></ruby><rt>have</rt></ruby><rt>V-PAI-3P</rt></RUBY> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>that</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>φάγωσιν·</mark><rt>φαγεῖν</rt></ruby><rt>they might eat;</rt></ruby><rt>V-AAS-3P</rt></RUBY> <rt>他們同我在這裡已經三天，也沒有<mark>吃的</mark>了</rt>  
+- <rt>太15:32</rt> <RUBY><ruby><ruby>ἤδη<rt>ἤδη</rt></ruby><rt>already</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἡμέραι<rt>ἡμέρα</rt></ruby><rt>days</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>τρεῖς<rt>τρεῖς, τρία</rt></ruby><rt>three</rt></ruby><rt>A-NPF</rt></RUBY> <RUBY><ruby><ruby>προσμένουσίν<rt>προσμένω</rt></ruby><rt>they continue</rt></ruby><rt>V-PAI-3P</rt></RUBY> <RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>with Me‚</rt></ruby><rt>P-1DS</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>nothing</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἔχουσιν<rt>ἔχω</rt></ruby><rt>have</rt></ruby><rt>V-PAI-3P</rt></RUBY> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>that</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby><mark>φάγωσιν·</mark><rt>φαγεῖν</rt></ruby><rt>they might eat;</rt></ruby><rt>V-AAS-3P</rt></RUBY> <rt>他們同我在這裡已經三天，也沒有<mark>吃的</mark>了</rt>  
 
 - <rt>路9:58</rt> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Υἱὸς<rt>υἱός</rt></ruby><rt>the Son</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπου<rt>ἄνθρωπος</rt></ruby><rt>of Man</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἔχει<rt>ἔχω</rt></ruby><rt>has</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>ποῦ<rt>ποῦ</rt></ruby><rt>where</rt></ruby><rt>ADV-I</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>κεφαλὴν<rt>κεφαλή</rt></ruby><rt>head</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><mark>κλίνῃ.</mark><rt>κλίνω</rt></ruby><rt>He might lay.</rt></ruby><rt>V-PAS-3S</rt></RUBY> <rt>只是人子沒有<mark>枕</mark>頭的地方</rt>  
 
@@ -931,13 +931,13 @@
 
 ##### 1. 意願的、意欲的、可達到之願望的期望語氣 (Voluntative/Volitative Optative, Optative of Obtainable Wish)
 
-- <rt>羅3:3</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἠπίστησάν<rt>ἀπιστέω</rt></ruby><rt>disbelieved</rt></ruby><rt>V-AAI-3P</rt></RUBY> <RUBY><ruby><ruby>τινες‚<rt>τις</rt></ruby><rt>some?</rt></ruby><rt>X-NPM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀπιστία<rt>ἀπιστία</rt></ruby><rt>unbelief</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>αὐτός</rt></ruby><rt>of them‚</rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>faithfulness</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καταργήσει;<rt>καταργέω</rt></ruby><rt>will nullify?</rt></ruby><rt>V-FAI-3S</rt></RUBY> <rt>羅3:4</rt> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>Never</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>γένοιτο·</mark><rt>γίνομαι</rt></ruby><rt>may it be!</rt></ruby><rt>V-2ADO-3S</rt></RUBY> <RUBY><ruby><ruby>γινέσθω<rt>γίνομαι</rt></ruby><rt>Let be</rt></ruby><rt>V-PNM-3S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀληθής‚<rt>ἀληθής</rt></ruby><rt>true‚</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>man</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ψεύστης‚<rt>ψεύστης</rt></ruby><rt>a liar‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？斷乎<mark>不能</mark>！不如說，神是真實的，人都是虛謊的。</rt> 
+- <rt>羅3:3</rt> <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἠπίστησάν<rt>ἀπιστέω</rt></ruby><rt>disbelieved</rt></ruby><rt>V-AAI-3P</rt></RUBY> <RUBY><ruby><ruby>τινες‚<rt>τις</rt></ruby><rt>some?</rt></ruby><rt>X-NPM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀπιστία<rt>ἀπιστία</rt></ruby><rt>unbelief</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>αὐτός</rt></ruby><rt>of them‚</rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>faithfulness</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καταργήσει;<rt>καταργέω</rt></ruby><rt>will nullify?</rt></ruby><rt>V-FAI-3S</rt></RUBY> <rt>羅3:4</rt> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>Never</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark>γένοιτο·</mark><rt>γίνομαι</rt></ruby><rt>may it be!</rt></ruby><rt>V-2ADO-3S</rt></RUBY> <RUBY><ruby><ruby>γινέσθω<rt>γίνομαι</rt></ruby><rt>Let be</rt></ruby><rt>V-PNM-3S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀληθής‚<rt>ἀληθής</rt></ruby><rt>true‚</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>man</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ψεύστης‚<rt>ψεύστης</rt></ruby><rt>a liar‚</rt></ruby><rt>N-NSM</rt></RUBY> <rt>即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？斷乎<mark>不能</mark>！不如說，神是真實的，人都是虛謊的。</rt> 
 
 ##### 2. 潛在的期望語氣 (Potential Optative)
 
 - <rt>路1:62</rt> <RUBY><ruby><ruby>ἐνένευον<rt>ἐννεύω</rt></ruby><rt>They were making signs</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>πατρὶ<rt>πατήρ</rt></ruby><rt>father</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of him‚</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark>θέλοι</mark><rt>θέλω</rt></ruby><rt>he might wish</rt></ruby><rt>V-PAO-3S</rt></RUBY> <RUBY><ruby><ruby>καλεῖσθαι<rt>καλέω</rt></ruby><rt>to be called</rt></ruby><rt>V-PPN</rt></RUBY> <RUBY><ruby><ruby>αὐτό.<rt>αὐτός</rt></ruby><rt>him.</rt></ruby><rt>P-ASN</rt></RUBY> <rt>他們就向他父親打手式，問他<mark>要</mark>叫這孩子甚麼名字。</rt>  
 
-- <rt>徒17:18</rt> <RUBY><ruby><ruby>τινες<rt>τις</rt></ruby><rt>some</rt></ruby><rt>X-NPM</rt></RUBY> <RUBY><ruby><ruby>ἔλεγον·<rt>λέγω</rt></ruby><rt>were saying‚</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark>θέλοι</mark><rt>θέλω</rt></ruby><rt>may desire</rt></ruby><rt>V-PAO-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>σπερμολόγος<rt>σπερμολόγος</rt></ruby><rt>babbler</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>οὗτος<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSM</rt></RUBY> <RUBY><ruby><ruby>λέγειν;<rt>λέγω</rt></ruby><rt>to say?</rt></ruby><rt>V-PAN</rt></RUBY> <rt>有的說：這胡言亂語的<mark>要</mark>說甚麼？</rt>  
+- <rt>徒17:18</rt> <RUBY><ruby><ruby>τινες<rt>τις</rt></ruby><rt>some</rt></ruby><rt>X-NPM</rt></RUBY> <RUBY><ruby><ruby>ἔλεγον·<rt>λέγω</rt></ruby><rt>were saying‚</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>‑</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark>θέλοι</mark><rt>θέλω</rt></ruby><rt>may desire</rt></ruby><rt>V-PAO-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>σπερμολόγος<rt>σπερμολόγος</rt></ruby><rt>babbler</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>οὗτος<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSM</rt></RUBY> <RUBY><ruby><ruby>λέγειν;<rt>λέγω</rt></ruby><rt>to say?</rt></ruby><rt>V-PAN</rt></RUBY> <rt>有的說：這胡言亂語的<mark>要</mark>說甚麼？</rt>  
 
 
 ### D. 命令語氣 (Imperative Mood)
@@ -956,22 +956,22 @@
 
 ##### 3. 請求、請願、客氣的命令 (Request, Entreaty, Polite Command)
 
-- <rt>太6:10</rt> <RUBY><ruby><ruby><mark>Ἐλθέτω</mark><rt>ἔρχομαι</rt></ruby><rt>Come</rt></ruby><rt>V-2AAM-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of You;</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby><mark>Γενηθήτω</mark><rt>γίνομαι</rt></ruby><rt>be done</rt></ruby><rt>V-AOM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>θέλημά<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου‚<rt>σύ</rt></ruby><rt>of You‚</rt></ruby><rt>P-2GS</rt></RUBY> ...<rt>太6:11</rt> <RUBY><ruby><ruby>Τὸν<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐπιούσιον<rt>ἐπιούσιος</rt></ruby><rt>daily</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>δὸς</mark><rt>δίδωμι</rt></ruby><rt>grant</rt></ruby><rt>V-2AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>σήμερον·<rt>σήμερον</rt></ruby><rt>today.</rt></ruby><rt>ADV</rt></RUBY> <rt>願你的國<mark>降臨</mark>；願你的旨意<mark>行</mark>在地上...我們日用的飲食，今日<mark>賜給</mark>我們。</rt> 
+- <rt>太6:10</rt> <RUBY><ruby><ruby><mark>Ἐλθέτω</mark><rt>ἔρχομαι</rt></ruby><rt>Come</rt></ruby><rt>V-2AAM-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>βασιλεία</rt></ruby><rt>kingdom</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου·<rt>σύ</rt></ruby><rt>of You;</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby><mark>Γενηθήτω</mark><rt>γίνομαι</rt></ruby><rt>be done</rt></ruby><rt>V-AOM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>θέλημά<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου‚<rt>σύ</rt></ruby><rt>of You‚</rt></ruby><rt>P-2GS</rt></RUBY> ...<rt>太6:11</rt> <RUBY><ruby><ruby>Τὸν<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐπιούσιον<rt>ἐπιούσιος</rt></ruby><rt>daily</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby><mark>δὸς</mark><rt>δίδωμι</rt></ruby><rt>grant</rt></ruby><rt>V-2AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>σήμερον·<rt>σήμερον</rt></ruby><rt>today.</rt></ruby><rt>ADV</rt></RUBY> <rt>願你的國<mark>降臨</mark>；願你的旨意<mark>行</mark>在地上...我們日用的飲食，今日<mark>賜給</mark>我們。</rt> 
 
 - <rt>路11:1</rt> <RUBY><ruby><ruby>Κύριε‚<rt>κύριος</rt></ruby><rt>Lord‚</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby><mark>δίδαξον</mark><rt>διδάσκω</rt></ruby><rt>teach</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>προσεύχεσθαι‚<rt>προσεύχομαι</rt></ruby><rt>to pray‚</rt></ruby><rt>V-PNN</rt></RUBY> <rt>求主<mark>教導</mark>我們禱告</rt>  
 
 
 ##### 4. 允許、容忍 (Permissive Imperative, Imperative of Toleration)
 
-- <rt>太8:31</rt> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐκβάλλεις<rt>ἐκβάλλω</rt></ruby><rt>You cast out</rt></ruby><rt>V-PAI-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς‚<rt>ἐγώ</rt></ruby><rt>us‚</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>ἀπόστειλον<rt>ἀποστέλλω</rt></ruby><rt>send away</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγέλην<rt>ἀγέλη</rt></ruby><rt>herd</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>χοίρων.<rt>χοῖρος</rt></ruby><rt>of pigs.</rt></ruby><rt>N-GPM</rt></RUBY> <rt>太8:32</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby><mark>Ὑπάγετε.</mark><rt>ὑπάγω</rt></ruby><rt>Go.</rt></ruby><rt>V-PAM-2P</rt></RUBY> <rt>若把我們趕出去，就打發我們進入豬群罷！</rt> <rt>耶穌說：<mark>去罷！</mark></rt> 
+- <rt>太8:31</rt> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐκβάλλεις<rt>ἐκβάλλω</rt></ruby><rt>You cast out</rt></ruby><rt>V-PAI-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς‚<rt>ἐγώ</rt></ruby><rt>us‚</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>ἀπόστειλον<rt>ἀποστέλλω</rt></ruby><rt>send away</rt></ruby><rt>V-AAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγέλην<rt>ἀγέλη</rt></ruby><rt>herd</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>χοίρων.<rt>χοῖρος</rt></ruby><rt>of pigs.</rt></ruby><rt>N-GPM</rt></RUBY> <rt>太8:32</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby><mark>Ὑπάγετε.</mark><rt>ὑπάγω</rt></ruby><rt>Go.</rt></ruby><rt>V-PAM-2P</rt></RUBY> <rt>若把我們趕出去，就打發我們進入豬群罷！</rt> <rt>耶穌說：<mark>去罷！</mark></rt> 
 
-- <rt>林前7:15</rt> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ἄπιστος<rt>ἄπιστος</rt></ruby><rt>unbeliever</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>χωρίζεται‚<rt>χωρίζω</rt></ruby><rt>separates himself‚</rt></ruby><rt>V-PPI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>χωριζέσθω·</mark><rt>χωρίζω</rt></ruby><rt>let him separate himself;</rt></ruby><rt>V-PPM-3S</rt></RUBY> <rt>倘若那不信的人要離去，就<mark>由他離去罷！</mark></rt>  
+- <rt>林前7:15</rt> <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ἄπιστος<rt>ἄπιστος</rt></ruby><rt>unbeliever</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>χωρίζεται‚<rt>χωρίζω</rt></ruby><rt>separates himself‚</rt></ruby><rt>V-PPI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>χωριζέσθω·</mark><rt>χωρίζω</rt></ruby><rt>let him separate himself;</rt></ruby><rt>V-PPM-3S</rt></RUBY> <rt>倘若那不信的人要離去，就<mark>由他離去罷！</mark></rt>  
 
 ##### 5. 問候 (As a Stereotyped Greeting)
 
 - <rt>路1:28</rt> <RUBY><ruby><ruby><mark>Χαῖρε‚</mark><rt>χαίρω</rt></ruby><rt>Greetings‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>κεχαριτωμένη‚<rt>χαριτόω</rt></ruby><rt>[you] favored with grace!</rt></ruby><rt>V-RPP-VSF</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Κύριος<rt>κύριος</rt></ruby><rt>Lord [is]</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>μετὰ<rt>μετά</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σοῦ.<rt>σύ</rt></ruby><rt>you.”</rt></ruby><rt>P-2GS</rt></RUBY> <rt><mark>我問你安</mark>，主和你同在了！</rt>  
 
-- <rt>約19:3</rt> <RUBY><ruby><ruby><mark>Χαῖρε</mark><rt>χαίρω</rt></ruby><rt>Hail‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Βασιλεὺς<rt>βασιλεύς</rt></ruby><rt>King</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαίων·<rt>Ἰουδαῖος</rt></ruby><rt>Jews!</rt></ruby><rt>A-GPM-PG</rt></RUBY> <rt><mark>恭喜</mark>，猶太人的王阿！</rt>  
+- <rt>約19:3</rt> <RUBY><ruby><ruby><mark>Χαῖρε</mark><rt>χαίρω</rt></ruby><rt>Hail‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Βασιλεὺς<rt>βασιλεύς</rt></ruby><rt>King</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαίων·<rt>Ἰουδαῖος</rt></ruby><rt>Jews!</rt></ruby><rt>A-GPM-PG</rt></RUBY> <rt><mark>恭喜</mark>，猶太人的王阿！</rt>  
 
 
 <div style="page-break-after: always;"></div>
@@ -984,7 +984,7 @@
 
 ##### 1. 即時的、不定過去的、點狀的現在式 (Instantaneous/Aoristic/Punctiliar Present)
 
-- 可2:5</rt> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> ...<RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>παραλυτικῷ·<rt>παραλυτικός</rt></ruby><rt>paralytic‚</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>Τέκνον‚<rt>τέκνον</rt></ruby><rt>Son‚</rt></ruby><rt>N-VSN</rt></RUBY> <RUBY><ruby><ruby><mark>ἀφίενταί</mark><rt>ἀφίημι</rt></ruby><rt>are forgiven</rt></ruby><rt>V-PPI-3P</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>αἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίαι.<rt>ἁμαρτία</rt></ruby><rt>sins.</rt></ruby><rt>N-NPF</rt></RUBY> <rt>耶穌...說：小子，你的罪<mark>赦了</mark></rt>  
+- 可2:5</rt> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> ...<RUBY><ruby><ruby>λέγει<rt>λέγω</rt></ruby><rt>He says</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>παραλυτικῷ·<rt>παραλυτικός</rt></ruby><rt>paralytic‚</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>Τέκνον‚<rt>τέκνον</rt></ruby><rt>Son‚</rt></ruby><rt>N-VSN</rt></RUBY> <RUBY><ruby><ruby><mark>ἀφίενταί</mark><rt>ἀφίημι</rt></ruby><rt>are forgiven</rt></ruby><rt>V-PPI-3P</rt></RUBY> <RUBY><ruby><ruby>σου<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GS</rt></RUBY> <RUBY><ruby><ruby>αἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίαι.<rt>ἁμαρτία</rt></ruby><rt>sins.</rt></ruby><rt>N-NPF</rt></RUBY> <rt>耶穌...說：小子，你的罪<mark>赦了</mark></rt>  
 
 ##### 2. 進行的、描述的現在式 (Progressive/Descriptive Present)
 
@@ -1054,7 +1054,7 @@
 
 ##### 3. 重複的不完成式 (Iterative Imperfect)
 
-- <rt>約19:3</rt> <RUBY><ruby><ruby><mark>ἔλεγον·</mark><rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>Χαῖρε<rt>χαίρω</rt></ruby><rt>Hail‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <rt><mark>說</mark>：恭喜</rt>  
+- <rt>約19:3</rt> <RUBY><ruby><ruby><mark>ἔλεγον·</mark><rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-IAI-3P</rt></RUBY> <RUBY><ruby><ruby>Χαῖρε<rt>χαίρω</rt></ruby><rt>Hail‚</rt></ruby><rt>V-PAM-2S</rt></RUBY> <rt><mark>說</mark>：恭喜</rt>  
 
 ##### 4. 習慣的、慣常的、一般的不完成式 (Customary/Habitual/General Imperfect)
 
@@ -1089,7 +1089,7 @@
 
 ##### 4. 格言的未來式 (Gnomic Future)
 
-- <rt>羅5:7</rt> <RUBY><ruby><ruby>μόλις<rt>μόλις</rt></ruby><rt>Rarely</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>indeed</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>ὑπέρ</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δικαίου<rt>δίκαιος</rt></ruby><rt>a righteous [man]</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀποθανεῖται·</mark><rt>ἀποθνήσκω</rt></ruby><rt>will die;</rt></ruby><rt>V-FDI-3S</rt></RUBY> <rt>為義人<mark>死</mark>，是少有的</rt>  
+- <rt>羅5:7</rt> <RUBY><ruby><ruby>μόλις<rt>μόλις</rt></ruby><rt>Rarely</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>indeed</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>ὑπέρ</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δικαίου<rt>δίκαιος</rt></ruby><rt>a righteous [man]</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀποθανεῖται·</mark><rt>ἀποθνήσκω</rt></ruby><rt>will die;</rt></ruby><rt>V-FDI-3S</rt></RUBY> <rt>為義人<mark>死</mark>，是少有的</rt>  
 
 
 ### 不定過去式時態形式 (Aorist Tense-Form)
@@ -1111,7 +1111,7 @@
 
 ##### 4. 格言的不定過去式 (Gnomic Aorist)
 
-- <rt>彼前1:24</rt> <RUBY><ruby><ruby><mark>ἐξηράνθη</mark><rt>ξηραίνω</rt></ruby><rt>Withers</rt></ruby><rt>V-API-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>χόρτος<rt>χόρτος</rt></ruby><rt>grass‚</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ἄνθος<rt>ἄνθος</rt></ruby><rt>flower</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby><mark>ἐξέπεσεν·</mark><rt>ἐκπίπτω</rt></ruby><rt>falls away‚</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <rt>草必<mark>枯乾</mark>，花必<mark>凋謝</mark>；</rt>  
+- <rt>彼前1:24</rt> <RUBY><ruby><ruby><mark>ἐξηράνθη</mark><rt>ξηραίνω</rt></ruby><rt>Withers</rt></ruby><rt>V-API-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>χόρτος<rt>χόρτος</rt></ruby><rt>grass‚</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ἄνθος<rt>ἄνθος</rt></ruby><rt>flower</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby><mark>ἐξέπεσεν·</mark><rt>ἐκπίπτω</rt></ruby><rt>falls away‚</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <rt>草必<mark>枯乾</mark>，花必<mark>凋謝</mark>；</rt>  
 
 
 ##### 5. 書信的不定過去式 (Epistolary Aorist)
@@ -1126,7 +1126,7 @@
 
 ##### 7. 剛過的、生動的不定過去式 (Immediate Past/Dramatic Aorist)
 
-- <rt>太26:65</rt>  <RUBY><ruby><ruby>ἴδε<rt>ἴδε</rt></ruby><rt>Behold</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>now‚</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark>ἠκούσατε</mark><rt>ἀκούω</rt></ruby><rt>you have heard</rt></ruby><rt>V-AAI-2P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βλασφημίαν·<rt>βλασφημία</rt></ruby><rt>blasphemy.</rt></ruby><rt>N-ASF</rt></RUBY> <rt>看哪！這僭妄的話，現在你們<mark>都聽見了</mark></rt>  
+- <rt>太26:65</rt>  <RUBY><ruby><ruby>ἴδε<rt>ἴδε</rt></ruby><rt>Behold</rt></ruby><rt>INJ</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>now‚</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark>ἠκούσατε</mark><rt>ἀκούω</rt></ruby><rt>you have heard</rt></ruby><rt>V-AAI-2P</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βλασφημίαν·<rt>βλασφημία</rt></ruby><rt>blasphemy.</rt></ruby><rt>N-ASF</rt></RUBY> <rt>看哪！這僭妄的話，現在你們<mark>都聽見了</mark></rt>  
 
 
 ### 現在完成式、過去完成式時態形式 (Perfect and Plluperfect Tense-Form)
@@ -1231,7 +1231,7 @@
 
 ##### 8. 附加說明 (Epexgetical)
 
-- <rt>約4:32</rt> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>βρῶσιν<rt>βρῶσις</rt></ruby><rt>food</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἔχω<rt>ἔχω</rt></ruby><rt>have</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby><mark>φαγεῖν</mark><rt>φαγεῖν</rt></ruby><rt>to eat</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἣν<rt>ὅς, ἥ</rt></ruby><rt>that</rt></ruby><rt>R-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>οἴδατε.<rt>εἴδω</rt></ruby><rt>know.</rt></ruby><rt>V-RAI-2P</rt></RUBY> <rt>我有食物<mark>吃</mark>，是你們不知道的</rt>  
+- <rt>約4:32</rt> <RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>‑</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἶπεν<rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς·<rt>αὐτός</rt></ruby><rt>to them‚</rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY> <RUBY><ruby><ruby>βρῶσιν<rt>βρῶσις</rt></ruby><rt>food</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἔχω<rt>ἔχω</rt></ruby><rt>have</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby><mark>φαγεῖν</mark><rt>φαγεῖν</rt></ruby><rt>to eat</rt></ruby><rt>V-AAN</rt></RUBY> <RUBY><ruby><ruby>ἣν<rt>ὅς, ἥ</rt></ruby><rt>that</rt></ruby><rt>R-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>οἴδατε.<rt>εἴδω</rt></ruby><rt>know.</rt></ruby><rt>V-RAI-2P</rt></RUBY> <rt>我有食物<mark>吃</mark>，是你們不知道的</rt>  
 
 
 
@@ -1265,7 +1265,7 @@
 
 ###### 3b. 方式 (Manner)
 
-- <rt>太19:22</rt> <RUBY><ruby><ruby>ἀπῆλθεν<rt>ἀπέρχομαι</rt></ruby><rt>he went away</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>λυπούμενος·</mark><rt>λυπέω</rt></ruby><rt>grieving;</rt></ruby><rt>V-PPP-NSM</rt></RUBY> <rt>就<mark>憂憂愁愁的</mark>走了</rt>  
+- <rt>太19:22</rt> <RUBY><ruby><ruby>ἀπῆλθεν<rt>ἀπέρχομαι</rt></ruby><rt>he went away</rt></ruby><rt>V-2AAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>λυπούμενος·</mark><rt>λυπέω</rt></ruby><rt>grieving;</rt></ruby><rt>V-PPP-NSM</rt></RUBY> <rt>就<mark>憂憂愁愁的</mark>走了</rt>  
 
 ###### 3c. 途徑 (Means)
 
@@ -1297,7 +1297,7 @@
 
 ##### 4. 附帶狀況 (Attendant Circumstance)
 
-- <rt>太9:13</rt> <RUBY><ruby><ruby><mark>πορευθέντες</mark><rt>πορεύω</rt></ruby><rt>Having gone</rt></ruby><rt>V-AOP-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however‚</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μάθετε<rt>μανθάνω</rt></ruby><rt>learn</rt></ruby><rt>V-2AAM-2P</rt></RUBY> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-NSN</rt></RUBY> <RUBY><ruby><ruby>ἐστιν·<rt>εἰμί</rt></ruby><rt>is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY> <rt>你們且<mark>去</mark>揣摩這是什麼意思</rt>  
+- <rt>太9:13</rt> <RUBY><ruby><ruby><mark>πορευθέντες</mark><rt>πορεύω</rt></ruby><rt>Having gone</rt></ruby><rt>V-AOP-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however‚</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μάθετε<rt>μανθάνω</rt></ruby><rt>learn</rt></ruby><rt>V-2AAM-2P</rt></RUBY> <RUBY><ruby><ruby>τί<rt>τίς</rt></ruby><rt>what</rt></ruby><rt>I-NSN</rt></RUBY> <RUBY><ruby><ruby>ἐστιν·<rt>εἰμί</rt></ruby><rt>is‚</rt></ruby><rt>V-PAI-3S</rt></RUBY> <rt>你們且<mark>去</mark>揣摩這是什麼意思</rt>  
 
 
 ##### 5. 迂說 (Periphrastic)
@@ -1315,7 +1315,7 @@
 
 ##### 6. 冗贅、贅語 (Redundant/Pleonastic)
 
-- <rt>路12:17</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διελογίζετο<rt>διαλογίζομαι</rt></ruby><rt>he was reasoning</rt></ruby><rt>V-INI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>within</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῷ<rt>ἑαυτοῦ</rt></ruby><rt>himself‚</rt></ruby><rt>F-3DSM</rt></RUBY> <RUBY><ruby><ruby><mark>λέγων·</mark><rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>自己心裡思想<mark>說</mark>：</rt>  
+- <rt>路12:17</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διελογίζετο<rt>διαλογίζομαι</rt></ruby><rt>he was reasoning</rt></ruby><rt>V-INI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>within</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῷ<rt>ἑαυτοῦ</rt></ruby><rt>himself‚</rt></ruby><rt>F-3DSM</rt></RUBY> <RUBY><ruby><ruby><mark>λέγων·</mark><rt>λέγω</rt></ruby><rt>saying‚</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <rt>自己心裡思想<mark>說</mark>：</rt>  
 
 
 ##### 7. 獨立的動詞用法，用作命令語氣 (Independent Verbal Participle as an Imperative)
@@ -1327,6 +1327,6 @@
 
 - <rt>太9:18</rt> <RUBY><ruby><ruby>Ταῦτα<rt>οὗτος</rt></ruby><rt>These things</rt></ruby><rt>D-APN</rt></RUBY> <RUBY><ruby><ruby><mark>αὐτοῦ</mark><rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>λαλοῦντος</mark><rt>λαλέω</rt></ruby><rt>speaking</rt></ruby><rt>V-PAP-GSM</rt></RUBY> ...<RUBY><ruby><ruby>ἄρχων<rt>ἄρχων</rt></ruby><rt>a ruler</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>certain</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐλθὼν<rt>ἔρχομαι</rt></ruby><rt>having come‚</rt></ruby><rt>V-2AAP-NSM</rt></RUBY> <RUBY><ruby><ruby>προσεκύνει<rt>προσκυνέω</rt></ruby><rt>was kneeling down</rt></ruby><rt>V-IAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>to Him‚</rt></ruby><rt>P-DSM</rt></RUBY> <rt><mark>耶穌說</mark>這話<mark>的時候</mark>，有一個管會堂的來拜他</rt>  
 
-- <rt>羅7:3</rt>  <RUBY><ruby><ruby><mark>ζῶντος</mark><rt>ζάω</rt></ruby><rt>being alive</rt></ruby><rt>V-PAP-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀνδρὸς</mark><rt>ἀνήρ</rt></ruby><rt>husband‚</rt></ruby><rt>N-GSM</rt></RUBY> ... <RUBY><ruby><ruby>γένηται<rt>γίνομαι</rt></ruby><rt>she is</rt></ruby><rt>V-2ADS-3S</rt></RUBY> <RUBY><ruby><ruby>ἀνδρὶ<rt>ἀνήρ</rt></ruby><rt>to man</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>ἑτέρῳ·<rt>ἕτερος</rt></ruby><rt>another;</rt></ruby><rt>A-DSM</rt></RUBY> <rt><mark>當丈夫活著</mark>...她若歸於別人</rt>  
+- <rt>羅7:3</rt>  <RUBY><ruby><ruby><mark>ζῶντος</mark><rt>ζάω</rt></ruby><rt>being alive</rt></ruby><rt>V-PAP-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>τοῦ</mark><rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ἀνδρὸς</mark><rt>ἀνήρ</rt></ruby><rt>husband‚</rt></ruby><rt>N-GSM</rt></RUBY> ... <RUBY><ruby><ruby>γένηται<rt>γίνομαι</rt></ruby><rt>she is</rt></ruby><rt>V-2ADS-3S</rt></RUBY> <RUBY><ruby><ruby>ἀνδρὶ<rt>ἀνήρ</rt></ruby><rt>to man</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>ἑτέρῳ·<rt>ἕτερος</rt></ruby><rt>another;</rt></ruby><rt>A-DSM</rt></RUBY> <rt><mark>當丈夫活著</mark>...她若歸於別人</rt>  
 
 - <rt>約5:13</rt>  <RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>ἐξένευσεν<rt>ἐκνεύω</rt></ruby><rt>had moved away‚</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby><mark>ὄχλου</mark><rt>ὄχλος</rt></ruby><rt>a crowd</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark>ὄντος</mark><rt>εἰμί</rt></ruby><rt>being</rt></ruby><rt>V-PAP-GSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>τόπῳ.<rt>τόπος</rt></ruby><rt>place.</rt></ruby><rt>N-DSM</rt></RUBY> <rt><mark>當</mark>那裡<mark>有群眾的時候</mark>，耶穌已經躲開了</rt>

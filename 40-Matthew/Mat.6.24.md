@@ -3,7 +3,7 @@
 
 #### 句法圖析 (Syntax Diagram)
 
-- 6:24a (<RUBY><ruby><ruby>Οὐδεὶς<rt>οὐδείς</rt></ruby><rt>No one</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>δύναται</strong></strong><rt>δύναμαι</rt></ruby><rt>is able</rt></ruby><rt>V-PMI-3S</rt></RUBY>)[^1]P { (<RUBY><ruby><ruby>δυσὶ<rt>δύο</rt></ruby><rt>two</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>κυρίοις<rt>κύριος</rt></ruby><rt>masters</rt></ruby><rt>N-DPM</rt></RUBY>)c (<RUBY><ruby><ruby><em>δουλεύειν <mark class="pm">·</mark></em><rt>δουλεύω</rt></ruby><rt>to serve</rt></ruby><rt>V-PAN</rt></RUBY>)[^2]p }C
+- 6:24a (<RUBY><ruby><ruby>Οὐδεὶς<rt>οὐδείς</rt></ruby><rt>No one</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>δύναται</strong></strong><rt>δύναμαι</rt></ruby><rt>is able</rt></ruby><rt>V-PMI-3S</rt></RUBY>)[^1]P { (<RUBY><ruby><ruby>δυσὶ<rt>δύο</rt></ruby><rt>two</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>κυρίοις<rt>κύριος</rt></ruby><rt>masters</rt></ruby><rt>N-DPM</rt></RUBY>)c (<RUBY><ruby><ruby><em>δουλεύειν <mark class="pm">·</mark></em><rt>δουλεύω</rt></ruby><rt>to serve</rt></ruby><rt>V-PAN</rt></RUBY>)[^2]p }C
 - ⋯⋯⋯⋯⋯⋯⋯
 - 6:24b ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
 - 6:24c <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>either</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἕνα<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-ASM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>μισήσει</strong></strong><rt>μισέω</rt></ruby><rt>he will hate</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P
