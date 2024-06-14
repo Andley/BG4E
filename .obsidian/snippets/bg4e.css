@@ -28,10 +28,12 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
+  --font-text:'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC';
 }
 
 .nav-file-title, .nav-folder-title {
   padding: 0 0 0 15px;
+  font-family: 'Noto Sans', 'Noto Sans TC';
   }
 
 /* BULLET POINT RELATIONSHIP LINES */
@@ -148,7 +150,7 @@ em,  .cm-em {
 
   /* text decoration for marking syntax functions */
   mark {
-    &.pm {background: none;font-weight:900;}
+    &.pm {background: none; font-weight:bolder; font-size:x-large;}
     &.S {background: none; text-decoration: underline double; text-underline-offset: 4px;}
     &.P {background: none; text-decoration: underline wavy; text-underline-offset: 4px;}
     &.C {background: none; text-decoration: underline solid; text-underline-offset: 4px;}
@@ -168,25 +170,4 @@ em,  .cm-em {
     @page {
       margin: 1.5cm 1cm;
     }
-}
-
-
-/*Functional Styling*/
-@media (pointer: coarse), (hover: none) {
-  [title] {
-    position: relative;
-    display: inline-flex;
-    justify-content: center;
-  }
-  [title]:focus::after {
-    content: attr(title);
-    position: absolute;
-    top: 110%;
-    color: #000;
-    background-color: lightgreen;
-    border: 2px solid;
-    width: fit-content;
-    padding: 3px;
-    font-size: 12px;
-  }
 }
