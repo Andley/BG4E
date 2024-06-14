@@ -16,7 +16,7 @@
                 "file": "45-Romans/Rom.4.1-8.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -26,14 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc91b5309e41d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNICODE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f4999c35e6c2d6b4",
@@ -45,9 +57,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Untitled.md",
-                "mode": "preview",
-                "source": true
+                "file": "46-1Corinthians/1Co.11.17-28.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unicode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "45-Romans/Untitled.md"
+                "file": "UNICODE.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "UNICODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "UNICODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +211,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "308b054e3a6d4324",
+  "active": "2cc91b5309e41d7d",
   "lastOpenFiles": [
-    "45-Romans/Untitled.md",
+    "README.md",
     "45-Romans/Rom.11.2.md",
+    "46-1Corinthians/1Co.11.17-28.md",
+    "45-Romans/Untitled.md",
     "45-Romans/Rom.4.1-8.md",
     "60-1Peter/1Peter-Notes.md",
     "60-1Peter/1Peter-Interlinear-TC.md",
@@ -219,14 +234,12 @@
     "48-Galatians/Gal.3.7-14.md",
     "BBG4E/HW9-Key.md",
     "3-lines-interlinear.md",
-    "README.md",
     "BBG4E/Untitled.md",
     "BBG4E/HW9.md",
     "42-Luke/Luk.1.5-26.md",
     "42-Luke/Luk.1.1-4.md",
     "66-Revelation/Rev.1.4-6.md",
     "42-Luke",
-    "62-1John/1Jo.2.1-6.md",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
     "Excalidraw",

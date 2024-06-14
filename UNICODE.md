@@ -6,16 +6,14 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 > The latest versions of Unicode (as of 2016) have now formally deprecated and removed the vowel+oxia combinations from the Greek extended range, leaving only the vowel+tonos from the basic Greek and Coptic range.
 
 
----
-
-### tonos vs. oxia ?
-#### software
+#### tonos vs. oxia ?
+##### software
 - Logos SBL GNT: tonos
 - STEPBible: tonos
 - Accordance : combining characters
 - Bibleworks10 : oxia
 
-#### 鍵盤輸入法
+##### 鍵盤輸入法
 - [Tyndale Keyboard](https://www.stepbible.org/downloads.jsp) 
 	- 只能輸出 pre-composed character with oxia (e.g. ά =\u1F71)，不能用
 	- customize 之後就可以用了 😀
@@ -28,7 +26,7 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 
 
 
-### Macro
+##### Macro
 >
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1F71","replacePattern":"\u03AC"}},
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1F73","replacePattern":"\u03AD"}},
@@ -46,3 +44,8 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1FFB","replacePattern":"\u038F"}},
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1FD3","replacePattern":"\u0390"}},
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1FE3","replacePattern":"\u03B0"}},
+
+
+
+
+### 要用 `U+00B7` · instead of `U+0387` ·
