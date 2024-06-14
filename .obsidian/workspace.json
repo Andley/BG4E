@@ -31,19 +31,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "57f76e9ea2ea4598",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f4999c35e6c2d6b4",
@@ -208,7 +198,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "57f76e9ea2ea4598",
+  "active": "308b054e3a6d4324",
   "lastOpenFiles": [
     "45-Romans/Untitled.md",
     "45-Romans/Rom.11.2.md",
