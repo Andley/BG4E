@@ -28,12 +28,10 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text:'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
 }
 
 .nav-file-title, .nav-folder-title {
   padding: 0 0 0 15px;
-  font-family: 'Noto Sans', 'Noto Sans TC';
   }
 
 /* BULLET POINT RELATIONSHIP LINES */
@@ -65,32 +63,27 @@ ul ul::before {
   text-align: center;
   border-bottom: 4px double ;
   margin-bottom: 26px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-2,.markdown-preview-view h2 {
   color: var(--color2);
   font-size:24px; /* 18pt 字體大小*/
   text-align: center;
   margin-bottom: 24px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-3,.markdown-preview-view h3 {
   color: var(--color3);
   font-size:22px; /* 16pt 字體大小*/
   margin-bottom: 22px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-4,.markdown-preview-view h4 {
   color: var(--color4);
   font-size:19px; /* 14pt 字體大小*/
   margin-bottom: 19px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-5,.markdown-preview-view h5 {
   color: var(--color5);
   font-size:16px; /* 12pt 字體大小*/
   margin-bottom: 16px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 
 /*   Table  */
