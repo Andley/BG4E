@@ -54,10 +54,13 @@ ul ul::before {
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
-  font-size: 13px;
   font-family: "Arial Narrow";
+  font-size: 13px;
 }
 
+.cm-highlightSpace:before {
+    color: yellow;
+}
 /* 標題 */
 .cm-header-1, .markdown-preview-view h1 {
   color: var(--color1);
@@ -106,7 +109,6 @@ table {
 
 /*   Ruby Interlinear  */
 
-
 ruby {
   font-size: 16px ; /* 12pt 字體大小*/
   line-height:5em;
@@ -120,7 +122,6 @@ rt {
   text-align: center;
 }
 
-
 li ruby {
   line-height:3.5em;
 }
@@ -131,27 +132,15 @@ li {
 
 strong,  .cm-strong {
     color: var(--color-strong);
-    font-weight:bolder;
   }
 
 em,  .cm-em {
     color: var(--color-em);
-    font-weight:bold;
-    font-style:italic;
-  }
-
-strong,  .cm-strong {
-    font-weight:bolder;
-  }
-
-em,  .cm-em {
-    font-weight:bold;
-    font-style:italic;
   }
 
   /* text decoration for marking syntax functions */
   mark {
-    &.pm {background: none; font-weight:bolder; font-size:x-large;}
+    &.pm {background: none; font-weight:bolder;}
     &.S {background: none; text-decoration: underline double; text-underline-offset: 4px;}
     &.P {background: none; text-decoration: underline wavy; text-underline-offset: 4px;}
     &.C {background: none; text-decoration: underline solid; text-underline-offset: 4px;}
@@ -165,7 +154,7 @@ em,  .cm-em {
 
 @media print {
     body {
-      --font-text: 'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC'  !important;
+      --font-text: 'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC', 'Noto Sans SC'  !important;
     }
 
     @page {

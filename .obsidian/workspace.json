@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -184,7 +185,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e686533d52be5b6a",
+  "active": "7aa24819330ce429",
   "lastOpenFiles": [
     "57-Philemon/Phm.1.4-7.md",
     "57-Philemon/Phm-Notes.md",
