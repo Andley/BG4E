@@ -12,7 +12,7 @@
   --text-accent:lightgreen;
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
-  --font-text:'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC';
+  --font-text:'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC', 'Noto Sans SC';
   }
 
 .theme-light {
