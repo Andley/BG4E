@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
-                "mode": "preview",
+                "file": "57-Philemon/Phm-Notes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md"
+                "file": "57-Philemon/Phm-Notes.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
+                "file": "57-Philemon/Phm-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57-Philemon/Phm.1.4-7.md",
+                "file": "57-Philemon/Phm-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,8 @@
   },
   "active": "e686533d52be5b6a",
   "lastOpenFiles": [
-    "57-Philemon/Phm-Notes.md",
     "57-Philemon/Phm.1.4-7.md",
+    "57-Philemon/Phm-Notes.md",
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.1.3-9.md",
     "50-Philippians/Php.2.1-11.md",
