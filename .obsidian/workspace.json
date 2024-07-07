@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6588f2406949dc",
+        "id": "3653877dc6637423",
         "type": "tabs",
         "children": [
           {
-            "id": "e686533d52be5b6a",
+            "id": "6b61999a9ac1b11b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57-Philemon/Phm-Notes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ac5f56b9c61bf69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7aa24819330ce429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57-Philemon/Phm-Notes.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "57-Philemon/Phm-Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "57-Philemon/Phm-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "57-Philemon/Phm-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +159,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7aa24819330ce429",
+  "active": "6b61999a9ac1b11b",
   "lastOpenFiles": [
-    "57-Philemon/Phm.1.4-7.md",
+    "47-2Corinthians/2Co.3.7-18.md",
+    "47-2Corinthians/2Co.3.1-6.md",
     "57-Philemon/Phm-Notes.md",
+    "57-Philemon/Phm.1.4-7.md",
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.1.3-9.md",
     "50-Philippians/Php.2.1-11.md",
@@ -211,8 +187,6 @@
     "60-1Peter/1Pe.3.7.md",
     "60-1Peter/1Peter-Vocabulary.md",
     "60-1Peter/1Peter-Clause.md",
-    "60-1Peter/1Peter-Interlinear.md",
-    "50-Philippians/Philippians-Notes.md",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
