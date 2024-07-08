@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3653877dc6637423",
+        "id": "1bf8b72e93af0653",
         "type": "tabs",
         "children": [
           {
-            "id": "6b61999a9ac1b11b",
+            "id": "28e346bdaef54f4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -159,8 +158,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b61999a9ac1b11b",
+  "active": "28e346bdaef54f4f",
   "lastOpenFiles": [
+    "45-Romans/Romans-Notes.md",
+    "45-Romans/Rom.1.8-15.md",
+    "45-Romans/Rom.1-7.md",
+    "45-Romans/Romans-Vocabulary.md",
+    "45-Romans/Romans-Clause.md",
+    "45-Romans/Romans-Interlinear.md",
     "47-2Corinthians/2Co.3.7-18.md",
     "47-2Corinthians/2Co.3.1-6.md",
     "57-Philemon/Phm-Notes.md",
@@ -172,9 +177,6 @@
     "48-Galatians/Gal.1.10.md",
     "48-Galatians/Gal.1.6-9.md",
     "45-Romans/Rom.4.1-8.md",
-    "45-Romans/Rom.1-7.md",
-    "45-Romans/Romans-Notes.md",
-    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Untitled.md",
     "60-1Peter/1Peter-Notes.md",
     "60-1Peter/1Peter-Interlinear-TC.md",
@@ -184,9 +186,6 @@
     "README.md",
     "45-Romans/Rom.11.2.md",
     "60-1Peter/1Pe.5.1-4.md",
-    "60-1Peter/1Pe.3.7.md",
-    "60-1Peter/1Peter-Vocabulary.md",
-    "60-1Peter/1Peter-Clause.md",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
