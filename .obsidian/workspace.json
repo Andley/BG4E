@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "60-1Peter/1Pe.1.1-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -185,7 +185,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "28e346bdaef54f4f",
+  "active": "afff19aad2514f17",
   "lastOpenFiles": [
     "My code file.ts",
     "60-1Peter/1Pe.1.1-2.md",
