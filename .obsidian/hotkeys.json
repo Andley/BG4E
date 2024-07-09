@@ -232,5 +232,13 @@
       ],
       "key": "H"
     }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

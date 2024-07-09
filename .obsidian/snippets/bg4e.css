@@ -55,7 +55,7 @@ ul ul::before {
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
   font-family: "Arial Narrow";
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .cm-highlightSpace:before {

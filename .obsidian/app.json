@@ -31,5 +31,6 @@
   "showLineNumber": false,
   "smartIndentList": true,
   "showIndentGuide": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showRibbon": false
 }
