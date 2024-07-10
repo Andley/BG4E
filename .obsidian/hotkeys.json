@@ -35,15 +35,6 @@
       "key": "ArrowRight"
     }
   ],
-  "obsidian-git:commit-push-specified-message": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
   "editor:open-link-in-new-leaf": [],
   "app:open-settings": [],
   "switcher:open": [
@@ -233,10 +224,19 @@
       "key": "A"
     }
   ],
-  "obsidian-git:push2": [
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
       ],
       "key": "G"
     }
