@@ -35,14 +35,6 @@
       "key": "ArrowRight"
     }
   ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
   "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [
@@ -239,6 +231,14 @@
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
     }
   ]
 }

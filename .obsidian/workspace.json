@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-9.md",
+                "file": "60-1Peter/1Pe.1.17-21.md",
                 "mode": "source",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-9.md"
+                "file": "60-1Peter/1Pe.1.17-21.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-9.md",
+                "file": "60-1Peter/1Pe.1.17-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-9.md",
+                "file": "60-1Peter/1Pe.1.17-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +189,11 @@
   "active": "28e346bdaef54f4f",
   "lastOpenFiles": [
     "60-1Peter/1Pe.1.13-16.md",
-    "template/template.md",
+    "60-1Peter/1Pe.1.17-21.md",
     "60-1Peter/1Pe.1.10-12.md",
     "60-1Peter/1Pe.1.3-9.md",
     "60-1Peter/1Pe.1.1-2.md",
+    "template/template.md",
     "My code file.ts",
     "3-lines-interlinear.md",
     "60-1Peter/1Peter-Notes.md",
@@ -214,7 +215,6 @@
     "45-Romans/Rom.4.1-8.md",
     "45-Romans/Untitled.md",
     "60-1Peter/1Peter-Interlinear-TC.md",
-    "46-1Corinthians/1Co.11.17-28.md",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
     "images/Pasted image 20231206094330.png",
