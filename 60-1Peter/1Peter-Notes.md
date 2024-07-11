@@ -5,8 +5,6 @@
 ### 經文閱讀
 Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/70/10001/19999/ch/e6d8cc643fb0f3b87645b1e873841dbf/)。
 
-- [1Peter Interlinear (英文) ](1Peter-Interlinear.md)
-- [彼得前書 Interlinear (中文) ](1Peter-Interlinear-TC.md)
 
 ### 原文特色
 - [彼得前書—子句結構](1Peter-Clause.md)  
