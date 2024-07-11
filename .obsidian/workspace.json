@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -188,9 +189,9 @@
   },
   "active": "28e346bdaef54f4f",
   "lastOpenFiles": [
+    "60-1Peter/1Pe.1.17-21.md",
     "60-1Peter/1Pe.1.22-25.md",
     "60-1Peter/1Pe.2.1-10.md",
-    "60-1Peter/1Pe.1.17-21.md",
     "60-1Peter/1Pe.1.13-16.md",
     "60-1Peter/1Pe.2.11-12.md",
     "60-1Peter/1Pe.1.10-12.md",
