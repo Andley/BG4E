@@ -2,8 +2,7 @@
 
 ## 彼得前書希臘文筆記
 
-### 經文閱讀
-Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNTa); [@GitLab](https://gitlab.com/Andley/ognta); [@DCS](https://git.door43.org/Andley/OGNTa))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/70/10001/19999/ch/e6d8cc643fb0f3b87645b1e873841dbf/)。
+Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/Andley/macula-sblgnta))；經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/70/10001/19999/ch/e6d8cc643fb0f3b87645b1e873841dbf/)。
 
 
 ### 原文特色
@@ -11,8 +10,6 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 - [彼得前書—詞彙分析](1Peter-Vocabulary.md)  
 
 ### 句法圖析
-經文分段和標題則是根據 [UBS5](https://www.academic-bible.com/en/online-bibles/greek-new-testament-ubs5/read-the-bible-text/bibel/text/lesen/stelle/70/10001/19999/ch/e6d8cc643fb0f3b87645b1e873841dbf/)。
-
 
 - Salutation
 	- [1Pe 1.1-2](1Pe.1.1-2.md)
@@ -20,9 +17,7 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 	- [1Pe 1.3-9](1Pe.1.3-9.md)
 	- [1Pe 1.10-12](1Pe.1.10-12.md)
 - A Call to Holy Living
-	- [1Pe 1.13-16](1Pe.1.13-16.md)
-	- [1Pe 1.17-21](1Pe.1.17-21.md)
-	- [1Pe 1:22-25](1Pe.1.22-25.md)
+	- [1Pe 1:13-25](1Pe.1.13-25.md)
 - The Living Stone and the Holy Nation
 	- [1Pe 2:1-10](1Pe.2.1-10.md)
 - Live as Servants of God
