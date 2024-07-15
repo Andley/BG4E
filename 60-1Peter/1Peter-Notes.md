@@ -53,12 +53,3 @@ Forbes | Forbes, Greg W. _1 Peter_. EGGNT. Edited by Andreas J. Köstenberger an
 Dubis | Dubis, Mark. _1 Peter: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2010.
 Jobes | Jobes, Karen H. _1 Peter_. Baker Exegetical Commentary on the New Testament. Baker Academic, 2005.
 
-
-### 參考資料
-
-
- 簡寫  | 出處  
-:---:| -- 
- Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. |
- Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010. 
-
