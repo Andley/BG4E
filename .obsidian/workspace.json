@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.1.13-25.md",
+                "file": "60-1Peter/1Pe.3.8-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.1.13-25.md",
+                "file": "60-1Peter/1Pe.3.8-22.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Pe.1.13-25.md"
+                "file": "60-1Peter/1Pe.3.8-22.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.1.13-25.md",
+                "file": "60-1Peter/1Pe.3.8-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.1.13-25.md",
+                "file": "60-1Peter/1Pe.3.8-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +189,11 @@
   },
   "active": "28e346bdaef54f4f",
   "lastOpenFiles": [
+    "60-1Peter/1Peter-Notes.md",
+    "60-1Peter/1Pe.3.8-22.md",
+    "60-1Peter/1Pe.1.13-25.md",
     "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.5-10.md",
-    "60-1Peter/1Pe.1.13-25.md",
-    "60-1Peter/1Peter-Notes.md",
     "60-1Peter/1Pe.1.3-12.md",
     "60-1Peter/1Pe.3.1-7.md",
     "60-1Peter/1Pe.3.1-6.md",
@@ -214,7 +215,6 @@
     "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Interlinear-TC.md",
     "60-1Peter/1Pe.5.8–11.md",
-    "60-1Peter/1Pe.3.8-12.md",
     "My code file.ts",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
