@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.3.8-22.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "6848f08cffc65af3"
           }
         ]
       },
@@ -31,11 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.3.8-22.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "6848f08cffc65af3"
           }
         ]
       }
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Pe.3.8-22.md"
+                "file": "60-1Peter/1Peter-Notes.md"
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.3.8-22.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.3.8-22.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +188,20 @@
   },
   "active": "fba87fccf05371f4",
   "lastOpenFiles": [
-    "60-1Peter/1Pe.1.1-2.md",
+    "60-1Peter/1Peter-Interlinear.md",
+    "60-1Peter/1Peter-Notes.md",
+    "62-1John/1John-Interlinear.md",
+    "62-1John/1John-Notes.md",
+    "60-1Peter/1Pe.4.1-11.md",
     "60-1Peter/1Pe.3.8-22.md",
+    "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.3.1-7.md",
     "60-1Peter/1Pe.2.18-25.md",
     "60-1Peter/1Pe.2.11-17.md",
     "60-1Peter/1Pe.2.1-10.md",
     "60-1Peter/1Pe.1.13-25.md",
     "60-1Peter/1Pe.1.3-12.md",
-    "60-1Peter/1Peter-Notes.md",
     "Untitled.md",
-    "62-1John/1John-Interlinear.md",
     "62-1John/1Jo.1.5-10.md",
     "60-1Peter/1Pe.3.1-6.md",
     "60-1Peter/1Pe.3.7.md",
@@ -209,9 +214,6 @@
     "60-1Peter/1Peter-Clause.md",
     "60-1Peter/1Pe.1.17-21.md",
     "60-1Peter/1Pe.1.13-16.md",
-    "60-1Peter/1Pe.1.22-25.md",
-    "60-1Peter/1Peter-Interlinear.md",
-    "60-1Peter/1Peter-Interlinear-TC.md",
     "My code file.ts",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
