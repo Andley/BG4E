@@ -130,27 +130,22 @@ li {
   line-height:1.5em;
 }
 
-strong,  .cm-strong {
-    color: var(--color-strong);
-  }
+/* ⋯⋯⋯⋯⋯⋯⋯ */
+.poetry::before {content:'\a             '; white-space: pre;}
+.paragraph::after {content:'\a\a\a'; white-space: pre;}
+.punctuation {font-weight:bolder;}
 
-em,  .cm-em {
-    color: var(--color-em);
-  }
+/* ⋯⋯⋯⋯⋯⋯⋯ */
+.verb {color: red;}
+.participle {color: blue;}
+.infinitive {color: green;}
 
-  /* text decoration for marking syntax functions */
-  mark {
-    &.pm {background: none; font-weight:bolder;}
-    &.S {background: none; text-decoration: underline double; text-underline-offset: 4px;}
-    &.P {background: none; text-decoration: underline wavy; text-underline-offset: 4px;}
-    &.C {background: none; text-decoration: underline solid; text-underline-offset: 4px;}
-    &.A {background: none; text-decoration: underline dotted; text-underline-offset: 4px;}
-    &.green {background-color: lightgreen; }
-    &.red {background-color: lightcoral; }
-    &.blue {background-color: lightcyan; }
-    &.purple {background-color: purple; }
-  }
-  
+/* ⋯⋯⋯⋯⋯⋯⋯ */
+.Subject {text-decoration: underline double; text-underline-offset: 4px;}
+.Predicate {text-decoration: underline wavy; text-underline-offset: 4px;}
+.Complement {text-decoration: underline solid; text-underline-offset: 4px;}
+.Adjunct {text-decoration: underline dotted; text-underline-offset: 4px;}
+
 
 @media print {
     body {
