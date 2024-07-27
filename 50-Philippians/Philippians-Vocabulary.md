@@ -41,7 +41,7 @@
 
 Note: 
 - 在動詞當中，喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
-- <strong>σύν</strong> 的複合字特別多 (20x)：同心、一起 (togetherness) 的概念相對突出
+- <mark class='verb'>σύν</mark> 的複合字特別多 (20x)：同心、一起 (togetherness) 的概念相對突出
 	- συγκοινωνέω, to have fellowship with, participate, share (1x)
 	- συγκοινωνός, -οῦ, ὁ, partaker, participant, partner (1x)
 	- συγχαίρω, to rejoice with (2x)
@@ -93,10 +93,10 @@ Note:
 	- σκοπός	(m) lookout, sentry; target, goal
 	- σκύβαλον	garbage
 	- 四個可能是保羅自創的複合字
-		- σύζυγος	(<strong>σύν</strong>, ζυγός)	fellow-worker
-		- συμμιμητής	(<strong>σύν</strong>, μιμέομαι)	joint-imitator
-		- συμμορφίζω	(<strong>σύν</strong>, μορφή)	to share the same form
-		- σύμψυχος	(<strong>σύν</strong>, ψύχω)	united, as one
+		- σύζυγος	(<mark class='verb'>σύν</mark>, ζυγός)	fellow-worker
+		- συμμιμητής	(<mark class='verb'>σύν</mark>, μιμέομαι)	joint-imitator
+		- συμμορφίζω	(<mark class='verb'>σύν</mark>, μορφή)	to share the same form
+		- σύμψυχος	(<mark class='verb'>σύν</mark>, ψύχω)	united, as one
 	- ὑπερυψόω	(ὑπέρ, ὕψος)	to highly exalt
 
 
