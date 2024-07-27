@@ -175,9 +175,8 @@ li {
   line-height:1.5em;
 }
 
-
-/* ⋯⋯⋯⋯⋯⋯⋯ */
-mark {
+/* text decoration for marking syntax functions */
+  mark {
   &.poetry::before {content:'\a                 '; white-space: pre;}
   &.poetry {background-color: transparent;}
 	&.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
