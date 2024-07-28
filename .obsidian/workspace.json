@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md"
+                "file": "60-1Peter/1Peter-Interlinear.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-Matthew/Mat.5.27-30.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +187,8 @@
   },
   "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
-    "60-1Peter/1Peter-Interlinear.md",
     "40-Matthew/Mat.5.27-30.md",
+    "60-1Peter/1Peter-Interlinear.md",
     "48-Galatians/Gal.1.18-24.md",
     "48-Galatians/Gal.1.6-9.md",
     "60-1Peter/Untitled.md",
