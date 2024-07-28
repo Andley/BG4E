@@ -17,7 +17,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "8f10624bfd833476"
           }
         ]
       },
@@ -35,7 +36,8 @@
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "8f10624bfd833476"
           }
         ]
       }
@@ -95,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",

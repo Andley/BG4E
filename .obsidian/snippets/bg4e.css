@@ -122,6 +122,7 @@ ul ul::before {
 .cm-header-3,.markdown-preview-view h3 {
   color: var(--color3);
   font-size:22px; /* 16pt 字體大小*/
+  text-align: center;
   margin-bottom: 22px;
 }
 .cm-header-4,.markdown-preview-view h4 {
