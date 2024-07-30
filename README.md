@@ -1,6 +1,4 @@
-# 全民希臘文 (BG4E)
-
-## Biblical Greek for Everyone
+# 全民希臘文<br>Biblical Greek for Everyone (BG4E)
 
 
 
@@ -9,7 +7,6 @@
 - [背誦金句](Memorize.md)
 - [圖析符號說明](Phrasing-Signs.md)
 - [同義字 Synonyms](Synonyms/synonyms.md)
-- [3-lines-interlinear](3-lines-interlinear.md)
 
 ### 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)

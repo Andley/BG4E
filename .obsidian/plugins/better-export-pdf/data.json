@@ -10,7 +10,7 @@
   "displayMetadata": false,
   "debug": false,
   "isTimestamp": false,
-  "enabledCss": false,
+  "enabledCss": true,
   "prevConfig": {
     "pageSize": "A4",
     "marginType": "1",

@@ -51,10 +51,12 @@ rt {
 }
 
 li ruby {
-  line-height:3em;
+  line-height:3.5em;
 }
 
-
+p, ul {
+  font-family: AndleyFont;
+}
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
   border: 1px solid;
