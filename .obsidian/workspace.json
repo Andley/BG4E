@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.1.1-2.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Pe.1.1-2.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Pe.1.1-2.md"
+                "file": "60-1Peter/1Peter-Interlinear.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.1.1-2.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.1.1-2.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,6 +188,7 @@
   },
   "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
+    "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.3.1-7.md",
     "60-1Peter/1Peter-Notes.md",
     "60-1Peter/Untitled.md",
@@ -199,7 +200,6 @@
     "60-1Peter/1Pe.2.1-10.md",
     "60-1Peter/1Pe.1.13-25.md",
     "60-1Peter/1Pe.1.3-12.md",
-    "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Peter-Interlinear.html",
     "60-1Peter/1Peter-Interlinear.pdf",
     "40-Matthew/Mat.5.27-30.md",
