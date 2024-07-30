@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "58-Hebrews/Hebrews-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "58-Hebrews/Hebrews-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md"
+                "file": "58-Hebrews/Hebrews-Interlinear.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "58-Hebrews/Hebrews-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "58-Hebrews/Hebrews-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.0555419921875,
-    "collapsed": true
+    "width": 183.0555419921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +188,10 @@
   },
   "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
-    "60-1Peter/1Peter-Notes.md",
-    "60-1Peter/1Peter-Interlinear.md",
     "58-Hebrews/Hebrews-Notes.md",
+    "58-Hebrews/Hebrews-Interlinear.md",
+    "60-1Peter/1Peter-Interlinear.md",
+    "60-1Peter/1Peter-Notes.md",
     "58-Hebrews/Heb.1.1-4.md",
     "62-1John/1John-Notes.md",
     "template/template.md",
@@ -215,7 +216,6 @@
     "60-1Peter/1Peter-Interlinear.html",
     "60-1Peter/1Peter-Interlinear.pdf",
     "40-Matthew/Mat.5.27-30.md",
-    "48-Galatians/Gal.1.18-24.md",
     "My code file.ts",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
