@@ -17,14 +17,6 @@
     }
   ],
   "workspace:edit-file-title": [],
-  "workspace:export-pdf": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "editor:follow-link": [],
   "graph:open": [],
   "app:go-forward": [
@@ -239,6 +231,14 @@
         "Shift"
       ],
       "key": "G"
+    }
+  ],
+  "better-export-pdf:export-current-file-to-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

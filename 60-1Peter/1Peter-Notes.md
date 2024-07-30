@@ -1,13 +1,13 @@
-# ΠΕΤΡΟΥ Α
 
-## 彼得前書希臘文筆記
 
-### 經文閱讀
+# 彼得前書希臘文筆記
+
+#### 經文閱讀
 Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/Andley/macula-sblgnta))；經文分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/1PE.1)。
 
 - [彼得前書 Interlinear (中文) ](1Peter-Interlinear.md)
 
-### 句法圖析
+#### 句法圖析
 
 - Salutation
 	- [1Pe 1:1-2](1Pe.1.1-2.md)
@@ -36,14 +36,14 @@ Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/An
 
 
 
-### 原文特色
+#### 原文特色
 - [彼得前書—子句結構](1Peter-Clause.md)  
 - [彼得前書—詞彙分析](1Peter-Vocabulary.md)  
 
-### 圖析符號
+#### 圖析符號
 
 
-### 參考書目
+#### 參考書目
  簡寫 | 出處
  :-:| -- 
 W  | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. 
