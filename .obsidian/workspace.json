@@ -78,14 +78,6 @@
             }
           },
           {
-            "id": "47f03e690283089d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "6c36d47b9e110291",
             "type": "leaf",
             "state": {
@@ -97,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -115,17 +106,6 @@
               "type": "outline",
               "state": {
                 "file": "58-Hebrews/Hebrews-Interlinear.md"
-              }
-            }
-          },
-          {
-            "id": "ffff73b72ba5875f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -174,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.0555419921875
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +163,13 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e9fea6c3a3b83d6e",
+  "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "58-Hebrews/Hebrews-Notes.md",
     "58-Hebrews/Hebrews-Interlinear.md",
+    "58-Hebrews/Hebrews-Notes.md",
     "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Notes.md",
     "58-Hebrews/Heb.1.1-4.md",

@@ -30,10 +30,13 @@ h6, .cm-header-6, .markdown-preview-view h6 {
   font-family: "Noto Sans Black", "Noto Sans TC Black", AndleyFont;
 }
 
-h1, .cm-header-1, .markdown-preview-view h1,
-h4, .cm-header-4, .markdown-preview-view h4,
-h6, .cm-header-6, .markdown-preview-view h6 {
+h1, h3, h5 {
   text-align: center;
+}
+
+html, body, p, li {
+  font-family: "Noto Sans", AndleyFont;
+  font-size: 16px;
 }
 
 /*   Ruby Interlinear  */

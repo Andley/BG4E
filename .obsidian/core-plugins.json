@@ -6,7 +6,6 @@
   "backlink",
   "canvas",
   "outgoing-link",
-  "tag-pane",
   "properties",
   "templates",
   "note-composer",
@@ -15,6 +14,5 @@
   "editor-status",
   "bookmarks",
   "outline",
-  "workspaces",
   "file-recovery"
 ]
