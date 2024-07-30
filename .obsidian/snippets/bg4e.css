@@ -1,47 +1,25 @@
 /* ============= 設定字型 ================== */
 @font-face {
 	font-family: AndleyFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Book Plus");
-  }
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("SBL Hebrew");
-  }
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+00-024F; /* English UNICODE */
-	src: local("Noto Sans");
-  }
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+F900-FAFF, U+2F800-2FA1F; /* 中文 UNICODE */
-	src: local("Noto Sans CJK TC");
-  }
-  
-  /* ———————— */
-
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Plus");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("SBL Hebrew");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+00-024F; /* English UNICODE */
+	unicode-range: U+0000-007F; /* English UNICODE */
 	src: local("Arial Narrow");
   }
-  @font-face {
-	font-family: InterlinearFont;
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("Gentium Book Plus");
+  }
+@font-face {
+	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
 	src: local("Noto Sans CJK TC");
   }
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("SBL Hebrew");
+  }
+  
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
