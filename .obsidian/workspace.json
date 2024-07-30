@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize.md",
+                "file": "58-Hebrews/Hebrews-Notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize.md",
+                "file": "58-Hebrews/Hebrews-Notes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memorize.md"
+                "file": "58-Hebrews/Hebrews-Notes.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memorize.md",
+                "file": "58-Hebrews/Hebrews-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memorize.md",
+                "file": "58-Hebrews/Hebrews-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,16 +188,22 @@
   },
   "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
+    "60-1Peter/1Peter-Notes.md",
+    "60-1Peter/1Peter-Interlinear.md",
+    "58-Hebrews/Hebrews-Notes.md",
+    "58-Hebrews/Heb.1.1-4.md",
+    "62-1John/1John-Notes.md",
+    "template/template.md",
+    "template/Book-Notes.md",
     "Louw-Nida §89-§91.md",
+    "Memorize.md",
     "Synonyms/synonyms.md",
     "README.md",
     "open-source.md",
     "Untitled.md",
-    "60-1Peter/1Peter-Interlinear.md",
     "3-lines-interlinear.md",
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.3.1-7.md",
-    "60-1Peter/1Peter-Notes.md",
     "60-1Peter/Untitled.md",
     "60-1Peter/1Pe.4.1-11.md",
     "60-1Peter/1Pe.3.8-22.md",
@@ -210,12 +216,6 @@
     "60-1Peter/1Peter-Interlinear.pdf",
     "40-Matthew/Mat.5.27-30.md",
     "48-Galatians/Gal.1.18-24.md",
-    "48-Galatians/Gal.1.6-9.md",
-    "62-1John/1John-Notes.md",
-    "62-1John/1John-Interlinear.md",
-    "62-1John/1Jo.1.5-10.md",
-    "60-1Peter/1Pe.3.1-6.md",
-    "60-1Peter/1Pe.3.7.md",
     "My code file.ts",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
