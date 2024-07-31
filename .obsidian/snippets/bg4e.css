@@ -108,7 +108,7 @@ li ruby {
   }
 
 .theme-light {
-  --text-tag: rgb(128, 136, 240);
+  --text-tag: darkblue;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
@@ -120,6 +120,7 @@ li ruby {
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
+  --color-base-40: darkblue;
 }
 
 /* BULLET POINT RELATIONSHIP LINES */

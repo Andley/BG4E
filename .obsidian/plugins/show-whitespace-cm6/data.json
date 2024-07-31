@@ -1,0 +1,13 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "disablePluginStyles": false,
+  "showBlockquoteMarkers": false,
+  "showCodeblockWhitespace": true,
+  "showAllWhitespace": true,
+  "outlineListMarkers": false,
+  "enabled": true
+}
