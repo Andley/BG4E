@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Interlinear.md",
+                "file": "60-1Peter/1Pe.1.1-2.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Interlinear.md",
+                "file": "60-1Peter/1Pe.1.1-2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Hebrews-Interlinear.md"
+                "file": "60-1Peter/1Pe.1.1-2.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Hebrews-Interlinear.md",
+                "file": "60-1Peter/1Pe.1.1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Hebrews-Interlinear.md",
+                "file": "60-1Peter/1Pe.1.1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,13 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
-    "58-Hebrews/Hebrews-Interlinear.md",
-    "58-Hebrews/Hebrews-Notes.md",
-    "60-1Peter/1Peter-Interlinear.md",
-    "60-1Peter/1Peter-Notes.md",
     "58-Hebrews/Heb.1.1-4.md",
+    "58-Hebrews/Hebrews-Notes.md",
+    "60-1Peter/1Peter-Notes.md",
+    "60-1Peter/1Peter-Interlinear.md",
+    "60-1Peter/1Peter-Interlinear.pdf",
+    "58-Hebrews/Hebrews-Interlinear.md",
+    "58-Hebrews/Hebrews-Interlinear.pdf",
     "62-1John/1John-Notes.md",
     "template/template.md",
     "template/Book-Notes.md",
@@ -194,8 +196,6 @@
     "60-1Peter/1Pe.1.13-25.md",
     "60-1Peter/1Pe.1.3-12.md",
     "60-1Peter/1Peter-Interlinear.html",
-    "60-1Peter/1Peter-Interlinear.pdf",
-    "40-Matthew/Mat.5.27-30.md",
     "My code file.ts",
     "42-Luke",
     "images/Pasted image 20231211062635.png",
@@ -213,7 +213,6 @@
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching",
     "Synonyms",
-    "47-2Corinthians",
-    "62-1John/1Jo.4.7-12.pdf"
+    "47-2Corinthians"
   ]
 }

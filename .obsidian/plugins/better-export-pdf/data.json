@@ -4,7 +4,7 @@
   "displayHeader": true,
   "displayFooter": true,
   "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"title\"></span></div>",
-  "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
+  "footerTemplate": "<div style=\"width: 20vw;font-size:10px;text-align:left;margin-left:20px;\"><span class=\"date\"></span></div>\n<div style=\"width: 60vw;font-size:10px;text-align:center;\"><span class=\"title\"></span></div>\n<div style=\"width: 20vw;font-size:10px;text-align:right;margin-right: 20px\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
   "printBackground": false,
   "generateTaggedPDF": false,
   "displayMetadata": false,

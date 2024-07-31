@@ -57,9 +57,6 @@ li ruby {
   line-height:3.5em;
 }
 
-p, ul {
-  font-family: AndleyFont;
-}
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
   border: 1px solid;
@@ -144,4 +141,8 @@ ul ul::before {
   color: var(--text-tag);
   font-family: AndleyFont;
   font-size: 13px;
+}
+
+.nav-file-title, .nav-folder-title {
+  line-height: 1em;
 }
