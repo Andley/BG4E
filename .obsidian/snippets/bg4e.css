@@ -104,6 +104,7 @@ li ruby {
   --text-accent:lightgreen;
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
+  --color-base-40: silver;
   }
 
 .theme-light {
