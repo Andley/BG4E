@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "58-Hebrews/Heb.2.5-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "58-Hebrews/Heb.2.5-18.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md"
+                "file": "58-Hebrews/Heb.2.5-18.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "58-Hebrews/Heb.2.5-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "58-Hebrews/Heb.2.5-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +169,11 @@
   },
   "active": "e9fea6c3a3b83d6e",
   "lastOpenFiles": [
+    "58-Hebrews/Heb.1.1-4.md",
     "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
     "58-Hebrews/Heb.1.5-14.md",
-    "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.2.5-18.md",
     "58-Hebrews/Heb.2.1-4.md",
     "58-Hebrews/Hebrews-Notes.md",
