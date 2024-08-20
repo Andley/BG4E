@@ -5,7 +5,7 @@
 - [名言](Quotations.md)
 - [慣用語](Idioms.md)
 - [背誦金句](Memorize.md)
-- [圖析符號說明](Phrasing-Signs.md) *2024-08-21 更新*
+- [圖析符號說明](Phrasing-Signs.md) ⇐ 2024-08-21 更新
 - [同義字 Synonyms](Synonyms/synonyms.md)
 
 ### 進階句法 (BG4E-Syntax)
@@ -16,6 +16,7 @@
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
+- [希伯來書](58-Hebrews/Hebrews-Notes.md) ⇐ 2024-08 施工中
 - [彼得前書](60-1Peter/1Peter-Notes.md)
 - [彼得後書](61-2Peter/2Peter-Notes.md)
 - [約翰一書](62-1John/1John-Notes.md)

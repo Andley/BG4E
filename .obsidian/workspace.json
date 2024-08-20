@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phrasing-Signs.md"
+                "file": "README.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +168,9 @@
   },
   "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "README.md",
     "58-Hebrews/Hebrews-Notes.md",
+    "Phrasing-Signs.md",
+    "README.md",
     "58-Hebrews/Heb.2.5-18.md",
     "58-Hebrews/Hebrews-Interlinear.md",
     "58-Hebrews/Heb.1.5-14.md",
