@@ -2,33 +2,35 @@
 ## 圖析符號說明
 
 
-形式 (form)、結構 (structure) 的符號  | 含意 
+形式 (form) 的符號  | 含意 
 :---: | :----: 
-<mark class='verb'>粗體字</mark> | 動詞 
-<em>斜體字</em> | 分詞 or 不定詞
- [... ( ... « ... ‹ ... › ... » ... ) ...] | 片語 or 子句裡面的中小括弧 
-{ ... } | 內嵌子句
-(...)⦇ ... ⦈(...)</br>{...}⦇、⦈{...}| 片語 or 子句的前半段、後半段 </br>(用於出現 hyperbaton 倒置的情況)
-⸉...⸊ | 調換字序 (word order) 之後的新位置
-⸉⸊ | 調換字序 (word order) 之前的原本位置
+<mark class='verb'>雙層底線</mark> | 動詞 
+<mark class='ptc'>單一底線</mark> | 分詞 
+<mark class='inf'>虛線底線</mark> | 不定詞 
+xxx ⁞ yyy | 詞形代碼有兩種可能
 
----
+結構 (structure) 的符號  | 含意 
+:---: | :----: 
+ {... [... ( ... < ... > ... ) ...] ...} | 子句、片語裡的大中小括弧 
+(...)⦇ ... ⦈(...)</br>{...}⦇、⦈{...}| 片語 or 子句的前半段、後半段 </br>(用於出現 hyperbaton 倒置的情況)
+⸉⸊ | 調換字序 (word order) 之後的新位置
+⸉...⸊ | 調換字序 (word order) 之前的原本位置
+
 
 功能 (function) 的符號  | 含意
 :---: | :----: 
-S/P/C/A| 主要子句、從屬子句的元素用大寫<br>S=主語; P=謂語; C=補語; A=狀語
+S/P/C/A/V| 主要子句、從屬子句的元素用大寫<br>S=主語; P=謂語; C=補語; A=狀語; V=稱謂 or 驚嘆
 s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀語
 = |  同位 (apposition)</br>通常涉及名詞類，可以取代先行詞 (antecedent)
 ≒| 附帶說明 (epexegetical)</br>通常涉及動詞類，不能取代先行詞 (antecedent)
 +  | 補充 (complement) </br> object-complement 中的 complement (相當於 object 的 predicate)
 
----
 
 意義 (meaning) 的符號  | 含意
 :---: | :----: 
 ...xxx... | 從上下文推敲出來被省略掉的字詞
-°¹、°²| 指向(修飾、連結)其他的字詞/片語
-<mark>...°¹</mark>、<mark>...°²</mark>  | <mark>被</mark>指向 (修飾、連結) 的字詞/片語
+°¹, °², °³ ...| 指向(修飾、連結)其他的字詞/片語
+<mark>xxx°¹</mark>、<mark>yyy°²</mark>, <mark>zzz°³</mark> ...| <mark>被</mark>指向 (修飾、連結) 的字詞/片語
 ⮥、⮧ |  指向上文、指向下文
 
 ---
@@ -40,7 +42,6 @@ s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀�
 ⋯⋯⋯⋯⋯⋯⋯| 小段落
 —— ... —— | 插入的段落
 
---- 
 
 <div style='page-break-after: always;'></div>
 

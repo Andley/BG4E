@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "Phrasing-Signs.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "Phrasing-Signs.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md"
+                "file": "Phrasing-Signs.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "Phrasing-Signs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Hebrews-Notes.md",
+                "file": "Phrasing-Signs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +169,8 @@
   },
   "active": "4a67527c59cbdede",
   "lastOpenFiles": [
+    "README.md",
+    "58-Hebrews/Hebrews-Notes.md",
     "58-Hebrews/Heb.2.5-18.md",
     "58-Hebrews/Hebrews-Interlinear.md",
     "58-Hebrews/Heb.1.5-14.md",
@@ -178,7 +181,6 @@
     "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
-    "58-Hebrews/Hebrews-Notes.md",
     "60-1Peter/1Peter-Notes.md",
     "58-Hebrews/Heb.1.4-6.md",
     "60-1Peter/1Pe.1.1-2.md",
@@ -188,7 +190,6 @@
     "Louw-Nida §89-§91.md",
     "Memorize.md",
     "Synonyms/synonyms.md",
-    "README.md",
     "open-source.md",
     "Untitled.md",
     "3-lines-interlinear.md",
