@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "58-Hebrews/Heb.3.1-6.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "58-Hebrews/Heb.3.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "58-Hebrews/Heb.3.1-6.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "58-Hebrews/Heb.3.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "58-Hebrews/Heb.3.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "c54d97d655619fef",
   "lastOpenFiles": [
     "58-Hebrews/Hebrews-Notes.md",
-    "Phrasing-Signs.md",
-    "README.md",
     "58-Hebrews/Heb.2.5-18.md",
+    "58-Hebrews/Heb.3.1-6.md",
+    "README.md",
+    "Phrasing-Signs.md",
     "58-Hebrews/Hebrews-Interlinear.md",
     "58-Hebrews/Heb.1.5-14.md",
     "58-Hebrews/Heb.1.1-4.md",
@@ -196,7 +197,6 @@
     "60-1Peter/1Pe.3.1-7.md",
     "60-1Peter/Untitled.md",
     "60-1Peter/1Pe.4.1-11.md",
-    "60-1Peter/1Pe.3.8-22.md",
     "60-1Peter/1Peter-Interlinear.html",
     "My code file.ts",
     "42-Luke",
