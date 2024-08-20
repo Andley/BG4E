@@ -33,7 +33,6 @@ s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀�
 <mark>xxx°¹</mark>、<mark>yyy°²</mark>, <mark>zzz°³</mark> ...| <mark>被</mark>指向 (修飾、連結) 的字詞/片語
 ⮥、⮧ |  指向上文、指向下文
 
----
 
 段落 (paragraph) 的符號  | 含意
 :---: | :----: 
