@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.3.1-6.md",
+                "file": "58-Hebrews/Heb.3.7-4.13.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.3.1-6.md",
+                "file": "58-Hebrews/Heb.3.7-4.13.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Heb.3.1-6.md"
+                "file": "58-Hebrews/Heb.3.7-4.13.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Heb.3.1-6.md",
+                "file": "58-Hebrews/Heb.3.7-4.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Heb.3.1-6.md",
+                "file": "58-Hebrews/Heb.3.7-4.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54d97d655619fef",
+  "active": "4a67527c59cbdede",
   "lastOpenFiles": [
+    "58-Hebrews/Heb.3.1-6.md",
+    "58-Hebrews/Heb.3.7-4.13.md",
+    "58-Hebrews/Heb.4.3.md",
     "58-Hebrews/Hebrews-Notes.md",
     "58-Hebrews/Heb.2.5-18.md",
-    "58-Hebrews/Heb.3.1-6.md",
     "README.md",
     "Phrasing-Signs.md",
     "58-Hebrews/Hebrews-Interlinear.md",
@@ -195,8 +198,6 @@
     "Untitled.md",
     "3-lines-interlinear.md",
     "60-1Peter/1Pe.3.1-7.md",
-    "60-1Peter/Untitled.md",
-    "60-1Peter/1Pe.4.1-11.md",
     "60-1Peter/1Peter-Interlinear.html",
     "My code file.ts",
     "42-Luke",
