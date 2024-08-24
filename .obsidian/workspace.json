@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "58-Hebrews/Heb.5.11-6.12.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "c54d97d655619fef",
   "lastOpenFiles": [
     "58-Hebrews/Heb.4.14-5.10.md",
     "58-Hebrews/Heb.5.11-6.12.md",
