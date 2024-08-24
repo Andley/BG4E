@@ -17,6 +17,7 @@
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)
 - [希伯來書](58-Hebrews/Hebrews-Notes.md) ⇐ 2024-08 施工中
+- [雅各書](59-James/James-Notes.md)) ⇐ 2024-08 施工中
 - [彼得前書](60-1Peter/1Peter-Notes.md)
 - [彼得後書](61-2Peter/2Peter-Notes.md)
 - [約翰一書](62-1John/1John-Notes.md)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.5.11-6.12.md",
+                "file": "59-James/Jas.1.12-18.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "8111b520e6d19335"
+            "group": "8dd52f540e93f181"
           }
         ]
       },
@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.5.11-6.12.md",
+                "file": "59-James/Jas.1.12-18.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "8111b520e6d19335"
+            "group": "8dd52f540e93f181"
           }
         ]
       }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Heb.5.11-6.12.md"
+                "file": "59-James/Jas.1.12-18.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "58-Hebrews/Heb.5.11-6.12.md",
+                "file": "59-James/Jas.1.12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "58-Hebrews/Heb.5.11-6.12.md",
+                "file": "59-James/Jas.1.12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,18 +167,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54d97d655619fef",
+  "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "58-Hebrews/Heb.4.14-5.10.md",
+    "59-James/James-Notes.md",
+    "59-James/Jas.1.12-18.md",
+    "59-James/Jas.1.9-11.md",
+    "59-James/James-Interlinear.md",
+    "59-James/Jas.1.2-8.md",
+    "59-James/Jas.1.1.md",
+    "59-James/James-Interlinear.pdf",
     "58-Hebrews/Heb.5.11-6.12.md",
+    "58-Hebrews/Heb.6.9–12.md",
+    "58-Hebrews/Heb5.12.md",
+    "58-Hebrews/Heb3.7-11.md",
+    "README.md",
+    "58-Hebrews/Heb.11.11.md",
     "58-Hebrews/Hebrews-Notes.md",
+    "58-Hebrews/Hebrews-Interlinear.md",
+    "58-Hebrews/Heb.4.14-5.10.md",
     "58-Hebrews/Heb.3.7-4.13.md",
     "58-Hebrews/Heb.3.1-6.md",
     "58-Hebrews/Heb.4.3.md",
     "58-Hebrews/Heb.2.5-18.md",
-    "README.md",
     "Phrasing-Signs.md",
-    "58-Hebrews/Hebrews-Interlinear.md",
     "58-Hebrews/Heb.1.5-14.md",
     "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.2.1-4.md",
@@ -188,16 +199,6 @@
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
     "60-1Peter/1Peter-Notes.md",
-    "58-Hebrews/Heb.1.4-6.md",
-    "60-1Peter/1Pe.1.1-2.md",
-    "62-1John/1John-Notes.md",
-    "template/template.md",
-    "template/Book-Notes.md",
-    "Louw-Nida §89-§91.md",
-    "Memorize.md",
-    "Synonyms/synonyms.md",
-    "open-source.md",
-    "Untitled.md",
     "60-1Peter/1Peter-Interlinear.html",
     "My code file.ts",
     "42-Luke",
@@ -214,7 +215,6 @@
     "images/Pasted image 20231005160123.png",
     "41-Mark",
     "BBG4E/BG4E 規劃.canvas",
-    "BG4E-ExpPreaching",
-    "Synonyms"
+    "BG4E-ExpPreaching"
   ]
 }
