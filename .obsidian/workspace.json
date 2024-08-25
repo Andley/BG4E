@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.1.12-18.md",
+                "file": "59-James/Jas.1.19-27.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.1.12-18.md",
+                "file": "59-James/Jas.1.19-27.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/Jas.1.12-18.md"
+                "file": "59-James/Jas.1.19-27.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/Jas.1.12-18.md",
+                "file": "59-James/Jas.1.19-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/Jas.1.12-18.md",
+                "file": "59-James/Jas.1.19-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "c54d97d655619fef",
   "lastOpenFiles": [
     "59-James/James-Notes.md",
+    "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/James-Interlinear.md",
@@ -198,7 +199,6 @@
     "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
-    "60-1Peter/1Peter-Notes.md",
     "60-1Peter/1Peter-Interlinear.html",
     "My code file.ts",
     "42-Luke",
