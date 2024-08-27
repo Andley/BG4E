@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "59-James/Jas.3.1-12.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -166,14 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54d97d655619fef",
+  "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "59-James/James-Notes.md",
+    "59-James/James-Interlinear.md",
     "59-James/Jas.3.1-12.md",
+    "59-James/James-Notes.md",
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
     "58-Hebrews/Hebrews-Notes.md",
-    "59-James/James-Interlinear.md",
     "59-James/Jas.1.19-27.md",
     "58-Hebrews/Hebrews-Interlinear.md",
     "59-James/Jas.1.12-18.md",
