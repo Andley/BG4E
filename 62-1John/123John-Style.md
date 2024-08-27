@@ -53,8 +53,8 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 	- ἐσχάτη ὥρα **ἐστίν** (1 Jn. 2:18) ⇒ (it) is last hour
 	- ὅτι ἐσχάτη ὥρα **ἐστίν** (1 Jn. 2:18) ⇒ because (it) is last hour
 	- εἰ γὰρ ἐξ ἡμῶν **ἦσαν** (1 Jn. 2:19) ⇒ for if (they) were out-of us
-	- ὅτι οὐκ **εἰσὶν** ==πάντες== ἐξ ἡμῶν (1 Jn. 2:19) ⇒ because (they) all are not out-of us
-	- ὅτι ==πᾶν== ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. (1 Jn. 2:21)
+	- ὅτι οὐκ **εἰσὶν** <mark>πάντες</mark> ἐξ ἡμῶν (1 Jn. 2:19) ⇒ because (they) all are not out-of us
+	- ὅτι <mark>πᾶν</mark> ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν. (1 Jn. 2:21)
 		- because all lie is not out-of the truth 還是
 		- because (*there*) is not any lie out-of the truth ⇐ 比較好，可以合乎規則 😀
 	- καὶ ἀληθές **ἐστιν** καὶ οὐκ ἔστιν ψεῦδος (1 Jn. 2:27) ⇒ and (it) is true and (it) is not a-lie
@@ -74,13 +74,13 @@ Bateman 歸納出來一個原則：如果 ἐν τούτῳ 後面有 ὅτι�
 	- καὶ **ἐσμὲν** ἐν τῷ ἀληθινῷ, (1 Jn. 5:20) ⇒ and (we) are in the truth
 - ————————
 - 可能有疑慮的經文：
-	- ==πᾶν== πνεῦμα <ὃ **ὁμολογεῖ** Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα> ἐκ τοῦ θεοῦ **ἐστιν**, (1 Jn. 4:2)
+	- <mark>πᾶν</mark> πνεῦμα <ὃ **ὁμολογεῖ** Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα> ἐκ τοῦ θεοῦ **ἐστιν**, (1 Jn. 4:2)
 		- every spirit <...> is out-of the God
 		- every spirit <...> ‖ (it) is out-of the God ⇐ 切成兩個子句，就可以合乎規則 😀
-	- καὶ ==πᾶν== πνεῦμα <ὃ μὴ **ὁμολογεῖ** τὸν Ἰησοῦν> ἐκ τοῦ θεοῦ οὐκ **ἔστιν** (1 Jn. 4:3)
+	- καὶ <mark>πᾶν</mark> πνεῦμα <ὃ μὴ **ὁμολογεῖ** τὸν Ἰησοῦν> ἐκ τοῦ θεοῦ οὐκ **ἔστιν** (1 Jn. 4:3)
 		- and every spirit <...> is not out-of the God
 		- and every spirit <...> ‖ (it) is not out-of the God ⇐ 切成兩個子句，就可以合乎規則 😀
-	- 1Jn 5:17  ==πᾶσα== ἀδικία ἁμαρτία **ἐστίν**, ⇒ every unrighteousness is sin,【不是一價，是兩價，所以不適用於 Wallace 規則】
+	- 1Jn 5:17  <mark>πᾶσα</mark> ἀδικία ἁμαρτία **ἐστίν**, ⇒ every unrighteousness is sin,【不是一價，是兩價，所以不適用於 Wallace 規則】
 - ————————
 - 一價，但卻是帶冠詞的名詞時 ⇒ 帶冠詞的名詞是 S
 	-  καὶ ἡ ἀλήθεια οὐκ **ἔστιν** ἐν ἡμῖν. (1Jo 1:8) ⇒ and  the truth is not in us

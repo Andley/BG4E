@@ -158,7 +158,7 @@ sdcsdcdsc 6
 <mark class='verb'>粗體</mark>  
 <em>斜體</em>  
 __<em>斜粗體</em>__  
-==hight light==  
+<mark>hight light</mark>  
 <mark>hight light</mark>
 
 ---
