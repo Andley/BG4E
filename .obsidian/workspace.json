@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.3.1-12.md",
+                "file": "Phrasing-Signs.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.3.1-12.md",
+                "file": "Phrasing-Signs.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/Jas.3.1-12.md"
+                "file": "Phrasing-Signs.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/Jas.3.1-12.md",
+                "file": "Phrasing-Signs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/Jas.3.1-12.md",
+                "file": "Phrasing-Signs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +168,8 @@
   },
   "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "59-James/James-Interlinear.md",
     "59-James/Jas.3.1-12.md",
+    "59-James/James-Interlinear.md",
     "59-James/James-Notes.md",
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
