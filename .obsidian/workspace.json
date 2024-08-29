@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/Jas.4.1-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/Jas.4.1-10.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phrasing-Signs.md"
+                "file": "59-James/Jas.4.1-10.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/Jas.4.1-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/Jas.4.1-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "c54d97d655619fef",
   "lastOpenFiles": [
+    "59-James/James-Notes.md",
+    "59-James/Jas.4.1-10.md",
+    "59-James/Jas.3.13-18.md",
     "59-James/Jas.3.1-12.md",
     "59-James/James-Interlinear.md",
-    "59-James/James-Notes.md",
+    "Phrasing-Signs.md",
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
     "58-Hebrews/Hebrews-Notes.md",
@@ -192,9 +196,6 @@
     "58-Hebrews/Heb.3.1-6.md",
     "58-Hebrews/Heb.4.3.md",
     "58-Hebrews/Heb.2.5-18.md",
-    "Phrasing-Signs.md",
-    "58-Hebrews/Heb.1.5-14.md",
-    "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Hebrews-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
