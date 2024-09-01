@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.4.13-17.md",
+                "file": "59-James/Jas.5.1-6.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.4.13-17.md",
+                "file": "59-James/Jas.5.1-6.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/Jas.4.13-17.md"
+                "file": "59-James/Jas.5.1-6.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/Jas.4.13-17.md",
+                "file": "59-James/Jas.5.1-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/Jas.4.13-17.md",
+                "file": "59-James/Jas.5.1-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +168,9 @@
   },
   "active": "4a67527c59cbdede",
   "lastOpenFiles": [
-    "59-James/James-Notes.md",
     "59-James/Jas.4.13-17.md",
+    "59-James/Jas.5.1-6.md",
+    "59-James/James-Notes.md",
     "59-James/Jas.4.11-12.md",
     "59-James/Jas.4.1-10.md",
     "59-James/Jas.3.13-18.md",
@@ -195,7 +195,6 @@
     "58-Hebrews/Heb.11.11.md",
     "58-Hebrews/Heb.4.14-5.10.md",
     "58-Hebrews/Heb.3.7-4.13.md",
-    "58-Hebrews/Heb.3.1-6.md",
     "58-Hebrews/Hebrews-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
