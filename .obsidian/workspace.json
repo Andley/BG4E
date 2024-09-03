@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7d023e7a45a8e1d8",
+        "id": "06935a2a53c6edd3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a67527c59cbdede",
+            "id": "7938985ea2ba7a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "59-James/James-Notes.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "8dd52f540e93f181"
+            "group": "b8cbb3327ba85ff0"
           }
         ]
       },
       {
-        "id": "209afb40a1d3f4ea",
+        "id": "c9af34b3c5aef120",
         "type": "tabs",
         "children": [
           {
-            "id": "c54d97d655619fef",
+            "id": "40f35296c1ea3550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "59-James/James-Notes.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "8dd52f540e93f181"
+            "group": "b8cbb3327ba85ff0"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/James-Interlinear.md"
+                "file": "59-James/James-Notes.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "59-James/James-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "59-James/James-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,12 +163,21 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a67527c59cbdede",
+  "active": "7938985ea2ba7a4d",
   "lastOpenFiles": [
+    "60-1Peter/1Peter-Notes.md",
+    "59-James/Jas.1.1.md",
     "59-James/James-Notes.md",
+    "59-James/(Jas.1.2-8.md).md",
+    "59-James/(Jas.1.1.md).md",
+    "60-1Peter/1Peter-Interlinear.md",
+    "60-1Peter/1Peter-Interlinear.pdf",
+    "59-James/James-Interlinear.pdf",
+    "59-James/James-Interlinear.md",
     "59-James/Jas.5.7-20.md",
     "59-James/Jas.5.1-6.md",
     "59-James/Jas.4.13-17.md",
@@ -176,7 +185,6 @@
     "59-James/Jas.4.1-10.md",
     "59-James/Jas.3.13-18.md",
     "59-James/Jas.3.1-12.md",
-    "59-James/James-Interlinear.md",
     "Phrasing-Signs.md",
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
@@ -186,17 +194,10 @@
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
-    "59-James/Jas.1.1.md",
-    "59-James/James-Interlinear.pdf",
     "58-Hebrews/Heb.5.11-6.12.md",
     "58-Hebrews/Heb.6.9–12.md",
     "58-Hebrews/Heb5.12.md",
-    "58-Hebrews/Heb3.7-11.md",
-    "README.md",
-    "58-Hebrews/Heb.11.11.md",
-    "58-Hebrews/Heb.4.14-5.10.md",
     "58-Hebrews/Hebrews-Interlinear.pdf",
-    "60-1Peter/1Peter-Interlinear.pdf",
     "60-1Peter/1Peter-Interlinear 1.pdf",
     "60-1Peter/1Peter-Interlinear.html",
     "My code file.ts",
