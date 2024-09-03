@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Peter-Interlinear.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-1Peter/1Peter-Interlinear.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Peter-Interlinear.md"
+                "file": "60-1Peter/1Peter-Notes.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Peter-Interlinear.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Peter-Interlinear.md",
+                "file": "60-1Peter/1Peter-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,12 +169,12 @@
   },
   "active": "7938985ea2ba7a4d",
   "lastOpenFiles": [
+    "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Notes.md",
     "59-James/James-Notes.md",
     "59-James/Jas.1.1.md",
     "59-James/(Jas.1.2-8.md).md",
     "59-James/(Jas.1.1.md).md",
-    "60-1Peter/1Peter-Interlinear.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/James-Interlinear.md",
