@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Notes.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Notes.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/James-Notes.md"
+                "file": "60-1Peter/1Peter-Interlinear.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/James-Notes.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/James-Notes.md",
+                "file": "60-1Peter/1Peter-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +171,8 @@
   "active": "7938985ea2ba7a4d",
   "lastOpenFiles": [
     "60-1Peter/1Peter-Notes.md",
-    "59-James/Jas.1.1.md",
     "59-James/James-Notes.md",
+    "59-James/Jas.1.1.md",
     "59-James/(Jas.1.2-8.md).md",
     "59-James/(Jas.1.1.md).md",
     "60-1Peter/1Peter-Interlinear.md",
