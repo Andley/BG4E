@@ -21,6 +21,7 @@ xxx ⁞ yyy | 詞形代碼有兩種可能
 :---: | :----: 
 S/P/C/A/V| 主要子句、從屬子句的元素用大寫<br>S=主語; P=謂語; C=補語; A=狀語; V=稱謂 or 驚嘆
 s/p/c/a| 內嵌子句的元素用小寫<br>s=主語; p=謂語; c=補語; a=狀語
+<sub>s</sub>/<sub>p</sub>/<sub>c</sub>/<sub>a</sub>| 雙重內嵌子句的元素用下標的<sub>小寫</sub><br><sub>s</sub>=主語; <sub>p</sub>=謂語; <sub>c</sub>=補語; <sub>a</sub>=狀語
 = |  同位 (apposition)</br>通常涉及名詞類，可以取代先行詞 (antecedent)
 ≒| 附帶說明 (epexegetical)</br>通常涉及動詞類，不能取代先行詞 (antecedent)
 +  | 補充 (complement) </br> object-complement 中的 complement (相當於 object 的 predicate)
