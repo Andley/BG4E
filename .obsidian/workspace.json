@@ -16,11 +16,26 @@
                 "file": "60-1Peter/1Pe.1.3-12.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1Pe.1.3-12"
             },
             "group": "f7e0c39ce13b028c"
+          },
+          {
+            "id": "a4460d0db796773a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "edbb8d996ecd5be8",
@@ -35,7 +50,9 @@
                 "file": "60-1Peter/1Pe.1.3-12.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1Pe.1.3-12"
             },
             "group": "f7e0c39ce13b028c"
           }
@@ -59,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +93,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -82,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,7 +130,9 @@
               "type": "outline",
               "state": {
                 "file": "60-1Peter/1Pe.1.3-12.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1Pe.1.3-12"
             }
           },
           {
@@ -124,7 +149,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1Pe.1.3-12"
             }
           },
           {
@@ -136,7 +163,9 @@
                 "file": "60-1Peter/1Pe.1.3-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1Pe.1.3-12"
             }
           },
           {
@@ -148,7 +177,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -168,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b428f004336e776",
+  "active": "a4460d0db796773a",
   "lastOpenFiles": [
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.1.3-12.md",
