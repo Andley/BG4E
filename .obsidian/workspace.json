@@ -21,21 +21,8 @@
               "title": "1Pe.1.3-12"
             },
             "group": "f7e0c39ce13b028c"
-          },
-          {
-            "id": "a4460d0db796773a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "edbb8d996ecd5be8",
@@ -112,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -199,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4460d0db796773a",
+  "active": "5b428f004336e776",
   "lastOpenFiles": [
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Pe.1.3-12.md",
