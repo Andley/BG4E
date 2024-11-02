@@ -1,14 +1,14 @@
 
 # Ἰακὠβου 雅各書希臘文筆記
 
-#### 經文閱讀
+### 經文閱讀
 
 經文(重音、大小寫、標點符號、排版) 出自 OGNTa Project([@GitHub](https://github.com/Andley/OGNTa))；分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/JAS.1)
 
 - [雅各書 Interlinear (中文)](James-Interlinear.md)
 - [雅各書 Interlinear (中文) PDF](James-Interlinear.pdf)
 
-#### 句法圖析
+### 句法圖析
 
 - Salutation (Jas 1:1)
 	- [Jas 1:1](Jas.1.1.md)
