@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/James-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phrasing-Signs"
+              "title": "James-Interlinear"
             },
             "group": "f7e0c39ce13b028c"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrasing-Signs.md",
+                "file": "59-James/James-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phrasing-Signs"
+              "title": "James-Interlinear"
             },
             "group": "f7e0c39ce13b028c"
           }
@@ -187,6 +187,7 @@
   },
   "active": "5b428f004336e776",
   "lastOpenFiles": [
+    "Phrasing-Signs.md",
     "60-1Peter/1Pe.1.3-12.md",
     "60-1Peter/1Pe.1.1-2.md",
     "60-1Peter/1Peter-Notes.md",
@@ -194,7 +195,6 @@
     "59-James/Jas.4.1-10.md",
     "65-Jude/Jud.1.3-16.md",
     "59-James/James-Interlinear.md",
-    "Phrasing-Signs.md",
     "65-Jude/Jude-Notes.md",
     "65-Jude/Jud.1.1-2.md",
     "65-Jude/Jude-Interlinear.md",
