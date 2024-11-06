@@ -2,36 +2,41 @@
 
 希臘文相關的數位工具不勝枚舉，以下僅列出幾個比較有特色的工具 (💰=付費；🆓=免費)。
 
-### 圖析 (Diagram)
-#### 字詞層級 (word level)
+## 圖析 (Diagram)
+### 字詞層級 (word level)
 - [💰Randy Leedy — New Testament Greek Guy](https://www.ntgreekguy.com/)
 	- ![[images/Pasted image 20210913211615.png]]
-	- I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries:
+	- "I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries."
 	- ![images/Pasted image 20210913211336.png](images/Pasted%20image%2020210913211336.png)
 - [💰William Ramey — NT Greek In Diagram](https://www.inthebeginning.org/e-diagrams/)
+	- ![images/Pasted image 20241105152112.png](images/Pasted%20image%2020241105152112.png)
 - [💰Accordance Bible Software — Greek Diagrams](http://accordancebible.com/product/greek-diagrams-not-for-mobile/)
+	- ![images/Pasted image 20241105152150.png](images/Pasted%20image%2020241105152150.png)
 
 
-#### 句法層級 (syntax level)
+### 句法層級 (syntax level)
 - [🆓OpenText Project](http://www.opentext.org/)
+	- ![images/Pasted image 20241105152607.png](images/Pasted%20image%2020241105152607.png)
 - [💰Accordance Bible Software — Grammatical Syntax add-on](https://accordancebible.com/product/grammatical-syntax-add-on-to-gnt28-t/)
+	- ![images/Pasted image 20241105152647.png](images/Pasted%20image%2020241105152647.png)
 - [💰Logos Bible Software — Cascadia Syntax Graphs of the New Testament](https://www.logos.com/product/183840/cascadia-syntax-graphs-of-the-new-testament)
+	- ![images/Pasted image 20241105154525.png](images/Pasted%20image%2020241105154525.png)
 
-### 網站
+## 網站
 - [🆓信望愛](https://bible.fhl.net/)
 	- 有[希臘文、中文 interlinear (逐字對照)](https://bible.fhl.net/new/read.php?VERSION16=interubs4&strongflag=0&TABFLAG=1&chineses=%E5%A4%AA&chap=1&submit1=%E9%96%B1%E8%AE%80)
 	- 有 [Westcott-Hort 版本聖經＋NA27 Variants (異文)](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1) 加上簡單的斷句 (phrasing)
 	- 還有浸宣出版、戴德理翻譯的《新約希臘文中文辭典》：[中文 BAGD](http://bible.fhl.net/new/s.php?N=0&k=2316&m=)
 	- 還有 2020 年黃錫木主編、修訂 Louw-Nida 1998 出版 <em>Greek-English Lexicon of the New Testament: Based on Semantic Domains</em> 之辭典的[《希英新約大詞典──以語義域為基礎》](https://bkbible.fhl.net/SDBG_zh.html)
 - [🆓BibleArc](https://www.biblearc.com/)
-	- 有 SBL、NA28、LXX 經文版本
+	- 有 unfoldingWord 的 希臘文聖經、LXX 經文版本
 	- 可以畫圖析 (word-level、phrase-level、proposition-level diagram)。圖析功能勝過付費軟體，而且可以把圖析和解經心得發佈到網路上
 	- 能夠作詞形搜尋 (morphological search)，以及簡單的句法搜尋 (syntax search)
-	- 需要申請帳號 (台灣 2020 年還是免費)
+	- 需要申請帳號
 - [🆓OpenGNT](https://opengnt.com/)、[🆓Marvel Bible](https://marvel.bible/)、[🆓Bible Bento](https://BibleBento.com)、[🆓Unique Bible](https://www.uniquebible.app/home)
 	- 都出自同一位作者 [Eliran wong](https://github.com/eliranwong)，嘗試整合網路上所有公開分享的資源，打造一個跨平台 (Windows, Android, macOS, Linux, Chrome OS) 的軟體，壯志雄心，令人欽佩！
 - 聯合聖經公會的 [🆓Marble](https://semanticdictionary.org/semdic.php?databaseType=SDGNT&language=zht)
-- [🆓OpenHebrewBible](https://github.com/eliranwong/OpenHebrewBible)
+	- 有按照語意域 (semantic domain) 編寫的舊約、新約 (Louw-Nida 修訂版) 辭典
 - [🆓ETCBC] (Hebrew text BHSA, linguitic annotations, morphology, etc.)
 	- OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)
 	- Berean.bible (interlinear translation, Berean Study Bible, etc.)
@@ -97,6 +102,7 @@ https://www.koinegreek.com/ntaudio
 - [Berean Bible](https://berean.bible/downloads.htm)
 - [Tyndale STEPBible Data Repository CC BY 4.0](https://github.com/tyndale/STEPBible-Data)
 - [Open Greek New Testament Project](https://github.com/eliranwong/OpenGNT)
+- [OpenHebrewBible](https://github.com/eliranwong/OpenHebrewBible)
 - [ETCBC  Biblia Hebraica Stuttgartensia (Amstelodamensis)](https://github.com/ETCBC/bhsa)
 - [The Greek Syntax Jupyter Notebook Environment](https://github.com/biblicalhumanities/greek-syntax)
 
