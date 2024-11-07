@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital-Tools.md",
+                "file": "47-2Corinthians/2Co.3.7-18.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Digital-Tools"
+              "title": "2Co.3.7-18"
             }
           }
         ]
       },
       {
-        "id": "655d527ffe2479fc",
+        "id": "a377a7b6048ccf24",
         "type": "tabs",
         "children": [
           {
-            "id": "d05fc2197798b69f",
+            "id": "237e33852e20d737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital-Tools.md",
+                "file": "47-2Corinthians/2Co.3.7-18.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Digital-Tools"
+              "title": "2Co.3.7-18"
             }
           }
         ]
@@ -114,10 +114,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital-Tools.md"
+                "file": "47-2Corinthians/2Co.3.7-18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Digital-Tools"
+              "title": "Outline of 2Co.3.7-18"
             }
           },
           {
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +186,8 @@
   },
   "active": "c8b94b223622bdfc",
   "lastOpenFiles": [
+    "Digital-Tools.md",
+    "47-2Corinthians/2Co.3.7-18.md",
     "images/Pasted image 20241105154525.png",
     "images/Pasted image 20241105152647.png",
     "images/Pasted image 20241105152607.png",
@@ -214,7 +217,6 @@
     "65-Jude/Jude-Interlinear-TC.md",
     "58-Hebrews/Hebrews-Notes.md",
     "65-Jude/Jude-Vocabulary.md",
-    "65-Jude/Untitled-1.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "58-Hebrews/Hebrews-Interlinear.pdf",
@@ -228,7 +230,6 @@
     "images/Pasted image 20231115105737.png",
     "images/Pasted image 20231027085033.png",
     "images/Pasted image 20231024103152.png",
-    "images/Pasted image 20231018153851.png",
     "41-Mark",
     "BBG4E/BG4E 規劃.canvas",
     "BG4E-ExpPreaching"
