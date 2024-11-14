@@ -21,8 +21,21 @@
               "title": "2Pe.1.1–4"
             },
             "group": "fe2642cfd01d5fff"
+          },
+          {
+            "id": "c308dacd66bcc34f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a377a7b6048ccf24",
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8b94b223622bdfc",
+  "active": "c308dacd66bcc34f",
   "lastOpenFiles": [
     "61-2Peter/2Pe.1.3–4.md",
     "61-2Peter/2Pe.1.16-21.md",
