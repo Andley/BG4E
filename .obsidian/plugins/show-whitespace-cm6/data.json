@@ -2,16 +2,17 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 3
+    "patch": 4
   },
   "disablePluginStyles": false,
-  "showBlockquoteMarkers": false,
-  "showFrontmatterWhitespace": true,
-  "showExtraWhitespace": true,
-  "showLineEndings": true,
-  "showTableWhitespace": true,
-  "showCodeblockWhitespace": true,
-  "showAllWhitespace": true,
+  "enabled": true,
   "outlineListMarkers": false,
-  "enabled": true
+  "showAllCodeblockWhitespace": false,
+  "showAllWhitespace": true,
+  "showBlockquoteMarkers": false,
+  "showCodeblockWhitespace": true,
+  "showExtraWhitespace": true,
+  "showFrontmatterWhitespace": true,
+  "showLineEndings": true,
+  "showTableWhitespace": true
 }
