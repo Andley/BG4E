@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "47-2Corinthians/2Co.3.7-18.md",
+                "file": "61-2Peter/2Pe.1.1–4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2Co.3.7-18"
-            }
+              "title": "2Pe.1.1–4"
+            },
+            "group": "fe2642cfd01d5fff"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "47-2Corinthians/2Co.3.7-18.md",
+                "file": "61-2Peter/2Pe.1.1–4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2Co.3.7-18"
-            }
+              "title": "2Pe.1.1–4"
+            },
+            "group": "fe2642cfd01d5fff"
           }
         ]
       }
@@ -186,8 +188,12 @@
   },
   "active": "c8b94b223622bdfc",
   "lastOpenFiles": [
-    "Digital-Tools.md",
+    "61-2Peter/2Pe.1.3–4.md",
+    "61-2Peter/2Pe.1.16-21.md",
+    "61-2Peter/2Peter-Notes.md",
+    "61-2Peter/2Pe.1.1–4.md",
     "47-2Corinthians/2Co.3.7-18.md",
+    "Digital-Tools.md",
     "images/Pasted image 20241105154525.png",
     "images/Pasted image 20241105152647.png",
     "images/Pasted image 20241105152607.png",
@@ -213,10 +219,6 @@
     "65-Jude/Jud.1.14–16.md",
     "65-Jude/Jud.1.17–23.md",
     "65-Jude/Jud.1.24–25.md",
-    "65-Jude/Jude-Clause.md",
-    "65-Jude/Jude-Interlinear-TC.md",
-    "58-Hebrews/Hebrews-Notes.md",
-    "65-Jude/Jude-Vocabulary.md",
     "60-1Peter/1Peter-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "58-Hebrews/Hebrews-Interlinear.pdf",
