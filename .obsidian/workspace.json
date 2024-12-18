@@ -1,62 +1,21 @@
 {
   "main": {
-    "id": "3969f3923e6cfedb",
+    "id": "b6e562740e5247d8",
     "type": "split",
     "children": [
       {
-        "id": "a377a7b6048ccf24",
+        "id": "1d7cf60d7168bba8",
         "type": "tabs",
         "children": [
           {
-            "id": "237e33852e20d737",
+            "id": "2172faf9475fe491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "60-1Peter/1Pe.1.3-12.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1Pe.1.3-12"
+              "title": "New tab"
             }
-          },
-          {
-            "id": "ee228214ead578ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "51-Colossians/Col.1.9-20.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Col.1.9-20"
-            },
-            "group": "41d9ca22f6fcbda6"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c91cde79d4ac2435",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0818d3eb3559d56b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "51-Colossians/Col.1.9-20.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Col.1.9-20"
-            },
-            "group": "41d9ca22f6fcbda6"
           }
         ]
       }
@@ -64,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2b1e149eb78e8515",
+    "id": "ae00f3afb62af817",
     "type": "split",
     "children": [
       {
-        "id": "fb89deb39da52857",
+        "id": "48e80893b56dbdae",
         "type": "tabs",
         "children": [
           {
-            "id": "75b75d906b38f1fb",
+            "id": "29ddec0df34d521d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +43,7 @@
             }
           },
           {
-            "id": "8b1314860610141a",
+            "id": "5fe1e7c11ed87e86",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +60,7 @@
             }
           },
           {
-            "id": "6c36d47b9e110291",
+            "id": "889ad2727945dfa1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,36 +73,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1464b72f66019d33",
+    "id": "95bbf402a26941bd",
     "type": "split",
     "children": [
       {
-        "id": "d0f62b3dd05030d0",
+        "id": "7b1040c913fdc2ab",
         "type": "tabs",
         "children": [
           {
-            "id": "8c60c8158acd8037",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "47-2Corinthians/2Co.3.7-18.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2Co.3.7-18"
-            }
-          },
-          {
-            "id": "829364a054e0f70c",
+            "id": "9789d3a3756ef671",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,42 +98,50 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1Pe.1.3-12"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a4f5dfe44ef94ddb",
+            "id": "ca4ba336e24ae13a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.1.3-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1Pe.1.3-12"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "78a719dc1b9c6226",
+            "id": "b360d4f7a3c31531",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8852f6638c498419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,59 +149,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ee228214ead578ed",
-  "lastOpenFiles": [
-    "60-1Peter/Untitled.md",
-    "60-1Peter/1Pe.1.3-12.md",
-    "61-2Peter/2Pe.1.16-21.md",
-    "61-2Peter/2Pe.1.3–4.md",
-    "47-2Corinthians/2Co.2.12-13.md",
-    "61-2Peter/2Peter-Notes.md",
-    "61-2Peter/2Pe.1.1–4.md",
-    "47-2Corinthians/2Co.3.7-18.md",
-    "Digital-Tools.md",
-    "images/Pasted image 20241105154525.png",
-    "images/Pasted image 20241105152647.png",
-    "images/Pasted image 20241105152607.png",
-    "images/Pasted image 20241105152150.png",
-    "images/Pasted image 20241105152112.png",
-    "60-1Peter/1Pe.2.1-10.md",
-    "60-1Peter/1Pe.1.13-25.md",
-    "59-James/James-Notes.md",
-    "59-James/James-Interlinear.md",
-    "Phrasing-Signs.md",
-    "60-1Peter/1Pe.1.1-2.md",
-    "60-1Peter/1Peter-Notes.md",
-    "59-James/Jas.4.1-10.md",
-    "65-Jude/Jud.1.3-16.md",
-    "65-Jude/Jude-Notes.md",
-    "65-Jude/Jud.1.1-2.md",
-    "65-Jude/Jude-Interlinear.md",
-    "65-Jude/Jud.1.1–2.md",
-    "65-Jude/Jud.1.3–4.md",
-    "65-Jude/Jud.1.5–7.md",
-    "65-Jude/Jud.1.8–13.md",
-    "65-Jude/Jud.1.14–16.md",
-    "60-1Peter/1Peter-Interlinear.pdf",
-    "59-James/James-Interlinear.pdf",
-    "58-Hebrews/Hebrews-Interlinear.pdf",
-    "60-1Peter/1Peter-Interlinear 1.pdf",
-    "60-1Peter/1Peter-Interlinear.html",
-    "My code file.ts",
-    "42-Luke",
-    "images/Pasted image 20231211062635.png",
-    "images/Pasted image 20231206094330.png",
-    "Excalidraw",
-    "images/Pasted image 20231115105737.png",
-    "images/Pasted image 20231027085033.png",
-    "images/Pasted image 20231024103152.png",
-    "41-Mark",
-    "BBG4E/BG4E 規劃.canvas",
-    "BG4E-ExpPreaching"
-  ]
+  "active": "2172faf9475fe491",
+  "lastOpenFiles": []
 }
