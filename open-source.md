@@ -9,6 +9,8 @@ BBH Chinese (page 211): qtl → we-qtl → we-qtl
 	- BibleOL
 	- Marvel Bible
 	-  qtl → we-qtl → we-qtl
+- - Berean  (no distinction between we-qtl & wa-qtl) -- only ConjPerf
+	- 
 - ————————
 - THOT
 	- STEP THOT
@@ -17,8 +19,7 @@ BBH Chinese (page 211): qtl → we-qtl → we-qtl
 	- qtl → we-qtl → we-qtl
 - BW10
 	- qtl → we-qtl → we-qtl
-- Berean
-	- 
+
 - https://thebible.org/gt/index
 	- qtl → we-qtl → we-qtl
 - FHL (CBOL)
