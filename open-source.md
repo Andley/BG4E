@@ -1,6 +1,6 @@
 # 新約開源資料庫
 
-# 舊約
+# 舊約開源資料庫
 test case: Jer 22:15
 ‎אָכַ֣ל וְשָׁתָ֗ה וְעָשָׂ֤ה (Jer. 22:15 WTT)
 BBH Chinese (page 211): qtl → we-qtl → we-qtl
@@ -26,3 +26,6 @@ BBH Chinese (page 211): qtl → we-qtl → we-qtl
 	- qtl → ==wa-qt==l → wa-qtl
 - https://symphony.clearlabs.biblica.com/?workspace=reading&osisRef=Jer.22.15&structure=treedown-clauses&selectedLemma=%D7%A2%D6%B8%D7%A9%D7%82%D6%B8%D7%94
 	-  qtl → we-qtl → we-qtl
+
+## 舊約句法圖析
+	

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "open-source.md",
-                "mode": "source",
-                "source": false
+                "file": "63-2John/2John-Interlinear.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "open-source"
+              "title": "2John-Interlinear"
             }
           }
         ]
@@ -35,7 +35,7 @@
               "state": {
                 "file": "open-source.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "open-source"
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.50536727905273
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,10 +185,14 @@
   },
   "active": "2172faf9475fe491",
   "lastOpenFiles": [
+    "63-2John/2John-Notes.md",
+    "63-2John/2Jo.1.1-3.md",
+    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+    "BG4E-ExpPreaching/Sermon-1.md",
+    "open-source.md",
     "README.md",
     "Quotations.md",
     "Phrasing-Signs.md",
-    "open-source.md",
     "UNICODE.md",
     "60-1Peter/1Pe.2.11-17.md",
     "60-1Peter/1Pe.1.13-25.md",
