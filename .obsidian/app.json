@@ -2,5 +2,6 @@
   "livePreview": false,
   "promptDelete": false,
   "readableLineLength": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "showInlineTitle": false
 }

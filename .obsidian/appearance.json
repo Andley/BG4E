@@ -3,5 +3,7 @@
     "bg4e"
   ],
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "baseFontSize": 14
 }

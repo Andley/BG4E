@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1d7cf60d7168bba8",
+        "id": "10c2685e4f45ae1c",
         "type": "tabs",
         "children": [
           {
-            "id": "2172faf9475fe491",
+            "id": "aa9db80e3c08effb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "63-2John/2John-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            },
-            "group": "fee138286a5d1f70"
-          }
-        ]
-      },
-      {
-        "id": "a698e4ed75871595",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d33f5874000d1d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "45-Romans/Untitled.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            },
-            "group": "fee138286a5d1f70"
+              "title": "2John-Interlinear"
+            }
           }
         ]
       }
@@ -95,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.50536727905273
+    "width": 337.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,11 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d33f5874000d1d24",
+  "active": "aa9db80e3c08effb",
   "lastOpenFiles": [
+    "59-James/2John-Interlinear.pdf",
+    "59-James/James-Interlinear.md",
+    "59-James/James-Interlinear.pdf",
+    "59-James/James-Interlinear-1735168579559.pdf",
+    "59-James/James-Interlinear-1735168542485.pdf",
+    "59-James/Jas.1.2-8.md",
+    "59-James/Jas.2.14-26.md",
+    "59-James/Jas.1.1.md",
+    "63-2John/2John-Interlinear.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "45-Romans/Untitled.md",
+    "45-Romans/Rom.1.8-15.md",
+    "45-Romans/Rom.1-7.md",
     "BBG4E/Untitled.md",
     "60-1Peter/Untitled.md",
-    "45-Romans/Untitled.md",
     "64-3John/3Jo.1.1-4.md",
     "UNICODE.md",
     "README.md",
@@ -204,15 +193,6 @@
     "Idioms.md",
     "Biblography.md",
     "Digital-Tools.md",
-    "Greek Pedagogy.md",
-    "Living Greek Resources.md",
-    "Mounce-Syntax-Summary.md",
-    "45-Romans/Rom.1.8-15.md",
-    "45-Romans/Rom.4.1-8.md",
-    "template/Book-Notes.md",
-    "template/template.md",
-    "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-15 06.23.07.excalidraw.md",
-    "63-2John/2John-Interlinear.md"
+    "Greek Pedagogy.md"
   ]
 }

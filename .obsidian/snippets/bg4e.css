@@ -1,6 +1,6 @@
 /* 設定字型 */
 @font-face {
-	font-family: AndleyFont;
+	font-family: InterlinearFont;
 	unicode-range: U+0000-007F; /* English UNICODE */
 	src: local("Arial Narrow");
   }
@@ -35,14 +35,14 @@ h1, h3, h5 {
 }
 
 html, body, p, li {
-  font-family: "Noto Sans", AndleyFont;
+  font-family: AndleyFont, "Noto Sans";
   font-size: 16px;
 }
 
-/*   Ruby Interlinear  */
+/*   Ruby Interlinear  
 ruby {
-  font-family: AndleyFont;
-  font-size: 16px ; /* 12pt 字體大小*/
+  font-family: AndleyFont, "Arial Narrow";
+  font-size: 16px ; 
   line-height:4.5em;
   padding: 0 1px;
 }
@@ -55,6 +55,25 @@ rt {
 
 li ruby {
   line-height:4em;
+} */
+
+ruby {
+  display: inline-flex;
+  flex-direction: column ;
+  align-items: center;
+  font-size: 16px ; /* 12pt 字體大小*/
+  line-height: 30px ;
+  padding: 0px 0px 3px 0px ;
+  font-family: AndleyFont, "Arial Narrow";
+}
+
+li ruby {
+  line-height: 30px ;
+}
+
+rt {
+  font-size: 13px ; /* 10pt 字體大小*/
+  line-height: 13px ;
 }
 
 /*   Table  */
@@ -75,9 +94,9 @@ li ruby {
 	&.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 4px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 4px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 4px;}
 
   /* ————
   &.verb {background-color: lightpink;}
@@ -105,6 +124,7 @@ li ruby {
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
+  --font-family: AndleyFont, "Noto Sans";
   }
 
 .theme-light {
