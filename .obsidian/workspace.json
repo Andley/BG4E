@@ -13,33 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Book-Notes.md",
+                "file": "45-Romans/Rom.1.8-15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Book-Notes"
-            }
+              "title": "Rom.1.8-15"
+            },
+            "group": "fee138286a5d1f70"
           }
         ]
       },
       {
-        "id": "a3dd272bccae87ed",
+        "id": "a698e4ed75871595",
         "type": "tabs",
         "children": [
           {
-            "id": "6ed37b68638c5852",
+            "id": "d33f5874000d1d24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "open-source.md",
+                "file": "45-Romans/Rom.1.8-15.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "open-source"
-            }
+              "title": "Rom.1.8-15"
+            },
+            "group": "fee138286a5d1f70"
           }
         ]
       }
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50536727905273
+    "width": 200.50536727905273,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,8 +188,11 @@
   },
   "active": "2172faf9475fe491",
   "lastOpenFiles": [
-    "template/template.md",
+    "45-Romans/Rom.4.1-8.md",
+    "45-Romans/Rom.1.8-15.md",
+    "64-3John/3Jo.1.1-4.md",
     "template/Book-Notes.md",
+    "template/template.md",
     "Excalidraw/Drawing 2023-12-26 09.38.37.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 06.23.07.excalidraw.md",
     "63-2John/2John-Interlinear.md",

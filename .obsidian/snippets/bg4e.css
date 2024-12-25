@@ -49,12 +49,12 @@ ruby {
 
 rt {
   font-size: 13px ; 
-  text-align: center;
+  text-align:center;
   padding: 0 3px;
 }
 
 li ruby {
-  line-height:3.5em;
+  line-height:4em;
 }
 
 /*   Table  */

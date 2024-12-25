@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "bg4e"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }
