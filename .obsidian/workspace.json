@@ -6,6 +6,7 @@
       {
         "id": "10c2685e4f45ae1c",
         "type": "tabs",
+        "dimension": 31.21345029239766,
         "children": [
           {
             "id": "aa9db80e3c08effb",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "59-James/James-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "James-Interlinear"
             },
             "group": "47f4dd1f33f052c2"
           }
@@ -27,6 +28,7 @@
       {
         "id": "f54097eae4a561f2",
         "type": "tabs",
+        "dimension": 68.78654970760235,
         "children": [
           {
             "id": "0f859a44aa8d7538",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Untitled.md",
+                "file": "59-James/James-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "James-Interlinear"
             },
             "group": "47f4dd1f33f052c2"
           }
@@ -65,7 +67,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -99,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -176,21 +179,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "aa9db80e3c08effb",
   "lastOpenFiles": [
+    "64-3John/3John-Interlinear.md",
+    "45-Romans/Untitled.md",
     "48-Galatians/Galatians-Interlinear.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Rom.1.8-15.md",
-    "45-Romans/Untitled.md",
     "59-James/Untitled.pdf",
     "63-2John/2John-Interlinear.md",
     "59-James/2John-Interlinear.pdf",
@@ -216,7 +220,6 @@
     "Memorize.md",
     "Idioms.md",
     "Biblography.md",
-    "Digital-Tools.md",
-    "Greek Pedagogy.md"
+    "Digital-Tools.md"
   ]
 }

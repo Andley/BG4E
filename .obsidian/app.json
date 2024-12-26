@@ -3,5 +3,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showRibbon": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "autoConvertHtml": false
 }
