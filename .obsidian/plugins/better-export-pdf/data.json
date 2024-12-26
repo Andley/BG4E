@@ -10,11 +10,11 @@
   "displayMetadata": false,
   "debug": false,
   "isTimestamp": false,
-  "enabledCss": true,
+  "enabledCss": false,
   "prevConfig": {
     "pageSize": "A4",
     "marginType": "1",
-    "showTitle": true,
+    "showTitle": false,
     "open": true,
     "scale": 100,
     "landscape": false,
@@ -22,7 +22,7 @@
     "marginBottom": "30",
     "marginLeft": "0",
     "marginRight": "0",
-    "displayHeader": true,
+    "displayHeader": false,
     "displayFooter": true,
     "cssSnippet": "0"
   }

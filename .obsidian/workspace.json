@@ -13,13 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "63-2John/2John-Interlinear.md",
+                "file": "45-Romans/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2John-Interlinear"
-            }
+              "title": "Untitled"
+            },
+            "group": "47f4dd1f33f052c2"
+          }
+        ]
+      },
+      {
+        "id": "f54097eae4a561f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f859a44aa8d7538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "45-Romans/Untitled.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            },
+            "group": "47f4dd1f33f052c2"
           }
         ]
       }
@@ -165,6 +187,8 @@
   },
   "active": "aa9db80e3c08effb",
   "lastOpenFiles": [
+    "59-James/Untitled.pdf",
+    "63-2John/2John-Interlinear.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.md",
     "59-James/James-Interlinear.pdf",
@@ -173,7 +197,6 @@
     "59-James/Jas.1.2-8.md",
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.1.1.md",
-    "63-2John/2John-Interlinear.md",
     "48-Galatians/Galatians-Interlinear.md",
     "45-Romans/Untitled.md",
     "45-Romans/Rom.1.8-15.md",
