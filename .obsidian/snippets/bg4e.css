@@ -39,28 +39,22 @@ html, body, p, li {
   font-size: 16px;
 }
 
-@media print {
-  body {
-    font-family: "Noto Sans TC" !important;
-  }
-}
 
 /*   Ruby Interlinear */
 ruby {
   font-family: AndleyFont, "Arial Narrow";
   font-size: 16px ; 
   line-height:4.5em;
-  padding: 0 1px;
+  ruby-align:start;
 }
 
 rt {
   font-size: 13px ; 
-  text-align:center;
-  padding: 0 3px;
+  padding: 0 3px 0 3px;
 }
 
 li ruby {
-  line-height:4em;
+  line-height:3em;
 } 
 
 /*
