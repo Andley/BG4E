@@ -18,35 +18,7 @@
   }
   @font-face {
 	font-family: AndleyFont;
-	unicode-range: U+00-024F; /* English UNICODE */
-	src: local("Noto Sans");
-  }
-  @font-face {
-	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+F900-FAFF, U+2F800-2FA1F; /* 中文 UNICODE */
-	src: local("Noto Sans CJK TC");
-  }
-  
-  /* ———————— */
-
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Plus");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("SBL Hebrew");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+00-024F; /* English UNICODE */
-	src: local("Arial Narrow");
-  }
-  @font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
 	src: local("Noto Sans CJK TC");
   }
 
@@ -75,26 +47,20 @@
   }
 
   ruby {
-    font-family: AndleyFont;
-    font-size: 16px;
-    line-height: 4.5em;
-    padding: 0 1px;
-  }
-
-  li ruby {
-    line-height: 3.5em;
-  }
-
-  li {
-    line-height:1.5em;
+    font-family: AndleyFont, "Arial Narrow";
+    font-size: 16px ; 
+    line-height:4.5em;
+    ruby-align:start;
+    padding: 0 3px 0 0px;
   }
   
   rt {
-    font-family: InterlinearFont;
-    text-align: center;
-    font-size:13px;
-    padding: 0 2px;
+    font-size: 13px ; 
   }
+  
+  li ruby {
+    line-height:3em;
+  } 
 
   /* page layout */
   header {

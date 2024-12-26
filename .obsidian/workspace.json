@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa9db80e3c08effb",
+  "active": "0f859a44aa8d7538",
   "lastOpenFiles": [
     "64-3John/3John-Interlinear.md",
     "45-Romans/Untitled.md",

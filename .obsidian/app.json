@@ -4,5 +4,6 @@
   "readableLineLength": true,
   "showRibbon": false,
   "showInlineTitle": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "showUnsupportedFiles": true
 }
