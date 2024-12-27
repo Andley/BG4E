@@ -4,48 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "10c2685e4f45ae1c",
-        "type": "tabs",
-        "dimension": 31.21345029239766,
+        "id": "322f9d712356b168",
+        "type": "split",
         "children": [
           {
-            "id": "aa9db80e3c08effb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "59-James/James-Interlinear.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "James-Interlinear"
-            },
-            "group": "47f4dd1f33f052c2"
-          }
-        ]
-      },
-      {
-        "id": "f54097eae4a561f2",
-        "type": "tabs",
-        "dimension": 68.78654970760235,
-        "children": [
+            "id": "f54097eae4a561f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f859a44aa8d7538",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "59-James/James-Interlinear.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "James-Interlinear"
+                }
+              }
+            ]
+          },
           {
-            "id": "0f859a44aa8d7538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "59-James/James-Interlinear.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "James-Interlinear"
-            },
-            "group": "47f4dd1f33f052c2"
+            "id": "f682793c19b3503d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "11f8151835b40fa9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "59-James/James-Interlinear.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "James-Interlinear"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -189,6 +190,8 @@
   },
   "active": "0f859a44aa8d7538",
   "lastOpenFiles": [
+    "59-James/James-Interlinear.pdf",
+    "59-James/James-Interlinear.md",
     "64-3John/3John-Interlinear.md",
     "45-Romans/Untitled.md",
     "48-Galatians/Galatians-Interlinear.md",
@@ -197,8 +200,6 @@
     "59-James/Untitled.pdf",
     "63-2John/2John-Interlinear.md",
     "59-James/2John-Interlinear.pdf",
-    "59-James/James-Interlinear.md",
-    "59-James/James-Interlinear.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf",
     "59-James/Jas.1.2-8.md",
@@ -218,7 +219,6 @@
     "Synonyms/synonyms.md",
     "Memorize.md",
     "Idioms.md",
-    "Biblography.md",
-    "Digital-Tools.md"
+    "Biblography.md"
   ]
 }
