@@ -1,9 +1,9 @@
 {
   "enabledCssSnippets": [
-    "bg4e"
+    "xx"
   ],
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "showViewHeader": true,
-  "baseFontSize": 14
+  "baseFontSize": 26
 }

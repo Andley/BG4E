@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+Hebrew:wght@100..900&family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+Hebrew:wght@100..900&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* 設定字型 */
 
@@ -47,7 +46,7 @@
   }
 
   ruby {
-    font-family: "Stint Ultra Condensed", "Gentium Book Plus", "Noto Serif Hebrew", "Noto Sans TC";;
+    font-family: "Saira Extra Condensed", "Gentium Book Plus", "Noto Serif Hebrew", "Noto Sans TC";;
     font-size: 16px ; 
     line-height:4.5em;
     ruby-align:start;
