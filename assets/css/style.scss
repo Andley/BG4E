@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Noto+Sans+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+Hebrew:wght@100..900&family=Stint+Ultra+Condensed&display=swap');
 
 /* 設定字型 */
 
@@ -14,16 +14,16 @@
   @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("SBL Hebrew");
+	src: local("Noto Serif Hebrew");
   }
   @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+F900-FAFF, U+2F800-2FA1F; /* 中文 UNICODE */
-	src: local("Noto Sans CJK TC");
+	src: local("Noto Sans TC");
   }
 
   body {
-    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC', 'Noto Sans SC';
+    font-family: AndleyFont;
     color: black;
   }
 
@@ -47,7 +47,7 @@
   }
 
   ruby {
-    font-family: AndleyFont, "Arial Narrow";
+    font-family: AndleyFont, "Stint Ultra Condensed";
     font-size: 16px ; 
     line-height:4.5em;
     ruby-align:start;
@@ -71,7 +71,7 @@
   section {
     margin-top: 100px;
     padding-top:20px;
-    width: 900px;
+    width: 750px;
   }
 
   ul li::marker {
