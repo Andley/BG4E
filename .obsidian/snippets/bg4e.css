@@ -1,9 +1,5 @@
 /* 設定字型 */
-@font-face {
-	font-family: InterlinearFont;
-	unicode-range: U+0000-007F; /* English UNICODE */
-	src: local("Arial Narrow");
-  }
+
 @font-face {
   font-family: AndleyFont;
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
@@ -12,12 +8,12 @@
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Noto Sans CJK TC");
+	src: local("Microsoft Yahei");
   }
 @font-face {
   font-family: AndleyFont;
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: local("SBL Hebrew");
+  src: local("Ezra SIL");
   }
   
 /* 標題 */
@@ -27,7 +23,7 @@ h3, .cm-header-3, .markdown-preview-view h3,
 h4, .cm-header-4, .markdown-preview-view h4,
 h5, .cm-header-5, .markdown-preview-view h5,
 h6, .cm-header-6, .markdown-preview-view h6 {
-  font-family: "Noto Sans Black", "Noto Sans TC Black", AndleyFont;
+  font-family: AndleyFont, "Noto Sans";
 }
 
 h1, h3, h5 {
@@ -160,7 +156,7 @@ ul ul::before {
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
-  font-family: AndleyFont;
+  font-family: AndleyFont, "Arial Narrow";
   font-size: 13px;
 }
 
