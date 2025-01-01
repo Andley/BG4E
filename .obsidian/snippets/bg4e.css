@@ -38,7 +38,7 @@ html, body, p, li {
 
 /*   Ruby Interlinear */
 ruby {
-  font-family: AndleyFont, "Arial Narrow";
+  font-family: "Stint Ultra Condensed", AndleyFont;
   font-size: 16px ; 
   line-height:4.5em;
   ruby-align:start;
