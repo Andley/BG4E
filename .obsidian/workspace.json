@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "64-3John/3John-Interlinear.md",
-                "mode": "preview",
+                "file": "59-James/James-Interlinear.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3John-Interlinear"
-            }
+              "title": "James-Interlinear"
+            },
+            "group": "457b1d55b778a553"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/Jas.2.14-26.md",
+                "file": "59-James/James-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jas.2.14-26"
-            }
+              "title": "James-Interlinear"
+            },
+            "group": "457b1d55b778a553"
           }
         ]
       }
@@ -94,21 +96,35 @@
             }
           },
           {
-            "id": "540088388cb59702",
+            "id": "8852f6638c498419",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "file": "59-James/James-Interlinear.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of James-Interlinear"
+            }
+          },
+          {
+            "id": "b360d4f7a3c31531",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -124,8 +140,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "64-3John/3John-Interlinear.md",
-                "collapseAll": false,
+                "file": "59-James/James-Interlinear.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -134,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3John-Interlinear"
+              "title": "Backlinks for James-Interlinear"
             }
           },
           {
@@ -143,44 +159,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-1Peter/1Pe.2.11-17.md",
+                "file": "59-James/James-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1Pe.2.11-17"
-            }
-          },
-          {
-            "id": "b360d4f7a3c31531",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8852f6638c498419",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "64-3John/3John-Interlinear.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 3John-Interlinear"
+              "title": "Outgoing links from James-Interlinear"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +183,22 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "540088388cb59702",
+  "active": "6b2efa10f3bcbf13",
   "lastOpenFiles": [
-    "59-James/Jas.2.14-26.md",
+    "59-James/Jas.1.2-8.md",
+    "59-James/Jas.1.1.md",
+    "59-James/James-Interlinear.md",
+    "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
+    "59-James/Jas.2.14-26.md",
     "64-3John/3Jo.1.1-4.md",
     "59-James/Jas.2.1-13.md",
     "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
-    "59-James/Jas.1.1.md",
-    "59-James/James-Interlinear.md",
     "59-James/James-Interlinear.pdf",
     "45-Romans/Untitled.md",
     "48-Galatians/Galatians-Interlinear.md",
@@ -214,7 +209,6 @@
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf",
-    "59-James/Jas.1.2-8.md",
     "45-Romans/Rom.1-7.md",
     "BBG4E/Untitled.md",
     "60-1Peter/Untitled.md",
@@ -224,7 +218,6 @@
     "Phrasing-Signs.md",
     "open-source.md",
     "cheatsheet.md",
-    "59-James/James-Notes.md",
     "Synonyms/synonyms.md"
   ]
 }

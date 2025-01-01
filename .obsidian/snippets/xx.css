@@ -1,17 +1,35 @@
-﻿/* 標題 */
-h1, .cm-header-1, .markdown-preview-view h1,
-h2, .cm-header-2, .markdown-preview-view h2,
-h3, .cm-header-3, .markdown-preview-view h3,
-h4, .cm-header-4, .markdown-preview-view h4,
-h5, .cm-header-5, .markdown-preview-view h5,
-h6, .cm-header-6, .markdown-preview-view h6 {
-	font-family: "Microsoft Yahei", "Gentium Book Plus", "Noto Serif Hebrew";
+﻿/* 設定字型 */
+
+@font-face {
+	font-family: AndleyFont;
+	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+	src: local("Gentium Book Plus");
+	}
+  @font-face {
+	  font-family: AndleyFont;
+	  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+	  src: local("Noto Sans TC");
+	}
+  @font-face {
+	font-family: AndleyFont;
+	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+	src: local("Ezra SIL");
+	}
+
+/* 標題 */
+h1, h2, h3, h4, h5, h6 {
+	font-family: AndleyFont;
 }
 
-h1, h3, h5, .cm-header-1, .cm-header-3, .cm-header-5, .markdown-preview-view h1, .markdown-preview-view h3, .markdown-preview-view h5 {
+h1, h3, h5 {
   text-align: center;
 }
 
+html, body, p, li {
+	font-family: AndleyFont, "Noto Sans";
+	font-size: 16px;
+  }
+  
 /*   Ruby Interlinear */
 ruby {
 	font-size: 1em ; 
@@ -25,7 +43,7 @@ rt {
   }
   
 li ruby {
-	line-height:3em;
+	line-height:4em;
   } 
 
 
@@ -35,10 +53,11 @@ mark {
 	&.poetry {background-color: transparent;}
 	&.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
+	&.punctuation::after {background-color: transparent; content:' ';}
 	/* ———————— */
-	 &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 8px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 8px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 8px;}
   
 	/* 
 	&.verb {background-color: lightpink;}
@@ -71,7 +90,7 @@ mark {
 	--control-character-color: silver;
 	--collapse-icon-color-collapsed: lightgreen;
 	--color-base-40: silver;
-	--font-text: "Gentium Book Plus", "Noto Sans";
+	--font-text: "Gentium Book Plus", "Noto Serif Hebrew";
 	}
   
   .theme-light {
@@ -95,9 +114,6 @@ mark {
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
 	color: var(--text-tag);
 	font-family: "Arial Narrow";
-	font-size: 0.8em;
+	font-size: 0.75em;
   }
   
-  .nav-file-title, .nav-folder-title {
-	line-height: 1em;
-  }
