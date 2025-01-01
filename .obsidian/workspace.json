@@ -25,6 +25,22 @@
         ]
       },
       {
+        "id": "c0ffc931de590c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1490f983d0909be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
         "id": "5d789bfd5921c730",
         "type": "tabs",
         "children": [
@@ -185,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f859a44aa8d7538",
+  "active": "a1490f983d0909be",
   "lastOpenFiles": [
+    "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
     "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
@@ -205,7 +222,6 @@
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf",
     "59-James/Jas.1.2-8.md",
-    "59-James/Jas.2.14-26.md",
     "45-Romans/Rom.1-7.md",
     "BBG4E/Untitled.md",
     "60-1Peter/Untitled.md",
