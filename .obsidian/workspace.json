@@ -25,22 +25,6 @@
         ]
       },
       {
-        "id": "c0ffc931de590c18",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1490f983d0909be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "5d789bfd5921c730",
         "type": "tabs",
         "children": [
@@ -201,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1490f983d0909be",
+  "active": "0f859a44aa8d7538",
   "lastOpenFiles": [
     "59-James/Jas.2.14-26.md",
     "59-James/Jas.2.1-13.md",
