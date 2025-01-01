@@ -2,7 +2,7 @@
   "livePreview": false,
   "promptDelete": false,
   "readableLineLength": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "showInlineTitle": false,
   "autoConvertHtml": false,
   "showUnsupportedFiles": true

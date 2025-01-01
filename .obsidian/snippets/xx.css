@@ -5,6 +5,7 @@ h3, .cm-header-3, .markdown-preview-view h3,
 h4, .cm-header-4, .markdown-preview-view h4,
 h5, .cm-header-5, .markdown-preview-view h5,
 h6, .cm-header-6, .markdown-preview-view h6 {
+	font-family: "Microsoft Yahei", "Gentium Book Plus", "Noto Serif Hebrew";
 }
 
 h1, h3, h5, .cm-header-1, .cm-header-3, .cm-header-5, .markdown-preview-view h1, .markdown-preview-view h3, .markdown-preview-view h5 {
@@ -32,23 +33,27 @@ li ruby {
 mark {
 	&.poetry::before {content:'\a                 '; white-space: pre;}
 	&.poetry {background-color: transparent;}
-	  &.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
-	  &.punctuation {background-color: transparent; font-weight:bolder;}
+	&.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
+	&.punctuation {background-color: transparent; font-weight:bolder;}
 	/* ———————— */
-	  &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	  &.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	  &.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	 &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
   
-	/* ————
+	/* 
 	&.verb {background-color: lightpink;}
-	  &.ptc {background-color: lightblue; }
-	  &.inf {background-color: lightgreen; }
-	———— */
+	&.ptc {background-color: lightblue; }
+	&.inf {background-color: lightgreen; }
+	*/
+	
+	/*
+	&.verb {background-color: transparent; color: red;}
+	&.ptc {background-color: transparent; color: blue;}
+	&.inf {background-color: transparent; color: green;}
+	*/
   }
   
-	&.verb {background-color: transparent; color: red;}
-	  &.ptc {background-color: transparent; color: blue;}
-	  &.inf {background-color: transparent; color: green;}
+
 
 
 /* ============= Obsidian 介面 ================== */
@@ -83,4 +88,16 @@ mark {
 	--link-color:rgb(128, 136, 240);
 	--link-external-color:rgb(128, 136, 240);
 	--color-base-40: darkblue;
+  }
+
+
+/* HTML tags in preview and editor */
+.cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
+	color: var(--text-tag);
+	font-family: "Arial Narrow";
+	font-size: 0.8em;
+  }
+  
+  .nav-file-title, .nav-folder-title {
+	line-height: 1em;
   }

@@ -7,15 +7,6 @@
       "key": "C"
     }
   ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "workspace:edit-file-title": [],
   "editor:follow-link": [],
   "graph:open": [],
@@ -239,6 +230,22 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "window:reset-zoom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
     }
   ]
 }

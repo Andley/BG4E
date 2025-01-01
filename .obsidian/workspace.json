@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "64-3John/3Jo.1.1-4.md",
-                "mode": "source",
+                "file": "64-3John/3John-Interlinear.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3Jo.1.1-4"
+              "title": "3John-Interlinear"
             }
           }
         ]
@@ -92,8 +92,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "540088388cb59702",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-1Peter/1Pe.2.11-17.md",
+                "file": "64-3John/3John-Interlinear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1Pe.2.11-17"
+              "title": "Backlinks for 3John-Interlinear"
             }
           },
           {
@@ -159,34 +170,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-1Peter/1Pe.2.11-17.md"
+                "file": "64-3John/3John-Interlinear.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1Pe.2.11-17"
+              "title": "Outline of 3John-Interlinear"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f6f3346deb0614",
+  "active": "540088388cb59702",
   "lastOpenFiles": [
-    "64-3John/3Jo.1.1-4.md",
     "59-James/Jas.2.14-26.md",
+    "64-3John/3John-Interlinear.md",
+    "64-3John/3Jo.1.1-4.md",
     "59-James/Jas.2.1-13.md",
     "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
@@ -194,7 +205,6 @@
     "59-James/Jas.1.1.md",
     "59-James/James-Interlinear.md",
     "59-James/James-Interlinear.pdf",
-    "64-3John/3John-Interlinear.md",
     "45-Romans/Untitled.md",
     "48-Galatians/Galatians-Interlinear.md",
     "45-Romans/Romans-Interlinear.md",
