@@ -35,7 +35,7 @@ html, body, p, li {
 
 
 /*   Ruby Interlinear */
-ruby {
+/* ruby {
   font-size: 1em ; 
   line-height:4.5em;
   ruby-align:start;
@@ -47,29 +47,27 @@ rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
   font-family: AndleyFont, "Arial Narrow";
-}
+} */
 
 li ruby {
   line-height:4em;
 } 
 
-/*
 ruby {
-  display: inline-flex;
-  flex-direction: column ;
-  align-items: center;
-  font-size: 16px ; 
-  line-height: 30px ;
-  padding: 0px 0px 3px 0px ;
-  font-family: AndleyFont, "Arial Narrow";
-}
-li ruby {
-  line-height: 30px ;
-}
-rt {
-  font-size: 13px ; 
-  line-height: 13px ;
-} */
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-size: 1em ; /* 12pt 字體大小*/
+	line-height: 1em ;
+	font-family: "Gentium Book Plus";
+  padding-top: 0.1em;
+  }
+
+  rt {
+	  font-size: 0.8em;
+	  line-height: 1em;
+	  font-family: "Arial Narrow", "Gentium Book Plusw";
+  }
 
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
@@ -121,7 +119,6 @@ rt {
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
-  --font-text: AndleyFont, "Noto Sans";
   }
 
 .theme-light {
