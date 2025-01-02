@@ -5,22 +5,6 @@
 
 /* 設定字型 */
 
-@font-face {
-	font-family: AndleyFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Book Plus");
-  }
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("Noto Serif Hebrew");
-  }
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+F900-FAFF, U+2F800-2FA1F; /* 中文 UNICODE */
-	src: local("Noto Sans TC");
-  }
-
   body {
     font-family: "Gentium Book Plus", "Noto Serif Hebrew", "Noto Sans TC";
     color: black;
@@ -70,7 +54,7 @@
   section {
     margin-top: 100px;
     padding-top:20px;
-    width: 750px;
+    /* width: 750px;*/
   }
 
   ul li::marker {
