@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5d789bfd5921c730",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b2efa10f3bcbf13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "59-James/James-Interlinear.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "James-Interlinear"
-            },
-            "group": "457b1d55b778a553"
-          }
-        ]
-      },
-      {
         "id": "6598e429a37ee91c",
         "type": "tabs",
         "children": [
@@ -35,13 +14,32 @@
               "type": "markdown",
               "state": {
                 "file": "59-James/James-Interlinear.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "James-Interlinear"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d414ea7ceac339d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7367b74e5101b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "59-James/James-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "James-Interlinear"
-            },
-            "group": "457b1d55b778a553"
+            }
           }
         ]
       }
@@ -186,10 +184,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "6b2efa10f3bcbf13",
+  "active": "a7f6f3346deb0614",
   "lastOpenFiles": [
-    "59-James/Jas.1.2-8.md",
     "59-James/Jas.1.1.md",
+    "59-James/Jas.1.2-8.md",
     "59-James/James-Interlinear.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",

@@ -4,12 +4,12 @@
   font-family: AndleyFont;
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
   src: local("Gentium Book Plus");
-  }
+  }/*
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
 	src: local("Noto Sans TC");
-  }
+  }*/
 @font-face {
   font-family: AndleyFont;
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
@@ -23,7 +23,7 @@ h3, .cm-header-3, .markdown-preview-view h3,
 h4, .cm-header-4, .markdown-preview-view h4,
 h5, .cm-header-5, .markdown-preview-view h5,
 h6, .cm-header-6, .markdown-preview-view h6 {
-  font-family: AndleyFont, "Noto Sans";
+  font-family: AndleyFont, "Noto Sans TC";
 }
 
 h1, h3, h5 {
@@ -31,13 +31,14 @@ h1, h3, h5 {
 }
 
 html, body, p, li {
-  font-family: AndleyFont, "Noto Sans";
+  font-family: AndleyFont, "Noto Sans TC";
   font-size: 16px;
 }
 
 
 /*   Ruby Interlinear */
 ruby {
+  font-family: AndleyFont, "Arial Narrow";
   font-size: 1em ; 
   line-height:4.5em;
   ruby-align:start;
@@ -46,10 +47,11 @@ ruby {
 
 rt {
   font-size: 0.8em ; 
+  padding: 0 0.1em 0 0;
 }
 
 li ruby {
-  line-height:3em;
+  line-height:4em;
 } 
 
 /*
@@ -96,12 +98,14 @@ rt {
   &.verb {background-color: lightpink;}
 	&.ptc {background-color: lightblue; }
 	&.inf {background-color: lightgreen; }
-  ———— */
-}
-
+  
   &.verb {background-color: transparent; color: red;}
 	&.ptc {background-color: transparent; color: blue;}
 	&.inf {background-color: transparent; color: green;}
+  ———— */
+}
+
+
 
 /* ============= Obsidian 介面 ================== */
 .theme-dark {

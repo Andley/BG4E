@@ -1,8 +1,8 @@
 {
   "enabledCssSnippets": [
-    "xx"
+    "bg4e"
   ],
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "theme": "obsidian",
   "showViewHeader": true,
   "baseFontSize": 16
