@@ -4,17 +4,23 @@
   font-family: AndleyFont;
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
   src: local("Gentium Book Plus");
-  }/*
-@font-face {
-	font-family: AndleyFont;
-	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Noto Sans TC");
-  }*/
+  }
 @font-face {
   font-family: AndleyFont;
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
   src: local("Ezra SIL");
   }
+@font-face {
+    font-family: AndleyFont;
+    unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+    src: local("Noto Sans TC");
+  }
+/*
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0000-007F; /* 拉丁英文 UNICODE */
+  src: local("Noto Sans");
+} */
   
 /* 標題 */
 h1, .cm-header-1, .markdown-preview-view h1,
@@ -23,7 +29,7 @@ h3, .cm-header-3, .markdown-preview-view h3,
 h4, .cm-header-4, .markdown-preview-view h4,
 h5, .cm-header-5, .markdown-preview-view h5,
 h6, .cm-header-6, .markdown-preview-view h6 {
-  font-family: AndleyFont, "Noto Sans TC";
+  font-family: AndleyFont;
 }
 
 h1, h3, h5 {
@@ -31,23 +37,23 @@ h1, h3, h5 {
 }
 
 html, body, p, li {
-  font-family: AndleyFont, "Noto Sans TC";
   font-size: 16px;
 }
 
 
 /*   Ruby Interlinear */
 ruby {
-  font-family: AndleyFont, "Arial Narrow";
   font-size: 1em ; 
   line-height:4.5em;
   ruby-align:start;
   padding: 0 0.1em 0 0;
+  font-family: AndleyFont, "Noto Sans";
 }
 
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
+  font-family: AndleyFont, "Saira Extra Condensed";
 }
 
 li ruby {

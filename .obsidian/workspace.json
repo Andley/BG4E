@@ -19,7 +19,8 @@
               },
               "icon": "lucide-file",
               "title": "James-Interlinear"
-            }
+            },
+            "group": "40751523e4a0ea12"
           }
         ]
       },
@@ -39,7 +40,8 @@
               },
               "icon": "lucide-file",
               "title": "James-Interlinear"
-            }
+            },
+            "group": "40751523e4a0ea12"
           }
         ]
       }
@@ -186,9 +188,21 @@
   },
   "active": "a7f6f3346deb0614",
   "lastOpenFiles": [
+    "50-Philippians/Philippians-Interlinear.md",
+    "59-James/James-Interlinear.md",
+    "45-Romans/Romans-Vocabulary.md",
+    "45-Romans/Romans-Notes.md",
+    "45-Romans/Romans-Interlinear.md",
+    "45-Romans/Rom.11.2.md",
+    "45-Romans/Rom.4.1-8.md",
+    "45-Romans/Rom.1.8-15.md",
+    "45-Romans/Rom.1-7.md",
+    "BBG4E/HW1-Key.md",
+    "62-1John/1Jo.1.1-4.md",
+    "45-Romans/Untitled.md",
+    "45-Romans/Romans-Clause.md",
     "59-James/Jas.1.1.md",
     "59-James/Jas.1.2-8.md",
-    "59-James/James-Interlinear.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
     "59-James/Jas.2.14-26.md",
@@ -198,24 +212,12 @@
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/James-Interlinear.pdf",
-    "45-Romans/Untitled.md",
     "48-Galatians/Galatians-Interlinear.md",
-    "45-Romans/Romans-Interlinear.md",
-    "45-Romans/Rom.1.8-15.md",
     "59-James/Untitled.pdf",
     "63-2John/2John-Interlinear.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf",
-    "45-Romans/Rom.1-7.md",
-    "BBG4E/Untitled.md",
-    "60-1Peter/Untitled.md",
-    "UNICODE.md",
-    "README.md",
-    "Quotations.md",
-    "Phrasing-Signs.md",
-    "open-source.md",
-    "cheatsheet.md",
-    "Synonyms/synonyms.md"
+    "BBG4E/Untitled.md"
   ]
 }
