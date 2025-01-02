@@ -8,7 +8,7 @@
 /* 設定字型 */
 
   body {
-    font-family: "Gentium Book Plus", "Noto Serif Hebrew", "Noto Sans TC";
+    font-family: "Gentium Book Plus", "Noto Serif Hebrew";
     color: black;
   }
 
@@ -32,15 +32,15 @@
   }
 
   ruby {
-    font-family: "Saira Extra Condensed", "Gentium Book Plus", "Noto Serif Hebrew", "Noto Sans TC";;
-    font-size: 16px ; 
+    font-family: "Saira Extra Condensed", "Gentium Book Plus", "Noto Serif Hebrew";
+    font-size: 1em ; 
     line-height:4.5em;
     ruby-align:start;
-    padding: 0 3px 0 0px;
+    padding: 0 0.1em 0 0px;
   }
   
   rt {
-    font-size: 13px ; 
+    font-size: 0.75em ; 
   }
   
   li ruby {

@@ -1,28 +1,7 @@
-﻿/* 設定字型 */
-
-@font-face {
-	font-family: AndleyFont;
-	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-	src: local("Gentium Book Plus");
-	}
-  @font-face {
-	  font-family: AndleyFont;
-	  unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	  src: local("Noto Sans TC");
-	}
-  @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-	src: local("Ezra SIL");
-	}
-
-/* 標題 */
-h1, h2, h3, h4, h5, h6 {
-	font-family: AndleyFont;
-}
-
+﻿/* 標題 */
 h1, h3, h5 {
   text-align: center;
+  
 }
 
 /*   Ruby Interlinear */
@@ -35,6 +14,7 @@ ruby {
 
 rt {
 	font-size: 0.75em ; 
+	font-family: "Arial Narrow";
   }
   
 li ruby {
