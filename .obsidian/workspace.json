@@ -6,6 +6,7 @@
       {
         "id": "6598e429a37ee91c",
         "type": "tabs",
+        "dimension": 47.43162108072048,
         "children": [
           {
             "id": "a7f6f3346deb0614",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "James-Interlinear"
+              "title": "Romans-Interlinear"
             },
             "group": "40751523e4a0ea12"
           }
@@ -27,6 +28,7 @@
       {
         "id": "8d414ea7ceac339d",
         "type": "tabs",
+        "dimension": 52.568378919279525,
         "children": [
           {
             "id": "e7367b74e5101b1e",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "James-Interlinear"
+              "title": "Romans-Interlinear"
             },
             "group": "40751523e4a0ea12"
           }
@@ -101,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "59-James/James-Interlinear.md"
+                "file": "45-Romans/Romans-Interlinear.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of James-Interlinear"
+              "title": "Outline of Romans-Interlinear"
             }
           },
           {
@@ -120,12 +122,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -160,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from James-Interlinear"
+              "title": "Outgoing links from Romans-Interlinear"
             }
           }
         ],
@@ -189,11 +191,15 @@
   },
   "active": "a7f6f3346deb0614",
   "lastOpenFiles": [
-    "50-Philippians/Philippians-Interlinear.md",
-    "59-James/James-Interlinear.md",
-    "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Romans-Notes.md",
+    "59-James/James-Interlinear.md",
     "45-Romans/Romans-Interlinear.md",
+    "59-James/Jas.1.2-8.md",
+    "59-James/2John-Interlinear.pdf",
+    "59-James/James-Interlinear.pdf",
+    "59-James/Jas.1.9-11.md",
+    "50-Philippians/Philippians-Interlinear.md",
+    "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Rom.11.2.md",
     "45-Romans/Rom.4.1-8.md",
     "45-Romans/Rom.1.8-15.md",
@@ -203,7 +209,6 @@
     "45-Romans/Untitled.md",
     "45-Romans/Romans-Clause.md",
     "59-James/Jas.1.1.md",
-    "59-James/Jas.1.2-8.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
     "59-James/Jas.2.14-26.md",
@@ -211,14 +216,10 @@
     "59-James/Jas.2.1-13.md",
     "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
-    "59-James/Jas.1.9-11.md",
-    "59-James/James-Interlinear.pdf",
     "48-Galatians/Galatians-Interlinear.md",
     "59-James/Untitled.pdf",
     "63-2John/2John-Interlinear.md",
-    "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
-    "59-James/James-Interlinear-1735168542485.pdf",
-    "BBG4E/Untitled.md"
+    "59-James/James-Interlinear-1735168542485.pdf"
   ]
 }

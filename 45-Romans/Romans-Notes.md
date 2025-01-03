@@ -15,19 +15,19 @@ Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/An
 ### 句法圖析
 
 - Salutation
-	- [Rom.1-7](Rom.1-7.md)
+	- [[Rom.1-7]]
 - Paul’s Desire to Visit Rome
-	- [Rom.1.8-15](Rom.1.8-15.md)
+	- [[Rom.1.8-15]]
 - The Power of the Gospel
-	- [Rom.1.16-17](Rom.1.16-17.md)
+	- [[Rom.1.16-17]]
 - The Guilt of Mankind
 	- [[Rom.1.18-31]]
 - The Righteous Judgment of God
-	- [Rom.2.1-16](Rom.2.1-16.md)
+	- [[Rom.2.1-16]]
 - The Jews and the Law
-	- [Rom.2.17-3:8](Rom.2.17-3:8.md)
+	- [[Rom.2.17-3:8]]
 - There is None Righteous
-	- [Rom.3.9-19](Rom.3.9-19.md)
+	- [[Rom.3.9-19]]
 - Righteousness through Faith
 	- [[Rom.3.21-31]]
 - The Example of Abraham
