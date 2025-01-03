@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,7 +187,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e7367b74e5101b1e",
+  "active": "a7f6f3346deb0614",
   "lastOpenFiles": [
     "50-Philippians/Philippians-Interlinear.md",
     "59-James/James-Interlinear.md",

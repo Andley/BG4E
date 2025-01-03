@@ -57,16 +57,17 @@ ruby {
 	display: inline-flex;
 	flex-direction: column-reverse ;
 	align-items: center;
-	font-size: 1em ; /* 12pt 字體大小*/
-	line-height: 1em ;
+	font-size: 1em ; 
+  line-height:1em;
 	font-family: "Gentium Book Plus";
-  padding-top: 0.1em;
+  
   }
 
   rt {
-	  font-size: 0.8em;
+	  font-size: 0.75em;
 	  line-height: 1em;
 	  font-family: "Arial Narrow", "Gentium Book Plusw";
+    padding:0 0.1em 0 0.1em;
   }
 
 /*   Table  */
