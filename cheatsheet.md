@@ -1,3 +1,7 @@
+## CSS
+![Pasted image 20250104085947.png](Pasted%20image%2020250104085947.png)
+
+![[Pasted image 20250104090019.png]]
 ## vscode
 
 ```json
@@ -297,14 +301,6 @@ puppeteer:
 ```
 
 
-
-# GitLab Extension
-
-
-A footnote reference tag looks like this: [^1]
-
-This reference tag is a mix of letters and numbers. [^footnote-42]
-
 ## mermaid diagrams
 
 ```mermaid
@@ -348,8 +344,3 @@ Future task2:des4, after des3, 50w
 [^1]: This is the text inside a footnote.
 
 [^footnote-42]: This is another footnote.
-
-
-## bottom
-
-^88f4c1

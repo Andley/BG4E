@@ -6,7 +6,7 @@
       {
         "id": "6598e429a37ee91c",
         "type": "tabs",
-        "dimension": 47.43162108072048,
+        "dimension": 47.431621080720475,
         "children": [
           {
             "id": "a7f6f3346deb0614",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "cheatsheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "cheatsheet"
             },
             "group": "40751523e4a0ea12"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "cheatsheet.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "cheatsheet"
             },
             "group": "40751523e4a0ea12"
           }
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md"
+                "file": "cheatsheet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Romans-Interlinear"
+              "title": "Outline of cheatsheet"
             }
           },
           {
@@ -122,8 +122,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,9 +190,11 @@
   },
   "active": "a7f6f3346deb0614",
   "lastOpenFiles": [
+    "Pasted image 20250104090019.png",
+    "Pasted image 20250104085947.png",
+    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Notes.md",
     "59-James/James-Interlinear.md",
-    "45-Romans/Romans-Interlinear.md",
     "59-James/Jas.1.2-8.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
