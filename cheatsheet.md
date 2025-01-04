@@ -1,7 +1,7 @@
-## CSS
+## CSS Ruby Tricks
 ![Pasted image 20250104085947.png](Pasted%20image%2020250104085947.png)
 
-![[Pasted image 20250104090019.png]]
+![Pasted image 20250104090019.png](Pasted%20image%2020250104090019.png)
 ## vscode
 
 ```json
