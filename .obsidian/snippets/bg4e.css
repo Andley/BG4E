@@ -138,3 +138,10 @@ ruby {
   font-family: AndleyFont, "Arial Narrow";
   font-size: 13px;
 }
+
+@mixin show-whitespace {
+  white-space: pre;
+  font-family: var(--font-monospace);
+  line-height: 2;
+  background: radial-gradient(circle at 50% 55%, var(--show-whitespace-color) 10%, transparent 10%)
+}
