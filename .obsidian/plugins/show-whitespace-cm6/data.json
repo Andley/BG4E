@@ -7,7 +7,7 @@
   "disablePluginStyles": false,
   "enabled": true,
   "outlineListMarkers": false,
-  "showAllCodeblockWhitespace": false,
+  "showAllCodeblockWhitespace": true,
   "showAllWhitespace": true,
   "showBlockquoteMarkers": false,
   "showCodeblockWhitespace": true,
