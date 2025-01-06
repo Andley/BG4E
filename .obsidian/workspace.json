@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6598e429a37ee91c",
-        "type": "tabs",
-        "dimension": 47.431621080720475,
-        "children": [
-          {
-            "id": "a7f6f3346deb0614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheatsheet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "cheatsheet"
-            },
-            "group": "40751523e4a0ea12"
-          }
-        ]
-      },
-      {
         "id": "8d414ea7ceac339d",
         "type": "tabs",
-        "dimension": 52.568378919279525,
         "children": [
           {
             "id": "e7367b74e5101b1e",
@@ -36,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheet.md",
+                "file": "49-Ephesians/Eph.1.3-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cheatsheet"
-            },
-            "group": "40751523e4a0ea12"
+              "title": "Eph.1.3-14"
+            }
           }
         ]
       }
@@ -126,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,8 +165,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a7f6f3346deb0614",
+  "active": "e7367b74e5101b1e",
   "lastOpenFiles": [
+    "Eph.1.5-7.md",
+    "49-Ephesians/Eph.1.3-14.md",
+    "cheatsheet.md",
     "Pasted image 20250104090019.png",
     "Pasted image 20250104085947.png",
     "45-Romans/Romans-Interlinear.md",
@@ -217,9 +197,7 @@
     "59-James/Jas.2.1-13.md",
     "59-James/Jas.1.19-27.md",
     "59-James/Jas.1.12-18.md",
-    "48-Galatians/Galatians-Interlinear.md",
     "59-James/Untitled.pdf",
-    "63-2John/2John-Interlinear.md",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"
   ]
