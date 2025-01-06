@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d414ea7ceac339d",
+        "id": "a258ba850dd7dd19",
         "type": "tabs",
         "children": [
           {
-            "id": "e7367b74e5101b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Php.2.1-11"
-            }
-          },
-          {
-            "id": "dba19ac8d8b7b5c1",
+            "id": "beafb3c5b77cf62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,15 +21,14 @@
               "title": "Phi.2.5-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a258ba850dd7dd19",
+        "id": "b9638c4a9094f03b",
         "type": "tabs",
         "children": [
           {
-            "id": "beafb3c5b77cf62c",
+            "id": "7460919f8ee63c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -199,7 +185,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "dba19ac8d8b7b5c1",
+  "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
     "50-Philippians/Php.2.1-11.md",
     "Phi.2.5-11.md",
