@@ -6,6 +6,7 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
+        "dimension": 34.84848484848485,
         "children": [
           {
             "id": "beafb3c5b77cf62c",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phi.2.5-11.md",
+                "file": "49-Ephesians/Eph.2.8-9.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phi.2.5-11"
+              "title": "Eph.2.8-9"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "b9638c4a9094f03b",
         "type": "tabs",
+        "dimension": 65.15151515151516,
         "children": [
           {
             "id": "7460919f8ee63c6b",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phi.2.5-11.md",
+                "file": "49-Ephesians/Eph.2.8-9.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phi.2.5-11"
+              "title": "Eph.2.8-9"
             }
           }
         ]
@@ -122,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -187,8 +188,9 @@
   },
   "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
-    "50-Philippians/Php.2.1-11.md",
     "Phi.2.5-11.md",
+    "49-Ephesians/Eph.2.8-9.md",
+    "50-Philippians/Php.2.1-11.md",
     "49-Ephesians/Eph.1.3-14.md",
     "Eph.1.5-7.md",
     "cheatsheet.md",
@@ -216,7 +218,6 @@
     "64-3John/3John-Interlinear.md",
     "59-James/Jas.2.14-26.md",
     "64-3John/3Jo.1.1-4.md",
-    "59-James/Jas.2.1-13.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"

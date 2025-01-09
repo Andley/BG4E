@@ -7,7 +7,7 @@
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Noto Sans TC");
+	src: local("Microsoft Yahei");
   }
 @font-face {
   font-family: AndleyFont;
