@@ -6,5 +6,6 @@
   "theme": "moonstone",
   "showViewHeader": true,
   "baseFontSize": 16,
-  "textFontFamily": "Gentium Book Plus,Noto Sans TC"
+  "textFontFamily": "Gentium Book Plus,Noto Sans TC",
+  "showRibbon": false
 }
