@@ -15,15 +15,15 @@ Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/An
 ### 句法圖析
 
 - Salutation
-	- [[Rom.1-7]]
+	- [Rom.1.1-7](Rom.1.1-7.md)
 - Paul’s Desire to Visit Rome
-	- [[Rom.1.8-15]]
+	- [Rom.1.8-15](Rom.1.8-15.md)
 - The Power of the Gospel
-	- [[Rom.1.16-17]]
+	- [Rom.1.16-17](Rom.1.16-17.md)
 - The Guilt of Mankind
-	- [[Rom.1.18-31]]
+	- [Rom.1.18-31](Rom.1.18-31.md)
 - The Righteous Judgment of God
-	- [[Rom.2.1-16]]
+	- [Rom.2.1-16](Rom.2.1-16.md)
 - The Jews and the Law
 	- [[Rom.2.17-3:8]]
 - There is None Righteous

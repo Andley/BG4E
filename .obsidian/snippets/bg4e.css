@@ -30,18 +30,18 @@ ruby {
   font-size: 1em ; 
   ruby-align:start;
   padding: 0 0.1em 0 0;
-  line-height: 5em;
-  font-family:  AndleyFont, "Noto Sans";
+  font-family:  AndleyFont;
+  line-height:5em;
 }
 
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Arial Narrow";
+  font-family: AndleyFont, "Roboto Condensed Light";
 } 
 
 li ruby {
-  line-height:4em;
+  line-height:3em;
 } 
 
 /*

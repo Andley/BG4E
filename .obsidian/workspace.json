@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheet.md",
+                "file": "45-Romans/Rom.1.1-7.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rom.1.1-7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8be8f4aecfea3079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a0673faa60fa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "45-Romans/Rom.1.1-7.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cheatsheet"
+              "title": "Rom.1.1-7"
             }
           }
         ]
@@ -103,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -167,16 +188,20 @@
   },
   "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
+    "45-Romans/Romans-Notes.md",
+    "45-Romans/Rom.1.1-7.md",
+    "45-Romans/Untitled.md",
+    "45-Romans/Romans-Interlinear.md",
+    "45-Romans/Romans-Clause.md",
+    "45-Romans/Rom.1.8-15.md",
+    "cheatsheet.md",
     "49-Ephesians/Eph.2.8-9.md",
     "Phi.2.5-11.md",
     "50-Philippians/Php.2.1-11.md",
     "49-Ephesians/Eph.1.3-14.md",
     "Eph.1.5-7.md",
-    "cheatsheet.md",
     "Pasted image 20250104090019.png",
     "Pasted image 20250104085947.png",
-    "45-Romans/Romans-Interlinear.md",
-    "45-Romans/Romans-Notes.md",
     "59-James/James-Interlinear.md",
     "59-James/Jas.1.2-8.md",
     "59-James/2John-Interlinear.pdf",
@@ -186,12 +211,8 @@
     "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Rom.11.2.md",
     "45-Romans/Rom.4.1-8.md",
-    "45-Romans/Rom.1.8-15.md",
-    "45-Romans/Rom.1-7.md",
     "BBG4E/HW1-Key.md",
     "62-1John/1Jo.1.1-4.md",
-    "45-Romans/Untitled.md",
-    "45-Romans/Romans-Clause.md",
     "59-James/Jas.1.1.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
