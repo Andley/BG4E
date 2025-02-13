@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Rom.1.1-7.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rom.1.1-7"
-            }
+              "title": "Romans-Interlinear"
+            },
+            "group": "a78f7051ac5d1b58"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Rom.1.1-7.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rom.1.1-7"
-            }
+              "title": "Romans-Interlinear"
+            },
+            "group": "a78f7051ac5d1b58"
           }
         ]
       }
@@ -123,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,11 +189,11 @@
   },
   "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
-    "45-Romans/Romans-Notes.md",
-    "45-Romans/Rom.1.1-7.md",
-    "45-Romans/Untitled.md",
-    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
+    "45-Romans/Romans-Interlinear.md",
+    "45-Romans/Rom.1.1-7.md",
+    "45-Romans/Romans-Notes.md",
+    "45-Romans/Untitled.md",
     "45-Romans/Rom.1.8-15.md",
     "cheatsheet.md",
     "49-Ephesians/Eph.2.8-9.md",
