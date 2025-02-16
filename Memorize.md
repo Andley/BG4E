@@ -16,10 +16,48 @@
 <div style='page-break-after: always;'></div>
 
 ---
+I believe in God, the Father Almighty,
+Maker of heaven and earth,
+and in Jesus Christ, his only Son, our Lord;
+Who was conceived of the Holy Spirit,
+born of the Virgin Mary,
+suffered under Pontius Pilate,
+was crucified, dead, and buried.
+He descended into hell.
+The third day he arose again from the dead.
+He ascended into heaven
+and sits at the right hand of God the Father Almighty,
+whence he shall come to judge the quick and the dead.
+I believe in the Holy Spirit,
+the holy catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
+and the life everlasting.
+Amen.
 
+I BELIEVE IN GOD THE FATHER ALMIGHTY,
+maker of heaven and earth,
+AND IN JESUS CHRIST, GOD’S ONLY SON, OUR LORD:
+who was conceived by the Holy Spirit,
+born of the Virgin Mary,
+suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended into hell.
+On the third day he rose again from the dead.
+He ascended into heaven and is seated
+at the right hand of the Father,
+and he will come again to judge the living and the dead.
+I BELIEVE IN THE HOLY SPIRIT,
+the holy catholic church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
+and the life everlasting.
+AMEN.
 ## The Apostles’ Creed
-- (<RUBY><ruby><ruby><mark class='verb'>Πιστεύω</mark><rt>I believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Πατέρα,<rt>father</rt></ruby><rt>πατέρ</rt></ruby><rt>N-ASM</rt></RUBY> 
-	- <RUBY><ruby><ruby>παντοκράτορα,<rt>the Almighty</rt></ruby><rt>παντοκράτωρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ποιητὴν<rt>Maker</rt></ruby><rt>ποιητής</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>earth</rt></ruby><rt>γῆ</rt></ruby><rt>N-GSF</rt></RUBY>
+- (<RUBY><ruby><ruby><mark class='verb'>Πιστεύω</mark><rt>I believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY>)Α 
+	- <RUBY><ruby><ruby>Πατέρα,<rt>father</rt></ruby><rt>πατέρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>παντοκράτορα,<rt>the Almighty</rt></ruby><rt>παντοκράτωρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ποιητὴν<rt>Maker</rt></ruby><rt>ποιητής</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>earth</rt></ruby><rt>γῆ</rt></ruby><rt>N-GSF</rt></RUBY>
 - <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Χρίστον,<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM</rt></RUBY> 
 	- <RUBY><ruby><ruby>υἱὸν<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>His</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>μονογενῆ,<rt>only</rt></ruby><rt>μονογενής</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κύριον<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>our</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> 
 	- <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>συλληφθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁγίου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 

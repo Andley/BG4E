@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "Memorize.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "Memorize"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "Memorize.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "Memorize"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -189,8 +189,8 @@
   },
   "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
-    "45-Romans/Romans-Clause.md",
     "45-Romans/Romans-Interlinear.md",
+    "45-Romans/Romans-Clause.md",
     "45-Romans/Rom.1.1-7.md",
     "45-Romans/Romans-Notes.md",
     "45-Romans/Untitled.md",
