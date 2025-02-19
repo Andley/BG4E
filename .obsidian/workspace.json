@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Memorize"
+              "title": "Romans-Interlinear"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Memorize"
+              "title": "Romans-Interlinear"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -189,12 +190,14 @@
   },
   "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
+    "45-Romans/Rom.4.1-8.md",
+    "45-Romans/Rom.1.8-15.md",
+    "45-Romans/Rom.1.1-7.md",
+    "Memorize.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
-    "45-Romans/Rom.1.1-7.md",
     "45-Romans/Romans-Notes.md",
     "45-Romans/Untitled.md",
-    "45-Romans/Rom.1.8-15.md",
     "cheatsheet.md",
     "49-Ephesians/Eph.2.8-9.md",
     "Phi.2.5-11.md",
@@ -211,14 +214,12 @@
     "50-Philippians/Philippians-Interlinear.md",
     "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Rom.11.2.md",
-    "45-Romans/Rom.4.1-8.md",
     "BBG4E/HW1-Key.md",
     "62-1John/1Jo.1.1-4.md",
     "59-James/Jas.1.1.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
     "59-James/Jas.2.14-26.md",
-    "64-3John/3Jo.1.1-4.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"
