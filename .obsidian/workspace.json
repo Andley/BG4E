@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "Galatians-AllinOne"
             },
             "group": "a78f7051ac5d1b58"
+          },
+          {
+            "id": "c1d3e8f75ed28c21",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8be8f4aecfea3079",
@@ -34,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romans-Interlinear"
+              "title": "Galatians-AllinOne"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -125,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -161,12 +174,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "45-Romans/Romans-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Romans-Interlinear"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -174,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,13 +199,14 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "beafb3c5b77cf62c",
+  "active": "c1d3e8f75ed28c21",
   "lastOpenFiles": [
+    "48-Galatians/Gal.1.1-5.md",
+    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Rom.4.1-8.md",
     "45-Romans/Rom.1.8-15.md",
     "45-Romans/Rom.1.1-7.md",
     "Memorize.md",
-    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
     "45-Romans/Romans-Notes.md",
     "45-Romans/Untitled.md",
@@ -219,7 +231,6 @@
     "59-James/Jas.1.1.md",
     "59-James/James-Notes.md",
     "64-3John/3John-Interlinear.md",
-    "59-James/Jas.2.14-26.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"

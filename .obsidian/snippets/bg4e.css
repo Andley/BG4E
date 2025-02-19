@@ -7,7 +7,7 @@
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Noto Sans TC");
+	src: local("Noto Sans TC Regular");
   }
 @font-face {
   font-family: AndleyFont;
@@ -41,7 +41,7 @@ rt {
 } 
 
 li ruby {
-  line-height:3em;
+  line-height:4em;
 } 
 
 /*
@@ -114,6 +114,7 @@ ruby {
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
+  --font-text: AndleyFont, "Noto Sans";
   }
 
 .theme-light {
@@ -130,6 +131,7 @@ ruby {
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
   --color-base-40: darkblue;
+  --font-text: AndleyFont, "Noto Sans";
 }
 
 /* HTML tags in preview and editor */
