@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
+                "file": "Gal Source.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-AllinOne"
+              "title": "Gal Source"
             },
             "group": "a78f7051ac5d1b58"
-          },
-          {
-            "id": "c1d3e8f75ed28c21",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8be8f4aecfea3079",
@@ -47,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
+                "file": "Gal Source.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-AllinOne"
+              "title": "Gal Source"
             },
             "group": "a78f7051ac5d1b58"
           }
@@ -115,10 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheet.md"
+                "file": "Gal Source.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheatsheet"
+              "title": "Outline of Gal Source"
             }
           },
           {
@@ -174,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Galatians-Interlinear"
             }
           }
         ],
@@ -186,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +191,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "c1d3e8f75ed28c21",
+  "active": "beafb3c5b77cf62c",
   "lastOpenFiles": [
+    "48-Galatians/Galatians-Interlinear.md",
+    "Gal Source.md",
+    "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Galatians-AllinOne.md",
     "48-Galatians/Gal.1.1-5.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Rom.4.1-8.md",
@@ -227,10 +223,6 @@
     "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Rom.11.2.md",
     "BBG4E/HW1-Key.md",
-    "62-1John/1Jo.1.1-4.md",
-    "59-James/Jas.1.1.md",
-    "59-James/James-Notes.md",
-    "64-3John/3John-Interlinear.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"
