@@ -8,40 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "beafb3c5b77cf62c",
+            "id": "0cb165b93a928848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gal Source.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal Source"
-            },
-            "group": "a78f7051ac5d1b58"
+              "title": "Untitled"
+            }
           }
         ]
       },
       {
-        "id": "8be8f4aecfea3079",
+        "id": "d4dfdc5ca340ba64",
         "type": "tabs",
         "children": [
           {
-            "id": "d8a0673faa60fa0f",
+            "id": "c84503eb9f6e98e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gal Source.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal Source"
-            },
-            "group": "a78f7051ac5d1b58"
+              "title": "Untitled"
+            }
           }
         ]
       }
@@ -128,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -191,12 +188,13 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "beafb3c5b77cf62c",
+  "active": "c84503eb9f6e98e1",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Interlinear.md",
     "Gal Source.md",
-    "48-Galatians/Galatians-Notes.md",
+    "Untitled.md",
     "48-Galatians/Galatians-AllinOne.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Gal.1.1-5.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Rom.4.1-8.md",
@@ -222,7 +220,6 @@
     "50-Philippians/Philippians-Interlinear.md",
     "45-Romans/Romans-Vocabulary.md",
     "45-Romans/Rom.11.2.md",
-    "BBG4E/HW1-Key.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"
