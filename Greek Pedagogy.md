@@ -1,7 +1,7 @@
 #### Natural Language (Immersion) Approach 
 - 缺點：
 	- 除非離世索居，否則很難 immersion
-	- Natural Language Approach 的人，他們志不在解經，撰寫深入的註釋書來幫助教會
+	- Natural Language Approach 的人，他們志不在解經，也沒打算撰寫深入的註釋書來幫助教會
 	- 很難納入神學院每週三小時的 syllabus
 	- 很難重建 "communicative" 環境
 		- 文化背景不同
