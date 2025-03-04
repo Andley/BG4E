@@ -6,6 +6,7 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
+        "dimension": 42.17836257309941,
         "children": [
           {
             "id": "0cb165b93a928848",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biblography.md",
+                "file": "48-Galatians/Gal.6.1-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Biblography"
+              "title": "Gal.6.1-10"
             },
             "group": "a9d65424f9d09f62"
           }
@@ -27,6 +28,7 @@
       {
         "id": "d4dfdc5ca340ba64",
         "type": "tabs",
+        "dimension": 57.82163742690059,
         "children": [
           {
             "id": "c84503eb9f6e98e1",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biblography.md",
+                "file": "48-Galatians/Gal.6.1-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Biblography"
+              "title": "Gal.6.1-10"
             },
             "group": "a9d65424f9d09f62"
           }
@@ -128,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -192,6 +195,7 @@
   },
   "active": "c84503eb9f6e98e1",
   "lastOpenFiles": [
+    "Biblography.md",
     "cheatsheet.md",
     "Digital-Tools.md",
     "Gal Source.md",
@@ -221,7 +225,6 @@
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Jas.1.9-11.md",
-    "50-Philippians/Philippians-Interlinear.md",
     "59-James/Untitled.pdf",
     "59-James/James-Interlinear-1735168579559.pdf",
     "59-James/James-Interlinear-1735168542485.pdf"
