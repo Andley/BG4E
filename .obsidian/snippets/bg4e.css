@@ -37,7 +37,7 @@ ruby {
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Roboto Condensed Light";
+  font-family: AndleyFont, "Arial Narrow";
 } 
 
 li ruby {
