@@ -22,21 +22,8 @@
               "title": "1Co.11.2-16"
             },
             "group": "a9d65424f9d09f62"
-          },
-          {
-            "id": "7f1643ffa847124d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d4dfdc5ca340ba64",
@@ -206,14 +193,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "7f1643ffa847124d",
+  "active": "0cb165b93a928848",
   "lastOpenFiles": [
+    "Untitled.md",
+    "46-1Corinthians/1Co.11.2-16.md",
     "46-1Corinthians/1Co.11.17-28.md",
     "README.md",
     "Gal Source.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
-    "46-1Corinthians/1Co.11.2-16.md",
     "46-1Corinthians/1Co.12.2-16.md",
     "48-Galatians/Gal.6.1-10.md",
     "Biblography.md",
@@ -235,7 +223,6 @@
     "45-Romans/Untitled.md",
     "49-Ephesians/Eph.2.8-9.md",
     "50-Philippians/Phi.2.5-11.md",
-    "50-Philippians/Php.2.1-11.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf",
