@@ -22,8 +22,21 @@
               "title": "1Co.11.2-16"
             },
             "group": "a9d65424f9d09f62"
+          },
+          {
+            "id": "7f1643ffa847124d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d4dfdc5ca340ba64",
@@ -193,7 +206,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "0cb165b93a928848",
+  "active": "7f1643ffa847124d",
   "lastOpenFiles": [
     "46-1Corinthians/1Co.11.17-28.md",
     "README.md",
