@@ -14,45 +14,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.2.15-21"
-            },
-            "group": "a9d65424f9d09f62"
-          },
-          {
-            "id": "7407a485512d6679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 1-line.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "test 1-line"
-            }
-          },
-          {
-            "id": "dc767eb6a34dd54e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "test-1line-2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "test-1line-2"
-            }
+            },
+            "group": "a9d65424f9d09f62"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d4dfdc5ca340ba64",
@@ -65,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "test-1line-2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
+              "title": "test-1line-2"
             },
             "group": "a9d65424f9d09f62"
           }
@@ -159,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -221,15 +193,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "dc767eb6a34dd54e",
+  "active": "0cb165b93a928848",
   "lastOpenFiles": [
     "59-James/James-Interlinear.md",
     "test-1line-2.md",
+    "48-Galatians/Gal.2.15-21.md",
     "test 1-line.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
-    "48-Galatians/Gal.2.15-21.md",
     "48-Galatians/Galatians-AllinOne.md",
     "48-Galatians/Gal.4.1-7.md",
     "48-Galatians/Gal.6.11-16.md",
