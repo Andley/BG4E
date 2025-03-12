@@ -69,7 +69,7 @@ ruby {
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
   border: 1px solid;
-  border-bottom: 4px double;
+  border-bottom: 5px double;
   text-align: center;
 }
 
@@ -85,9 +85,9 @@ ruby {
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 4px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 4px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 4px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
 
   /* ————
   &.verb {background-color: lightpink;}
