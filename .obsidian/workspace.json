@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "test-1line-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",

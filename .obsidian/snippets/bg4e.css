@@ -44,6 +44,9 @@ li ruby {
   line-height:4em;
 } 
 
+p {
+  line-height: 1.8em;
+  }
 /*
 ruby {
 	display: inline-flex;
@@ -82,9 +85,9 @@ ruby {
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 4px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 4px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 4px;}
 
   /* ————
   &.verb {background-color: lightpink;}
