@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "test-1line-2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -223,8 +223,9 @@
   },
   "active": "dc767eb6a34dd54e",
   "lastOpenFiles": [
-    "test 1-line.md",
+    "59-James/James-Interlinear.md",
     "test-1line-2.md",
+    "test 1-line.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
@@ -250,7 +251,6 @@
     "Eph.1.5-7.md",
     "Greek Pedagogy.md",
     "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Galatians-Notes.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf",
