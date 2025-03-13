@@ -6,10 +6,29 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
-        "dimension": 42.17836257309941,
         "children": [
           {
             "id": "0cb165b93a928848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test-1line-2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "test-1line-2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "943f0e798b7a6f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0964d0a78ed976b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,27 +39,6 @@
               },
               "icon": "lucide-file",
               "title": "test-1line-2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d4dfdc5ca340ba64",
-        "type": "tabs",
-        "dimension": 57.82163742690059,
-        "children": [
-          {
-            "id": "c84503eb9f6e98e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Galatians-AllinOne.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Galatians-AllinOne"
             }
           }
         ]
@@ -128,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -192,9 +191,9 @@
   },
   "active": "0cb165b93a928848",
   "lastOpenFiles": [
-    "test 1-line.md",
-    "test-1line-2.md",
     "48-Galatians/Galatians-AllinOne.md",
+    "test-1line-2.md",
+    "test 1-line.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Intertextuality.md",
