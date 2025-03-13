@@ -14,14 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-1line-2.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-1line-2"
-            },
-            "group": "a9d65424f9d09f62"
+              "title": "Galatians-AllinOne"
+            }
           }
         ]
       },
@@ -36,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-1line-2.md",
+                "file": "48-Galatians/Galatians-AllinOne.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-1line-2"
-            },
-            "group": "a9d65424f9d09f62"
+              "title": "Galatians-AllinOne"
+            }
           }
         ]
       }
@@ -195,14 +193,17 @@
   },
   "active": "0cb165b93a928848",
   "lastOpenFiles": [
-    "59-James/James-Interlinear.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "48-Galatians/Galatians-AllinOne.md",
+    "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Galatians-Intertextuality.md",
     "test-1line-2.md",
+    "59-James/James-Interlinear.md",
     "48-Galatians/Gal.2.15-21.md",
     "test 1-line.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
-    "48-Galatians/Galatians-AllinOne.md",
     "48-Galatians/Gal.4.1-7.md",
     "48-Galatians/Gal.6.11-16.md",
     "48-Galatians/Gal.1.1-5.md",
@@ -220,9 +221,6 @@
     "Biblography.md",
     "cheatsheet.md",
     "Digital-Tools.md",
-    "Eph.1.5-7.md",
-    "Greek Pedagogy.md",
-    "48-Galatians/Galatians-Interlinear.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf",
