@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-1line-2.md",
-                "mode": "source",
+                "file": "1line.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-1line-2"
+              "title": "1line"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-1line-2.md",
-                "mode": "preview",
+                "file": "59-James/James-Interlinear.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-1line-2"
+              "title": "James-Interlinear"
             }
           }
         ]
@@ -190,20 +190,20 @@
   },
   "active": "0cb165b93a928848",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-AllinOne.md",
-    "test-1line-2.md",
     "test 1-line.md",
+    "1line.md",
+    "59-James/James-Interlinear.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Galatians-AllinOne.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Intertextuality.md",
-    "59-James/James-Interlinear.md",
     "48-Galatians/Gal.2.15-21.md",
     "59-James/Jas.1.12-18.md",
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
     "48-Galatians/Gal.4.1-7.md",
     "48-Galatians/Gal.6.11-16.md",
-    "48-Galatians/Gal.1.1-5.md",
     "56-Titus/Tit.2.1-15.md",
     "Untitled 1.md",
     "46-1Corinthians/1Co.11.2-16.md",

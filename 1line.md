@@ -12,3 +12,9 @@
 		- <span title="PREP&#10;κατά&#10;照">κατὰ</span> <span title="T-ASN&#10;ὀ&#10;-">τὸ</span> <span title="N-ASN&#10;θέλημα&#10;旨意">θέλημα</span> <span title="T-GSM&#10;ὀ&#10;-">τοῦ</span> <span title="N-GSM&#10;θεός&#10;神">Θεοῦ</span> <span title="CONJ&#10;καί&#10;-">καὶ</span> <span title="N-GSM&#10;πατήρ&#10;父">Πατρὸς</span> <span title="P-1GP&#10;ἐγώ&#10;我們的">ἡμῶν</span> 照我們父神的旨意
 			- 1:5 (<span title="R-DSM&#10;ὅς&#10;他">ᾧ</span>)C (<span title="T-NSF&#10;ὀ&#10;-">ἡ</span> <span title="N-NSF&#10;δόξα&#10;榮耀">δόξα</span>)S (<span title="PREP&#10;εἰς&#10;直到">εἰς</span> <span title="T-APM&#10;ὀ&#10;-">τοὺς</span> <span title="N-APM&#10;αἰών&#10;世世代代">αἰῶνας</span> <span title="T-GPM&#10;ὀ&#10;-">τῶν</span> <span title="N-GPM&#10;αἰών&#10;世世代代">αἰώνων</span>)A 但願榮耀歸於神，直到永永遠遠
 			- <span title="HEB&#10;ἀμήν&#10;阿們">ἀμήν</span> 阿們
+
+
+---
+
+1:1 <span title="N-NSM&#10;Ἰάκωβος&#10;雅各">Ἰάκωβος</span> <span title="N-GSM&#10;θεός&#10;神">Θεοῦ</span> <span title="CONJ&#10;καί&#10;-">καὶ</span> <span title="N-GSM&#10;κύριος&#10;主">Κυρίου</span> <span title="N-GSM&#10;Ἰησοῦς&#10;耶穌">Ἰησοῦ</span> <span title="N-GSM&#10;Χριστός&#10;基督">Χριστοῦ</span> <span title="N-NSM&#10;δοῦλος&#10;僕人">δοῦλος</span> <span title="T-DPF&#10;ὀ&#10;-">Ταῖς</span> <span title="A-DPF&#10;δώδεκα&#10;十二">δώδεκα</span> <span title="N-DPF&#10;φυλή&#10;支派">φυλαῖς</span> <span title="T-DPF&#10;ὀ&#10;-">ταῖς</span> <span title="PREP&#10;ἐν&#10;中">ἐν</span> <span title="T-DSF&#10;ὀ&#10;-">τῇ</span> <span title="N-DSF&#10;διασπορά&#10;散居">Διασπορᾷ</span> <span title="V-PAN&#10;χαίρω&#10;問候"><mark class='inf'>Χαίρειν</mark></span> <mark class='punctuation'>.</mark> <mark class='paragraph'></mark> 
+</div>

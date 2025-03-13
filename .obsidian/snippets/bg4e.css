@@ -24,7 +24,7 @@ h2, h4, h6 {
 }
 
 html, body, p, li {
-  font-size: 16px;
+  font-family: AndleyFont, "Noto Sans";
 }
 
 
@@ -40,16 +40,13 @@ ruby {
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Arial Narrow";
+  font-family: AndleyFont, "Saira ExtraCondensed";
 } 
 
 li ruby {
   line-height:4em;
 } 
 
-p {
-  line-height: 1.8em;
-  }
 /*
 ruby {
 	display: inline-flex;
