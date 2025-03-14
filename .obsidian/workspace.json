@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gal Source.md",
+                "file": "Louw-Nida §89-§91.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gal Source"
+              "title": "Outline of Louw-Nida §89-§91"
             }
           },
           {
@@ -124,11 +124,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -192,6 +194,7 @@
   },
   "active": "0cb165b93a928848",
   "lastOpenFiles": [
+    "Louw-Nida §89-§91.md",
     "Synonyms/synonyms.md",
     "BBG4E/309-Glosses.md",
     "BBG4E/§2.md",
@@ -219,7 +222,6 @@
     "Gal Source.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
-    "46-1Corinthians/1Co.12.2-16.md",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf",

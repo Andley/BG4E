@@ -235,9 +235,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "R"
+      "key": "P"
     }
   ],
   "window:reset-zoom": [
