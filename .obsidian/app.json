@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false,
   "readableLineLength": false,
   "showInlineTitle": false,
