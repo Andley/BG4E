@@ -1,6 +1,6 @@
 {
-  "findText": "([A-Z])\\t",
-  "replaceText": "$1 ",
+  "findText": "<sup>",
+  "replaceText": " <sup>",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
