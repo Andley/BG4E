@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -193,8 +192,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2d2854b283538b10",
+  "active": "0cb165b93a928848",
   "lastOpenFiles": [
+    "59-James/James-Interlinear.md",
+    "52-1Thessalonians/1Th.1.2–10.md",
     "52-1Thessalonians/1Th.1.1–2.md",
     "Louw-Nida §89-§91.md",
     "Synonyms/synonyms.md",
@@ -202,7 +203,6 @@
     "BBG4E/§2.md",
     "BBG4E/§1.md",
     "1line.md",
-    "59-James/James-Interlinear.md",
     "Untitled 1.md",
     "Untitled.md",
     "test 1-line.md",
@@ -220,7 +220,6 @@
     "56-Titus/Tit.2.1-15.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "46-1Corinthians/1Co.11.17-28.md",
-    "README.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
