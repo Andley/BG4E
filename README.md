@@ -24,7 +24,7 @@
 - [約翰二書](63-2John/2John-Notes.md)
 - [約翰三書](64-3John/3John-Notes.md)
 - [猶大書](65-Jude/Jude-Notes.md)
-
+- [1Th.1.2–10](1Th.1.2%E2%80%9310.md)
 
 ### 舊約書卷 (Septuagint 七十士譯本)
 
