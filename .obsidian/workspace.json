@@ -124,13 +124,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -192,7 +190,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "0cb165b93a928848",
+  "active": "29ddec0df34d521d",
   "lastOpenFiles": [
     "Louw-Nida §89-§91.md",
     "Synonyms/synonyms.md",
