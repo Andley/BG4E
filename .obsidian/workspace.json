@@ -6,6 +6,7 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
+        "dimension": 40.52388289676425,
         "children": [
           {
             "id": "0cb165b93a928848",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louw-Nida §89-§91.md",
+                "file": "52-1Thessalonians/1Th.1.2–10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Louw-Nida §89-§91"
+              "title": "1Th.1.2–10"
             },
             "group": "b03175d3fe41ee90"
           }
@@ -27,6 +28,7 @@
       {
         "id": "11faf32e861c89ee",
         "type": "tabs",
+        "dimension": 59.47611710323575,
         "children": [
           {
             "id": "2d2854b283538b10",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louw-Nida §89-§91.md",
+                "file": "52-1Thessalonians/1Th.1.2–10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Louw-Nida §89-§91"
+              "title": "1Th.1.2–10"
             },
             "group": "b03175d3fe41ee90"
           }
@@ -128,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,8 +193,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "29ddec0df34d521d",
+  "active": "2d2854b283538b10",
   "lastOpenFiles": [
+    "52-1Thessalonians/1Th.1.1–2.md",
     "Louw-Nida §89-§91.md",
     "Synonyms/synonyms.md",
     "BBG4E/309-Glosses.md",
@@ -217,7 +221,6 @@
     "46-1Corinthians/1Co.11.2-16.md",
     "46-1Corinthians/1Co.11.17-28.md",
     "README.md",
-    "Gal Source.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
