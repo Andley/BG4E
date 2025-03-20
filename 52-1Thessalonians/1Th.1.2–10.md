@@ -1,4 +1,7 @@
-<a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=02168&m=','PuP','width=600,height=600'); return false;">θεός</a>   
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς</a>
 
 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="_blank">θεός</a>
+
+
+Mat 1:1  <RUBY><ruby><ruby>Βίβλος<rt>譜</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=00976&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=00976&m=','PuP','width=600,height=600'); return false;">βίβλος</a></rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>γενέσεως<rt>族</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=01078&m=','PuP','width=600,height=600'); return false;">γένεσις</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>子孫</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Δαυὶδ<rt>大衛</rt></ruby><rt>Δαυίδ</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>子孫</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Ἀβραάμ<rt>亞伯拉罕</rt></ruby><rt>Ἀβραάμ</rt></ruby><rt>N-GSM</rt></RUBY> <mark class='punctuation'>.</mark> <mark class='paragraph'></mark> 
