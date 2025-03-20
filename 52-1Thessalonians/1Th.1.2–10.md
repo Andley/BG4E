@@ -1,7 +1,7 @@
 
 - 1:2a <RUBY><ruby><ruby><mark><mark class='verb'>Εὐχαριστοῦμεν°¹</mark></mark><rt>[εὐχαριστέω](https://bible.fhl.net/new/s.php?N=0&k=02168&m=)</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" target="_blank">We give thanks</a></rt></ruby><rt>V-PAI-1P</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>to</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>     </rt></ruby><rt>God</rt></ruby><rt>N-DSM</rt></RUBY>)C 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" target="_blank">θεός</a>
-<a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" target="popup" onclick="window.open('http://kanishkkunal.com','popup','width=600,height=600'); return false;">θεός</a> 
+<a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" target="popup" onclick="window.open('https://bible.fhl.net/new/s.php?N=0&k=02168&m=','popup','width=600,height=600'); return false;">θεός</a> 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=02168&m=" onClick="MyWindow=window.open('https://bible.fhl.net/new/s.php?N=0&k=02168&m=','MyWindow','width=600,height=600'); return false;">θεός</a>
 - aaa
 	- 1:2b ( <RUBY><ruby><ruby>πάντοτε<rt>πάντοτε</rt></ruby><rt>always</rt></ruby><rt>ADV</rt></RUBY> ‹<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάντων<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-GPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY> › )A°¹⮥
