@@ -6,7 +6,7 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
-        "dimension": 79.81715893108299,
+        "dimension": 49.85935302390999,
         "children": [
           {
             "id": "0cb165b93a928848",
@@ -28,7 +28,7 @@
       {
         "id": "11faf32e861c89ee",
         "type": "tabs",
-        "dimension": 20.18284106891702,
+        "dimension": 50.14064697609001,
         "children": [
           {
             "id": "2d2854b283538b10",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "0cb165b93a928848",
+  "active": "2d2854b283538b10",
   "lastOpenFiles": [
     "README.md",
     "52-1Thessalonians/1Th.1.2–10.md",
