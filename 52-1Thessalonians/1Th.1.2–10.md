@@ -1,6 +1,11 @@
 <a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς</a>
+<<<<<<< HEAD
 <a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600, height=6'); return false;">Ἰησοῦς</a>
 <a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600');">Ἰησοῦς</a>
+=======
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600'); return false;">Ἰησοῦς</a>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP');">Ἰησοῦς</a>
+>>>>>>> origin/main
 
 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="_blank">θεός</a>
