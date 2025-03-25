@@ -6,7 +6,6 @@
       {
         "id": "a258ba850dd7dd19",
         "type": "tabs",
-        "dimension": 49.85935302390999,
         "children": [
           {
             "id": "0cb165b93a928848",
@@ -20,30 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "1Th.1.2–10"
-            },
-            "group": "b03175d3fe41ee90"
-          }
-        ]
-      },
-      {
-        "id": "11faf32e861c89ee",
-        "type": "tabs",
-        "dimension": 50.14064697609001,
-        "children": [
-          {
-            "id": "2d2854b283538b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "52-1Thessalonians/1Th.1.2–10.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Th.1.2–10"
-            },
-            "group": "b03175d3fe41ee90"
+            }
           }
         ]
       }
@@ -193,7 +169,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "2d2854b283538b10",
+  "active": "0cb165b93a928848",
   "lastOpenFiles": [
     "README.md",
     "52-1Thessalonians/1Th.1.2–10.md",
