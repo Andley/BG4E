@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "52-1Thessalonians/1Th.1.2–10.md",
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Th.1.2–10"
-            }
-          },
-          {
-            "id": "e0b0effdf95ffe40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Galatians-Interlinear"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1b7159c9447dc102",
@@ -141,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -204,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0b0effdf95ffe40",
+  "active": "0cb165b93a928848",
   "lastOpenFiles": [
+    "48-Galatians/Gal.1.1-5.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "conflict-files-obsidian-git.md",
     "README.md",
@@ -220,7 +205,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "test 1-line.md",
-    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Galatians-AllinOne.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Notes.md",
