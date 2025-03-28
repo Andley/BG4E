@@ -186,10 +186,10 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": true
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cb165b93a928848",
+  "active": "00ef3541cbfaa1da",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "52-1Thessalonians/1Th.1.2–10.md",
