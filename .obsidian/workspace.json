@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1Th.1.2–10"
             }
+          },
+          {
+            "id": "e0b0effdf95ffe40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1b7159c9447dc102",
@@ -189,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00ef3541cbfaa1da",
+  "active": "e0b0effdf95ffe40",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "52-1Thessalonians/1Th.1.2–10.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "59-James/James-Interlinear.md",
     "52-1Thessalonians/1Th.1.1–2.md",
