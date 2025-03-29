@@ -14,7 +14,8 @@
 
 
 
-Mat 1:1  Visit W3Schools Visit W3Schools <RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>βίβλος</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>γενέσεως<rt>of [the] genealogy</rt></ruby><rt>γένεσις</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Δαυὶδ<rt>of David</rt></ruby><rt>Δαυίδ</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Ἀβραάμ<rt>of Abraham</rt></ruby><rt>Ἀβραάμ</rt></ruby><rt>N-GSM</rt></RUBY> <mark class='punctuation'>.</mark>  <mark class='paragraph'></mark> 
+太 1:1 Mat 1:1  <RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>βίβλος</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>γενέσεως<rt>of [the] genealogy</rt></ruby><rt>γένεσις</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>of Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Δαυὶδ<rt>of David</rt></ruby><rt>Δαυίδ</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>υἱοῦ<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Ἀβραάμ<rt>of Abraham</rt></ruby><rt>Ἀβραάμ</rt></ruby><rt>N-GSM</rt></RUBY> <mark class='punctuation'>.</mark>  <mark class='paragraph'></mark>
+
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
-                "mode": "preview",
+                "file": "52-1Thessalonians/1Th.1.2–10.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
+              "title": "1Th.1.2–10"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "0cb165b93a928848",
   "lastOpenFiles": [
-    "52-1Thessalonians/1Th.1.2–10.md",
     "48-Galatians/Galatians-Interlinear.md",
+    "52-1Thessalonians/1Th.1.2–10.md",
     "48-Galatians/Gal.1.1-5.md",
     "conflict-files-obsidian-git.md",
     "README.md",
