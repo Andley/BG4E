@@ -5,12 +5,12 @@
 <a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600');">Ἰησοῦς 600</a>
 <a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP');">Ἰησοῦς</a>
 
-<<<<<<< HEAD
+
 =======
 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="_blank">θεός blank</a>
 <a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="bagd">θεός bagd</a>
->>>>>>> origin/main
+
 
 
 
