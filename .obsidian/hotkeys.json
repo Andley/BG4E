@@ -182,14 +182,6 @@
       "key": "F"
     }
   ],
-  "obsidian-regex-replace:obsidian-regex-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "control-characters:toggle": [
     {
       "modifiers": [
@@ -247,6 +239,14 @@
         "Mod"
       ],
       "key": "0"
+    }
+  ],
+  "text-finder:text-finder-show-find-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }
