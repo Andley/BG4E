@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a258ba850dd7dd19",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cb165b93a928848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "52-1Thessalonians/1Th.1.2–10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Th.1.2–10"
-            }
-          }
-        ]
-      },
-      {
         "id": "1b7159c9447dc102",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "52-1Thessalonians/1Th.1.2–10.md",
+                "file": "47-2Corinthians/2Co.3.7-18.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Th.1.2–10"
+              "title": "2Co.3.7-18"
             }
           }
         ]
@@ -126,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,10 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cb165b93a928848",
+  "active": "00ef3541cbfaa1da",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Interlinear.md",
     "52-1Thessalonians/1Th.1.2–10.md",
+    "47-2Corinthians/2Co.3.7-18.md",
+    "47-2Corinthians/2Co.3.1-6.md",
+    "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Gal.1.1-5.md",
     "conflict-files-obsidian-git.md",
     "README.md",
@@ -214,8 +197,6 @@
     "59-James/Jas.1.9-11.md",
     "59-James/Jas.1.2-8.md",
     "48-Galatians/Gal.4.1-7.md",
-    "48-Galatians/Gal.6.11-16.md",
-    "56-Titus/Tit.2.1-15.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
