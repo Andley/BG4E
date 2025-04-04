@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "1472c05bdca76181",
+    "type": "split",
+    "children": [
+      {
+        "id": "48631ff691cdffc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f91267b18ed0c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.1.1-5.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.1.1-5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10db4ecc8ad33f7b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8704b77d380eb8a9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c3a6f8c02da6f55d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5f2bd99045fec38a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b4c7a584b65f8c72",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "decac117bfb10ce1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f58c8f60b715ae2f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "48-Galatians/Gal.1.1-5.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d1a3c15a63a0d4cb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "48-Galatians/Gal.1.1-5.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "27ae0c895009d74f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "48-Galatians/Gal.1.1-5.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3f91267b18ed0c87",
+  "lastOpenFiles": [
+    "images/Pasted image 20220611063301.png",
+    "images/Pasted image 20220611063051.png",
+    "images/Pasted image 20220605182930.png",
+    "images/Pasted image 20220605182853.png",
+    "images/Pasted image 20220605182832.png",
+    "images/Pasted image 20220605182808.png",
+    "images/Pasted image 20220501201115.png",
+    "images/Pasted image 20220501200938.png",
+    "images/Pasted image 20220501173624.png",
+    "images/Pasted image 20220501171644.png",
+    "images/Pasted image 20220501171600.png",
+    "Syntax/§610.md",
+    "Syntax/§57.5.md",
+    "Syntax/§562.md",
+    "Syntax/§561.md",
+    "Syntax/§538.md",
+    "Syntax/§535.md",
+    "Syntax/§530.md",
+    "Syntax/§523.md",
+    "Syntax/§522.md",
+    "Syntax/§521.md",
+    "Syntax/§520.md",
+    "Syntax/§515.md",
+    "Syntax/§514.md",
+    "Syntax/§513.md",
+    "Syntax/§512.md",
+    "Syntax/§511.md",
+    "Syntax/§420.md",
+    "Syntax/§410.md",
+    "Syntax/§314.md",
+    "Syntax/§313.md",
+    "Syntax/§311a.md",
+    "Syntax/§311.md",
+    "Syntax/§000.md",
+    "Syntax/syntactic ambiguity.md",
+    "Syntax/minimalist approach.md",
+    "Syntax",
+    "Synonyms",
+    "Parables",
+    "BG4E-ExpPreaching",
+    "64-3John",
+    "63-2John",
+    "62-1John",
+    "61-2Peter",
+    "60-1Peter",
+    "59-James/Untitled.pdf"
+  ]
+}
