@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rom.5.12-21.md",
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rom.5.12-21"
+              "title": "Galatians-Interlinear"
+            }
+          },
+          {
+            "id": "dafde1a2f2e337e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91944a7b8bf75424",
@@ -33,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rom.5.12-21.md",
+                "file": "48-Galatians/Galatians-Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rom.5.12-21"
+              "title": "Galatians-Interlinear"
             }
           }
         ]
@@ -126,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -189,10 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00ef3541cbfaa1da",
+  "active": "dafde1a2f2e337e8",
   "lastOpenFiles": [
-    "49-Ephesians/Eph.3.14-19.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "Untitled.md",
     "Rom.5.12-21.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "49-Ephesians/Eph.3.14-19.md",
     "45-Romans/Romans-Notes.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
@@ -201,8 +218,6 @@
     "52-1Thessalonians/1Th.1.2–10.md",
     "47-2Corinthians/2Co.3.7-18.md",
     "47-2Corinthians/2Co.3.1-6.md",
-    "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Gal.1.1-5.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "59-James/James-Interlinear.md",
@@ -214,7 +229,6 @@
     "BBG4E/§1.md",
     "1line.md",
     "Untitled 1.md",
-    "Untitled.md",
     "test 1-line.md",
     "48-Galatians/Galatians-AllinOne.md",
     "images/Pasted image 20250104090019.png",
