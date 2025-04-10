@@ -1,11 +1,12 @@
 <a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς</a>
 
 =======
-<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600, height=600');">Ἰησοῦς 600x600</a>
-<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600');">Ἰησοῦς 600</a>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600, height=600');">Ἰησοῦς</a>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600');">Ἰησοῦς</a>
 <a href='' onClick='PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP');'>Ἰησοῦς</a>
 
-
+<RUBY><ruby><ruby>ἀπόστολος<rt>使徒</rt></ruby><rt>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=00652&m=','PuP]u0022);'>ἀπόστολος</a></rt></ruby><rt>N-NSM</rt></RUBY>
 =======
 
 <a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="_blank">θεός blank</a>

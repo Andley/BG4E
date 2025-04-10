@@ -27,36 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-new.md",
-                "mode": "preview",
+                "file": "52-1Thessalonians/1Th.1.2–10.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-new"
+              "title": "1Th.1.2–10"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "91944a7b8bf75424",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8823700f82859874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +186,16 @@
   "active": "dafde1a2f2e337e8",
   "lastOpenFiles": [
     "48-Galatians/Galatians-Interlinear.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "52-1Thessalonians/1Th.1.2–10.md",
     "test-new.md",
     "Rom.5.12-21.md",
-    "48-Galatians/Gal.1.1-5.md",
     "49-Ephesians/Eph.3.14-19.md",
     "45-Romans/Romans-Notes.md",
     "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
     "45-Romans/Rom.1.8-15.md",
     "45-Romans/Rom.4.1-8.md",
-    "52-1Thessalonians/1Th.1.2–10.md",
     "47-2Corinthians/2Co.3.7-18.md",
     "47-2Corinthians/2Co.3.1-6.md",
     "conflict-files-obsidian-git.md",
