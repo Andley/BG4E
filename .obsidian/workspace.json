@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "test-new.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test-new"
             }
           }
         ],
@@ -206,7 +206,7 @@
   "active": "dafde1a2f2e337e8",
   "lastOpenFiles": [
     "48-Galatians/Galatians-Interlinear.md",
-    "Untitled.md",
+    "test-new.md",
     "Rom.5.12-21.md",
     "48-Galatians/Gal.1.1-5.md",
     "49-Ephesians/Eph.3.14-19.md",
