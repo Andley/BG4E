@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7159c9447dc102",
+        "id": "b810fcbc93e755a3",
         "type": "tabs",
         "children": [
           {
-            "id": "00ef3541cbfaa1da",
+            "id": "426444146debe90a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
-            }
-          },
-          {
-            "id": "dafde1a2f2e337e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "52-1Thessalonians/1Th.1.2–10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Th.1.2–10"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,13 +76,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Louw-Nida §89-§91.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Louw-Nida §89-§91"
+              "title": "Outline"
             }
           },
           {
@@ -117,7 +97,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,16 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dafde1a2f2e337e8",
+  "active": "426444146debe90a",
   "lastOpenFiles": [
+    "45-Romans/Romans-Interlinear.md",
     "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Gal.1.1-5.md",
     "52-1Thessalonians/1Th.1.2–10.md",
+    "48-Galatians/Gal.1.1-5.md",
     "test-new.md",
     "Rom.5.12-21.md",
     "49-Ephesians/Eph.3.14-19.md",
     "45-Romans/Romans-Notes.md",
-    "45-Romans/Romans-Interlinear.md",
     "45-Romans/Romans-Clause.md",
     "45-Romans/Rom.1.8-15.md",
     "45-Romans/Rom.4.1-8.md",
