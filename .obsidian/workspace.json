@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "45-Romans/Rom.1.1-7.md",
+                "file": "45-Romans/Romans-Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rom.1.1-7"
+              "title": "Romans-Notes"
             }
           }
         ]
@@ -100,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "45-Romans/Rom.1.1-7.md",
+                "file": "45-Romans/Romans-Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rom.1.1-7"
+              "title": "Outline of Romans-Notes"
             }
           },
           {
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -191,6 +190,7 @@
   },
   "active": "426444146debe90a",
   "lastOpenFiles": [
+    "45-Romans/Rom.1.1-7.md",
     "45-Romans/Romans-Interlinear.md",
     "48-Galatians/Galatians-Interlinear.md",
     "52-1Thessalonians/1Th.1.2–10.md",
@@ -216,7 +216,6 @@
     "1line.md",
     "Untitled 1.md",
     "test 1-line.md",
-    "48-Galatians/Galatians-AllinOne.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
