@@ -11,10 +11,34 @@
             "id": "426444146debe90a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "45-Romans/Rom.1.1-7.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rom.1.1-7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6972b21eba3aba77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "659ea983387f44f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "45-Romans/Rom.1.1-7.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rom.1.1-7"
             }
           }
         ]
@@ -76,12 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "45-Romans/Rom.1.1-7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Rom.1.1-7"
             }
           },
           {
@@ -97,12 +122,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",

@@ -224,15 +224,6 @@
       "key": "P"
     }
   ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "window:reset-zoom": [
     {
       "modifiers": [
@@ -247,6 +238,15 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
