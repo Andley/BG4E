@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
+                "file": "Rom.7.7-25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
+              "title": "Rom.7.7-25"
             },
             "group": "935a97d7f0901414"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
+                "file": "Rom.7.7-25.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear"
+              "title": "Rom.7.7-25"
             },
             "group": "935a97d7f0901414"
           }
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,19 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae31c65040d31d5e",
+  "active": "659ea983387f44f3",
   "lastOpenFiles": [
+    "45-Romans/Romans-Notes.md",
+    "Rom.7.7-25.md",
+    "45-Romans/Romans-Clause.md",
     "48-Galatians/Galatians-Interlinear.md",
     "48-Galatians/Galatians-Clause.md",
     "45-Romans/Rom.1.1-7.md",
-    "45-Romans/Romans-Notes.md",
     "45-Romans/Romans-Interlinear.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "48-Galatians/Gal.1.1-5.md",
     "test-new.md",
     "Rom.5.12-21.md",
     "49-Ephesians/Eph.3.14-19.md",
-    "45-Romans/Romans-Clause.md",
     "45-Romans/Rom.1.8-15.md",
     "45-Romans/Rom.4.1-8.md",
     "47-2Corinthians/2Co.3.7-18.md",
@@ -217,7 +219,6 @@
     "BBG4E/§2.md",
     "BBG4E/§1.md",
     "1line.md",
-    "Untitled 1.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",

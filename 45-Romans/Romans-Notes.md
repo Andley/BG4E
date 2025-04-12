@@ -25,39 +25,39 @@ Interlinear 經文出自 Macula-SBLGNTa Project ([@GitHub](https://github.com/An
 - The Righteous Judgment of God
 	- [Rom.2.1-16](Rom.2.1-16.md)
 - The Jews and the Law
-	- [[Rom.2.17-3:8]]
+	- [Rom.2.17-3:8](Rom.2.17-3:8.md)
 - There is None Righteous
-	- [[Rom.3.9-19]]
+	- [Rom.3.9-19](Rom.3.9-19.md)
 - Righteousness through Faith
-	- [[Rom.3.21-31]]
+	- [Rom.3.21-31](Rom.3.21-31.md)
 - The Example of Abraham
-	- [[Rom.4.1-12]]
+	- [Rom.4.1-12](Rom.4.1-12.md)
 - The Promise Realized through Faith
-	- [[Rom.4.13-25]]
+	- [Rom.4.13-25](Rom.4.13-25.md)
 - Results of Justification
-	- [[Rom.5.1-11]]
+	- [Rom.5.1-11](Rom.5.1-11.md)
 - Adam and Christ
-	- [[Rom.5.12-21]]
+	- [Rom.5.12-21](Rom.5.12-21.md)
 - Dead to Sin but Alive in Christ
-	- [[Rom.6.1-14]]
+	- [Rom.6.1-14](Rom.6.1-14.md)
 - Slaves of Righteousness
-	- [[Rom.6.15-23]]
+	- [Rom.6.15-23](Rom.6.15-23.md)
 - An Analogy from Marriage
-	- [[Rom.7.1-6]]
+	- [Rom.7.1-6](Rom.7.1-6.md)
 - The Problem of Indwelling Sin
-	- [[Rom.7.7-25]]
+	- [Rom.7.7-25](Rom.7.7-25.md)
 - Life in the Spirit
-	- [[Rom.8.1-17]]
+	- [Rom.8.1-17](Rom.8.1-17.md)
 - The Glory that is to Be
-	- [[Rom.8.18-30]]
+	- [Rom.8.18-30](Rom.8.18-30.md)
 - God’s Love
-	- [[Rom.8.31-39]]
+	- [Rom.8.31-39](Rom.8.31-39.md)
 - God’s Election of Israel
-	- [[Rom.9.1-18]]
+	- [Rom.9.1-18](Rom.9.1-18.md)
 - God’s Wrath and Mercy
-	- [[Rom.9.19-29]]
+	- [Rom.9.19-29](Rom.9.19-29.md)
 - Israel and the Gospel
-	- [[Rom.9.30-10:4]]
+	- [Rom.9.30-10:4](Rom.9.30-10:4.md)
 - Salvation for All
 	- [[Rom.10.5-21]]
 - The Remnant of Israel
