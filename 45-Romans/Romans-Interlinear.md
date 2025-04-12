@@ -1,192 +1,192 @@
 # Πρὸς Ῥωμαίους (羅馬書)
 
-## Salutation (1:1-7)
+## Salutation (<rt>1:1</rt>-7)
 
 
 
-## Paul’s Desire to Visit Rome (1:8-15)
+## Paul’s Desire to Visit Rome (<rt>1:8</rt>-15)
 
 
 
 
-## The Power of the Gospel (1:16-17)
+## The Power of the Gospel (<rt>1:16</rt>-17)
 
 
 
 
-## The Guilt of Mankind (1:18-31)
+## The Guilt of Mankind (<rt>1:18</rt>-31)
 
 
 
 
-## The Righteous Judgment of God (2:1-16)
+## The Righteous Judgment of God (<rt>2:1</rt>-16)
 
 
 
 
-## The Jews and the Law (2:17-3:8)
+## The Jews and the Law (<rt>2:17</rt>-<rt>3:8</rt>)
 
 
-## There is None Righteous (3:9-19)
+## There is None Righteous (<rt>3:9</rt>-19)
 
 
 
 
-## Righteousness through Faith (3:21-31)
+## Righteousness through Faith (<rt>3:21</rt>-31)
 
 
 
 
-## The Example of Abraham (4:1-12)
+## The Example of Abraham (<rt>4:1</rt>-12)
 
 
 
 
-## The Promise Realized through Faith (4:13-25)
+## The Promise Realized through Faith (<rt>4:13</rt>-25)
 
 
 
 
-## Results of Justification (5:1-11)
+## Results of Justification (<rt>5:1</rt>-11)
 
 
 
 
-## Adam and Christ (5:12-21)
+## Adam and Christ (<rt>5:12</rt>-21)
 
 
 
 
-## Dead to Sin but Alive in Christ (6:1-14)
+## Dead to Sin but Alive in Christ (<rt>6:1</rt>-14)
 
 
 
 
-## Slaves of Righteousness (6:15-23)
+## Slaves of Righteousness (<rt>6:15</rt>-23)
 
 
 
 
-## An Analogy of Marriage (7:1-6)
+## An Analogy of Marriage (<rt>7:1</rt>-6)
 
 
 
 
-## The Problem of Indwelling Sin (7:7-25)
+## The Problem of Indwelling Sin (<rt>7:7</rt>-25)
 
+<rt>7:7</rt>  <RUBY><ruby><ruby>Τί<rt>怎麼</rt></ruby><rt>τίς</rt></ruby><rt>I-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὖν<rt>這樣</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἐροῦμεν</mark><rt>我們會說</rt></ruby><rt>εἶπον</rt></ruby><rt>V-FAI-1P</rt></RUBY> <mark class='punctuation'>;</mark>   <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>νόμος<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY> <mark class='punctuation'>;</mark>   <RUBY><ruby><ruby>μὴ<rt>不是</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>γένοιτο</mark><rt>絕對</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-AMO-3S</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>ἀλλὰ<rt>可是</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τὴν<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτίαν<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>οὐκ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἔγνων</mark><rt>我知道</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-AAI-1S</rt></RUBY>  <RUBY><ruby><ruby>εἰ<rt>若</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>不是</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>νόμου<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-GSM</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>τήν<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>τε<rt>-</rt></ruby><rt>τε</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἐπιθυμίαν<rt>貪心</rt></ruby><rt>ἐπιθυμία</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>οὐκ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ᾔδειν</mark><rt>我知道</rt></ruby><rt>εἴδω</rt></ruby><rt>V-LAI-1S</rt></RUBY>  <RUBY><ruby><ruby>εἰ<rt>若</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>不是</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>νόμος<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἔλεγεν</mark><rt>說</rt></ruby><rt>λέγω</rt></ruby><rt>V-IAI-3S</rt></RUBY> <mark class='punctuation'>·</mark>   <strong><RUBY><ruby><ruby>Οὐκ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY></strong>  <strong><RUBY><ruby><ruby><mark class='verb'>ἐπιθυμήσεις</mark><rt>可貪心</rt></ruby><rt>ἐπιθυμέω</rt></ruby><rt>V-FAI-2S</rt></RUBY></strong> <mark class='punctuation'>.</mark> <rt>7:8</rt>  <RUBY><ruby><ruby>ἀφορμὴν<rt>機會</rt></ruby><rt>ἀφορμή</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>然而</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>λαβοῦσα</mark><rt>趁著</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-AAP-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολῆς<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>κατειργάσατο</mark><rt>生出</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-AMI-3S</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在裡面</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby>πᾶσαν<rt>各樣</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASF</rt></RUBY>  <RUBY><ruby><ruby>ἐπιθυμίαν<rt>貪心</rt></ruby><rt>ἐπιθυμία</rt></ruby><rt>N-ASF</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>χωρὶς<rt>沒有</rt></ruby><rt>χωρίς</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>νόμου<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>νεκρά<rt>死</rt></ruby><rt>νεκρός</rt></ruby><rt>A-NSF</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:9</rt>  <RUBY><ruby><ruby>Ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἔζων</mark><rt>活著</rt></ruby><rt>ζάω</rt></ruby><rt>V-IAI-1S</rt></RUBY>  <RUBY><ruby><ruby>χωρὶς<rt>沒有</rt></ruby><rt>χωρίς</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>νόμου<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ποτέ<rt>從前</rt></ruby><rt>ποτέ</rt></ruby><rt>PRT</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby><mark class='ptc'>ἐλθούσης</mark><rt>來到</rt></ruby><rt>ἔρχομαι</rt></ruby><rt>V-AAP-GSF</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>但是</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολῆς<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἀνέζησεν</mark><rt>活起來</rt></ruby><rt>ἀναζάω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <mark class='punctuation'>,</mark> <rt>7:10</rt>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>卻</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἀπέθανον</mark><rt>死了</rt></ruby><rt>ἀποθνήσκω</rt></ruby><rt>V-AAI-1S</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>εὑρέθη</mark><rt>被發現</rt></ruby><rt>εὑρίσκω</rt></ruby><rt>V-API-3S</rt></RUBY>  <RUBY><ruby><ruby>μοι<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>那</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολὴ<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>εἰς<rt>使得到</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ζωὴν<rt>生命</rt></ruby><rt>ζωή</rt></ruby><rt>N-ASF</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>αὕτη<rt>這</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSF</rt></RUBY>  <RUBY><ruby><ruby>εἰς<rt>使</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>θάνατον<rt>死亡</rt></ruby><rt>θάνατος</rt></ruby><rt>N-ASM</rt></RUBY> <mark class='punctuation'>·</mark> <rt>7:11</rt>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἀφορμὴν<rt>機會</rt></ruby><rt>ἀφορμή</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>λαβοῦσα</mark><rt>趁著</rt></ruby><rt>λαμβάνω</rt></ruby><rt>V-AAP-NSF</rt></RUBY>  <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολῆς<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἐξηπάτησέν</mark><rt>誘惑了</rt></ruby><rt>ἐξαπατάω</rt></ruby><rt>V-AAI-3S</rt></RUBY>  <RUBY><ruby><ruby>με<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>並且</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>δι᾽<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>αὐτῆς<rt>它</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἀπέκτεινεν</mark><rt>殺了</rt></ruby><rt>ἀποκτείνω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:12</rt>  <RUBY><ruby><ruby>Ὥστε<rt>這樣</rt></ruby><rt>ὥστε</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>μὲν<rt>-</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY>  <RUBY><ruby><ruby>νόμος<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἅγιος<rt>神聖</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-NSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>也</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολὴ<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἁγία<rt>神聖</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-NSF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>δικαία<rt>公義</rt></ruby><rt>δίκαιος</rt></ruby><rt>A-NSF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἀγαθή<rt>美善</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-NSF</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:13</rt>  <RUBY><ruby><ruby>Τὸ<rt>那</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSN</rt></RUBY>  <RUBY><ruby><ruby>οὖν<rt>那麼</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἀγαθὸν<rt>善</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-NSN</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἐγένετο</mark><rt>使</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-AMI-3S</rt></RUBY>  <RUBY><ruby><ruby>θάνατος<rt>死</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>;</mark>   <RUBY><ruby><ruby>μὴ<rt>不是</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>γένοιτο</mark><rt>絕對</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-AMO-3S</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>ἀλλὰ<rt>而是</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἵνα<rt>為要</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>φανῇ</mark><rt>它顯出</rt></ruby><rt>φαίνω</rt></ruby><rt>V-APS-3S</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>那</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSN</rt></RUBY>  <RUBY><ruby><ruby>ἀγαθοῦ<rt>善</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-GSN</rt></RUBY>  <RUBY><ruby><ruby>μοι<rt>給我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>κατεργαζομένη</mark><rt>生出</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PMP-NSF</rt></RUBY>  <RUBY><ruby><ruby>θάνατον<rt>死</rt></ruby><rt>θάνατος</rt></ruby><rt>N-ASM</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἵνα<rt>以致</rt></ruby><rt>ἵνα</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>γένηται</mark><rt>變成</rt></ruby><rt>γίνομαι</rt></ruby><rt>V-AMS-3S</rt></RUBY>  <RUBY><ruby><ruby>καθ᾽<rt>-</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ὑπερβολὴν<rt>極其</rt></ruby><rt>ὑπερβολή</rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτωλὸς<rt>有罪</rt></ruby><rt>ἁμαρτωλός</rt></ruby><rt>A-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐντολῆς<rt>誡命</rt></ruby><rt>ἐντολή</rt></ruby><rt>N-GSF</rt></RUBY> <mark class='punctuation'>.</mark> <mark class='paragraph'></mark> <rt>7:14</rt>  <RUBY><ruby><ruby><mark class='verb'>Οἴδαμεν</mark><rt>我們知道</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1P</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>原來</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>νόμος<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>πνευματικός<rt>屬靈</rt></ruby><rt>πνευματικός</rt></ruby><rt>A-NSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἐστιν</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>卻</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>σάρκινός<rt>屬肉體</rt></ruby><rt>σάρκινος</rt></ruby><rt>A-NSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>εἰμι</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>πεπραμένος</mark><rt>已經被賣了</rt></ruby><rt>πιπράσκω</rt></ruby><rt>V-RPP-NSM</rt></RUBY>  <RUBY><ruby><ruby>ὑπὸ<rt>在之下</rt></ruby><rt>ὑπό</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τὴν<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτίαν<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-ASF</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:15</rt>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>κατεργάζομαι</mark><rt>我做</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PMI-1S</rt></RUBY>  <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>γινώσκω</mark><rt>我明白</rt></ruby><rt>γινώσκω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>我願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>τοῦτο<rt>它</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>πράσσω</mark><rt>我做</rt></ruby><rt>πράσσω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἀλλ᾽<rt>反而</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>μισῶ</mark><rt>我恨惡</rt></ruby><rt>μισέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>τοῦτο<rt>它</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ποιῶ</mark><rt>我做</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:16</rt>  <RUBY><ruby><ruby>εἰ<rt>如果</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>我願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>τοῦτο<rt>它</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ποιῶ</mark><rt>我做</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby><mark class='verb'>σύμφημι</mark><rt>我得承認</rt></ruby><rt>σύμφημι</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>καλός<rt>好</rt></ruby><rt>καλός</rt></ruby><rt>A-NSM</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:17</rt>  <RUBY><ruby><ruby>νυνὶ<rt>現在</rt></ruby><rt>νυνί</rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>其實</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οὐκέτι<rt>不再</rt></ruby><rt>οὐκέτι</rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>κατεργάζομαι</mark><rt>做</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PMI-1S</rt></RUBY>  <RUBY><ruby><ruby>αὐτὸ<rt>這</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY>  <RUBY><ruby><ruby>ἀλλὰ<rt>而是</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>οἰκοῦσα</mark><rt>住</rt></ruby><rt>οἰκέω</rt></ruby><rt>V-PAP-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在裡面</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:18</rt>  <RUBY><ruby><ruby><mark class='verb'>Οἶδα</mark><rt>我知道</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-1S</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>事實上</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οὐκ<rt>沒有</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>οἰκεῖ</mark><rt>住</rt></ruby><rt>οἰκέω</rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在裡面</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἐμοί<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>τοῦτ᾽<rt>-</rt></ruby><rt>οὗτος</rt></ruby><rt>D-NSN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἔστιν</mark><rt>就是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在中</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῇ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSF</rt></RUBY>  <RUBY><ruby><ruby>σαρκί<rt>肉體</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἀγαθόν<rt>善</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-NSN</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSN</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='inf'>θέλειν</mark><rt>意願</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>παράκειταί</mark><rt>同在</rt></ruby><rt>παράκειμαι</rt></ruby><rt>V-PMI-3S</rt></RUBY>  <RUBY><ruby><ruby>μοι<rt>與我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSN</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>卻</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='inf'>κατεργάζεσθαι</mark><rt>行出來</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PMN</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby>καλὸν<rt>善</rt></ruby><rt>καλός</rt></ruby><rt>A-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὔ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <mark class='punctuation'>·</mark> <rt>7:19</rt>  <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>我願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ποιῶ</mark><rt>我做</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>ἀγαθόν<rt>善</rt></ruby><rt>ἀγαθός</rt></ruby><rt>A-ASN</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ἀλλὰ<rt>反而</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>我願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>κακὸν<rt>惡</rt></ruby><rt>κακός</rt></ruby><rt>A-ASN</rt></RUBY>  <RUBY><ruby><ruby>τοῦτο<rt>它</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>πράσσω</mark><rt>我做</rt></ruby><rt>πράσσω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:20</rt>  <RUBY><ruby><ruby>εἰ<rt>如果</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὃ<rt>所</rt></ruby><rt>ὅς</rt></ruby><rt>R-ASN</rt></RUBY>  <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>我願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>τοῦτο<rt>它</rt></ruby><rt>οὗτος</rt></ruby><rt>D-ASN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ποιῶ</mark><rt>做</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>οὐκέτι<rt>不再</rt></ruby><rt>οὐκέτι</rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>κατεργάζομαι</mark><rt>做</rt></ruby><rt>κατεργάζομαι</rt></ruby><rt>V-PMI-1S</rt></RUBY>  <RUBY><ruby><ruby>αὐτὸ<rt>它</rt></ruby><rt>αὐτός</rt></ruby><rt>P-ASN</rt></RUBY>  <RUBY><ruby><ruby>ἀλλὰ<rt>而是</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>οἰκοῦσα</mark><rt>住</rt></ruby><rt>οἰκέω</rt></ruby><rt>V-PAP-NSF</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在裡面</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτία<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-NSF</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:21</rt>  <RUBY><ruby><ruby><mark class='verb'>Εὑρίσκω</mark><rt>我發現</rt></ruby><rt>εὑρίσκω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>ἄρα<rt>因此</rt></ruby><rt>ἄρα</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τὸν<rt>這</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASM</rt></RUBY>  <RUBY><ruby><ruby>νόμον<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-ASM</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>θέλοντι</mark><rt>願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAP-DSM</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby><mark class='inf'>ποιεῖν</mark><rt>行</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PAN</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby>καλὸν<rt>善</rt></ruby><rt>καλός</rt></ruby><rt>A-ASN</rt></RUBY> <mark class='punctuation'>,</mark>   <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἐμοὶ<rt>與我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1DS</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSN</rt></RUBY>  <RUBY><ruby><ruby>κακὸν<rt>惡</rt></ruby><rt>κακός</rt></ruby><rt>A-NSN</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>παράκειται</mark><rt>同在</rt></ruby><rt>παράκειμαι</rt></ruby><rt>V-PMI-3S</rt></RUBY> <mark class='punctuation'>·</mark> <rt>7:22</rt>  <RUBY><ruby><ruby><mark class='verb'>συνήδομαι</mark><rt>我喜愛</rt></ruby><rt>συνήδομαι</rt></ruby><rt>V-PMI-1S</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>κατὰ<rt>按照</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASM</rt></RUBY>  <RUBY><ruby><ruby>ἔσω<rt>裡面</rt></ruby><rt>ἔσω</rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>ἄνθρωπον<rt>人</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-ASM</rt></RUBY> <mark class='punctuation'>,</mark> <rt>7:23</rt>  <RUBY><ruby><ruby><mark class='verb'>βλέπω</mark><rt>我看出</rt></ruby><rt>βλέπω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>但是</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἕτερον<rt>另一個</rt></ruby><rt>ἕτερος</rt></ruby><rt>A-ASM</rt></RUBY>  <RUBY><ruby><ruby>νόμον<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-ASM</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在中</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῖς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DPN</rt></RUBY>  <RUBY><ruby><ruby>μέλεσίν<rt>肢體</rt></ruby><rt>μέλος</rt></ruby><rt>N-DPN</rt></RUBY>  <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>ἀντιστρατευόμενον</mark><rt>與交戰</rt></ruby><rt>ἀντιστρατεύομαι</rt></ruby><rt>V-PMP-ASM</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>νοός<rt>內心</rt></ruby><rt>νοῦς</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>αἰχμαλωτίζοντά</mark><rt>擄去</rt></ruby><rt>αἰχμαλωτίζω</rt></ruby><rt>V-PAP-ASM</rt></RUBY>  <RUBY><ruby><ruby>με<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>到裡</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτίας<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='ptc'>ὄντι</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAP-DSM</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在中</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῖς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DPN</rt></RUBY>  <RUBY><ruby><ruby>μέλεσίν<rt>肢體</rt></ruby><rt>μέλος</rt></ruby><rt>N-DPN</rt></RUBY>  <RUBY><ruby><ruby>μου<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GS</rt></RUBY> <mark class='punctuation'>.</mark> <rt>7:24</rt>  <RUBY><ruby><ruby>Ταλαίπωρος<rt>真苦啊</rt></ruby><rt>ταλαίπωρος</rt></ruby><rt>A-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>ἄνθρωπος<rt>人</rt></ruby><rt>ἄνθρωπος</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>·</mark>   <RUBY><ruby><ruby>τίς<rt>誰</rt></ruby><rt>τίς</rt></ruby><rt>I-NSM</rt></RUBY>  <RUBY><ruby><ruby>με<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1AS</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ῥύσεται</mark><rt>能拯救</rt></ruby><rt>ῥύομαι</rt></ruby><rt>V-FMI-3S</rt></RUBY>  <RUBY><ruby><ruby>ἐκ<rt>脫離</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSN</rt></RUBY>  <RUBY><ruby><ruby>σώματος<rt>身體</rt></ruby><rt>σῶμα</rt></ruby><rt>N-GSN</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>θανάτου<rt>必死</rt></ruby><rt>θάνατος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>τούτου<rt>這</rt></ruby><rt>οὗτος</rt></ruby><rt>D-GSM</rt></RUBY> <mark class='punctuation'>;</mark> <rt>7:25</rt>  <RUBY><ruby><ruby>χάρις<rt>感謝</rt></ruby><rt>χάρις</rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>Θεῷ<rt>上帝</rt></ruby><rt>θεός</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>διὰ<rt>藉著</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Κυρίου<rt>主</rt></ruby><rt>κύριος</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ἡμῶν<rt>我們</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <mark class='punctuation'>.</mark>   <RUBY><ruby><ruby>Ἄρα<rt>這樣看來</rt></ruby><rt>ἄρα</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οὖν<rt>-</rt></ruby><rt>οὖν</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>αὐτὸς<rt>自己</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἐγὼ<rt>我</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>在裡</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>μὲν<rt>一方面</rt></ruby><rt>μέν</rt></ruby><rt>PRT</rt></RUBY>  <RUBY><ruby><ruby>νοῒ<rt>內心</rt></ruby><rt>νοῦς</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>δουλεύω</mark><rt>服侍</rt></ruby><rt>δουλεύω</rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>τῇ<rt>在中</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSF</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>另一方面</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>σαρκὶ<rt>肉體</rt></ruby><rt>σάρξ</rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby>νόμῳ<rt>律法</rt></ruby><rt>νόμος</rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>ἁμαρτίας<rt>罪</rt></ruby><rt>ἁμαρτία</rt></ruby><rt>N-GSF</rt></RUBY> <mark class='punctuation'>.</mark> <mark class='paragraph'></mark> 
 
 
+## Life in the Spirit (<rt>8:1</rt>-17)
 
-## Life in the Spirit (8:1-17)
 
 
 
+## The Glory that is to Be (<rt>8:18</rt>-30)
 
-## The Glory that is to Be (8:18-30)
 
 
 
+## God’s Love (<rt>8:31</rt>-39)
 
-## God’s Love (8:31-39)
 
 
 
+## God’s Election of Israel (<rt>9:1</rt>-18)
 
-## God’s Election of Israel (9:1-18)
 
 
 
+## God’s Wrath and Mercy (<rt>9:19</rt>-29)
 
-## God’s Wrath and Mercy (9:19-29)
 
 
 
+## Israel and the Gospel (<rt>9:30</rt>-<rt>10:4</rt>)
 
-## Israel and the Gospel (9:30-10:4)
 
 
 
+## Salvation for All (<rt>10:5</rt>-21)
 
-## Salvation for All (10:5-21)
 
 
 
+## The Remnant of Israel (<rt>11:1</rt>-10)
 
-## The Remnant of Israel (11:1-10)
 
 
 
+## The Salvation of the Gentiles (<rt>11:11</rt>-24)
 
-## The Salvation of the Gentiles (11:11-24)
 
 
 
+## The Restoration of Israel (<rt>11:25</rt>-36)
 
-## The Restoration of Israel (11:25-36)
 
 
 
+## The New Life in Christ (<rt>12:1</rt>-8)
 
-## The New Life in Christ (12:1-8)
 
 
 
+## Rules of the Christian Life (<rt>12:9</rt>-21)
 
-## Rules of the Christian Life (12:9-21)
 
 
 
+## Obedience to Rulers (<rt>13:1</rt>-7)
 
-## Obedience to Rulers (13:1-7)
 
 
 
+## Brotherly Love (<rt>13:8</rt>-10)
 
-## Brotherly Love (13:8-10)
 
 
 
+## The Approach of the Day of Christ (<rt>13:11</rt>-14)
 
-## The Approach of the Day of Christ (13:11-14)
 
 
 
+## Do Not Judge Your Brother (<rt>14:1</rt>-12)
 
-## Do Not Judge Your Brother (14:1-12)
 
 
 
+## Do Not Make Your Brother Stumble (<rt>14:13</rt>-23)
 
-## Do Not Make Your Brother Stumble (14:13-23)
 
 
 
+## Please Your Fellow Men, Not Yourself (<rt>15:1</rt>-6)
 
-## Please Your Fellow Men, Not Yourself (15:1-6)
 
 
 
+## The Gospel for Jews and Gentiles Alike (<rt>15:7</rt>-13)
 
-## The Gospel for Jews and Gentiles Alike (15:7-13)
 
 
 
+## Paul’s Missionary Commission (<rt>15:14</rt>-21)
 
-## Paul’s Missionary Commission (15:14-21)
 
 
 
+## Paul’s Plan to Visit Rome (<rt>15:22</rt>-33)
 
-## Paul’s Plan to Visit Rome (15:22-33)
 
 
 
+## Personal Greetings (<rt>16:1</rt>-24)
 
-## Personal Greetings (16:1-24)
 
 
 
-
-## Doxology (16:25-27)
+## Doxology (<rt>16:25</rt>-27)
 
 
