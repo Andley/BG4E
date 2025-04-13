@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "45-Romans/Romans-Interlinear.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -100,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "45-Romans/Romans-Notes.md",
+                "file": "45-Romans/Romans-Interlinear.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Romans-Notes"
+              "title": "Outline of Romans-Interlinear"
             }
           },
           {
@@ -122,12 +122,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -189,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a315cc89f8c96f82",
+  "active": "8852f6638c498419",
   "lastOpenFiles": [
     "Rom.7.7-25.md",
     "45-Romans/Romans-Notes.md",
