@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idioms.md",
+                "file": "Eph.2.1-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Idioms"
+              "title": "Eph.2.1-10"
             },
             "group": "262b448f8f4cdd7a"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idioms.md",
+                "file": "Eph.2.1-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Idioms"
+              "title": "Eph.2.1-10"
             },
             "group": "262b448f8f4cdd7a"
           }
@@ -124,12 +124,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -191,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b4cbf22c1fcd8d6",
+  "active": "ae31c65040d31d5e",
   "lastOpenFiles": [
+    "49-Ephesians/Ephesians-Notes.md",
+    "Eph.2.1-10.md",
+    "Idioms.md",
     "45-Romans/Romans-Interlinear.md",
     "Rom.7.7-25.md",
     "45-Romans/Romans-Notes.md",
@@ -216,9 +219,6 @@
     "Louw-Nida §89-§91.md",
     "Synonyms/synonyms.md",
     "BBG4E/309-Glosses.md",
-    "BBG4E/§2.md",
-    "BBG4E/§1.md",
-    "1line.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
