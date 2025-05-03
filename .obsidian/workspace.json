@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eph.2.1-10.md",
+                "file": "50-Philippians/Php.1.3-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eph.2.1-10"
+              "title": "Php.1.3-11"
             },
             "group": "262b448f8f4cdd7a"
+          },
+          {
+            "id": "e0ded88cf3c1cd8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0855a416eea80895",
@@ -34,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eph.2.1-10.md",
+                "file": "50-Philippians/Php.1.3-11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eph.2.1-10"
+              "title": "Php.1.3-11"
             },
             "group": "262b448f8f4cdd7a"
           }
@@ -128,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -191,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae31c65040d31d5e",
+  "active": "e0ded88cf3c1cd8a",
   "lastOpenFiles": [
-    "49-Ephesians/Ephesians-Notes.md",
     "Eph.2.1-10.md",
+    "49-Ephesians/Ephesians-Notes.md",
     "Idioms.md",
     "45-Romans/Romans-Interlinear.md",
     "Rom.7.7-25.md",
