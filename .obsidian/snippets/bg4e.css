@@ -86,9 +86,9 @@ ruby {
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-normal);}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;color:var(--text-normal);}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;color:var(--text-normal);}
 
   /* ————
   &.verb {background-color: lightpink;}
