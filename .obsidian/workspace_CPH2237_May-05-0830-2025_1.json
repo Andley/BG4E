@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.3.14-19.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eph.3.14-19"
+              "title": "HW1"
             },
             "group": "262b448f8f4cdd7a"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.3.14-19.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eph.3.14-19"
+              "title": "HW1"
             },
             "group": "262b448f8f4cdd7a"
           }
@@ -192,24 +192,12 @@
   },
   "active": "ae31c65040d31d5e",
   "lastOpenFiles": [
-    "BBG4E/HW3_CPH2237_May-05-0831-2025_1.md",
-    "BBG4E/HW1_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW12_CPH2237_May-05-0831-2025_1.md",
-    "BBG4E/HW11_CPH2237_May-05-0831-2025_1.md",
-    "BBG4E/HW11-PreachingNote_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW11-Key_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW10_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/309-Lexicon_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/309-Lexicon.md",
-    "BBG4E/309-Glosses.md",
-    "BBG4E/HW1.md",
-    "BBG4E/HW3.md",
-    "BBG4E/HW12.md",
-    "BBG4E/HW11-Key.md",
-    "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW11.md",
     "BBG4E/HW10.md",
+    "BBG4E/HW1.md",
+    "BBG4E/309-Glosses.md",
+    "BBG4E/309-Lexicon.md",
     "BBG4E/§2.md",
     "BBG4E/§1.md",
     "1line.md",
@@ -218,6 +206,18 @@
     "52-1Thessalonians/1Th.5.1-11.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "52-1Thessalonians/1Th.1.1–2.md",
+    "49-Ephesians/Eph.1.3-14.md",
+    "50-Philippians/Php.1.1-2.md",
+    "50-Philippians/Phi.2.5-11.md",
+    "50-Philippians/Philippians-Clause.md",
+    "50-Philippians/Philippians-Vocabulary.md",
+    "50-Philippians/Php Syntax Index.md",
+    "50-Philippians/Philippians-Notes.md",
+    "50-Philippians/Php.1.3-11.md",
+    "49-Ephesians/Ephesians-Notes.md",
+    "Idioms.md",
+    "45-Romans/Romans-Interlinear.md",
+    "Rom.7.7-25.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
