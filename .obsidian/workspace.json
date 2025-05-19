@@ -6,7 +6,7 @@
       {
         "id": "71854ef78213041e",
         "type": "tabs",
-        "dimension": 39.53786906290115,
+        "dimension": 48.54570637119113,
         "children": [
           {
             "id": "ae31c65040d31d5e",
@@ -28,7 +28,7 @@
       {
         "id": "0855a416eea80895",
         "type": "tabs",
-        "dimension": 60.46213093709885,
+        "dimension": 51.45429362880887,
         "children": [
           {
             "id": "7b4cbf22c1fcd8d6",
@@ -37,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "BBG4E/HW1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -194,6 +195,9 @@
   },
   "active": "ae31c65040d31d5e",
   "lastOpenFiles": [
+    "Pasted image 20250520071106.png",
+    "Pasted image 20250520071008.png",
+    "Pasted image 20250520070954.png",
     "BBG4E/HW1_CPH2237_May-05-0830-2025_1.md",
     "BBG4E/HW1.md",
     "BBG4E/BG4E 規劃.canvas",
