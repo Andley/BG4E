@@ -243,10 +243,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "P"
+      "key": "C"
     }
   ]
 }
