@@ -7,41 +7,31 @@ Joh 1:14  <RUBY><ruby><ruby>Καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CO
 # HW③ 單字背誦 (10個)
 
 - **ἐπί** (890) 介系詞
-	- gen: on, over, when ‖ dat: on the basis of, at ‖ acc: on, to, against
-	- 後接直接受格時意思是「在...的時候、在...之上、到」
+	- gen: on, over, when 後接所有格：意思是「在...之上、當」 ‖ dat: on the basis of, at 後間接受格：意思是「根據 ... 基礎、在...」‖ acc: on, to, against 後接直接受格：意思是「在...的時候、在...之上、到」
 
-- **κύριος –ου, ὁ** (716)
-	- Lord; lord, master, sir
-	- 主人
+- **κύριος –ου, ὁ** (716) 名詞
+	- Lord; lord, master, sir 上主、主人、主
 
-- **ἔχω** (708)
-	- I have, hold ‖ ἕξω, ἔσχον, ἔσχηκα, –, –
-	- 有
+- **ἔχω** (708) 動詞
+	- I have, hold j我有
 
-- **πρός** (700)
-	- acc: to, towards; with
-	- 後接直接受格，意思是「到...、對著...、因為」
+- **πρός** (700) 介系詞
+	- acc: to, towards; with 後接直接受格：意思是「到...、對著...、因為」
 
-- **γίνομαι** (669)
-	- I become, take place; am, exist; am born, am created ‖ γενήσομαι, ἐγενόμην, γέγονα γεγένημαι, ἐγενήθην
-	- 發生、成為
+- **γίνομαι** (669) 動詞
+	- I become, take place; am, exist; am born, am created 我發生、成為、存在；我出生、受造
 
-- **διά (δι᾿)** (667)
-	- gen: through ‖ acc: on account of
-	- 後接所有格時意思是「經過」
+- **διά (δι᾿)** (667) 介系詞
+	- gen: through 後接所有格：意思是「經過、透過」‖ acc: on account of 後接直接受格：意思是「因為」
 
-- **ἵνα** (663)
-	- in order that; that; so that
-	- 使得、為了、帶出說明的子句不必翻譯
+- **ἵνα** (663) 從屬連接詞
+	- in order that; so that 使得、為了 ‖ that 帶出說明的子句不必翻譯
 
-- **ἀπό (ἀπ᾿, ἀφ᾿)** (646)
-	- gen: (away) from
-	- 後接所有格，意思是「從... 、藉著、因著」
+- **ἀπό (ἀπ᾿, ἀφ᾿)** (646) 介系詞
+	- gen: (away) from 後接所有格：意思是「從... 、藉著、因著」
 
-- **ἀλλά (ἀλλ᾿)** (638)
-	- but, yet, rather
-	- 但是、然而
+- **ἀλλά (ἀλλ᾿)** (638) 對等連接詞
+	- but, yet, rather 但是、然而
 
-- **ἔρχομαι** (632)
-	- I come; go ‖ ἐλεύσομαι, ἦλθον or ἦλθα ἐλήλυθα, –, –
-	- 來、去、來臨
+- **ἔρχομαι** (632) 動詞
+	- I come; go 我來、去、來臨

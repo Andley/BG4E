@@ -6,7 +6,6 @@
       {
         "id": "71854ef78213041e",
         "type": "tabs",
-        "dimension": 48.54570637119113,
         "children": [
           {
             "id": "cf620bff5640947d",
@@ -14,30 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12-PreachingNote.md",
+                "file": "BBG4E/HW9.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12-PreachingNote"
-            }
+              "title": "HW9"
+            },
+            "group": "8474e20c2c00990c"
           }
         ]
       },
       {
-        "id": "0855a416eea80895",
+        "id": "4fbf0b7b17cfe1cc",
         "type": "tabs",
-        "dimension": 51.45429362880887,
         "children": [
           {
-            "id": "7b4cbf22c1fcd8d6",
+            "id": "705a4669e145d162",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW9.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
+              "title": "HW9"
+            },
+            "group": "8474e20c2c00990c"
           }
         ]
       }
@@ -120,8 +124,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,35 +192,36 @@
   },
   "active": "cf620bff5640947d",
   "lastOpenFiles": [
+    "BBG4E/HW10.md",
+    "BBG4E/HW8.md",
+    "BBG4E/HW9.md",
+    "BBG4E/HW7.md",
+    "BBG4E/HW6.md",
+    "BBG4E/HW5.md",
+    "BBG4E/HW4.md",
+    "BBG4E/HW3.md",
+    "BBG4E/HW2.md",
+    "BBG4E/HW1.md",
+    "BBG4E/圖析風格.md",
+    "BBG4E/309-Glosses.md",
+    "BBG4E/309-Lexicon.md",
+    "BBG4E/HW6-Key.md",
+    "BBG4E/HW5-Key.md",
+    "BBG4E/HW4-Key.md",
+    "BBG4E/HW12-PreachingNote.md",
     "BBG4E/easily confused words.md",
     "BBG4E/BG4E 規劃.canvas",
     "BBG4E/BBG4E.md",
-    "BBG4E/圖析風格.md",
     "BBG4E/§1.md",
     "BBG4E/§2.md",
-    "BBG4E/309-Glosses.md",
-    "BBG4E/309-Lexicon.md",
-    "BBG4E/HW2.md",
-    "BBG4E/HW1.md",
-    "BBG4E/HW3.md",
-    "BBG4E/HW7.md",
-    "BBG4E/HW9.md",
     "BBG4E/HW9-Key.md",
     "BBG4E/HW7-Key.md",
     "BBG4E/HW8-Key.md",
     "BBG4E/HW11-Key_CPH2237_May-05-0830-2025_1.md",
     "BBG4E/HW11_CPH2237_May-05-0831-2025_1.md",
-    "BBG4E/HW10_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW3_CPH2237_May-05-0831-2025_1.md",
-    "BBG4E/HW2-Key.md",
-    "BBG4E/HW1-Key.md",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250520070954.png",
-    "BBG4E/HW1_CPH2237_May-05-0830-2025_1.md",
-    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
-    "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/Mat.4.23-25.md",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
