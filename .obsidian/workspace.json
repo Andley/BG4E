@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50-Philippians/Php.2.1-11.md",
-                "mode": "preview",
+                "file": "test-new.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Php.2.1-11"
+              "title": "test-new"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trash",
+                "query": "fhl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,12 @@
   },
   "active": "c7a63309876a70f4",
   "lastOpenFiles": [
-    "50-Philippians/Php.1.15-26.md",
+    "1line.md",
+    "52-1Thessalonians/1Th.1.1–2.md",
+    "52-1Thessalonians/1Th.5.1-11.md",
+    "52-1Thessalonians/1Th.1.2–10.md",
     "50-Philippians/Php.2.1-11.md",
+    "50-Philippians/Php.1.15-26.md",
     "50-Philippians/Php.2.19-24.md",
     "BBG4E/HW10.md",
     "BBG4E/HW10-MCS.md",
@@ -193,10 +198,6 @@
     "BBG4E/HW8.md",
     "BBG4E/HW7.md",
     "BBG4E/HW5.md",
-    "BBG4E/圖析風格.md",
-    "BBG4E/309-Lexicon.md",
-    "BBG4E/HW6-Key.md",
-    "BBG4E/HW5-Key.md",
     "BBG4E/BG4E 規劃.canvas",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
