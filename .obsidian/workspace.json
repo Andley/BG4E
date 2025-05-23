@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "BBG4E/309-Glosses.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4"
+              "title": "309-Glosses"
             },
             "group": "8474e20c2c00990c"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
-                "mode": "source",
+                "file": "BBG4E/309-Glosses.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4"
+              "title": "309-Glosses"
             },
             "group": "8474e20c2c00990c"
           }
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idioms.md",
+                "file": "BBG4E/309-Glosses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idioms"
+              "title": "Outline of 309-Glosses"
             }
           },
           {
@@ -124,7 +124,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,13 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf620bff5640947d",
+  "active": "8852f6638c498419",
   "lastOpenFiles": [
+    "BBG4E/HW1.md",
+    "BBG4E/HW2.md",
+    "BBG4E/HW4.md",
     "BBG4E/HW10.md",
     "BBG4E/309-Glosses.md",
     "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HW12-PreachingNote.md",
-    "BBG4E/HW1.md",
     "BBG4E/HW12_CPH2237_May-05-0831-2025_1.md",
     "BBG4E/HW11-PreachingNote_CPH2237_May-05-0830-2025_1.md",
     "BBG4E/HW11.md",
@@ -205,9 +208,7 @@
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
     "BBG4E/HW5.md",
-    "BBG4E/HW4.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW2.md",
     "BBG4E/圖析風格.md",
     "BBG4E/309-Lexicon.md",
     "BBG4E/HW6-Key.md",
