@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71854ef78213041e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf620bff5640947d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/309-Glosses.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "309-Glosses"
-            },
-            "group": "8474e20c2c00990c"
-          }
-        ]
-      },
-      {
         "id": "4fbf0b7b17cfe1cc",
         "type": "tabs",
         "children": [
           {
-            "id": "705a4669e145d162",
+            "id": "c7a63309876a70f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/309-Glosses.md",
+                "file": "50-Philippians/Php.2.1-11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "309-Glosses"
-            },
-            "group": "8474e20c2c00990c"
+              "title": "Php.2.1-11"
+            }
           }
         ]
       }
@@ -102,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/309-Glosses.md",
+                "file": "50-Philippians/Php.2.1-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 309-Glosses"
+              "title": "Outline of Php.2.1-11"
             }
           },
           {
@@ -124,8 +102,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,35 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8852f6638c498419",
+  "active": "c7a63309876a70f4",
   "lastOpenFiles": [
+    "50-Philippians/Php.1.15-26.md",
+    "50-Philippians/Php.2.1-11.md",
+    "50-Philippians/Php.2.19-24.md",
+    "BBG4E/HW10.md",
+    "BBG4E/HW10-MCS.md",
+    "Untitled.md",
+    "BBG4E/HW11.md",
+    "BBG4E/HW12.md",
+    "BBG4E/309-Glosses.md",
+    "BBG4E/HW6.md",
+    "BBG4E/HW3.md",
+    "Pasted image 20250523103650.png",
     "BBG4E/HW1.md",
     "BBG4E/HW2.md",
     "BBG4E/HW4.md",
-    "BBG4E/HW10.md",
-    "BBG4E/309-Glosses.md",
     "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HW12-PreachingNote.md",
     "BBG4E/HW12_CPH2237_May-05-0831-2025_1.md",
     "BBG4E/HW11-PreachingNote_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW11.md",
     "BBG4E/HW9.md",
     "BBG4E/HW8.md",
     "BBG4E/HW7.md",
-    "BBG4E/HW6.md",
     "BBG4E/HW5.md",
-    "BBG4E/HW3.md",
     "BBG4E/圖析風格.md",
     "BBG4E/309-Lexicon.md",
     "BBG4E/HW6-Key.md",
     "BBG4E/HW5-Key.md",
-    "BBG4E/HW4-Key.md",
-    "BBG4E/easily confused words.md",
     "BBG4E/BG4E 規劃.canvas",
-    "BBG4E/BBG4E.md",
-    "BBG4E/§1.md",
-    "BBG4E/§2.md",
-    "BBG4E/HW9-Key.md",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250520070954.png",

@@ -4,7 +4,7 @@ Joh 1:14  <RUBY><ruby><ruby>Καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CO
 
 <div style='page-break-after: always;'></div>
 
-# HW③ 單字背誦 (10個)
+# HW③ 單字背誦 (10個) ⇐ 新約出現大約頻率 51%
 
 - **ἐπί** (890) 介系詞
 	- gen: on, over, when 後接所有格：意思是「在...之上、當」 ‖ dat: on the basis of, at 後間接受格：意思是「根據 ... 基礎、在...」‖ acc: on, to, against 後接直接受格：意思是「在...的時候、在...之上、到」
