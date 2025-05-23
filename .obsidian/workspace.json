@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW9.md",
+                "file": "BBG4E/HW4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9"
+              "title": "HW4"
             },
             "group": "8474e20c2c00990c"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW9.md",
-                "mode": "preview",
+                "file": "BBG4E/HW4.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9"
+              "title": "HW4"
             },
             "group": "8474e20c2c00990c"
           }
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -193,32 +193,32 @@
   "active": "cf620bff5640947d",
   "lastOpenFiles": [
     "BBG4E/HW10.md",
-    "BBG4E/HW8.md",
+    "BBG4E/309-Glosses.md",
+    "BBG4E/HW11-PreachingNote.md",
+    "BBG4E/HW12-PreachingNote.md",
+    "BBG4E/HW1.md",
+    "BBG4E/HW12_CPH2237_May-05-0831-2025_1.md",
+    "BBG4E/HW11-PreachingNote_CPH2237_May-05-0830-2025_1.md",
+    "BBG4E/HW11.md",
     "BBG4E/HW9.md",
+    "BBG4E/HW8.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
     "BBG4E/HW5.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
-    "BBG4E/HW1.md",
     "BBG4E/圖析風格.md",
-    "BBG4E/309-Glosses.md",
     "BBG4E/309-Lexicon.md",
     "BBG4E/HW6-Key.md",
     "BBG4E/HW5-Key.md",
     "BBG4E/HW4-Key.md",
-    "BBG4E/HW12-PreachingNote.md",
     "BBG4E/easily confused words.md",
     "BBG4E/BG4E 規劃.canvas",
     "BBG4E/BBG4E.md",
     "BBG4E/§1.md",
     "BBG4E/§2.md",
     "BBG4E/HW9-Key.md",
-    "BBG4E/HW7-Key.md",
-    "BBG4E/HW8-Key.md",
-    "BBG4E/HW11-Key_CPH2237_May-05-0830-2025_1.md",
-    "BBG4E/HW11_CPH2237_May-05-0831-2025_1.md",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250520070954.png",
