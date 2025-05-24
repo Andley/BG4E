@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "BBG4E/HW10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "HW10"
             },
             "group": "9e60d04160bd3d14"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "BBG4E/HW10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "HW10"
             },
             "group": "9e60d04160bd3d14"
           }
@@ -192,9 +192,9 @@
   },
   "active": "c7a63309876a70f4",
   "lastOpenFiles": [
+    "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/309-Glosses.md",
-    "BBG4E/HW12.md",
     "BBG4E/HW10-MCS.md",
     "BBG4E/HW10.md",
     "BBG4E/HW9.md",
