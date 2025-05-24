@@ -31,16 +31,16 @@ html, body, p, li {
 
 /*   Ruby Interlinear */
 ruby {
-  font-size: 18px ; 
+  font-size: 13pt ; 
   ruby-align:start;
   font-weight: bold;
   padding: 0 0.1em 0 0;
   font-family:  AndleyFont;
-  line-height:6em;
+  line-height:5em;
 }
 
 rt {
-  font-size: 16px ; 
+  font-size: 11pt ; 
   font-weight:normal;
   color: var(--text-faint);
   padding: 0 0.1em 0 0;
@@ -51,6 +51,7 @@ li ruby {
   line-height:5em;
 } 
 
+a {text-decoration: none; }
 
 /*
 ruby {
@@ -154,3 +155,9 @@ ruby {
   font-size: 13px;
 }
 
+@page {
+  margin-top: 4%;
+  margin-right: 3%;
+  margin-bottom: 1%;
+  margin-left: 5%;
+}
