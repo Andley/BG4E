@@ -31,17 +31,17 @@ html, body, p, li {
 
   ruby {
     font-size: 1em ; 
-    line-height:4.5em;
+    line-height:5em;
     ruby-align:start;
     padding: 0 0.1em 0 0px;
   }
   
   rt {
-    font-size: 0.75em ; 
+    font-size: 0.8em ; 
   }
   
   li ruby {
-    line-height:3em;
+    line-height:4.5em;
   } 
 
   /* page layout */
@@ -56,7 +56,7 @@ html, body, p, li {
   }
 
   ul li::marker {
-    content: '• ';
+    content: '● ';
   }
 
   nav {
