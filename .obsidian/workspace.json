@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
-            }
+              "title": "HW2"
+            },
+            "group": "9e60d04160bd3d14"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
-            }
+              "title": "HW2"
+            },
+            "group": "9e60d04160bd3d14"
           }
         ]
       }
@@ -188,8 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e12008547a09fb44",
+  "active": "c7a63309876a70f4",
   "lastOpenFiles": [
+    "BBG4E/HW1.md",
+    "BBG4E/HW2.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
@@ -210,8 +214,6 @@
     "BBG4E/309-Glosses.md",
     "BBG4E/HW6.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW1.md",
-    "BBG4E/HW2.md",
     "BBG4E/HW4.md",
     "BBG4E/HW11-PreachingNote.md",
     "BBG4E/HW12-PreachingNote.md",
