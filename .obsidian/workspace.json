@@ -6,6 +6,7 @@
       {
         "id": "8cdc48985b3502f5",
         "type": "tabs",
+        "dimension": 23.523206751054854,
         "children": [
           {
             "id": "e12008547a09fb44",
@@ -19,6 +20,42 @@
               },
               "icon": "lucide-file",
               "title": "HW1"
+            }
+          },
+          {
+            "id": "2e51664d603b4d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ebbc4effa468ae16",
+        "type": "tabs",
+        "dimension": 76.47679324894516,
+        "children": [
+          {
+            "id": "b07358a371ba0033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -106,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -168,8 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e12008547a09fb44",
+  "active": "2e51664d603b4d03",
   "lastOpenFiles": [
+    "BBG4E/HW1.md",
+    "Untitled 1.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "README.md",
     "BBG4E/HW10.md",
@@ -185,7 +225,6 @@
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
-    "BBG4E/HW1.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
@@ -199,7 +238,6 @@
     "50-Philippians/Php.2.19-24.md",
     "Untitled.md",
     "BBG4E/HW11-PreachingNote.md",
-    "BBG4E/HW12-PreachingNote.md",
     "BBG4E/BG4E 規劃.canvas",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
