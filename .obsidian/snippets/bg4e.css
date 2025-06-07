@@ -7,7 +7,7 @@
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Noto Sans TC");
+	src: local("未來熒黑 Compressed");
   }
 @font-face {
   font-family: AndleyFont;
@@ -44,7 +44,7 @@ rt {
   font-weight:normal;
   color: var(--text-faint);
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Noto Sans ExtraCondensed";
+  font-family: AndleyFont, "未來熒黑 Compressed";
 } 
 
 li ruby {
