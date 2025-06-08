@@ -5,11 +5,6 @@
   src: local("Gentium Book Plus");
   }
 @font-face {
-	font-family: AndleyFont;
-	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("未來熒黑 Compressed");
-  }
-@font-face {
   font-family: AndleyFont;
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
   src: local("Ezra SIL");
@@ -24,7 +19,7 @@ h2, h4, h6 {
 }
 
 html, body, p, li {
-  font-family: AndleyFont, "Noto Sans";
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
   color: var(--text-color);
 }
 
@@ -44,7 +39,7 @@ rt {
   font-weight:normal;
   color: var(--text-faint);
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "未來熒黑 Compressed";
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
 } 
 
 li ruby {

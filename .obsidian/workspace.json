@@ -28,13 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
+              "title": "HW12"
+            },
+            "group": "1de097133c5d42e5"
           }
         ],
         "currentTab": 1
@@ -50,13 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
+              "title": "HW12"
+            },
+            "group": "1de097133c5d42e5"
           }
         ]
       }
@@ -143,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -206,17 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b07358a371ba0033",
+  "active": "2e51664d603b4d03",
   "lastOpenFiles": [
-    "BBG4E/HW1.md",
-    "Untitled 1.md",
-    "52-1Thessalonians/1Th.1.2–10.md",
-    "README.md",
+    "BBG4E/HW10-MCS.md",
     "BBG4E/HW10.md",
     "BBG4E/HW12.md",
     "BBG4E/HW11.md",
-    "BBG4E/309-Glosses.md",
-    "BBG4E/HW10-MCS.md",
+    "BBG4E/HW1.md",
     "BBG4E/HW9.md",
     "BBG4E/HW8.md",
     "BBG4E/HW7.md",
@@ -225,6 +222,10 @@
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
+    "Untitled 1.md",
+    "52-1Thessalonians/1Th.1.2–10.md",
+    "README.md",
+    "BBG4E/309-Glosses.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
