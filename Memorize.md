@@ -55,6 +55,7 @@ the forgiveness of sins,
 the resurrection of the body,
 and the life everlasting.
 AMEN.
+john 1:1
 ## The Apostles’ Creed
 - (<RUBY><ruby><ruby><mark class='verb'>Πιστεύω</mark><rt>I believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY>)Α 
 	- <RUBY><ruby><ruby>Πατέρα,<rt>father</rt></ruby><rt>πατέρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>παντοκράτορα,<rt>the Almighty</rt></ruby><rt>παντοκράτωρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ποιητὴν<rt>Maker</rt></ruby><rt>ποιητής</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>earth</rt></ruby><rt>γῆ</rt></ruby><rt>N-GSF</rt></RUBY>

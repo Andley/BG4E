@@ -9,36 +9,21 @@
         "dimension": 47.15189873417721,
         "children": [
           {
-            "id": "e12008547a09fb44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW1"
-            }
-          },
-          {
             "id": "2e51664d603b4d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "Memorize.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "Memorize"
             },
             "group": "1de097133c5d42e5"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ebbc4effa468ae16",
@@ -51,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "Memorize.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "Memorize"
             },
             "group": "1de097133c5d42e5"
           }
@@ -92,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fhl",
+                "query": "apostle creed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,11 +126,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -209,11 +196,12 @@
   },
   "active": "2e51664d603b4d03",
   "lastOpenFiles": [
+    "BBG4E/HW1.md",
+    "Memorize.md",
+    "BBG4E/HW12.md",
     "BBG4E/HW10-MCS.md",
     "BBG4E/HW10.md",
-    "BBG4E/HW12.md",
     "BBG4E/HW11.md",
-    "BBG4E/HW1.md",
     "BBG4E/HW9.md",
     "BBG4E/HW8.md",
     "BBG4E/HW7.md",
@@ -238,7 +226,6 @@
     "50-Philippians/Php.1.15-26.md",
     "50-Philippians/Php.2.19-24.md",
     "Untitled.md",
-    "BBG4E/HW11-PreachingNote.md",
     "BBG4E/BG4E 規劃.canvas",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
