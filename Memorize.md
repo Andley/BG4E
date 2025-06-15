@@ -55,10 +55,18 @@ the forgiveness of sins,
 the resurrection of the body,
 and the life everlasting.
 AMEN.
-john 1:1
+約 1:1 Joh 1:1  <RUBY><ruby><ruby>Ἐν<rt>在 In [the]</rt></ruby><rt>ἐν∙01722</rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ἀρχῇ<rt>太初 beginning</rt></ruby><rt>ἀρχή∙00746</rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby><mark class='verb'>ἦν</mark><rt>有 was</rt></ruby><rt>εἰμί∙01510</rt></ruby><rt>V-IAI-3S</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt>ὀ∙03588</rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>Λόγος<rt>道 Word</rt></ruby><rt>λόγος∙03056</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>,</mark>  <mark class='punctuation'>.</mark>
+
+
+
 ## The Apostles’ Creed
-- (<RUBY><ruby><ruby><mark class='verb'>Πιστεύω</mark><rt>I believe</rt></ruby><rt>πιστεύω</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεὸν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY>)Α 
-	- <RUBY><ruby><ruby>Πατέρα,<rt>father</rt></ruby><rt>πατέρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>παντοκράτορα,<rt>the Almighty</rt></ruby><rt>παντοκράτωρ</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ποιητὴν<rt>Maker</rt></ruby><rt>ποιητής</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>earth</rt></ruby><rt>γῆ</rt></ruby><rt>N-GSF</rt></RUBY>
+
+<RUBY><ruby><ruby><mark class='verb'>Πιστεύω</mark><rt>我信 I believe</rt></ruby><rt>πιστεύω∙04100</rt></ruby><rt>V-PAI-1S</rt></RUBY> 
+<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς∙01519</rt></ruby><rt>PREP</rt></RUBY> 
+<RUBY><ruby><ruby>Θεὸν<rt>上帝 God</rt></ruby><rt>θεός∙02316</rt></ruby><rt>N-ASM</rt></RUBY> 
+<RUBY><ruby><ruby>Πατέρα<rt>父 father</rt></ruby><rt>πατέρ∙03962</rt></ruby><rt>N-ASM</rt></RUBY> 
+<mark class='punctuation'>,</mark> 
+<RUBY><ruby><ruby>παντοκράτορα<rt>全能者 the Almighty</rt></ruby><rt>παντοκράτωρ∙03841</rt></ruby><rt>N-ASM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ποιητὴν<rt>Maker</rt></ruby><rt>ποιητής</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>heaven</rt></ruby><rt>οὐρανός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γῆς.<rt>earth</rt></ruby><rt>γῆ</rt></ruby><rt>N-GSF</rt></RUBY>
 - <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦν<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>Χρίστον,<rt>Christ</rt></ruby><rt>Χριστός</rt></ruby><rt>N-ASM</rt></RUBY> 
 	- <RUBY><ruby><ruby>υἱὸν<rt>son</rt></ruby><rt>υἱός</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>His</rt></ruby><rt>αὐτός</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>μονογενῆ,<rt>only</rt></ruby><rt>μονογενής</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κύριον<rt>Lord</rt></ruby><rt>κύριος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>our</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> 
 	- <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>συλληφθέντα<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>out of</rt></ruby><rt>ἐκ</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πνεύματος<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> <RUBY><ruby><ruby>ἁγίου,<rt>?</rt></ruby><rt>?</rt></ruby><rt>?</rt></RUBY> 
