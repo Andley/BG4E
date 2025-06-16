@@ -4,8 +4,9 @@
 
 - [名言](Quotations.md)
 - [慣用語](Idioms.md)
+- [Apostle Creed](Apostle%20Creed.md) ⇐ 2025-06-16 更新
 - [背誦金句](Memorize.md)
-- [圖析符號說明](Phrasing-Signs.md) ⇐ 2024-08-21 更新
+- [圖析符號說明](Phrasing-Signs.md) 
 - [同義字 Synonyms](Synonyms/synonyms.md)
 
 ### 進階句法 (BG4E-Syntax)

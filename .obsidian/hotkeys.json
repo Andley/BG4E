@@ -256,5 +256,13 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }
