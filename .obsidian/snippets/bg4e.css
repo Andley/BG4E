@@ -37,7 +37,6 @@ ruby {
 rt {
   font-size: 11pt ; 
   font-weight:normal;
-  color: var(--text-faint);
   padding: 0 0.1em 0 0;
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
 } 
@@ -46,7 +45,7 @@ li ruby {
   line-height:3em;
 } 
 
-a {text-decoration: none; }
+a {text-decoration: none; color: var(--text-faint); }
 
 /*
 ruby {
@@ -107,7 +106,7 @@ ruby {
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
-  --text-faint:silver;
+  --text-faint:lightgreen;
   --text-color: #ffffff;
   --divider-color: greenyellow;
   --text-muted: #E6E6E6;
@@ -126,7 +125,7 @@ ruby {
 
 .theme-light {
   --text-tag: darkblue;
-  --text-faint:#333333;
+  --text-faint:darkred;
   --text-color:#000000;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
