@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Apostles' Creed.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Apostles' Creed"
             },
             "group": "1de097133c5d42e5"
           },
@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apostle Creed.md",
+                "file": "Apostles' Creed.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apostle Creed"
+              "title": "Apostles' Creed"
             }
           }
         ]
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Apostles' Creed.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Apostles' Creed"
             },
             "group": "1de097133c5d42e5"
           }
@@ -208,9 +208,12 @@
   },
   "active": "2e51664d603b4d03",
   "lastOpenFiles": [
-    "Apostle Creed.md",
-    "Memorize.md",
+    "test-new.md",
     "Untitled 2.md",
+    "Untitled 1.md",
+    "Apostles' Creed.md",
+    "README.md",
+    "Memorize.md",
     "BBG4E/HW1.md",
     "BBG4E/HW12.md",
     "BBG4E/HW10-MCS.md",
@@ -224,15 +227,12 @@
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
-    "Untitled 1.md",
     "52-1Thessalonians/1Th.1.2–10.md",
-    "README.md",
     "BBG4E/309-Glosses.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250523103650.png",
-    "test-new.md",
     "1line.md",
     "52-1Thessalonians/1Th.1.1–2.md",
     "52-1Thessalonians/1Th.5.1-11.md",
