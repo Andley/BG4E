@@ -14,14 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
-            },
-            "group": "1de097133c5d42e5"
+              "title": "HW1-Key"
+            }
           },
           {
             "id": "1222fed047dfe529",
@@ -50,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
-            },
-            "group": "1de097133c5d42e5"
+              "title": "HW1-Key"
+            }
           }
         ]
       }
@@ -206,8 +204,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e51664d603b4d03",
+  "active": "b07358a371ba0033",
   "lastOpenFiles": [
+    "BBG4E/HW1.md",
+    "BBG4E/HW1-Key.md",
     "BBG4E/HW12-Key.md",
     "BBG4E/HW12.md",
     "BBG4E/HW11.md",
@@ -221,7 +221,6 @@
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
-    "BBG4E/HW1.md",
     "Apostles' Creed.md",
     "test-new.md",
     "Untitled 2.md",
@@ -237,7 +236,6 @@
     "1line.md",
     "52-1Thessalonians/1Th.1.1–2.md",
     "52-1Thessalonians/1Th.5.1-11.md",
-    "50-Philippians/Php.2.1-11.md",
     "BBG4E/BG4E 規劃.canvas",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",

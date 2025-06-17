@@ -4,5 +4,6 @@
   "wikilinks-to-mdlinks-obsidian",
   "show-whitespace-cm6",
   "obsidian-regex-replace",
-  "text-finder"
+  "text-finder",
+  "obsidian-tidy-footnotes"
 ]
