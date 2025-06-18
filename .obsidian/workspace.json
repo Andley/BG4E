@@ -6,71 +6,42 @@
       {
         "id": "8cdc48985b3502f5",
         "type": "tabs",
-        "dimension": 47.15189873417721,
         "children": [
-          {
-            "id": "2e51664d603b4d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW2"
-            }
-          },
           {
             "id": "198299380aa3f2a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
-            }
-          },
-          {
-            "id": "1222fed047dfe529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apostles' Creed.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Apostles' Creed"
-            }
+              "title": "HW12"
+            },
+            "group": "e26135917cdca2f4"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "ebbc4effa468ae16",
+        "id": "5aeacaf851a2e7c4",
         "type": "tabs",
-        "dimension": 52.84810126582279,
         "children": [
           {
-            "id": "b07358a371ba0033",
+            "id": "d4eddddcb6b779ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "BBG4E/HW12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
-            }
+              "title": "HW12"
+            },
+            "group": "e26135917cdca2f4"
           }
         ]
       }
@@ -157,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -222,12 +192,6 @@
   },
   "active": "198299380aa3f2a1",
   "lastOpenFiles": [
-    "BBG4E/HW1-Key.md",
-    "BBG4E/HW2-Key.md",
-    "BBG4E/HW1.md",
-    "BBG4E/HW2.md",
-    "BBG4E/HW12-Key.md",
-    "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/HW10-MCS.md",
     "BBG4E/HW10.md",
@@ -238,7 +202,13 @@
     "BBG4E/HW5.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
+    "BBG4E/HW2.md",
     "Apostles' Creed.md",
+    "BBG4E/HW1.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW1-Key.md",
+    "BBG4E/HW12-Key.md",
+    "BBG4E/HW12.md",
     "test-new.md",
     "Untitled 2.md",
     "Untitled 1.md",

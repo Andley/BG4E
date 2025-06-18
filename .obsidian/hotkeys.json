@@ -243,10 +243,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "C"
+      "key": "P"
     }
   ],
   "workspace:export-pdf": [
