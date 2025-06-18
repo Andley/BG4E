@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "BBG4E/HW2-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key"
+              "title": "HW2-Key"
             }
           },
           {
@@ -64,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "BBG4E/HW2-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key"
+              "title": "HW2-Key"
             }
           }
         ]
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -221,9 +222,9 @@
   },
   "active": "198299380aa3f2a1",
   "lastOpenFiles": [
-    "BBG4E/HW1.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW2-Key.md",
+    "BBG4E/HW1.md",
     "BBG4E/HW2.md",
     "BBG4E/HW12-Key.md",
     "BBG4E/HW12.md",
