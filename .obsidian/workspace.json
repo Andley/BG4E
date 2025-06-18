@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "HW1"
             },
             "group": "e26135917cdca2f4"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW12.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
+              "title": "HW1"
             },
             "group": "e26135917cdca2f4"
           }
@@ -57,7 +57,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29ddec0df34d521d",
+            "id": "323a10775016a71f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,23 +67,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "5fe1e7c11ed87e86",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "apostle creed",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -102,33 +85,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW11.md",
+                "file": "BBG4E/HW1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW11"
+              "title": "Outline of HW1"
             }
           },
           {
-            "id": "b360d4f7a3c31531",
+            "id": "5fe1e7c11ed87e86",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "search",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "query": "HW",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -156,23 +143,8 @@
               "icon": "links-coming-in",
               "title": "Backlinks for James-Interlinear"
             }
-          },
-          {
-            "id": "ca4ba336e24ae13a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "48-Galatians/Galatians-Interlinear.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Galatians-Interlinear"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,17 +153,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "198299380aa3f2a1",
+  "active": "323a10775016a71f",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/HW10-MCS.md",
     "BBG4E/HW10.md",
@@ -208,10 +182,7 @@
     "BBG4E/HW2-Key.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW12-Key.md",
-    "BBG4E/HW12.md",
     "test-new.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "README.md",
     "Memorize.md",
     "52-1Thessalonians/1Th.1.2–10.md",
