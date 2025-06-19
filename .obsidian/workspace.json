@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
+              "title": "HW1-Key"
             },
             "group": "e26135917cdca2f4"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
+              "title": "HW1-Key"
             },
             "group": "e26135917cdca2f4"
           }
@@ -164,6 +164,8 @@
   },
   "active": "198299380aa3f2a1",
   "lastOpenFiles": [
+    "BBG4E/HW2.md",
+    "BBG4E/HW1.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "BBG4E/HW12.md",
@@ -177,9 +179,7 @@
     "BBG4E/HW5.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW2.md",
     "Apostles' Creed.md",
-    "BBG4E/HW1.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW12-Key.md",
