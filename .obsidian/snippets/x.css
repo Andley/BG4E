@@ -2,30 +2,36 @@
       display: flex;
       flex-wrap: wrap;        /* Enable wrapping */
       align-items: flex-end;  /* Align items to bottom */
-      gap: 30px;
+      gap: 5px;
     }
 
     .word-column {
       display: flex;
       flex-direction: column;
-      justify-content: flex-end; /* Ensure internal alignment is bottom-up */
       align-items: center;
       white-space: nowrap;       /* Prevent wrapping inside each column */
-      margin-bottom: 10px;
-      font-size: 16px;
     }
 
-    .word-column span {
-      margin: 2px 0;
+      .morph {
+      font-size:11pt; 
+      line-height:1em; 
+      font-family:  "Noto Sans ExtraCondensed";
+    }
+    .lemma {
+      font-family: "gentium book plus";
+      font-size:11pt; 
     }
 
-    .morph {
-      font-size: 12px;
-      color: #6b0d0d;
-      font-weight: bold;
-    }
+  .gloss {
+      font-size:13px;
+      line-height:1em;
+      font-family:  "Noto Sans ExtraCondensed", "未來熒黑";
 
+    }
     .greek {
+      font-size: 13pt;
       font-weight: bold;
-      font-size: 20px;
+      font-family: "gentium book plus"; 
+      line-height:1em;
+      margin-bottom: 20px;
     }

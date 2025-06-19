@@ -1,7 +1,7 @@
 {
   "livePreview": false,
   "promptDelete": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": false,
   "autoConvertHtml": false,
   "showUnsupportedFiles": true,
