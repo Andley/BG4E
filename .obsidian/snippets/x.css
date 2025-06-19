@@ -1,0 +1,31 @@
+.interlinear {
+      display: flex;
+      flex-wrap: wrap;        /* Enable wrapping */
+      align-items: flex-end;  /* Align items to bottom */
+      gap: 30px;
+    }
+
+    .word-column {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end; /* Ensure internal alignment is bottom-up */
+      align-items: center;
+      white-space: nowrap;       /* Prevent wrapping inside each column */
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .word-column span {
+      margin: 2px 0;
+    }
+
+    .morph {
+      font-size: 12px;
+      color: #6b0d0d;
+      font-weight: bold;
+    }
+
+    .greek {
+      font-weight: bold;
+      font-size: 20px;
+    }

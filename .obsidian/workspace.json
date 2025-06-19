@@ -6,42 +6,42 @@
       {
         "id": "8cdc48985b3502f5",
         "type": "tabs",
+        "dimension": 37.77614138438881,
         "children": [
           {
-            "id": "198299380aa3f2a1",
+            "id": "0c4ca5a04ce06fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key"
-            },
-            "group": "e26135917cdca2f4"
+              "title": "Untitled 1"
+            }
           }
         ]
       },
       {
-        "id": "5aeacaf851a2e7c4",
+        "id": "2cd810f76620cbb0",
         "type": "tabs",
+        "dimension": 62.22385861561119,
         "children": [
           {
-            "id": "d4eddddcb6b779ef",
+            "id": "2dc28f08988757d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key.md",
+                "file": "Untitled 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key"
-            },
-            "group": "e26135917cdca2f4"
+              "title": "Untitled 1"
+            }
           }
         ]
       }
@@ -162,12 +162,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "198299380aa3f2a1",
+  "active": "0c4ca5a04ce06fe5",
   "lastOpenFiles": [
-    "BBG4E/HW2.md",
+    "Apostles' Creed.md",
     "BBG4E/HW1.md",
-    "Untitled 2.md",
     "Untitled 1.md",
+    "BBG4E/HW1-Key.md",
+    "BBG4E/HW2.md",
+    "Untitled 2.md",
     "BBG4E/HW12.md",
     "BBG4E/HW11.md",
     "BBG4E/HW10-MCS.md",
@@ -179,9 +181,7 @@
     "BBG4E/HW5.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
-    "Apostles' Creed.md",
     "BBG4E/HW2-Key.md",
-    "BBG4E/HW1-Key.md",
     "BBG4E/HW12-Key.md",
     "test-new.md",
     "README.md",
