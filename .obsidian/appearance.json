@@ -1,9 +1,9 @@
 {
   "enabledCssSnippets": [
-    "x"
+    "bg4e"
   ],
   "baseFontSizeAction": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": true,
   "baseFontSize": 16,
   "textFontFamily": "",

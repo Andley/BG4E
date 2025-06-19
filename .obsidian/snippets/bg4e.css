@@ -22,6 +22,39 @@ html, body, p, li {
   color: var(--text-color);
 }
 
+    .interlinear {
+      display: flex;
+      flex-wrap: wrap;        /* Enable wrapping */
+      align-items: flex-end; 
+      gap:5px; /* Align items to bottom */
+    }
+    .w {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      white-space: nowrap;       /* Prevent wrapping inside each column */
+    }
+    .m {
+      font-family:  "Noto Sans ExtraCondensed Light";
+      font-size: 11pt;
+      margin-bottom:0px;
+    }
+    .l {
+      font-family: "Gentium Book Plus";
+      font-size: 11pt;
+      margin-bottom:0px;
+      }
+    .g {
+      font-family:  "Noto Sans ExtraCondensed Light", "未來熒黑";
+      font-size: 11pt;
+      margin-bottom:0px;
+    }
+    .t {
+      font-family: "Gentium Book Plus"; 
+      font-weight: bold;
+      font-size: 13pt;
+      line-height: 13pt;
+    }
 
 /*   Ruby Interlinear */
 ruby {

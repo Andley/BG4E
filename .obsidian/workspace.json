@@ -6,7 +6,7 @@
       {
         "id": "8cdc48985b3502f5",
         "type": "tabs",
-        "dimension": 48.50615114235501,
+        "dimension": 48.50615114235502,
         "children": [
           {
             "id": "0c4ca5a04ce06fe5",
@@ -27,7 +27,7 @@
       {
         "id": "2cd810f76620cbb0",
         "type": "tabs",
-        "dimension": 51.493848857644984,
+        "dimension": 51.49384885764498,
         "children": [
           {
             "id": "2dc28f08988757d2",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -163,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dc28f08988757d2",
+  "active": "0c4ca5a04ce06fe5",
   "lastOpenFiles": [
     "Apostles' Creed.md",
     "BBG4E/HW1.md",

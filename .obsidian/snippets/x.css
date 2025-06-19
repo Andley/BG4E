@@ -1,37 +1,36 @@
-.interlinear {
+    .interlinear {
       display: flex;
       flex-wrap: wrap;        /* Enable wrapping */
       align-items: flex-end;  /* Align items to bottom */
       gap: 5px;
     }
-
-    .word-column {
+    .w {
       display: flex;
       flex-direction: column;
       align-items: center;
       white-space: nowrap;       /* Prevent wrapping inside each column */
     }
-
-      .morph {
-      font-size:11pt; 
-      line-height:1em; 
+    .m {
+      font-size:10pt; 
+      line-height:10pt; 
       font-family:  "Noto Sans ExtraCondensed";
     }
-    .lemma {
-      font-family: "gentium book plus";
+    .l {
       font-size:11pt; 
+      line-height:11pt; 
+      font-family: "gentium book plus";
     }
-
-  .gloss {
-      font-size:13px;
-      line-height:1em;
-      font-family:  "Noto Sans ExtraCondensed", "未來熒黑 Conpressed Bold";
-
+    .g {
+      font-size:10pt; 
+      line-height:10pt; 
+      font-family:  "Noto Sans ExtraCondensed";
     }
-    .greek {
+    .t {
       font-size: 13pt;
-      font-weight: bold;
+      line-height:13pt;
       font-family: "gentium book plus"; 
-      line-height:1em;
-      margin-bottom: 20px;
+      font-weight: bold;
+      margin-bottom: 4px;
     }
+
+    
