@@ -232,14 +232,6 @@
       "key": "0"
     }
   ],
-  "text-finder:text-finder-show-find-and-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "command-palette:open": [
     {
       "modifiers": [
@@ -255,6 +247,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "text-finder:text-finder-show-find-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }

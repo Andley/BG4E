@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "59-James/James-Interlinear.md",
+                "file": "BBG4E/HW1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for James-Interlinear"
+              "title": "Backlinks for HW1"
             }
           }
         ]
@@ -158,10 +158,11 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "markdown-importer:Open format converter": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "323a10775016a71f",
+  "active": "198299380aa3f2a1",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",

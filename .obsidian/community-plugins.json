@@ -1,9 +1,8 @@
 [
-  "obsidian-hider",
   "obsidian-git",
   "wikilinks-to-mdlinks-obsidian",
-  "show-whitespace-cm6",
   "text-finder",
   "obsidian-tidy-footnotes",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "show-whitespace-cm6"
 ]

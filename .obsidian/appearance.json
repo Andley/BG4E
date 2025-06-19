@@ -6,6 +6,6 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "baseFontSize": 16,
-  "textFontFamily": "Gentium Book Plus,Noto Sans TC",
+  "textFontFamily": "",
   "showRibbon": false
 }
