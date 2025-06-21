@@ -8,18 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c4ca5a04ce06fe5",
+            "id": "37ea9a115713330e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "Interlinear Sandbox.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Interlinear Sandbox"
+            }
+          }
+        ]
+      },
+      {
+        "id": "319140a3f47134b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff8fac5fc66ba99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interlinear Sandbox.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Interlinear Sandbox"
             }
           }
         ]
@@ -59,21 +78,6 @@
             }
           },
           {
-            "id": "8852f6638c498419",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "BBG4E/HW1.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of HW1"
-            }
-          },
-          {
             "id": "5fe1e7c11ed87e86",
             "type": "leaf",
             "state": {
@@ -94,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +125,26 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Untitled 3"
+            }
+          },
+          {
+            "id": "8852f6638c498419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interlinear Sandbox.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Interlinear Sandbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,9 +162,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c4ca5a04ce06fe5",
+  "active": "37ea9a115713330e",
   "lastOpenFiles": [
     "Untitled 1.md",
+    "Interlinear Sandbox.md",
+    "Untitled.md",
+    "Untitled 3.md",
     "Untitled 2.md",
     "BBG4E/HW12.md",
     "Apostles' Creed.md",
@@ -166,13 +190,10 @@
     "README.md",
     "Memorize.md",
     "52-1Thessalonians/1Th.1.2–10.md",
-    "BBG4E/309-Glosses.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250523103650.png",
-    "1line.md",
-    "52-1Thessalonians/1Th.1.1–2.md",
     "BBG4E/BG4E 規劃.canvas",
     "images/Pasted image 20250104090019.png",
     "images/Pasted image 20250104085947.png",
