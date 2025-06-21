@@ -1,6 +1,6 @@
 {
   "livePreview": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "readableLineLength": false,
   "showInlineTitle": false,
   "autoConvertHtml": false,

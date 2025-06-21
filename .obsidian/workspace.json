@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interlinear Sandbox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interlinear Sandbox"
-            }
+              "title": "README"
+            },
+            "group": "1d23ecbd89c449f8"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interlinear Sandbox.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interlinear Sandbox"
-            }
+              "title": "README"
+            },
+            "group": "1d23ecbd89c449f8"
           }
         ]
       }
@@ -98,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 3"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -134,22 +135,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interlinear Sandbox.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interlinear Sandbox"
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +163,12 @@
   },
   "active": "37ea9a115713330e",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Interlinear Sandbox.md",
+    "test-new.md",
     "Untitled.md",
+    "Rom.5.12-21.md",
+    "Rom.7.7-25.md",
+    "Interlinear Sandbox.md",
+    "Untitled 1.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "BBG4E/HW12.md",
@@ -186,10 +188,7 @@
     "BBG4E/HW3.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW12-Key.md",
-    "test-new.md",
     "README.md",
-    "Memorize.md",
-    "52-1Thessalonians/1Th.1.2–10.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",

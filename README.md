@@ -8,6 +8,7 @@
 - [背誦金句](Memorize.md)
 - [圖析符號說明](Phrasing-Signs.md) 
 - [同義字 Synonyms](Synonyms/synonyms.md)
+- [Interlinear Sandbox](Interlinear%20Sandbox.md)
 
 ### 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)
