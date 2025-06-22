@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cdc48985b3502f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37ea9a115713330e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            },
-            "group": "1d23ecbd89c449f8"
-          }
-        ]
-      },
-      {
         "id": "319140a3f47134b7",
         "type": "tabs",
         "children": [
           {
-            "id": "dff8fac5fc66ba99",
+            "id": "28e4f35086349fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
-            },
-            "group": "1d23ecbd89c449f8"
+              "title": "Untitled"
+            }
           }
         ]
       }
@@ -100,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -116,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -148,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +141,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37ea9a115713330e",
+  "active": "28e4f35086349fb9",
   "lastOpenFiles": [
-    "test-new.md",
+    "README.md",
     "Untitled.md",
+    "Lord's Prayer.md",
+    "Apostles' Creed.md",
+    "Memorize.md",
+    "Idioms.md",
+    "test-new.md",
+    "Eph.2.1-10.md",
     "Rom.5.12-21.md",
     "Rom.7.7-25.md",
     "Interlinear Sandbox.md",
@@ -172,7 +158,6 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "BBG4E/HW12.md",
-    "Apostles' Creed.md",
     "BBG4E/HW1.md",
     "BBG4E/HW1-Key.md",
     "BBG4E/HW2.md",
@@ -184,11 +169,6 @@
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
     "BBG4E/HW5.md",
-    "BBG4E/HW4.md",
-    "BBG4E/HW3.md",
-    "BBG4E/HW2-Key.md",
-    "BBG4E/HW12-Key.md",
-    "README.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
