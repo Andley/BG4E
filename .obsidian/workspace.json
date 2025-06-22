@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "HW1-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "931284148359e1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5903e4579cafaa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW1-Key.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW1-Key"
             }
           }
         ]
@@ -143,8 +163,9 @@
   },
   "active": "28e4f35086349fb9",
   "lastOpenFiles": [
-    "README.md",
+    "Quotations.md",
     "Untitled.md",
+    "README.md",
     "Lord's Prayer.md",
     "Apostles' Creed.md",
     "Memorize.md",
@@ -168,7 +189,6 @@
     "BBG4E/HW8.md",
     "BBG4E/HW7.md",
     "BBG4E/HW6.md",
-    "BBG4E/HW5.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
