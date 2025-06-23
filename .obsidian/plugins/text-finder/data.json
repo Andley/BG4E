@@ -1,0 +1,9 @@
+{
+  "clearAfterHidden": false,
+  "enableInputHotkeys": true,
+  "sourceModeWhenSearch": false,
+  "moveCursorToMatch": true,
+  "useSelectionAsSearch": true,
+  "useObsidianSearchInRead": false,
+  "useEscapeCharInReplace": true
+}
