@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3-Key.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW3-Key"
+              "title": "HW1-Key"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3-Key.md",
+                "file": "BBG4E/HW1-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW3-Key"
+              "title": "HW1-Key"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -163,16 +162,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e57cefbe90e98e3c",
+  "active": "52be0df7b56092cb",
   "lastOpenFiles": [
-    "BBG4E/HW3.md",
     "BBG4E/HW3-Key.md",
+    "BBG4E/HW1-Key.md",
+    "BBG4E/HW3.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
     "BG4E-ExpPreaching/Sermon-1.md",
-    "BBG4E/HW1-Key.md",
     "README.md",
     "Tools/Biblography.md",
     "Semantics/synonyms.md",
