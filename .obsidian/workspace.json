@@ -6,19 +6,41 @@
       {
         "id": "388da3161c6219a6",
         "type": "tabs",
+        "dimension": 42.897327707454295,
         "children": [
           {
-            "id": "e929950d9be012c9",
+            "id": "e57cefbe90e98e3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG4E-ExpPreaching/Sermon-1-Key.md",
+                "file": "BBG4E/HW3-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW3-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0dc225485e8b107",
+        "type": "tabs",
+        "dimension": 57.102672292545705,
+        "children": [
+          {
+            "id": "52be0df7b56092cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW3-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sermon-1-Key"
+              "title": "HW3-Key"
             }
           }
         ]
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -140,10 +163,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e929950d9be012c9",
+  "active": "e57cefbe90e98e3c",
   "lastOpenFiles": [
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
+    "BBG4E/HW3.md",
+    "BBG4E/HW3-Key.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW2.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
+    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "BG4E-ExpPreaching/Sermon-1.md",
     "BBG4E/HW1-Key.md",
     "README.md",
@@ -166,10 +193,6 @@
     "Memorize/Apostles' Creed.md",
     "Memorize.md",
     "test-new.md",
-    "Eph.2.1-10.md",
-    "Rom.5.12-21.md",
-    "Rom.7.7-25.md",
-    "Untitled 1.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
