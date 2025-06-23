@@ -2,13 +2,13 @@
 
 
 
-- [使徒信經 Apostles' Creed](Apostles'%20Creed.md) ⇐ 2025-06 更新
-- [主禱文 Lord's Prayer](Lord's%20Prayer.md) ⇐ 2025-06 更新
+- [使徒信經 Apostles' Creed](Memorize/Apostles'%20Creed.md) ⇐ 2025-06 更新
+- [主禱文 Lord's Prayer](Memorize/Lord's%20Prayer.md) ⇐ 2025-06 更新
 - [名言](Quotations.md)
-- [慣用語](Idioms.md)
-- [圖析符號說明](Phrasing-Signs.md) 
-- [同義字 Synonyms](Synonyms/synonyms.md)
-- [Interlinear Sandbox](Interlinear%20Sandbox.md)
+- [慣用語](Semantics/Idioms.md)
+- [圖析符號說明](Tools/Phrasing-Signs.md) 
+- [同義字 Synonyms](Semantics/synonyms.md)
+- [Interlinear Sandbox](Tools/Interlinear%20Sandbox.md)
 
 ### 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)
@@ -35,7 +35,7 @@
 
 
 ### 資源工具
-- [參考書目](Biblography.md)
-- [數位工具](Digital-Tools.md)
-	- [UNICODE 相關注意事項](UNICODE.md)
-	- [開源資料庫](open-source.md)
+- [參考書目](Tools/Biblography.md)
+- [數位工具](Tools/Digital-Tools.md)
+	- [UNICODE 相關注意事項](Tools/UNICODE.md)
+	- [開源資料庫](Tools/open-source.md)
