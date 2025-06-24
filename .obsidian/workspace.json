@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3-Key.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW3-Key"
+              "title": "HW1"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3-Key.md",
+                "file": "BBG4E/HW1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW3-Key"
+              "title": "HW1"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -165,10 +164,11 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
-    "BBG4E/HW3-Key-notes.md",
-    "BBG4E/HW3-Key.md",
     "BBG4E/HW1-Key-notes.md",
     "BBG4E/HW1-Key.md",
+    "BBG4E/HW1.md",
+    "BBG4E/HW3-Key.md",
+    "BBG4E/HW3-Key-notes.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2-Key-notes.md",
     "BBG4E/HW2.md",
@@ -192,7 +192,6 @@
     "ASBHR/06.md",
     "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
     "42-Luke/Luk.1.1-4.md",
-    "Memorize/Lord's Prayer.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",

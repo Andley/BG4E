@@ -1,4 +1,4 @@
-# HW① (太 1:1-6a) 句法圖析
+# HW① (太 1:1-6b) 句法圖析
 
 
 - 1:1 (<RUBY><ruby><ruby>Βίβλος<rt>書 [The] book</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00976&m='>βίβλος</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>γενέσεως<rt>出生 of [the] genealogy</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01078&m='>γένεσις</a></rt></ruby><rt>N-GSF</rt></RUBY>°¹)S 
