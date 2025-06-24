@@ -8,18 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9096066972cc4ff",
+            "id": "4397bb6ba8e47c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "BBG4E/HW3-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW3-Key"
+            },
+            "group": "0d2c6c9849e06572"
+          }
+        ]
+      },
+      {
+        "id": "7d86bc57d089ac47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06f479767fe885f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW3-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
-            }
+              "title": "HW3-Key"
+            },
+            "group": "0d2c6c9849e06572"
           }
         ]
       }
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -140,14 +163,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9096066972cc4ff",
+  "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
-    "BBG4E/HW2-Key-notes.md",
-    "BBG4E/HW2-Key.md",
-    "BBG4E/HW1-Key-notes.md",
-    "BBG4E/HW2.md",
-    "BBG4E/HW1-Key.md",
+    "BBG4E/HW3-Key-notes.md",
     "BBG4E/HW3-Key.md",
+    "BBG4E/HW1-Key-notes.md",
+    "BBG4E/HW1-Key.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW2-Key-notes.md",
+    "BBG4E/HW2.md",
     "BBG4E/HW3.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
     "BG4E-ExpPreaching/Sermon-2-Key.md",
@@ -169,7 +193,6 @@
     "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
     "42-Luke/Luk.1.1-4.md",
     "Memorize/Lord's Prayer.md",
-    "Memorize/Apostles' Creed.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
