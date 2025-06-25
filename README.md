@@ -9,12 +9,13 @@
 - [同義字 Synonyms](Semantics/synonyms.md)
 - [Interlinear Sandbox](Tools/Interlinear%20Sandbox.md)
 
-## 初階
-
-## 進階句法 (BG4E-Syntax)
+## 全民希臘文：初階
+- 課程講義
+- 課後練習
+## 全民希臘文：句法
 - [全民希臘文進階句法](Syntax/Syntax.md)
 
-## 新約書卷 (Greek New Testament)
+## 全民希臘文：新約句法筆記)
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/Sermon-on-the-Mount.Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
