@@ -1,3 +1,9 @@
+# 全民希臘文 (初階) 教材<br> Basics of BG4E (Biblical Greek for Everyone) 
+
+## 
+
+## 課後練習
+
 - 學習方法
 - 
 - 聖經希臘文工具

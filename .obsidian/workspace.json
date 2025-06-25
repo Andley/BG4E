@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BBG4E/BBG4E.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "BBG4E"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BBG4E/BBG4E.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "BBG4E"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -164,8 +164,9 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
-    "Memorize/Lords-Prayer.md",
     "README.md",
+    "BBG4E/BBG4E.md",
+    "Memorize/Lords-Prayer.md",
     "Memorize/Apostles-Creed.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
@@ -190,7 +191,6 @@
     "Tools/Phrasing-Signs.md",
     "Greek Pedagogy.md",
     "Quotations.md",
-    "cheatsheet.md",
     "Memorize",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",

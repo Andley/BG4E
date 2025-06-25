@@ -2,7 +2,7 @@
 
 
 
-- [Apostles' Creed](Memorize/Apostles-Creed.md)⇐ 2025-06 更新
+- [Apostles' Creed](Memorize/Apostles-Creed.md) ⇐ 2025-06 更新
 - [Lord's Prayer](Memorize/Lords-Prayer.md) ⇐ 2025-06 更新
 - [慣用語](Semantics/Idioms.md)
 - [圖析符號說明](Tools/Phrasing-Signs.md) 
@@ -10,10 +10,9 @@
 - [Interlinear Sandbox](Tools/Interlinear%20Sandbox.md)
 
 ## 全民希臘文：初階
-- 課程講義
-- 課後練習
+- [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
 ## 全民希臘文：句法
-- [全民希臘文進階句法](Syntax/Syntax.md)
+- [全民希臘文句法](Syntax/Syntax.md)
 
 ## 全民希臘文：新約句法筆記)
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/Sermon-on-the-Mount.Notes.md)
