@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize/Apostles' Creed.md",
+                "file": "Memorize/Lord's Prayer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apostles' Creed"
+              "title": "Lord's Prayer"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize/Apostles' Creed.md",
+                "file": "Memorize/Lord's Prayer.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apostles' Creed"
+              "title": "Lord's Prayer"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -164,6 +164,11 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
+    "Memorize/Apostles' Creed.md",
+    "40-Matthew/Mat.7.13-14.md",
+    "40-Matthew/Mat.7.7-12.md",
+    "40-Matthew/Mat.7.1-6.md",
+    "40-Matthew/Mat.6.1-4.md",
     "BBG4E/HW1.md",
     "BBG4E/HW1-Key-notes.md",
     "BBG4E/HW1-Key.md",
@@ -186,12 +191,7 @@
     "Quotations.md",
     "cheatsheet.md",
     "Tools/Interlinear Sandbox.md",
-    "Semantics/Idioms.md",
     "Memorize",
-    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
-    "ASBHR/06.md",
-    "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
-    "42-Luke/Luk.1.1-4.md",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
