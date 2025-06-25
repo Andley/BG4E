@@ -4,16 +4,17 @@
 
 - [使徒信經 Apostles' Creed](Memorize/Apostles'%20Creed.md) ⇐ 2025-06 更新
 - [主禱文 Lord's Prayer](Memorize/Lord's%20Prayer.md) ⇐ 2025-06 更新
-- [名言](Quotations.md)
 - [慣用語](Semantics/Idioms.md)
 - [圖析符號說明](Tools/Phrasing-Signs.md) 
 - [同義字 Synonyms](Semantics/synonyms.md)
 - [Interlinear Sandbox](Tools/Interlinear%20Sandbox.md)
 
-### 進階句法 (BG4E-Syntax)
+## 初階
+
+## 進階句法 (BG4E-Syntax)
 - [全民希臘文進階句法](Syntax/Syntax.md)
 
-### 新約書卷 (Greek New Testament)
+## 新約書卷 (Greek New Testament)
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/Sermon-on-the-Mount.Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)

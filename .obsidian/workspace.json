@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize/Lord's Prayer.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lord's Prayer"
+              "title": "README"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorize/Lord's Prayer.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lord's Prayer"
+              "title": "README"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -164,6 +164,7 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
+    "Memorize/Lord's Prayer.md",
     "Memorize/Apostles' Creed.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
@@ -190,7 +191,6 @@
     "Greek Pedagogy.md",
     "Quotations.md",
     "cheatsheet.md",
-    "Tools/Interlinear Sandbox.md",
     "Memorize",
     "Pasted image 20250520070954.png",
     "Pasted image 20250520071106.png",
