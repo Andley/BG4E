@@ -16,7 +16,7 @@ html, body, p, li {
     border-bottom: 4px double ;
   }
 
-  h2 {
+  h1, h3, h5 {
     text-align: center;
   }
 
@@ -30,14 +30,19 @@ html, body, p, li {
   }
 
   ruby {
-    font-size: 1em ; 
-    line-height:5em;
+    font-size: 13pt ; 
     ruby-align:start;
+    font-weight: bold;
+    line-height:5em;
     padding: 0 0.1em 0 0px;
   }
   
   rt {
     font-size: 0.8em ; 
+    font-size: 11pt ; 
+    font-weight:normal;
+    padding: 0 0.1em 0 0;
+
   }
   
   li ruby {
