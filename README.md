@@ -2,8 +2,8 @@
 
 
 
-- [使徒信經 Apostles' Creed](Memorize/Apostles'%20Creed.md) ⇐ 2025-06 更新
-- [主禱文 Lord's Prayer](Memorize/Lord's%20Prayer.md) ⇐ 2025-06 更新
+- [Apostles' Creed](Memorize/Apostles-Creed.md)⇐ 2025-06 更新
+- [Lord's Prayer](Memorize/Lords-Prayer.md) ⇐ 2025-06 更新
 - [慣用語](Semantics/Idioms.md)
 - [圖析符號說明](Tools/Phrasing-Signs.md) 
 - [同義字 Synonyms](Semantics/synonyms.md)
