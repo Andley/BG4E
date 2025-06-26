@@ -76,6 +76,13 @@ li ruby {
 
 a {text-decoration: none; color: var(--text-faint); }
 
+strong {
+  font-weight:800;
+}
+em {
+  font-weight: 600;
+}
+
 /*
 ruby {
 	display: inline-flex;
@@ -97,8 +104,8 @@ ruby {
 
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
-  border: 1px solid;
-  border-bottom: 5px double;
+  border: 2px solid;
+  border-bottom: 3px double;
   text-align: center;
 }
 
