@@ -26,4 +26,4 @@
 	- <RUBY><ruby><ruby>ζωὴν<rt>生命 life</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02222&m='>ζωή</a></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>αἰώνιον<rt>永遠的eternal</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00166&m='>αἰώνιος</a></rt></ruby><rt>A-ASN</rt></RUBY> <mark class='punctuation'>.</mark> 
 - <RUBY><ruby><ruby>Ἀμήν<rt>阿們 Amen</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00281&m='>ἀμήν</a></rt></ruby><rt>ADV</rt></RUBY>
 
-[^1]: [Creeds of Christendom, with a History and Critical notes. Volume II. The History of Creeds.](https://www.ccel.org/ccel/schaff/creeds2.iv.i.i.i.html#fnf_iv.i.i.i-p0.2)
+[^1]: [Creeds of Christendom, with a History and Critical notes. Volume II. The History of Creeds.](https://www.ccel.org/ccel/schaff/creeds2.iv.i.i.i.html)
