@@ -74,15 +74,6 @@ li ruby {
   line-height:5em;
 } 
 
-a {text-decoration: none; color: var(--text-faint); }
-
-strong {
-  font-weight:800;
-}
-em {
-  font-weight: 600;
-}
-
 /*
 ruby {
 	display: inline-flex;
@@ -102,6 +93,35 @@ ruby {
   }
 */
 
+strong {
+  font-weight:800;
+}
+em {
+  font-weight: 600;
+}
+
+
+a {text-decoration: none; color: var(--text-faint); }
+
+
+/* table */
+.markdown-preview-view table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid;
+  color: var(--text-color);
+} 
+
+.markdown-preview-view th {
+  border-bottom: 3px double;
+}
+
+.markdown-preview-view tr:nth-child(even) {
+      background-color: var(--background-secondary);
+}
+
+/* --------------------------------------------   */
+
 /* text decoration for marking syntax functions */
   mark {
   &.poetry::before {content:'\a                 '; white-space: pre;}
@@ -113,13 +133,13 @@ ruby {
 	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-normal);}
 	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;color:var(--text-normal);}
 	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;color:var(--text-normal);}
+  */
 
-  /* ————
-  &.verb {background-color: lightpink;}
-	&.ptc {background-color: lightblue; }
-	&.inf {background-color: lightgreen; }
+/*  &.verb {background-color: lightpink}
+	&.ptc {background-color: lightgreen; }
+	&.inf {background-color: lightcyan; } */
   
-  &.verb {background-color: transparent; color: red;}
+/*  &.verb {background-color: transparent; color: red;}
 	&.ptc {background-color: transparent; color: blue;}
 	&.inf {background-color: transparent; color: green;}
   ———— */
@@ -146,6 +166,8 @@ ruby {
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
   --font-text: AndleyFont, "Noto Sans";
+  --table-cell-vertical-alignment: middle;
+  --table-border-color: silver;
   }
 
 .theme-light {
@@ -165,6 +187,8 @@ ruby {
   --link-external-color:rgb(128, 136, 240);
   --color-base-40: darkblue;
   --font-text: AndleyFont, "Noto Sans";
+  --table-cell-vertical-alignment: middle;
+  --table-border-color: gray;
 }
 
 /* HTML tags in preview and editor */
