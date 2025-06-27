@@ -102,17 +102,6 @@ ruby {
   }
 */
 
-/*   Table  */
-.markdown-rendered thead tr > th , .markdown-preview-view th {
-  border: 2px solid;
-  border-bottom: 3px double;
-  text-align: center;
-}
-
-.markdown-preview-view td {
-  border: 1px solid;
-}
-
 /* text decoration for marking syntax functions */
   mark {
   &.poetry::before {content:'\a                 '; white-space: pre;}
