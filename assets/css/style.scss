@@ -5,21 +5,10 @@
 
 
 /* 設定字型 */
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
-  src: url(https://fonts.googleapis.com/css?family="Gentium Book Plus");
-  }
-@font-face {
-  font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
-  src: url(https://fonts.googleapis.com/css?family="Noto Serif Hebrew");
-  }
-
-
 
 html, body, p, li {
     color: black;
+    font-family: "Gentium Book Plus", "Noto Serif Hebrew", sans-serif;
   }
 
   h1 {
@@ -47,7 +36,7 @@ html, body, p, li {
     font-weight: bold;
     line-height:5em;
     padding: 0 0.1em 0 0px;
-    font-family: AndleyFont, serif;
+    font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
   }
   
   rt {
@@ -55,7 +44,7 @@ html, body, p, li {
     font-size: 11pt ; 
     font-weight:normal;
     padding: 0 0.1em 0 0;
-    font-family: AndleyFont, sans-serif;
+    font-family: "Gentium Book Plus", "Noto Serif Hebrew", sans-serif;
   }
   
   li ruby {
