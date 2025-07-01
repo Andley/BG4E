@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "Tools/UNICODE.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4"
+              "title": "UNICODE"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW4.md",
+                "file": "Tools/UNICODE.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4"
+              "title": "UNICODE"
             },
             "group": "0d2c6c9849e06572"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HW",
+                "query": "tonos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,6 +165,7 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
+    "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
     "BBG4E/HW1.md",
@@ -189,7 +191,6 @@
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2-Key-notes.md",
     "BG4E-ExpPreaching/Sermon-1-Key.md",
-    "BG4E-ExpPreaching/Sermon-2-Key.md",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",
