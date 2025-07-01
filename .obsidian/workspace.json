@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/UNICODE.md",
+                "file": "BBG4E/HW1-Key-notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UNICODE"
-            },
-            "group": "0d2c6c9849e06572"
+              "title": "HW1-Key-notes"
+            }
           }
         ]
       },
@@ -34,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/UNICODE.md",
+                "file": "BBG4E/HW1-Key-notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UNICODE"
-            },
-            "group": "0d2c6c9849e06572"
+              "title": "HW1-Key-notes"
+            }
           }
         ]
       }
@@ -63,7 +61,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,8 +94,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,8 +160,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4397bb6ba8e47c90",
+  "active": "323a10775016a71f",
   "lastOpenFiles": [
+    "Tools/UNICODE.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
     "BBG4E/HW2.md",
@@ -190,7 +188,6 @@
     "BBG4E/HW3-Key-notes.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2-Key-notes.md",
-    "BG4E-ExpPreaching/Sermon-1-Key.md",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",
