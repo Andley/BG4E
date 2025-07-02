@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key-notes.md",
+                "file": "BBG4E/HW2-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key-notes"
-            }
+              "title": "HW2-Key"
+            },
+            "group": "607b05b3d020c42f"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW1-Key-notes.md",
+                "file": "BBG4E/HW2-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1-Key-notes"
-            }
+              "title": "HW2-Key"
+            },
+            "group": "607b05b3d020c42f"
           }
         ]
       }
@@ -160,12 +162,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "323a10775016a71f",
+  "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
+    "BBG4E/HW2.md",
+    "BBG4E/HW2-Key.md",
+    "BBG4E/HW1-Key-notes.md",
+    "BBG4E/HW1-Key.md",
+    "Tools/Interlinear-Sandbox.md",
     "Tools/UNICODE.md",
+    "README.md",
     "BBG4E/HW4.md",
     "BBG4E/HW3.md",
-    "BBG4E/HW2.md",
     "BBG4E/HW1.md",
     "48-Galatians/Gal.3.1-6.md",
     "48-Galatians/Gal.1.1-5.md",
@@ -176,18 +183,13 @@
     "Memorize/Apostles-Creed.md",
     "BBG4E/Untitled.md",
     "BBG4E/§1.md",
-    "README.md",
     "Memorize/Lords-Prayer.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
     "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.6.1-4.md",
-    "BBG4E/HW1-Key-notes.md",
-    "BBG4E/HW1-Key.md",
     "BBG4E/HW3-Key.md",
     "BBG4E/HW3-Key-notes.md",
-    "BBG4E/HW2-Key.md",
-    "BBG4E/HW2-Key-notes.md",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",

@@ -20,13 +20,13 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 - [Logos Greek Keyboard](https://www.logos.com/product/53264/original-languages-keyboards-for-windows) 
 	- 只能輸出 combining characters (e.g. ά = \u03B1+\u0301)，不能用
 - Microsoft Polytonic
-	- 可以輸出 tonos (ά U+03AC) 和 oxia (ά U+1F71) 的 pre-composed character，記得要用 tonos ！
+	- 可以輸出 pre-omposed character with tonos (ά U+03AC) 和 pre-composed character with oxia (ά U+1F71)，記得要用 tonos (ά U+03AC)！
 	- ![images/key.png](images/key.png)
 	- ![images/Pasted image 20220630200904.png](images/Pasted%20image%2020220630200904.png)
 
 
 
-##### Macro
+##### Macro 
 >
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1F71","replacePattern":"\u03AC"}},
 {"type":"replace","args":{"replaceAll":true,"searchPattern":"\u1F73","replacePattern":"\u03AD"}},
