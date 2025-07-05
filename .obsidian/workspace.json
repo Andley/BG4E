@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "BBG4E/HW2-Key-notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "HW2-Key-notes"
             },
             "group": "607b05b3d020c42f"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW2-Key.md",
+                "file": "BBG4E/HW2-Key-notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "HW2-Key-notes"
             },
             "group": "607b05b3d020c42f"
           }
@@ -164,8 +164,8 @@
   },
   "active": "4397bb6ba8e47c90",
   "lastOpenFiles": [
-    "BBG4E/HW2.md",
     "BBG4E/HW2-Key.md",
+    "BBG4E/HW2.md",
     "BBG4E/HW1-Key-notes.md",
     "BBG4E/HW1-Key.md",
     "Tools/Interlinear-Sandbox.md",
