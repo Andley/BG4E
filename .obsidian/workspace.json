@@ -8,37 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4397bb6ba8e47c90",
+            "id": "df34ddd97cb39eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW3-Key-notes.md",
+                "file": "BBG4E/BBG4E.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW3-Key-notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7d86bc57d089ac47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f06f479767fe885f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW3-Key-notes.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW3-Key-notes"
+              "title": "BBG4E"
             }
           }
         ]
@@ -98,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -161,10 +140,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4397bb6ba8e47c90",
+  "active": "df34ddd97cb39eac",
   "lastOpenFiles": [
-    "BBG4E/HW2-Key-notes.md",
+    "0-1.md",
+    "BBG4E/BBG4E.md",
+    "Lesson 1.md",
+    "Lesson 2.md",
     "BBG4E/HW3-Key-notes.md",
+    "BBG4E/HW2-Key-notes.md",
     "BBG4E/HW2-Key.md",
     "BBG4E/HW2.md",
     "BBG4E/HW1-Key-notes.md",
@@ -179,16 +162,12 @@
     "48-Galatians/Gal.1.1-5.md",
     "BBG4E/§2.md",
     "Untitled.md",
-    "BBG4E/BBG4E.md",
     "BBG4E/Vocabulary in Context.md",
     "Memorize/Apostles-Creed.md",
     "BBG4E/Untitled.md",
     "BBG4E/§1.md",
     "Memorize/Lords-Prayer.md",
     "40-Matthew/Mat.7.13-14.md",
-    "40-Matthew/Mat.7.7-12.md",
-    "40-Matthew/Mat.7.1-6.md",
-    "40-Matthew/Mat.6.1-4.md",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",
