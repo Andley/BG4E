@@ -3,7 +3,7 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showInlineTitle": false,
-  "autoConvertHtml": false,
+  "autoConvertHtml": true,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -13,5 +13,6 @@
   },
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
 }
