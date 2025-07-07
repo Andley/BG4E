@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -163,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4f07a10567eb7ab",
+  "active": "df34ddd97cb39eac",
   "lastOpenFiles": [
     "BBG4E/HW/HW7.md",
     "BBG4E/BBG4E.md",
