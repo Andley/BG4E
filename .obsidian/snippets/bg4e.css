@@ -22,6 +22,10 @@ html, body, p, li {
   color: var(--text-color);
 }
 
+p {
+  text-indent: 2em;
+}
+
 /* <span> Interlinear */
     .interlinear {
       display: flex;
@@ -204,3 +208,5 @@ a {text-decoration: none; color: var(--text-faint); }
   margin-bottom: 1%;
   margin-left: 5%;
 }
+
+

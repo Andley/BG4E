@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/BBG4E.md",
+                "file": "BBG4E/§1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "BBG4E"
+              "title": "§1"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/BBG4E.md",
+                "file": "BBG4E/§1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "BBG4E"
+              "title": "§1"
             }
           }
         ]
@@ -95,12 +95,29 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "8852f6638c498419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BBG4E/§1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of §1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -116,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "BBG4E/§1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,22 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "8852f6638c498419",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Backlinks for §1"
             }
           }
         ]
@@ -164,8 +166,10 @@
   },
   "active": "df34ddd97cb39eac",
   "lastOpenFiles": [
-    "BBG4E/HW/HW7.md",
+    "BBG4E/22.md",
+    "BBG4E/§1.md",
     "BBG4E/BBG4E.md",
+    "BBG4E/HW/HW7.md",
     "BBG4E/HW/HW6.md",
     "BBG4E/HW/HW5.md",
     "BBG4E/HW/HW4.md",
@@ -183,8 +187,6 @@
     "BBG4E/§4.md",
     "BBG4E/§3.md",
     "BBG4E/§2.md",
-    "BBG4E/§1.md",
-    "BBG4E/22.md",
     "BBG4E/0-1.md",
     "BBG4E/HW/HW10.md",
     "BBG4E/HW-Key",
