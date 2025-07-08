@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "388da3161c6219a6",
+        "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 55.392731535756155,
         "children": [
           {
-            "id": "df34ddd97cb39eac",
+            "id": "f4f07a10567eb7ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "0ab21aa69d68561d",
+        "id": "659d82d7b5d6b4d7",
         "type": "tabs",
-        "dimension": 44.607268464243845,
         "children": [
           {
-            "id": "f4f07a10567eb7ab",
+            "id": "a1756e165d9af022",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,20 +100,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/§1.md",
+                "file": "BBG4E/HW/HW1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of §1"
+              "title": "Outline of HW1"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -163,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df34ddd97cb39eac",
+  "active": "f4f07a10567eb7ab",
   "lastOpenFiles": [
     "BBG4E/HW/HW1.md",
     "BBG4E/§1.md",
