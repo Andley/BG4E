@@ -22,10 +22,10 @@ html, body, p, li {
   color: var(--text-color);
 }
 
-div > p {
-  text-indent: 2em;
-}
 
+.cm-embed-block, .cm-line {
+  display: ;
+}
 /* <span> Interlinear */
     .interlinear {
       display: flex;
@@ -197,7 +197,8 @@ a {text-decoration: none; color: var(--text-faint); }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
-  color: var(--text-tag);
+  /*color: var(--text-tag);*/
+  color:blue;
   font-family: "Noto Sans ExtraCondensed";
 }
 
