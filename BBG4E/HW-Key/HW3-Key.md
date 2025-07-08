@@ -1,4 +1,4 @@
-# 作業③ (約 1:14-18) 
+# 作業③ (約 1:14-18) 句法圖析
 
 
 - 1:14a <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Λόγος<rt>道 Word</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03056&m='>λόγος</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>σὰρξ<rt>肉身 flesh</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04561&m='>σάρξ</a></rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἐγένετο</mark><rt>成為 became</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01096&m='>γίνομαι</a></rt></ruby><rt>V-AMI-3S</rt></RUBY>)P 
