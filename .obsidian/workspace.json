@@ -111,13 +111,11 @@
               "title": "Outline of §1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -161,20 +159,21 @@
       "canvas:Create new canvas": false,
       "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "df34ddd97cb39eac",
   "lastOpenFiles": [
-    "BBG4E/22.md",
+    "BBG4E/HW/HW1.md",
     "BBG4E/§1.md",
+    "BBG4E/22.md",
     "BBG4E/BBG4E.md",
     "BBG4E/HW/HW7.md",
     "BBG4E/HW/HW6.md",
     "BBG4E/HW/HW5.md",
     "BBG4E/HW/HW4.md",
     "BBG4E/HW/HW3.md",
-    "BBG4E/HW/HW1.md",
     "BBG4E/HWa.md",
     "BBG4E/§12.md",
     "BBG4E/§11.md",
