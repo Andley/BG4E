@@ -198,6 +198,7 @@ a {text-decoration: none; color: var(--text-faint); }
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
+  font-family: "Noto Sans Mono ExtraCondensed";
 }
 
 @page {

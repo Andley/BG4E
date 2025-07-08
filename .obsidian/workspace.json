@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/§1.md",
+                "file": "BBG4E/HW-Key/HW3-Key-notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§1"
+              "title": "HW3-Key-notes"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/§1.md",
+                "file": "BBG4E/HW-Key/HW3-Key-notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§1"
+              "title": "HW3-Key-notes"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "f4f07a10567eb7ab",
   "lastOpenFiles": [
-    "BBG4E/HW/HW1.md",
+    "BBG4E/HW-Key/HW3-Key.md",
+    "BBG4E/HW-Key/HW3-Key-notes.md",
     "BBG4E/§1.md",
+    "BBG4E/HW/HW1.md",
     "BBG4E/22.md",
     "BBG4E/BBG4E.md",
     "BBG4E/HW/HW7.md",
@@ -190,8 +192,6 @@
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "BBG4E/HW3-Key-notes.md",
-    "BBG4E/HW2-Key-notes.md",
-    "BBG4E/HW2-Key.md",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",
