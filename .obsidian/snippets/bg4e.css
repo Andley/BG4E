@@ -22,10 +22,6 @@ html, body, p, li {
   color: var(--text-color);
 }
 
-
-.cm-embed-block, .cm-line {
-  display: ;
-}
 /* <span> Interlinear */
     .interlinear {
       display: flex;
@@ -150,8 +146,6 @@ a {text-decoration: none; color: var(--text-faint); }
 }
 
 
-
-
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
@@ -172,7 +166,6 @@ a {text-decoration: none; color: var(--text-faint); }
   --font-text: AndleyFont, "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: silver;
-  --mono-rgb-100: yellow;
   }
 
 .theme-light {
