@@ -8,7 +8,7 @@
   "enabled": true,
   "outlineListMarkers": true,
   "showAllCodeblockWhitespace": true,
-  "showAllWhitespace": true,
+  "showAllWhitespace": false,
   "showBlockquoteMarkers": true,
   "showCodeblockWhitespace": true,
   "showExtraWhitespace": true,
