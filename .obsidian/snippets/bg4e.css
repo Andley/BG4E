@@ -172,6 +172,7 @@ a {text-decoration: none; color: var(--text-faint); }
   --font-text: AndleyFont, "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: silver;
+  --mono-rgb-100: yellow;
   }
 
 .theme-light {
@@ -197,9 +198,8 @@ a {text-decoration: none; color: var(--text-faint); }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
-  /*color: var(--text-tag);*/
-  color:blue;
-  font-family: "Noto Sans ExtraCondensed";
+  color: var(--text-tag);
+  font-family: "Noto Sans Mono ExtraCondensed" ;
 }
 
 @page {

@@ -7,12 +7,12 @@
   "disablePluginStyles": false,
   "enabled": true,
   "outlineListMarkers": true,
-  "showAllCodeblockWhitespace": false,
+  "showAllCodeblockWhitespace": true,
   "showAllWhitespace": true,
   "showBlockquoteMarkers": true,
   "showCodeblockWhitespace": true,
   "showExtraWhitespace": true,
-  "showFrontmatterWhitespace": false,
+  "showFrontmatterWhitespace": true,
   "showLineEndings": true,
-  "showTableWhitespace": false
+  "showTableWhitespace": true
 }

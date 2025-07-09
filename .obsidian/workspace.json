@@ -6,6 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
+        "dimension": 49.91212653778559,
         "children": [
           {
             "id": "63e35a56e39137a3",
@@ -13,32 +14,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW2-Key.md",
+                "file": "BBG4E/HW-Key/HW4-Key.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "HW4-Key"
             }
-          }
-        ]
-      },
-      {
-        "id": "16e862c551667a77",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "86388e4520f00173",
+            "id": "513babb7921320ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW2-Key.md",
+                "file": "BBG4E/HW-Key/HW5-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW5-Key"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f320eeb3d406086c",
+        "type": "tabs",
+        "dimension": 50.08787346221442,
+        "children": [
+          {
+            "id": "bd149b1635978a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW5-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "HW5-Key"
             }
           }
         ]
@@ -161,13 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63e35a56e39137a3",
+  "active": "513babb7921320ad",
   "lastOpenFiles": [
+    "BBG4E/HW-Key/HW4-Key.md",
+    "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW/HW5.md",
+    "BBG4E/HW-Key/HW3-Key.md",
+    "BBG4E/HW-Key/HW3-Key-notes.md",
     "BBG4E/HW-Key/HW2-Key-notes.md",
     "BBG4E/HW-Key/HW2-Key.md",
-    "BBG4E/HW-Key/HW3-Key-notes.md",
-    "BBG4E/HW-Key/HW4-Key.md",
-    "BBG4E/HW-Key/HW3-Key.md",
     "BBG4E/HW-Key/HW1-Key-notes.md",
     "BBG4E/§1.md",
     "BBG4E/圖析風格.md",
@@ -179,7 +198,6 @@
     "BBG4E/BBG4E.md",
     "BBG4E/HW/HW7.md",
     "BBG4E/HW/HW6.md",
-    "BBG4E/HW/HW5.md",
     "BBG4E/HW/HW3.md",
     "BBG4E/HWa.md",
     "BBG4E/§12.md",
@@ -188,7 +206,6 @@
     "BBG4E/$9.md",
     "BBG4E/§8.md",
     "BBG4E/§7.md",
-    "BBG4E/§6.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
