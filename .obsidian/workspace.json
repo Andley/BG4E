@@ -9,35 +9,20 @@
         "dimension": 49.91212653778559,
         "children": [
           {
-            "id": "63e35a56e39137a3",
+            "id": "1544362e0e2913ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW4-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4-Key"
-            }
-          },
-          {
-            "id": "513babb7921320ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "HW9-Key"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f320eeb3d406086c",
@@ -50,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "HW9-Key"
             }
           }
         ]
@@ -130,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -178,13 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513babb7921320ad",
+  "active": "1544362e0e2913ae",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW/HW9.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW2-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW/HW10.md",
     "BBG4E/HW-Key/HW6-Key.md",
+    "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW/HW7.md",
+    "BBG4E/HW/HW8.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
-    "BBG4E/HW-Key/HW2-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW/HW6.md",
@@ -196,14 +188,10 @@
     "BBG4E/HW/HW1.md",
     "BBG4E/22.md",
     "BBG4E/BBG4E.md",
-    "BBG4E/HW/HW7.md",
     "BBG4E/HW/HW3.md",
     "BBG4E/HWa.md",
     "BBG4E/§12.md",
     "BBG4E/§11.md",
-    "BBG4E/§10.md",
-    "BBG4E/$9.md",
-    "BBG4E/§8.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
