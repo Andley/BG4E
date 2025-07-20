@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW6.md",
+                "file": "BBG4E/HW/HWy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6"
+              "title": "HWy"
             },
             "group": "181ef324c72f5234"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW6.md",
+                "file": "BBG4E/HW/HWy.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6"
+              "title": "HWy"
             },
             "group": "181ef324c72f5234"
           }
@@ -168,22 +168,23 @@
   },
   "active": "1544362e0e2913ae",
   "lastOpenFiles": [
-    "BBG4E/Vocabulary in Context.md",
+    "BBG4E/HW/HW11.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW/HW9.md",
+    "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW/HW8.md",
+    "BBG4E/HW/HW7.md",
+    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW/HW6.md",
+    "BBG4E/Vocabulary in Context.md",
     "58-Hebrews/Hebrews-Interlinear.md",
     "62-1John/1Jo.2.18-25.md",
     "62-1John/1Jo.2.7-11.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "Syntax/§512.md",
-    "BBG4E/HW-Key/HW9-Key.md",
-    "BBG4E/HW/HW9.md",
     "BBG4E/HW-Key/HW2-Key.md",
-    "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW/HW10.md",
-    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW/HW7.md",
-    "BBG4E/HW/HW8.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
@@ -193,7 +194,6 @@
     "BBG4E/圖析風格.md",
     "BBG4E/309-Glosses.md",
     "BBG4E/HW/HW4.md",
-    "BBG4E/HW/HW1.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
