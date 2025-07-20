@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HWy.md",
+                "file": "BBG4E/HW/HW1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HWy"
+              "title": "HW1"
             },
             "group": "181ef324c72f5234"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HWy.md",
+                "file": "BBG4E/HW/HW1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HWy"
+              "title": "HW1"
             },
             "group": "181ef324c72f5234"
           }
@@ -113,8 +113,7 @@
               "title": "Outline of HW1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,6 +167,7 @@
   },
   "active": "1544362e0e2913ae",
   "lastOpenFiles": [
+    "BBG4E/HW/HWy.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW/HW9.md",
@@ -193,7 +193,6 @@
     "BBG4E/§1.md",
     "BBG4E/圖析風格.md",
     "BBG4E/309-Glosses.md",
-    "BBG4E/HW/HW4.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
