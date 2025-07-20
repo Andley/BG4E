@@ -14,16 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW1.md",
+                "file": "BBG4E/HW/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
+              "title": "Untitled"
             },
             "group": "181ef324c72f5234"
+          },
+          {
+            "id": "ce7934a2f34a9451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f320eeb3d406086c",
@@ -36,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW1.md",
+                "file": "BBG4E/HW/Untitled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW1"
+              "title": "Untitled"
             },
             "group": "181ef324c72f5234"
           }
@@ -165,8 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1544362e0e2913ae",
+  "active": "bd149b1635978a07",
   "lastOpenFiles": [
+    "BBG4E/HW/HW1.md",
+    "BBG4E/HW/Untitled.md",
     "BBG4E/HW/HWy.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW-Key/HW9-Key.md",
@@ -191,8 +208,6 @@
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW/HW5.md",
     "BBG4E/§1.md",
-    "BBG4E/圖析風格.md",
-    "BBG4E/309-Glosses.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
