@@ -120,13 +120,7 @@ a {text-decoration: none; color: var(--text-link); }
       background-color: var(--background-secondary);
 }
 
-/* Whitespace */
-.cm-trailing-space-a::before,
-.cm-trailing-space-b::before,
-.cm-trailing-space-new-line::before {
-  content: "·";
-  color: white;
-}
+
 /* --------------------------------------------   */
 
 /* text decoration for marking syntax functions */
