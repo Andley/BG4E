@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW4-Key.md",
+                "file": "BBG4E/HW-Key/HW8-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4-Key"
+              "title": "HW8-Key"
             },
             "group": "181ef324c72f5234"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW4-Key.md",
+                "file": "BBG4E/HW-Key/HW8-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4-Key"
+              "title": "HW8-Key"
             },
             "group": "181ef324c72f5234"
           }
@@ -113,13 +113,11 @@
               "title": "Outline of HW1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -169,18 +167,19 @@
   },
   "active": "1544362e0e2913ae",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW3-Key.md",
-    "BBG4E/HW-Key/HW4-Key.md",
-    "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW-Key/HW4-Key.md",
+    "BBG4E/HW-Key/HW3-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW/HW9.md",
+    "BBG4E/HW/HW8.md",
     "BBG4E/HW/Untitled.md",
     "BBG4E/HW/HW1.md",
     "BBG4E/HW/HWy.md",
     "BBG4E/HW/HW11.md",
-    "BBG4E/HW/HW9.md",
-    "BBG4E/HW/HW8.md",
     "BBG4E/HW/HW7.md",
     "BBG4E/HW/HW6.md",
     "BBG4E/Vocabulary in Context.md",
@@ -194,7 +193,6 @@
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW/HW5.md",
-    "BBG4E/§1.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
