@@ -150,7 +150,7 @@ a {text-decoration: none; color: var(--text-link); }
 .theme-dark {
   --text-tag: #4f8dc2;
   --text-faint:lightgreen;
-  --text-link:lightgreen;
+  --text-link:#0D8ECE;
   --text-color: #ffffff;
   --divider-color: greenyellow;
   --text-muted: #E6E6E6;
@@ -172,7 +172,7 @@ a {text-decoration: none; color: var(--text-link); }
 .theme-light {
   --text-tag: darkblue;
   --text-faint:gray;
-  --text-link:darkred;
+  --text-link:#0D8ECE;
   --text-color:#000000;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
