@@ -20,14 +20,7 @@
   ],
   "editor:open-link-in-new-leaf": [],
   "app:open-settings": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
+  "switcher:open": [],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -249,7 +242,14 @@
       "key": "P"
     }
   ],
-  "editor:open-search-replace": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
   "text-finder:text-finder-show-find-and-replace": [
     {
       "modifiers": [
@@ -258,14 +258,7 @@
       "key": "H"
     }
   ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
+  "markdown:toggle-preview": [],
   "editor:toggle-source": [
     {
       "modifiers": [
@@ -273,5 +266,27 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "editor:insert-link": [],
+  "workspace:new-tab": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "global-search:open": []
 }

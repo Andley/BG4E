@@ -1,0 +1,18 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 7
+  },
+  "disablePluginStyles": true,
+  "enabled": true,
+  "outlineListMarkers": false,
+  "showAllCodeblockWhitespace": false,
+  "showAllWhitespace": true,
+  "showBlockquoteMarkers": false,
+  "showCodeblockWhitespace": false,
+  "showExtraWhitespace": false,
+  "showFrontmatterWhitespace": true,
+  "showLineEndings": true,
+  "showTableWhitespace": true
+}
