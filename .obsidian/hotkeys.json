@@ -258,8 +258,7 @@
       "key": "H"
     }
   ],
-  "markdown:toggle-preview": [],
-  "editor:toggle-source": [
+  "markdown:toggle-preview": [
     {
       "modifiers": [
         "Mod"

@@ -6,42 +6,71 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 42.747111681643126,
         "children": [
           {
-            "id": "1544362e0e2913ae",
+            "id": "d84d902afefd5aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/Exercise/HW01.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f320eeb3d406086c",
-        "type": "tabs",
-        "dimension": 57.25288831835687,
-        "children": [
+              "title": "HW01"
+            },
+            "group": "1f8800229a0201b7"
+          },
           {
-            "id": "bd149b1635978a07",
+            "id": "caa9663de5e7bf46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
-                "mode": "preview",
+                "file": "template/template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
+              "title": "template"
             }
+          },
+          {
+            "id": "03bfef05338d473a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/HW.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "46986a7b99d3631d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ed2e4def3e8235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/Exercise/HW01.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW01"
+            },
+            "group": "1f8800229a0201b7"
           }
         ]
       }
@@ -102,21 +131,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW/HW1.md",
+                "file": "template/HW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW1"
+              "title": "Outline of HW"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -132,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/§1.md",
+                "file": "template/HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +170,17 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for §1"
+              "title": "Backlinks for HW"
+            }
+          },
+          {
+            "id": "e033cfa80a67543c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -163,34 +201,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1544362e0e2913ae",
+  "active": "03bfef05338d473a",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/Untitled 1.md",
+    "template/template.md",
+    "template/HW.md",
+    "template/Book-Notes.md",
+    "BBG4E/Exercise/HW01.md",
+    "BBG4E/HW/HW2.md",
+    "BBG4E/Exercise/HW04.md",
+    "BBG4E/HW/HW4.md",
+    "BBG4E/Exercise/HW03.md",
+    "BBG4E/HW/HW3.md",
+    "BBG4E/HW/HW1.md",
+    "BBG4E/Exercise/HW02.md",
+    "BBG4E/Exercise/HW05.md",
+    "BBG4E/Exercise/HW09.md",
+    "BBG4E/Exercise/HW10.md",
+    "BBG4E/Exercise/HW11.md",
+    "BBG4E/Exercise/HW12.md",
+    "BBG4E/Exercise/HW08.md",
+    "BBG4E/Exercise/HW07.md",
+    "BBG4E/Exercise/HW06.md",
     "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/Exercise",
+    "Untitled",
+    "BBG4E/HW-Key/Untitled 1.md",
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW-Key/HW4-Key.md",
-    "BBG4E/HW-Key/HW3-Key.md",
-    "BBG4E/HW/HW9.md",
-    "BBG4E/HW/HW8.md",
-    "BBG4E/HW/Untitled.md",
-    "BBG4E/HW/HW1.md",
-    "BBG4E/HW/HWy.md",
-    "BBG4E/HW/HW11.md",
-    "BBG4E/HW/HW7.md",
-    "BBG4E/HW/HW6.md",
-    "BBG4E/Vocabulary in Context.md",
-    "58-Hebrews/Hebrews-Interlinear.md",
-    "62-1John/1Jo.2.18-25.md",
-    "62-1John/1Jo.2.7-11.md",
-    "46-1Corinthians/1Co.11.2-16.md",
-    "Syntax/§512.md",
-    "BBG4E/HW-Key/HW2-Key.md",
-    "BBG4E/HW/HW10.md",
-    "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
     "Tools",
@@ -205,7 +245,6 @@
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf",
-    "59-James/James-Interlinear-1735168579559.pdf",
-    "59-James/James-Interlinear-1735168542485.pdf"
+    "59-James/James-Interlinear-1735168579559.pdf"
   ]
 }

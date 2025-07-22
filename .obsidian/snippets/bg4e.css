@@ -22,56 +22,25 @@ html, body, p, li {
   color: var(--text-color);
 }
 
-/* <span> Interlinear */
-    .interlinear {
-      display: flex;
-      flex-wrap: wrap;        /* Enable wrapping */
-      align-items:last baseline; 
-      gap:5px; /* Align items to bottom */
-    }
-    .w {
-      display: flex;
-      flex-direction: column;
-      align-items:center;
-      white-space: nowrap;       /* Prevent wrapping inside each column */
-    }
-    .m, .g{
-      font-family:  "Noto Sans ExtraCondensed";
-      font-size: 11pt;
-      line-height:11pt;
-    }
-    .l {
-      font-family: "Gentium Book Plus";
-      font-size: 11pt;
-      line-height:13pt;
-      }
-    .t {
-      font-family: "Gentium Book Plus"; 
-      font-weight: bold;
-      font-size: 13pt;
-      line-height:13pt;
-      padding-bottom: 13pt;
-    }
-
 /*   <ruby> Interlinear */
 ruby {
-  font-size: 13pt ; 
+  font-size: 16px ; 
   ruby-align:start;
   font-weight: bold;
-  padding: 0 0.1em 0 0;
+  padding: 0 2px 0 0;
   font-family:  AndleyFont;
-  line-height:5em;
+  line-height:80px;
 }
 
 rt {
-  font-size: 11pt ; 
+  font-size: 13px ; 
   font-weight:normal;
-  padding: 0 0.1em 0 0;
+  padding: 0 2px 0 0;
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
 } 
 
 li ruby {
-  line-height:5em;
+  line-height:60px;
 } 
 
 /*
@@ -110,6 +79,7 @@ a {text-decoration: none; color: var(--text-link); }
   margin-right: auto;
   border: 2px solid;
   color: var(--text-color);
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
 } 
 
 .markdown-preview-view th {
