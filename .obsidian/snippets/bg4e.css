@@ -195,9 +195,10 @@ a {text-decoration: none; color: var(--text-link); }
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
-  font-family: "Noto Sans Mono ExtraCondensed";
+  font-family: "Noto Sans ExtraCondensed";
   font-size: 13px;
 }
+
 
 @page {
   margin-top: 3%;

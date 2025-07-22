@@ -1,7 +1,6 @@
 {
   "enabledCssSnippets": [
-    "bg4e",
-    "x"
+    "bg4e"
   ],
   "baseFontSizeAction": false,
   "theme": "obsidian",

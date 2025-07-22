@@ -6,7 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 49.91212653778559,
+        "dimension": 44.86521181001283,
         "children": [
           {
             "id": "1544362e0e2913ae",
@@ -20,15 +20,14 @@
               },
               "icon": "lucide-file",
               "title": "HW6-Key"
-            },
-            "group": "181ef324c72f5234"
+            }
           }
         ]
       },
       {
         "id": "f320eeb3d406086c",
         "type": "tabs",
-        "dimension": 50.08787346221442,
+        "dimension": 55.13478818998717,
         "children": [
           {
             "id": "bd149b1635978a07",
@@ -42,8 +41,7 @@
               },
               "icon": "lucide-file",
               "title": "HW6-Key"
-            },
-            "group": "181ef324c72f5234"
+            }
           }
         ]
       }
@@ -117,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
