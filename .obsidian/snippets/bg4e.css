@@ -196,10 +196,13 @@ a {text-decoration: none; color: var(--text-link); }
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed";
-  font-size: 13px;
+  font-size: 11px;
 }
 
+body:not(.swcm6-nix-plugin-styles).swcm6-show-all-whitespace .markdown-source-view.mod-cm6 .cm-line .cm-highlightSpace {
 
+    background: radial-gradient(circle at 50% 55%,var(--show-whitespace-color) 25%,transparent 10%);
+}
 @page {
   margin-top: 3%;
   margin-right: 3%;

@@ -6,7 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 44.86521181001283,
+        "dimension": 42.747111681643126,
         "children": [
           {
             "id": "1544362e0e2913ae",
@@ -27,7 +27,7 @@
       {
         "id": "f320eeb3d406086c",
         "type": "tabs",
-        "dimension": 55.13478818998717,
+        "dimension": 57.25288831835687,
         "children": [
           {
             "id": "bd149b1635978a07",
@@ -158,7 +158,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -166,8 +165,9 @@
   },
   "active": "1544362e0e2913ae",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/Untitled.md",
+    "BBG4E/HW-Key/Untitled 1.md",
     "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
@@ -190,7 +190,6 @@
     "Syntax/§512.md",
     "BBG4E/HW-Key/HW2-Key.md",
     "BBG4E/HW/HW10.md",
-    "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-Key",
     "BBG4E/HW",
