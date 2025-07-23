@@ -3,7 +3,7 @@
   "promptDelete": false,
   "readableLineLength": false,
   "showInlineTitle": false,
-  "autoConvertHtml": false,
+  "autoConvertHtml": true,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "pageSize": "A4",

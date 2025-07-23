@@ -30,3 +30,23 @@
       padding-bottom: 13pt;
     }
 	/* ══════════════ /*
+
+  
+/*
+ruby {
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-size: 1em ; 
+  line-height:1em;
+	font-family: "Gentium Book Plus";
+  padding: 0 0.1em 0.2em 0;
+  }
+
+  rt {
+	  font-size: 0.8em;
+	  line-height: 1em;
+	  font-family: "Arial Narrow", "Gentium Book Plus", "Noto Sans TC";
+    padding:0 0.1em 0 0.1em;
+  }
+*/
