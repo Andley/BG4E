@@ -1,6 +1,6 @@
 #### 圖析 (Gal 6:11-16)
 
-- 6:11a (<RUBY><ruby><ruby><mark class='verb'>Ἴδετε</mark><rt>εἴδω</rt></ruby><rt>See</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P 
+- 6:11a (<RUBY><ruby><ruby><mark class='verb'>Ἴδετε</mark><rt>ὁράω</rt></ruby><rt>See</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P 
 - 6:11b (<RUBY><ruby><ruby>πηλίκοις<rt>πηλίκος</rt></ruby><rt>in how large</rt></ruby><rt>I-DPN</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C ⦈(<RUBY><ruby><ruby>γράμμασιν<rt>γράμμα</rt></ruby><rt>letters</rt></ruby><rt>N-DPN</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἔγραψα</mark><rt>γράφω</rt></ruby><rt>I have written</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>with</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἐμῇ<rt>ἐμός</rt></ruby><rt>my own</rt></ruby><rt>S-1SDSF</rt></RUBY> <RUBY><ruby><ruby>χειρί.<rt>χείρ</rt></ruby><rt>hand</rt></ruby><rt>N-DSF</rt></RUBY>)A
 - ⋯⋯⋯⋯⋯⋯⋯
 - 6:12a { (<RUBY><ruby><ruby>Ὅσοι<rt>ὅσος</rt></ruby><rt>As many as</rt></ruby><rt>K-NPM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>θέλουσιν</mark><rt>θέλω</rt></ruby><rt>wish</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby><em>εὐπροσωπῆσαι</em><rt>εὐπροσωπέω</rt></ruby><rt>to have a fair appearance</rt></ruby><rt>V-AAN</rt></RUBY> ‹<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σαρκί,<rt>σάρξ</rt></ruby><rt>[the] flesh</rt></ruby><rt>N-DSF</rt></RUBY>›a )C }S[^1]

@@ -52,11 +52,11 @@
 
 - <rt>腓2:28a</rt> ((<RUBY><ruby><ruby><mark class='verb'>ἔπεμψα</mark><rt>πέμπω</rt></ruby><rt>I have sent</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P)P (<RUBY><ruby><ruby>αὐτὸν,<rt>αὐτός</rt></ruby><rt>him,</rt></ruby><rt>P-ASM</rt></RUBY>)C ⇒ 我打發他去 
 	- <rt>腓2:28b</rt> <RUBY><ruby><ruby><mark>ἵνα</mark><rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> 
-		- { <rt>[</rt><RUBY><ruby><ruby><em>ἰδόντες</em><rt>εἴδω</rt></ruby><rt>having seen</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again,</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A ((<RUBY><ruby><ruby><mark class='verb'>χαρῆτε</mark><rt>χαίρω</rt></ruby><rt>you may rejoice,</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P)P ⇒ 再看見他你們能喜樂
+		- { <rt>[</rt><RUBY><ruby><ruby><em>ἰδόντες</em><rt>ὁράω</rt></ruby><rt>having seen</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again,</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A ((<RUBY><ruby><ruby><mark class='verb'>χαρῆτε</mark><rt>χαίρω</rt></ruby><rt>you may rejoice,</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P)P ⇒ 再看見他你們能喜樂
 
 用從屬連接詞 ὅτι 帶出來從屬子句，補充說明主要子句。
 
-- <rt>腓1:25a</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby><em>πεποιθὼς</em><rt>πείθω</rt></ruby><rt>having been persuaded of,</rt></ruby><rt>V-2RAP-NSM</rt></RUBY>}A ((<RUBY><ruby><ruby><mark class='verb'>οἶδα</mark><rt>εἴδω</rt></ruby><rt>I know</rt></ruby><rt>V-RAI-1S</rt></RUBY>)P)P ⇒ 如此相信，我知道
+- <rt>腓1:25a</rt> <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> { <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby><em>πεποιθὼς</em><rt>πείθω</rt></ruby><rt>having been persuaded of,</rt></ruby><rt>V-2RAP-NSM</rt></RUBY>}A ((<RUBY><ruby><ruby><mark class='verb'>οἶδα</mark><rt>οἶδα</rt></ruby><rt>I know</rt></ruby><rt>V-RAI-1S</rt></RUBY>)P)P ⇒ 如此相信，我知道
 	- <rt>腓1:25b</rt> <RUBY><ruby><ruby><mark>ὅτι</mark><rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> 
 		- ((<RUBY><ruby><ruby><mark class='verb'>μενῶ</mark><rt>μένω</rt></ruby><rt>I will remain</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P)P ⇒ 我將活著
 		- <rt>腓1:25c</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> ((<RUBY><ruby><ruby><mark class='verb'>παραμενῶ</mark><rt>παραμένω</rt></ruby><rt>will continue with</rt></ruby><rt>V-FAI-1S</rt></RUBY>)P)P (<RUBY><ruby><ruby>πᾶσιν<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2DP</rt></RUBY>)A ⇒ 我將繼續與你們同在
@@ -95,7 +95,7 @@
 分詞是：動詞＋形容詞的結合體。因為有形容詞的特色，所以可以當作形容詞用，跟冠詞、實名詞結合，內嵌在其他子句裡面；因為有動詞的特色，所以可以有自己的主語 (通常是所有格，形成分詞的獨立所有格)、補語、狀語，進而形成分詞子句，內嵌在主要子句、從屬子句裡面，當成另外一個子句的元素。
 
 - <rt>腓2:28b</rt> <RUBY><ruby><ruby><mark>ἵνα</mark><rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> 
-	- { <rt>[</rt><RUBY><ruby><ruby><em>ἰδόντες</em><rt>εἴδω</rt></ruby><rt>having seen</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again,</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A ((<RUBY><ruby><ruby><mark class='verb'>χαρῆτε</mark><rt>χαίρω</rt></ruby><rt>you may rejoice,</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P)P ⇒ 當你們再看見他的時候，你們能喜樂
+	- { <rt>[</rt><RUBY><ruby><ruby><em>ἰδόντες</em><rt>ὁράω</rt></ruby><rt>having seen</rt></ruby><rt>V-2AAP-NPM</rt></RUBY><rt>)p</rt> <rt>[</rt><RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>him</rt></ruby><rt>P-ASM</rt></RUBY><rt>]c</rt> <rt>[</rt><RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again,</rt></ruby><rt>ADV</rt></RUBY><rt>]a</rt>}A ((<RUBY><ruby><ruby><mark class='verb'>χαρῆτε</mark><rt>χαίρω</rt></ruby><rt>you may rejoice,</rt></ruby><rt>V-2AOS-2P</rt></RUBY>)P)P ⇒ 當你們再看見他的時候，你們能喜樂
 - 分詞 ἰδόντες 的補語是 αὐτὸν，狀語是 πάλιν，三者結合形成分詞子句，用用大括號 { …… } 標示出來。
 - 整個分詞子句內嵌在 ἵνα 從屬子句裡面，當作是主要動詞 χαρῆτε 的狀語(A)。
 

@@ -6,7 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 50.9627727856226,
+        "dimension": 50.962772785622604,
         "children": [
           {
             "id": "d84d902afefd5aa1",
@@ -28,7 +28,7 @@
       {
         "id": "46986a7b99d3631d",
         "type": "tabs",
-        "dimension": 49.0372272143774,
+        "dimension": 49.037227214377396,
         "children": [
           {
             "id": "76ed2e4def3e8235",
@@ -113,8 +113,7 @@
               "title": "Outline of HW"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d84d902afefd5aa1",
+  "active": "323a10775016a71f",
   "lastOpenFiles": [
     "README.md",
     "Semantics/synonyms.md",
