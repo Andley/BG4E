@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Macula/HW03.md",
-                "mode": "preview",
+                "file": "BBG4E/HW-Key/HW5-Key.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW03"
+              "title": "HW5-Key"
             }
           }
         ]
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -174,8 +175,8 @@
   },
   "active": "d84d902afefd5aa1",
   "lastOpenFiles": [
-    "BBG4E/HW-Macula/HW04.md",
     "BBG4E/HW-Macula/HW03.md",
+    "BBG4E/HW-Macula/HW04.md",
     "BBG4E/HW-Macula/HW02.md",
     "BBG4E/HW-Macula/HW01.md",
     "BBG4E/HW-OGNTa/HW1.md",
