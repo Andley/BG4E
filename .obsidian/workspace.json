@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW5-Key.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Macula/HW03.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW5-Key"
+              "title": "HW03"
             }
           }
         ]
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -175,6 +174,14 @@
   },
   "active": "d84d902afefd5aa1",
   "lastOpenFiles": [
+    "BBG4E/HW-Macula/HW04.md",
+    "BBG4E/HW-Macula/HW03.md",
+    "BBG4E/HW-Macula/HW02.md",
+    "BBG4E/HW-Macula/HW01.md",
+    "BBG4E/HW-OGNTa/HW1.md",
+    "BBG4E/HW-OGNTa/HW6.md",
+    "BBG4E/HW-OGNTa/HW5.md",
+    "BBG4E/HW-Key/HW5-Key.md",
     "Syntax/§512.md",
     "README.md",
     "Semantics/synonyms.md",
@@ -193,14 +200,6 @@
     "BBG4E/HW-Macula/HW08.md",
     "BBG4E/HW-Macula/HW07.md",
     "BBG4E/HW-Macula/HW06.md",
-    "BBG4E/HW-Macula/HW05.md",
-    "BBG4E/HW-Macula/HW04.md",
-    "BBG4E/HW-Macula/HW03.md",
-    "BBG4E/HW-Macula/HW02.md",
-    "BBG4E/HW-Macula/HW01.md",
-    "BBG4E/HW-OGNTa/HW11.md",
-    "BBG4E/HW-OGNTa/HW9.md",
-    "BBG4E/HW-OGNTa/HW8.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
