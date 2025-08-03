@@ -287,5 +287,13 @@
   "workspace:new-tab": [],
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
-  "global-search:open": []
+  "global-search:open": [],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
 }
