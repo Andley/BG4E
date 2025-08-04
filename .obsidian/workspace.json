@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -173,11 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d84d902afefd5aa1",
+  "active": "76ed2e4def3e8235",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW7-Key.md",
-    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW-Key/HW6-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Macula/HW03.md",
     "BBG4E/HW-Macula/HW04.md",
     "BBG4E/HW-Macula/HW02.md",
