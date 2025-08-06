@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
-                "mode": "source",
+                "file": "Tools/UNICODE.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "UNICODE"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
+                "file": "BBG4E/HW-Key/HW7-Key.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "HW7-Key"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "εἴδω",
+                "query": "unicode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,8 @@
               "title": "Outline of HW"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,11 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ed2e4def3e8235",
+  "active": "d84d902afefd5aa1",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW-Key/HW6-Key.md",
+    "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Macula/HW03.md",
     "BBG4E/HW-Macula/HW04.md",
     "BBG4E/HW-Macula/HW02.md",
