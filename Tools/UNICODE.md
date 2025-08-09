@@ -48,4 +48,4 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 
 
 
-### 要用 `U+00B7` · instead of `U+0387` ·
+### 要用 `U+00B7 ·` instead of `U+0387 ·`
