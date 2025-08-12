@@ -6,59 +6,42 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 50.962772785622604,
+        "dimension": 48.33119383825417,
         "children": [
-          {
-            "id": "d84d902afefd5aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW8-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW8-Key"
-            },
-            "group": "74fffde07ce776e7"
-          },
           {
             "id": "8d925d546ba57577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
+              "title": "分詞複習"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "46986a7b99d3631d",
+        "id": "edcfcdc39f6e6f54",
         "type": "tabs",
-        "dimension": 49.037227214377396,
+        "dimension": 51.66880616174583,
         "children": [
           {
-            "id": "76ed2e4def3e8235",
+            "id": "afb7e8843b5345f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW8-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "HW8-Key"
-            },
-            "group": "74fffde07ce776e7"
+              "title": "分詞複習"
+            }
           }
         ]
       }
@@ -132,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -189,15 +173,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ed2e4def3e8235",
+  "active": "8d925d546ba57577",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/Untitled 1.md",
-    "BBG4E/HW-Key/分詞複習.md",
-    "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
