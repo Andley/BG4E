@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW7-Key.md",
+                "file": "BBG4E/HW-Key/HW8-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW7-Key"
+              "title": "HW8-Key"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW7-Key.md",
+                "file": "BBG4E/HW-Key/HW8-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW7-Key"
+              "title": "HW8-Key"
             }
           }
         ]
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -172,11 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afb7e8843b5345f8",
+  "active": "8d925d546ba57577",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled.md",
