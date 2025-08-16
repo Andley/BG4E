@@ -6,7 +6,6 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 48.33119383825417,
         "children": [
           {
             "id": "8d925d546ba57577",
@@ -14,33 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW8-Key.md",
+                "file": "BBG4E/HW-OGNTa/HW10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW8-Key"
+              "title": "HW10"
             }
-          }
-        ]
-      },
-      {
-        "id": "edcfcdc39f6e6f54",
-        "type": "tabs",
-        "dimension": 51.66880616174583,
-        "children": [
+          },
           {
-            "id": "afb7e8843b5345f8",
+            "id": "85c519b639187cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW8-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW9-Key"
+            }
+          },
+          {
+            "id": "1dc64dfeddec230f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW10-Key"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "96e3bc2d9433c5ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7936d314bd8fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW10-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW8-Key"
+              "title": "HW10-Key"
             }
           }
         ]
@@ -102,20 +129,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/HW.md",
+                "file": "BBG4E/HW-Key/HW10-Key.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW"
+              "title": "Outline of HW10-Key"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 363.5,
     "collapsed": true
   },
   "right": {
@@ -132,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/HW.md",
+                "file": "BBG4E/HW-Key/HW10-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HW"
+              "title": "Backlinks for HW10-Key"
             }
           },
           {
@@ -173,20 +200,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d925d546ba57577",
+  "active": "bf7936d314bd8fc7",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW7-Key.md",
-    "BBG4E/HW-Key/HW8-Key.md",
-    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW1-Key.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-OGNTa/Untitled 1.md",
+    "BBG4E/HW-OGNTa/HW10.md",
+    "BBG4E/HW-Key/分詞複習.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/Untitled 1.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
     "BBG4E/HW-Key/HW2-Key.md",
-    "BBG4E/HW-Key/HW1-Key.md",
     "Tools/UNICODE.md",
     "BBG4E/HW-Macula/HW03.md",
     "BBG4E/HW-Macula/HW04.md",
@@ -199,8 +228,6 @@
     "README.md",
     "Semantics/synonyms.md",
     "Semantics/Idioms.md",
-    "59-James/Jas.1.19-27.md",
-    "BBG4E/HW-OGNTa/HW4.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
