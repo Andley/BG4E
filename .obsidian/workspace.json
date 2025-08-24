@@ -41,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
+              "title": "分詞複習"
+            }
+          },
+          {
+            "id": "0b70b02db502bc89",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "96e3bc2d9433c5ac",
@@ -62,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
+              "title": "分詞複習"
             }
           }
         ]
@@ -191,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -200,15 +213,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dc64dfeddec230f",
+  "active": "0b70b02db502bc89",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/分詞複習.md",
+    "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-OGNTa/Untitled 1.md",
     "BBG4E/HW-OGNTa/HW10.md",
-    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled 1.md",
