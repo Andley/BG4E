@@ -142,15 +142,6 @@
       "key": "6"
     }
   ],
-  "obsidian-tidy-footnotes:tidy-footnotes": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "cm-show-whitespace-obsidian:toggle-show-whitespace": [
     {
       "modifiers": [
@@ -288,10 +279,19 @@
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
   "global-search:open": [],
-  "editor:insert-footnote": [
+  "footnotes:open": [
     {
       "modifiers": [
         "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "F"
     }

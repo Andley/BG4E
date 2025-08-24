@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d925d546ba57577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-OGNTa/HW10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW10"
-            }
-          },
-          {
-            "id": "85c519b639187cb1",
+            "id": "1dc64dfeddec230f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,35 +20,8 @@
               "icon": "lucide-file",
               "title": "HW9-Key"
             }
-          },
-          {
-            "id": "1dc64dfeddec230f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/分詞複習.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "分詞複習"
-            }
-          },
-          {
-            "id": "0b70b02db502bc89",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "96e3bc2d9433c5ac",
@@ -74,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/分詞複習.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "分詞複習"
+              "title": "HW9-Key"
             }
           }
         ]
@@ -154,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
+    "width": 292.5,
     "collapsed": true
   },
   "right": {
@@ -171,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HW10-Key"
+              "title": "Backlinks for HW9-Key"
             }
           },
           {
@@ -193,13 +152,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "aa975eb0a800f433",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "BBG4E/HW-Key/HW9-Key.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,15 +184,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b70b02db502bc89",
+  "active": "aa975eb0a800f433",
   "lastOpenFiles": [
+    "BBG4E/HW-OGNTa/HW10.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW1-Key.md",
     "BBG4E/HW-OGNTa/Untitled 1.md",
-    "BBG4E/HW-OGNTa/HW10.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled 1.md",
