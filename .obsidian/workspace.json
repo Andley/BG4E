@@ -6,7 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 34.67614533965245,
+        "dimension": 50.43103448275862,
         "children": [
           {
             "id": "1dc64dfeddec230f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "HW9-Key"
             },
             "group": "3d7d71de48e06c9e"
           }
@@ -28,7 +28,7 @@
       {
         "id": "96e3bc2d9433c5ac",
         "type": "tabs",
-        "dimension": 65.32385466034755,
+        "dimension": 49.56896551724138,
         "children": [
           {
             "id": "bf7936d314bd8fc7",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW6-Key.md",
+                "file": "BBG4E/HW-Key/HW9-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW6-Key"
+              "title": "HW9-Key"
             },
             "group": "3d7d71de48e06c9e"
           }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,6 +191,7 @@
   },
   "active": "1dc64dfeddec230f",
   "lastOpenFiles": [
+    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
@@ -203,7 +205,6 @@
     "BBG4E/HW-OGNTa/Untitled 1.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled 1.md",
-    "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "Tools/UNICODE.md",
     "BBG4E/HW-Macula/HW03.md",
