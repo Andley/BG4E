@@ -279,7 +279,7 @@
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
   "global-search:open": [],
-  "footnotes:open": [
+  "editor:insert-footnote": [
     {
       "modifiers": [
         "Alt"
@@ -287,7 +287,7 @@
       "key": "F"
     }
   ],
-  "editor:insert-footnote": [
+  "obsidian-tidy-footnotes:tidy-footnotes": [
     {
       "modifiers": [
         "Alt",

@@ -6,6 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
+        "dimension": 34.67614533965245,
         "children": [
           {
             "id": "1dc64dfeddec230f",
@@ -13,19 +14,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/HW-Key/HW6-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
-            }
+              "title": "HW6-Key"
+            },
+            "group": "3d7d71de48e06c9e"
           }
         ]
       },
       {
         "id": "96e3bc2d9433c5ac",
         "type": "tabs",
+        "dimension": 65.32385466034755,
         "children": [
           {
             "id": "bf7936d314bd8fc7",
@@ -33,13 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "BBG4E/HW-Key/HW6-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW9-Key"
-            }
+              "title": "HW6-Key"
+            },
+            "group": "3d7d71de48e06c9e"
           }
         ]
       }
@@ -113,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -170,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,29 +188,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa975eb0a800f433",
+  "active": "1dc64dfeddec230f",
   "lastOpenFiles": [
-    "BBG4E/HW-OGNTa/HW10.md",
-    "BBG4E/HW-Key/HW9-Key.md",
-    "BBG4E/HW-Key/分詞複習.md",
     "BBG4E/HW-Key/HW8-Key.md",
-    "BBG4E/HW-Key/HW10-Key.md",
-    "BBG4E/HW-Key/HW1-Key.md",
-    "BBG4E/HW-OGNTa/Untitled 1.md",
     "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW-Key/HW3-Key.md",
+    "BBG4E/HW-Key/HW2-Key.md",
+    "BBG4E/HW-Key/HW1-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-OGNTa/HW6.md",
+    "BBG4E/HW-OGNTa/HW10.md",
+    "BBG4E/HW-Key/分詞複習.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-OGNTa/Untitled 1.md",
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/Untitled 1.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW4-Key.md",
-    "BBG4E/HW-Key/HW3-Key.md",
-    "BBG4E/HW-Key/HW2-Key.md",
     "Tools/UNICODE.md",
     "BBG4E/HW-Macula/HW03.md",
     "BBG4E/HW-Macula/HW04.md",
     "BBG4E/HW-Macula/HW02.md",
     "BBG4E/HW-Macula/HW01.md",
     "BBG4E/HW-OGNTa/HW1.md",
-    "BBG4E/HW-OGNTa/HW6.md",
     "BBG4E/HW-OGNTa/HW5.md",
     "Syntax/§512.md",
     "README.md",
