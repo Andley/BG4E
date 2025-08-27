@@ -6,7 +6,7 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 50.43103448275862,
+        "dimension": 46.92118226600985,
         "children": [
           {
             "id": "1dc64dfeddec230f",
@@ -14,21 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "GTNTG/§2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW10-Key"
-            },
-            "group": "3d7d71de48e06c9e"
+              "title": "§2"
+            }
           }
         ]
       },
       {
         "id": "96e3bc2d9433c5ac",
         "type": "tabs",
-        "dimension": 49.56896551724138,
+        "dimension": 53.07881773399015,
         "children": [
           {
             "id": "bf7936d314bd8fc7",
@@ -36,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "GTNTG/§2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW10-Key"
-            },
-            "group": "3d7d71de48e06c9e"
+              "title": "§2"
+            }
           }
         ]
       }
@@ -117,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,32 +189,33 @@
   },
   "active": "1dc64dfeddec230f",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW9-Key.md",
+    "GTNTG/GDNTG-Notes.md",
+    "GTNTG/§2.md",
+    "GTNTG/§14.md",
+    "GTNTG/§13.md",
+    "GTNTG/§12.md",
+    "GTNTG/§11.md",
+    "GTNTG/§10.md",
+    "GTNTG/§9.md",
+    "GTNTG/§8.md",
+    "GTNTG/§7.md",
+    "GTNTG/§6.md",
+    "GTNTG/§5.md",
+    "GTNTG/§4.md",
+    "GTNTG/§3.md",
+    "Untitled.md",
+    "GTNTG",
+    "template/Book-Notes.md",
+    "template/HW.md",
+    "template/template.md",
+    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
+    "Greek Pedagogy.md",
     "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW3-Key.md",
-    "BBG4E/HW-Key/HW2-Key.md",
-    "BBG4E/HW-Key/HW1-Key.md",
-    "BBG4E/HW-OGNTa/HW6.md",
-    "BBG4E/HW-OGNTa/HW10.md",
-    "BBG4E/HW-Key/分詞複習.md",
-    "BBG4E/HW-OGNTa/Untitled 1.md",
-    "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW-Key/Untitled 1.md",
-    "BBG4E/HW-Key/HW4-Key.md",
-    "Tools/UNICODE.md",
-    "BBG4E/HW-Macula/HW03.md",
-    "BBG4E/HW-Macula/HW04.md",
-    "BBG4E/HW-Macula/HW02.md",
-    "BBG4E/HW-Macula/HW01.md",
-    "BBG4E/HW-OGNTa/HW1.md",
-    "BBG4E/HW-OGNTa/HW5.md",
-    "Syntax/§512.md",
-    "README.md",
-    "Semantics/synonyms.md",
-    "Semantics/Idioms.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
@@ -232,7 +232,6 @@
     "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
-    "59-James/Untitled.pdf",
-    "59-James/James-Interlinear-1735168579559.pdf"
+    "59-James/Untitled.pdf"
   ]
 }

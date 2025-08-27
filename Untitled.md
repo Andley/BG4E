@@ -1,6 +1,4 @@
----
-cssclass: academia, wideTable
----
+
 
 # Latex like table
 <br>
