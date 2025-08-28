@@ -3,7 +3,7 @@
 ## 馬太福音 5-7 章希臘文筆記
 
 ### 經文閱讀
-- [Sermon on the Mount Interlinear](Sermon-on-the-Mount.Interlinear.md)
+- [Sermon on the Mount Interlinear](SM-4lines.md)
 
 
 ### 句法圖析

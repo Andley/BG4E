@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sermon-on-the-Mount.Interlinear"
+              "title": "Sermon-on-the-Mount.Notes"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/SM-4lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sermon-on-the-Mount.Interlinear"
+              "title": "SM-4lines"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sermon-on-the-Mount.Interlinear"
+              "title": "Outline of Sermon-on-the-Mount.Notes"
             }
           }
         ]
@@ -199,10 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "323a10775016a71f",
+  "active": "53fb1eb62ff67bc4",
   "lastOpenFiles": [
+    "40-Matthew/SM-4lines.md",
     "GTNTG/§2.md",
-    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "GTNTG/Untitled.md",
     "GTNTG/GDNTG-Notes.md",

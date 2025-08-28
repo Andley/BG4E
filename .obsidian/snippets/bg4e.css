@@ -10,7 +10,7 @@
   }
 
 /* 標題 */
-h1 {
+h1, h2 {
   text-align: center;
 }
 
@@ -150,13 +150,6 @@ a {text-decoration: none; color: var(--text-link); }
   font-size: 11px;
 }
 
-
-@page {
-  margin-top: 3%;
-  margin-right: 5%;
-  margin-bottom: 0%;
-  margin-left: 5%;
-}
 
 
 
