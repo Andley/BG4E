@@ -44,6 +44,7 @@ li ruby {
 
 strong {
   font-weight:800;
+  color: red;
 }
 em {
   font-weight: 600;
@@ -79,7 +80,7 @@ a {text-decoration: none; color: var(--text-link); }
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-normal);}
+	/*  &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-normal);}
 	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;color:var(--text-normal);}
 	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;color:var(--text-normal);}
   */
@@ -88,7 +89,7 @@ a {text-decoration: none; color: var(--text-link); }
 	&.ptc {background-color: lightgreen; }
 	&.inf {background-color: lightcyan; } */
   
-/*  &.verb {background-color: transparent; color: red;}
+&.verb {background-color: transparent; color: red;}
 	&.ptc {background-color: transparent; color: blue;}
 	&.inf {background-color: transparent; color: green;}
   ———— */
@@ -147,10 +148,7 @@ a {text-decoration: none; color: var(--text-link); }
   font-size: 11px;
 }
 
-body:not(.swcm6-nix-plugin-styles).swcm6-show-all-whitespace .markdown-source-view.mod-cm6 .cm-line .cm-highlightSpace {
 
-    background: radial-gradient(circle at 50% 55%,var(--show-whitespace-color) 25%,transparent 10%);
-}
 @page {
   margin-top: 3%;
   margin-right: 5%;
