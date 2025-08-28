@@ -6,7 +6,6 @@
       {
         "id": "0ab21aa69d68561d",
         "type": "tabs",
-        "dimension": 46.92118226600985,
         "children": [
           {
             "id": "1dc64dfeddec230f",
@@ -21,16 +20,30 @@
               "icon": "lucide-file",
               "title": "§2"
             }
+          },
+          {
+            "id": "53fb1eb62ff67bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTNTG/§2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "§2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "96e3bc2d9433c5ac",
+        "id": "9d450d55aa284541",
         "type": "tabs",
-        "dimension": 53.07881773399015,
         "children": [
           {
-            "id": "bf7936d314bd8fc7",
+            "id": "9c837e0a60a7a736",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,10 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dc64dfeddec230f",
+  "active": "9c837e0a60a7a736",
   "lastOpenFiles": [
-    "GTNTG/GDNTG-Notes.md",
+    "GTNTG/Untitled.md",
     "GTNTG/§2.md",
+    "GTNTG/GDNTG-Notes.md",
     "GTNTG/§14.md",
     "GTNTG/§13.md",
     "GTNTG/§12.md",
@@ -214,7 +228,6 @@
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW7-Key.md",
-    "BBG4E/HW-Key/HW3-Key.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",

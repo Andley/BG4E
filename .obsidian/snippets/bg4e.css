@@ -43,8 +43,7 @@ li ruby {
 } 
 
 strong {
-  font-weight:800;
-  color: red;
+  font-weight:900;
 }
 em {
   font-weight: 600;
@@ -69,6 +68,9 @@ a {text-decoration: none; color: var(--text-link); }
       background-color: var(--background-secondary);
 }
 
+.verb { color: var(--color1); }
+.ptc  { color: var(--color2); }
+.inf  { color: var(--color3); }
 
 /* --------------------------------------------   */
 
@@ -80,16 +82,16 @@ a {text-decoration: none; color: var(--text-link); }
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	/*  &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-normal);}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;color:var(--text-norma);}
 	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;color:var(--text-normal);}
 	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;color:var(--text-normal);}
-  */
+  
 
 /*  &.verb {background-color: lightpink}
 	&.ptc {background-color: lightgreen; }
 	&.inf {background-color: lightcyan; } */
   
-&.verb {background-color: transparent; color: red;}
+  /* &.verb {background-color: transparent; color: red;}
 	&.ptc {background-color: transparent; color: blue;}
 	&.inf {background-color: transparent; color: green;}
   ———— */
@@ -122,15 +124,15 @@ a {text-decoration: none; color: var(--text-link); }
 .theme-light {
   --text-tag: darkblue;
   --text-faint:gray;
-  --text-link:#0D8ECE;
+  --text-link:#09628f;
   --text-color:#000000;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
-  --color1:darkred;
-  --color2:darkblue;
-  --color3:darkgreen;
-  --color4:darkorange;
+  --color1:red;
+  --color2:blue;
+  --color3:green;
+  --color4:orange;
   --color-strong: red;
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
@@ -155,5 +157,8 @@ a {text-decoration: none; color: var(--text-link); }
   margin-bottom: 0%;
   margin-left: 5%;
 }
+
+
+
 
 
