@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -199,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c837e0a60a7a736",
+  "active": "53fb1eb62ff67bc4",
   "lastOpenFiles": [
     "GTNTG/Untitled.md",
     "GTNTG/§2.md",
