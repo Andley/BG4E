@@ -27,33 +27,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sermon-on-the-Mount.Notes"
+              "title": "Sermon-on-the-Mount.Interlinear"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "9d450d55aa284541",
+        "id": "ff0c55209043b6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c837e0a60a7a736",
+            "id": "7f7b9677533ac2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTNTG/§2.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§2"
+              "title": "Sermon-on-the-Mount.Interlinear"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW10-Key"
+              "title": "Outline of Sermon-on-the-Mount.Interlinear"
             }
           }
         ]
@@ -199,9 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53fb1eb62ff67bc4",
+  "active": "323a10775016a71f",
   "lastOpenFiles": [
     "GTNTG/§2.md",
+    "40-Matthew/Sermon-on-the-Mount.Interlinear.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "GTNTG/Untitled.md",
     "GTNTG/GDNTG-Notes.md",
     "GTNTG/§14.md",
@@ -226,8 +228,6 @@
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
-    "BBG4E/HW-Key/HW8-Key.md",
-    "BBG4E/HW-Key/HW7-Key.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
