@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTNTG/§2.md",
+                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§2"
+              "title": "Sermon-on-the-Mount.Notes"
             }
           }
         ],
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -202,8 +201,8 @@
   },
   "active": "53fb1eb62ff67bc4",
   "lastOpenFiles": [
-    "GTNTG/Untitled.md",
     "GTNTG/§2.md",
+    "GTNTG/Untitled.md",
     "GTNTG/GDNTG-Notes.md",
     "GTNTG/§14.md",
     "GTNTG/§13.md",
