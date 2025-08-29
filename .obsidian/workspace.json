@@ -13,35 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW12.md",
+                "file": "GTNTG/§13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12"
-            },
-            "group": "92d4de330a22259f"
-          }
-        ]
-      },
-      {
-        "id": "fcf5e8ca83aaa9ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee238899cc7f494b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW/HW12.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW12"
-            },
-            "group": "92d4de330a22259f"
+              "title": "§13"
+            }
           }
         ]
       }
@@ -102,20 +80,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/HW/HW03.md",
+                "file": "GTNTG/§13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW03"
+              "title": "Outline of §13"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 411.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,6 +167,9 @@
   },
   "active": "8774b03977e43807",
   "lastOpenFiles": [
+    "GTNTG/§2.md",
+    "GTNTG/§13.md",
+    "BBG4E/HW/HW12.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW/HW10.md",
     "BBG4E/HW/HW09.md",
@@ -210,10 +192,7 @@
     "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW6-Key.md",
     "BBG4E/HW-Key/HW5-Key.md",
-    "GTNTG/§2.md",
     "40-Matthew/SM-4lines.md",
-    "BBG4E/§2.md",
-    "BBG4E/§3.md",
     "GTNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
