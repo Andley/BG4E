@@ -27,33 +27,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
+                "file": "40-Matthew/SM-4lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sermon-on-the-Mount.Notes"
+              "title": "SM-4lines"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ff0c55209043b6b8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7f7b9677533ac2d8",
+            "id": "857f57257ef549e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-4lines.md",
+                "file": "40-Matthew/SM-3lines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SM-3lines"
+            }
+          },
+          {
+            "id": "8774b03977e43807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/SM-2.5lines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SM-2.5lines"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "721aa38ffc674b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceba5dac640c10cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/SM-2.5lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-4lines"
+              "title": "SM-2.5lines"
             }
           }
         ]
@@ -115,20 +143,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Sermon-on-the-Mount.Notes.md",
+                "file": "40-Matthew/SM-2.5lines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sermon-on-the-Mount.Notes"
+              "title": "Outline of SM-2.5lines"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -199,11 +228,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53fb1eb62ff67bc4",
+  "active": "8774b03977e43807",
   "lastOpenFiles": [
+    "40-Matthew/SM-3lines.md",
+    "40-Matthew/SM-2.5lines.md",
     "40-Matthew/SM-4lines.md",
-    "GTNTG/§2.md",
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
+    "GTNTG/§2.md",
     "GTNTG/Untitled.md",
     "GTNTG/GDNTG-Notes.md",
     "GTNTG/§14.md",
@@ -226,8 +257,6 @@
     "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
     "Greek Pedagogy.md",
     "BBG4E/HW-Key/HW10-Key.md",
-    "BBG4E/HW-Key/HW9-Key.md",
-    "BBG4E/HW-Key/HW6-Key.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
