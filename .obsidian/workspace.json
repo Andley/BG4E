@@ -8,80 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dc64dfeddec230f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTNTG/§2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "§2"
-            }
-          },
-          {
-            "id": "53fb1eb62ff67bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/SM-4lines.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SM-4lines"
-            }
-          },
-          {
-            "id": "857f57257ef549e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/SM-3lines.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SM-3lines"
-            }
-          },
-          {
             "id": "8774b03977e43807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-2.5lines.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SM-2.5lines"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "721aa38ffc674b6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ceba5dac640c10cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/SM-2.5lines.md",
+                "file": "BBG4E/HW/HW1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-2.5lines"
+              "title": "HW1"
             }
           }
         ]
@@ -143,21 +80,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/SM-2.5lines.md",
+                "file": "BBG4E/HW/HW10-MCS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SM-2.5lines"
+              "title": "Outline of HW10-MCS"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -228,13 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8774b03977e43807",
+  "active": "323a10775016a71f",
   "lastOpenFiles": [
-    "40-Matthew/SM-3lines.md",
-    "40-Matthew/SM-2.5lines.md",
-    "40-Matthew/SM-4lines.md",
-    "40-Matthew/Sermon-on-the-Mount.Notes.md",
+    "BBG4E/HW/HW1.md",
+    "BBG4E/HW-Key/HW4-Key.md",
+    "BBG4E/HW-Key/HW3-Key.md",
+    "BBG4E/HW-Key/HW2-Key.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW-Key/HW6-Key.md",
+    "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW/HW4.md",
     "GTNTG/§2.md",
+    "40-Matthew/SM-4lines.md",
+    "BBG4E/§2.md",
+    "BBG4E/§3.md",
+    "40-Matthew/SM-2.5lines.md",
+    "40-Matthew/SM-3lines.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "GTNTG/Untitled.md",
     "GTNTG/GDNTG-Notes.md",
     "GTNTG/§14.md",
@@ -243,25 +192,12 @@
     "GTNTG/§11.md",
     "GTNTG/§10.md",
     "GTNTG/§9.md",
-    "GTNTG/§8.md",
-    "GTNTG/§7.md",
-    "GTNTG/§6.md",
-    "GTNTG/§5.md",
-    "GTNTG/§4.md",
-    "GTNTG/§3.md",
-    "Untitled.md",
     "GTNTG",
-    "template/Book-Notes.md",
-    "template/HW.md",
-    "template/template.md",
-    "BG4E-ExpPreaching/JesusChrist-vs-ChristJesus.md",
-    "Greek Pedagogy.md",
-    "BBG4E/HW-Key/HW10-Key.md",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
     "Untitled",
     "BBG4E/HW-Key",
-    "BBG4E/HW-OGNTa",
+    "BBG4E/HW",
     "Tools",
     "Memorize",
     "Pasted image 20250520070954.png",
