@@ -10,14 +10,14 @@
   }
 
 /* 標題 */
-h1, h3,, h5 {
-  text-align: center;
-  color: blue;
-}
+h1, .HyperMD-header-1 { text-decoration-line: underline; text-decoration-style: double;}
+h1, .HyperMD-header-1, h2, .HyperMD-header-2 { text-align: center; ;}
+h3, h4, h5, h6 { text-align: left; }
+h3, .HyperMD-header-3 {  text-indent: -1em; }
+h4, .HyperMD-header-4 {  text-indent: -0.5em; }
+h5, .HyperMD-header-5 {  text-indent: 0em; }
+h6, .HyperMD-header-6 {  text-indent: 0.5em; }
 
-h2, h4, h6 {
-  text-align: left;
-}
 
 html, body, p, li {
   font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
@@ -73,6 +73,7 @@ a {text-decoration: none; color: var(--text-link); }
 .verb { color: var(--color1); }
 .ptc  { color: var(--color2); }
 .inf  { color: var(--color3); }
+..punctuation { font-weight:bolder;}
 
 /* --------------------------------------------   */
 
