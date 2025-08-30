@@ -6,7 +6,6 @@
       {
         "id": "207f53ff6a8c7894",
         "type": "tabs",
-        "dimension": 50.277264325323465,
         "children": [
           {
             "id": "26c5cade7f9f3842",
@@ -14,33 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTNTG/§13.md",
+                "file": "GTNTG/第6課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§13"
+              "title": "第6課"
             }
           }
         ]
       },
       {
-        "id": "185db5685367462b",
+        "id": "4b85c8ec916dedb7",
         "type": "tabs",
-        "dimension": 49.722735674676535,
         "children": [
           {
-            "id": "c290249bf46eab4f",
+            "id": "b2b17ed8b8cd2d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTNTG/§13.md",
+                "file": "GTNTG/第6課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "§13"
+              "title": "第6課"
             }
           }
         ]
@@ -102,20 +100,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax/§000.md",
+                "file": "GTNTG/第6課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of §000"
+              "title": "Outline of 第6課"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
+    "width": 624.5,
     "collapsed": true
   },
   "right": {
@@ -187,13 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c290249bf46eab4f",
+  "active": "26c5cade7f9f3842",
   "lastOpenFiles": [
+    "GTNTG/第13課.md",
     "Syntax/§000.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/SM-2.5lines.md",
     "40-Matthew/SM-3lines.md",
-    "GTNTG/§13.md",
     "GTNTG/§2.md",
     "BBG4E/HW/HW12.md",
     "BBG4E/HW/HW11.md",
