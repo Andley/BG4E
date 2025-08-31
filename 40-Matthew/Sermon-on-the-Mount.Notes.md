@@ -5,7 +5,6 @@
 ### 經文閱讀
 - [Sermon on the Mount Interlinear](SM-4lines.md)
 
-
 ### 句法圖析
 
 - 前言 (Mat 4:23-5:16)
