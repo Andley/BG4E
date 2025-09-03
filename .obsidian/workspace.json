@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第9課.md",
+                "file": "GDNTG/第10課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第9課"
+              "title": "第10課"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第9課.md",
+                "file": "GDNTG/第10課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第9課"
+              "title": "第10課"
             }
           }
         ]
@@ -100,16 +100,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第9課.md",
+                "file": "GDNTG/第10課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第9課"
+              "title": "Outline of 第10課"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,10 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47b707dc41f01520",
+  "active": "980848aa6488273b",
   "lastOpenFiles": [
-    "GDNTG/第13課.md",
     "GDNTG/第9課.md",
+    "GDNTG/第10課.md",
+    "GDNTG/Untitled 1.md",
+    "GDNTG/第13課.md",
     "GDNTG/第8課.md",
     "GDNTG/第7課.md",
     "GDNTG/第6課.md",
@@ -211,8 +214,6 @@
     "BBG4E/HW/HW07.md",
     "BBG4E/HW/HW06.md",
     "BBG4E/HW/HW03.md",
-    "BBG4E/HW/HW04.md",
-    "BBG4E/HW/HW02.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
