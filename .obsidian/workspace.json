@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "207f53ff6a8c7894",
+        "id": "78112a5be7ce3269",
         "type": "tabs",
         "children": [
           {
-            "id": "26c5cade7f9f3842",
+            "id": "47b707dc41f01520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-4lines.md",
+                "file": "GDNTG/第9課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-4lines"
+              "title": "第9課"
             }
           }
         ]
       },
       {
-        "id": "4b85c8ec916dedb7",
+        "id": "af0eb1b2fb4cdef0",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b17ed8b8cd2d62",
+            "id": "980848aa6488273b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "GDNTG/第9課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW10-Key"
+              "title": "第9課"
             }
           }
         ]
@@ -100,21 +100,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/SM-4lines.md",
+                "file": "GDNTG/第9課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SM-4lines"
+              "title": "Outline of 第9課"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,11 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8852f6638c498419",
+  "active": "980848aa6488273b",
   "lastOpenFiles": [
-    "40-Matthew/Sermon-on-the-Mount.Notes.md",
+    "GDNTG/第8課.md",
+    "GDNTG/第7課.md",
     "40-Matthew/SM-4lines.md",
     "BBG4E/HW-Key/HW10-Key.md",
+    "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "GDNTG/第6課.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/§1.md",
@@ -211,8 +213,6 @@
     "BBG4E/HW/HW04.md",
     "BBG4E/HW/HW02.md",
     "BBG4E/HW/HW05.md",
-    "BBG4E/HW/HW01.md",
-    "BBG4E/HW/HW10-MCS.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
