@@ -6,6 +6,7 @@
       {
         "id": "78112a5be7ce3269",
         "type": "tabs",
+        "dimension": 48.96602658788774,
         "children": [
           {
             "id": "47b707dc41f01520",
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "af0eb1b2fb4cdef0",
+        "id": "19a42da1a7257e37",
         "type": "tabs",
+        "dimension": 51.03397341211225,
         "children": [
           {
-            "id": "980848aa6488273b",
+            "id": "9131356e2203b3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +111,8 @@
               "title": "Outline of 第12課"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47b707dc41f01520",
+  "active": "9131356e2203b3d0",
   "lastOpenFiles": [
     "GDNTG/第11課.md",
     "GDNTG/第12課.md",
