@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第12課.md",
+                "file": "GDNTG/第3課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第12課"
+              "title": "第3課"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第12課.md",
+                "file": "GDNTG/第3課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第12課"
+              "title": "第3課"
             }
           }
         ]
@@ -102,17 +102,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第12課.md",
+                "file": "GDNTG/第3課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第12課"
+              "title": "Outline of 第3課"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,10 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9131356e2203b3d0",
+  "active": "47b707dc41f01520",
   "lastOpenFiles": [
-    "GDNTG/第11課.md",
+    "GDNTG/第2課.md",
+    "GDNTG/第3課.md",
     "GDNTG/第12課.md",
+    "GDNTG/§14.md",
+    "GDNTG/第11課.md",
     "GDNTG/第10課.md",
     "GDNTG/第9課.md",
     "GDNTG/Untitled 1.md",
@@ -208,14 +210,11 @@
     "Syntax/§000.md",
     "40-Matthew/SM-2.5lines.md",
     "40-Matthew/SM-3lines.md",
-    "GDNTG/§2.md",
     "BBG4E/HW/HW12.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW/HW10.md",
     "BBG4E/HW/HW09.md",
     "BBG4E/309-Glosses.md",
-    "BBG4E/HW/HW08.md",
-    "BBG4E/HW/HW07.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
