@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第4課.md",
+                "file": "GDNTG/第5課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第4課"
+              "title": "第5課"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第4課.md",
+                "file": "GDNTG/第5課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第4課"
+              "title": "第5課"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "9131356e2203b3d0",
   "lastOpenFiles": [
+    "GDNTG/第4課.md",
+    "GDNTG/第5課.md",
     "GDNTG/第13課.md",
     "GDNTG/TOC.md",
     "GDNTG/第2課.md",
@@ -199,7 +201,6 @@
     "GDNTG/第7課.md",
     "GDNTG/第6課.md",
     "GDNTG/第3課.md",
-    "GDNTG/第4課.md",
     "GDNTG/§14.md",
     "GDNTG/Untitled 1.md",
     "40-Matthew/SM-4lines.md",
@@ -212,7 +213,6 @@
     "40-Matthew/SM-2.5lines.md",
     "40-Matthew/SM-3lines.md",
     "BBG4E/HW/HW12.md",
-    "BBG4E/HW/HW11.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
