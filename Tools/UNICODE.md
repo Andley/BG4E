@@ -23,8 +23,7 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 	- 可以輸出 pre-omposed character with tonos (ά U+03AC) 和 pre-composed character with oxia (ά U+1F71)，記得要用 tonos (ά U+03AC)！
 	- ![images/key.png](images/key.png)
 	- ![images/Pasted image 20220630200904.png](images/Pasted%20image%2020220630200904.png)
-
-
+	- ![../KB_Greek_polytonic_Unicode.svg](../KB_Greek_polytonic_Unicode.svg)
 
 ##### Macro 
 >
