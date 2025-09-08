@@ -1,8 +1,9 @@
 
-![../Pasted image 20250908072251.png|320](../Pasted%20image%2020250908072251.png)
+
 Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testamen*t. Revised edition. Nashville, Tennessee: B & H Academic, 2020.
-![../Pasted image 20250908072315.png|320](../Pasted%20image%2020250908072315.png)
+![GDNTG2.png](GDNTG2.png)
 柯斯坦柏格 (Andreas J. Kostenberger)、梅克 (Merkle)、普拉默 (Plummer)。《新約希臘文進深：中級希臘文句法研究》。汪仁潔譯。南加州：美國麥種傳道會，2024。
+
 
 # 目錄
 
@@ -18,10 +19,30 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第2課 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES](第2課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- THE GREEK CASE SYSTEM
-	- NOMINATIVE
-	- VOCATIVE
-	- ACCUSATIVE
+	- 希臘文的格系統 THE GREEK CASE SYSTEM
+	- 主格 NOMINATIVE
+		- 主要用法 Major Uses
+			- 主詞 Subject
+			- 述詞主格 Predicate Nominative
+			- 同位句型 Apposition
+		- 其他用法
+			- 稱謂 Address
+			- 稱號 Appellation
+			- 獨立 Absolute
+			- 懸掛主格 Hanging Nominative
+	- 呼格 VOCATIVE
+		- 直接的稱呼 Direct Address
+	- 直接受格 ACCUSATIVE
+		- 直接受格的名詞用法 Substantival Uses of the Accusative
+			- 直接受詞 Direct Object
+			- 同源直接受格 Cognate Accusative
+			- 雙重直接受格 Double Accusative
+			- 不定詞的主詞 Subject of Infinitive
+			- 同位句型 Apposition
+		- 直接受格的副詞用法 Adverbial Uses of the Accusative
+			- 度量 Measure
+			- 方式 Manner
+			- 關注 Respect
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -29,11 +50,35 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第3課 所有格 GENITIVE CASE](第3課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- INTRODUCTION TO THE GENITIVE CASE
-	- ADJECTIVAL USE
-	- VERBAL USE
-	- ADVERBIAL USE
-	- OTHER USES
+	- 介紹所有格 INTRODUCTION TO THE GENITIVE CASE
+	- 形容詞用法 ADJECTIVAL USE
+		- 描述的 Description
+		- 表達屬性的 Attributive
+		- 擁有的 Possession
+		- 親屬關係的 Relationship
+		- 來源的 Source
+		- 材料或內容的 Material or Content
+			- 材料的 Material
+			- 內容的 Content
+		- 部分的 Partitive
+	- 動詞用法 VERBAL USE
+		- 主詞所有格 Subjective Genitive
+		- 受詞所有格 Objective Genitive
+	- 副詞用法 ADVERBIAL USE
+		- 時間或地方 Time or Place
+			- 時間的 Time
+			- 地方的 Place
+		- 隔開的 Separation
+		- 途徑或動作者的 Means or Agency
+			- 途徑的 Means
+			- 動作者的 Agency
+		- 比較的 Comparison
+		- 價錢的 Price
+	- 其他用法 OTHER USES
+		- 同位句型的 Apposition
+			- 單純同位句型的 Simple Apposition
+			- 附加說明的 Epexegetical
+		- 作直接受詞的 Direct Object
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -41,11 +86,28 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第4課 間接受格 DATIVE CASE](第4課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- INTRODUCTION TO THE DATIVE CASE
-	- PURE DATIVE
-	- LOCATIVE DATIVE
-	- INSTRUMENTAL DATIVE
-	- OTHER USES
+	- 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
+	- 單純間接受格 PURE DATIVE
+		- 作間接受詞的 Indirect Object
+		- 個人利益的 Personal Interest
+			- 有利的 Advantage
+			- 不利的 Disadvantage
+		- 指涉或專注的 Reference or Respect
+		- 擁有的 Possession
+	- 位置間接受格 LOCATIVE DATIVE
+		- 地方的 Place
+		- 範圍的 Sphere
+		- 時間的 Time
+	- 憑藉間接受格 INSTRUMENTAL DATIVE
+		- 途徑的 Means
+		- 方式的 Manner
+		- 動作者的 Agency
+		- 關聯的 Association
+	- 其他用法 OTHER USES
+		- 原因的 Cause
+		- 同源的 Cognate Dative
+		- 同位句型的 Apposition
+		- 作直接受詞的 Direct Object
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -53,9 +115,48 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第5課 冠詞與形容詞 THE ARTICLE & ADJECTIVE](第5課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- THE ARTICLE
-	- THE ADJECTIVE
-	- THE USE OF THE ADJECTIVE TO SHOW KIND/DEGREE
+	- 冠詞 THE ARTICLE
+		- 介紹冠詞 Introduction to the Article
+		- 冠詞帶實名詞 The Article with Substantives
+			- 特殊化的冠詞 The Particularizing Article
+			- 通類的冠詞 The Generic Article
+		- 冠詞作代名詞 The Article Functioning as a Pronoun
+		- 無冠詞 The Absence of the Article
+		- 特殊規則 Special Rules
+			- 夏普規則 Granville Sharp Rule
+			- 柯威爾規則 Colwell’s Rule
+			- 亞波羅準則 Apollonius’s Canon
+	- 形容詞 THE ADJECTIVE
+		- 介紹形容詞 Introduction to the Adjective
+		- 形容詞的一般用法 General Use of the Adjective
+		- 敘述用法 Predicate Use
+			- 有冠詞 With the Article
+				- 第一位置 
+				- 第二位置 
+			- 沒有冠詞 Without the Article
+				- 第一位置 
+				- 第二位置 
+		- 形容用法 Attributive Use
+			- 有冠詞 With the Article
+				- 第一位置 
+				- 第二位置 
+				- 第三位置 
+			- 沒有冠詞 Without the Article
+				- 第一位置 
+				- 第四位置 
+		- 實名詞用法 Substantival Use
+		- 副詞用法 Adverbial Use
+	- 形容詞表達種類/程度的用法 The Use of the Adjective to Show Kind/Degree
+		- 原級 Positive
+		- 比較級 Comparative
+		- 最高級 Superlative
+			- 強化用法 Elative
+			- 比較級作強化用法 Comparative for Elative
+			- 最高級作強化用法 Superlative for Elative
+		- 特殊情況 Special Cases
+			- 原級作比較級 Positive for Comparative
+			- 原級作最高級 Positive for Superlative
+			- 比較級作最高級 Comparative for Superlative
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -63,10 +164,51 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第6課 動詞：概論、假設語氣、命令語氣 VERBS: OVERVIEW, SUBJUNCTIVES & IMPERATIVES](第6課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- INTRODUCTION
-	- PERSON & NUMBER
-	- MOOD
-	- TENSE & ASPECT
+	- 介紹 INTRODUCTION
+	- 人稱與數 PERSON & NUMBER
+	- 語態 MOOD
+		- 主動語態 Active Voice
+			- 簡單主動 Simple Active
+			- 使役主動 Causative Active
+			- 反身主動 Reflexive Active
+		- 關身語態 Middle Voice
+			- 反身關身 Reflexive Middle
+			- 特殊利益關身 Special Interest Middle
+			- 允許〔使役〕關身 Permissive Causative Middle
+			- 關身形主動意 Deponent Middle
+		- 被動語態 Passive Voice
+			- 簡單被動 Simple Passive
+			- 允許被動 Permissive Passive
+			- 被動形主動意 Deponent Passive
+	- 語氣 Mood
+		- 直說語氣 Indicative Mood
+			- 明言的直說語氣 Declarative Mood
+			- 疑問的直說語氣 Interrogative Indicative
+			- 條件的直說語氣 Conditional Indicative
+			- 勸慰的直說語氣 Cohortative Indicative
+			- 潛在的直說語氣 Potential Indicative
+		- 假設語氣 Subjunctive Mood
+			- 附屬子句中的假設語氣 Dependent Clause Subjunctive
+				- 表目的或表結果的子句Purpose or Result Clause
+				- 條件子句 Conditional Clause
+				- 不定關係子句或不定時間子句 Indefinite Relative or Temporal Clause
+			- 獨立子句中的假設語氣 Independent Clause Subjunctive
+				- 勸告的假設語氣 Hortatory Subjunctive
+				- 考慮的假設語氣 Deliberative Subjunctive
+				- 強烈否定的假設語氣 Emphatic Negation Subjunctive
+				- 禁止的假設語氣 Prohibitory Subjunctive
+		- 期望語氣 Optative Mood
+			- 意願的期望語氣 Voluntative Optative
+			- 考慮的期望語氣 Deliberative Optative
+			- 潛在的Optative Potential Optative
+		- 命令語氣 Imperative Mood
+			- 命令 Command
+			- 禁止 Prohibition
+			- 請求 Request 
+			- 允許的命令語氣 Permissive Imperative
+			- 條件的命令語氣 Conditional Imperative
+			- 問候 Greeting
+	- 時態與觀點 TENSE & ASPECT
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -74,7 +216,19 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第7課 時態與動詞觀點 TENSE & VERBAL ASPECT](第7課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- THE GREEK VERB
+	- 希臘文動詞 THE GREEK VERB
+		- 作者對動作的視角——觀點 Author’s Perspective on the Action 
+			- 觀點的定義 Definition of Aspect
+			- 新約聖經希臘文的觀點 Aspects in NT Greek
+			- 觀點的構詞 Morphologizing Aspect
+			- 觀點與論述 Aspect and Discourse
+		- 動作的時間 Time of Action
+		- 動作的種類 Type of Action
+			- 字彙的因素 Lexical Factors
+			- 文法的因素 Grammatical Factors
+			- 文脈的因素 Contextual Factors
+				- 實例研究：命令語氣 Case Study: Imperatives
+			- 結論 Conclusion
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -82,9 +236,27 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第8課 現在式、不完成式、未來式之直說語氣PRESENT, IMPERFECT & FUTURE INDICATIVES](第8課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- PRESENT INDICATIVE
-	- IMPERFECT INDICATIVE
-	- FUTURE INDICATIVE
+	- 現在式直說語氣 PRESENT INDICATIVE
+		- 進行的現在式 Progressive Present
+		- 持續的現在式 Durative Present
+		- 重複的現在式 Iterative Present
+		- 格言的現在式 Gnomic Present
+		- 即時的現在式 Instantaneous Present
+		- 歷史的現在式 Historical Present
+		- 意向的現在式 Tendential Present
+		- 未來的現在式 Futuristic Present
+		- 完成的現在式 Perfective Present
+	- 不完成式直說語氣 IMPERFECT INDICATIVE
+		- 進行的不完成式 Progressive Imperfect
+		- 開端的不完成式 Inceptive Imperfect
+		- 重複的不完成式 Iterative Imperfect
+		- 意向的不完成式 Tendential Imperfect
+	- 未來式直說語氣 FUTURE INDICATIVE
+		- 預測的未來式 Predictive Future
+		- 命令的未來式 Imperatival Future
+		- 考慮的未來式 Deliberative Future
+		- 格言的未來式 Gnomic Future
+		- 進行的未來式 Progressive Future
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -92,9 +264,25 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第9課 不定過去式、現在完成式、過去成式之直說語氣AORIST, PERFECT & PLUPERFECT INDICATIVES](第9課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- AORIST INDICATIVE
-	- PERFECT
-	- PLUPERFECT
+	- 不定過去式直說語氣 AORIST INDICATIVE
+		- 敘事的不定過去式 Constative Aorist
+		- 開端的不定過去式 Inceptive Aorist
+		- 終結的不定過去式 Culminative Aorist
+		- 格言的不定過去式 Gnomic Aorist
+		- 書信的不定過去式 Epistolary Aorist
+		- 未來的不定過去式 Futuristic Aorist
+		- 生動的不定過去式 Dramatic Aorist
+	- 現在完成式直說語氣 PERFECT INDICATIVE
+		- 加強的現在完成式 Intensive Perfect
+		- 完成的現在完成式 Consummative Perfect
+		- 生動的現在完成式 Dramatic Perfect
+		- 現在狀態的現在完成式 Present State Perfect
+		- 格言的現在完成式 Gnomic Perfect
+		- 重複的現在完成式 Iterative Perfect
+	- 過去完成式直說語氣 PLUPERFECT INDICATIVE
+		- 加強的過去完成式 Intensive Pluperfect
+		- 完成的過去完成式 Consummative Pluperfect
+		- 過去狀態的過去完成式 Past State Pluperfect
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -102,9 +290,38 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第10課 分詞 PARTICIPLES](第10課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- VERBAL QUALITIES OF PARTICIPLES
-	- ADJECTIVAL PARTICIPLES
-	- VERBAL PARTICIPLES14
+	- 分詞的動詞性質 VERBAL QUALITIES OF PARTICIPLES
+		- 觀點 Aspect
+		- 時間 Time
+	- 形容詞用法的 ADJECTIVAL PARTICIPLES
+		- 形容用法的分詞 Attributive Participles
+		- 實詞用法的分詞 Substantival Participles
+	- 動詞用法的分詞 VERBAL PARTICIPLES
+		- 副詞用法的分詞 Adverbial Participles
+			- 時間 Temporal
+			- 完成的觀點 Perfective Aspect
+			- 未完成的觀點 Imperfective Aspect
+			- 途徑 Means
+			- 方式 Manner
+			- 原因 Cause
+			- 條件 Condition
+			- 讓步 Concession
+			- 目的 Purpose
+			- 結果 Result
+		- 其他動詞用法的分詞
+			- 附帶狀況 Attendant Circumstance
+			- 獨立所有格 Genitive Absolute
+			- 命令 Imperatival
+			- 贅語 Pleonastic
+			- 補語 Complementary
+			- 間述句 Indirect Discourse
+		- 迂說的分詞 Periphrastic Participles
+			- 現在式迂說 Present Periphrastic
+			- 不完成式迂說 Imperfect Periphrastic
+			- 未來式迂說 Future Periphrastic
+			- 現在完成式迂說 Perfect Periphrastic
+			- 過去完成式迂說 Pluperfect Periphrastic
+			- 未來完成式迂說 Future Perfect Periphrastic
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -113,9 +330,26 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
 	- INTRODUCTION
-	- ADVERBIAL INFINITIVES
-	- SUBSTANTIVAL INFINITIVES
-	- INDEPENDENT INFINITIVES
+	- 副詞用法的不定詞 ADVERBIAL INFINITIVES
+		- 補語 Complementary
+		- 目的 Purpose
+		- 結果 Result
+		- 時間 Temporal
+			- 之前的時間 Previous Time
+			- 同時的時間 Contemporaneous Time
+			- 之後的時間 Subsequent Time
+		- 原因 Cause
+		- 途徑 Means
+	- 名詞用法的不定詞 SUBSTANTIVAL INFINITIVES
+		- 主詞 Subject
+		- 直接受詞 Direct Object
+		- 間述句 Indirect Discourse
+		- 說明 Explanatory 
+			- 同位句型 Appositional
+			- 附加說明 Epexegetical
+	- 獨立用法的不定詞 INDEPENDENT INFINITIVES
+		- 命令 Imperatival
+		- 獨立 Absolute
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -123,10 +357,64 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第12課 代名詞、介詞、連接詞、副詞、語助詞 PRONOUNS, PREPOSITIONS, CONJUNCTIONS, ADVERBS & PARTICLES](第12課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- PRONOUNS
-	- PREPOSITIONS
-	- ADVERBS
-	- PARTICLES
+	- 代名詞 PRONOUNS
+		- 人稱代名詞 Personal Pronouns
+			- 強調的用法 Emphatic Use
+			- 增強的用法 Intensive Use
+			- 等同的 
+		- 指示代名詞 Demonstrative Pronouns
+			- 近距指示代名詞 Near Demonstrative Pronouns
+			- 遠距指示代名詞 Far Demonstrative Pronouns
+		- 關係代名詞 Relative Pronouns
+		- 疑問代名詞 Interrogative Pronouns
+		- 不定代名詞 Indefinite Pronouns
+		- 反身代名詞 Reflexive Pronouns
+		- 相互代名詞 Reciprocal Pronouns
+		- 代名形容詞 Pronominal Adjectives
+	- 介詞 PREPOSITIONS
+		- 介詞片語的功能 Functions of Prepositional Phrases
+			- 副詞用法 Adverbial
+			- 形容詞用法 Adjectival
+			- 名詞用法 Substantival
+		- 純介詞的語義範圍 The Semantic Domain of Proper Prepositions
+			- ἀνά 
+			- ἀντί 
+			- ἀπό 
+			- διά 
+			- εἰς 
+			- ἐκ 
+			- ἐν 
+			- ἐπί 
+			- κατά 
+			- μετά 
+			- παρά 
+			- περί 
+			- πρό 
+			- πρός 
+			- σύν 
+			- ὑπέρ 
+			- ὑπό 
+		- 不純介詞的語義範圍 The Semantic Domain of Improper Prepositions
+	- 連接詞 CONJUNCTIONS
+		- 對等連接詞 Coordinating Conjunctions
+		- 從屬連接詞 Subordinating Conjunctions
+	- 副詞 ADVERBS
+		- 副詞修飾動詞 Adverbs Modifying Verbs
+			- 副詞修飾直說語氣動詞 Adverbs Modifying Indicative Verbs
+			- 副詞修飾非直說語氣動詞 Adverbs Modifying Non-Indicative Verbs
+			- 副詞修飾副詞和形容詞 Adverbs Modifying Adverbs and Adjectives
+		- 副詞有什麼功用？ How is the Adverb Functioning?
+			- 時間的副詞 
+			- 強度或程度的副詞 
+			- 方式的副詞 
+			- 地方的副詞 
+			- 副詞作為名詞或形容詞 Adverbs Functioning as Nouns，或 Adjectives
+	- 語助詞 PARTICLES
+		- 否定的語助詞 Particles of Negation
+		- 表語氣的語助詞 Particles of Mood
+		- 連接的語助詞 Particles of Connection
+		- 增強的語助詞 Particles of Intensification
+		- 表注意的語助詞 Particles of Attention 
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
@@ -134,7 +422,38 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 - [第13課 句子、圖析、論述分析 SENTENCES, DIAGRAMMING & DISCOURSE ANALYSIS](第13課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
-	- GREEK SENTENCES
+	- 希臘文的句子 GREEK SENTENCES
+		- 句子的組成部分 The Components of Sentences
+			- 單字 Word
+			- 片語 Phrase
+				- 介詞片語 Prepositional Phrase
+				- 名詞片語 Noun Phrase
+				- 副詞片語 Adverbial Phrase
+				- 形容詞片語 Adjectival Phrase
+				- 動詞片語 Verbal Phrase
+			- 子句 Clause
+				- 獨立子句 Independent Clause
+				- 附屬子句 Dependent Clause
+				- 條件子句 Conditional Clause
+		- 依據組成部分的句子類型 Type of Sentences According to Components
+			- 簡單句 Simple Sentence
+			- 複合句 Compound Sentence
+			- 複雜句 Complex Sentence
+			- 聯繫句 Copulative Sentence
+		- 依據功能的句子類型 Type of Sentences According to Function
+			- 明言的 Declarative
+			- 疑問的 Interogative
+			- 命令的 Imperative
+			- 感嘆的 Exclamatory
+		- 句子中的字序 Word Order within Sentences
+		- 分析文法與文學結構 Analyzing Grammatical and Literary Structure
+			- 線狀圖析 Line Diagramming
+			- 追溯論點 
+			- 短語圖析 Phrase Diagrams
+			- 論述分析 Discourse Analysis
+				- 論述界線 Discourse Boundaries
+				- 論述之凸顯 Prominence
+				- 論述之連貫一致 Cohesion
 	- SUMMARY
 	- PRACTICE EXERCISES
 	- VOCABULARY
