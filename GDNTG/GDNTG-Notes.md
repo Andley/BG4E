@@ -1,7 +1,5 @@
 
-
 Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testamen*t. Revised edition. Nashville, Tennessee: B & H Academic, 2020.
-![GDNTG2.png](GDNTG2.png)
 柯斯坦柏格 (Andreas J. Kostenberger)、梅克 (Merkle)、普拉默 (Plummer)。《新約希臘文進深：中級希臘文句法研究》。汪仁潔譯。南加州：美國麥種傳道會，2024。
 
 
