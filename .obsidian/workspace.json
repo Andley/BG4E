@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第5課.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第5課"
+              "title": "README"
             }
           }
         ]
       },
       {
-        "id": "74ec657ae5a48083",
+        "id": "802a7a5e49955d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf69f7f3e891c559",
+            "id": "24cf5ea9f4b8a9ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第5課.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第5課"
+              "title": "README"
             }
           }
         ]
@@ -100,22 +100,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第5課.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第5課"
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,23 +186,28 @@
   },
   "active": "9131356e2203b3d0",
   "lastOpenFiles": [
-    "Tools/UNICODE.md",
-    "KB_Greek_polytonic_Unicode.svg",
+    "GDNTG/GDNTG-Notes.md",
+    "README.md",
+    "Syntax/Syntax.md",
+    "Pasted image 20250908072315.png",
+    "Pasted image 20250908072251.png",
+    "GDNTG/第2課.md",
+    "GDNTG/§14.md",
+    "GDNTG/希臘文的格系統 THE GREEK CASE SYSTEM.md",
+    "GDNTG/第7課.md",
+    "GDNTG/第6課.md",
     "GDNTG/第5課.md",
     "GDNTG/第4課.md",
+    "GDNTG/第3課.md",
+    "Tools/UNICODE.md",
+    "KB_Greek_polytonic_Unicode.svg",
     "GDNTG/第13課.md",
     "GDNTG/TOC.md",
-    "GDNTG/第2課.md",
-    "GDNTG/希臘文的格系統 THE GREEK CASE SYSTEM.md",
     "GDNTG/第12課.md",
     "GDNTG/第11課.md",
     "GDNTG/第10課.md",
     "GDNTG/第9課.md",
     "GDNTG/第8課.md",
-    "GDNTG/第7課.md",
-    "GDNTG/第6課.md",
-    "GDNTG/第3課.md",
-    "GDNTG/§14.md",
     "GDNTG/Untitled 1.md",
     "40-Matthew/SM-4lines.md",
     "BBG4E/HW-Key/HW10-Key.md",
@@ -212,8 +215,6 @@
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/§1.md",
     "BBG4E/§10.md",
-    "Syntax/§000.md",
-    "40-Matthew/SM-2.5lines.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",

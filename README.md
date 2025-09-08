@@ -2,8 +2,8 @@
 
 
 
-- [Apostles' Creed](Memorize/Apostles-Creed.md) ⇐ 2025-06 更新
-- [Lord's Prayer](Memorize/Lords-Prayer.md) ⇐ 2025-06 更新
+- [Apostles' Creed](Memorize/Apostles-Creed.md) 
+- [Lord's Prayer](Memorize/Lords-Prayer.md) 
 - [慣用語](Semantics/Idioms.md)
 - [圖析符號說明](Tools/Phrasing-Signs.md) 
 - [同義字 Synonyms](Semantics/synonyms.md)
@@ -12,6 +12,7 @@
 ## 全民希臘文：初階
 - [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
 ## 全民希臘文：句法
+- [Going Deeper with New Testament Greek 新約希臘文進深——例句 Interlinear](GDNTG/GDNTG-Notes.md) ⇐ 2025-09 更新
 - [全民希臘文句法](Syntax/Syntax.md)
 
 ## 全民希臘文：新約句法筆記)
