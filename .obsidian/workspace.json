@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "802a7a5e49955d5d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24cf5ea9f4b8a9ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "BBG4E/HW/HW05.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HW05"
             }
           }
         ]
@@ -100,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "BBG4E/HW/HW05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of HW05"
             }
           }
         ]
@@ -186,8 +166,9 @@
   },
   "active": "9131356e2203b3d0",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-Notes.md",
+    "BBG4E/HW/HW04.md",
     "README.md",
+    "GDNTG/GDNTG-Notes.md",
     "Syntax/Syntax.md",
     "Pasted image 20250908072315.png",
     "Pasted image 20250908072251.png",
@@ -214,7 +195,6 @@
     "40-Matthew/Sermon-on-the-Mount.Notes.md",
     "BBG4E/HW-Key/HW9-Key.md",
     "BBG4E/§1.md",
-    "BBG4E/§10.md",
     "GDNTG",
     "Pasted image 20250723100452.png",
     "BBG4E/HW-Macula",
