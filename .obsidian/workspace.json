@@ -6,6 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
+        "dimension": 44.95073891625616,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -13,13 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-Notes.md",
+                "file": "40-Matthew/SM-3lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-Notes"
-            }
+              "title": "SM-3lines"
+            },
+            "group": "861e5293ba844ca1"
+          }
+        ]
+      },
+      {
+        "id": "15cfc1369ebbeb09",
+        "type": "tabs",
+        "dimension": 55.049261083743836,
+        "children": [
+          {
+            "id": "25e12496b3c18bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/SM-3lines.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SM-3lines"
+            },
+            "group": "861e5293ba844ca1"
           }
         ]
       }
@@ -93,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -166,8 +191,11 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
-    "GDNTG/GDNTG1.png",
+    "40-Matthew/SM-4lines.md",
+    "40-Matthew/SM-3lines.md",
+    "40-Matthew/SM-2.5lines.md",
     "GDNTG/GDNTG-Notes.md",
+    "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",
     "GDNTG/Untitled 1.md",
     "GDNTG/Untitled.md",
@@ -192,9 +220,7 @@
     "Syntax/Syntax.md",
     "GDNTG/§14.md",
     "GDNTG/希臘文的格系統 THE GREEK CASE SYSTEM.md",
-    "Tools/UNICODE.md",
     "KB_Greek_polytonic_Unicode.svg",
-    "40-Matthew/SM-4lines.md",
     "GDNTG",
     "BBG4E/HW-Macula",
     "Untitled",
