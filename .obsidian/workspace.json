@@ -6,7 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
-        "dimension": 52.31741573033708,
+        "dimension": 50.42134831460674,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -14,21 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-2.5lines.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-2.5lines"
-            },
-            "group": "861e5293ba844ca1"
+              "title": "Mat.5.1-2"
+            }
           }
         ]
       },
       {
         "id": "15cfc1369ebbeb09",
         "type": "tabs",
-        "dimension": 47.68258426966292,
+        "dimension": 49.57865168539326,
         "children": [
           {
             "id": "25e12496b3c18bcc",
@@ -36,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-2.5lines.md",
+                "file": "40-Matthew/Mat.5.1-2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-2.5lines"
-            },
-            "group": "861e5293ba844ca1"
+              "title": "Mat.5.1-2"
+            }
           }
         ]
       }
@@ -117,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,9 +189,12 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
-    "40-Matthew/SM-3lines.md",
-    "40-Matthew/SM-2.5lines.md",
+    "40-Matthew/SM-Notes.md",
     "40-Matthew/SM-4lines.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/Mat.4.23-25.md",
+    "40-Matthew/SM-2.5lines.md",
+    "40-Matthew/SM-3lines.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",
@@ -216,9 +218,6 @@
     "BBG4E/HW/HW05.md",
     "BBG4E/HW/HW04.md",
     "README.md",
-    "Syntax/Syntax.md",
-    "GDNTG/§14.md",
-    "GDNTG/希臘文的格系統 THE GREEK CASE SYSTEM.md",
     "KB_Greek_polytonic_Unicode.svg",
     "GDNTG",
     "BBG4E/HW-Macula",

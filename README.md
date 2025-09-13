@@ -16,7 +16,7 @@
 - [全民希臘文句法](Syntax/Syntax.md)
 
 ## 全民希臘文：新約句法筆記)
-- [登山寶訓 (馬太福音 5-7 章)](40-Matthew/Sermon-on-the-Mount.Notes.md)
+- [登山寶訓 (馬太福音 5-7 章)](40-Matthew/SM-Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
 - [腓立比書](50-Philippians/Philippians-Notes.md)

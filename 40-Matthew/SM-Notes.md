@@ -3,12 +3,13 @@
 ## 馬太福音 5-7 章希臘文筆記
 
 ### 經文閱讀
-- [Sermon on the Mount Interlinear](SM-4lines.md)
+- [Sermon on the Mount 四行 Interlinear](SM-4lines.md)
+- [Sermon on the Mount 三行 Interlinear](SM-3lines.md)
+- [Sermon on the Mount 2.5行 Interlinear](SM-2.5lines.md)
 
 ### 句法圖析
 
-- 前言 (Mat 4:23-5:16)
-	- [Ministering to a Great Multitude (Mat 4:23-25)](Mat.4.23-25.md)
+- 前言 (Mat 5:1-16)
 	- [The Sermon on the Mount (Mat 5:1-2)](Mat.5.1-2.md)
 	- [The Beatitudes (Mat 5:3-12)](Mat.5.3-12.md)
 	- [Salt and Light (Mat 5:13-16)](Mat.5.13-16.md)
