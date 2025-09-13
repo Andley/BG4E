@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-3lines.md",
+                "file": "40-Matthew/SM-2.5lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-3lines"
+              "title": "SM-2.5lines"
             },
             "group": "861e5293ba844ca1"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-3lines.md",
+                "file": "40-Matthew/SM-2.5lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-3lines"
+              "title": "SM-2.5lines"
             },
             "group": "861e5293ba844ca1"
           }
@@ -190,9 +190,9 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
-    "40-Matthew/SM-4lines.md",
     "40-Matthew/SM-3lines.md",
     "40-Matthew/SM-2.5lines.md",
+    "40-Matthew/SM-4lines.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",

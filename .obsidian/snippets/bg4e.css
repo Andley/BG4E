@@ -38,6 +38,7 @@ rt {
   font-weight:normal;
   padding: 0 2px 0 0;
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
+  white-space: nowrap;
 } 
 
 li ruby {
