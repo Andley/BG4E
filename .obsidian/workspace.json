@@ -6,7 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
-        "dimension": 44.95073891625616,
+        "dimension": 52.31741573033708,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-4lines.md",
+                "file": "40-Matthew/SM-3lines.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-4lines"
+              "title": "SM-3lines"
             },
             "group": "861e5293ba844ca1"
           }
@@ -28,7 +28,7 @@
       {
         "id": "15cfc1369ebbeb09",
         "type": "tabs",
-        "dimension": 55.049261083743836,
+        "dimension": 47.68258426966292,
         "children": [
           {
             "id": "25e12496b3c18bcc",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/SM-4lines.md",
+                "file": "40-Matthew/SM-3lines.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SM-4lines"
+              "title": "SM-3lines"
             },
             "group": "861e5293ba844ca1"
           }
@@ -190,9 +190,9 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
-    "40-Matthew/SM-2.5lines.md",
-    "40-Matthew/SM-3lines.md",
     "40-Matthew/SM-4lines.md",
+    "40-Matthew/SM-3lines.md",
+    "40-Matthew/SM-2.5lines.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",
