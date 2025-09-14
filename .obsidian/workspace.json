@@ -6,7 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
-        "dimension": 50.42134831460674,
+        "dimension": 48.63266814486327,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -27,7 +27,7 @@
       {
         "id": "15cfc1369ebbeb09",
         "type": "tabs",
-        "dimension": 49.57865168539326,
+        "dimension": 51.36733185513673,
         "children": [
           {
             "id": "25e12496b3c18bcc",
@@ -187,15 +187,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c4a45d14d6ab1cb",
+  "active": "25e12496b3c18bcc",
   "lastOpenFiles": [
     "40-Matthew/SM-Notes.md",
-    "40-Matthew/SM-4lines.md",
-    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/SM-2.5lines.md",
     "40-Matthew/SM-3lines.md",
+    "40-Matthew/SM-4lines.md",
+    "40-Matthew/Mat.5.3-12.md",
+    "40-Matthew/Mat.4.23-25.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",
