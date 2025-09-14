@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.1-2"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.1-2.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.1-2"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -190,6 +191,7 @@
   "lastOpenFiles": [
     "40-Matthew/SM-Notes.md",
     "40-Matthew/SM-4lines.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.4.23-25.md",
     "40-Matthew/SM-2.5lines.md",
@@ -216,7 +218,6 @@
     "GDNTG/第2課.md",
     "BBG4E/HW/HW05.md",
     "BBG4E/HW/HW04.md",
-    "README.md",
     "KB_Greek_polytonic_Unicode.svg",
     "GDNTG",
     "BBG4E/HW-Macula",
