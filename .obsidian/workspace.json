@@ -6,7 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
-        "dimension": 48.63266814486327,
+        "dimension": 45.30672579453067,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第13課.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第13課"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "15cfc1369ebbeb09",
         "type": "tabs",
-        "dimension": 51.36733185513673,
+        "dimension": 54.69327420546933,
         "children": [
           {
             "id": "25e12496b3c18bcc",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第13課.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第13課"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -102,17 +102,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第13課.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第13課"
+              "title": "Outline of Mat.5.3-12"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +189,7 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
+    "GDNTG/GDNTG-Notes.md",
     "40-Matthew/Mat.5.3-12.md",
     "GDNTG/第13課.md",
     "40-Matthew/SM-Notes.md",
@@ -198,7 +198,6 @@
     "40-Matthew/SM-3lines.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.4.23-25.md",
-    "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG1.png",
     "GDNTG/GDNTG2.png",
     "GDNTG/Untitled 1.md",

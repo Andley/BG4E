@@ -159,7 +159,7 @@ Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. *Going Dee
 	- PRACTICE EXERCISES
 	- VOCABULARY
 	- READING THE NEW TESTAMENT
-- [第6課 動詞：概論、假設語氣、命令語氣 VERBS: OVERVIEW, SUBJUNCTIVES & IMPERATIVES](第6課.md)
+- [第6課 動詞：概論、<del>假設語氣</del> 語態、<del>命令</del> 語氣 VERBS: OVERVIEW, <del>SUBJUNCTIVES</del> VOICE & <del>IMPERATIVES</del> MOOD](第6課.md)
 	- GOING DEEPER
 	- CHAPTER OBJECTIVES
 	- 介紹 INTRODUCTION
