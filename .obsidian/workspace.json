@@ -6,7 +6,7 @@
       {
         "id": "19a42da1a7257e37",
         "type": "tabs",
-        "dimension": 45.30672579453067,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "2c4a45d14d6ab1cb",
@@ -14,33 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "GDNTG/第13課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.3-12"
-            }
-          }
-        ]
-      },
-      {
-        "id": "15cfc1369ebbeb09",
-        "type": "tabs",
-        "dimension": 54.69327420546933,
-        "children": [
-          {
-            "id": "25e12496b3c18bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mat.5.3-12"
+              "title": "第13課"
             }
           }
         ]
@@ -115,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -189,25 +167,10 @@
   },
   "active": "2c4a45d14d6ab1cb",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-Notes.md",
-    "40-Matthew/Mat.5.3-12.md",
-    "GDNTG/第13課.md",
-    "40-Matthew/SM-Notes.md",
-    "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/SM-2.5lines.md",
-    "40-Matthew/SM-3lines.md",
-    "40-Matthew/SM-4lines.md",
-    "40-Matthew/Mat.4.23-25.md",
-    "GDNTG/GDNTG1.png",
-    "GDNTG/GDNTG2.png",
-    "GDNTG/Untitled 1.md",
-    "GDNTG/Untitled.md",
-    "Greek Pedagogy.md",
-    "Pasted image 20250723100452.png",
-    "GDNTG/TOC.md",
     "GDNTG/第12課.md",
     "GDNTG/第11課.md",
     "GDNTG/第10課.md",
+    "GDNTG/GDNTG-Notes.md",
     "GDNTG/第9課.md",
     "GDNTG/第8課.md",
     "GDNTG/第7課.md",
@@ -216,8 +179,22 @@
     "GDNTG/第4課.md",
     "GDNTG/第3課.md",
     "GDNTG/第2課.md",
-    "BBG4E/HW/HW05.md",
-    "BBG4E/HW/HW04.md",
+    "GDNTG/第13課.md",
+    "GDNTG/GDNTG2.png",
+    "GDNTG/GDNTG1.png",
+    "GDNTG/§14.md",
+    "40-Matthew/Mat.5.3-12.md",
+    "40-Matthew/Mat.5.1-2.md",
+    "40-Matthew/SM-Notes.md",
+    "40-Matthew/SM-2.5lines.md",
+    "40-Matthew/SM-3lines.md",
+    "40-Matthew/SM-4lines.md",
+    "40-Matthew/Mat.4.23-25.md",
+    "GDNTG/Untitled 1.md",
+    "GDNTG/Untitled.md",
+    "Greek Pedagogy.md",
+    "Pasted image 20250723100452.png",
+    "GDNTG/TOC.md",
     "KB_Greek_polytonic_Unicode.svg",
     "GDNTG",
     "BBG4E/HW-Macula",
