@@ -11,11 +11,13 @@
 
 ## 全民希臘文：初階
 - [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
+
 ## 全民希臘文：句法
-- [Going Deeper with New Testament Greek 新約希臘文進深——例句 Interlinear](GDNTG/GDNTG-Notes.md) ⇐ 2025-09 更新
+
+- [Going Deeper with New Testament Greek 新約希臘文進深——例句 Interlinear](GDNTG/GDNTG-TOC.md) ⇐ 2025-09 更新
 - [全民希臘文句法](Syntax/Syntax.md)
 
-## 全民希臘文：新約句法筆記)
+## 全民希臘文：新約句法筆記
 - [登山寶訓 (馬太福音 5-7 章)](40-Matthew/SM-Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md)
 - [以弗所書](49-Ephesians/Ephesians-Notes%7CEphesians-Notes.md)
