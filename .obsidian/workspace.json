@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "GDNTG/第2課.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.3-12"
+              "title": "第2課"
             }
           }
         ]
@@ -108,13 +108,23 @@
               "icon": "lucide-list",
               "title": "Outline of Mat.5.3-12"
             }
+          },
+          {
+            "id": "07da177e76e63f32",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -181,7 +191,8 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "floating": {
@@ -225,8 +236,9 @@
   },
   "active": "f29beb1bfdbfe285",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.3-12.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/第2課.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.5.13-16.md",
     "40-Matthew/SM-4lines.md",
@@ -236,7 +248,6 @@
     "README.md",
     "Semantics/Idioms.md",
     "GDNTG/GDNTG-Notes.md",
-    "GDNTG/第2課.md",
     "GDNTG/第13課.md",
     "GDNTG/第12課.md",
     "GDNTG/第11課.md",

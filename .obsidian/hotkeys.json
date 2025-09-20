@@ -225,14 +225,6 @@
       "key": "P"
     }
   ],
-  "workspace:export-pdf": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "editor:open-search-replace": [
     {
       "modifiers": [
