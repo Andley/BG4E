@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第2課.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "第2課"
-            }
-          }
-        ]
-      },
-      {
-        "id": "484ab71994f27697",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8d27ed00f68d704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "GDNTG/第4課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.3-12"
+              "title": "第4課"
             }
           }
         ]
@@ -100,31 +80,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "GDNTG/第4課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mat.5.3-12"
-            }
-          },
-          {
-            "id": "07da177e76e63f32",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "title": "Outline of 第4課"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -229,15 +199,17 @@
         "y": 0,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 2
       }
     ]
   },
-  "active": "f29beb1bfdbfe285",
+  "active": "8852f6638c498419",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/第3課.md",
+    "GDNTG/第4課.md",
     "GDNTG/第2課.md",
+    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.5.13-16.md",
@@ -257,8 +229,6 @@
     "GDNTG/第7課.md",
     "GDNTG/第6課.md",
     "GDNTG/第5課.md",
-    "GDNTG/第4課.md",
-    "GDNTG/第3課.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "GDNTG/§14.md",
