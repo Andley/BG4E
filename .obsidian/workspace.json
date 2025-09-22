@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第4課.md",
+                "file": "GDNTG/第6課.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第4課"
+              "title": "第6課"
             }
           }
         ]
@@ -80,17 +80,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第4課.md",
+                "file": "GDNTG/第6課.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第4課"
+              "title": "Outline of 第6課"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,8 +160,7 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -204,10 +202,11 @@
       }
     ]
   },
-  "active": "8852f6638c498419",
+  "active": "f29beb1bfdbfe285",
   "lastOpenFiles": [
-    "GDNTG/第3課.md",
+    "GDNTG/第6課.md",
     "GDNTG/第4課.md",
+    "GDNTG/第3課.md",
     "GDNTG/第2課.md",
     "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.3-12.md",
@@ -227,7 +226,6 @@
     "GDNTG/第9課.md",
     "GDNTG/第8課.md",
     "GDNTG/第7課.md",
-    "GDNTG/第6課.md",
     "GDNTG/第5課.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
