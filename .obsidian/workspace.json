@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/第6課.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mat.5.13-16"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f04aab84058a977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757d732bea29ea4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第6課"
+              "title": "Mat.5.13-16"
             }
           }
         ]
@@ -80,17 +100,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/第6課.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第6課"
+              "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,15 +186,17 @@
   },
   "active": "d76f71e1aa798dba",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
+    "40-Matthew/Mat.5.21-26.md",
+    "40-Matthew/Mat.5.17-20.md",
+    "40-Matthew/SM-4lines.md",
+    "40-Matthew/Mat.5.13-16.md",
     "GDNTG/第6課.md",
+    "GDNTG/GDNTG-TOC.md",
     "GDNTG/第4課.md",
     "GDNTG/第3課.md",
     "GDNTG/第2課.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/Mat.5.13-16.md",
-    "40-Matthew/SM-4lines.md",
     "40-Matthew/SM-Notes.md",
     "BBG4E/BG4E 規劃.canvas",
     "Syntax/Syntax.md",
@@ -194,8 +215,6 @@
     "GDNTG/GDNTG1.png",
     "GDNTG/§14.md",
     "40-Matthew/SM-2.5lines.md",
-    "40-Matthew/SM-3lines.md",
-    "40-Matthew/Mat.4.23-25.md",
     "Pasted image 20250723100452.png",
     "KB_Greek_polytonic_Unicode.svg",
     "GDNTG",
