@@ -163,52 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "26fda70b9e8a98e7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "36eb0948db166148",
-        "type": "window",
-        "children": [
-          {
-            "id": "26c92a23cb60c3ff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f29beb1bfdbfe285",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GDNTG/GDNTG-TOC.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "GDNTG-TOC"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 128,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "f29beb1bfdbfe285",
+  "active": "d76f71e1aa798dba",
   "lastOpenFiles": [
+    "GDNTG/GDNTG-TOC.md",
     "GDNTG/第6課.md",
     "GDNTG/第4課.md",
     "GDNTG/第3課.md",
     "GDNTG/第2課.md",
-    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "40-Matthew/Mat.5.13-16.md",
