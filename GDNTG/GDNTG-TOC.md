@@ -387,10 +387,11 @@
 		- 12.5.1 對等連接詞 Coordinating Conjunctions
 		- 12.5.2 從屬連接詞 Subordinating Conjunctions
 	- 12.6 副詞 ADVERBS
-		- 12.6.1 副詞修飾動詞 Adverbs Modifying Verbs
-			- 12.6.1.1 副詞修飾直說語氣動詞 Adverbs Modifying Indicative Verbs
-			- 12.6.1.2 副詞修飾非直說語氣動詞 Adverbs Modifying Non-Indicative Verbs
-			- 12.6.1.3 副詞修飾副詞和形容詞 Adverbs Modifying Adverbs and Adjectives
+		- 12.6.1 副詞修飾什麼？ What Is the Adverb Modifying?
+			- 12.6.1.1 副詞修飾動詞 Adverbs Modifying Verbs
+			- 12.6.1.2 副詞修飾直說語氣動詞 Adverbs Modifying Indicative Verbs
+			- 12.6.1.3 副詞修飾非直說語氣動詞 Adverbs Modifying Non-Indicative Verbs
+			- 12.6.1.4 副詞修飾副詞和形容詞 Adverbs Modifying Adverbs and Adjectives
 		- 12.6.2 副詞有什麼功用？ How is the Adverb Functioning?
 			- 12.6.2.1 時間的副詞 (何時？) Adverbs of Time (When?)
 			- 12.6.2.2 強度或程度的副詞 (到何種程度？多少？) Adverbs of Intensity，或 Degree (To What Degree? How Much?)
