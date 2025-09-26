@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.17-20"
+              "title": "Mat.5.13-16"
             }
           }
         ]
@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.17-20"
+              "title": "Mat.5.13-16"
             }
           }
         ],
@@ -115,21 +115,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Matthew/Mat.5.17-20.md",
+                "file": "40-Matthew/Mat.5.13-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mat.5.17-20"
+              "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -201,10 +201,10 @@
   },
   "active": "757d732bea29ea4e",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
-    "GDNTG/第12課.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/第12課.md",
     "BBG4E/HW-Key/HW01-Key.md",
     "BBG4E/HW-Key/HW2-Key.md",
     "BBG4E/HW-Key/Untitled.md",
