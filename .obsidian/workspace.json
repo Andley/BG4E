@@ -109,12 +109,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,13 +184,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9cd9709b5d5371d",
+  "floating": {
+    "id": "ed82a96219de90f9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aeac62b6e4686afc",
+        "type": "window",
+        "children": [
+          {
+            "id": "fdda2de9770b0f95",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20a74f7305582067",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GDNTG/GDNTG-TOC.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "GDNTG-TOC"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "757d732bea29ea4e",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW01-Key.md",
+    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.21-26.md",
+    "BBG4E/HW-Key/HW01-Key.md",
     "40-Matthew/Mat.5.17-20.md",
     "40-Matthew/Mat.5.13-16.md",
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/第12課.md",
     "BBG4E/HW-Key/HW2-Key.md",
     "BBG4E/HW-Key/Untitled.md",
