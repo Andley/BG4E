@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW2-Key.md",
+                "file": "40-Matthew/SM-Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "SM-Notes"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW2-Key.md",
+                "file": "40-Matthew/SM-Notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW2-Key"
+              "title": "SM-Notes"
             }
           }
         ]
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757d732bea29ea4e",
+  "active": "c9cd9709b5d5371d",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW01-Key.md",
     "BBG4E/HW-Key/HW2-Key.md",
+    "40-Matthew/SM-Notes.md",
+    "BBG4E/HW-Key/HW01-Key.md",
     "BBG4E/HW/HW02.md",
     "40-Matthew/Mat.5.13-16.md",
     "BBG4E/§1.md",
@@ -206,7 +206,6 @@
     "GDNTG/第2課.md",
     "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
-    "40-Matthew/SM-Notes.md",
     "BBG4E/BG4E 規劃.canvas",
     "Syntax/Syntax.md",
     "README.md",
