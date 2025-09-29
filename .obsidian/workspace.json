@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.13-16.md",
+                "file": "BBG4E/HW-Key/HW2-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.13-16"
+              "title": "HW2-Key"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.13-16.md",
+                "file": "BBG4E/HW-Key/HW2-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.13-16"
+              "title": "HW2-Key"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -183,20 +184,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9cd9709b5d5371d",
+  "active": "757d732bea29ea4e",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.21-26.md",
-    "40-Matthew/Mat.5.13-16.md",
-    "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW01-Key.md",
+    "BBG4E/HW-Key/HW2-Key.md",
+    "BBG4E/HW/HW02.md",
+    "40-Matthew/Mat.5.13-16.md",
+    "BBG4E/§1.md",
+    "BBG4E/§2.md",
+    "40-Matthew/Mat.5.21-26.md",
+    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.17-20.md",
     "GDNTG/第12課.md",
-    "BBG4E/HW-Key/HW2-Key.md",
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW/HW01.md",
     "BBG4E/HW/HW03.md",
-    "BBG4E/HW/HW02.md",
-    "BBG4E/§1.md",
     "40-Matthew/SM-4lines.md",
     "GDNTG/第6課.md",
     "GDNTG/第4課.md",
@@ -211,7 +213,6 @@
     "Semantics/Idioms.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/第13課.md",
-    "GDNTG/第11課.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "Pasted image 20250723100452.png",
