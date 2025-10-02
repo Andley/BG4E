@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.33-37"
+              "title": "GDNTG-TOC"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "e88cbb15f26e4a03",
         "type": "tabs",
-        "dimension": 51.61943319838057,
+        "dimension": 51.61943319838056,
         "children": [
           {
             "id": "c9cd9709b5d5371d",
@@ -111,12 +111,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -188,15 +188,15 @@
   },
   "active": "757d732bea29ea4e",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.33-37.md",
+    "GDNTG/GDNTG-TOC.md",
+    "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.5.13-16.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "40-Matthew/SM-Notes.md",
-    "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW01-Key.md",
     "BBG4E/HW/HW02.md",
     "BBG4E/§1.md",
