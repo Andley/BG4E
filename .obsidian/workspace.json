@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "5f04aab84058a977",
-        "type": "tabs",
-        "dimension": 48.38056680161944,
-        "children": [
-          {
-            "id": "757d732bea29ea4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDNTG-TOC"
-            }
-          }
-        ]
-      },
-      {
         "id": "e88cbb15f26e4a03",
         "type": "tabs",
-        "dimension": 51.61943319838056,
         "children": [
           {
             "id": "c9cd9709b5d5371d",
@@ -35,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
-                "mode": "preview",
+                "file": "40-Matthew/Mat.5.13-16.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.33-37"
+              "title": "Mat.5.13-16"
             }
           }
         ]
@@ -111,12 +89,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757d732bea29ea4e",
+  "active": "c9cd9709b5d5371d",
   "lastOpenFiles": [
     "40-Matthew/Mat.5.33-37.md",
     "GDNTG/GDNTG-TOC.md",
