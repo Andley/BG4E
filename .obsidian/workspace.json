@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.13-16.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.13-16"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.13-16.md",
+                "file": "40-Matthew/Mat.5.3-12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.13-16"
+              "title": "Mat.5.3-12"
             }
           }
         ]
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,13 +185,14 @@
   },
   "active": "0f15fa10e492f70b",
   "lastOpenFiles": [
+    "40-Matthew/Mat.5.13-16.md",
+    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.33-37.md",
     "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/SM-4lines.md",
-    "40-Matthew/Mat.5.13-16.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "40-Matthew/SM-Notes.md",
     "BBG4E/HW-Key/HW01-Key.md",
@@ -208,7 +208,6 @@
     "GDNTG/第4課.md",
     "GDNTG/第3課.md",
     "GDNTG/第2課.md",
-    "40-Matthew/Mat.5.3-12.md",
     "40-Matthew/Mat.5.1-2.md",
     "BBG4E/BG4E 規劃.canvas",
     "Syntax/Syntax.md",
