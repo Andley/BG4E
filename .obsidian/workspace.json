@@ -6,19 +6,20 @@
       {
         "id": "e88cbb15f26e4a03",
         "type": "tabs",
+        "dimension": 49.889135254988915,
         "children": [
           {
-            "id": "c9cd9709b5d5371d",
+            "id": "e1e63150156c5b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "BBG4E/HW-Key/HW02-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.3-12"
+              "title": "HW02-Key"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "45f2c7bbcdda9508",
         "type": "tabs",
+        "dimension": 50.110864745011085,
         "children": [
           {
             "id": "0f15fa10e492f70b",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.3-12.md",
+                "file": "BBG4E/HW-Key/HW02-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.3-12"
+              "title": "HW02-Key"
             }
           }
         ]
@@ -113,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -183,17 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f15fa10e492f70b",
+  "active": "e1e63150156c5b3c",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.13-16.md",
-    "40-Matthew/Mat.5.3-12.md",
-    "40-Matthew/Mat.5.33-37.md",
+    "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "42-Luke/Untitled.md",
     "GDNTG/GDNTG-TOC.md",
+    "40-Matthew/Mat.5.3-12.md",
+    "42-Luke/Luk.1.5-26.md",
+    "40-Matthew/Mat.5.13-16.md",
+    "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/SM-4lines.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "40-Matthew/SM-Notes.md",
     "BBG4E/HW-Key/HW01-Key.md",
     "BBG4E/HW/HW02.md",
@@ -208,10 +214,7 @@
     "GDNTG/第4課.md",
     "GDNTG/第3課.md",
     "GDNTG/第2課.md",
-    "40-Matthew/Mat.5.1-2.md",
     "BBG4E/BG4E 規劃.canvas",
-    "Syntax/Syntax.md",
-    "README.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "Pasted image 20250723100452.png",
