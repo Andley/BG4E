@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
+                "file": "40-Matthew/Mat.5.38-42.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.33-37"
+              "title": "Mat.5.38-42"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.33-37.md",
+                "file": "40-Matthew/Mat.5.38-42.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.33-37"
+              "title": "Mat.5.38-42"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "e1e63150156c5b3c",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.33-37.md",
+    "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.43-48.md",
