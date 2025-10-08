@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.38-42"
+              "title": "GDNTG-TOC"
             }
           }
         ]
@@ -109,12 +109,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,10 +184,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1e63150156c5b3c",
+  "floating": {
+    "id": "9d02575815759328",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af5f8a34599852d8",
+        "type": "window",
+        "children": [
+          {
+            "id": "5de61b54e9c7cb6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "76529a3138d5e4eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GDNTG/GDNTG-TOC.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "GDNTG-TOC"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "76529a3138d5e4eb",
   "lastOpenFiles": [
-    "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.38-42.md",
+    "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
     "40-Matthew/Mat.5.43-48.md",
