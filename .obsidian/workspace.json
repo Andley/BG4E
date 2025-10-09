@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "40-Matthew/Mat.5.43-48.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-TOC"
+              "title": "Mat.5.43-48"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.5.38-42.md",
+                "file": "40-Matthew/Mat.5.43-48.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.5.38-42"
+              "title": "Mat.5.43-48"
             }
           }
         ]
@@ -109,12 +109,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -226,10 +226,11 @@
   "active": "76529a3138d5e4eb",
   "lastOpenFiles": [
     "40-Matthew/Mat.5.38-42.md",
+    "40-Matthew/Mat.5.43-48.md",
+    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.33-37.md",
     "40-Matthew/Mat.5.31-32.md",
     "40-Matthew/Mat.5.27-30.md",
-    "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.21-26.md",
     "40-Matthew/SM-4lines.md",
     "BBG4E/HW-Key/HW03-Key.md",
@@ -246,7 +247,6 @@
     "BBG4E/HW-Key/HW02-Key.md",
     "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
     "42-Luke/Untitled.md",
-    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.5.3-12.md",
     "42-Luke/Luk.1.5-26.md",
     "40-Matthew/Mat.5.13-16.md",
