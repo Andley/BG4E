@@ -105,9 +105,9 @@ html, body, p, li {
 }
 
 /* --------------------------------------------   */
-.verb { color: var(--color1); }
-.ptc  { color: var(--color2); }
-.inf  { color: var(--color3); }
+.verb { color: red; }
+.ptc  { color: blue; }
+.inf  { color: green; }
 .punctuation { font-weight:bolder;}
 .poetry::before {content:'\a                 '; white-space: pre;}
 .paragraph::after {content:'\a          '; white-space: pre;}

@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -205,6 +204,7 @@
   "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter10.md",
     "README.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/Cahpter08.md",
@@ -229,7 +229,6 @@
     "BBG4E/HW-Key/HW5-Key.md",
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
-    "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
