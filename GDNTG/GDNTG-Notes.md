@@ -18,8 +18,6 @@
 	- 1.8 READING THE NEW TESTAMENT
 - [2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES](Chapter02.md)
 	- 2.1 希臘文的格系統 THE GREEK CASE SYSTEM
-	- [[Chapter13#13.1 GOING DEEPER]]
-	- [第13課#13.1 GOING DEEPER](Chapter13.md#13.1%20GOING%20DEEPER.md)
 	- 2.2 主格 NOMINATIVE
 		- 2.2.1 主要用法 Major Uses
 			- 2.2.1.1 主詞 Subject
@@ -47,7 +45,7 @@
 	- 2.6 PRACTICE EXERCISES
 	- 2.7 VOCABULARY
 	- 2.8 READING THE NEW TESTAMENT
-- 3 所有格 GENITIVE CASE
+- [3 所有格 GENITIVE CASE](Chapter03.md)
 	- 3.1 介紹所有格 INTRODUCTION TO THE GENITIVE CASE
 	- 3.2 形容詞用法 ADJECTIVAL USE
 		- 3.2.1 描述的 Description
@@ -81,7 +79,7 @@
 	- 3.7 PRACTICE EXERCISES
 	- 3.8 VOCABULARY
 	- 3.9 READING THE NEW TESTAMENT
-- 4 間接受格 DATIVE CASE
+- [4 間接受格 DATIVE CASE](Chapter4.md)
 	- 4.1 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
 	- 4.2 單純間接受格 PURE DATIVE
 		- 4.2.1 作間接受詞的 Indirect Object
@@ -108,7 +106,7 @@
 	- 4.7 PRACTICE EXERCISES
 	- 4.8 VOCABULARY
 	- 4.9 READING THE NEW TESTAMENT
-- 5 冠詞與形容詞 THE ARTICLE & ADJECTIVE
+- [5 冠詞與形容詞 THE ARTICLE & ADJECTIVE
 	- 5.1 冠詞 THE ARTICLE
 		- 5.1.1 介紹冠詞 Introduction to the Article
 		- 5.1.2 冠詞帶實名詞 The Article with Substantives

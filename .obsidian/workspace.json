@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f349c2a741ae10de",
-        "type": "tabs",
-        "dimension": 37.52166377816291,
-        "children": [
-          {
-            "id": "dfc680c994c5ac93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Cahpter08.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cahpter08"
-            }
-          }
-        ]
-      },
-      {
         "id": "a881574871396a30",
         "type": "tabs",
-        "dimension": 62.47833622183708,
         "children": [
           {
             "id": "d5af03361f02a6b4",
@@ -35,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Cahpter08.md",
-                "mode": "preview",
+                "file": "GDNTG/GDNTG-Notes.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cahpter08"
+              "title": "GDNTG-Notes"
             }
           }
         ]
@@ -131,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBG4E/HW-Key/HW9-Key.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HW9-Key"
+              "title": "Backlinks for GDNTG-TOC"
             }
           },
           {
@@ -166,13 +144,11 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +202,10 @@
   },
   "active": "76529a3138d5e4eb",
   "lastOpenFiles": [
-    "GDNTG/Cahpter08.md",
+    "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Cahpter08.md",
+    "GDNTG/Chapter13.md",
     "GDNTG/Chapter02.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "40-Matthew/Mat.5.43-48.md",
@@ -250,8 +228,6 @@
     "BBG4E/HW-Key/HW02-Key.md",
     "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
     "42-Luke/Untitled.md",
-    "40-Matthew/Mat.5.3-12.md",
-    "42-Luke/Luk.1.5-26.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
