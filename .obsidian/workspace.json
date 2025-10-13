@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-Notes.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-Notes"
+              "title": "GDNTG-TOC"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDNTG/GDNTG-Notes.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GDNTG-Notes"
+              "title": "Backlinks for GDNTG-TOC"
             }
           },
           {
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +203,7 @@
   },
   "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
+    "README.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/Cahpter08.md",
@@ -227,7 +229,6 @@
     "BBG4E/HW-Key/HW4-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "42-Luke/Sermon on the Plain (Luke 6.20b-26).md",
-    "42-Luke/Untitled.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
