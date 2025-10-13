@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
-                "mode": "source",
+                "file": "GDNTG/Chapter10.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-TOC"
+              "title": "Chapter10"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "GDNTG/Chapter10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GDNTG-TOC"
+              "title": "Backlinks for Chapter10"
             }
           },
           {
@@ -181,7 +182,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "GDNTG/GDNTG-TOC.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -203,8 +204,8 @@
   },
   "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
-    "README.md",
     "GDNTG/GDNTG-TOC.md",
+    "README.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/Cahpter08.md",
     "GDNTG/Chapter13.md",
