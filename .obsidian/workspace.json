@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e88cbb15f26e4a03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e1e63150156c5b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW03-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW03-Key"
-            }
-          }
-        ]
-      },
-      {
         "id": "f349c2a741ae10de",
         "type": "tabs",
+        "dimension": 37.52166377816291,
         "children": [
           {
             "id": "dfc680c994c5ac93",
@@ -33,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW03-Key.md",
+                "file": "GDNTG/Cahpter08.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW03-Key"
+              "title": "Cahpter08"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a881574871396a30",
+        "type": "tabs",
+        "dimension": 62.47833622183708,
+        "children": [
+          {
+            "id": "d5af03361f02a6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Cahpter08.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cahpter08"
             }
           }
         ]
@@ -113,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -218,14 +219,16 @@
         "y": 0,
         "width": 1024,
         "height": 800,
-        "maximize": false,
+        "maximize": true,
         "zoom": 2.5
       }
     ]
   },
   "active": "76529a3138d5e4eb",
   "lastOpenFiles": [
+    "GDNTG/Cahpter08.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter02.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
@@ -249,8 +252,6 @@
     "42-Luke/Untitled.md",
     "40-Matthew/Mat.5.3-12.md",
     "42-Luke/Luk.1.5-26.md",
-    "40-Matthew/Mat.5.13-16.md",
-    "40-Matthew/SM-Notes.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",

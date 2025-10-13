@@ -16,7 +16,7 @@
 	- 1.6 PRACTICE EXERCISES
 	- 1.7 VOCABULARY
 	- 1.8 READING THE NEW TESTAMENT
-- [2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES](%E7%AC%AC2%E8%AA%B2.md)
+- [2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES](Chapter02.md)
 	- 2.1 希臘文的格系統 THE GREEK CASE SYSTEM
 	- 2.2 主格 NOMINATIVE
 		- 2.2.1 主要用法 Major Uses
@@ -154,9 +154,11 @@
 	- 5.6 VOCABULARY
 	- 5.7 READING THE NEW TESTAMENT
 - 6 動詞：概論、語態 & 語氣 VERBS: OVERVIEW, VOICE & MOOD
-	- 6.1 介紹 INTRODUCTION
-	- 6.2 人稱與數 PERSON & NUMBER
-	- 6.3 語態 VOICE
+	- 6.1 GOING DEEPER
+	- 6.2 CHAPTER OBJECTIVES
+	- 6.3 介紹 INTRODUCTION
+	- 6.4 人稱與數 PERSON & NUMBER
+	- 6.5 語態 VOICE
 		- 6.3.1 主動語態 Active Voice
 			- 6.3.1.1 簡單主動 Simple Active
 			- 6.3.1.2 使役主動 Causative Active
@@ -170,7 +172,7 @@
 			- 6.3.3.1 簡單被動 Simple Passive
 			- 6.3.3.2 允許被動 Permissive Passive
 			- 6.3.3.3 被動形主動意 Deponent Passive
-	- 6.4 語氣 Mood
+	- 6.6 語氣 Mood
 		- 6.4.1 直說語氣 Indicative Mood
 			- 6.4.1.1 明言的直說語氣 Declarative Mood
 			- 6.4.1.2 疑問的直說語氣 Interrogative Indicative
@@ -198,10 +200,10 @@
 			- 6.4.4.4 允許的命令語氣 Permissive Imperative
 			- 6.4.4.5 條件的命令語氣 Conditional Imperative
 			- 6.4.4.6 問候 Greeting
-	- 6.5 時態與觀點 TENSE & ASPECT
-	- 6.6 SUMMARY
-	- 6.7 PRACTICE EXERCISES
-	- 6.8 VOCABULARY
+	- 6.7 時態與觀點 TENSE & ASPECT
+	- 6.8 SUMMARY
+	- 6.9 PRACTICE EXERCISES
+	- 6.10 VOCABULARY
 	- 6.9 READING THE NEW TESTAMENT
 - 7 時態與動詞觀點 TENSE & VERBAL ASPECT
 	- 7.1 GOING DEEPER
