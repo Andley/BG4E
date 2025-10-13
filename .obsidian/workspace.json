@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -203,8 +204,8 @@
   },
   "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter10.md",
+    "GDNTG/GDNTG-TOC.md",
     "README.md",
     "GDNTG/GDNTG-Notes.md",
     "GDNTG/Cahpter08.md",
