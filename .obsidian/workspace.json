@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "GDNTG/GDNTG-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GDNTG-TOC"
+              "title": "Backlinks for GDNTG-Notes"
             }
           },
           {
@@ -200,10 +200,10 @@
       }
     ]
   },
-  "active": "76529a3138d5e4eb",
+  "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-Notes.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/GDNTG-Notes.md",
     "GDNTG/Cahpter08.md",
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter02.md",

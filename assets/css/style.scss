@@ -33,7 +33,6 @@ html, body, p, li {
   ruby {
     font-size: 13pt ; 
     ruby-align:start;
-    font-weight: bold;
     line-height:5em;
     padding: 0 0.1em 0 0px;
     font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
@@ -41,7 +40,6 @@ html, body, p, li {
   
   rt {
     font-size: 0.8em ; 
-    font-size: 11pt ; 
     font-weight:normal;
     padding: 0 0.1em 0 0;
     font-family: "Gentium Book Plus", "Noto Serif Hebrew", sans-serif;
@@ -106,17 +104,14 @@ html, body, p, li {
     margin-top: -115px;
 }
 
-  /* text decoration for marking syntax functions */
-  mark {
-    &.poetry::before {content:'\a                 '; white-space: pre;}
-    &.poetry {background-color: transparent;}
-    &.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
-    &.punctuation {background-color: transparent; font-weight:bolder;}
-  
-    &.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-    &.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-    &.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
-  }
+/* --------------------------------------------   */
+.verb { color: var(--color1); }
+.ptc  { color: var(--color2); }
+.inf  { color: var(--color3); }
+.punctuation { font-weight:bolder;}
+.poetry::before {content:'\a                 '; white-space: pre;}
+.paragraph::after {content:'\a          '; white-space: pre;}
+/* --------------------------------------------   */
 
 
 /* BULLET POINT RELATIONSHIP LINES */
