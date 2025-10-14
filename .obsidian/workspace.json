@@ -13,13 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter10.md",
+                "file": "GDNTG/Chapter13.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter13"
+            },
+            "group": "0bbdd08bc9d9edd3"
+          }
+        ]
+      },
+      {
+        "id": "6a7910e8bcefda32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aac4219242788fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter13.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter10"
-            }
+              "title": "Chapter13"
+            },
+            "group": "0bbdd08bc9d9edd3"
           }
         ]
       }
@@ -197,19 +219,28 @@
         "width": 1024,
         "height": 800,
         "maximize": true,
-        "zoom": 2.5
+        "zoom": 1
       }
     ]
   },
-  "active": "323a10775016a71f",
+  "active": "d5af03361f02a6b4",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter12.md",
+    "GDNTG/Chapter11.md",
     "GDNTG/Chapter10.md",
+    "GDNTG/Chapter09.md",
+    "GDNTG/Chapter08.md",
+    "GDNTG/Chapter07.md",
+    "GDNTG/Chapter06.md",
+    "GDNTG/Chapter05.md",
+    "GDNTG/Chapter04.md",
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter02.md",
+    "GDNTG/Chapter13.md",
+    "GDNTG/§14.md",
+    "GDNTG/GDNTG-TOC.md",
     "README.md",
     "GDNTG/GDNTG-Notes.md",
-    "GDNTG/Chapter08.md",
-    "GDNTG/Chapter13.md",
-    "GDNTG/Chapter02.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
@@ -220,15 +251,6 @@
     "40-Matthew/SM-4lines.md",
     "BBG4E/HW/HW03.md",
     "BBG4E/HW/HW08.md",
-    "BBG4E/HW-Key/HW10-Key.md",
-    "BBG4E/HW-Key/HW8-Key.md",
-    "BBG4E/HW/HW07.md",
-    "BBG4E/HW/HW06.md",
-    "BBG4E/HW/HW05.md",
-    "BBG4E/HW/HW04.md",
-    "BBG4E/HW-Key/HW5-Key.md",
-    "BBG4E/HW-Key/HW4-Key.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",

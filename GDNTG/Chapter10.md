@@ -1,6 +1,11 @@
 ---
 number headings: auto, first-level 1, start-at 10
 ---
+
+```table-of-contents
+```
+
+
 # 10 分詞 PARTICIPLES
 
 ## 10.1 GOING DEEPER

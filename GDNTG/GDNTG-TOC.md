@@ -46,39 +46,41 @@
 	- 2.7 VOCABULARY
 	- 2.8 READING THE NEW TESTAMENT
 - [3 所有格 GENITIVE CASE](Chapter03.md)
-	- 3.1 介紹所有格 INTRODUCTION TO THE GENITIVE CASE
-	- 3.2 形容詞用法 ADJECTIVAL USE
-		- 3.2.1 描述的 Description
-		- 3.2.2 表達屬性的 Attributive
-		- 3.2.3 擁有的 Possession
-		- 3.2.4 親屬關係的 Relationship
-		- 3.2.5 來源的 Source
-		- 3.2.6 材料或內容的 Material or Content
-			- 3.2.6.1 材料的 Material
-			- 3.2.6.2 內容的 Content
-		- 3.2.7 部分的 Partitive
-	- 3.3 動詞用法 VERBAL USE
-		- 3.3.1 主詞所有格 Subjective Genitive
-		- 3.3.2 受詞所有格 Objective Genitive
-	- 3.4 副詞用法 ADVERBIAL USE
-		- 3.4.1 時間或地方 Time or Place
-			- 3.4.1.1 時間的 Time
-			- 3.4.1.2 地方的 Place
-		- 3.4.2 隔開的 Separation
-		- 3.4.3 途徑或動作者的 Means or Agency
-			- 3.4.3.1 途徑的 Means
-			- 3.4.3.2 動作者的 Agency
-		- 3.4.4 比較的 Comparison
-		- 3.4.5 價錢的 Price
-	- 3.5 其他用法 OTHER USES
-		- 3.5.1 同位句型的 Apposition
-			- 3.5.1.1 單純同位句型的 Simple Apposition
-			- 3.5.1.2 附加說明的 Epexegetical
-		- 3.5.2 作直接受詞的 Direct Object
-	- 3.6 SUMMARY
-	- 3.7 PRACTICE EXERCISES
-	- 3.8 VOCABULARY
-	- 3.9 READING THE NEW TESTAMENT
+	- [3.1 GOING DEEPER](Chapter03#3.1%20GOING%20DEEPER)
+	- [3.2 CHAPTER OBJECTIVES](Chapter03#3.2%20CHAPTER%20OBJECTIVES)
+	- [3.3 介紹所有格 INTRODUCTION TO THE GENITIVE CASE](Chapter03#3.3%20%E4%BB%8B%E7%B4%B9%E6%89%80%E6%9C%89%E6%A0%BC%20INTRODUCTION%20TO%20THE%20GENITIVE%20CASE)
+	- [3.4 形容詞用法 ADJECTIVAL USE](Chapter03#3.4%20%E5%BD%A2%E5%AE%B9%E8%A9%9E%E7%94%A8%E6%B3%95%20ADJECTIVAL%20USE)
+		- [3.4.1 描述的 Description](Chapter03#3.4.1%20%E6%8F%8F%E8%BF%B0%E7%9A%84%20Description)
+		- [3.4.2 表達屬性的 Attributive](Chapter03#3.4.2%20%E8%A1%A8%E9%81%94%E5%B1%AC%E6%80%A7%E7%9A%84%20Attributive)
+		- [3.4.3 擁有的 Possession](Chapter03#3.4.3%20%E6%93%81%E6%9C%89%E7%9A%84%20Possession)
+		- [3.4.4 親屬關係的 Relationship](Chapter03#3.4.4%20%E8%A6%AA%E5%B1%AC%E9%97%9C%E4%BF%82%E7%9A%84%20Relationship)
+		- [3.4.5 來源的 Source](Chapter03#3.4.5%20%E4%BE%86%E6%BA%90%E7%9A%84%20Source)
+		- [3.4.6 材料或內容的 Material or Content](Chapter03#3.4.6%20%E6%9D%90%E6%96%99%E6%88%96%E5%85%A7%E5%AE%B9%E7%9A%84%20Material%20or%20Content)
+			- [3.4.6.1 材料的 Material](Chapter03#3.4.6.1%20%E6%9D%90%E6%96%99%E7%9A%84%20Material)
+			- [3.4.6.2 內容的 Content](Chapter03#3.4.6.2%20%E5%85%A7%E5%AE%B9%E7%9A%84%20Content)
+		- [3.4.7 部分的 Partitive](Chapter03#3.4.7%20%E9%83%A8%E5%88%86%E7%9A%84%20Partitive)
+	- [3.5 動詞用法 VERBAL USE](Chapter03#3.5%20%E5%8B%95%E8%A9%9E%E7%94%A8%E6%B3%95%20VERBAL%20USE)
+		- [3.5.1 主詞所有格 Subjective Genitive](Chapter03#3.5.1%20%E4%B8%BB%E8%A9%9E%E6%89%80%E6%9C%89%E6%A0%BC%20Subjective%20Genitive)
+		- [3.5.2 受詞所有格 Objective Genitive](Chapter03#3.5.2%20%E5%8F%97%E8%A9%9E%E6%89%80%E6%9C%89%E6%A0%BC%20Objective%20Genitive)
+	- [3.6 副詞用法 ADVERBIAL USE](Chapter03#3.6%20%E5%89%AF%E8%A9%9E%E7%94%A8%E6%B3%95%20ADVERBIAL%20USE)
+		- [3.6.1 時間或地方 Time or Place](Chapter03#3.6.1%20%E6%99%82%E9%96%93%E6%88%96%E5%9C%B0%E6%96%B9%20Time%20or%20Place)
+			- [3.6.1.1 時間的 Time](Chapter03#3.6.1.1%20%E6%99%82%E9%96%93%E7%9A%84%20Time)
+			- [3.6.1.2 地方的 Place](Chapter03#3.6.1.2%20%E5%9C%B0%E6%96%B9%E7%9A%84%20Place)
+		- [3.6.2 隔開的 Separation](Chapter03#3.6.2%20%E9%9A%94%E9%96%8B%E7%9A%84%20Separation)
+		- [3.6.3 途徑或動作者的 Means or Agency](Chapter03#3.6.3%20%E9%80%94%E5%BE%91%E6%88%96%E5%8B%95%E4%BD%9C%E8%80%85%E7%9A%84%20Means%20or%20Agency)
+			- [3.6.3.1 途徑的 Means](Chapter03#3.6.3.1%20%E9%80%94%E5%BE%91%E7%9A%84%20Means)
+			- [3.6.3.2 動作者的 Agency](Chapter03#3.6.3.2%20%E5%8B%95%E4%BD%9C%E8%80%85%E7%9A%84%20Agency)
+		- [3.6.4 比較的 Comparison](Chapter03#3.6.4%20%E6%AF%94%E8%BC%83%E7%9A%84%20Comparison)
+		- [3.6.5 價錢的 Price](Chapter03#3.6.5%20%E5%83%B9%E9%8C%A2%E7%9A%84%20Price)
+	- [3.7 其他用法 OTHER USES](Chapter03#3.7%20%E5%85%B6%E4%BB%96%E7%94%A8%E6%B3%95%20OTHER%20USES)
+		- [3.7.1 同位句型的 Apposition](Chapter03#3.7.1%20%E5%90%8C%E4%BD%8D%E5%8F%A5%E5%9E%8B%E7%9A%84%20Apposition)
+			- [3.7.1.1 單純同位句型的 Simple Apposition](Chapter03#3.7.1.1%20%E5%96%AE%E7%B4%94%E5%90%8C%E4%BD%8D%E5%8F%A5%E5%9E%8B%E7%9A%84%20Simple%20Apposition)
+			- [3.7.1.2 附加說明的 Epexegetical](Chapter03#3.7.1.2%20%E9%99%84%E5%8A%A0%E8%AA%AA%E6%98%8E%E7%9A%84%20Epexegetical)
+		- [3.7.2 作直接受詞的 Direct Object](Chapter03#3.7.2%20%E4%BD%9C%E7%9B%B4%E6%8E%A5%E5%8F%97%E8%A9%9E%E7%9A%84%20Direct%20Object)
+	- [3.8 SUMMARY](Chapter03#3.8%20SUMMARY)
+	- [3.9 PRACTICE EXERCISES](Chapter03#3.9%20PRACTICE%20EXERCISES)
+	- [3.10 VOCABULARY](Chapter03#3.10%20VOCABULARY)
+	- [3.11 READING THE NEW TESTAMENT](Chapter03#3.11%20READING%20THE%20NEW%20TESTAMENT)
 - [4 間接受格 DATIVE CASE](Chapter04.md)
 	- 4.1 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
 	- 4.2 單純間接受格 PURE DATIVE

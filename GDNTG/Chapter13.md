@@ -1,6 +1,11 @@
 ---
 number headings: auto, first-level 1, start-at 13
 ---
+
+
+```table-of-contents
+```
+
 # 13 句子、圖析、論述分析 SENTENCES, DIAGRAMMING & DISCOURSE ANALYSIS
 
 ## 13.1 GOING DEEPER

@@ -1,6 +1,11 @@
 ---
 number headings: auto, first-level 1, start-at 9
 ---
+
+
+```table-of-contents
+```
+
 # 9 不定過去式、現在完成式、過去成式之直說語氣AORIST, PERFECT & PLUPERFECT INDICATIVES
 
 ## 9.1 GOING DEEPER

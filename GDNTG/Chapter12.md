@@ -2,6 +2,11 @@
 number headings: auto, first-level 1, start-at 12
 ---
 
+
+
+```table-of-contents
+```
+
 # 12 代名詞、介詞、連接詞、副詞、語助詞 PRONOUNS, PREPOSITIONS, CONJUNCTIONS, ADVERBS & PARTICLES
 
 

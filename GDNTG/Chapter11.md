@@ -1,6 +1,11 @@
 ---
 number headings: auto, first-level 1, start-at 11
 ---
+
+
+```table-of-contents
+```
+
 # 11 不定詞 INFINITIVES
 
 ## 11.1 GOING DEEPER
