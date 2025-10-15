@@ -11,10 +11,14 @@
             "id": "c273880a33cba915",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter10.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter10"
             }
           }
         ]
@@ -158,47 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "9d02575815759328",
-    "type": "floating",
-    "children": [
-      {
-        "id": "af5f8a34599852d8",
-        "type": "window",
-        "children": [
-          {
-            "id": "5de61b54e9c7cb6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "76529a3138d5e4eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GDNTG/GDNTG-TOC.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "GDNTG-TOC"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 128,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "76529a3138d5e4eb",
+  "active": "c273880a33cba915",
   "lastOpenFiles": [
+    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter05.md",
@@ -213,7 +179,6 @@
     "GDNTG/Untitled 1.md",
     "GDNTG/Untitled.md",
     "GDNTG/Untitled 8.md",
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Untitled 7.md",
     "GDNTG/Untitled 6.md",
     "GDNTG/Untitled 5.md",
