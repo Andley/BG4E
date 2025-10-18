@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Key/HW03-Key.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.1-4"
+              "title": "HW03-Key"
             }
           }
         ]
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,8 +184,8 @@
   },
   "active": "c273880a33cba915",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
