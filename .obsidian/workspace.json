@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW03-Key.md",
-                "mode": "preview",
+                "file": "BBG4E/HW-Key/HW04-Key.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW03-Key"
+              "title": "HW04-Key"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "BBG4E/HW-Key/HW04-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.1-4"
+              "title": "HW04-Key"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,7 +185,22 @@
   },
   "active": "c273880a33cba915",
   "lastOpenFiles": [
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW01-Key.md",
+    "BBG4E/HW-Key/HW04-Key.md",
     "40-Matthew/Mat.6.1-4.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
+    "BBG4E/HW-Key/HW6-Key.md",
+    "BBG4E/HW-Key/HW5-Key.md",
+    "BBG4E/HW/HW07.md",
+    "BBG4E/HW/HW06.md",
+    "BBG4E/HW/HW05.md",
+    "BBG4E/HW/HW04.md",
+    "BBG4E/HW/HW03.md",
     "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.5.43-48.md",
@@ -195,22 +211,7 @@
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter05.md",
-    "GDNTG/Chapter08.md",
-    "GDNTG/Chapter09.md",
-    "GDNTG/Chapter11.md",
-    "GDNTG/Chapter12.md",
     "KB_Greek_polytonic_Unicode.svg",
-    "Untitled.md",
-    "GDNTG/Chapter13.md",
-    "GDNTG/Untitled 1.md",
-    "GDNTG/Untitled.md",
-    "GDNTG/Untitled 8.md",
-    "GDNTG/Untitled 7.md",
-    "GDNTG/Untitled 6.md",
-    "GDNTG/Untitled 5.md",
-    "GDNTG/Untitled 4.md",
-    "GDNTG/Untitled 3.md",
-    "GDNTG/Untitled 2.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",

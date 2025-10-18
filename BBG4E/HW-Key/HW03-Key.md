@@ -1,4 +1,4 @@
-## HW03 (約一1.5–9) 句法圖析
+# HW03 (約一 1:5–9) 句法圖析
 
 
 - 1:5a <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἔστιν</span><rt>是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P[^1] (<RUBY><ruby><ruby>αὕτη<rt>這 this</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03778&m='>οὗτος</a></rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἡ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>信息 message</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00031&m='>ἀγγελία</a></rt></ruby><rt>N-NSF</rt></RUBY>)C°¹ 
