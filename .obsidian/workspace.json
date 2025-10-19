@@ -13,32 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW04-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW04-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d4417c54833536b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "736b92b86857fc1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW04-Key.md",
+                "file": "58-Hebrews/Heb.5.11-6.12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW04-Key"
+              "title": "Heb.5.11-6.12"
+            }
+          },
+          {
+            "id": "8c17e81b05c4f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Heb.6.1-8.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Heb.6.1-8"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e4e8f0e71feea3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d8f3b7e935e226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Heb.6.1-8.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Heb.6.1-8"
             }
           }
         ]
@@ -183,12 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c273880a33cba915",
+  "active": "8c17e81b05c4f7bd",
   "lastOpenFiles": [
+    "58-Hebrews/Heb.5.11-6.12.md",
+    "58-Hebrews/Heb.6.1-8.md",
+    "58-Hebrews/Heb.3.1-6.md",
+    "GDNTG/Chapter10.md",
+    "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "BBG4E/HW-Key/HW04-Key.md",
     "40-Matthew/Mat.6.1-4.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW9-Key.md",
@@ -206,11 +225,7 @@
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "40-Matthew/Mat.5.21-26.md",
-    "GDNTG/Chapter10.md",
     "GDNTG/GDNTG-TOC.md",
-    "GDNTG/Chapter07.md",
-    "GDNTG/Chapter06.md",
-    "GDNTG/Chapter05.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
