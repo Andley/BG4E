@@ -1,18 +1,4 @@
----
 
----
-- 願頌讚歸與我們主耶穌基督的父神！他在基督裡曾賜給我們天上各樣屬靈的福氣： 
-	- 就如<span class='verb'>神</span>從創立世界以前，在基督裡<span class='verb'>揀選了我們</span>，使我們在他面前成為聖潔，無有瑕疵； 
-		- 又因愛我們，就按著自己意旨所喜悅的，<span class='ptc'>預定我們</span>藉著耶穌基督得兒子的名分， 使他榮耀的恩典得著稱讚；
-			- 這恩典是<span class='verb'>他</span>在愛子裡所<span class='verb'>賜給我們</span>的。 
-				- <span class='verb'>我們</span>藉這愛子的血<span class='verb'>得蒙救贖</span>，過犯得以赦免，乃是照他豐富的恩典。 
-					- 這恩典是<span class='verb'>神</span>用諸般智慧聰明，<span class='verb'>充充足足賞給我們</span>的； 都是照他自己所預定的美意，
-						- 叫我們知道他旨意的奧秘， 要照所安排的，在日期滿足的時候，使天上、地上、一切所有的都在基督裡面同歸於一。 
-				- 我們也在他裡面得（或作：成）了基業；這原是那位隨己意行、做萬事的，照著他旨意所預定的， 叫他的榮耀從我們這首先在基督裡有盼望的人可以得著稱讚。 
-				- 你們既聽見真理的道，就是那叫你們得救的福音，也信了基督，既然信他，就受了所應許的聖靈為印記。 這聖靈是我們得基業的憑據（原文作：質），直等到神之民（原文作：產業）被贖，使他的榮耀得著稱讚。 
-
-
----
 
 - 1:3a (<RUBY><ruby><ruby>Εὐλογητὸς<rt>εὐλογητός</rt></ruby><rt>Blessed [be]</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-NSM</rt></RUBY> « ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>› =‹<RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ <span class='punctuation'>,</span><rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM</rt></RUBY> › » )S
 - 1:3b {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the [One]</rt></ruby><rt>T-NSM</rt></RUBY> [(<RUBY><ruby><ruby><span class='ptc'>εὐλογήσας</span><rt>εὐλογέω</rt></ruby><rt>having blessed</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY>)c (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>εὐλογίᾳ<rt>εὐλογία</rt></ruby><rt>blessing</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>πνευματικῇ<rt>πνευματικός</rt></ruby><rt>spiritual</rt></ruby><rt>A-DSF</rt></RUBY>)a (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>ἐπουρανίοις<rt>ἐπουράνιος</rt></ruby><rt>heavenly realms</rt></ruby><rt>A-DPN</rt></RUBY>)a (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ <span class='punctuation'>,</span><rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM</rt></RUBY>)a]}=S
