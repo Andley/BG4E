@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49-Ephesians/Eph.1.3-14.md",
+                "file": "GDNTG/Chapter10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eph.1.3-14"
+              "title": "Chapter10"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -164,8 +165,8 @@
   },
   "active": "9b01e7c3de41f70f",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW04-Key.md",
     "49-Ephesians/Eph.1.3-14.md",
+    "BBG4E/HW-Key/HW04-Key.md",
     "58-Hebrews/Heb.5.11-6.12.md",
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/Untitled 1.md",
