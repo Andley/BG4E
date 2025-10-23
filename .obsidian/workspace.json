@@ -6,9 +6,31 @@
       {
         "id": "16486a9da5e801ba",
         "type": "tabs",
+        "dimension": 45.9546925566343,
         "children": [
           {
             "id": "9b01e7c3de41f70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW04-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW04-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "48aba4b37e6261ea",
+        "type": "tabs",
+        "dimension": 54.0453074433657,
+        "children": [
+          {
+            "id": "e7c9af458193d441",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
