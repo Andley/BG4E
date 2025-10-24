@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
-                "mode": "preview",
+                "file": "40-Matthew/Mat.6.5-15.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.1-4"
+              "title": "Mat.6.5-15"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.1-4.md",
+                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.1-4"
+              "title": "Mat.6.5-15"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "9b01e7c3de41f70f",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.6.1-4.md",
+    "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
     "BBG4E/HW-Key/HW5-Key.md",
