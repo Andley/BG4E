@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/分詞複習1.md",
+                "file": "BBG4E/HW-Key/HW05-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "分詞複習1"
+              "title": "HW05-Key"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/分詞複習1.md",
+                "file": "BBG4E/HW-Key/HW05-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "分詞複習1"
+              "title": "HW05-Key"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,8 +185,8 @@
   },
   "active": "919eb03a4a680ce4",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW-Key/分詞複習1.md",
+    "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/分詞複習2.md",
     "BBG4E/HW-Key/HW03-Key.md",
