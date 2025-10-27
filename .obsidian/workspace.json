@@ -6,7 +6,6 @@
       {
         "id": "16486a9da5e801ba",
         "type": "tabs",
-        "dimension": 42.71255060728745,
         "children": [
           {
             "id": "919eb03a4a680ce4",
@@ -14,33 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW04.md",
+                "file": "BBG4E/HW-Key/分詞複習1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW04"
+              "title": "分詞複習1"
             }
           }
         ]
       },
       {
-        "id": "0e485dac0f12d9cb",
+        "id": "38ce81010767eec5",
         "type": "tabs",
-        "dimension": 57.28744939271255,
         "children": [
           {
-            "id": "a29ceef3ae9abccc",
+            "id": "29950b0ec6dbe2ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW/HW04.md",
+                "file": "BBG4E/HW-Key/分詞複習1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW04"
+              "title": "分詞複習1"
             }
           }
         ]
@@ -115,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -187,14 +184,20 @@
   },
   "active": "919eb03a4a680ce4",
   "lastOpenFiles": [
-    "BBG4E/HW/HW05.md",
-    "BBG4E/HW-Key/HW04-Key.md",
-    "BBG4E/HW/HW04.md",
-    "BBG4E/HW/HW03.md",
-    "BBG4E/HW-Key/HW03-Key.md",
-    "GDNTG/Chapter05.md",
-    "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW-Key/分詞複習1.md",
+    "BBG4E/HW-Key/HW04-Key.md",
+    "BBG4E/HW-Key/分詞複習2.md",
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW01-Key.md",
+    "GDNTG/Chapter10.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter11.md",
+    "BBG4E/HW/HW03.md",
+    "BBG4E/HW/HW04.md",
+    "BBG4E/HW/HW05.md",
+    "GDNTG/Chapter05.md",
     "61-2Peter/2Pe.3.10-12.md",
     "40-Matthew/Mat.6.5-15.md",
     "61-2Peter/2Pe.1.16-21.md",
@@ -203,16 +206,10 @@
     "40-Matthew/Mat.6.1-4.md",
     "40-Matthew/Mat.5.43-48.md",
     "40-Matthew/Mat.5.38-42.md",
-    "GDNTG/Chapter10.md",
     "49-Ephesians/Eph.1.3-14.md",
     "58-Hebrews/Heb.5.11-6.12.md",
-    "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/Untitled 1.md",
     "58-Hebrews/Heb.6.1-8.md",
-    "58-Hebrews/Heb.3.1-6.md",
-    "BBG4E/HW-Key/HW02-Key.md",
-    "BBG4E/HW-Key/HW01-Key.md",
-    "BBG4E/HW-Key/HW10-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
