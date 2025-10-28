@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "16486a9da5e801ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "919eb03a4a680ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW05-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW05-Key"
-            }
-          }
-        ]
-      },
-      {
         "id": "38ce81010767eec5",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW05-Key.md",
+                "file": "GDNTG/Chapter11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW05-Key"
+              "title": "Chapter11"
             }
           }
         ]
@@ -109,7 +89,8 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,17 +164,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "919eb03a4a680ce4",
+  "active": "29950b0ec6dbe2ec",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/分詞複習1.md",
+    "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW-Key/分詞複習1.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/分詞複習2.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
     "GDNTG/Chapter10.md",
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter11.md",
     "BBG4E/HW/HW03.md",
     "BBG4E/HW/HW04.md",
