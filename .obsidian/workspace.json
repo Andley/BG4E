@@ -28,27 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "40-Matthew/Mat.6.5-15.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mat.6.5-15"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b6946aed05473931",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2937cccf18c65c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.6.5-15.md",
                 "mode": "preview",
                 "source": true
               },
@@ -198,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff85c895278afed7",
+  "active": "29950b0ec6dbe2ec",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.1-4.md",
     "40-Matthew/Mat.6.5-15.md",
+    "40-Matthew/Mat.6.1-4.md",
     "GDNTG/Chapter11.md",
     "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW05-Key.md",
