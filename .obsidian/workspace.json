@@ -6,6 +6,7 @@
       {
         "id": "38ce81010767eec5",
         "type": "tabs",
+        "dimension": 42.540620384047266,
         "children": [
           {
             "id": "ff85c895278afed7",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW05-Key.md",
+                "file": "BBG4E/HW-Key/HW06-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW05-Key"
+              "title": "HW06-Key"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "49dc1f702e21bca4",
         "type": "tabs",
+        "dimension": 57.459379615952734,
         "children": [
           {
             "id": "2c5dee0d61ef7632",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW05-Key.md",
+                "file": "BBG4E/HW-Key/HW06-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW05-Key"
+              "title": "HW06-Key"
             }
           }
         ]
@@ -185,8 +187,10 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.16-18.md",
+    "BBG4E/HW/HW06.md",
+    "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW-Key/HW05-Key.md",
+    "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/SM-4lines.md",
@@ -209,8 +213,6 @@
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "GDNTG/Chapter10.md",
-    "BBG4E/HW/HW03.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
