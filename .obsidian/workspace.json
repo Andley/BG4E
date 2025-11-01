@@ -6,7 +6,7 @@
       {
         "id": "38ce81010767eec5",
         "type": "tabs",
-        "dimension": 42.540620384047266,
+        "dimension": 42.54062038404727,
         "children": [
           {
             "id": "ff85c895278afed7",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW06-Key.md",
+                "file": "40-Matthew/Mat.6.19-21.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW06-Key"
+              "title": "Mat.6.19-21"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "49dc1f702e21bca4",
         "type": "tabs",
-        "dimension": 57.459379615952734,
+        "dimension": 57.45937961595273,
         "children": [
           {
             "id": "2c5dee0d61ef7632",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW06-Key.md",
+                "file": "40-Matthew/Mat.6.19-21.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW06-Key"
+              "title": "Mat.6.19-21"
             }
           }
         ]
@@ -187,10 +187,12 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "BBG4E/HW/HW06.md",
-    "BBG4E/HW-Key/HW06-Key.md",
-    "BBG4E/HW-Key/HW05-Key.md",
     "40-Matthew/Mat.6.16-18.md",
+    "40-Matthew/Mat.6.19-21.md",
+    "40-Matthew/Mat.6.5-15.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW/HW06.md",
+    "BBG4E/HW-Key/HW05-Key.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/SM-4lines.md",
@@ -201,9 +203,7 @@
     "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.22-23.md",
-    "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/SM-Notes.md",
-    "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.6.1-4.md",
     "GDNTG/Chapter11.md",
     "GDNTG/GDNTG-TOC.md",
