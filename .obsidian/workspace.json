@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c5dee0d61ef7632",
+  "active": "ff85c895278afed7",
   "lastOpenFiles": [
     "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.25-34.md",
