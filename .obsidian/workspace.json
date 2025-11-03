@@ -6,7 +6,6 @@
       {
         "id": "38ce81010767eec5",
         "type": "tabs",
-        "dimension": 42.54062038404727,
         "children": [
           {
             "id": "ff85c895278afed7",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mat.6.25-34"
-            }
-          }
-        ]
-      },
-      {
-        "id": "49dc1f702e21bca4",
-        "type": "tabs",
-        "dimension": 57.45937961595273,
-        "children": [
-          {
-            "id": "2c5dee0d61ef7632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.6.25-34.md",
+                "file": "GDNTG/Chapter02.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.25-34"
+              "title": "Chapter02"
             }
           }
         ]
@@ -111,7 +89,8 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,8 +166,9 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.24.md",
+    "GDNTG/GDNTG-TOC.md",
     "40-Matthew/Mat.6.25-34.md",
+    "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.6.16-18.md",
@@ -206,7 +186,6 @@
     "40-Matthew/SM-Notes.md",
     "40-Matthew/Mat.6.1-4.md",
     "GDNTG/Chapter11.md",
-    "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/分詞複習1.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/分詞複習2.md",
