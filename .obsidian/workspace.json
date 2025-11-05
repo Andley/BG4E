@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -159,14 +160,16 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "40-Matthew/Mat.6.16-18.md",
-    "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.24.md",
+    "40-Matthew/Mat.6.25-34.md",
+    "40-Matthew/Mat.6.16-18.md",
+    "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.6.22-23.md",
     "GDNTG/Chapter02.md",
     "GDNTG/GDNTG-TOC.md",
@@ -177,7 +180,6 @@
     "BBG4E/HW-Key/HW05-Key.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
-    "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.7.15-20.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
