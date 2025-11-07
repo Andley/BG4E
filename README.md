@@ -27,8 +27,8 @@
 - [彼得前書](60-1Peter/1Peter-Notes.md)
 - [彼得後書](61-2Peter/2Peter-Notes.md)
 - [約翰一書](62-1John/1John-Notes.md)
-- [約翰二書](63-2John/2John-Notes.md)
-- [約翰三書](64-3John/3John-Notes.md)
+- [約翰二書](63-2John/2John-Notes.md) ⇐ 2025-11-08 更新
+- [約翰三書](64-3John/3John-Notes.md) ⇐ 2025-11-08 更新
 - [猶大書](65-Jude/Jude-Notes.md)
 - [1Th.1.2–10](52-1Thessalonians/1Th.1.2–10.md)
 
