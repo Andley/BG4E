@@ -6,6 +6,7 @@
       {
         "id": "38ce81010767eec5",
         "type": "tabs",
+        "dimension": 41.43049932523617,
         "children": [
           {
             "id": "ff85c895278afed7",
@@ -27,6 +28,7 @@
       {
         "id": "a779109396d3f122",
         "type": "tabs",
+        "dimension": 58.56950067476383,
         "children": [
           {
             "id": "0ba70fd0685a7add",
@@ -115,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,8 +189,10 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "63-2John/2John-Interlinear.md",
+    "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW-Key/HW04-Key.md",
     "64-3John/3Jo.1.1-4.md",
+    "63-2John/2John-Interlinear.md",
     "64-3John/3John-Notes.md",
     "65-Jude/Jude-Notes.md",
     "63-2John/2John-Notes.md",
@@ -202,11 +207,9 @@
     "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW-Key/條件句 (sentence) 複習.md",
     "BBG4E/HW-Key/HW7-Key.md",
-    "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW/HW05.md",
     "BBG4E/HW/HW04.md",
     "BBG4E/HW/HW03.md",
-    "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
