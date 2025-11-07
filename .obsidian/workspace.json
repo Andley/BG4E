@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/條件句 (sentence) 複習.md",
+                "file": "BBG4E/HW-Key/HW06-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "條件句 (sentence) 複習"
+              "title": "HW06-Key"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -182,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff85c895278afed7",
+  "active": "0ba70fd0685a7add",
   "lastOpenFiles": [
     "BBG4E/HW-Key/條件句 (sentence) 複習.md",
     "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW-Key/HW7-Key.md",
     "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW/HW05.md",
     "BBG4E/HW/HW04.md",
@@ -209,7 +211,6 @@
     "40-Matthew/Mat.7.15-20.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
-    "40-Matthew/Mat.7.1-6.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
