@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.22-23.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Key/HW06-Key.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.22-23"
+              "title": "HW06-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a779109396d3f122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba70fd0685a7add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/條件句 (sentence) 複習.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "條件句 (sentence) 複習"
             }
           }
         ]
@@ -93,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -165,32 +184,32 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
+    "BBG4E/HW-Key/條件句 (sentence) 複習.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW/HW05.md",
+    "BBG4E/HW/HW04.md",
+    "BBG4E/HW/HW03.md",
+    "BBG4E/HW-Key/HW04-Key.md",
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW01-Key.md",
+    "40-Matthew/Mat.6.22-23.md",
     "40-Matthew/Mat.6.25-34.md",
     "40-Matthew/Mat.6.19-21.md",
-    "40-Matthew/Mat.6.22-23.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter02.md",
     "40-Matthew/Mat.6.24.md",
     "40-Matthew/Mat.6.16-18.md",
     "40-Matthew/SM-4lines.md",
     "40-Matthew/Mat.6.5-15.md",
-    "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW/HW06.md",
-    "BBG4E/HW-Key/HW05-Key.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/Mat.7.15-20.md",
     "40-Matthew/Mat.7.13-14.md",
     "40-Matthew/Mat.7.7-12.md",
     "40-Matthew/Mat.7.1-6.md",
-    "40-Matthew/SM-Notes.md",
-    "40-Matthew/Mat.6.1-4.md",
-    "GDNTG/Chapter11.md",
-    "BBG4E/HW-Key/分詞複習1.md",
-    "BBG4E/HW-Key/HW04-Key.md",
-    "BBG4E/HW-Key/分詞複習2.md",
-    "BBG4E/HW-Key/HW03-Key.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
