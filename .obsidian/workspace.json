@@ -6,7 +6,7 @@
       {
         "id": "38ce81010767eec5",
         "type": "tabs",
-        "dimension": 41.43049932523617,
+        "dimension": 49.392712550607285,
         "children": [
           {
             "id": "ff85c895278afed7",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "64-3John/3Jo.1.5-12.md",
-                "mode": "source",
+                "file": "64-3John/3Jo.1.1-4.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3Jo.1.5-12"
+              "title": "3Jo.1.1-4"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "a779109396d3f122",
         "type": "tabs",
-        "dimension": 58.56950067476383,
+        "dimension": 50.607287449392715,
         "children": [
           {
             "id": "0ba70fd0685a7add",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "64-3John/3Jo.1.5-12.md",
+                "file": "64-3John/3Jo.1.1-4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3Jo.1.5-12"
+              "title": "3Jo.1.1-4"
             }
           }
         ]
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -187,8 +186,9 @@
   },
   "active": "ff85c895278afed7",
   "lastOpenFiles": [
-    "64-3John/3Jo.1.1-4.md",
     "64-3John/3Jo.1.5-12.md",
+    "64-3John/3Jo.1.13-15.md",
+    "64-3John/3Jo.1.1-4.md",
     "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "63-2John/2John-Interlinear.md",
@@ -196,7 +196,6 @@
     "65-Jude/Jude-Notes.md",
     "63-2John/2John-Notes.md",
     "64-3John/3John-Interlinear.md",
-    "64-3John/3Jo.1.13-15.md",
     "63-2John/2Jo.1.12-13.md",
     "63-2John/2Jo.1.4-11.md",
     "63-2John/2Jo.1.1-3.md",
