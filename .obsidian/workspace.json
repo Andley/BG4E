@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter03"
+              "title": "GDNTG-TOC"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -166,9 +165,9 @@
   },
   "active": "b22df5a0ca8ed85c",
   "lastOpenFiles": [
+    "GDNTG/Chapter03.md",
     "GDNTG/GDNTG-TOC.md",
     "52-1Thessalonians/1Th.1.2–10.md",
-    "GDNTG/Chapter03.md",
     "64-3John/3Jo.1.1-4.md",
     "64-3John/3Jo.1.5-12.md",
     "64-3John/3Jo.1.13-15.md",
