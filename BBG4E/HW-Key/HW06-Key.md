@@ -7,7 +7,7 @@
 	- 21:2b { (<RUBY><ruby><ruby><span class='ptc'>καταβαίνουσαν</span><rt>降下 coming down</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02597&m='>καταβαίνω</a></rt></ruby><rt>V-PAP-ASF</rt></RUBY>)p (<RUBY><ruby><ruby>ἐκ<rt>從 out of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>天 heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-GSM</rt></RUBY>)a (<RUBY><ruby><ruby>ἀπὸ<rt>由那裡 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>)a }⮥°¹+C[^6] 
 	- 21:2c { (<RUBY><ruby><ruby><span class='ptc'>ἡτοιμασμένην</span><rt>預備好了 having been prepared</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02090&m='>ἑτοιμάζω</a></rt></ruby><rt>V-RPP-ASF</rt></RUBY>)p°² }⮥°¹+C[^7]
 		- 21:2d { <RUBY><ruby><ruby>ὡς<rt>就如 as</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05613&m='>ὡς</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>νύμφην<rt>新娘 a bride</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03565&m='>νύμφη</a></rt></ruby><rt>N-ASF</rt></RUBY>)s (<RUBY><ruby><ruby><span class='ptc'>κεκοσμημένην</span><rt>打扮整齊 having been adorned</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02885&m='>κοσμέω</a></rt></ruby><rt>V-RPP-ASF</rt></RUBY>)p (<RUBY><ruby><ruby>τῷ<rt> for the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>ἀνδρὶ<rt>丈夫 husband</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00435&m='>ἀνήρ</a></rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>αὐτῆς<rt>她 of her</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSF</rt></RUBY>)a }⮥°²a[^8] <span class='punctuation'>.</span> 
-- 21:3a <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἤκουσα</span><rt>我聽見 I heard</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>φωνῆς<rt>聲音 a voice</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05456&m='>φωνή</a></rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>μεγάλης<rt>大 great</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03173&m='>μέγας</a></rt></ruby><rt>A-GSF</rt></RUBY>)C[^9] (<RUBY><ruby><ruby>ἐκ<rt>從出來 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θρόνου<rt>寶座 throne</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02362&m='>θρόνος</a></rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><span class='ptc'>λεγούσης</span><rt>說 saying</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>λέγω</a></rt></ruby><rt>V-PAP-GSF</rt></RUBY>)A <span class='punctuation'>·</span><span class='paragraph'></span> 
+- 21:3a <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἤκουσα</span><rt>我聽見 I heard</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY>)P[^9] (<RUBY><ruby><ruby>φωνῆς<rt>聲音 a voice</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05456&m='>φωνή</a></rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>μεγάλης<rt>大 great</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03173&m='>μέγας</a></rt></ruby><rt>A-GSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἐκ<rt>從出來 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θρόνου<rt>寶座 throne</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02362&m='>θρόνος</a></rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><span class='ptc'>λεγούσης</span><rt>說 saying</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>λέγω</a></rt></ruby><rt>V-PAP-GSF</rt></RUBY>)A <span class='punctuation'>·</span><span class='paragraph'></span> 
 	- 21:3b <RUBY><ruby><ruby>Ἰδοὺ<rt>看哪 Behold</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02400&m='>ἰδού</a></rt></ruby><rt>INJ</rt></RUBY>[^10] (<RUBY><ruby><ruby>ἡ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>σκηνὴ<rt>帳幕 tabernacle</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04633&m='>σκηνή</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>)S (<RUBY><ruby><ruby>μετὰ<rt>在人間 [is] with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώπων<rt>- men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-GPM</rt></RUBY>)A <span class='punctuation'>,</span> 
 	- 21:3c <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>σκηνώσει</span><rt>他要居住 He will tabernacle</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04637&m='>σκηνόω</a></rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>μετ᾽<rt>同一起 with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>他們 them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY>)A <span class='punctuation'>,</span> 
 	- 21:3d <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτοὶ<rt>他們 they</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>λαοὶ<rt>子民 peoples</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02992&m='>λαός</a></rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>他 of Him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>ἔσονται</span><rt>要作 will be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-FMI-3P</rt></RUBY>)P[^11] <span class='punctuation'>,</span> 
@@ -33,7 +33,7 @@
 
 [^2]: ἡ πρώτη γῆ：T—A—N 的結構，黏在一起，形成名詞片語。
 
-[^3]: ἔστιν：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在 ([BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=))
+[^3]: ἔστιν：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在 ([BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=))。
 
 [^4]: τὴν πόλιν τὴν ἁγίαν：T—N—T—A 的的結構，黏在一起，形成名詞片語；直接受格，所以當作主要動詞 εἶδον 的補語。
 
@@ -43,35 +43,24 @@
 
 [^7]: ἡτοιμασμένην ὡς νύμφην ...：分詞內嵌子句。分詞 ἡτοιμασμένην 是半個動詞 小p，根據上下文判斷，後面帶了 21:2d 當作小a，合起來形成分詞內嵌子句；分詞 ἡτοιμασμένην 又是半個形容詞，格數性 [ASF] 只能勾到 21:2a 同樣也是 [ASF] 的補語 (τὴν πόλιν τὴν ἁγία)——因此，整個分詞內嵌子句是 21:2a 補語的補語 (用 +C 符號表示)。
 
-[^8]: ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς：分詞內嵌子句。分詞 κεκοσμημένην 是半個動詞 小p，根據上下文判斷，前面的 νύμφην 是小s，後面的 τῷ ἀνδρὶ αὐτῆς 是小a，合起來形成分詞內嵌子句；分詞 κεκοσμημένην 又是半個形容詞，格數性之所以會是 [ASF]，近一點說，是受到小s νύμφην [ASF] 的影響，因為小p 的主詞就是小s (格數性要一致)。
+[^8]: ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς：分詞內嵌子句。分詞 κεκοσμημένην 是半個動詞 小p，根據上下文判斷，前面的 νύμφην 是小s，後面的 τῷ ἀνδρὶ αὐτῆς 是小a，合起來形成分詞內嵌子句；分詞 κεκοσμημένην 又是半個形容詞，格數性之所以會是 [ASF]，是受到小s νύμφην [ASF] 的影響，因為小p 的主詞就是小s，所以格數性要一致。
 
-[^9]: 
+[^9]: ἤκουσα：動詞 ἀκούω 後面可以帶所有格 (φωνῆς μεγάλης)，表達聽見的事物 ([BAGD 一.C](https://bible.fhl.net/new/s.php?N=0&k=00191&m=))。
 
-[^10]: 感嘆詞
+[^10]: Ἰδοὺ：感嘆詞，吸引讀者的注意力。
 
-[^11]: 
+[^11]: ἔσονται：聯繫動詞，兩個元素都是主格，代名詞 (αὐτοὶ) 有優先權，要當作主語。
 
-[^12]: 
+[^12]: αὐτὸς：根據上下文判斷，αὐτὸς 在此表達「自己，本身」，用來加強語氣 ([BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00846&m=))。
 
-[^13]: 
+[^13]: ἔσται：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在 ([BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=))。
 
-[^14]: 
+[^14]: οὔτε ... οὔτε ... οὔτε：希臘文習慣用法，表達「或…或…或…都不」([BAGD](https://bible.fhl.net/new/s.php?N=0&k=03777&m=))。
 
-[^15]: 
+[^15]: οὔτε ... οὐκ ...：希臘文「雙重否定」的意思是「強烈否定」，跟中英文「負負得正」的概念不同。
 
-[^16]: 
+[^16]: τὰ πρῶτα：T—A 的結構，格數性相同，黏在一起形成片語，當作實名詞使用。
 
-[^17]: 
+[^17]: καθήμενος ἐπὶ τῷ θρόνῳ：分詞內嵌子句，前面加上冠詞 (ὁ)，形成「T—分詞內嵌子句」的結構，當作實名詞使用。
 
-[^18]: 
-
-[^19]: καταβαίνουσαν ... ἀπὸ τοῦ Θεοῦ：分詞 (καταβαίνουσαν) 是半個動詞，有兩個小a (ἐκ τοῦ οὐρανοῦ、ἀπὸ τοῦ Θεοῦ)；是半個形容詞，格數性 [ASF] 要勾到所修飾的名詞——最直接的是上文 21:2a 同樣也是 [ASF] 的 Ἰερουσαλὴμ。<br><br>雖然分詞 (καταβαίνουσαν) 沒有冠詞，但因為不是主格，所以不是副詞用法——最好的理解是把 21:2b 當作是「分詞的敘述用法，位置#2 T——N——分詞內嵌子句」的結構 (課本 pp.104-105)。
-
-[^20]: ἤκουσα：動詞 ἀκούω 的受詞可以是直接受格 or 所有格，因此 φωνῆς μεγάλης ... λεγούσης 所形成的分詞內嵌子句，不是獨立所有格 (genitive absolute)，而是動詞 ἀκούω 的補語 (C)。
-
-[^21]: αὐτὸς：第三人稱代名詞 αὐτός 的強調用法 (課本 pp.198-199)。
-
-[^22]: 根據上下文判斷，後面省略了 21:4e 的 οὐκ ἔσται ἔτι。
-
-[^23]: 
-
+[^18]: ποιῶ：動詞 ποιέω 帶雙直接受格，表達「使某人或某物變為另一種形態」的意思 ([BAGD 甲.一.B.9](https://bible.fhl.net/new/s.php?N=0&k=04160&m=))。
