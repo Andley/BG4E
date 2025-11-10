@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "BBG4E/HW-Key/HW06-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW06-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "330949660895df70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35a33dd741c4579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW06-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-TOC"
+              "title": "HW06-Key"
             }
           }
         ]
@@ -89,12 +109,12 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -165,8 +185,8 @@
   },
   "active": "b22df5a0ca8ed85c",
   "lastOpenFiles": [
-    "GDNTG/Chapter03.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter03.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "64-3John/3Jo.1.1-4.md",
     "64-3John/3Jo.1.5-12.md",
