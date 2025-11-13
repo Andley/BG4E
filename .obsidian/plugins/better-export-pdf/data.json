@@ -14,15 +14,15 @@
   "concurrency": "5",
   "prevConfig": {
     "pageSize": "A4",
-    "marginType": "1",
+    "marginType": "3",
     "showTitle": false,
     "open": true,
     "scale": 0,
     "landscape": false,
     "marginTop": "10",
     "marginBottom": "10",
-    "marginLeft": "10",
-    "marginRight": "10",
+    "marginLeft": "20",
+    "marginRight": "20",
     "displayHeader": false,
     "displayFooter": true,
     "cssSnippet": "0"
