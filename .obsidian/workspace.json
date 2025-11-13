@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mat.7.1-6"
             }
+          },
+          {
+            "id": "890e071e8408aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "330949660895df70",
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b22df5a0ca8ed85c",
+  "active": "890e071e8408aa1d",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW06-Key.md",
     "40-Matthew/Mat.7.1-6.md",
