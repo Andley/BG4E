@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "61-2Peter/2Pe.1.1–4.md",
+                "file": "GDNTG/Chapter05.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2Pe.1.1–4"
+              "title": "Chapter05"
             }
           }
         ]
@@ -89,7 +89,8 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,9 @@
   },
   "active": "6f7579471a93ae47",
   "lastOpenFiles": [
-    "GDNTG/Chapter04.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter04.md",
+    "61-2Peter/2Pe.1.1–4.md",
     "BBG4E/HW-Key/不定詞複習1.md",
     "BBG4E/HW-Key/分詞複習1.md",
     "BBG4E/HW-Key/條件句 (sentence) 複習.md",
@@ -190,7 +192,6 @@
     "64-3John/3John-Notes.md",
     "65-Jude/Jude-Notes.md",
     "63-2John/2John-Notes.md",
-    "64-3John/3John-Interlinear.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
