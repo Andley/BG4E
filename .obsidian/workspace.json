@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "40-Matthew/Mat.7.7-12.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mat.7.7-12"
+            }
+          }
+        ]
+      },
+      {
+        "id": "540cc097c00799e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e724543f59967a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Matthew/Mat.7.7-12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "Mat.7.7-12"
             }
           }
         ]
@@ -89,8 +109,7 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +185,9 @@
   },
   "active": "6f7579471a93ae47",
   "lastOpenFiles": [
+    "40-Matthew/Mat.7.1-6.md",
+    "40-Matthew/Mat.7.7-12.md",
+    "GDNTG/Chapter05.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter04.md",
     "61-2Peter/2Pe.1.1–4.md",
@@ -182,7 +204,6 @@
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "40-Matthew/Mat.7.1-6.md",
     "GDNTG/Chapter03.md",
     "52-1Thessalonians/1Th.1.2–10.md",
     "64-3John/3Jo.1.1-4.md",
@@ -190,8 +211,6 @@
     "64-3John/3Jo.1.13-15.md",
     "63-2John/2John-Interlinear.md",
     "64-3John/3John-Notes.md",
-    "65-Jude/Jude-Notes.md",
-    "63-2John/2John-Notes.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
