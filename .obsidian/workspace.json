@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e022fd2e73edd55",
+        "id": "583cfa37f1727e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "6568962a1d5a1c47",
+            "id": "07cbfe41dcb62930",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter11.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter11"
             }
           }
         ]
@@ -85,11 +89,13 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -158,8 +164,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6568962a1d5a1c47",
+  "active": "07cbfe41dcb62930",
   "lastOpenFiles": [
+    "GDNTG/GDNTG-TOC.md",
+    "BBG4E/HW-Key/HW07-Key.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW/HW07.md",
     "Living Greek Resources.md",
     "Tools/Interlinear-Sandbox.md",
     "Tools/RUBY-performance.md",
@@ -171,7 +181,6 @@
     "40-Matthew/Mat.7.7-12.md",
     "BBG4E/HW-Key/HW05-Key.md",
     "BBG4E/HW-Key/HW04-Key.md",
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
     "61-2Peter/2Pe.1.1–4.md",
@@ -181,11 +190,8 @@
     "BBG4E/HW/HW05.md",
     "BBG4E/HW/HW04.md",
     "BBG4E/HW-Key/分詞複習2.md",
-    "BBG4E/HW-Key/HW7-Key.md",
-    "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
-    "BBG4E/HW-Key/HW01-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
