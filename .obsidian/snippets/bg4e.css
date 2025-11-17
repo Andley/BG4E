@@ -90,24 +90,24 @@ a {text-decoration: none; color: var(--text-link); }
     .w {
       display: flex;
       flex-direction: column;
-      align-items:center;
+      align-items:left;
       white-space: nowrap;       /* Prevent wrapping inside each column */
     }
     .m, .g{
-      font-family:  "Noto Sans ExtraCondensed", "未來熒黑" ; ;
-      font-size: 10pt;
-      line-height:11pt;
+      font-family:  "Noto Sans ExtraCondensed";
+      font-size: 13pt;
+      line-height:13pt;
     }
     .l {
       font-family: "Gentium Book Plus";
-      font-size: 11pt;
+      font-size: 13pt;
       line-height:13pt;
       }
     .t {
       font-family: "Gentium Book Plus"; 
-      font-size: 13pt;
-      line-height:13pt;
-      padding-bottom: 13pt;
+      font-size: 16pt;
+      line-height:16pt;
+      padding-bottom: 8pt;
     }
 	/* ══════════════ /*
 /* ============= Obsidian 介面 ================== */

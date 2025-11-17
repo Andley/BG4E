@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e11ff7b3a1e9bc",
+        "id": "9e022fd2e73edd55",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7579471a93ae47",
+            "id": "6568962a1d5a1c47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Interlinear-Sandbox.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Interlinear-Sandbox"
-            }
-          }
-        ]
-      },
-      {
-        "id": "30d3983b1f423280",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f52ab480e6864916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Interlinear-Sandbox.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Interlinear-Sandbox"
+              "title": "New tab"
             }
           }
         ]
@@ -109,13 +85,11 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,10 +158,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f7579471a93ae47",
+  "active": "6568962a1d5a1c47",
   "lastOpenFiles": [
     "Living Greek Resources.md",
     "Tools/Interlinear-Sandbox.md",
+    "Tools/RUBY-performance.md",
+    "Tools/SPAN-performance.md",
     "Mounce-Syntax-Summary.md",
     "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.7.13-14.md",
@@ -210,8 +186,6 @@
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "GDNTG/Chapter03.md",
-    "52-1Thessalonians/1Th.1.2–10.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
