@@ -6,7 +6,6 @@
       {
         "id": "583cfa37f1727e7e",
         "type": "tabs",
-        "dimension": 46.0863697705803,
         "children": [
           {
             "id": "07cbfe41dcb62930",
@@ -14,33 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW07-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW07-Key"
+              "title": "分詞複習2"
             }
           }
         ]
       },
       {
-        "id": "cccdadae23f43608",
+        "id": "b451f94d1f9e7cbd",
         "type": "tabs",
-        "dimension": 53.9136302294197,
         "children": [
           {
-            "id": "c0b5867e3cd80a2e",
+            "id": "8b9a4417861f7034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW07-Key.md",
+                "file": "BBG4E/HW-Key/分詞複習2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW07-Key"
+              "title": "分詞複習2"
             }
           }
         ]
@@ -115,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,13 +182,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07cbfe41dcb62930",
+  "active": "8b9a4417861f7034",
   "lastOpenFiles": [
+    "BBG4E/HW/HW08.md",
+    "BBG4E/HW/HW07.md",
+    "BBG4E/HW/HW06.md",
+    "BBG4E/HW/HW05.md",
+    "BBG4E/HW-Key/分詞複習2.md",
+    "BBG4E/HW/HW04.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW-Key/分詞複習1.md",
+    "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW-Key/HW04-Key.md",
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW07-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
     "GDNTG/Chapter11.md",
     "GDNTG/GDNTG-TOC.md",
-    "BBG4E/HW-Key/HW07-Key.md",
-    "BBG4E/HW-Key/HW06-Key.md",
-    "BBG4E/HW/HW07.md",
     "Living Greek Resources.md",
     "Tools/Interlinear-Sandbox.md",
     "Tools/RUBY-performance.md",
@@ -201,18 +209,7 @@
     "40-Matthew/Mat.7.13-14.md",
     "GDNTG/Chapter06.md",
     "40-Matthew/Mat.7.7-12.md",
-    "BBG4E/HW-Key/HW05-Key.md",
-    "BBG4E/HW-Key/HW04-Key.md",
     "GDNTG/Chapter05.md",
-    "GDNTG/Chapter04.md",
-    "61-2Peter/2Pe.1.1–4.md",
-    "BBG4E/HW-Key/不定詞複習1.md",
-    "BBG4E/HW-Key/分詞複習1.md",
-    "BBG4E/HW-Key/條件句 (sentence) 複習.md",
-    "BBG4E/HW/HW05.md",
-    "BBG4E/HW/HW04.md",
-    "BBG4E/HW-Key/分詞複習2.md",
-    "BBG4E/HW-Key/HW03-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
