@@ -6,6 +6,7 @@
       {
         "id": "583cfa37f1727e7e",
         "type": "tabs",
+        "dimension": 46.0863697705803,
         "children": [
           {
             "id": "07cbfe41dcb62930",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter11.md",
+                "file": "BBG4E/HW-Key/HW07-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW07-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cccdadae23f43608",
+        "type": "tabs",
+        "dimension": 53.91363022941971,
+        "children": [
+          {
+            "id": "c0b5867e3cd80a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW07-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter11"
+              "title": "HW07-Key"
             }
           }
         ]
@@ -89,8 +111,7 @@
               "title": "Outline of Mat.5.13-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +187,7 @@
   },
   "active": "07cbfe41dcb62930",
   "lastOpenFiles": [
+    "GDNTG/Chapter11.md",
     "GDNTG/GDNTG-TOC.md",
     "BBG4E/HW-Key/HW07-Key.md",
     "BBG4E/HW-Key/HW06-Key.md",
@@ -191,7 +213,6 @@
     "BBG4E/HW/HW04.md",
     "BBG4E/HW-Key/分詞複習2.md",
     "BBG4E/HW-Key/HW03-Key.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
