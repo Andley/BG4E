@@ -13,50 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.6.19-21.md",
+                "file": "GDNTG/Chapter12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.6.19-21"
+              "title": "Chapter12"
             }
           }
         ]
-      },
-      {
-        "id": "b451f94d1f9e7cbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b9a4417861f7034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.7.7-12.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mat.7.7-12"
-            }
-          },
-          {
-            "id": "397f07f907d0ee57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW04-Key.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW04-Key"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -199,6 +165,15 @@
   },
   "active": "07cbfe41dcb62930",
   "lastOpenFiles": [
+    "GDNTG/Chapter04.md",
+    "GDNTG/Chapter03.md",
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW/HW02.md",
+    "BBG4E/HW/HW03.md",
+    "GDNTG/Chapter12.md",
+    "GDNTG/GDNTG-TOC.md",
+    "40-Matthew/Mat.6.19-21.md",
     "40-Matthew/Mat.7.7-12.md",
     "40-Matthew/Mat.6.5-15.md",
     "40-Matthew/Mat.7.1-6.md",
@@ -213,18 +188,9 @@
     "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW-Key/分詞複習1.md",
     "BBG4E/HW-Key/HW05-Key.md",
-    "BBG4E/HW-Key/HW03-Key.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW07-Key.md",
     "BBG4E/HW-Key/HW8-Key.md",
     "GDNTG/Chapter11.md",
-    "GDNTG/GDNTG-TOC.md",
-    "Living Greek Resources.md",
-    "Tools/Interlinear-Sandbox.md",
-    "Tools/RUBY-performance.md",
-    "Tools/SPAN-performance.md",
-    "Mounce-Syntax-Summary.md",
-    "GDNTG/Chapter06.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
