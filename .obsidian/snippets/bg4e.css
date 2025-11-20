@@ -85,31 +85,30 @@ a {text-decoration: none; color: var(--text-link); }
       display: flex;
       flex-wrap: wrap;        /* Enable wrapping */
       align-items:last baseline; 
-      gap:5px; /* Align items to bottom */
+      gap:5px; /* spacing among words */
+      font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
     }
-    .w {
+    .w, .w ruby{
       display: flex;
       flex-direction: column;
+            flex-wrap: wrap;        /* Enable wrapping */
+
       align-items:left;
       white-space: nowrap;       /* Prevent wrapping inside each column */
     }
-    .m, .g{
-      font-family:  "Noto Sans ExtraCondensed";
-      font-size: 13pt;
-      line-height:13pt;
+    .l, .m, .g, .lemma, .tag, .gloss {
+      font-size: 13px;
+      line-height:13px;
     }
-    .l {
-      font-family: "Gentium Book Plus";
-      font-size: 13pt;
-      line-height:13pt;
-      }
-    .t {
-      font-family: "Gentium Book Plus"; 
-      font-size: 16pt;
-      line-height:16pt;
-      padding-bottom: 8pt;
+
+    .t, .text {
+      font-size: 16px;
+      line-height:16px;
+      padding-bottom: 8px;
     }
-	/* ══════════════ /*
+	/* ══════════════ */
+
+
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;

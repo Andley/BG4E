@@ -6,6 +6,7 @@
       {
         "id": "583cfa37f1727e7e",
         "type": "tabs",
+        "dimension": 45.00674763832658,
         "children": [
           {
             "id": "07cbfe41dcb62930",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/22.md",
+                "file": "Tools/Interlinear-Sandbox.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "22"
+              "title": "Interlinear-Sandbox"
+            }
+          }
+        ]
+      },
+      {
+        "id": "df21fbc39d9b8ee1",
+        "type": "tabs",
+        "dimension": 54.99325236167342,
+        "children": [
+          {
+            "id": "d41ff24e3a6d610e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Interlinear-Sandbox.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Interlinear-Sandbox"
             }
           }
         ]
@@ -93,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -164,6 +187,7 @@
   },
   "active": "07cbfe41dcb62930",
   "lastOpenFiles": [
+    "BBG4E/22.md",
     "BBG4E/§12.md",
     "BBG4E/§9.md",
     "BBG4E/§11.md",
@@ -189,7 +213,6 @@
     "40-Matthew/Mat.7.1-6.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "40-Matthew/Mat.7.13-14.md",
-    "BBG4E/HW-Key/分詞複習2.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
