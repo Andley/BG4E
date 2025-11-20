@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/SPAN-performance.md",
+                "file": "Tools/UNICODE.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SPAN-performance"
+              "title": "UNICODE"
             }
           }
         ]
@@ -80,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/SPAN-performance.md",
+                "file": "Tools/UNICODE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPAN-performance"
+              "title": "Outline of UNICODE"
             }
           }
         ]
@@ -165,6 +165,7 @@
   "active": "c1fcb13eeca30853",
   "lastOpenFiles": [
     "Tools/RUBY-performance.md",
+    "Tools/UNICODE.md",
     "Tools/SPAN-performance.md",
     "BBG4E/Untitled.md",
     "BBG4E/HW/HW01.md",
@@ -189,7 +190,6 @@
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "BBG4E/HW-Key/HW03-Key.md",
-    "BBG4E/HW/HW02.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
