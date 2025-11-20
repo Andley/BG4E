@@ -1,52 +1,66 @@
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("Gentium Book Plus");
+  }
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("Ezra SIL");
+  }
 
-/* <span> Interlinear */
-    .interlinear {
-      display: flex;
-      flex-wrap: wrap;        /* Enable wrapping */
-      align-items:last baseline; 
-      gap:5px; /* Align items to bottom */
-    }
-    .w {
-      display: flex;
-      flex-direction: column;
-      align-items:center;
-      white-space: nowrap;       /* Prevent wrapping inside each column */
-    }
-    .m, .g{
-      font-family:  "Noto Sans ExtraCondensed";
-      font-size: 11pt;
-      line-height:11pt;
-    }
-    .l {
-      font-family: "Gentium Book Plus";
-      font-size: 11pt;
-      line-height:13pt;
-      }
-    .t {
-      font-family: "Gentium Book Plus"; 
-      font-weight: bold;
-      font-size: 13pt;
-      line-height:13pt;
-      padding-bottom: 13pt;
-    }
-	/* ══════════════ /*
+  /* 標題 */
+h1, .HyperMD-header-1 { text-decoration-line: underline; text-decoration-style: double;}
+h1, .HyperMD-header-1, h2, .HyperMD-header-2 { text-align: center; ;}
+h3, h4, h5, h6 { text-align: left; }
+h3, .HyperMD-header-3 {  text-indent: -1em; }
+h4, .HyperMD-header-4 {  text-indent: -0.5em; }
+h5, .HyperMD-header-5 {  text-indent: 0em; }
+h6, .HyperMD-header-6 {  text-indent: 0.5em; }
 
-  
-/*
-ruby {
-	display: inline-flex;
-	flex-direction: column-reverse ;
-	align-items: center;
-	font-size: 1em ; 
+/* Container for each word */
+.w {
+  display: inline-grid;
+  grid-template-rows: auto auto auto auto;
+  margin: 0 0.2em;
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
+}
+/* surface text */
+.w .t {
+  font-size: 1.2em;
+  line-height:1.5em;
+}
+/* gloss */
+.w .g {
+  font-size: 0.85em;
   line-height:1em;
-	font-family: "Gentium Book Plus";
-  padding: 0 0.1em 0.2em 0;
-  }
+}
+/* morphology */
+.w .m {
+  font-size: 0.85em;
+  line-height:1em;
+}
+/* lemma and link */
+.w .l {
+  font-size: 1em;
+  line-height:1em;
+  margin-bottom: 1em;
+}
 
-  rt {
-	  font-size: 0.8em;
-	  line-height: 1em;
-	  font-family: "Arial Narrow", "Gentium Book Plus", "Noto Sans TC";
-    padding:0 0.1em 0 0.1em;
-  }
-*/
+/* --------------------------------------------   */
+.verb { color: red; }
+.ptc  { color: blue; }
+.inf  { color: green; }
+.punctuation { font-weight:bold;}
+
+
+
+/* HTML tags in preview and editor */
+.cm-active.cm-line {
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";;
+}
+.cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
+  color:#4f8dc2;
+  font-family: "Noto Sans ExtraCondensed";
+  font-size: 0.8em;
+}
