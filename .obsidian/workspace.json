@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "03872766423fd63a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a1b9c0101ee8d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/§9.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "§9"
-            }
-          },
-          {
-            "id": "d787a9148d863608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "5da0afe25f412b21",
         "type": "tabs",
         "children": [
@@ -48,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/Untitled.md",
+                "file": "Tools/SPAN-performance.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "SPAN-performance"
             }
           }
         ]
@@ -115,21 +80,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBG4E/Untitled.md",
+                "file": "Tools/SPAN-performance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of SPAN-performance"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -198,10 +162,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d787a9148d863608",
+  "active": "c1fcb13eeca30853",
   "lastOpenFiles": [
-    "BBG4E/§9.md",
+    "Tools/RUBY-performance.md",
+    "Tools/SPAN-performance.md",
     "BBG4E/Untitled.md",
+    "BBG4E/HW/HW01.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW01-Key.md",
+    "BBG4E/Vocabulary in Context.md",
+    "BBG4E/HWa.md",
+    "BBG4E/§9.md",
     "Tools/Interlinear-Sandbox.md",
     "BBG4E/22.md",
     "BBG4E/§12.md",
@@ -218,14 +189,7 @@
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "BBG4E/HW-Key/HW03-Key.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW/HW02.md",
-    "BBG4E/HW/HW03.md",
-    "GDNTG/GDNTG-TOC.md",
-    "40-Matthew/Mat.6.19-21.md",
-    "40-Matthew/Mat.7.7-12.md",
-    "40-Matthew/Mat.6.5-15.md",
-    "40-Matthew/Mat.7.1-6.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",

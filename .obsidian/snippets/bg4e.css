@@ -24,7 +24,7 @@ html, body, p, li {
   color: var(--text-color);
 }
 
-/*   <ruby> Interlinear */
+/* === css for <ruby> Interlinear === */
 ruby {
   font-size: 16px ; 
   ruby-align:start;
@@ -45,11 +45,34 @@ li ruby {
   line-height:70px;
 } 
 
-strong {
-  font-weight:900;
+/* === css for <span> interlinear === */
+/* Container for each word */
+.w {
+  display: inline-grid;
+  grid-template-rows: auto auto auto auto;
+  margin: 0 0.2em;
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
 }
-em {
-  font-weight: 600;
+/* surface text */
+.w .t {
+  font-size: 1.2em;
+  line-height:1.5em;
+}
+/* gloss */
+.w .g {
+  font-size: 0.85em;
+  line-height:1em;
+}
+/* morphology */
+.w .m {
+  font-size: 0.85em;
+  line-height:1em;
+}
+/* lemma and link */
+.w .l {
+  font-size: 1em;
+  line-height:1em;
+  margin-bottom: 1em;
 }
 
 a {text-decoration: none; color: var(--text-link); }
@@ -81,33 +104,6 @@ a {text-decoration: none; color: var(--text-link); }
 .tab::after {content:'           '; white-space: pre;}
 /* --------------------------------------------   */
 
-/* <span> Interlinear */
-    .interlinear {
-      display: flex;
-      flex-wrap: wrap;        /* Enable wrapping */
-      align-items:last baseline; 
-      gap:5px; /* spacing among words */
-      font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
-    }
-    .w, .w ruby{
-      display: flex;
-      flex-direction: column;
-            flex-wrap: wrap;        /* Enable wrapping */
-
-      align-items:left;
-      white-space: nowrap;       /* Prevent wrapping inside each column */
-    }
-    .l, .m, .g, .lemma, .tag, .gloss {
-      font-size: 13px;
-      line-height:13px;
-    }
-
-    .t, .text {
-      font-size: 16px;
-      line-height:16px;
-      padding-bottom: 8px;
-    }
-	/* ══════════════ */
 
 
 /* ============= Obsidian 介面 ================== */

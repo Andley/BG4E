@@ -18,6 +18,9 @@ h4, .HyperMD-header-4 {  text-indent: -0.5em; }
 h5, .HyperMD-header-5 {  text-indent: 0em; }
 h6, .HyperMD-header-6 {  text-indent: 0.5em; }
 
+a {text-decoration: none; color:darkcyan; }
+
+/* === css for interlinear === */
 /* Container for each word */
 .w {
   display: inline-grid;
@@ -60,7 +63,7 @@ h6, .HyperMD-header-6 {  text-indent: 0.5em; }
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";;
 }
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
-  color:#4f8dc2;
+  color:darkcyan;
   font-family: "Noto Sans ExtraCondensed";
   font-size: 0.8em;
 }
