@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.15-20.md",
+                "file": "40-Matthew/Mat.7.24-29.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.7.15-20"
+              "title": "Mat.7.24-29"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.15-20.md",
+                "file": "40-Matthew/Mat.7.24-29.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.7.15-20"
+              "title": "Mat.7.24-29"
             }
           }
         ]
@@ -200,6 +200,9 @@
   },
   "active": "73ad822f55a0868f",
   "lastOpenFiles": [
+    "40-Matthew/Mat.7.21-23.md",
+    "40-Matthew/Mat.7.24-29.md",
+    "40-Matthew/Mat.7.15-20.md",
     "GDNTG/Chapter04.md",
     "GDNTG/GDNTG-TOC.md",
     "Syntax/The Cases for Time.md",
@@ -223,9 +226,6 @@
     "BBG4E/HW/HW01.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "BBG4E/Vocabulary in Context.md",
-    "BBG4E/HWa.md",
-    "BBG4E/22.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
