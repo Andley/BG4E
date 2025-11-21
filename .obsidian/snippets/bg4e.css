@@ -104,6 +104,12 @@ a {text-decoration: none; color: var(--text-link); }
 .tab::after {content:'           '; white-space: pre;}
 /* --------------------------------------------   */
 
+strong {
+  font-weight:900;
+}
+em{
+  font-weight: 400;
+}
 
 
 /* ============= Obsidian 介面 ================== */
