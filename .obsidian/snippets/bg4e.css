@@ -28,22 +28,20 @@ html, body, p, li {
 ruby {
   font-size: 16px ; 
   ruby-align:start;
-  padding: 0 2px 0 0;
+  padding: 0 3px 0 0;
   font-family:  AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
-  line-height:80px;
+  line-height:70px;
 }
 
 rt {
   font-size: 13px ; 
   font-weight:normal;
-  padding: 0 2px 0 0;
+  padding: 0 3px 0 0;
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
   white-space: nowrap;
 } 
 
-li ruby {
-  line-height:70px;
-} 
+
 
 /* === css for <span> interlinear === */
 /* Container for each word */

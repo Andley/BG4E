@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5da0afe25f412b21",
+        "id": "38a01d9dbbf60d19",
         "type": "tabs",
         "children": [
           {
-            "id": "73ad822f55a0868f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW07-Key.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW07-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6a016cfd9a9e691d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4e5360c0c8fac94",
+            "id": "d5cf27305ac4ca41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -183,10 +162,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4e5360c0c8fac94",
+  "active": "d5cf27305ac4ca41",
   "lastOpenFiles": [
-    "Syntax/definition.md",
+    "BBG4E/HW-Key/分詞複習2.md",
+    "BBG4E/HW-Key/分詞複習1.md",
+    "BBG4E/HW-Key/複習.md",
     "BBG4E/HW-Key/HW07-Key.md",
+    "BBG4E/HW-Key/條件句 (sentence) 複習.md",
+    "BBG4E/HW/HW07.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW-Key/HW05-Key.md",
+    "BBG4E/HW-Key/HW12-PreachingNote.md",
+    "BBG4E/HW-Key/HW12-Key.md",
+    "BBG4E/HW-Key/HW11-PreachingNote.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-Key/HW9-Key.md",
+    "BBG4E/HW-Key/HW8-Key.md",
+    "BBG4E/HW-Key/HW04-Key.md",
+    "BBG4E/HW-Key/HW03-Key.md",
+    "BBG4E/HW-Key/HW02-Key.md",
+    "BBG4E/HW-Key/HW01-Key.md",
+    "Syntax/definition.md",
     "40-Matthew/Mat.7.24-29.md",
     "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/Mat.7.15-20.md",
@@ -194,23 +190,6 @@
     "GDNTG/GDNTG-TOC.md",
     "Syntax/The Cases for Time.md",
     "Syntax/Campbell – Basics of Verbal Aspect.md",
-    "Syntax/§57.5.md",
-    "Syntax/§520.md",
-    "Syntax/§515.md",
-    "Syntax/§514.md",
-    "Syntax/§513.md",
-    "Syntax/§512.md",
-    "Syntax/§511.md",
-    "BBG4E/§9.md",
-    "BBG4E/§8.md",
-    "Mounce-Syntax-Summary.md",
-    "Tools/Interlinear-Sandbox.md",
-    "Tools/RUBY-performance.md",
-    "Tools/UNICODE.md",
-    "Tools/SPAN-performance.md",
-    "BBG4E/Untitled.md",
-    "BBG4E/HW/HW01.md",
-    "BBG4E/HW-Key/HW02-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",

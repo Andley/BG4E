@@ -8,8 +8,8 @@
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 75
+    "margin": "2",
+    "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",

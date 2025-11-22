@@ -14,7 +14,7 @@
   "concurrency": "5",
   "prevConfig": {
     "pageSize": "A4",
-    "marginType": "1",
+    "marginType": "2",
     "showTitle": false,
     "open": true,
     "scale": 0,
