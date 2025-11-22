@@ -8,52 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1fcb13eeca30853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax/definition.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "definition"
-            }
-          },
-          {
             "id": "73ad822f55a0868f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mat.7.24-29"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "de59bce8941de632",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b1217c59bdf1f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "BBG4E/HW-Key/HW07-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.7.24-29"
+              "title": "HW07-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a016cfd9a9e691d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e5360c0c8fac94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW07-Key.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW07-Key"
             }
           }
         ]
@@ -198,15 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73ad822f55a0868f",
+  "active": "f4e5360c0c8fac94",
   "lastOpenFiles": [
-    "40-Matthew/Mat.7.21-23.md",
+    "Syntax/definition.md",
+    "BBG4E/HW-Key/HW07-Key.md",
     "40-Matthew/Mat.7.24-29.md",
+    "40-Matthew/Mat.7.21-23.md",
     "40-Matthew/Mat.7.15-20.md",
     "GDNTG/Chapter04.md",
     "GDNTG/GDNTG-TOC.md",
     "Syntax/The Cases for Time.md",
-    "Syntax/definition.md",
     "Syntax/Campbell – Basics of Verbal Aspect.md",
     "Syntax/§57.5.md",
     "Syntax/§520.md",
@@ -225,7 +211,6 @@
     "BBG4E/Untitled.md",
     "BBG4E/HW/HW01.md",
     "BBG4E/HW-Key/HW02-Key.md",
-    "BBG4E/HW-Key/HW01-Key.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
