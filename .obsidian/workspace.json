@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mounce-Syntax-Summary.md",
+                "file": "BBG4E/HW-Key/HW08-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW08-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "419a34be62fae945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc5b46c23e02235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW08-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mounce-Syntax-Summary"
+              "title": "HW08-Key"
             }
           }
         ]
@@ -93,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -165,6 +186,9 @@
   "active": "d5cf27305ac4ca41",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW07-Key.md",
+    "BBG4E/HW-Key/HW08-Key.md",
+    "BBG4E/HW/HW08.md",
+    "Mounce-Syntax-Summary.md",
     "BBG4E/HW-Key/分詞複習2.md",
     "BBG4E/HW-Key/分詞複習1.md",
     "BBG4E/HW-Key/複習.md",
@@ -177,7 +201,6 @@
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW9-Key.md",
-    "BBG4E/HW-Key/HW8-Key.md",
     "BBG4E/HW-Key/HW04-Key.md",
     "BBG4E/HW-Key/HW03-Key.md",
     "BBG4E/HW-Key/HW02-Key.md",
@@ -188,8 +211,6 @@
     "40-Matthew/Mat.7.15-20.md",
     "GDNTG/Chapter04.md",
     "GDNTG/GDNTG-TOC.md",
-    "Syntax/The Cases for Time.md",
-    "Syntax/Campbell – Basics of Verbal Aspect.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",

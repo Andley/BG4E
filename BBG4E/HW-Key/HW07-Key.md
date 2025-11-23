@@ -1,4 +1,4 @@
-# HW07 (約 3.14–18)  句法圖析
+# HW07 (約 3.14–18) 句法圖析
 
 
 - 3:14a <RUBY><ruby><ruby>καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> 
