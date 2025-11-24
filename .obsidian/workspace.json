@@ -6,7 +6,6 @@
       {
         "id": "38a01d9dbbf60d19",
         "type": "tabs",
-        "dimension": 21.418020679468242,
         "children": [
           {
             "id": "d5cf27305ac4ca41",
@@ -40,12 +39,11 @@
         "currentTab": 1
       },
       {
-        "id": "419a34be62fae945",
+        "id": "cc8f7e6767439cbb",
         "type": "tabs",
-        "dimension": 78.58197932053176,
         "children": [
           {
-            "id": "adc5b46c23e02235",
+            "id": "94ee3f1c0c2bd0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -200,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bd1dab7a295db0f",
+  "active": "94ee3f1c0c2bd0aa",
   "lastOpenFiles": [
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW-Key/Untitled.md",

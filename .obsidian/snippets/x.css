@@ -20,6 +20,24 @@ h6, .HyperMD-header-6 {  text-indent: 0.5em; }
 
 a {text-decoration: none; color:darkcyan; }
 
+/* === css for <ruby> Interlinear === */
+ruby {
+  font-size: 18px ; 
+  ruby-align:start;
+  padding: 0 1px 0 0;
+  font-family:  AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
+  line-height:80px;
+  font-weight: bold;
+}
+
+rt {
+  font-size: 16px ; 
+  font-weight:normal;
+  padding: 0 1px 0 0;
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
+  white-space: nowrap;
+} 
+
 /* === css for interlinear === */
 /* Container for each word */
 .w {

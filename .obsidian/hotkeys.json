@@ -219,8 +219,8 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
@@ -294,6 +294,15 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
