@@ -1,11 +1,10 @@
 [
   "obsidian-git",
   "wikilinks-to-mdlinks-obsidian",
-  "text-finder",
   "show-whitespace-cm6",
   "obsidian-tidy-footnotes",
   "automatic-table-of-contents",
   "better-export-pdf",
   "number-headings-obsidian",
-  "obsidian-enhancing-export"
+  "obsidian-regex-replace"
 ]

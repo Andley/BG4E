@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mat.7.21-23"
             }
+          },
+          {
+            "id": "8a2901e5d2827c77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94ee3f1c0c2bd0aa",
+  "active": "8a2901e5d2827c77",
   "lastOpenFiles": [
     "BBG4E/HW-Key/Untitled.md",
     "41-Mark/Mar.8.27-38.md",
