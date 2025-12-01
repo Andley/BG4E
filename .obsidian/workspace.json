@@ -6,6 +6,7 @@
       {
         "id": "6bf2a10696d774de",
         "type": "tabs",
+        "dimension": 45.991902834008094,
         "children": [
           {
             "id": "fef6c32dd4287271",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter12.md",
+                "file": "BBG4E/HW-Key/HW08-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW08-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74be6e22a040fcf8",
+        "type": "tabs",
+        "dimension": 54.0080971659919,
+        "children": [
+          {
+            "id": "8828e6e0a74579cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW08-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter12"
+              "title": "HW08-Key"
             }
           }
         ]
@@ -89,12 +111,12 @@
               "title": "Outline of Mat.7.15-20"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -165,11 +187,11 @@
   },
   "active": "fef6c32dd4287271",
   "lastOpenFiles": [
+    "GDNTG/Chapter12.md",
     "GDNTG/GDNTG-TOC.md",
     "Syntax/Relative Clause.md",
     "Syntax/§000.md",
     "40-Matthew/Mat.7.1-6.md",
-    "GDNTG/Chapter12.md",
     "40-Matthew/Mat.7.21-23.md",
     "BBG4E/HW-Key/Untitled.md",
     "41-Mark/Mar.8.27-38.md",
