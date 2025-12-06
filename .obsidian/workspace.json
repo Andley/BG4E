@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "6bf2a10696d774de",
+        "id": "ade89db3c1c3bc6d",
         "type": "tabs",
         "children": [
           {
-            "id": "fef6c32dd4287271",
+            "id": "11d9fea58c2d60f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Matthew/Mat.7.24-29.md",
+                "file": "BBG4E/HW-Key/HW09-Key.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW09-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "047b9054fcaa6227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7670b30a88d41858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW09-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mat.7.24-29"
+              "title": "HW09-Key"
             }
           }
         ]
@@ -93,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -162,8 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fef6c32dd4287271",
+  "active": "11d9fea58c2d60f9",
   "lastOpenFiles": [
+    "BBG4E/HW/HW09.md",
+    "BBG4E/HW-Key/HW09-Key.md",
+    "BBG4E/HW-Key/HW08-Key.md",
+    "BBG4E/HW-Key/Untitled.md",
+    "BBG4E/HW/HW08.md",
+    "BBG4E/HW-Key/複習.md",
+    "40-Matthew/Mat.7.24-29.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter12.md",
@@ -177,19 +205,12 @@
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
-    "BBG4E/HW-Key/HW08-Key.md",
     "Syntax/Relative Clause.md",
     "Syntax/§000.md",
     "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.7.21-23.md",
-    "BBG4E/HW-Key/Untitled.md",
     "41-Mark/Mar.8.27-38.md",
     "BBG4E/HW/HWy.md",
-    "BBG4E/HW/Untitled.md",
-    "BBG4E/HW/Untitled 1.md",
-    "BBG4E/HW/HW01.md",
-    "BBG4E/HW/HW03.md",
-    "BBG4E/HW/HW05.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",

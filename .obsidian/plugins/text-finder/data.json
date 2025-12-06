@@ -1,0 +1,26 @@
+{
+  "clearAfterHidden": false,
+  "enableInputHotkeys": true,
+  "sourceModeWhenSearch": true,
+  "moveCursorToMatch": true,
+  "useSelectionAsSearch": true,
+  "useObsidianSearchInRead": true,
+  "useEscapeCharInReplace": true,
+  "enableHistory": true,
+  "historyMaxCount": 10,
+  "historySortOrder": "lastUsedAt",
+  "searchHistory": [
+    {
+      "text": "]",
+      "lastUsedAt": 1765058517409,
+      "createdAt": 1765058514110,
+      "count": 1
+    },
+    {
+      "text": "(\\d:\\d+)",
+      "lastUsedAt": 1765063112522,
+      "createdAt": 1765063054898,
+      "count": 2
+    }
+  ]
+}
