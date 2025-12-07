@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW09-Key.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Key/HW08-Key.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW09-Key"
+              "title": "HW08-Key"
             }
           }
         ]
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,8 +184,8 @@
   },
   "active": "11d9fea58c2d60f9",
   "lastOpenFiles": [
-    "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW09-Key.md",
+    "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW08-Key.md",
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW/HW08.md",
