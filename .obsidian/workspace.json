@@ -14,27 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BBG4E/HW-Key/HW09-Key.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW09-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0c00edf68cd08ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6aeb8cab3cbc860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW09-Key.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -185,8 +165,8 @@
   "active": "11d9fea58c2d60f9",
   "lastOpenFiles": [
     "BBG4E/HW/HW09.md",
-    "BBG4E/HW/HW08.md",
     "BBG4E/HW-Key/HW09-Key.md",
+    "BBG4E/HW/HW08.md",
     "BBG4E/HW-Key/HW08-Key.md",
     "BBG4E/HW-Key/HW07-Key.md",
     "BBG4E/HW-Key/HW06-Key.md",
