@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW08-Key.md",
+                "file": "BBG4E/HW-Key/HW09-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW08-Key"
+              "title": "HW09-Key"
             }
           }
         ]
       },
       {
-        "id": "047b9054fcaa6227",
+        "id": "c0c00edf68cd08ad",
         "type": "tabs",
         "children": [
           {
-            "id": "7670b30a88d41858",
+            "id": "d6aeb8cab3cbc860",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,11 +184,13 @@
   },
   "active": "11d9fea58c2d60f9",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW09-Key.md",
     "BBG4E/HW/HW09.md",
-    "BBG4E/HW-Key/HW08-Key.md",
-    "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW/HW08.md",
+    "BBG4E/HW-Key/HW09-Key.md",
+    "BBG4E/HW-Key/HW08-Key.md",
+    "BBG4E/HW-Key/HW07-Key.md",
+    "BBG4E/HW-Key/HW06-Key.md",
+    "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW-Key/複習.md",
     "40-Matthew/Mat.7.24-29.md",
     "GDNTG/GDNTG-TOC.md",
@@ -208,8 +210,6 @@
     "Syntax/§000.md",
     "40-Matthew/Mat.7.1-6.md",
     "40-Matthew/Mat.7.21-23.md",
-    "41-Mark/Mar.8.27-38.md",
-    "BBG4E/HW/HWy.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
