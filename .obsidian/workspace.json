@@ -6,41 +6,39 @@
       {
         "id": "ade89db3c1c3bc6d",
         "type": "tabs",
-        "dimension": 38.01711840228245,
         "children": [
           {
-            "id": "11d9fea58c2d60f9",
+            "id": "c93d8b287776b629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW09-Key.md",
+                "file": "58-Hebrews/Heb.12.1-2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW09-Key"
+              "title": "Heb.12.1-2"
             }
           }
         ]
       },
       {
-        "id": "106d908b9dbac32e",
+        "id": "b1dc13ef34b017d0",
         "type": "tabs",
-        "dimension": 61.982881597717544,
         "children": [
           {
-            "id": "63d582dfb7ed5956",
+            "id": "ef64a03b8807b232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW09-Key.md",
+                "file": "58-Hebrews/Heb.12.1-2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW09-Key"
+              "title": "Heb.12.1-2"
             }
           }
         ]
@@ -115,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11d9fea58c2d60f9",
+  "active": "c93d8b287776b629",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW09-Key.md",
+    "58-Hebrews/Heb.12.1-2.md",
+    "58-Hebrews/Heb.1.1-4.md",
+    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW/HW10.md",
     "BBG4E/HW-Key/HW08-Key.md",
     "BBG4E/HW/HW09.md",
@@ -210,8 +211,6 @@
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
-    "Syntax/Relative Clause.md",
-    "Syntax/§000.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
