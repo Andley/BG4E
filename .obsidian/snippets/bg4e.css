@@ -53,16 +53,10 @@ rt {
 }
 /* surface text */
 .w .t {
-  font-size: 1.2em;
-  line-height:1.5em;
+  font-size: 1em;
 }
 /* gloss */
 .w .g {
-  font-size: 0.85em;
-  line-height:1em;
-}
-/* morphology */
-.w .m {
   font-size: 0.85em;
   line-height:1em;
 }
@@ -70,7 +64,13 @@ rt {
 .w .l {
   font-size: 1em;
   line-height:1em;
-  margin-bottom: 1em;
+  padding-bottom: 0.1em;
+}
+/* morphology */
+.w .m {
+  font-size: 0.85em;
+  line-height:1em;
+  padding-bottom: 0.2em;
 }
 
 a {text-decoration: none; color: var(--text-link); }
@@ -137,7 +137,7 @@ em{
   --text-tag: darkblue;
   --text-faint:gray;
   --text-link:#09628f;
-  --text-color:#000000;
+  --text-color:black;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
