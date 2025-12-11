@@ -6,6 +6,7 @@
       {
         "id": "b1dc13ef34b017d0",
         "type": "tabs",
+        "dimension": 47.59852216748769,
         "children": [
           {
             "id": "ef64a03b8807b232",
@@ -13,12 +14,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.12.1-2.md",
+                "file": "66-Revelation/Rev.1.4-6.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Heb.12.1-2"
+              "title": "Rev.1.4-6"
+            }
+          },
+          {
+            "id": "08e6cd999044004f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66-Revelation/Worship in Revelation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Worship in Revelation"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a949c08db90ad975",
+        "type": "tabs",
+        "dimension": 52.40147783251231,
+        "children": [
+          {
+            "id": "eabc76f2a7c72ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66-Revelation/Worship in Revelation.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Worship in Revelation"
             }
           }
         ]
@@ -163,10 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef64a03b8807b232",
+  "active": "08e6cd999044004f",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW09-Key.md",
+    "66-Revelation/Rev.1.4-6.md",
+    "66-Revelation/Worship in Revelation.md",
     "58-Hebrews/Heb.12.1-2.md",
+    "BBG4E/HW-Key/HW09-Key.md",
     "58-Hebrews/Heb.1.1-4.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW/HW10.md",
@@ -189,8 +228,6 @@
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
-    "GDNTG/Chapter03.md",
-    "GDNTG/Chapter02.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
