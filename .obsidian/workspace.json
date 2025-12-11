@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "ade89db3c1c3bc6d",
-        "type": "tabs",
-        "dimension": 31.831610044313148,
-        "children": [
-          {
-            "id": "c93d8b287776b629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "58-Hebrews/Heb.12.1-2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Heb.12.1-2"
-            }
-          }
-        ]
-      },
-      {
         "id": "b1dc13ef34b017d0",
         "type": "tabs",
-        "dimension": 68.16838995568686,
         "children": [
           {
             "id": "ef64a03b8807b232",
@@ -185,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c93d8b287776b629",
+  "active": "ef64a03b8807b232",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW09-Key.md",
     "58-Hebrews/Heb.12.1-2.md",
