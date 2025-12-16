@@ -4,58 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1dc13ef34b017d0",
+        "id": "a9db523ff77e6422",
         "type": "tabs",
-        "dimension": 47.59852216748769,
         "children": [
           {
-            "id": "ef64a03b8807b232",
+            "id": "0de64660dcaf6ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66-Revelation/Rev.1.4-6.md",
+                "file": "BBG4E/HW-Key/複習.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rev.1.4-6"
-            }
-          },
-          {
-            "id": "08e6cd999044004f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "66-Revelation/Worship in Revelation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Worship in Revelation"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a949c08db90ad975",
-        "type": "tabs",
-        "dimension": 52.40147783251231,
-        "children": [
-          {
-            "id": "eabc76f2a7c72ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "66-Revelation/Worship in Revelation.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Worship in Revelation"
+              "title": "複習"
             }
           }
         ]
@@ -200,22 +163,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08e6cd999044004f",
+  "active": "0de64660dcaf6ac3",
   "lastOpenFiles": [
-    "66-Revelation/Rev.1.4-6.md",
-    "66-Revelation/Worship in Revelation.md",
-    "58-Hebrews/Heb.12.1-2.md",
+    "BBG4E/HW/HW09.md",
+    "BBG4E/HW-Key/複習.md",
     "BBG4E/HW-Key/HW09-Key.md",
+    "58-Hebrews/Heb.12.1-2.md",
+    "66-Revelation/Worship in Revelation.md",
+    "66-Revelation/Rev.1.4-6.md",
     "58-Hebrews/Heb.1.1-4.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW/HW10.md",
     "BBG4E/HW-Key/HW08-Key.md",
-    "BBG4E/HW/HW09.md",
     "BBG4E/HW/HW08.md",
     "BBG4E/HW-Key/HW07-Key.md",
     "BBG4E/HW-Key/HW06-Key.md",
     "BBG4E/HW-Key/Untitled.md",
-    "BBG4E/HW-Key/複習.md",
     "40-Matthew/Mat.7.24-29.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter13.md",
