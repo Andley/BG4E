@@ -11,10 +11,34 @@
             "id": "c4118e7e2212cee0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HW10-Key"
+            }
+          }
+        ]
+      },
+      {
+        "id": "83ad2f053983d4ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ffe9dcea7c4013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW10-Key"
             }
           }
         ]
@@ -159,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4118e7e2212cee0",
+  "active": "c1ffe9dcea7c4013",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
