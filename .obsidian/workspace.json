@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,10 +184,10 @@
   },
   "active": "aecabf555450cd56",
   "lastOpenFiles": [
-    "BBG4E/HW/HW11.md",
-    "BBG4E/HW-Key/HW11-Key.md",
-    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
+    "BBG4E/HW-Key/HW11-Key.md",
+    "BBG4E/HW/HW11.md",
+    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW09-Key.md",
