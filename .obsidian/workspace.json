@@ -6,6 +6,7 @@
       {
         "id": "48d9dc98c464d448",
         "type": "tabs",
+        "dimension": 22.402159244264507,
         "children": [
           {
             "id": "c4118e7e2212cee0",
@@ -26,6 +27,7 @@
       {
         "id": "83ad2f053983d4ee",
         "type": "tabs",
+        "dimension": 77.59784075573549,
         "children": [
           {
             "id": "c1ffe9dcea7c4013",
@@ -183,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1ffe9dcea7c4013",
+  "active": "c4118e7e2212cee0",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
