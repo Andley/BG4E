@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW11-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "69583b6dc0279139",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6db019d6b28d1ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "file": "51-Colossians/Col.1.9-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-Key"
+              "title": "Col.1.9-20"
             }
           }
         ]
@@ -184,8 +164,8 @@
   },
   "active": "aecabf555450cd56",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW11-Key.md",
+    "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/複習.md",
