@@ -4,43 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "48d9dc98c464d448",
+        "id": "30a3980a6aea1386",
         "type": "tabs",
-        "dimension": 22.402159244264507,
         "children": [
           {
-            "id": "c4118e7e2212cee0",
+            "id": "aecabf555450cd56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "BBG4E/HW-Key/HW11-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW10-Key"
+              "title": "HW11-Key"
             }
           }
         ]
       },
       {
-        "id": "83ad2f053983d4ee",
+        "id": "69583b6dc0279139",
         "type": "tabs",
-        "dimension": 77.59784075573549,
         "children": [
           {
-            "id": "c1ffe9dcea7c4013",
+            "id": "6db019d6b28d1ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW10-Key.md",
+                "file": "BBG4E/HW-Key/HW11-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW10-Key"
+              "title": "HW11-Key"
             }
           }
         ]
@@ -185,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4118e7e2212cee0",
+  "active": "aecabf555450cd56",
   "lastOpenFiles": [
+    "BBG4E/HW/HW11.md",
+    "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/複習.md",
@@ -211,8 +211,6 @@
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter08.md",
     "GDNTG/Chapter07.md",
-    "GDNTG/Chapter06.md",
-    "GDNTG/Chapter05.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
