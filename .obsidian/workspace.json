@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "51-Colossians/Col.1.9-20.md",
+                "file": "57-Philemon/Phm.1.4-7.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phm.1.4-7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6837c6fcf0fcd0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2e609fbdb21a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "57-Philemon/Phm.1.4-7.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Col.1.9-20"
+              "title": "Phm.1.4-7"
             }
           }
         ]
@@ -93,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -164,6 +185,7 @@
   },
   "active": "aecabf555450cd56",
   "lastOpenFiles": [
+    "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW/HW11.md",
@@ -189,7 +211,6 @@
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter08.md",
-    "GDNTG/Chapter07.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",

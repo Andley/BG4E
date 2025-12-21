@@ -48,30 +48,22 @@ rt {
 .w {
   display: inline-grid;
   grid-template-rows: auto auto auto auto;
-  margin: 0 0.2em;
+  margin: 0 0.1em 0.5em 0em;
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
 }
 /* surface text */
 .w .t {
   font-size: 1em;
-}
-/* gloss */
-.w .g {
-  font-size: 0.85em;
   line-height:1em;
+  padding-bottom:0.2em;
 }
 /* lemma and link */
-.w .l {
-  font-size: 1em;
-  line-height:1em;
-  padding-bottom: 0.1em;
-}
-/* morphology */
-.w .m {
+.w .l, .w .g, .w .m  {
   font-size: 0.85em;
-  line-height:1em;
-  padding-bottom: 0.2em;
+  line-height:0.85em;
+  padding-bottom:0.3em;
 }
+
 
 a {text-decoration: none; color: var(--text-link); }
 
