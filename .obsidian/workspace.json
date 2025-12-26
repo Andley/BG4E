@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "30a3980a6aea1386",
+        "id": "c6837c6fcf0fcd0c",
         "type": "tabs",
+        "dimension": 45.040049291435615,
         "children": [
           {
-            "id": "aecabf555450cd56",
+            "id": "0a2e609fbdb21a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "c6837c6fcf0fcd0c",
+        "id": "217f30c83f265aa1",
         "type": "tabs",
+        "dimension": 54.959950708564385,
         "children": [
           {
-            "id": "0a2e609fbdb21a85",
+            "id": "7bb72a889589a88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aecabf555450cd56",
+  "active": "0a2e609fbdb21a85",
   "lastOpenFiles": [
-    "57-Philemon/Phm.1.4-7.md",
-    "BBG4E/HW-Key/HW11-Key.md",
-    "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
+    "BBG4E/HW-Key/HW11-Key.md",
+    "57-Philemon/Phm.1.4-7.md",
+    "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW/HW11.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/複習.md",
