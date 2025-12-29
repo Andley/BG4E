@@ -200,14 +200,6 @@
       "key": "G"
     }
   ],
-  "better-export-pdf:export-current-file-to-pdf": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "window:reset-zoom": [
     {
       "modifiers": [
@@ -296,7 +288,15 @@
       "key": "D"
     }
   ],
-  "workspace:export-pdf": [
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "better-export-pdf:export-current-file-to-pdf": [
     {
       "modifiers": [
         "Alt",
@@ -305,12 +305,12 @@
       "key": "P"
     }
   ],
-  "obsidian-regex-replace:obsidian-regex-replace": [
+  "canvas:export-as-image": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "H"
+      "key": "P"
     }
   ]
 }
