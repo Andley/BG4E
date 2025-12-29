@@ -6,6 +6,7 @@
       {
         "id": "217f30c83f265aa1",
         "type": "tabs",
+        "dimension": 20.445344129554655,
         "children": [
           {
             "id": "7bb72a889589a88e",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-PreachingNote.md",
+                "file": "BBG4E/HW-Key/HW10-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-PreachingNote"
+              "title": "HW10-Key"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "e57d802c6e9a4195",
         "type": "tabs",
+        "dimension": 79.55465587044534,
         "children": [
           {
             "id": "7ad32673763e231e",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "file": "BBG4E/HW-Key/HW10-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-Key"
+              "title": "HW10-Key"
             }
           }
         ]
@@ -113,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -185,13 +188,13 @@
   "active": "7bb72a889589a88e",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW11-Key.md",
+    "BBG4E/HW-Key/HW10-Key.md",
+    "BBG4E/HW-Key/HW11-PreachingNote.md",
     "GDNTG/Chapter06.md",
     "GDNTG/GDNTG-TOC.md",
-    "BBG4E/HW-Key/HW11-PreachingNote.md",
     "57-Philemon/Phm.1.4-7.md",
     "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW/HW11.md",
-    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW09-Key.md",
