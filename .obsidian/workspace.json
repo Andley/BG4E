@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-PreachingNote.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-PreachingNote"
+              "title": "HW11-Key"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ad32673763e231e",
+  "active": "7bb72a889589a88e",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
+    "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "GDNTG/Chapter06.md",
     "GDNTG/GDNTG-TOC.md",
