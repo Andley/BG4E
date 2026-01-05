@@ -299,15 +299,15 @@
   "better-export-pdf:export-current-file-to-pdf": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "P"
     }
   ],
-  "canvas:export-as-image": [
+  "workspace:export-pdf": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "P"
