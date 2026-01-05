@@ -2,8 +2,19 @@
 
 希臘文相關的數位工具不勝枚舉，以下僅列出幾個比較有特色的工具 (💰=付費；🆓=免費)。
 
+## 逐行對照 (Interlinear)
+
+### 電腦版
+### 網頁版
+- [Bible Hub](https://biblehub.com/interlinear/matthew/1.htm)
+	- ![../Pasted image 20260106063103.png](../Pasted%20image%2020260106063103.png)
+- [Blue Letter Bible](https://www.blueletterbible.org/tools/interlinear/tr/mat/1/1/)
+	- ![../Pasted image 20260106063147.png](../Pasted%20image%2020260106063147.png)
+### Android
+### iOS
 ## 圖析 (Diagram)
-### 字詞層級 (word level)
+
+### 字詞層級 (word-level)
 - [💰Randy Leedy — New Testament Greek Guy](https://www.ntgreekguy.com/)
 	- ![[images/Pasted image 20210913211615.png]]
 	- "I found Colossians 1:9-20 to be one of the New Testament's most challenging sentences to diagram within ordinary page-size boundaries."
@@ -14,7 +25,7 @@
 	- ![images/Pasted image 20241105152150.png](images/Pasted%20image%2020241105152150.png)
 
 
-### 句法層級 (syntax level)
+### 子句層級 (clause-level)
 - [🆓OpenText Project](http://www.opentext.org/)
 	- ![images/Pasted image 20241105152607.png](images/Pasted%20image%2020241105152607.png)
 - [💰Accordance Bible Software — Grammatical Syntax add-on](https://accordancebible.com/product/grammatical-syntax-add-on-to-gnt28-t/)

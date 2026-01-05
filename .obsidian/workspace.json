@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "217f30c83f265aa1",
+        "id": "6e78757c00343c55",
         "type": "tabs",
-        "dimension": 49.79757085020244,
         "children": [
           {
-            "id": "7bb72a889589a88e",
+            "id": "9e3dfdd3b99480fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "file": "Tools/Digital-Tools.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-Key"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e57d802c6e9a4195",
-        "type": "tabs",
-        "dimension": 50.20242914979756,
-        "children": [
-          {
-            "id": "7ad32673763e231e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW11-PreachingNote.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW11-PreachingNote"
+              "title": "Digital-Tools"
             }
           }
         ]
@@ -115,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -184,8 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bb72a889589a88e",
+  "active": "9e3dfdd3b99480fd",
   "lastOpenFiles": [
+    "Pasted image 20260106063147.png",
+    "Pasted image 20260106063103.png",
+    "Pasted image 20260106062834.png",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
@@ -211,7 +193,6 @@
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter12.md",
     "GDNTG/Chapter11.md",
-    "GDNTG/Chapter10.md",
     "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG/GDNTG2.png",
@@ -228,8 +209,6 @@
     "Pasted image 20250520071106.png",
     "Pasted image 20250520071008.png",
     "Pasted image 20250523103650.png",
-    "images/Pasted image 20250104090019.png",
-    "images/Pasted image 20250104085947.png",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf"
