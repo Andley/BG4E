@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "file": "BBG4E/HW-Key/HW11-PreachingNote.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-Key"
+              "title": "HW11-PreachingNote"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW11-Key.md",
+                "file": "BBG4E/HW-Key/HW11-PreachingNote.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW11-Key"
+              "title": "HW11-PreachingNote"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bb72a889589a88e",
+  "active": "7ad32673763e231e",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW10-Key.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
+    "BBG4E/HW-Key/HW10-Key.md",
     "GDNTG/Chapter06.md",
     "GDNTG/GDNTG-TOC.md",
     "57-Philemon/Phm.1.4-7.md",

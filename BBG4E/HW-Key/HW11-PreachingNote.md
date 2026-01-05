@@ -58,3 +58,27 @@
 	- (2c) 只要你願意開始彼此相愛 (3:10)
 		- 教會實際例證
 			- 約13:35 你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。 
+
+
+## 大綱 #2
+出處：Bateman IV, Herbert W. _John’s Letters: An Exegetical Guide for Preaching and Teaching_. Big Greek Ideas. Grand Rapids, MI.: Kregel Academic, 2018.
+- God's Presence and Right Living Determines Paternity (vv. 27–29)
+	- God's presence reminds believers that Jesus is God's Messiah (v. 27)
+	- An expectation is given to remain in Jesus until he comes again (v. 28)
+	- Living rightly determines paternity (v.29)
+- God's children Are Loved, Celebrated, and Rejected (v. 1)
+	- God's children experience divine love (v. 1a–b)
+	- God's children are celebrated children (v. 1c)
+	- God's children are rejected by the world (v. 1d–e)
+- God's children Are Different (vv. 2–6)
+	- God's children anticipate and imitate Jesus (vv. 2–3)
+	- God's children differ from selfish self-serving people (vv. 4–5)
+	- God's children differ from those who persist in wrongdoing (v. 6)
+- God's children are Warned (vv.7-10)
+	- God's children are to avoid being misinformed (v.7)
+	- God's children are to distinguish between imitators of Jesus and imitators of the Devil (v.8)
+	- God's children's paternity is evident in the absence of selfishness (vv.9-10)
+
+## 大綱 #3
+
+1.t帝兒女的特權 與責任 （二28～三10)
