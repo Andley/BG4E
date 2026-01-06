@@ -6,7 +6,7 @@
       {
         "id": "6e78757c00343c55",
         "type": "tabs",
-        "dimension": 41.90101237345332,
+        "dimension": 53.467666354264296,
         "children": [
           {
             "id": "9e3dfdd3b99480fd",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "f246399af4b0e811",
+        "id": "d059b13d71969b75",
         "type": "tabs",
-        "dimension": 58.09898762654668,
+        "dimension": 46.532333645735704,
         "children": [
           {
-            "id": "5484063435f4cb80",
+            "id": "93bba8934e1448e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,6 +187,10 @@
   },
   "active": "9e3dfdd3b99480fd",
   "lastOpenFiles": [
+    "Pasted image 20260106152343.png",
+    "Pasted image 20260106152338.png",
+    "Pasted image 20260106152253.png",
+    "Pasted image 20260106152049.png",
     "Pasted image 20260106083511.png",
     "Pasted image 20260106082144.png",
     "Pasted image 20260106082136.png",
@@ -194,10 +198,6 @@
     "Pasted image 20260106082005.png",
     "Pasted image 20260106081742.png",
     "Pasted image 20260106080111.png",
-    "Pasted image 20260106075824.png",
-    "Pasted image 20260106075519.png",
-    "Pasted image 20260106075514.png",
-    "Pasted image 20260106075331.png",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
