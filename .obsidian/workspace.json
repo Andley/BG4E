@@ -6,9 +6,31 @@
       {
         "id": "6e78757c00343c55",
         "type": "tabs",
+        "dimension": 41.90101237345332,
         "children": [
           {
             "id": "9e3dfdd3b99480fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Digital-Tools.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Digital-Tools"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f246399af4b0e811",
+        "type": "tabs",
+        "dimension": 58.09898762654668,
+        "children": [
+          {
+            "id": "5484063435f4cb80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,9 +187,17 @@
   },
   "active": "9e3dfdd3b99480fd",
   "lastOpenFiles": [
-    "Pasted image 20260106063147.png",
-    "Pasted image 20260106063103.png",
-    "Pasted image 20260106062834.png",
+    "Pasted image 20260106083511.png",
+    "Pasted image 20260106082144.png",
+    "Pasted image 20260106082136.png",
+    "Pasted image 20260106082129.png",
+    "Pasted image 20260106082005.png",
+    "Pasted image 20260106081742.png",
+    "Pasted image 20260106080111.png",
+    "Pasted image 20260106075824.png",
+    "Pasted image 20260106075519.png",
+    "Pasted image 20260106075514.png",
+    "Pasted image 20260106075331.png",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
@@ -193,11 +223,7 @@
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter12.md",
     "GDNTG/Chapter11.md",
-    "KB_Greek_polytonic_Unicode.svg",
     "BBG4E/BG4E 規劃.canvas",
-    "GDNTG/GDNTG2.png",
-    "GDNTG/GDNTG1.png",
-    "Pasted image 20250723100452.png",
     "GDNTG",
     "BBG4E/HW-Macula",
     "Untitled",
@@ -205,10 +231,6 @@
     "BBG4E/HW",
     "Tools",
     "Memorize",
-    "Pasted image 20250520070954.png",
-    "Pasted image 20250520071106.png",
-    "Pasted image 20250520071008.png",
-    "Pasted image 20250523103650.png",
     "59-James/2John-Interlinear.pdf",
     "59-James/James-Interlinear.pdf",
     "59-James/Untitled.pdf"
