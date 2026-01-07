@@ -6,7 +6,7 @@
       {
         "id": "6e78757c00343c55",
         "type": "tabs",
-        "dimension": 53.467666354264296,
+        "dimension": 50.101146325016856,
         "children": [
           {
             "id": "9e3dfdd3b99480fd",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Digital-Tools.md",
+                "file": "BBG4E/HW-Key/HW12-Key.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Digital-Tools"
+              "title": "HW12-Key"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d059b13d71969b75",
         "type": "tabs",
-        "dimension": 46.532333645735704,
+        "dimension": 49.89885367498314,
         "children": [
           {
             "id": "93bba8934e1448e6",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Digital-Tools.md",
+                "file": "BBG4E/HW-Key/HW12-Key.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Digital-Tools"
+              "title": "HW12-Key"
             }
           }
         ]
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -186,6 +187,11 @@
   },
   "active": "9e3dfdd3b99480fd",
   "lastOpenFiles": [
+    "BBG4E/HW-Key/HW11-Key.md",
+    "BBG4E/HW-Key/HW12-Key.md",
+    "Tools/Digital-Tools.md",
+    "BBG4E/HW/HW12.md",
+    "BBG4E/HW/HW11.md",
     "Pasted image 20260106152343.png",
     "Pasted image 20260106152338.png",
     "Pasted image 20260106152253.png",
@@ -196,15 +202,12 @@
     "Pasted image 20260106082129.png",
     "Pasted image 20260106082005.png",
     "Pasted image 20260106081742.png",
-    "Pasted image 20260106080111.png",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
-    "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW10-Key.md",
     "GDNTG/Chapter06.md",
     "GDNTG/GDNTG-TOC.md",
     "57-Philemon/Phm.1.4-7.md",
     "51-Colossians/Col.1.9-20.md",
-    "BBG4E/HW/HW11.md",
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW09-Key.md",
@@ -220,8 +223,6 @@
     "BBG4E/HW-Key/Untitled.md",
     "40-Matthew/Mat.7.24-29.md",
     "GDNTG/Chapter13.md",
-    "GDNTG/Chapter12.md",
-    "GDNTG/Chapter11.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG",
     "BBG4E/HW-Macula",
