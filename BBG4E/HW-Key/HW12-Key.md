@@ -70,7 +70,7 @@
 	- 8:17f[^22] <RUBY><ruby><ruby>εἴπερ<rt>既然 if indeed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01512&m='>εἴπερ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>συμπάσχομεν</span><rt>我們一同受苦 we suffer with [Him]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04841&m='>συμπάσχω</a></rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 		- 8:17g <RUBY><ruby><ruby>ἵνα<rt>為要 so that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02443&m='>ἵνα</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>也 also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>συνδοξασθῶμεν</span><rt>我們一同得榮耀 we may be glorified together</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04888&m='>συνδοξάζω</a></rt></ruby><rt>V-APS-1P</rt></RUBY>)P <span class='punctuation'>.</span><span class='paragraph'></span>
 
-[^1]: 根據上下文判斷，把省略的動詞補上，用「...省略的動詞...」符號表示。這裡補上的 ἐστιν 不是聯繫動詞，而是單純表達「存在」——意思是：對那些在基督耶穌裡的人來說，如此沒有定罪存在了。
+[^1]: 根據上下文判斷，把省略的動詞補上，用「...省略的動詞...」符號表示。這裡補上的 ἐστιν 不是聯繫動詞，而是單純表達「存在」——意思是：對那些在基督耶穌裡的人來說，如今沒有刑罰存在了。
 
 [^2]: νόμος τοῦ Πνεύματος τῆς ζωῆς：τῆς ζωῆς 修飾 τοῦ Πνεύματος，然後整組所有格片語 (τοῦ Πνεύματος τῆς ζωῆς) 修飾前面的名詞 νόμος。
 
