@@ -6,7 +6,7 @@
       {
         "id": "6e78757c00343c55",
         "type": "tabs",
-        "dimension": 50.13495276653172,
+        "dimension": 50.13495276653171,
         "children": [
           {
             "id": "9e3dfdd3b99480fd",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBG4E/HW-Key/HW12-Key.md",
-                "mode": "source",
+                "file": "BBG4E/HW-Key/HW12-PreachingNote.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW12-Key"
+              "title": "HW12-PreachingNote"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d059b13d71969b75",
         "type": "tabs",
-        "dimension": 49.86504723346828,
+        "dimension": 49.86504723346829,
         "children": [
           {
             "id": "93bba8934e1448e6",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -187,8 +186,8 @@
   },
   "active": "9e3dfdd3b99480fd",
   "lastOpenFiles": [
-    "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW12-Key.md",
+    "BBG4E/HW-Key/HW11-Key.md",
     "Tools/Digital-Tools.md",
     "BBG4E/HW/HW12.md",
     "BBG4E/HW/HW11.md",
