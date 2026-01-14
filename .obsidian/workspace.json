@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d059b13d71969b75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93bba8934e1448e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBG4E/HW-Key/HW12-Key.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW12-Key"
-            }
-          }
-        ]
-      },
-      {
         "id": "d6d0758c10e9fc52",
         "type": "tabs",
         "children": [
@@ -182,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93bba8934e1448e6",
+  "active": "19f395e8074caf72",
   "lastOpenFiles": [
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW12-Key.md",
