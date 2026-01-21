@@ -15,30 +15,45 @@
               "state": {
                 "file": "58-Hebrews/Heb.1.1-4.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Heb.1.1-4"
             }
-          }
-        ]
-      },
-      {
-        "id": "05c56572e31d4abd",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6dc1d4411a368a6d",
+            "id": "12d87d9c6a995122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
-                "mode": "preview",
-                "source": false
+                "file": "58-Hebrews/Untitled.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Heb.1.1-4"
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c5765f603ce77dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ce469da2379f6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Untitled.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -182,8 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc1d4411a368a6d",
+  "active": "4ce469da2379f6dc",
   "lastOpenFiles": [
+    "58-Hebrews/Heb.1.1-4.md",
+    "58-Hebrews/Untitled.md",
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW-Key/分詞複習2.md",
     "BBG4E/HW-Key/條件句 (sentence) 複習.md",
@@ -194,7 +211,6 @@
     "BBG4E/HW/Untitled.md",
     "BBG4E/HW/Untitled 1.md",
     "58-Hebrews/Heb.1.5-14.md",
-    "58-Hebrews/Heb.1.1-4.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW12-Key.md",
@@ -219,7 +235,6 @@
     "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW/HW09.md",
     "BBG4E/HW-Key/HW09-Key.md",
-    "58-Hebrews/Heb.12.1-2.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG",
     "BBG4E/HW-Macula",
