@@ -160,3 +160,52 @@ em{
 
 
 
+/* 外層容器：讓單字由左至右排列，超出寬度自動換行 */
+  .interlinear-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* 單字之間的間距 */
+    font-family: sans-serif;
+    line-height: 1.4;
+    padding: 10px;
+    background-color: #f9f9f9; /* 背景色，可自行調整 */
+    border-radius: 8px;
+  }
+
+  /* 單字卡：每個單字的垂直堆疊 */
+  .word-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 內容置中 */
+    padding: 5px;
+    border: 1px solid #e0e0e0; /* 每個單字的邊框，可拿掉 */
+    background: #fff;
+    min-width: 60px; /* 最小寬度 */
+  }
+
+  /* 第一行：原文 (加大加粗) */
+  .line-og {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #2c3e50;
+  }
+  
+  /* 第二行：音譯 (斜體) */
+  .line-tr {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #7f8c8d;
+  }
+
+  /* 第三行：文法 (縮小字體) */
+  .line-gr {
+    font-size: 0.75em;
+    color: #e67e22; /* 橘色標示文法 */
+  }
+
+  /* 第四行：翻譯 (中文) */
+  .line-zh {
+    font-weight: 500;
+    color: #27ae60; /* 綠色標示翻譯 */
+    margin-top: 2px;
+  }

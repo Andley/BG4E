@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Untitled.md",
-                "mode": "source",
+                "file": "58-Hebrews/Heb.1.1-4.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Heb.1.1-4"
+            }
+          },
+          {
+            "id": "d255209975b2666c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Untitled 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c5765f603ce77dfe",
@@ -48,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Untitled.md",
+                "file": "58-Hebrews/Heb.1.1-4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Heb.1.1-4"
             }
           }
         ]
@@ -197,9 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce469da2379f6dc",
+  "active": "d255209975b2666c",
   "lastOpenFiles": [
     "58-Hebrews/Heb.1.1-4.md",
+    "58-Hebrews/Untitled 1.md",
+    "58-Hebrews/Heb.1.5-14.md",
     "58-Hebrews/Untitled.md",
     "BBG4E/HW-Key/複習.md",
     "BBG4E/HW-Key/分詞複習2.md",
@@ -210,7 +226,6 @@
     "BBG4E/HW-Key/Untitled.md",
     "BBG4E/HW/Untitled.md",
     "BBG4E/HW/Untitled 1.md",
-    "58-Hebrews/Heb.1.5-14.md",
     "BBG4E/HW-Key/HW11-Key.md",
     "BBG4E/HW-Key/HW11-PreachingNote.md",
     "BBG4E/HW-Key/HW12-Key.md",
@@ -234,7 +249,6 @@
     "57-Philemon/Phm.1.4-7.md",
     "51-Colossians/Col.1.9-20.md",
     "BBG4E/HW/HW09.md",
-    "BBG4E/HW-Key/HW09-Key.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG",
     "BBG4E/HW-Macula",
