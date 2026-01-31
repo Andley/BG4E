@@ -1,0 +1,568 @@
+# **語篇語言學的宏觀結構分析**<br>（Macrostructure Analysis in Discourse Linguistics）
+
+
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 2 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+include: 
+exclude: 
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
+
+## **一、什麼是宏觀結構分析？**
+
+**宏觀結構**（macrostructure）是相對於**微觀結構**（microstructure）的概念：
+
+- **微觀結構**：句子層面的語法、詞彙、語義
+- **宏觀結構**：整個語篇（discourse）或文本（text）的整體組織和主題架構
+
+宏觀結構分析關注的是：「這篇文本如何作為一個**整體**（whole）來傳達意義？」
+
+---
+
+## **二、核心概念與分析工具**
+
+### **1. 篇章結構分析（Discourse Structure Analysis）**
+
+**定義**：識別文本如何被組織成有層次的單位。
+
+**具體操作**：
+
+**(a) 語篇單位劃分（Discourse Segmentation）**
+
+- **段落**（paragraph）
+- **段落組**（paragraph cluster / section）
+- **主要部分**（major division）
+
+**標記方法**：
+
+- **形式標記**（formal markers）：
+    - 希臘文：μέν...δέ（on one hand...on the other）
+    - 希伯來文：וְעַתָּה（and now）、הִנֵּה（behold）
+    - 新段落公式（paragraph formulas）
+- **主題轉換**（topic shift）：當討論對象改變
+- **時空轉換**（temporal/spatial shift）：敘事中的時間或地點變化
+- **人稱轉換**（person shift）：從第三人稱轉第二人稱等
+
+**實例**（約翰二書）：
+
+```
+vv. 1-3   開頭公式（epistolary opening）
+v. 4      轉換標記："我甚喜樂"（I rejoiced greatly）
+v. 5      轉換標記："我現在勸你"（And now I ask you）
+v. 7      轉換標記："因為"（For - γάρ）引入新的論證理由
+vv. 12-13 結尾公式（epistolary closing）
+```
+
+**(b) 層次結構（Hierarchical Structure）**
+
+文本不是平面的，而是有階層的：
+
+```
+約翰二書的層次結構範例：
+
+第一層：整封信
+    |
+    ├── 第二層：開頭（vv. 1-3）
+    ├── 第二層：主體（vv. 4-11）
+    │       ├── 第三層：愛的命令（vv. 4-6）
+    │       └── 第三層：真理的警告（vv. 7-11）
+    └── 第二層：結尾（vv. 12-13）
+```
+
+### **2. 主題分析（Thematic Analysis / Topic Analysis）**
+
+**定義**：識別文本討論的**主要論題**（main topics）和**次要論題**（subtopics）。
+
+**兩個層次的主題**：
+
+**(a) 整體主題（Global Theme / Macroproposition）**
+
+- 整篇文本的中心思想
+- 可以用一句話概括
+
+**(b) 局部主題（Local Theme / Topic）**
+
+- 各段落的主題
+- 組合起來支撐整體主題
+
+**識別方法**：
+
+**方法一：主題句識別**（Topic Sentence Identification）
+
+- 尋找**總結性陳述**（summary statements）
+- 尋找**目的子句**（purpose clauses）：ἵνα（in order that）, ὅπως（so that）
+
+**方法二：主題詞追蹤**（Topic Word Tracking）
+
+- 統計**關鍵詞頻率**（keyword frequency）
+- 觀察詞彙的**分佈**（distribution）
+
+**實例**（約翰三書）：
+
+```
+「真理」（truth）出現8次 → 可能是核心主題
+「接待」相關詞出現4次 → 可能是次主題
+「見證」出現6次 → 串聯真理與行為
+```
+
+### **3. 銜接與連貫分析（Cohesion and Coherence Analysis）**
+
+**銜接**（cohesion）和**連貫**（coherence）是不同概念：
+
+**(a) 銜接（Cohesion）**
+
+**定義**：文本表面的語言連接手段
+
+**五大銜接手段**（Halliday & Hasan的分類）：
+
+**i. 指稱銜接（Reference）**
+
+- **人稱指稱**（personal reference）：代詞（pronouns）
+    - 例：約翰三書v. 5「你」指該猶，「他們」指客旅
+- **指示指稱**（demonstrative reference）：this, that, these, those
+    - 例：「這就是愛」（二書v. 6）
+- **比較指稱**（comparative reference）：same, other, different
+
+**ii. 替代銜接（Substitution）**
+
+- 用另一個詞代替前面出現的詞
+- 希臘文較少用，多用省略
+
+**iii. 省略銜接（Ellipsis）**
+
+- 省略已提及的成分
+- 例：「凡越過基督教訓的，就沒有神；常守這教訓的，就有父又有子」（二書v. 9）
+    - 第二個子句省略了「凡...的人」
+
+**iv. 連接銜接（Conjunction）**
+
+- **添加**（additive）：καί（and）, καί...καί（both...and）
+- **轉折**（adversive）：ἀλλά（but）, πλήν（however）
+- **因果**（causal）：γάρ（for）, διό（therefore）, οὖν（so）
+- **時間**（temporal）：τότε（then）, εἶτα（next）
+
+**v. 詞彙銜接（Lexical Cohesion）**
+
+- **重複**（repetition）：同一詞重複出現
+    - 例：約翰二書「真理」重複5次
+- **同義關係**（synonymy）：意義相近的詞
+- **反義關係**（antonymy）：光/暗、愛/恨
+- **上下義關係**（hyponymy）：總稱/分類
+- **搭配關係**（collocation）：常一起出現的詞
+    - 例：「命令」與「遵守」、「真理」與「行走」
+
+**(b) 連貫（Coherence）**
+
+**定義**：文本深層的邏輯意義關聯
+
+**連貫不等於銜接**：
+
+- 銜接好但不連貫的例子：「我愛狗。狗有四條腿。四是偶數。」（有指稱銜接，但缺乏主題連貫）
+- 銜接差但連貫的例子：「外面下雨了。帶傘吧。」（無明顯銜接詞，但邏輯清晰）
+
+**連貫的類型**：
+
+**i. 時間連貫（Temporal Coherence）**
+
+- 事件的時間順序有邏輯
+
+**ii. 因果連貫（Causal Coherence）**
+
+- 原因-結果關係
+- 例：二書v. 8「你們要小心（因為）不要失去你們所做的工」
+
+**iii. 主題連貫（Thematic Coherence）**
+
+- 各部分圍繞同一主題
+
+**iv. 功能連貫（Functional Coherence）**
+
+- 各部分服務於同一交際目的
+
+### **4. 信息結構分析（Information Structure Analysis）**
+
+**定義**：分析作者如何組織**已知信息**（given information）和**新信息**（new information）。
+
+**(a) 主位-述位結構（Theme-Rheme Structure）**
+
+**主位**（theme）：句子的出發點，通常是已知信息 **述位**（rheme）：句子的核心信息，通常是新信息
+
+**實例**：
+
+```
+約翰二書 v. 4：
+「我甚喜樂，因為我發現你的兒女中有在真理中行走的」
+
+主位（Theme）："我甚喜樂"（已知：作者的情感狀態）
+述位（Rheme）："因為我發現..." （新：喜樂的原因）
+```
+
+**主位推進模式**（Thematic Progression Patterns）：
+
+**模式一：平行主位**（Constant Theme）
+
+```
+T1 → R1
+T1 → R2
+T1 → R3
+```
+
+例：「我寫信...」「我勸你...」「我還有...」
+
+**模式二：延續主位**（Linear Theme）
+
+```
+T1 → R1
+   ↓
+   T2 → R2
+      ↓
+      T3 → R3
+```
+
+例：「有弟兄來...（R1），他們在教會面前見證...（R2），你若配得過神...（R3）」
+
+**模式三：衍生主位**（Derived Theme）
+
+```
+超主位（Hypertheme）
+    ├── T1 → R1
+    ├── T2 → R2
+    └── T3 → R3
+```
+
+**(b) 焦點結構（Focus Structure）**
+
+**定義**：作者強調的信息點
+
+**標記方式**：
+
+- **詞序變化**（word order variation）：希臘文把重要的詞前置
+- **強調質詞**（emphatic particles）：δέ, μέν, γε
+- **重複**（repetition）
+- **對比**（contrast）
+
+**實例**（約翰二書v. 9）：
+
+```
+「凡越過基督教訓的，就沒有神；
+ 常守這教訓的，就有父又有子。」
+
+焦點：「越過」vs.「常守」（動詞對比）
+      「沒有神」vs.「有父又有子」（結果對比）
+```
+
+### **5. 修辭結構分析（Rhetorical Structure Analysis）**
+
+**定義**：文本各部分之間的修辭關係。
+
+**常見修辭關係**：
+
+**(a) 對比（Contrast / Antithesis）**
+
+```
+約翰二書：
+光 vs. 暗
+真理 vs. 謊言
+基督 vs. 敵基督
+```
+
+**(b) 平行（Parallelism）**
+
+```
+約翰二書 v. 6：
+「這就是愛，就是我們照他的命令行。
+ 這就是命令，就是你們從起初所聽見的，當遵行的。」
+
+結構：A is B (我們當行 in B)
+      B is C (當遵行 C)
+```
+
+**(c) 交錯配列（Chiasm）**
+
+**定義**：A-B-B'-A'的對稱結構
+
+**實例**（約翰一書可能的交錯結構）：
+
+```
+A  光明與黑暗（1:5-2:11）
+  B  世界與父（2:12-17）
+    C  敵基督（2:18-27）
+    C' 神的兒女（2:28-3:10）
+  B' 彼此相愛（3:11-24）
+A' 真理與謬誤（4:1-6）
+```
+
+**(d) 包孕結構（Inclusio）**
+
+**定義**：首尾呼應形成框架
+
+**實例**（約翰二書）：
+
+```
+開頭（v. 1）：「我在真理中所愛的」
+結尾（v. 4）：「在真理中行走」
+
+形成「真理」框架
+```
+
+**(e) 漸進/高潮（Climax / Crescendo）**
+
+**定義**：逐步增強達到高峰
+
+**實例**（約翰三書 v. 10對丟特腓的控訴）：
+
+```
+1. 用惡言妄論我們
+2. 不接待弟兄
+3. 禁止那願意接待的人
+4. 把他們趕出教會
+
+逐步升級的惡行
+```
+
+---
+
+## **三、綜合運用：分析約翰二書的宏觀結構**
+
+讓我示範如何綜合運用這些工具：
+
+### **步驟1：劃分語篇單位**
+
+```
+I. 書信框架（Epistolary Frame）
+   A. 開頭（Opening, vv. 1-3）
+   B. 結尾（Closing, vv. 12-13）
+
+II. 書信主體（Body, vv. 4-11）
+   A. 愛的命令（vv. 4-6）
+      - 轉換標記：「我甚喜樂」（v. 4）
+      - 轉換標記：「我現在勸你」（v. 5）
+   B. 真理的警告（vv. 7-11）
+      - 轉換標記：「因為」γάρ（v. 7）
+```
+
+### **步驟2：識別主題詞**
+
+|詞彙|出現次數|分佈|
+|---|---|---|
+|真理（ἀλήθεια）|5次|vv. 1(2), 2, 3, 4|
+|愛（ἀγάπη/動詞）|6次|vv. 1, 3, 5(2), 6(3)|
+|命令（ἐντολή）|4次|vv. 4, 5, 6(2)|
+|行走（περιπατέω）|3次|vv. 4, 6(2)|
+
+→ **核心語義場**：真理-愛-命令-行走
+
+### **步驟3：分析銜接模式**
+
+**(a) 詞彙銜接鏈**：
+
+```
+真理鏈：
+v. 1「在真理中所愛的」
+  → v. 2「為真理的緣故...真理存在我們裡面」
+    → v. 3「在真理和愛心上」
+      → v. 4「在真理中行走」
+
+愛的鏈：
+v. 1「所愛的」
+  → v. 3「恩惠、憐憫、平安...在...愛心上」
+    → v. 5「彼此相愛」
+      → v. 6「這就是愛...行在愛中」
+```
+
+**(b) 指稱銜接**：
+
+```
+v. 5「親愛的姊妹啊」（呼格，vocative）
+  → 「你」（throughout）
+  → v. 13「你那蒙揀選之姊妹的兒女」
+
+形成收信人指稱鏈
+```
+
+**(c) 連接銜接**：
+
+```
+v. 4  無連接詞（asyndeton）－強調喜樂
+v. 5  καὶ νῦν（and now）－轉向勸勉
+v. 6  καί（and）－添加說明
+v. 7  ὅτι（because）－給出理由
+v. 8  βλέπετε（watch out）－警告
+```
+
+### **步驟4：分析信息結構**
+
+**主位推進分析**（vv. 4-6）：
+
+```
+v. 4  T: 我（ἐχάρην）    R: 甚喜樂...在真理中行走
+      [作者情感]           [原因]
+
+v. 5  T: 我現在（ἐρωτῶ） R: 勸你...彼此相愛
+      [作者行動]           [內容]
+
+v. 6  T: 這（τοῦτο）     R: 就是愛...照命令行
+      [前述內容]           [定義]
+      T: 這（αὕτη）       R: 就是命令...當遵行
+      [前述內容]           [定義]
+
+模式：混合型（作者為主位 + 指示詞為主位）
+```
+
+### **步驟5：識別修辭結構**
+
+**(a) 包孕結構**：
+
+```
+A  「在真理中所愛的」（v. 1）
+  B  「真理存在我們裡面」（v. 2）
+    C  「在真理和愛心上」（v. 3）
+  B' 「在真理中行走」（v. 4）
+A' 「在真理和愛心上行」（v. 6）
+
+真理主題框架
+```
+
+**(b) 對比結構**：
+
+```
+正面（vv. 4-6）          負面（vv. 7-11）
+------------------       -------------------
+在真理中行走             迷惑人的、敵基督
+遵守命令                 越過基督教訓
+彼此相愛                 不接待他們
+
+修辭策略：先正面榜樣，後反面警告
+```
+
+**(c) 定義公式**（Definition Formula）：
+
+```
+v. 6a 「這就是愛」（τοῦτό ἐστιν ἡ ἀγάπη）
+v. 6b 「這就是命令」（αὕτη ἐστιν ἡ ἐντολή）
+v. 7  「這就是那迷惑人的」（οὗτός ἐστιν ὁ πλάνος）
+
+重複的指示詞+繫詞結構，形成修辭平行
+```
+
+### **步驟6：建構宏觀命題**
+
+**整體主題句**（Macroproposition）：
+
+「在真理中彼此相愛，並藉此辨別和拒絕假教師。」
+
+**支撐的次主題**（Supporting Propositions）：
+
+1. 真理與愛不可分割（vv. 1-3）
+2. 愛的定義是遵守命令（vv. 4-6）
+3. 真理的威脅來自假教師（vv. 7-9）
+4. 對假教師的回應是不接待（vv. 10-11）
+
+---
+
+## **四、為什麼這是「最核心」的方法？**
+
+### **理由1：全面性（Comprehensiveness）**
+
+宏觀結構分析整合了：
+
+- 形式層面（form）：結構、銜接
+- 意義層面（meaning）：主題、連貫
+- 功能層面（function）：修辭、信息
+
+### **理由2：客觀性（Objectivity）**
+
+基於可觀察的語言特徵：
+
+- 詞彙頻率（可統計）
+- 語法標記（可識別）
+- 結構模式（可描述）
+
+相比純粹的神學詮釋，較少主觀性。
+
+### **理由3：系統性（Systematicity）**
+
+提供可重複的分析步驟：
+
+1. 劃分單位
+2. 標記銜接
+3. 識別主題
+4. 分析結構
+5. 建構命題
+
+不同研究者用同樣方法會得出相似結果。
+
+### **理由4：基礎性（Foundational）**
+
+其他方法都建立在宏觀結構之上：
+
+- **敘事批判**需要先知道敘事的結構單位
+- **修辭批判**需要先知道修辭關係
+- **語用分析**需要先知道信息結構
+
+宏觀結構是所有discourse analysis的基礎。
+
+---
+
+## **五、推薦工具與資源**
+
+### **軟體工具**：
+
+1. **Logos Bible Software**：
+    - Discourse Features（語篇特徵標記）
+    - Clause Search（子句搜索）
+2. **Accordance**：
+    - Construct Search（結構搜索）
+    - Word Distribution（詞彙分佈圖）
+3. **BibleWorks**（已停產但仍可用）：
+    - Graphical Search（圖形化搜索）
+4. **Online Tools**：
+    - OpenText.org（希臘文語法語篇標注）
+    - Step Bible（詞彙搜索）
+
+### **參考書目**：
+
+**入門**：
+
+- Steven E. Runge, _Discourse Grammar of the Greek New Testament_ (2010)
+- George H. Guthrie, "Discourse Analysis" in _Interpreting the New Testament_ (2005)
+
+**進階**：
+
+- Robert E. Longacre, _The Grammar of Discourse_ (2nd ed., 1996)
+- Stanley E. Porter & Jeffrey T. Reed, _Discourse Analysis and the New Testament_ (1999)
+
+**應用**：
+
+- Cynthia Long Westfall, _A Discourse Analysis of the Letter to the Hebrews_ (2005)
+- Steven E. Runge, _Discourse Analysis of Philippians_ (2008)
+
+---
+
+## **六、實踐練習建議**
+
+如果你想掌握這個方法，我建議：
+
+### **初級練習**：
+
+1. 選一封短書信（腓利門書、約翰二三書）
+2. 手動標記所有連接詞
+3. 用不同顏色標記重複詞彙
+4. 畫出篇章結構大綱
+
+### **中級練習**：
+
+1. 分析一卷書的開頭和結尾的呼應
+2. 製作關鍵詞的分佈圖表
+3. 識別所有的主位-述位結構
+
+### **高級練習**：
+
+1. 比較同一作者不同書卷的結構模式
+2. 分析複雜的交錯配列結構
+3. 建構整卷書的宏觀命題

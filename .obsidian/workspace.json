@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "0a5052421d09cc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Untitled 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "f39a37d13ba42055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58-Hebrews/Untitled 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "c5765f603ce77dfe",
@@ -211,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d255209975b2666c",
+  "active": "f39a37d13ba42055",
   "lastOpenFiles": [
-    "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Untitled 1.md",
+    "58-Hebrews/Untitled 2.md",
+    "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.1.5-14.md",
     "58-Hebrews/Untitled.md",
     "BBG4E/HW-Key/複習.md",
@@ -248,7 +277,6 @@
     "GDNTG/GDNTG-TOC.md",
     "57-Philemon/Phm.1.4-7.md",
     "51-Colossians/Col.1.9-20.md",
-    "BBG4E/HW/HW09.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG",
     "BBG4E/HW-Macula",
