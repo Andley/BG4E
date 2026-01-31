@@ -1,18 +1,6 @@
 # **語篇語言學的宏觀結構分析**<br>（Macrostructure Analysis in Discourse Linguistics）
 
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 2 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-
 ## **一、什麼是宏觀結構分析？**
 
 **宏觀結構**（macrostructure）是相對於**微觀結構**（microstructure）的概念：
@@ -22,7 +10,7 @@ debugInConsole: false # Print debug info in Obsidian console
 
 宏觀結構分析關注的是：「這篇文本如何作為一個**整體**（whole）來傳達意義？」
 
----
+
 
 ## **二、核心概念與分析工具**
 
@@ -325,7 +313,7 @@ A' 真理與謬誤（4:1-6）
 逐步升級的惡行
 ```
 
----
+
 
 ## **三、綜合運用：分析約翰二書的宏觀結構**
 
@@ -349,7 +337,7 @@ II. 書信主體（Body, vv. 4-11）
 ### **步驟2：識別主題詞**
 
 |詞彙|出現次數|分佈|
-|---|---|---|
+||||
 |真理（ἀλήθεια）|5次|vv. 1(2), 2, 3, 4|
 |愛（ἀγάπη/動詞）|6次|vv. 1, 3, 5(2), 6(3)|
 |命令（ἐντολή）|4次|vv. 4, 5, 6(2)|
@@ -432,7 +420,7 @@ A' 「在真理和愛心上行」（v. 6）
 
 ```
 正面（vv. 4-6）          負面（vv. 7-11）
-------------------       -------------------
+       -
 在真理中行走             迷惑人的、敵基督
 遵守命令                 越過基督教訓
 彼此相愛                 不接待他們
@@ -463,7 +451,7 @@ v. 7  「這就是那迷惑人的」（οὗτός ἐστιν ὁ πλάνος�
 3. 真理的威脅來自假教師（vv. 7-9）
 4. 對假教師的回應是不接待（vv. 10-11）
 
----
+
 
 ## **四、為什麼這是「最核心」的方法？**
 
@@ -507,44 +495,8 @@ v. 7  「這就是那迷惑人的」（οὗτός ἐστιν ὁ πλάνος�
 
 宏觀結構是所有discourse analysis的基礎。
 
----
 
-## **五、推薦工具與資源**
-
-### **軟體工具**：
-
-1. **Logos Bible Software**：
-    - Discourse Features（語篇特徵標記）
-    - Clause Search（子句搜索）
-2. **Accordance**：
-    - Construct Search（結構搜索）
-    - Word Distribution（詞彙分佈圖）
-3. **BibleWorks**（已停產但仍可用）：
-    - Graphical Search（圖形化搜索）
-4. **Online Tools**：
-    - OpenText.org（希臘文語法語篇標注）
-    - Step Bible（詞彙搜索）
-
-### **參考書目**：
-
-**入門**：
-
-- Steven E. Runge, _Discourse Grammar of the Greek New Testament_ (2010)
-- George H. Guthrie, "Discourse Analysis" in _Interpreting the New Testament_ (2005)
-
-**進階**：
-
-- Robert E. Longacre, _The Grammar of Discourse_ (2nd ed., 1996)
-- Stanley E. Porter & Jeffrey T. Reed, _Discourse Analysis and the New Testament_ (1999)
-
-**應用**：
-
-- Cynthia Long Westfall, _A Discourse Analysis of the Letter to the Hebrews_ (2005)
-- Steven E. Runge, _Discourse Analysis of Philippians_ (2008)
-
----
-
-## **六、實踐練習建議**
+## **五、實踐練習建議**
 
 如果你想掌握這個方法，我建議：
 
