@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Untitled 2.md",
+                "file": "51-Colossians/Col.1.9-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Col.1.9-20"
             }
           }
         ],
@@ -157,17 +157,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "58-Hebrews/Untitled 2.md",
+                "file": "51-Colossians/Col.1.9-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Col.1.9-20"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,8 +241,8 @@
   },
   "active": "f39a37d13ba42055",
   "lastOpenFiles": [
-    "58-Hebrews/Untitled 1.md",
     "58-Hebrews/Untitled 2.md",
+    "58-Hebrews/Untitled 1.md",
     "58-Hebrews/Heb.1.1-4.md",
     "58-Hebrews/Heb.1.5-14.md",
     "58-Hebrews/Untitled.md",

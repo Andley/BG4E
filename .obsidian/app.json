@@ -9,7 +9,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 75
   },
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
