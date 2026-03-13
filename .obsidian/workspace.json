@@ -14,27 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "48-Galatians/Gal.2.15-21.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Gal.2.15-21"
             }
-          },
-          {
-            "id": "909f86e811071639",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +163,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "909f86e811071639",
+  "active": "11b1edc0b887f732",
   "lastOpenFiles": [
     "BBG4E/HW/HW01.md",
     "BBG4E/HW-Key/HW10-Key.md",
