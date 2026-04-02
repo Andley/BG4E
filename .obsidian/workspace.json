@@ -40,8 +40,21 @@
               "icon": "lucide-file",
               "title": "1Co.11.2-16"
             }
+          },
+          {
+            "id": "4c4b5bf9f833999a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "e72f58650b371834",
+  "active": "4c4b5bf9f833999a",
   "lastOpenFiles": [
     "47-2Corinthians/未命名.md",
     "47-2Corinthians/2Co.2.12-13.md",
