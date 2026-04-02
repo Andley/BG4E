@@ -6,6 +6,7 @@
       {
         "id": "25f5427e050f427d",
         "type": "tabs",
+        "dimension": 38.17733990147783,
         "children": [
           {
             "id": "af95586a397cf1da",
@@ -15,7 +16,28 @@
               "state": {
                 "file": "46-1Corinthians/1Co.11.2-16.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Co.11.2-16"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b809974bb0db5764",
+        "type": "tabs",
+        "dimension": 61.822660098522164,
+        "children": [
+          {
+            "id": "099c19c7ef06a911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "46-1Corinthians/1Co.11.2-16.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1Co.11.2-16"
@@ -93,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
