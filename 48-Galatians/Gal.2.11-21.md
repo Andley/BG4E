@@ -1,3 +1,44 @@
+<div style="display: flex; flex-wrap: wrap; gap: 2%; line-height: 1.6;">
+  <div style="flex: 1; min-width: 300px;">
+2:11 
+	- <a href="https://bible.fhl.net/new/s.php?N=0&k=03753&m=" title="ὅτε [ADV]&#10;時候 when">Ὅτε</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01161&m=" title="δέ [CONJ]&#10;後來 but">δὲ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=02064&m=" title="ἔρχομαι [V-2AAI-3S]&#10;來 came"><span class='verb'>ἦλθεν</span></a> <a href="https://bible.fhl.net/new/s.php?N=0&k=02786&m=" title="Κηφᾶς [N-NSM]&#10;磯法 Cephas">Κηφᾶς</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01519&m=" title="εἰς [PREP]&#10;到 to">εἰς</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=00490&m=" title="Ἀντιόχεια [N-ASF]&#10;安提阿 Antioch">Ἀντιόχειαν</a><span class='punctuation'>,</span> 
+- <a href="https://bible.fhl.net/new/s.php?N=0&k=02596&m=" title="κατά [PREP]&#10;to">κατὰ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=04383&m=" title="πρόσωπον [N-ASN]&#10;當面 face">πρόσωπον</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=00846&m=" title="αὐτός [P-DSM]&#10;他 him">αὐτῷ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=00436&m=" title="ἀνθίστημι [V-2AAI-1S]&#10;反對 opposed"><span class='verb'>ἀντέστην</span></a>, 
+	- <a href="https://bible.fhl.net/new/s.php?N=0&k=03754&m=" title="ὅτι [CONJ]&#10;因為 because">ὅτι</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=02607&m=" title="καταγινώσκω [V-RPP-NSM]&#10;責備 condemned"><span class='ptc'>κατεγνωσμένος</span></a> <a href="https://bible.fhl.net/new/s.php?N=0&k=02258&m=" title="εἰμί [V-IAI-3S]&#10;有 was"><span class='verb'>ἦν</span></a>·
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <!-- 右側內容 -->
+    ### 右側章節
+    文字內容...
+    sdcsdcsd
+	    dcsdcs
+		    sdcsc
+- sdcdsc
+	- dscsdc
+		- sdcsd
+  </div>
+</div>
+
+---
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: top; border: none;">
+      <!-- 左側文字 -->
+      ### 左側標題
+      這裡放置你的長篇文字、列表或是說明，左側會自動根據內容延伸。
+- sdcdsc
+	- dscsdc
+		- sdcsd
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: top; border: none;">
+      <!-- 右側文字 -->
+      ### 右側標題
+      這裡放置對應的右側文字。使用 `vertical-align: top` 可以確保兩邊標題對齊。
+    </td>
+  </tr>
+</table>
+
+---
 <table>
   <tr>
     <td width="50%" valign="top" >
