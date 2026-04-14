@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f08bac334887c0",
-        "type": "tabs",
-        "dimension": 51.35467980295566,
-        "children": [
-          {
-            "id": "cd4548117db5a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "45-Romans/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "012de0932ce72f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "45-Romans/Rom.5.12-21-1line.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rom.5.12-21-1line"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "34acc62286afbda6",
         "type": "tabs",
-        "dimension": 48.645320197044335,
         "children": [
           {
             "id": "99ba53af8696c275",
@@ -201,7 +164,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "012de0932ce72f97",
+  "active": "99ba53af8696c275",
   "lastOpenFiles": [
     "45-Romans/Untitled.md",
     "45-Romans/Rom.5.12-21-1line.md",
