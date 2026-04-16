@@ -14,6 +14,26 @@
               "type": "markdown",
               "state": {
                 "file": "45-Romans/Rom.5.12-21-1line.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rom.5.12-21-1line"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e723afb343bba8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ad083cce9858db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "45-Romans/Rom.5.12-21-1line.md",
                 "mode": "preview",
                 "source": true
               },
