@@ -31,7 +31,7 @@ ruby {
   ruby-align:start;
   padding: 0 3px 0 0;
   font-family:  AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑";
-  line-height:70px;
+  line-height:35px;
 }
 
 rt {
@@ -152,7 +152,6 @@ em{
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed";
-  font-size: 11px;
 }
 
 

@@ -39,6 +39,12 @@
       "lastUsedAt": 1773448521494,
       "createdAt": 1773448521494,
       "count": 1
+    },
+    {
+      "text": ";(.*?) [A-Za-z0-9].*?\"",
+      "lastUsedAt": 1776376893977,
+      "createdAt": 1776376832023,
+      "count": 1
     }
   ]
 }
