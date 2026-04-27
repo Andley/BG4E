@@ -6,7 +6,7 @@
       {
         "id": "04f0d6daef5cb61e",
         "type": "tabs",
-        "dimension": 39.27125506072874,
+        "dimension": 28.28542094455852,
         "children": [
           {
             "id": "efa39dc83bfc434f",
@@ -27,7 +27,7 @@
       {
         "id": "93378c7857087809",
         "type": "tabs",
-        "dimension": 60.72874493927125,
+        "dimension": 71.71457905544148,
         "children": [
           {
             "id": "2d91247f2f1f8e68",
@@ -186,7 +186,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "2d91247f2f1f8e68",
+  "active": "efa39dc83bfc434f",
   "lastOpenFiles": [
     "49-Ephesians/Eph.1.15-23.md",
     "51-Colossians/Col.1.9-20.md",
