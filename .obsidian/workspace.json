@@ -16,7 +16,7 @@
               "state": {
                 "file": "60-1Peter/1Pe.1.3-12.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "1Pe.1.3-12"
@@ -30,7 +30,7 @@
               "state": {
                 "file": "58-Hebrews/Heb.1.1-4.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Heb.1.1-4"
@@ -52,7 +52,7 @@
               "state": {
                 "file": "58-Hebrews/Heb.1.1-4.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Heb.1.1-4"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "95bbf402a26941bd",
