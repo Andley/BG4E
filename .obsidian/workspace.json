@@ -16,7 +16,7 @@
               "state": {
                 "file": "60-1Peter/1Pe.1.3-12.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1Pe.1.3-12"
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "60-1Peter/1Pe.4.1-11.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Heb.1.1-4"
+              "title": "1Pe.4.1-11"
             }
           }
         ],
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "58-Hebrews/Heb.1.1-4.md",
+                "file": "60-1Peter/1Pe.4.1-11.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Heb.1.1-4"
+              "title": "1Pe.4.1-11"
             }
           }
         ]
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "95bbf402a26941bd",
@@ -200,10 +201,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "63d386b903091e52",
+  "active": "4e820dfc24e9f3ee",
   "lastOpenFiles": [
-    "60-1Peter/未命名.md",
     "58-Hebrews/Heb.1.1-4.md",
+    "60-1Peter/1Pe.4.1-11.md",
+    "60-1Peter/未命名.md",
     "60-1Peter/1Pe.1.3-12.md",
     "51-Colossians/Col.1.9-20.md",
     "49-Ephesians/Eph.3.14-19.md",
@@ -237,7 +239,6 @@
     "47-2Corinthians/2Co.2.12-13.md",
     "48-Galatians/Gal.2.11-21.md",
     "48-Galatians/Gal.2.11-14.md",
-    "48-Galatians/Gal.2.15-21.md",
     "BBG4E/BG4E 規劃.canvas",
     "GDNTG",
     "BBG4E/HW-Macula",
