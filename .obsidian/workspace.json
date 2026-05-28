@@ -14,6 +14,26 @@
               "type": "markdown",
               "state": {
                 "file": "60-1Peter/1Pe.4.1-11.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Pe.4.1-11"
+            }
+          }
+        ]
+      },
+      {
+        "id": "50b35fd64878c7e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9300d1f7fa11fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-1Peter/1Pe.4.1-11.md",
                 "mode": "preview",
                 "source": true
               },
