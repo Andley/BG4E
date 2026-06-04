@@ -92,7 +92,7 @@ a {text-decoration: none; color: var(--text-link); }
 .punctuation { font-weight:bolder;}
 .poetry::before {content:'\a                 '; white-space: pre;}
 .paragraph::after {content:'\a          '; white-space: pre;}
-.tab::after {content:'           '; white-space: pre;}
+.tab::after {content:'    '; white-space: pre;}
 /* --------------------------------------------   */
 
 strong {
