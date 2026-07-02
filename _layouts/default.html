@@ -49,40 +49,54 @@
       </footer>
     </div>
     
-    <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const btn = document.getElementById('toggle-btn');
-      if (!btn) return; // 如果這頁沒有切換按鈕，就安全退出，不影響一般網頁
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('toggle-btn');
+  if (!btn) return;
 
-      const rubyElements = document.querySelectorAll('RUBY');
+  // 1. 尋找所有最外層的 ruby 標籤（排除被嵌套在內層的 ruby）
+  const topLevelRubies = Array.from(document.querySelectorAll('ruby')).filter(ruby => {
+    return !ruby.parentElement.closest('ruby');
+  });
 
-      // 網頁載入時，自動幫所有大寫 RUBY 準備好 hover 提示
-      rubyElements.forEach(ruby => {
-        const coreTextNode = ruby.querySelector('ruby > ruby');
-        const rts = ruby.querySelectorAll('rt');
-        if (rts.length >= 3) {
-          const meaning = rts[0].textContent.trim();
-          const lemma = rts[1].textContent.trim();
-          const pos = rts[2].textContent.trim();
-          ruby.setAttribute('data-hover', `${lemma} [${pos}]\n${meaning}`);
-        }
-      });
+  // 2. 網頁載入時，自動解析三層結構並生成 hover 提示
+  topLevelRubies.forEach(ruby => {
+    // 尋找最內層、包含核心希臘文的那個 ruby
+    const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
+    // 取得希臘文字本身
+    const greekWord = innerRuby.childNodes[0] ? innerRuby.childNodes[0].textContent.trim() : '';
+    
+    // 抓取所有的 rt 標籤
+    const rts = ruby.querySelectorAll('rt');
+    if (rts.length >= 3) {
+      const meaning = rts[0].textContent.trim(); // "[There is] no"
+      const lemma = rts[1].textContent.trim();   // "οὐδείς"
+      const pos = rts[2].textContent.trim();     // "A-NSN"
+      
+      // 組合提示： "οὐδείς [A-NSN]\n[There is] no"
+      const hoverTitle = `${lemma} [${pos}]\n${meaning}`;
+      ruby.setAttribute('data-hover', hoverTitle);
+    }
+  });
 
-      // 按鈕點擊時，直接把 class 加在全網頁的 body 上
-      btn.addEventListener('click', () => {
-        const isOneLine = document.body.classList.toggle('one-line-mode');
-        btn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
-        
-        rubyElements.forEach(ruby => {
-          const link = ruby.querySelector('a') || ruby;
-          if (isOneLine) {
-            link.setAttribute('title', ruby.getAttribute('data-hover'));
-          } else {
-            link.removeAttribute('title');
-          }
-        });
-      });
+  // 3. 按鈕點擊事件：切換樣式並將 title 屬性寫入/移除
+  btn.addEventListener('click', () => {
+    const isOneLine = document.body.classList.toggle('one-line-mode');
+    btn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
+    
+    topLevelRubies.forEach(ruby => {
+      // 尋找要綁定 hover 提示的目標（如果內層有 a 標籤就綁在 a，沒有就綁在 innerRuby 本身）
+      const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
+      const targetElement = innerRuby.querySelector('a') || innerRuby;
+      
+      if (isOneLine) {
+        targetElement.setAttribute('title', ruby.getAttribute('data-hover'));
+      } else {
+        targetElement.removeAttribute('title');
+      }
     });
-    </script>
+  });
+});
+</script>
   </body>
 </html>
