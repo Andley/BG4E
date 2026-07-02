@@ -8,6 +8,7 @@
 - [圖析符號說明](Tools/Phrasing-Signs.md) 
 - [同義字 Synonyms](Semantics/synonyms.md)
 - [Interlinear-Sandbox](Tools/Interlinear-Sandbox.md)
+- [test](test.md)
 
 ## 全民希臘文：初階
 - [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
