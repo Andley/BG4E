@@ -62,8 +62,7 @@ ruby rt {
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
   font-size: 16px !important;
-  font-weight: bold !important;
-  line-height: 1 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
+  line-height: 1.1 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
