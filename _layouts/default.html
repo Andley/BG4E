@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 3. 點擊按鈕進行切換
   btn.addEventListener('click', () => {
     const isOneLine = document.body.classList.toggle('one-line-mode');
-    btn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
+    btn.textContent = isOneLine ? "切換為：四行模式" : "切換為：一行模式";
     
     // 4. 輪詢所有單字塊，切換真正的原生 title
     topLevelRubies.forEach(ruby => {
