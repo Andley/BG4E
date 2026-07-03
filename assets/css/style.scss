@@ -52,17 +52,13 @@ ruby ruby {
 /* 讓三層 rt 標籤乖乖顯示並垂直排列 */
 ruby rt {
   display: block !important; /* 蓋過部分瀏覽器的原生隱藏預設 */
-  font-size: 13px;
-  color: #666;
-  line-height: 1.3;
+  font-size: 0.8em;
   font-style: normal;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
-  font-size: 22px;
   font-weight: bold;
-  color: #2c3e50;
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
