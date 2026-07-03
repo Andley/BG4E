@@ -51,12 +51,13 @@ ruby ruby {
 /* 讓三層 rt 標籤乖乖顯示並垂直排列 */
 ruby rt {
   display: block !important; /* 蓋過部分瀏覽器的原生隱藏預設 */
-  font-size: 0.8em;
+  font-size: 14px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
+  font-size: 16px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
 }
 
@@ -68,12 +69,14 @@ body.one-line-mode ruby {
 
 body.one-line-mode ruby > ruby > ruby {
   font-weight: normal;
+  font-size: 16px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
   cursor: help; /* 讓滑鼠移上去時顯示問號游標，提示可以 hover */
 }
 
 body.one-line-mode ruby rt {
   display: none !important; /* 一行模式下，徹底隱藏所有說明的行 */
+  font-size: 14px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
 }
 </style>

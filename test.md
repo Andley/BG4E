@@ -1,4 +1,4 @@
-# 羅馬書 8:1-3 新測試 
+
 
 <!-- 放一個切換按鈕 --> <button id="toggle-btn" class="interlinear-btn">切換顯示模式</button>
 
