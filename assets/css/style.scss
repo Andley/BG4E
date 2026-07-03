@@ -16,14 +16,14 @@
 @font-face {
   font-family: 'AndleyFont';
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew, Alphabetic Presentation Forms */
-  src: local("Ezra SIL");
+  src: local("Noto Serif Hebrew");
 }
 
 
 
 html, body, p, li {
     color: black;
-    font-family: AndleyFont, sans-serif;
+    font-family: 'AndleyFont', sans-serif;
   }
 
   h1 {
@@ -52,7 +52,7 @@ html, body, p, li {
   flex-direction: column !important;
   align-items: center !important;
   text-align: center !important;
-  margin: 0 !important; /* 每個單字塊彼此的左右與下方間距 */
+  margin: 0 0 5px 0 !important; /* 每個單字塊彼此的左右與下方間距 */
   vertical-align: top !important;
 }
 
@@ -68,14 +68,16 @@ ruby rt {
   display: block !important;
   font-size: 14px !important;
   line-height: 1.2 !important; 
-
+  font-weight: normal;
+  font-family: 'AndleyFont','Stint Ultra Condensed', serif !important;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
   font-size: 16px !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
-  font-family: 'AndleyFont', sans-serif !important;
+  font-weight: bold;
+  font-family: 'AndleyFont', serif !important;
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
