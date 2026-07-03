@@ -38,6 +38,7 @@ html, body, p, li {
   align-items: center;
   text-align: center;
   vertical-align: top;
+  line-height:80px;
 }
 
 /* 內層嵌套的 ruby 保持彈性垂直排列 */
@@ -70,7 +71,6 @@ body.one-line-mode ruby > ruby > ruby {
   font-weight: normal;
   font-size: 16px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
-  line-height:80px;
   cursor: help; /* 讓滑鼠移上去時顯示問號游標，提示可以 hover */
 }
 
