@@ -5,10 +5,25 @@
 
 
 /* 設定字型 */
+@font-face {
+  font-family: 'AndleyFont';
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek and Coptic, Greek Extended */
+  /* 優先找本機字型，找不到就往後 fallback 到你網頁原本有引入的 Google Fonts 網路字型 */
+  src: local("Gentium Book Plus"); 
+}
+
+/* 2. 定義 AndleyFont 的希伯來文範圍 */
+@font-face {
+  font-family: 'AndleyFont';
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew, Alphabetic Presentation Forms */
+  src: local("Ezra SIL");
+}
+
+
 
 html, body, p, li {
     color: black;
-    font-family: "Gentium Book Plus", "Noto Serif Hebrew", sans-serif;
+    font-family: AndleyFont, sans-serif;
   }
 
   h1 {
@@ -62,7 +77,7 @@ ruby rt {
 ruby > ruby > ruby {
   font-size: 16px !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
-  font-weight:normal;
+  font-family: 'AndleyFont', sans-serif !important;
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
@@ -74,7 +89,7 @@ body.one-line-mode ruby {
 body.one-line-mode ruby > ruby > ruby {
   font-weight: normal;
   font-size: 16px;
-  font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
+  font-family: AndleyFont, "PT Sans Narrow", sans-serif;
   cursor: help; /* 讓滑鼠移上去時顯示問號游標，提示可以 hover */
 }
 
