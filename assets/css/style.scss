@@ -33,33 +33,39 @@ html, body, p, li {
 /* ==================== 預設狀態：四行對齊 (Interlinear) ==================== */
 /* 僅針對最外層沒有被其他 ruby 包裹的 ruby 進行排版 */
 :not(ruby) > ruby {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  vertical-align: top;
+  display: inline-flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
+  margin: 0 6px 15px 6px !important; /* 每個單字塊彼此的左右與下方間距 */
+  vertical-align: top !important;
 }
 
 /* 內層嵌套的 ruby 保持彈性垂直排列 */
 ruby ruby {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
 }
 
 /* 讓三層 rt 標籤乖乖顯示並垂直排列 */
 ruby rt {
-  display: block !important; /* 蓋過部分瀏覽器的原生隱藏預設 */
-  font-size: 14px;
-  line-height: 14px;
-  font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
+  display: block !important;
+  font-size: 14px !important;
+  /* 1. 縮小字體自身的行高（預設通常是 1.4 ~ 1.6，縮小到 1.1 甚至 1.0） */
+  line-height: 1.1 !important; 
+  /* 2. 透過微調上下外距，擠壓行與行之間的距離（可根據喜好調整成 1px 或 0px） */
+  margin-top: 1px !important;
+  margin-bottom: 1px !important;
+  
+  font-style: normal !important;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
-  font-size: 16px;
-  line-height: 16px;
-  font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
