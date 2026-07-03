@@ -29,7 +29,9 @@ html, body, p, li {
   ul   {
     margin-bottom: 0em;
   }
-/* ==================== 預設狀態：四行對齊 ==================== */
+
+  
+/* ==================== 預設狀態：四行對齊 ==================== 
 RUBY {
   display: inline-flex;
   flex-direction: column;
@@ -60,7 +62,7 @@ RUBY > ruby > ruby {
 }
 
 /* ==================== 切換狀態：一行模式 ==================== */
-/* 這次我們直接把 .one-line-mode 類別加在整個網頁的 <body> 上 */
+/* 這次我們直接把 .one-line-mode 類別加在整個網頁的 <body> 上 
 body.one-line-mode RUBY,
 body.one-line-mode ruby {
   display: inline;
@@ -71,10 +73,9 @@ body.one-line-mode RUBY > ruby > ruby {
   font-weight: normal;
 }
 body.one-line-mode RUBY rt {
-  display: none; /* 隱藏說明的行 */
-}
+  display: none; /* 隱藏說明的行 
+} */
 
-/* Old CSS 
   ruby {
     font-size: 13pt ; 
     ruby-align:start;
@@ -87,13 +88,13 @@ body.one-line-mode RUBY rt {
     font-size: 0.8em ; 
     font-weight:normal;
     padding: 0 0.1em 0 0;
-    font-family: "Gentium Book Plus", "Noto Serif Hebrew", sans-serif;
+    font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
   }
   
   li ruby {
     line-height:4.5em;
   } 
-*/
+
 
   
 /* --------------------------------------------   */
