@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -164,11 +164,15 @@
       "better-footnote:打开 Better Footnote": false
     }
   },
-  "active": "323a10775016a71f",
+  "active": "53ea838997409b20",
   "lastOpenFiles": [
+    "45-Romans/Rom.1.1-7.md",
+    "BBG4E/§1.md",
+    "BBG4E/HW/HW05.md",
+    "BBG4E/HW-Key/HW04-Key.md",
+    "test.md",
     "assets/js/main.js.md",
     "assets/js/main.js",
-    "test.md",
     "assets/js",
     "README.md",
     "Tools/Interlinear-Sandbox.md",
@@ -185,15 +189,12 @@
     "BBG4E/§4.md",
     "BBG4E/§3.md",
     "BBG4E/§2.md",
-    "BBG4E/§1.md",
     "60-1Peter/1Pe.3.8-22.md",
     "60-1Peter/Untitled.md",
     "60-1Peter/未命名.md",
     "60-1Peter/1Pe.4.1-11.md",
     "BBG4E/HW-Key/HW02-Key.md",
     "BBG4E/HW-Key/HW01-Key.md",
-    "60-1Peter/1Peter-Interlinear.md",
-    "58-Hebrews/Heb.1.1-4.md",
     "KB_Greek_polytonic_Unicode.svg",
     "images/Pasted image 20260106152343.png",
     "images/Pasted image 20260106152338.png",
