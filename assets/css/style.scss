@@ -30,7 +30,6 @@ html, body, p, li {
     margin-bottom: 0em;
   }
 
-<style>
 /* ==================== 預設狀態：四行對齊 (Interlinear) ==================== */
 /* 僅針對最外層沒有被其他 ruby 包裹的 ruby 進行排版 */
 :not(ruby) > ruby {
@@ -79,7 +78,6 @@ body.one-line-mode ruby rt {
   font-size: 14px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
 }
-</style>
   
 /*
   ruby {
@@ -102,45 +100,6 @@ body.one-line-mode ruby rt {
   } 
 */
 
-  
-/* --------------------------------------------   */
-.verb { color: var(--color1); }
-.ptc  { color: var(--color2); }
-.inf  { color: var(--color3); }
-.punctuation { font-weight:bolder;}
-.poetry::before {content:'\a                 '; white-space: pre;}
-.paragraph::after {content:'\a          '; white-space: pre;}
-/* --------------------------------------------   */
-
-/* <span> Interlinear */
-    .interlinear {
-      display: flex;
-      flex-wrap: wrap;        /* Enable wrapping */
-      align-items:last baseline; 
-      gap:5px; /* Align items to bottom */
-    }
-    .w {
-      display: flex;
-      flex-direction: column;
-      align-items:left;
-      white-space: nowrap;       /* Prevent wrapping inside each column */
-    }
-    .m, .g{
-      font-family:  "Noto Sans ExtraCondensed";
-      font-size: 13pt;
-      line-height:13pt;
-    }
-    .l {
-      font-family: "Gentium Book Plus";
-      font-size: 13pt;
-      line-height:13pt;
-      }
-    .t {
-      font-family: "Gentium Book Plus"; 
-      font-size: 16pt;
-      line-height:16pt;
-      padding-bottom: 8pt;
-    }
 	/* ══════════════ /*
   /* page layout */
   
