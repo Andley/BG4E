@@ -51,7 +51,8 @@ html, body, p, li {
   display: inline-flex !important;
   flex-direction: column !important;
   align-items: center !important;
-  text-align: center !important;
+  justify-content: center !important;
+  text-align: center !important;       /* 文字置中 */
   margin: 0 0 5px 0 !important; /* 每個單字塊彼此的左右與下方間距 */
   vertical-align: top !important;
 }
@@ -61,13 +62,20 @@ ruby ruby {
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  width: 100% !important;             /* 強制充滿外包絡線，防止位移 */
 }
 
 /* 讓三層 rt 標籤乖乖顯示並垂直排列 */
 ruby rt {
   display: block !important;
+  width: 100% !important;             /* 寬度撐滿才能精準計算置中 */
+  text-align: center !important;       /* 文字置中核心 */
   font-size: 14px !important;
   line-height: 1.1 !important; 
+  margin-top: 1px !important;
+  margin-bottom: 1px !important;
   font-weight: normal;
   font-family: 'AndleyFont', sans-serif !important;
 }
@@ -77,6 +85,7 @@ ruby > ruby > ruby {
   font-size: 16px !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
   font-weight: bold;
+  text-align: center !important;
   font-family: 'AndleyFont', serif !important;
 }
 
@@ -85,6 +94,7 @@ body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
   margin: 0 !important;
+  width: auto !important;             /* 恢復單行時不要強制撐寬 */
 }
 body.one-line-mode :not(ruby) > ruby {
   font-weight: normal !important;
