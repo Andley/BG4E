@@ -52,13 +52,11 @@ ruby ruby {
 ruby rt {
   display: block !important; /* 蓋過部分瀏覽器的原生隱藏預設 */
   font-size: 0.8em;
-  font-style: normal;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
-  font-weight: bold;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
 }
 
@@ -66,7 +64,6 @@ ruby > ruby > ruby {
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
-  margin: 0 2px;
 }
 
 body.one-line-mode ruby > ruby > ruby {
