@@ -82,10 +82,9 @@ ruby > ruby > ruby {
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
-  margin: 0 2px !important;
+  margin: 0 !important;
 }
 body.one-line-mode :not(ruby) > ruby {
-  font-size: 20px !important;
   font-weight: normal !important;
   cursor: help !important; /* 一行模式時滑鼠變問號 */
 }
@@ -96,14 +95,21 @@ body.one-line-mode ruby rt {
 
 	/* ══════════════ /*
   /* page layout */
-  
+.wrapper {
+  max-width: 1080px; // 你可以根據需求調整此數值，例如 1200px 或 90%
+  margin: 0 auto;
+}
+
   header {
     padding: 20px 20px 5px 20px;
+    max-width: 1080px;
+    margin: 0 auto;
   }
 
   section {
     margin-top: 100px;
     padding-top:20px;
+    max-width: 100%; // 讓內容區塊可以撐滿外層的 .wrapper
   }
 
   ul li::marker {
