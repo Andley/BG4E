@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "source",
+                "file": "Tools/Interlinear-Sandbox.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Interlinear-Sandbox"
             }
           }
         ]
@@ -89,7 +89,8 @@
               "title": "Outline of Col.1.9-20"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,11 +167,11 @@
   },
   "active": "53ea838997409b20",
   "lastOpenFiles": [
+    "test.md",
     "45-Romans/Rom.1.1-7.md",
     "BBG4E/§1.md",
     "BBG4E/HW/HW05.md",
     "BBG4E/HW-Key/HW04-Key.md",
-    "test.md",
     "assets/js/main.js.md",
     "assets/js/main.js",
     "assets/js",

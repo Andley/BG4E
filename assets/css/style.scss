@@ -52,7 +52,7 @@ html, body, p, li {
   flex-direction: column !important;
   align-items: center !important;
   text-align: center !important;
-  margin: 0 6px 15px 6px !important; /* 每個單字塊彼此的左右與下方間距 */
+  margin: 0 !important; /* 每個單字塊彼此的左右與下方間距 */
   vertical-align: top !important;
 }
 
@@ -67,9 +67,7 @@ ruby ruby {
 ruby rt {
   display: block !important;
   font-size: 14px !important;
-  /* 1. 縮小字體自身的行高（預設通常是 1.4 ~ 1.6，縮小到 1.1 甚至 1.0） */
   line-height: 1.2 !important; 
-  /* 2. 透過微調上下外距，擠壓行與行之間的距離（可根據喜好調整成 1px 或 0px） */
 
 }
 
@@ -84,41 +82,17 @@ ruby > ruby > ruby {
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
   display: inline !important;
+  margin: 0 2px !important;
 }
-
-body.one-line-mode ruby > ruby > ruby {
-  font-weight: normal;
-  font-size: 16px;
-  font-family: AndleyFont, "PT Sans Narrow", sans-serif;
-  cursor: help; /* 讓滑鼠移上去時顯示問號游標，提示可以 hover */
+body.one-line-mode :not(ruby) > ruby {
+  font-size: 20px !important;
+  font-weight: normal !important;
+  cursor: help !important; /* 一行模式時滑鼠變問號 */
 }
-
 body.one-line-mode ruby rt {
-  display: none !important; /* 一行模式下，徹底隱藏所有說明的行 */
-  font-size: 14px;
-  font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
+  display: none !important; /* 點擊後隱藏所有解釋行 */
 }
-  
-/*
-  ruby {
-    font-size: 13pt ; 
-    ruby-align:start;
-    line-height:5em;
-    padding: 0 0.1em 0 0px;
-    font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
-  }
-  
-  rt {
-    font-size: 0.8em ; 
-    font-weight:normal;
-    padding: 0 0.1em 0 0;
-    font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
-  }
-  
-  li ruby {
-    line-height:4.5em;
-  } 
-*/
+
 
 	/* ══════════════ /*
   /* page layout */

@@ -55,56 +55,48 @@ document.addEventListener('DOMContentLoaded', () => {
   const btn = document.getElementById('toggle-btn');
   if (!btn) return;
 
-  // 1. 抓出最外層的 ruby 標籤（排除被包裹在內層的 ruby）
+  // 1. 找出所有最外層的單字塊
   const topLevelRubies = Array.from(document.querySelectorAll('ruby')).filter(ruby => {
     return !ruby.parentElement.closest('ruby');
   });
 
-  // 2. 自動解析結構並生成 hover 提示
+  // 2. 🔥 【關鍵步驟】一開網頁、四行都還在時，立刻把文字撈出來存好！
   topLevelRubies.forEach(ruby => {
     try {
-      // 不管嵌套幾層，直接把這個單字塊裡所有的 rt 抓出來
       const rts = Array.from(ruby.querySelectorAll('rt'));
       
-      // 依據你的 HTML 結構：
-      // 第一個 rt 是英文/字義（最內層）
-      // 第二個 rt 是希臘文原形（中間層）
-      // 第三個 rt 是詞性（最外層）
+      // 根據你的洋蔥嵌套結構：rts[0]是字義，rts[1]是原形，rts[2]是詞性
       if (rts.length >= 3) {
         const meaning = rts[0].textContent.trim();
         const lemma = rts[1].textContent.trim();
         const pos = rts[2].textContent.trim();
 
-        // 組合出懸浮提示內容
+        // 組合出你要的懸浮內容
         const hoverTitle = `${lemma} [${pos}]\n${meaning}`;
         
-        // 為了保險，把這個 title 同時存在最外層和最內層
+        // 把它牢牢存在最外層 ruby 的自訂屬性 data-hover 裡備用
         ruby.setAttribute('data-hover', hoverTitle);
-        
-        const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
-        innerRuby.setAttribute('data-hover', hoverTitle);
       }
     } catch (e) {
-      console.error("解析聖經單字失敗:", e);
+      console.error("初始化單字提示失敗:", e);
     }
   });
 
-  // 3. 按鈕點擊切換
+  // 3. 點擊按鈕進行切換
   btn.addEventListener('click', () => {
     const isOneLine = document.body.classList.toggle('one-line-mode');
-    btn.textContent = isOneLine ? "⇒4行" : "⇒1行";
+    btn.textContent = isOneLine ? "切換為：四行對齊模式" : "切換為：一行模式";
     
+    // 4. 輪詢所有單字塊，切換真正的原生 title
     topLevelRubies.forEach(ruby => {
-      // 尋找最深層包含希臘文文本的地方
-      const innerRuby = ruby.querySelector('ruby > ruby') || ruby;
-      // 如果以後加上 a 超連結就綁在 a，現在沒有就直接綁在 innerRuby
-      const targetElement = innerRuby.querySelector('a') || innerRuby;
       const hoverData = ruby.getAttribute('data-hover');
       
       if (isOneLine && hoverData) {
-        targetElement.setAttribute('title', hoverData);
+        // 一行模式：把剛剛一開網頁存好的備用字串塞給原生 title
+        ruby.setAttribute('title', hoverData);
       } else {
-        targetElement.removeAttribute('title');
+        // 四行模式：移除原生 title，避免跟原本就看得見的四行重疊
+        ruby.removeAttribute('title');
       }
     });
   });

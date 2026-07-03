@@ -5,7 +5,7 @@
 # HW04 (路 11:9-13) 句法圖析
 
 
-
+- <ruby data-title="οὐδείς [A-NSN]&#10;[There is] no"><ruby><ruby>Οὐδὲν<rt>[There is] no</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSN</rt></ruby>
 - 11:9a (<RUBY><ruby><ruby>Κἀγὼ<rt>我也 And I</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=02504&m='>κἀγώ</a></rt></ruby><rt>P-1NS</rt></RUBY>)S[^1] (<RUBY><ruby><ruby>ὑμῖν<rt>你們 to you</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>λέγω</span><rt>告訴 say</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>λέγω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <span class='punctuation'>,</span>[^2] 
 - 11:9b (<RUBY><ruby><ruby><span class='verb'>αἰτεῖτε</span><rt>你們祈求 ask</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=00154&m='>αἰτέω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P 
 - 11:9c <RUBY><ruby><ruby>καὶ<rt>就 and</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>δοθήσεται</span><rt>會給 it will be given</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=01325&m='>δίδωμι</a></rt></ruby><rt>V-FPI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>你們 to you</rt></ruby><rt><a  target='_blank' rel='noopener noreferrer' href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C <span class='punctuation'>,</span> 
