@@ -51,12 +51,14 @@ ruby ruby {
 ruby rt {
   display: block !important; /* 蓋過部分瀏覽器的原生隱藏預設 */
   font-size: 14px;
+  line-height: 14px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", "PT Sans Narrow", sans-serif;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
   font-size: 16px;
+  line-height: 16px;
   font-family: "Gentium Book Plus", "Noto Serif Hebrew", serif;
 }
 
