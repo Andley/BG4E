@@ -53,16 +53,16 @@ ruby rt {
   display: block !important;
   font-size: 14px !important;
   /* 1. 縮小字體自身的行高（預設通常是 1.4 ~ 1.6，縮小到 1.1 甚至 1.0） */
-  line-height: 1 !important; 
+  line-height: 1.2 !important; 
   /* 2. 透過微調上下外距，擠壓行與行之間的距離（可根據喜好調整成 1px 或 0px） */
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
+
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
   font-size: 16px !important;
-  line-height: 1.1 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
+  line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
+  font-weight:normal;
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
