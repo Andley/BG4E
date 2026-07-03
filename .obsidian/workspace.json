@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Interlinear-Sandbox.md",
-                "mode": "preview",
+                "file": "test.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interlinear-Sandbox"
+              "title": "test"
             }
           }
         ]
@@ -164,8 +164,9 @@
       "better-footnote:打开 Better Footnote": false
     }
   },
-  "active": "323a10775016a71f",
+  "active": "53ea838997409b20",
   "lastOpenFiles": [
+    "Tools/Interlinear-Sandbox.md",
     "test.md",
     "45-Romans/Rom.1.1-7.md",
     "BBG4E/§1.md",
@@ -175,7 +176,6 @@
     "assets/js/main.js",
     "assets/js",
     "README.md",
-    "Tools/Interlinear-Sandbox.md",
     "BBG4E/Vocabulary in Context.md",
     "BBG4E/未命名.md",
     "BBG4E/HWa.md",
