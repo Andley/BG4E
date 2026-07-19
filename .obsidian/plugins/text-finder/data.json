@@ -45,6 +45,12 @@
       "lastUsedAt": 1776376893977,
       "createdAt": 1776376832023,
       "count": 1
+    },
+    {
+      "text": "(\\d:\\d)",
+      "lastUsedAt": 1784340108513,
+      "createdAt": 1784340108513,
+      "count": 1
     }
   ]
 }
