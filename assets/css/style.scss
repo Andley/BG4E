@@ -52,7 +52,7 @@ html, body, p, li {
   flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
-  text-align: center !important;       /* 文字置中 */
+  text-align: start !important;       
   margin: 0 0 5px 0 !important; /* 每個單字塊彼此的左右與下方間距 */
   vertical-align: top !important;
 }
@@ -63,7 +63,7 @@ ruby ruby {
   flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
-  text-align: center !important;
+  text-align: start !important;
   width: 100% !important;             /* 強制充滿外包絡線，防止位移 */
 }
 
@@ -84,8 +84,7 @@ ruby rt {
 ruby > ruby > ruby {
   font-size: 16px !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
-  font-weight: bold;
-  text-align: center !important;
+  text-align: start !important;
   font-family: 'AndleyFont', serif !important;
 }
 

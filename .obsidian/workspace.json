@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.9110412597656,
-    "collapsed": true
+    "width": 356.9110412597656
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -235,46 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "6f9f26fedf1479aa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "436e7af97c6cf73f",
-        "type": "window",
-        "children": [
-          {
-            "id": "721a002ae54814c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09d75f2cf04928e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "48-Galatians/old-Gal.3.7-14.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "old-Gal.3.7-14"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 102,
-        "y": 0,
-        "width": 1026,
-        "height": 731,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "09d75f2cf04928e1",
+  "active": "449dcaed62887891",
   "lastOpenFiles": [
     "48-Galatians/old-Gal.3.7-14.md",
     "48-Galatians/Gal.3.1-14.md",
