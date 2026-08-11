@@ -1,3 +1,8 @@
+---
+title: "Jud.1.1-2"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jude 1:1-2)
 
 - 1:1a (<RUBY><ruby><ruby>Ἰούδας<rt>猶大</rt></ruby><rt>Ἰούδας</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>δοῦλος<rt>僕人</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-NSM</rt></RUBY>)=S <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφὸς<rt>兄弟</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-NSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>Ἰακώβου<rt>雅各</rt></ruby><rt>Ἰάκωβος</rt></ruby><rt>N-GSM</rt></RUBY>)=S <mark class='punctuation'>,</mark> 

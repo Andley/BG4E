@@ -1,3 +1,8 @@
+---
+title: "Act1"
+date: 2026-07-04
+draft: false
+---
 # ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ
 ## 使徒行傳 Interlinear (英文)
 

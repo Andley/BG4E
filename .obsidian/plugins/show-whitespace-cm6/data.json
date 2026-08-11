@@ -1,18 +1,21 @@
 {
+  "disablePluginStyles": false,
+  "enabled": true,
+  "showLineEndings": true,
+  "showHardLineBreaks": true,
+  "showUnicodeWhitespace": true,
+  "outlineListMarkers": true,
+  "showAllCodeblockWhitespace": true,
+  "showAllWhitespace": true,
+  "showCodeblockWhitespace": true,
+  "showFrontmatterWhitespace": true,
+  "showTableWhitespace": true,
+  "showSourceOnlyWhitespace": true,
   "version": {
     "major": 0,
     "minor": 2,
     "patch": 8
   },
-  "disablePluginStyles": false,
-  "enabled": true,
-  "outlineListMarkers": true,
-  "showAllCodeblockWhitespace": true,
-  "showAllWhitespace": true,
   "showBlockquoteMarkers": true,
-  "showCodeblockWhitespace": true,
-  "showExtraWhitespace": false,
-  "showFrontmatterWhitespace": true,
-  "showLineEndings": true,
-  "showTableWhitespace": true
+  "showExtraWhitespace": false
 }

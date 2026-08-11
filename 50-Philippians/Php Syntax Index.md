@@ -1,3 +1,8 @@
+---
+title: "Php Syntax Index"
+date: 2026-07-04
+draft: false
+---
 
 
 I have identified nine relative clauses in Philippians that stand in left-

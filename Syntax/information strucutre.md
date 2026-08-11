@@ -1,3 +1,8 @@
+---
+title: "information strucutre"
+date: 2026-07-04
+draft: false
+---
 資訊結構 (information structure) 就是在探討希臘文的 word-order (字序)。
 
 non-configurational language = free word-order

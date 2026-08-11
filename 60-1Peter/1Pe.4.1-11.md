@@ -1,3 +1,8 @@
+---
+title: "1Pe.4.1-11"
+date: 2026-07-04
+draft: false
+---
 
 - 4:1 ⸉<a href="https://bible.fhl.net/new/s.php?N=0&k=03767&m=" title="οὖν [CONJ]&#10;既然 therefore">οὖν</a>⸊
 	- <a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" title="Χριστός [N-GSM]&#10;基督 Christ">Χριστοῦ</a> ⸉⸊ <a href="https://bible.fhl.net/new/s.php?N=0&k=03958&m=" title="πάσχω [V-AAP-GSM]&#10;受苦 having suffered"><span class='ptc'>παθόντος</span></a> <a href="https://bible.fhl.net/new/s.php?N=0&k=04561&m=" title="σάρξ [N-DSF]&#10;在肉身 in [the] flesh">σαρκὶ</a>  基督既在肉身<span class='ptc'>受苦</span>

@@ -1,3 +1,7 @@
+---
+title: "Idioms"
+draft: false
+---
 ## from ubs lexicon
 
 - ἅγιος (233)

@@ -1,3 +1,8 @@
+---
+title: "1Ti.6.1-2"
+date: 2026-07-04
+draft: false
+---
 - ⋯⋯⋯⋯⋯⋯⋯
 	- 6:1a (<RUBY><ruby><ruby>Ὅσοι<rt>ὅσος</rt></ruby><rt>As many as</rt></ruby><rt>K-NPM</rt></RUBY>) (<RUBY><ruby><ruby><mark class='verb'>εἰσὶν</mark><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ζυγὸν<rt>ζυγός</rt></ruby><rt>a yoke</rt></ruby><rt>N-ASM</rt></RUBY>)A (<RUBY><ruby><ruby>δοῦλοι <mark class='punctuation'>,</mark><rt>δοῦλος</rt></ruby><rt>[as] slaves</rt></ruby><rt>N-NPM</rt></RUBY>)C 
 - 6:1b (<RUBY><ruby><ruby>τοὺς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>ἰδίους<rt>ἴδιος</rt></ruby><rt>own</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>δεσπότας<rt>δεσπότης</rt></ruby><rt>masters</rt></ruby><rt>N-APM</rt></RUBY>)C ( ‹ <RUBY><ruby><ruby>πάσης<rt>πᾶς</rt></ruby><rt>of all</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>τιμῆς<rt>τιμή</rt></ruby><rt>honor</rt></ruby><rt>N-GSF</rt></RUBY> › <RUBY><ruby><ruby>ἀξίους<rt>ἄξιος</rt></ruby><rt>worthy</rt></ruby><rt>A-APM</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἡγείσθωσαν <mark class='punctuation'>,</mark></mark><rt>ἡγέομαι</rt></ruby><rt>let them esteem</rt></ruby><rt>V-PMM-3P</rt></RUBY>)P 

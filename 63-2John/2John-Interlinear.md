@@ -1,3 +1,8 @@
+---
+title: "2John-Interlinear"
+date: 2026-07-04
+draft: false
+---
 # ΙΩΑΝΝΟΥ Β
 
 

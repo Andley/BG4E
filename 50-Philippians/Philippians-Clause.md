@@ -1,3 +1,8 @@
+---
+title: "Philippians-Clause"
+date: 2026-07-04
+draft: false
+---
 # 腓立比書 (Philippians) 子句結構綜覽
 
 聖經希臘文的子句結構可以分成三種：(1) 主要 (primary)、獨立 (independent) 子句；(2) 次要 (secondary)、從屬 (dependent/subordinate) 子句；(3) 內嵌 (embedded) 子句。三者的功用並不相同。  

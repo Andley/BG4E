@@ -1,3 +1,8 @@
+---
+title: "Mat.6.25-34"
+date: 2026-07-04
+draft: false
+---
 
 ### Care and Anxiety (Mat 6:25-34)
 

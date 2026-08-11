@@ -1,3 +1,8 @@
+---
+title: "Php.1.27-30"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 1:27-30)
 - 1:27a (<RUBY><ruby><ruby>Μόνον<rt>μόνος</rt></ruby><rt>Only</rt></ruby><rt>A-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>ἀξίως<rt>ἀξίως</rt></ruby><rt>worthily</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>πολιτεύεσθε ,</mark><rt>πολιτεύω</rt></ruby><rt>conduct yourselves</rt></ruby><rt>V-PNM-2P</rt></RUBY>)P>)P 
 	- 1:27b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (1:27c)A (1:27d)A <RUBY><ruby><ruby><mark><mark class='verb'>ἀκούω°¹</mark></mark><rt>ἀκούω</rt></ruby><rt>I might hear</rt></ruby><rt>V-PAS-1S</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the things</rt></ruby><rt>T-APN</rt></RUBY> « <RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν ,<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2GP</rt></RUBY> » )C

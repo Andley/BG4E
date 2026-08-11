@@ -1,3 +1,8 @@
+---
+title: "Php.1.15-26"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 1:15-26)
 
 - 1:15a (<RUBY><ruby><ruby>Τινὲς<rt>τις</rt></ruby><rt>Some</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φθόνον<rt>φθόνος</rt></ruby><rt>envy</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔριν ,<rt>ἔρις</rt></ruby><rt>strife</rt></ruby><rt>N-ASF</rt></RUBY>)A 

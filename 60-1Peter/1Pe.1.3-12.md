@@ -1,3 +1,8 @@
+---
+title: "1Pe.1.3-12"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (1Pe 1:3-9)
 
 - 1:3a (<RUBY><ruby><ruby>Εὐλογητὸς<rt>εὐλογητός</rt></ruby><rt>頌讚</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>神</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>πατήρ</rt></ruby><rt>父</rt></ruby><rt>N-NSM</rt></RUBY> <<RUBY><ruby><ruby>τοῦ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>主</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>我們的</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>耶穌</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>基督</rt></ruby><rt>N-GSM</rt></RUBY>>)<mark>S°¹</mark>

@@ -1,3 +1,8 @@
+---
+title: "AGG-Outline"
+date: 2026-07-04
+draft: false
+---
 - 3 Syntax
 	- 3.1 Basics of syntax
 		- §126 Definition and organization of syntax

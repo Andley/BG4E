@@ -1,3 +1,8 @@
+---
+title: "Jas.1.19-27"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 1:19-27)
 
 - 1:19a (<RUBY><ruby><ruby><mark class='verb'>Ἴστε</mark><rt>εἴδω</rt></ruby><rt>知道</rt></ruby><rt>V-RAM-2P</rt></RUBY>)P <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>親愛的</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>·</mark> 

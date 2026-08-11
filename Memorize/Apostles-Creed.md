@@ -1,3 +1,8 @@
+---
+title: "Apostles-Creed"
+date: 2026-07-04
+draft: false
+---
 
 
 # 使徒信經 The Apostles’ Creed[^1]

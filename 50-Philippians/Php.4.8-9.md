@@ -1,3 +1,8 @@
+---
+title: "Php.4.8-9"
+date: 2026-07-04
+draft: false
+---
 
 #### 圖析 (Php 4:8-9)
 

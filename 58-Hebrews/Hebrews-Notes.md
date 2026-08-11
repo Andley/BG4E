@@ -1,3 +1,8 @@
+---
+title: "Hebrews-Notes"
+date: 2026-07-04
+draft: false
+---
 
 
 # # Πρὸς Ἑβραίους 希伯來書希臘文筆記

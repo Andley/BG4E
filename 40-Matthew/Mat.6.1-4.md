@@ -1,3 +1,8 @@
+---
+title: "Mat.6.1-4"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about Almsgiving (Mat 6:1-4)
 
 

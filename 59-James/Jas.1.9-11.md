@@ -1,3 +1,8 @@
+---
+title: "Jas.1.9-11"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 1:9-11)
 
 - 1:9 (<RUBY><ruby><ruby><mark class='verb'>Καυχάσθω</mark><rt>καυχάομαι</rt></ruby><rt>誇耀</rt></ruby><rt>V-PMM-3S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸς<rt>ἀδελφός</rt></ruby><rt>弟兄</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ταπεινὸς<rt>ταπεινός</rt></ruby><rt>卑微</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>因</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>ὕψει<rt>ὕψος</rt></ruby><rt>高升</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>他</rt></ruby><rt>P-GSM</rt></RUBY>)A <mark class='punctuation'>,</mark>

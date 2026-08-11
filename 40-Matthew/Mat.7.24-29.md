@@ -1,3 +1,8 @@
+---
+title: "Mat.7.24-29"
+date: 2026-07-04
+draft: false
+---
 ### The Two Foundations (Mat 7:24-29)
 
 - 7:24a (<RUBY><ruby><ruby>Πᾶς<rt>凡 everyone</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></rt></ruby><rt>A-NSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>οὖν<rt>所以 therefore</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03767&m='>οὖν</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ὅστις<rt>who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03748&m='>ὅστις</a></rt></ruby><rt>R-NSM</rt></RUBY>)S[^1] (<RUBY><ruby><ruby><span class='verb'>ἀκούει</span><rt>聽 hears</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>μου<rt>我 mine</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03450&m='>ἐγώ</a></rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>λόγους<rt>話 words</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03056&m='>λόγος</a></rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>τούτους<rt>這些 these</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05128&m='>οὗτος</a></rt></ruby><rt>D-APM</rt></RUBY>)C 

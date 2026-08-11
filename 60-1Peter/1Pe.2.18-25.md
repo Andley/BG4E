@@ -1,3 +1,8 @@
+---
+title: "1Pe.2.18-25"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (1Pe 2:18-25)
 
 - 2:18a (<RUBY><ruby><ruby>Οἱ<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>οἰκέται<rt>οἰκέτης</rt></ruby><rt>仆人</rt></ruby><rt>N-NPM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='ptc'>ὑποτασσόμενοι</mark><rt>ὑποτάσσω</rt></ruby><rt>顺服</rt></ruby><rt>V-PPP-NPM</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>存</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὶ<rt>πᾶς</rt></ruby><rt>凡事</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>φόβῳ<rt>φόβος</rt></ruby><rt>敬畏</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>δεσπόταις<rt>δεσπότης</rt></ruby><rt>主人</rt></ruby><rt>N-DPM</rt></RUBY>)C <mark class='punctuation'>,</mark> 

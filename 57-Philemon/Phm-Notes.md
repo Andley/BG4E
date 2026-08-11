@@ -1,3 +1,8 @@
+---
+title: "Phm-Notes"
+date: 2026-07-04
+draft: false
+---
 ## Πρὸς Φιλἠμονα 1
 
 #### Salutation

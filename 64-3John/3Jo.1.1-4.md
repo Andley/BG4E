@@ -1,3 +1,8 @@
+---
+title: "3Jo.1.1-4"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (3Jo 1:1-4)
 
 - 1:1a (<RUBY><ruby><ruby>Ὁ<rt>這 the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>做長老的 elder</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04245&m='>πρεσβύτερος</a></rt></ruby><rt>A-NSM-C</rt></RUBY>)S (<RUBY><ruby><ruby>Γαΐῳ<rt>該猶 Gaius</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01050&m='>Γάϊος</a></rt></ruby><rt>N-DSM</rt></RUBY>°¹ <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητῷ<rt>親愛的 beloved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00027&m='>ἀγαπητός</a></rt></ruby><rt>A-DSM</rt></RUBY>)C , 

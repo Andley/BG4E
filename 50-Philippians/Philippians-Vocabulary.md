@@ -1,3 +1,8 @@
+---
+title: "Philippians-Vocabulary"
+date: 2026-07-04
+draft: false
+---
 # 腓立比書 (Philippians) 詞彙綜覽
 
 ### 詞彙頻率 (≧ 5x)

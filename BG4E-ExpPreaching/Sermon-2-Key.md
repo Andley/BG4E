@@ -1,3 +1,8 @@
+---
+title: "Sermon-2-Key"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-2 (可8:27-38) 參考解答
 
 ### 句法圖析 (Syntax Diagram)

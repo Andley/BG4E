@@ -1,3 +1,8 @@
+---
+title: "2Pe.1.16-21"
+date: 2026-07-04
+draft: false
+---
 - <rt>1:16</rt> ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- <RUBY><ruby><ruby>Οὐ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> ⸉⸊ { (<RUBY><ruby><ruby><mark class='ptc'>σεσοφισμένοις</mark><rt>σοφίζω</rt></ruby><rt>cleverly devised</rt></ruby><rt>V-RPP-DPM</rt></RUBY> <RUBY><ruby><ruby>μύθοις<rt>μῦθος</rt></ruby><rt>fables</rt></ruby><rt>N-DPM</rt></RUBY>)c (<RUBY><ruby><ruby><em>ἐξακολουθήσαντες</em><rt>ἐξακολουθέω</rt></ruby><rt>having followed out</rt></ruby><rt>V-AAP-NPM</rt></RUBY>)p }A°¹⮧
 - (<mark><RUBY><ruby><ruby><mark class='verb'>ἐγνωρίσαμεν°¹</mark><rt>γνωρίζω</rt></ruby><rt>we have made known</rt></ruby><rt>V-AAI-1P</rt></RUBY></mark>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> › <RUBY><ruby><ruby>δύναμιν<rt>δύναμις</rt></ruby><rt>power</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>παρουσίαν<rt>παρουσία</rt></ruby><rt>coming</rt></ruby><rt>N-ASF</rt></RUBY>)C

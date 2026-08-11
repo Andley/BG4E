@@ -1,3 +1,8 @@
+---
+title: "James Nugget"
+date: 2026-07-04
+draft: false
+---
 **James 2:14** Τί τὸ ὄφελος, ἀδελφοί μου, ἐὰν πίστιν λέγῃ τις ἔχειν, ἔργα δὲ μὴ ἔχῃ; μὴ δύναται ἡ πίστις σῶσαι αὐτόν;
 
 **Lexical Nugget**: What is the meaning of ὄφελος and how does James use it? This noun appears only once in the lxx (Job 15:3), and occurs outside James in the NT only in 1 Cor 15:32, where Paul asks, “If from human motives I fought with wild beasts at Ephesus, what does it benefit me [τί μοι τὸ ὄφελος]?” The verb ὀφείλω appears often in the NT and in Matt 16:26 provides an interesting parallel to the use of the noun here: “For what shall a person be benefited [τί γὰρ ὠφεληθήσεται ἄνθρωπος] if he gains the whole world and loses his soul?” James will again use this question to end 2:16, and thus it serves as an inclusio to “bookend” his point about the necessary alliance of faith and works.

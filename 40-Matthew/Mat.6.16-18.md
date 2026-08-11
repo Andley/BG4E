@@ -1,3 +1,8 @@
+---
+title: "Mat.6.16-18"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about Fasting (Mat 6:16-18)
 
 - 6:16a ⸉<RUBY><ruby><ruby>δὲ<rt>又 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>⸊

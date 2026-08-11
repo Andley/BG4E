@@ -1,3 +1,8 @@
+---
+title: "Php.3.17-21"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 3:17-21)
 
 - 3:17a (<RUBY><ruby><ruby>Συμμιμηταί<rt>συμμιμητής</rt></ruby><rt>Imitators together</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>γίνεσθε ! ,</mark><rt>γίνομαι</rt></ruby><rt>be</rt></ruby><rt>V-PNM-2P</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί ,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 

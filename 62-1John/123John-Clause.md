@@ -1,3 +1,8 @@
+---
+title: "123John-Clause"
+date: 2026-07-04
+draft: false
+---
 # 約翰書信 (123John) 子句結構
 
 聖經希臘文的子句結構可以分成兩大類：(1) 主要 (primary) 子句；(2) 次要 (secondary) 子句。

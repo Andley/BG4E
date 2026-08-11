@@ -1,3 +1,8 @@
+---
+title: "Parts of Speech Code"
+date: 2026-07-04
+draft: false
+---
 - Parts of Speech (CCAT)
 	- adjective A-
 	- conjunction C-

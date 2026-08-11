@@ -1,3 +1,8 @@
+---
+title: "Mat.7.7-12"
+date: 2026-07-04
+draft: false
+---
 ### Ask, Seek, Knock (Mat 7:7-12)
 
 - 7:7a (<RUBY><ruby><ruby><span class='verb'>Αἰτεῖτε</span><rt>祈求 ask</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00154&m='>αἰτέω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P[^1] , 

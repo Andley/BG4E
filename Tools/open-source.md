@@ -1,3 +1,8 @@
+---
+title: "open-source"
+date: 2026-07-04
+draft: false
+---
 # 新約開源資料庫
 
 # 舊約開源資料庫

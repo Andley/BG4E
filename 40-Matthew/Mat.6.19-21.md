@@ -1,3 +1,8 @@
+---
+title: "Mat.6.19-21"
+date: 2026-07-04
+draft: false
+---
 ### Treasure in Heaven (Mat 6:19-21)
 
 - 6:19a <RUBY><ruby><ruby>Μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>θησαυρίζετε</span><rt>積蓄 store up</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02343&m='>θησαυρίζω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>自己 yourselves</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05213&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>θησαυροὺς<rt>財寶 treasures</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02344&m='>θησαυρός</a></rt></ruby><rt>N-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐπὶ<rt>在 on</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01909&m='>ἐπί</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>γῆς<rt>地上 earth</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01093&m='>γῆ</a></rt></ruby><rt>N-GSF</rt></RUBY>)A , 

@@ -1,3 +1,8 @@
+---
+title: "Php.3.2-11"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 3:2-11)
 
 - 3:2a (<RUBY><ruby><ruby><mark class='verb'>Βλέπετε !</mark><rt>βλέπω</rt></ruby><rt>Beware of</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τοὺς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>κύνας ,<rt>κύων</rt></ruby><rt>dogs</rt></ruby><rt>N-APM</rt></RUBY>)C 

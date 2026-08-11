@@ -1,3 +1,8 @@
+---
+title: "Rom.5.12-21-1line"
+date: 2026-07-04
+draft: false
+---
 
 - 5:12a <a href="https://bible.fhl.net/new/s.php?N=0&k=01223&m=" title="διά [PREP]&#10;為 Because of">Διὰ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=03778&m=" title="οὗτος [D-ASN]&#10;此 this">τοῦτο</a> 因此
 	- 5:12b <a href="https://bible.fhl.net/new/s.php?N=0&k=05618&m=" title="ὥσπερ [CONJ]&#10;正如 just as">ὥσπερ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01223&m=" title="διά [PREP]&#10;藉著 through">δι᾽</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01520&m=" title="εἷς [A-GSM]&#10;一 one">ἑνὸς</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=00444&m=" title="ἄνθρωπος [N-GSM]&#10;人 man">ἀνθρώπου</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=03588&m=" title="ὀ [T-NSF]&#10;- -">ἡ</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=00266&m=" title="ἁμαρτία [N-NSF]&#10;罪 sin">ἁμαρτία</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01519&m=" title="εἰς [PREP]&#10;- into">εἰς</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=03588&m=" title="ὀ [T-ASM]&#10;- the">τὸν</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=02889&m=" title="κόσμος [N-ASM]&#10;世界 world">κόσμον</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=01525&m=" title="εἰσέρχομαι [V-AAI-3S]&#10;進入 entered"><span class='verb'>εἰσῆλθεν</span></a> 就像，透過一人，罪<span class='verb'>進入</span>世界

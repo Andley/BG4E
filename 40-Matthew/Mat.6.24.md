@@ -1,3 +1,8 @@
+---
+title: "Mat.6.24"
+date: 2026-07-04
+draft: false
+---
 ### God and Mammon (Mat 6:24)
 
 - 6:24a {<RUBY><ruby><ruby>Οὐδεὶς<rt>一個人不 no one</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03762&m='>οὐδείς</a></rt></ruby><rt>A-NSM-N</rt></RUBY>}S {<RUBY><ruby><ruby><span class='verb'>δύναται</span><rt>能 can</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01410&m='>δύναμαι</a></rt></ruby><rt>V-PNI-3S</rt></RUBY>}P {(<RUBY><ruby><ruby>δυσὶ<rt>兩 two</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01417&m='>δύο</a></rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>κυρίοις<rt>主人 masters</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02962&m='>κύριος</a></rt></ruby><rt>N-DPM</rt></RUBY>)c (<RUBY><ruby><ruby><span class='inf'>δουλεύειν</span><rt>服侍 serve</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01398&m='>δουλεύω</a></rt></ruby><rt>V-PAN</rt></RUBY>)p}C · 

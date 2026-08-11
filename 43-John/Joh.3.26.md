@@ -1,3 +1,8 @@
+---
+title: "Joh.3.26"
+date: 2026-07-04
+draft: false
+---
 - 3:26a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἦλθον</mark><rt>ἔρχομαι</rt></ruby><rt>they came</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Ἰωάννην<rt>Ἰωάννης</rt></ruby><rt>John</rt></ruby><rt>N-ASM</rt></RUBY>)A 
 - 3:26b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>εἶπαν</mark><rt>εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-AAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῷ <mark class='punctuation'>·</mark><rt>αὐτός</rt></ruby><rt>to him</rt></ruby><rt>P-DSM</rt></RUBY>)C
 	- 3:26c <RUBY><ruby><ruby>Ῥαββί <mark class='punctuation'>,</mark><rt>ῥαββί</rt></ruby><rt>Rabbi</rt></ruby><rt>HEB-T</rt></RUBY> 

@@ -1,3 +1,8 @@
+---
+title: "Heb.3.1-6"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 3:1-6) 
 
 - 3:1a <RUBY><ruby><ruby>Ὅθεν<rt>ὅθεν</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY> <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοὶ<rt>ἀδελφός</rt></ruby><rt>弟兄</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>ἅγιοι<rt>ἅγιος</rt></ruby><rt>聖潔</rt></ruby><rt>A-VPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>κλήσεως<rt>κλῆσις</rt></ruby><rt>召</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐπουρανίου<rt>ἐπουράνιος</rt></ruby><rt>天</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>μέτοχοι<rt>μέτοχος</rt></ruby><rt>同蒙</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> 

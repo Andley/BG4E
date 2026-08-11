@@ -1,3 +1,8 @@
+---
+title: "Eph.3.14-19"
+date: 2026-07-04
+draft: false
+---
 - 14 <span title="這..的&#10;οὗτος&#10;D-GSN">Τούτου</span> <span title="因&#10;χάριν&#10;PREP">χάριν</span> <span title="下拜&#10;κάμπτω&#10;V-PAI-1S"><span class='verb'>κάμπτω</span></span> <span title="-&#10;ὀ&#10;T-APN">τὰ</span> <span title="膝&#10;γόνυ&#10;N-APN">γόνατά</span> <span title="我的&#10;ἐγώ&#10;P-1GS">μου</span> 為此<span class='verb'>我下拜</span>
 	- <span title="在...面前&#10;πρός&#10;PREP">πρὸς</span> <span title="-&#10;ὀ&#10;T-ASM">τὸν</span> <span title="父&#10;πατήρ&#10;N-ASM">Πατέρα</span> 對著父
 		- 15 <span title="從&#10;ἐκ&#10;PREP">ἐξ</span> <span title="他&#10;ὅς&#10;R-GSM">οὗ</span> <span title="所有&#10;πᾶς&#10;A-NSF">πᾶσα</span> <span title="家族&#10;πατριά&#10;N-NSF">πατριὰ</span> <span title="上&#10;ἐν&#10;PREP">ἐν</span> <span title="天上&#10;οὐρανός&#10;N-DPM">οὐρανοῖς</span> <span title="-&#10;καί&#10;CONJ">καὶ</span> <span title="下&#10;ἐπί&#10;PREP">ἐπὶ</span> <span title="地上&#10;γῆ&#10;N-GSF">γῆς</span> <span title="得名&#10;ὀνομάζω&#10;V-PPI-3S"><span class='verb'>ὀνομάζεται</span></span> 從他天地各家<span class='verb'>被命名</span>

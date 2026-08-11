@@ -1,3 +1,8 @@
+---
+title: "1Jo.4.16d-21"
+date: 2026-07-04
+draft: false
+---
 
 #### 圖析 (1Jo 4:16d-21)
 - 4:16d (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀγάπη<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἐστίν,</mark><rt>εἰμί</rt></ruby><rt>is,</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 

@@ -1,3 +1,8 @@
+---
+title: "1Th.5.1-11"
+date: 2026-07-04
+draft: false
+---
 - 5:1 ( ‹<RUBY><ruby><ruby>Περὶ<rt>περί</rt></ruby><rt>Concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>χρόνων<rt>χρόνος</rt></ruby><rt>times</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>καιρῶν,<rt>καιρός</rt></ruby><rt>seasons</rt></ruby><rt>N-GPM</rt></RUBY> › a )⦇ <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>no</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>χρείαν<rt>χρεία</rt></ruby><rt>need</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἔχετε</mark><rt>ἔχω</rt></ruby><rt>you have</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P ⦈(<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby><em>γράφεσθαι,</em><rt>γράφω</rt></ruby><rt>to be written</rt></ruby><rt>V-PPN</rt></RUBY>)+C
 - 5:2a (<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>Yourselves</rt></ruby><rt>P-NPM</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀκριβῶς<rt>ἀκριβῶς</rt></ruby><rt>fully</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>οἴδατε</mark><rt>οἶδα</rt></ruby><rt>you know</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P
 - ═════════════ 

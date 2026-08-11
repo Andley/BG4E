@@ -1,3 +1,8 @@
+---
+title: "Aspect and Prominence"
+date: 2026-07-04
+draft: false
+---
 
 
 ## Bibliography

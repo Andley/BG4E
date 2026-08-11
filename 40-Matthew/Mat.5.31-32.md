@@ -1,3 +1,8 @@
+---
+title: "Mat.5.31-32"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about Divorce (Mat 5:31-32)
 
 - 5:31a (<RUBY><ruby><ruby><span class='verb'>Ἐρρέθη</span><rt>說 said</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04483&m='>ῥέω</a></rt></ruby><rt>V-API-3S</rt></RUBY>)P <RUBY><ruby><ruby>δέ<rt>又 also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> · 

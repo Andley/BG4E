@@ -1,3 +1,8 @@
+---
+title: "Heb.4.14-5.10"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 4:14-5:10) 
 
 - 4:14a ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>那麼</rt></ruby><rt>CONJ</rt></RUBY>⸊

@@ -1,3 +1,8 @@
+---
+title: "Campbell – Basics of Verbal Aspect"
+date: 2026-07-04
+draft: false
+---
 # 動詞觀點與解經
 
 ## 為什麼需要動詞觀點？

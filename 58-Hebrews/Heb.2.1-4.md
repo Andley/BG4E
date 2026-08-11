@@ -1,3 +1,8 @@
+---
+title: "Heb.2.1-4"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 2:1-4) 
 
 - 2:1a (<RUBY><ruby><ruby>Διὰ<rt>διά</rt></ruby><rt>-</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>這</rt></ruby><rt>D-ASN</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>δεῖ</mark><rt>δεῖ</rt></ruby><rt>必須</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P {(<RUBY><ruby><ruby>περισσοτέρως<rt>περισσοτέρως</rt></ruby><rt>更加</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><mark class='inf'>προσέχειν</mark><rt>προσέχω</rt></ruby><rt>注意</rt></ruby><rt>V-PAN</rt></RUBY>)p (<RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>我們</rt></ruby><rt>P-1AP</rt></RUBY>)s() <RUBY><ruby><ruby>τοῖς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>ἀκουσθεῖσιν</mark><rt>ἀκούω</rt></ruby><rt>聽</rt></ruby><rt>V-APP-DPN</rt></RUBY>)c}S <mark class='punctuation'>,</mark> 

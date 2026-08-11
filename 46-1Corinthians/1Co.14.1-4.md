@@ -1,3 +1,8 @@
+---
+title: "1Co.14.1-4"
+date: 2026-07-04
+draft: false
+---
 
 - 14:1a (<RUBY><ruby><ruby><mark class='verb'>Διώκετε !</mark><rt>διώκω</rt></ruby><rt>Earnestly pursue</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην,<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-ASF</rt></RUBY>)C 
 - 14:1b (<RUBY><ruby><ruby><mark class='verb'>ζηλοῦτε !</mark><rt>ζηλόω</rt></ruby><rt>earnestly desire</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>πνευματικά,<rt>πνευματικός</rt></ruby><rt>spiritual gifts</rt></ruby><rt>A-APN</rt></RUBY>)C 

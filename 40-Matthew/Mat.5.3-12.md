@@ -1,3 +1,8 @@
+---
+title: "Mat.5.3-12"
+date: 2026-07-04
+draft: false
+---
 ### The Beatitudes (Mat 5:3-12)
 
 - ⋯⋯⋯⋯⋯⋯⋯第三人稱⋯⋯⋯⋯⋯⋯⋯

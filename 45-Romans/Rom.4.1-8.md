@@ -1,3 +1,8 @@
+---
+title: "Rom.4.1-8"
+date: 2026-07-04
+draft: false
+---
 
 - 4:1 (<RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>What</rt></ruby><rt>I-ASN</rt></RUBY>)+C <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἐροῦμεν</mark><rt>εἶπον</rt></ruby><rt>shall we say</rt></ruby><rt>V-FAI-1P</rt></RUBY>)P { <RUBY><ruby><ruby><mark class='ptc'>εὑρηκέναι</mark><rt>εὑρίσκω</rt></ruby><rt>discovered</rt></ruby><rt>V-RAN</rt></RUBY> (<RUBY><ruby><ruby>Ἀβραὰμ<rt>Ἀβραάμ</rt></ruby><rt>Abraham</rt></ruby><rt>N-ASM-P</rt></RUBY>)s =(<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>προπάτορα<rt>προπάτωρ</rt></ruby><rt>father</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)s (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα;<rt>σάρξ</rt></ruby><rt>[the] flesh?</rt></ruby><rt>N-ASF</rt></RUBY>)a }C 
 - 4:2a ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊

@@ -1,3 +1,8 @@
+---
+title: "discourse is more than"
+date: 2026-07-04
+draft: false
+---
 “John fell in the river,  
 got very cold,  
 and had two large whiskies.

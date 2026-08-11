@@ -1,3 +1,7 @@
+---
+title: "Louw-Nida §89-§91"
+draft: false
+---
 
 # 希漢新約語義大詞典 §89-§91
 [改編自《基於語意域的新約希臘語-英語詞典》](https://semanticdictionary.org/semdic.php?databaseType=SDGNT&language=zht)

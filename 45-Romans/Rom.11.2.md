@@ -1,3 +1,8 @@
+---
+title: "Rom.11.2"
+date: 2026-07-04
+draft: false
+---
 - Rom 11:2 <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>ἀπώσατο</mark><rt>ἀπωθέω</rt></ruby><rt>did reject</rt></ruby><rt>V-AMI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>λαὸν<rt>λαός</rt></ruby><rt>people</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY> <RUBY><ruby><ruby>ὃν<rt>ὅς</rt></ruby><rt>whom</rt></ruby><rt>R-ASM</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>προέγνω <mark class='punctuation'>.</mark></mark><rt>προγινώσκω</rt></ruby><rt>He foreknew</rt></ruby><rt>V-AAI-3S</rt></RUBY> 
 	- Non-Restrictive 
 		- God did not reject his people<mark>**,** </mark>whom he foreknew.  (NIV)  

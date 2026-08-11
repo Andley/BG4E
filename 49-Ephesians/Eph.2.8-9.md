@@ -1,3 +1,8 @@
+---
+title: "Eph.2.8-9"
+date: 2026-07-04
+draft: false
+---
 - 2:8a (<RUBY><ruby><ruby>Τῇ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>靠著</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>χάριτί<rt>χάρις</rt></ruby><rt>恩典</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἐστε</mark><rt>εἰμί</rt></ruby><rt>是/在/有</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>σεσῳσμένοι</mark><rt>σῴζω</rt></ruby><rt>得救</rt></ruby><rt>V-RPP-NPM</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>因著</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>信</rt></ruby><rt>N-GSF</rt></RUBY> <mark class='punctuation'>·</mark>)A 
 - 2:8b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>這</rt></ruby><rt>D-NSN</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>不是</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>出於</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>你們的</rt></ruby><rt>P-2GP</rt></RUBY>)C <mark class='punctuation'>,</mark> 
 - 2:8c (<RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>神</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>δῶρον<rt>δῶρον</rt></ruby><rt>所賜的</rt></ruby><rt>N-NSN</rt></RUBY>)C <mark class='punctuation'>·</mark> 

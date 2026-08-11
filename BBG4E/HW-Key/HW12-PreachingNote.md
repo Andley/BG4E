@@ -1,3 +1,8 @@
+---
+title: "HW12-PreachingNote"
+date: 2026-07-04
+draft: false
+---
 ## 講道大綱#1 (Rom 8:1–17)
 題目：天大好消息
 - <mark class='verb'>(1) 好消息 = 不定罪 (8:1-4)</mark>

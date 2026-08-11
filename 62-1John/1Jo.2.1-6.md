@@ -1,3 +1,8 @@
+---
+title: "1Jo.2.1-6"
+date: 2026-07-04
+draft: false
+---
 ### 圖析 (1Jo 2:1-6)
 - 2:1a <RUBY><ruby><ruby>Τεκνία<rt>τεκνίον</rt></ruby><rt>Little children</rt></ruby><rt>N-VPN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me,</rt></ruby><rt>P-1GS</rt></RUBY> 
 - 2:1b (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>γράφω</mark><rt>γράφω</rt></ruby><rt>I am writing</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2

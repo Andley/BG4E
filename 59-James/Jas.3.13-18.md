@@ -1,3 +1,8 @@
+---
+title: "Jas.3.13-18"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 3:13-18)
 
 - 3:13a (<RUBY><ruby><ruby>Τίς<rt>τίς</rt></ruby><rt>誰</rt></ruby><rt>I-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>σοφὸς<rt>σοφός</rt></ruby><rt>有智慧</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπιστήμων<rt>ἐπιστήμων</rt></ruby><rt>有見識的</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>中間</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>給你們</rt></ruby><rt>P-2DP</rt></RUBY>)A <mark class='punctuation'>;</mark> 

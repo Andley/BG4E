@@ -1,3 +1,8 @@
+---
+title: "Heb.1.5-14"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 1:5-14) 
 
 - 1:5a (<RUBY><ruby><ruby>Τίνι<rt>τίς</rt></ruby><rt>哪一</rt></ruby><rt>I-DSM</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>因為</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>εἶπέν</mark><rt>εἶπον</rt></ruby><rt>說</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ποτε<rt>ποτέ</rt></ruby><rt>曾</rt></ruby><rt>PRT</rt></RUBY>)A ⦈(<RUBY><ruby><ruby>τῶν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀγγέλων<rt>ἄγγελος</rt></ruby><rt>天使</rt></ruby><rt>N-GPM</rt></RUBY>)C <mark class='punctuation'>·</mark> 

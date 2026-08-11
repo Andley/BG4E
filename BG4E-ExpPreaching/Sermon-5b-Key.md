@@ -1,3 +1,8 @@
+---
+title: "Sermon-5b-Key"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-5b (約1:1-18) 參考解答
 
 ### 句法圖析 (Syntax Diagram)

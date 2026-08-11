@@ -1,3 +1,8 @@
+---
+title: "1Pe.2.11-17"
+date: 2026-07-04
+draft: false
+---
   #### 圖析 (1Pe 2:11-12)
  
 - 2:11a <RUBY><ruby><ruby>Ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>亲爱的</rt></ruby><rt>A-VPM</rt></RUBY> <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby><mark class='verb'>παρακαλῶ</mark><rt>παρακαλέω</rt></ruby><rt>劝</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P 

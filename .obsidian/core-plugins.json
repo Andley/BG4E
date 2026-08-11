@@ -5,9 +5,10 @@
   "graph": true,
   "backlink": true,
   "canvas": true,
-  "outgoing-link": false,
-  "tag-pane": false,
-  "properties": false,
+  "outgoing-link": true,
+  "tag-pane": true,
+  "footnotes": true,
+  "properties": true,
   "page-preview": false,
   "daily-notes": false,
   "templates": true,
@@ -27,7 +28,6 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "webviewer": false,
-  "footnotes": true,
-  "bases": true
+  "bases": false,
+  "webviewer": false
 }

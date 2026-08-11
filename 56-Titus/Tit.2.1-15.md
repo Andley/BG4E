@@ -1,3 +1,8 @@
+---
+title: "Tit.2.1-15"
+date: 2026-07-04
+draft: false
+---
 Tit 
 - 2:1 <RUBY><ruby><ruby>Σὺ<rt>You</rt></ruby><rt>σύ</rt></ruby><rt>P-2NS</rt></RUBY>
 - <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>λάλει</mark><rt>speak</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAM-2S</rt></RUBY> <RUBY><ruby><ruby>ἃ<rt>the things that</rt></ruby><rt>ὅς</rt></ruby><rt>R-NPN</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>πρέπει</mark><rt>are consistent with</rt></ruby><rt>πρέπω</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>ὑγιαινούσῃ</mark><rt>sound</rt></ruby><rt>ὑγιαίνω</rt></ruby><rt>V-PAP-DSF</rt></RUBY> <RUBY><ruby><ruby>διδασκαλίᾳ<rt>doctrine</rt></ruby><rt>διδασκαλία</rt></ruby><rt>N-DSF</rt></RUBY> <mark class='punctuation'>.</mark> Tit 

@@ -1,3 +1,8 @@
+---
+title: "Rom.1.8-15"
+date: 2026-07-04
+draft: false
+---
 
 - 1:13a <RUBY><ruby><ruby>Οὐ<rt>οὐ</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>θέλω</rt></ruby><rt>願意</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> {(<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>你們</rt></ruby><rt>P-2AP</rt></RUBY>)s (<RUBY><ruby><ruby><mark class='inf'>ἀγνοεῖν</mark><rt>ἀγνοέω</rt></ruby><rt>不知道</rt></ruby><rt>V-PAN</rt></RUBY>)p}C <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> 
 	- 1:13b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>就是</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πολλάκις<rt>πολλάκις</rt></ruby><rt>屢次</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>προεθέμην</mark><rt>προτίθημι</rt></ruby><rt>計劃</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P {(<RUBY><ruby><ruby><mark class='inf'>ἐλθεῖν</mark><rt>ἔρχομαι</rt></ruby><rt>去</rt></ruby><rt>V-AAN</rt></RUBY>)p (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>往</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>你們</rt></ruby><rt>P-2AP</rt></RUBY>)a}C <mark class='punctuation'>,</mark> 

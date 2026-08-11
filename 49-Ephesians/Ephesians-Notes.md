@@ -1,3 +1,8 @@
+---
+title: "Ephesians-Notes"
+date: 2026-07-04
+draft: false
+---
 # 以弗所書希臘文筆記
 ## ΠΡΟΣ ΕΦΕΣΙΟΥΣ
 

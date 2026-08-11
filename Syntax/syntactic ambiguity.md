@@ -1,4 +1,10 @@
-
+---
+title: "syntactic ambiguity"
+date: 2026-07-04
+description: |
+  1 Cor. 6.4 βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε
+  Discussed in this forum in 2018:
+  https://www.ibiblio.org/bgreek/forum/viewtopic.php?f=6&t=4353
 ---
 
 

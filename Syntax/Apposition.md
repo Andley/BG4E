@@ -1,3 +1,8 @@
+---
+title: "Apposition"
+date: 2026-07-04
+draft: false
+---
 形式：N1、N2 可以是任何格
 結構：N1—N2
 功能：

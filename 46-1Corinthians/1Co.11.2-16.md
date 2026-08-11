@@ -1,3 +1,8 @@
+---
+title: "1Co.11.2-16"
+date: 2026-07-04
+draft: false
+---
 
 - 11:2 <SPAN CLASS="w"><span class="t"><span class='verb'>Ἐπαινῶ</span></span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01867&m='>ἐπαινέω</a></span><span class="m">V-PAI-1S</span><span class="g">稱讚 praise</span></span> <SPAN CLASS="w"><span class="t">δὲ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="m">CONJ</span><span class="g">now</span></span> <SPAN CLASS="w"><span class="t">ὑμᾶς</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05209&m='>σύ</a></span><span class="m">P-2AP</span><span class="g">你們 you</span></span> 
 	- <SPAN CLASS="w"><span class="t">ὅτι</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></span><span class="m">CONJ</span><span class="g">因為 because</span></span> <SPAN CLASS="w"><span class="t">πάντα</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></span><span class="m">A-APN</span><span class="g">凡事 everything</span></span> <SPAN CLASS="w"><span class="t">μου</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03450&m='>ἐγώ</a></span><span class="m">P-1GS</span><span class="g">我 me</span></span> <SPAN CLASS="w"><span class="t"><span class='verb'>μέμνησθε</span></span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03415&m='>μιμνῄσκομαι</a></span><span class="m">V-RPI-2P</span><span class="g">紀念 remember</span></span> 

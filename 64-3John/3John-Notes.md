@@ -1,3 +1,8 @@
+---
+title: "3John-Notes"
+date: 2026-07-04
+draft: false
+---
 # ΙΩΑΝΝΟΥ Γ
 
 ## 約翰三書希臘文筆記

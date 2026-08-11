@@ -1,3 +1,8 @@
+---
+title: "Jas.5.1-6"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 5:1-6)
 
 - 5:1a (<RUBY><ruby><ruby><mark class='verb'>Ἄγε</mark><rt>ἄγω</rt></ruby><rt>嗐</rt></ruby><rt>V-PAM-2S</rt></RUBY>)V (<RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>如今</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-VPM</rt></RUBY> <RUBY><ruby><ruby>πλούσιοι<rt>πλούσιος</rt></ruby><rt>富有</rt></ruby><rt>A-VPM</rt></RUBY>)S <mark class='punctuation'>,</mark> 

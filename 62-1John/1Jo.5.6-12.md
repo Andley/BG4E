@@ -1,3 +1,8 @@
+---
+title: "1Jo.5.6-12"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (1Jo 5:6-12)
 
 - 5:6a (<RUBY><ruby><ruby>οὗτός<rt>οὗτος</rt></ruby><rt>This</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐστιν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the [One]</rt></ruby><rt>T-NSM</rt></RUBY> [ (<mark><RUBY><ruby><ruby><mark class='ptc'>ἐλθὼν</mark><rt>ἔρχομαι</rt></ruby><rt>having come</rt></ruby><rt>V-AAP-NSM</rt></RUBY>°¹</mark>)p (<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὕδατος<rt>ὕδωρ</rt></ruby><rt>water</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αἵματος,<rt>αἷμα</rt></ruby><rt>blood</rt></ruby><rt>N-GSN</rt></RUBY>)a ] }C =(<RUBY><ruby><ruby>Ἰησοῦς<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστός,<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-NSM-T</rt></RUBY>)C 

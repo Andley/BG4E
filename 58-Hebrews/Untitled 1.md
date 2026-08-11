@@ -1,3 +1,8 @@
+---
+title: "Untitled 1"
+date: 2026-07-04
+draft: false
+---
 <h3>希伯來書 1:1</h3>
 
 <span class="interlinear-container">

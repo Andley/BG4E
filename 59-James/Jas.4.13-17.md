@@ -1,3 +1,8 @@
+---
+title: "Jas.4.13-17"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 4:13-17)
 
 - 4:13a (<RUBY><ruby><ruby><mark class='verb'>Ἄγε</mark><rt>ἄγω</rt></ruby><rt>嗐</rt></ruby><rt>V-PAM-2S</rt></RUBY>)V (<RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>如今</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-VPM</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>λέγοντες</mark><rt>λέγω</rt></ruby><rt>說</rt></ruby><rt>V-PAP-VPM</rt></RUBY>)S <mark class='punctuation'>·</mark> 

@@ -1,3 +1,8 @@
+---
+title: "Jas.2.1-13"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 2:1-13)
 
 - 2:1 (<RUBY><ruby><ruby>Ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY>)V <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>懷著</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>προσωπολημψίαις<rt>προσωποληψία</rt></ruby><rt>憑著...外表...對待人</rt></ruby><rt>N-DPF</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἔχετε</mark><rt>ἔχω</rt></ruby><rt>有</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>信仰</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>主</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>我們的</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>耶穌</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>基督</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>δόξα</rt></ruby><rt>榮耀</rt></ruby><rt>N-GSF</rt></RUBY>)C <mark class='punctuation'>.</mark>

@@ -1,3 +1,8 @@
+---
+title: "Mat.5.13-16"
+date: 2026-07-04
+draft: false
+---
 ### Salt and Light (Mat 5:13-16)
 
 - ⋯⋯⋯⋯⋯⋯⋯你們是鹽

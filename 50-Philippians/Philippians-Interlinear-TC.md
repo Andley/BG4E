@@ -1,3 +1,8 @@
+---
+title: "Philippians-Interlinear-TC"
+date: 2026-07-04
+draft: false
+---
 # ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
 
 ## 腓立比書 Interlinear (中文)

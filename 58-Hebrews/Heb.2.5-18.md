@@ -1,3 +1,8 @@
+---
+title: "Heb.2.5-18"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 2:5-18) 
 
 - 2:5a <RUBY><ruby><ruby>Οὐ<rt>οὐ</rt></ruby><rt>沒有</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>事實上</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀγγέλοις<rt>ἄγγελος</rt></ruby><rt>天使</rt></ruby><rt>N-DPM</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ὑπέταξεν</mark><rt>ὑποτάσσω</rt></ruby><rt>交給...管轄</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>οἰκουμένην<rt>οἰκουμένη</rt></ruby><rt>世界</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>μέλλουσαν</mark><rt>μέλλω</rt></ruby><rt>將來</rt></ruby><rt>V-PAP-ASF</rt></RUBY>)C <mark class='punctuation'>,</mark> 

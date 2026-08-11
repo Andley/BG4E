@@ -1,3 +1,8 @@
+---
+title: "Relative Clause"
+date: 2026-07-04
+draft: false
+---
 #### reference
 - Porter Ch.15 §3.1.2 (p.250) Internal referent & §4.4 (p.253) Incorporation
 - ATR pp. 718-21 Incorporation

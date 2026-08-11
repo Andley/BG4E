@@ -1,3 +1,8 @@
+---
+title: "Php.3.12-16"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 3:12-16)
 - 3:12a <RUBY><ruby><ruby>Οὐχ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> 
 	- 3:12b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>ἤδη</rt></ruby><rt>already</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἔλαβον</mark><rt>λαμβάνω</rt></ruby><rt>I have obtained [it]</rt></ruby><rt>V-2AAI-1S</rt></RUBY>)P 

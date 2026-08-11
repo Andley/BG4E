@@ -1,3 +1,8 @@
+---
+title: "Php.3.1"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 3:1)
 - 3:1a (<RUBY><ruby><ruby>Τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν ,<rt>λοιπόν</rt></ruby><rt>Finally</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου ,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> 
 - 3:1b (<RUBY><ruby><ruby><mark class='verb'>χαίρετε !</mark><rt>χαίρω</rt></ruby><rt>rejoice</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ .<rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-DSM</rt></RUBY>)A 

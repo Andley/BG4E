@@ -1,3 +1,8 @@
+---
+title: "2John-Notes"
+date: 2026-07-04
+draft: false
+---
 # ΙΩΑΝΝΟΥ Β
 
 ## 約翰二書希臘文筆記

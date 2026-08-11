@@ -1,3 +1,8 @@
+---
+title: "1Co.12.2-16"
+date: 2026-07-04
+draft: false
+---
 - 12:3a <RUBY><ruby><ruby>διὸ<rt>διό</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>γνωρίζω</mark><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
 	- 12:3b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐδεὶς<rt>οὐδείς</rt></ruby><rt>no one</rt></ruby><rt>A-NSM</rt></RUBY>)S [(<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)a (<RUBY><ruby><ruby><em>λαλῶν</em><rt>λαλέω</rt></ruby><rt>speaking</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p]A (<RUBY><ruby><ruby><mark class='verb'>λέγει·</mark><rt>λέγω</rt></ruby><rt>says</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 		- 12:3c (<RUBY><ruby><ruby>Αναθεμα<rt>ἀνάθεμα</rt></ruby><rt>Accursed [is]</rt></ruby><rt>N-NSN</rt></RUBY>)C (<RUBY><ruby><ruby>ΙΗΣΟΥΣ,<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-NSM-P</rt></RUBY>)S

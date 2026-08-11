@@ -1,3 +1,8 @@
+---
+title: "Sermon-3b"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-3b (太22.1-14)
 
 

@@ -1,3 +1,8 @@
+---
+title: "Php.2.19-24"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 2:19-24)
 - 2:19a (<RUBY><ruby><ruby><mark class='verb'>Ἐλπίζω</mark><rt>ἐλπίζω</rt></ruby><rt>I hope</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> {2:19b}C
 	- 2:19b (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)a (<RUBY><ruby><ruby>Τιμόθεον<rt>Τιμόθεος</rt></ruby><rt>Timothy</rt></ruby><rt>N-ASM-P</rt></RUBY>)c (<RUBY><ruby><ruby>ταχέως<rt>ταχέως</rt></ruby><rt>soon</rt></ruby><rt>ADV</rt></RUBY>)a <RUBY><ruby><ruby><em>πέμψαι</em><rt>πέμπω</rt></ruby><rt>to send</rt></ruby><rt>V-AAN</rt></RUBY> (<RUBY><ruby><ruby>ὑμῖν ,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)c 

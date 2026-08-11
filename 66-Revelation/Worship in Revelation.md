@@ -1,3 +1,8 @@
+---
+title: "Worship in Revelation"
+date: 2026-07-04
+draft: false
+---
 # 啟示錄中的敬拜讚美
 
 ### 四活物 ⇒ 聖父

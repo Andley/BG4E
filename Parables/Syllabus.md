@@ -1,3 +1,8 @@
+---
+title: "Syllabus"
+date: 2026-07-04
+draft: false
+---
 
 week | 內容 | 份量
 ---|--- | ---

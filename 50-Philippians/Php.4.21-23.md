@@ -1,3 +1,8 @@
+---
+title: "Php.4.21-23"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 4:21-23)
 - 4:21a (<RUBY><ruby><ruby><mark class='verb'>Ἀσπάσασθε !</mark><rt>ἀσπάζομαι</rt></ruby><rt>Greet</rt></ruby><rt>V-ADM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>ἅγιον<rt>ἅγιος</rt></ruby><rt>saint</rt></ruby><rt>A-ASM</rt></RUBY> ‹<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ .<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY> › )C
 - 4:21b (<RUBY><ruby><ruby><mark class='verb'>Ἀσπάζονται</mark><rt>ἀσπάζομαι</rt></ruby><rt>Greet</rt></ruby><rt>V-PNI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> ‹<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοὶ<rt>ἐγώ</rt></ruby><rt>me</rt></ruby><rt>P-1DS</rt></RUBY>› <RUBY><ruby><ruby>ἀδελφοί .<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-NPM</rt></RUBY> )S

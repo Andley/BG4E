@@ -1,3 +1,8 @@
+---
+title: "Philippians-Notes"
+date: 2026-07-04
+draft: false
+---
 # 腓立比書希臘文筆記
 
 ## ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ

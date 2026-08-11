@@ -1,3 +1,8 @@
+---
+title: "2Co.2.12-13"
+date: 2026-07-04
+draft: false
+---
 - 2:12a ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 2:12b { (<RUBY><ruby><ruby><mark class='ptc'>Ἐλθὼν</mark><rt>ἔρχομαι</rt></ruby><rt>Having come</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)p ⸉⸊ (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>Τρῳάδα<rt>Τρωάς</rt></ruby><rt>Troas</rt></ruby><rt>N-ASF</rt></RUBY>)a (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM</rt></RUBY>)a }A⮧
 	- 2:12c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>θύρας<rt>θύρα</rt></ruby><rt>a door</rt></ruby><rt>N-GSF</rt></RUBY>)s (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)a (<RUBY><ruby><ruby><mark class='ptc'>ἀνεῳγμένης</mark><rt>ἀνοίγω</rt></ruby><rt>having been opened</rt></ruby><rt>V-RPP-GSF</rt></RUBY>)p (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ <mark class='punctuation'>,</mark><rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-DSM</rt></RUBY>)a }A⮧

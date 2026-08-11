@@ -1,3 +1,8 @@
+---
+title: "1John-Interlinear"
+date: 2026-07-04
+draft: false
+---
 # ΙΩΑΝΝΟΥ Α
 
 ## 約翰一書 Interlinear (英文)

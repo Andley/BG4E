@@ -1,3 +1,8 @@
+---
+title: "Hyperbaton"
+date: 2026-07-04
+draft: false
+---
 參考：ATR, 424-25; AGG, §292c; GoingDeeper, 470-71; Whitacre, 353; Cambridge Grammar of Classical Greek, §60.18-19
 
 - ἦν γὰρ <mark>αὐτῶν</mark> πονηρὰ <mark>τὰ ἔργα</mark>. (Jn. 3:19 GLT)

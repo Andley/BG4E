@@ -1,3 +1,8 @@
+---
+title: "Living Greek Resources"
+date: 2026-07-04
+draft: false
+---
 
 1) Biblical Language Center
 https://www.biblicallanguagecenter.com/preview-revised-greek-lessons/

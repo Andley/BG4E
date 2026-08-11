@@ -1,3 +1,8 @@
+---
+title: "Mat.7.15-20"
+date: 2026-07-04
+draft: false
+---
 ### A Tree Known by Its Fruit (Mat 7:15-20)
 
 - 7:15a (<RUBY><ruby><ruby><span class='verb'>Προσέχετε</span><rt>提防 beware</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04337&m='>προσέχω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> ‹<RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ψευδοπροφητῶν<rt>假先知 false prophets</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05578&m='>ψευδοπροφήτης</a></rt></ruby><rt>N-GPM</rt></RUBY>›°¹ )A , 

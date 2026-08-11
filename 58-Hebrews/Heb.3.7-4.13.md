@@ -1,3 +1,8 @@
+---
+title: "Heb.3.7-4.13"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Heb 3:7-4:13) 
 
 - 3:7a <RUBY><ruby><ruby>Διό<rt>διό</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY> <mark class='punctuation'>,</mark> 

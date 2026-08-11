@@ -1,3 +1,8 @@
+---
+title: "Sermon on the Plain (Luke 6.20b-26)"
+date: 2026-07-04
+draft: false
+---
 # Luke 6:20b-26
 
 

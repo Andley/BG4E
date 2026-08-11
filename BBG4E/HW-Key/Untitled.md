@@ -1,3 +1,8 @@
+---
+title: "Untitled"
+date: 2026-07-04
+draft: false
+---
 
 - 14a <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Λόγος<rt>道 Word</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03056&m='>λόγος</a></rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>σὰρξ<rt>肉身 flesh</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04561&m='>σάρξ</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>ἐγένετο</span><rt>成為 became</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01096&m='>γίνομαι</a></rt></ruby><rt>V-AMI-3S</rt></RUBY> 
 - 14b <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>ἐσκήνωσεν</span><rt>居住 dwelt</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04637&m='>σκηνόω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在中 among</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>我們 us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1DP</rt></RUBY> <span class='punctuation'>,</span> 

@@ -1,3 +1,8 @@
+---
+title: "123John-Vocabulary"
+date: 2026-07-04
+draft: false
+---
 # 約翰書信 (123John) 詞彙分析
 
 ## 詞彙頻率 (≧ 5x)

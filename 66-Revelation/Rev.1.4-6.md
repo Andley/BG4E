@@ -1,3 +1,8 @@
+---
+title: "Rev.1.4-6"
+date: 2026-07-04
+draft: false
+---
 
 - 1:4a (<RUBY><ruby><ruby>Ἰωάννης<rt>John</rt></ruby><rt>Ἰωάννης</rt></ruby><rt>N-NSM-P</rt></RUBY>)S (<RUBY><ruby><ruby>Ταῖς<rt>To the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ἑπτὰ<rt>seven</rt></ruby><rt>ἑπτά</rt></ruby><rt>A-DPF-NUI</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίαις<rt>churches</rt></ruby><rt>ἐκκλησία</rt></ruby><rt>N-DPF</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>Ἀσίᾳ·<rt>Asia</rt></ruby><rt>Ἀσία</rt></ruby><rt>N-DSF-L</rt></RUBY>)C 
 - 1:4b (<RUBY><ruby><ruby>Χάρις<rt>Grace</rt></ruby><rt>χάρις</rt></ruby><rt>N-NSF</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὑμῖν<rt>to you</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)C ⦈(<RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>peace</rt></ruby><rt>εἰρήνη</rt></ruby><rt>N-NSF</rt></RUBY>)S 

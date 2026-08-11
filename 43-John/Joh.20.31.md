@@ -1,3 +1,8 @@
+---
+title: "Joh.20.31"
+date: 2026-07-04
+draft: false
+---
 
 - Joh 20:31a (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these</rt></ruby><rt>D-NPN</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>γέγραπται</mark><rt>γράφω</rt></ruby><rt>have been written</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P
 	- Joh 20:31b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>πιστεύητε</mark><rt>πιστεύω</rt></ruby><rt>you may believe</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P

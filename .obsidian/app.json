@@ -1,19 +1,22 @@
 {
   "livePreview": false,
-  "promptDelete": false,
-  "readableLineLength": false,
   "showInlineTitle": false,
-  "autoConvertHtml": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "tabSize": 4,
+  "promptDelete": false,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 75
-  },
-  "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": false,
-  "newFileLocation": "current",
-  "vimMode": false
+    "downscalePercent": 100
+  }
 }

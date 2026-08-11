@@ -1,3 +1,8 @@
+---
+title: "Php.1.3-11"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 1:3-11)
 - 1:3a <RUBY><ruby><ruby><mark><mark class='verb'>Εὐχαριστῶ°¹</mark></mark><rt>εὐχαριστέω</rt></ruby><rt>I thank</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>)C 
 	- 1:3b (<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>μνεία</rt></ruby><rt>remembrance</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)A°¹⮥

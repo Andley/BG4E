@@ -1,3 +1,8 @@
+---
+title: "Jas.1.2-8"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 1:2-8)
 
 - 1:2a (<RUBY><ruby><ruby>Πᾶσαν<rt>πᾶς</rt></ruby><rt>大</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>χαρὰν<rt>χαρά</rt></ruby><rt>喜樂</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἡγήσασθε</mark><rt>ἡγέομαι</rt></ruby><rt>認為</rt></ruby><rt>V-AMM-2P</rt></RUBY>)<mark>P°¹</mark> (<mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY>)V <mark class='punctuation'>,</mark> 

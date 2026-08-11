@@ -1,3 +1,8 @@
+---
+title: "Phi.2.5-11"
+date: 2026-07-04
+draft: false
+---
 - 2:5 <span title="D-ASN&#10;這&#10;οὗτος">Τοῦτο</span> <span title="V-PAM-2P&#10;想&#10;φρονέω"><mark class='verb'>φρονεῖτε</mark></span> <span title="PREP&#10;在...中間&#10;ἐν">ἐν</span> <span title="P-2DP&#10;給你們&#10;σύ">ὑμῖν</span> <span title="R-NSN&#10;-&#10;ὅς">ὃ</span> <span title="CONJ&#10;-&#10;καί">καὶ</span> <span title="PREP&#10;在...中間&#10;ἐν">ἐν</span> <span title="N-DSM&#10;基督&#10;Χριστός">Χριστῷ</span> <span title="N-DSM&#10;耶穌&#10;Ἰησοῦς">Ἰησοῦ</span> <mark class='punctuation'>,</mark> 你們當以基督耶穌的心為心
 	- 2:6a <span title="R-NSM&#10;他&#10;ὅς">Ὃς</span> 他
 		- 2:6b <span title="PREP&#10;在...上&#10;ἐν">ἐν</span> <span title="N-DSF&#10;本質&#10;μορφή">μορφῇ</span> <span title="N-GSM&#10;神&#10;θεός">Θεοῦ</span> <span title="V-PAP-NSM&#10;有&#10;ὑπάρχω"><mark class='ptc'>ὑπάρχων</mark></span> 本有神的形像

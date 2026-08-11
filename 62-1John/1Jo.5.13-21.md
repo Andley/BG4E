@@ -1,3 +1,8 @@
+---
+title: "1Jo.5.13-21"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (1Jo 5:13-15)
 
 - 5:13a (<RUBY><ruby><ruby>Ταῦτα<rt>οὗτος</rt></ruby><rt>These things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>ἔγραψα</mark><rt>γράφω</rt></ruby><rt>have I written</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 (5:13d)=C2

@@ -1,3 +1,8 @@
+---
+title: "BBG4E"
+date: 2026-07-04
+draft: false
+---
 # 全民希臘文：初階<br> Basics of *Biblical Greek for Everyone* (BG4E) 
 
 ## 課程內容

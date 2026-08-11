@@ -1,13 +1,15 @@
 {
   "enabledCssSnippets": [
-    "bg4e"
+    "bg4e",
+    "bg4e2"
   ],
   "baseFontSizeAction": false,
-  "theme": "obsidian",
-  "showViewHeader": true,
   "baseFontSize": 16,
-  "textFontFamily": "",
+  "interfaceFontFamily": "Noto Sans TC",
+  "textFontFamily": "Noto Sans TC",
+  "monospaceFontFamily": "Cascadia Mono",
+  "theme": "obsidian",
+  "accentColor": "",
   "showRibbon": false,
-  "monospaceFontFamily": "Noto Sans Mono",
   "cssTheme": ""
 }

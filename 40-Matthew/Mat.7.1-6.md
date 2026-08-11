@@ -1,3 +1,8 @@
+---
+title: "Mat.7.1-6"
+date: 2026-07-04
+draft: false
+---
 ### Judging Others (Mat 7:1-6)
 
 - 7:1a <RUBY><ruby><ruby>Μὴ<rt>不要 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>κρίνετε</span><rt>評斷 judge</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02919&m='>κρίνω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P , 

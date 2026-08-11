@@ -1,3 +1,8 @@
+---
+title: "1Pe.1.13-25"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (1Pe 1:13-16)
 
 - 1:13a <RUBY><ruby><ruby>Διὸ<rt>διό</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY>°¹⮧ 

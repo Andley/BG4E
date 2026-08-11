@@ -1,3 +1,8 @@
+---
+title: "Hebraic Influence"
+date: 2026-07-04
+draft: false
+---
 14 Aramaic Constructions New Testament Greek often shows the influence of Hebrew and Aramaic, resulting in constructions that, while evidenced in the Septuagint and other Jewish Greek writings, are not found in Classical or Hellenistic Greek. 
 
 Besides the Genitive of Definition and Genitive of Apposition already mentioned above, it might be argued that some of the ἵνα constructions (as subject, object, or in apposition) fall under this category. 

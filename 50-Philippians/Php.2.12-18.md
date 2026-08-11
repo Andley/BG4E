@@ -1,3 +1,8 @@
+---
+title: "Php.2.12-18"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 2:12-18)
 - 2:12a <RUBY><ruby><ruby>Ὥστε ,<rt>ὥστε</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>beloved</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μου ,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> 
 - ·······

@@ -1,3 +1,8 @@
+---
+title: "Romans-Interlinear"
+date: 2026-07-04
+draft: false
+---
 # Πρὸς Ῥωμαίους (Rom 羅馬書)
 
 ## Salutation (Rom 1:1-7)

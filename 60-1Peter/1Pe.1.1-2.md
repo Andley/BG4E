@@ -1,3 +1,8 @@
+---
+title: "1Pe.1.1-2"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (1Pe 1:1-2)
 
 - 1:1a (<RUBY><ruby><ruby>Πέτρος<rt>Πέτρος</rt></ruby><rt>彼得</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπόστολος<rt>ἀπόστολος</rt></ruby><rt>使徒</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>耶稣</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>基督</rt></ruby><rt>N-GSM</rt></RUBY>)=S (<RUBY><ruby><ruby>ἐκλεκτοῖς<rt>ἐκλεκτός</rt></ruby><rt>被拣选</rt></ruby><rt>A-DPM</rt></RUBY>)<mark>C°¹</mark> 

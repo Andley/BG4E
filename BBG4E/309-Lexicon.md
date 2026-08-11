@@ -1,3 +1,8 @@
+---
+title: "309-Lexicon"
+date: 2026-07-04
+draft: false
+---
 ## 309 個新約常用詞彙 (出現 ≧ 50x) 小辭典
 - **ὁ** (19861) —— ὁ , ἡ , τό pl. οἱ , αἱ , τά the; this, that; he, she, it; τοῦ with inf. in order that, so that, with the result that, that
 - **καί** (9019) —— καί conj. and, also, but, even; that is, namely; καὶ ... καί both ... and, not only ... but also; frequently used merely to mark the beginning of a sentence

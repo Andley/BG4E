@@ -1,3 +1,8 @@
+---
+title: "Jas.5.7-20"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 5:7-20)
 
 - 5:7a (<RUBY><ruby><ruby><mark class='verb'>Μακροθυμήσατε</mark><rt>μακροθυμέω</rt></ruby><rt>忍耐</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY> (<mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἕως<rt>ἕως</rt></ruby><rt>直到</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>παρουσίας<rt>παρουσία</rt></ruby><rt>來</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>主</rt></ruby><rt>N-GSM</rt></RUBY>)A <mark class='punctuation'>.</mark> 

@@ -1,3 +1,8 @@
+---
+title: "1Jo.3.11-18"
+date: 2026-07-04
+draft: false
+---
 ### 圖析 (1Jo 3:11-18)
 
 - 3:11a <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>For</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐστὶν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<mark><RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>ἀγγελία</rt></ruby><rt>message</rt></ruby><rt>N-NSF</rt></RUBY>°¹</mark>)C

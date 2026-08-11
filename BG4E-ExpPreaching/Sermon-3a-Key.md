@@ -1,3 +1,8 @@
+---
+title: "Sermon-3a-Key"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-3a (太13:10-23) 參考解答
 
 

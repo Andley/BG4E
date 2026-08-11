@@ -1,3 +1,8 @@
+---
+title: "definition"
+date: 2026-07-04
+draft: false
+---
 Wallace (GGBB, 606)
 >"The difference is that the epexegetical infinitive explains the noun or adjective to which it is related, while apposition defines it. That is to say, apposition differs from epexegesis in that an appositional infinitive is more substantival than adjectival. This subtle difference can be seen in another way: An epexegetical infinitive (phrase) cannot typically substitute for its antecedent, while an appositional infinitive (phrase) can."
 

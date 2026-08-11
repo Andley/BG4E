@@ -1,78 +1,21 @@
 {
-  "workspace:close": [
+  "theme:toggle-light-dark": [
     {
       "modifiers": [
         "Alt"
-      ],
-      "key": "C"
-    }
-  ],
-  "workspace:edit-file-title": [],
-  "editor:follow-link": [],
-  "graph:open": [],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "editor:open-link-in-new-leaf": [],
-  "app:open-settings": [],
-  "switcher:open": [],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "V"
-    }
-  ],
-  "workspace:split-horizontal": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "H"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
       ],
       "key": "D"
     }
   ],
-  "editor:swap-line-up": [
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "U"
+      "key": "G"
     }
   ],
-  "editor:toggle-checklist-status": [],
-  "editor:toggle-comments": [],
-  "workspace:undo-close-pane": [],
-  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
-  "editor:delete-paragraph": [],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
+  "graph:open": [],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -89,143 +32,15 @@
       "key": "R"
     }
   ],
-  "obsidian-hider:toggle-app-ribbon": [
+  "workspace:split-vertical": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "A"
+      "key": "V"
     }
   ],
-  "snippet-commands-obsidian:snippet-command-margin-narrow": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
-  "snippet-commands-obsidian:snippet-command-margin-wide": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
-  "snippet-commands-obsidian:snippet-command-margin-normal": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "file-explorer:new-file-in-new-pane": [],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
-  "obsidian-footnotes:insert-footnote": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "6"
-    }
-  ],
-  "cm-show-whitespace-obsidian:toggle-show-whitespace": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "W"
-    }
-  ],
-  "obsidian-hider:toggle-tab-containers": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
-  "obsidian-footnotes:insert-autonumbered-footnote": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "F"
-    }
-  ],
-  "control-characters:toggle": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
-  "app:toggle-ribbon": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
-  "obsidian-git:commit-push-specified-message": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
-  "window:reset-zoom": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "0"
-    }
-  ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "text-finder:text-finder-show-find-and-replace": [
+  "find-n-replace:clear-all": [
     {
       "modifiers": [
         "Mod"
@@ -233,62 +48,8 @@
       "key": "H"
     }
   ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "editor:insert-link": [],
-  "workspace:new-tab": [],
-  "editor:open-link-in-new-window": [],
-  "editor:open-link-in-new-split": [],
-  "global-search:open": [],
-  "editor:insert-footnote": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "F"
-    }
-  ],
-  "obsidian-tidy-footnotes:tidy-footnotes": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "theme:toggle-light-dark": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
-  "obsidian-regex-replace:obsidian-regex-replace": [
+  "editor:open-search-replace": [],
+  "search-and-replace-regex:open-regex-replace": [
     {
       "modifiers": [
         "Mod"
@@ -304,13 +65,46 @@
       "key": "P"
     }
   ],
-  "workspace:export-pdf": [
+  "command-palette:open": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "text-finder:text-finder-show-find-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
     }
   ]
 }

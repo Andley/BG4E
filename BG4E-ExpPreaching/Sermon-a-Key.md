@@ -1,3 +1,8 @@
+---
+title: "Sermon-a-Key"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-5 (弗1:3-14) 參考解答
 
 #### 句法圖析

@@ -1,3 +1,8 @@
+---
+title: "Php.1.12-14"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (Php 1:12-14)
 - 1:12a { <RUBY><ruby><ruby><mark class='ptc'>Γινώσκειν</mark><rt>γινώσκω</rt></ruby><rt>To know</rt></ruby><rt>V-PAN</rt></RUBY> }⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> ⦈{ (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)s }C (<RUBY><ruby><ruby><mark class='verb'>βούλομαι ,</mark><rt>βούλομαι</rt></ruby><rt>I want</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί ,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 
 	- 1:12b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the things</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>κατ᾽<rt>κατά</rt></ruby><rt>concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμὲ<rt>ἐγώ</rt></ruby><rt>me</rt></ruby><rt>P-1AS</rt></RUBY>)S (<RUBY><ruby><ruby>μᾶλλον<rt>μᾶλλον</rt></ruby><rt>really</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>προκοπὴν<rt>προκοπή</rt></ruby><rt>[the] advancement</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελίου<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-GSN</rt></RUBY>› )A (<RUBY><ruby><ruby><mark class='verb'>ἐλήλυθεν ,</mark><rt>ἔρχομαι</rt></ruby><rt>have turned out</rt></ruby><rt>V-2RAI-3S</rt></RUBY>)P 

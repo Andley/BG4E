@@ -1,3 +1,8 @@
+---
+title: "SM-2.5lines"
+date: 2026-07-04
+draft: false
+---
 # 登山寶訓 (2.5行 Interlinear)
 
 Interlinear 經文 (包括大小寫、標點符號) 出自 [Macula Greek SBLGNT](https://github.com/Clear-Bible/macula-greek)；經文分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/MAT.5/)。

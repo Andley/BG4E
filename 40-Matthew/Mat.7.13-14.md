@@ -1,3 +1,8 @@
+---
+title: "Mat.7.13-14"
+date: 2026-07-04
+draft: false
+---
 ### The Narrow Gate (Mat 7:13-14)
 
 - 7:13a (<RUBY><ruby><ruby><span class='verb'>Εἰσέλθατε</span><rt>進去 enter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01525&m='>εἰσέρχομαι</a></rt></ruby><rt>V-2AAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>從 through</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>στενῆς<rt>窄 narrow</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04728&m='>στενός</a></rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>πύλης<rt>門 gate</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04439&m='>πύλη</a></rt></ruby><rt>N-GSF</rt></RUBY>)A · 

@@ -1,3 +1,8 @@
+---
+title: "1Co.15.1-11"
+date: 2026-07-04
+draft: false
+---
 - 15:1a (<RUBY><ruby><ruby><mark class='verb'>Γνωρίζω</mark><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>)C 
 	- 15:1b (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>εὐηγγελισάμην</mark><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 	- 15:1c (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>παρελάβετε,</mark><rt>παραλαμβάνω</rt></ruby><rt>you received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 

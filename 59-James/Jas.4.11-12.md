@@ -1,3 +1,8 @@
+---
+title: "Jas.4.11-12"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 4:11-12)
 
 - 4:11a <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>καταλαλεῖτε</mark><rt>καταλαλέω</rt></ruby><rt>毀謗</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλων<rt>ἀλλήλων</rt></ruby><rt>彼此</rt></ruby><rt>C-GPM</rt></RUBY>)C <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY>)V <mark class='punctuation'>.</mark> 

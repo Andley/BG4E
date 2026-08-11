@@ -1,3 +1,8 @@
+---
+title: "Greek Pedagogy"
+date: 2026-07-04
+draft: false
+---
 #### Natural Language (Immersion) Approach 
 - 缺點：
 	- 除非離世索居，否則很難 immersion

@@ -1,3 +1,8 @@
+---
+title: "Eph.1.3-14"
+date: 2026-07-04
+draft: false
+---
 
 
 - 3 <span title="A-NSM&#10;頌讚&#10;εὐλογητός">Εὐλογητὸς</span> <span title="T-NSM&#10;-&#10;ὀ">ὁ</span> <span title="N-NSM&#10;神&#10;θεός">Θεὸς</span> <span title="CONJ&#10;-&#10;καί">καὶ</span> <span title="N-NSM&#10;父&#10;πατήρ">Πατὴρ</span> <span title="T-GSM&#10;-&#10;ὀ">τοῦ</span> <span title="N-GSM&#10;主&#10;κύριος">Κυρίου</span> <span title="P-1GP&#10;我們的&#10;ἐγώ">ἡμῶν</span> <span title="N-GSM&#10;耶穌&#10;Ἰησοῦς">Ἰησοῦ</span> <span title="N-GSM&#10;基督&#10;Χριστός">Χριστοῦ</span> 頌讚(歸與)我們主耶穌基督的父神

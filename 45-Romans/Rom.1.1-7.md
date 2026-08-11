@@ -1,3 +1,8 @@
+---
+title: "Rom.1.1-7"
+date: 2026-07-04
+draft: false
+---
 
 - 1:1 <RUBY><ruby><ruby>Παῦλος<rt>保羅</rt></ruby><rt>Παῦλος</rt></ruby><rt>N-NSM</rt></RUBY> 
 	- <RUBY><ruby><ruby>δοῦλος<rt>僕人</rt></ruby><rt>δοῦλος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督</rt></ruby><rt>Χριστός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-GSM</rt></RUBY> 

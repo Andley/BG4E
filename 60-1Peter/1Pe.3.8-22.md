@@ -1,3 +1,8 @@
+---
+title: "1Pe.3.8-22"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (1Pe 3:8-12)
 
 - 3:8 (<RUBY><ruby><ruby>Τὸ<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-<s>NSN</s>⁞ASN</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt></rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>τέλος<rt>τέλος</rt></ruby><rt>总而言之</rt></ruby><rt>N-<s>NSN</s>⁞ASN</rt></RUBY>)A (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>都</rt></ruby><rt>A-NPM</rt></RUBY>)S ...???... (<RUBY><ruby><ruby>ὁμόφρονες<rt>ὁμόφρων</rt></ruby><rt>同心</rt></ruby><rt>A-NPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>συμπαθεῖς<rt>συμπαθής</rt></ruby><rt>互相同情</rt></ruby><rt>A-NPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>φιλάδελφοι<rt>φιλάδελφος</rt></ruby><rt>相爱如弟兄</rt></ruby><rt>A-NPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>εὔσπλαγχνοι<rt>εὔσπλαγχνος</rt></ruby><rt>仁慈</rt></ruby><rt>A-NPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby> <ruby>ταπεινόφρονες<rt>ταπεινόφρων</rt></ruby><rt>谦卑</rt></ruby><rt>A-NPM</rt></RUBY>)C <mark class='punctuation'>,</mark> 

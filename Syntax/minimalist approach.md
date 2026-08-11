@@ -1,3 +1,8 @@
+---
+title: "minimalist approach"
+date: 2026-07-04
+draft: false
+---
 聖經希臘文 (Koine Greek) 不是「聖靈的語言」，而是人類的語言，因為耶穌說的也是當時百姓日常所用的語言。換句話說，耶穌講的，也是人話——只不過耶穌用地上的語言，傳遞出了天上的信息。
 
 很多人錯解聖經的原因，都是因為誤解了語言是如何發揮功用的 (how does language works)。

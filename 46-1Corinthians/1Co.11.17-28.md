@@ -1,3 +1,8 @@
+---
+title: "1Co.11.17-28"
+date: 2026-07-04
+draft: false
+---
 #### 圖析 (11:17-22)
 
 - 11:17a ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊

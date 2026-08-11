@@ -1,3 +1,8 @@
+---
+title: "Jas.3.1-12"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 3:1-12)
 
 - 3:1a <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>πολλοὶ<rt>πολύς</rt></ruby><rt>許多</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>διδάσκαλοι<rt>διδάσκαλος</rt></ruby><rt>教師</rt></ruby><rt>N-NPM</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>γίνεσθε</mark><rt>γίνομαι</rt></ruby><rt>做</rt></ruby><rt>V-PMM-2P</rt></RUBY>)<mark>P°¹</mark> <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY>)V <mark class='punctuation'>,</mark> 

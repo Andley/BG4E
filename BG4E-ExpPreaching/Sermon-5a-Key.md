@@ -1,3 +1,8 @@
+---
+title: "Sermon-5a-Key"
+date: 2026-07-04
+draft: false
+---
 ## Semon-5a (可16:9-20) 參考解答
 
 ### 句法圖析 (Syntax Diagram)

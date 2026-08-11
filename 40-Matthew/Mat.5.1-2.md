@@ -1,3 +1,8 @@
+---
+title: "Mat.5.1-2"
+date: 2026-07-04
+draft: false
+---
 ### The Sermon on the Mount (Mat 5:1-2)
 
 - 5:1a { (<RUBY><ruby><ruby><span class='ptc'>Ἰδὼν</span><rt>看見 saw</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03708&m='>ὁράω</a></rt></ruby><rt>V-2AAP-NSM</rt></RUBY>)p }⦇ <RUBY><ruby><ruby>δὲ<rt>就 now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈{ (<RUBY><ruby><ruby>τοὺς<rt>這 the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>ὄχλους<rt>許多人 crowds</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03793&m='>ὄχλος</a></rt></ruby><rt>N-APM</rt></RUBY>)c}A[^1] {<RUBY><ruby><ruby><span class='verb'>ἀνέβη</span><rt>走 went up</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00305&m='>ἀναβαίνω</a></rt></ruby><rt>V-2AAI-3S</rt></RUBY>}P {<RUBY><ruby><ruby>εἰς<rt>到 on</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄρος<rt>山 mountain</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03735&m='>ὄρος</a></rt></ruby><rt>N-ASN</rt></RUBY>}A · 

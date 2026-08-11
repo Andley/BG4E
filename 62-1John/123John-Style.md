@@ -1,3 +1,8 @@
+---
+title: "123John-Style"
+date: 2026-07-04
+draft: false
+---
 # 約翰書信 (123John) 風格特色
 
 ### (1) 重複

@@ -1,3 +1,8 @@
+---
+title: "James-Notes"
+date: 2026-07-04
+draft: false
+---
 
 # Ἰακὠβου 雅各書希臘文筆記
 

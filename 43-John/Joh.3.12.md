@@ -1,3 +1,8 @@
+---
+title: "Joh.3.12"
+date: 2026-07-04
+draft: false
+---
 - ⋯⋯⋯⋯⋯⋯⋯
 	- 3:12a <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>things</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἐπίγεια<rt>ἐπίγειος</rt></ruby><rt>earthly</rt></ruby><rt>A-APN</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>εἶπον</mark><rt>εἶπον</rt></ruby><rt>I have told</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2DP</rt></RUBY>)C 
 	- 3:12b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>πιστεύετε <mark class='punctuation'>,</mark></mark><rt>πιστεύω</rt></ruby><rt>you believe</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P

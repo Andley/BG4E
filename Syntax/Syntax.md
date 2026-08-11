@@ -1,3 +1,8 @@
+---
+title: "Syntax"
+date: 2026-07-04
+draft: false
+---
 # 全民希臘文句法 (BG4E-Syntax) 
 
 

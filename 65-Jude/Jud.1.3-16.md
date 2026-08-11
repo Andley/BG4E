@@ -1,3 +1,8 @@
+---
+title: "Jud.1.3-16"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jude 1:3-16)
 
 - 1:3a (<RUBY><ruby><ruby>Ἀγαπητοί<rt>親愛的</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> 

@@ -1,3 +1,8 @@
+---
+title: "Mat.5.17-20"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about the Law (Mat 5:17-20)
 
 - 5:17a <RUBY><ruby><ruby>Μὴ<rt>不要 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY>[^1] (<RUBY><ruby><ruby><span class='verb'>νομίσητε</span><rt>以為 think</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03543&m='>νομίζω</a></rt></ruby><rt>V-AAS-2P</rt></RUBY>)P 

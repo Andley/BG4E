@@ -1,3 +1,8 @@
+---
+title: "1John-Notes"
+date: 2026-07-04
+draft: false
+---
 # ΙΩΑΝΝΟΥ Α
 
 ## 約翰一書希臘文筆記

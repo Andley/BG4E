@@ -1,3 +1,8 @@
+---
+title: "Sermon-1-Key"
+date: 2026-07-04
+draft: false
+---
 ## Sermon-1 (林前15:1-11) 參考解答
 
 ### 句法圖析 (Syntax Diagram)

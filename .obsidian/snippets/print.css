@@ -1,0 +1,50 @@
+@media print {
+  /* 1. 強制為整頁文件右側留出 30% 的邊欄空間 */
+  .markdown-rendered {
+    padding-right: 32% !important;
+    position: relative !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 2. 修正內文容器寬度，確保不會溢出 */
+  .markdown-preview-sizer {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* 3. 強制將位於底部的註腳區塊抽離，絕對定位到右側留白處 */
+  .footnotes {
+    position: absolute !important;
+    top: 0 !important;          /* 讓它從第一頁的最頂部開始排 */
+    right: 0 !important;        /* 緊貼最右側 */
+    width: 28% !important;       /* 寬度剛好放入右側留白 */
+    
+    /* 移除原本底部的水平線與間距 */
+    border-top: none !important; 
+    margin: 0 !important;
+    padding: 0 !important;
+    
+    /* 縮小字體與調整行高，符合你上傳的圖檔視覺 */
+    font-size: 0.8rem !important;
+    line-height: 1.5 !important;
+  }
+
+  /* 4. 清除註腳列表的預設縮排 */
+  .footnotes ol {
+    padding-left: 0 !important;
+    margin: 0 !important;
+    list-style-type: none !important; /* 隱藏 1. 2. 3. 預設編號 */
+  }
+
+  /* 5. 優化每個註腳的排列與換頁 */
+  .footnotes li {
+    margin-bottom: 0.8cm !important;    /* 每個註腳項目之間的距離 */
+    page-break-inside: avoid !important; /* 防止換頁時註腳文字被切斷 */
+    display: block !important;
+  }
+
+  /* 6. 隱藏返回本文的箭頭 (↩) */
+  .footnote-backref {
+    display: none !important;
+  }
+}

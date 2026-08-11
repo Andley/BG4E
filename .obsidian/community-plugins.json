@@ -1,10 +1,11 @@
 [
   "obsidian-git",
-  "show-whitespace-cm6",
-  "obsidian-tidy-footnotes",
-  "automatic-table-of-contents",
   "better-export-pdf",
+  "automatic-table-of-contents",
   "number-headings-obsidian",
   "text-finder",
-  "better-footnote"
+  "show-whitespace-cm6",
+  "obsidian-tidy-footnotes",
+  "obsidian-footnotes",
+  "obsidian-enhancing-export"
 ]

@@ -1,3 +1,8 @@
+---
+title: "Mat.19.5-6"
+date: 2026-07-04
+draft: false
+---
 
 
 

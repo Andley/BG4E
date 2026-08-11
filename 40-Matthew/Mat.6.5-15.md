@@ -1,3 +1,8 @@
+---
+title: "Mat.6.5-15"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about Prayer (Mat 6:5-15)
 
 

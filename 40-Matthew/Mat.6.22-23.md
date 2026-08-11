@@ -1,3 +1,8 @@
+---
+title: "Mat.6.22-23"
+date: 2026-07-04
+draft: false
+---
 ### The Light of the Body (Mat 6:22-23)
 
 - 6:22a (<RUBY><ruby><ruby>Ὁ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λύχνος<rt>燈 lamp</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03088&m='>λύχνος</a></rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σώματός<rt>身體 body</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04983&m='>σῶμα</a></rt></ruby><rt>N-GSN</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>ἐστιν</span><rt>是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02076&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>ὀφθαλμός<rt>眼睛 eye</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03788&m='>ὀφθαλμός</a></rt></ruby><rt>N-NSM</rt></RUBY>)C . 

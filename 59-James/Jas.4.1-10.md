@@ -1,3 +1,8 @@
+---
+title: "Jas.4.1-10"
+date: 2026-07-04
+draft: false
+---
 ## 圖析 (Jas 4:1-10)
 
 - 4:1a (<RUBY><ruby><ruby>Πόθεν<rt>πόθεν</rt></ruby><rt>從哪裡</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>πόλεμοι<rt>πόλεμος</rt></ruby><rt>衝突</rt></ruby><rt>N-NPM</rt></RUBY>)C

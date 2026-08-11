@@ -1,3 +1,8 @@
+---
+title: "Untitled 2"
+date: 2026-07-04
+draft: false
+---
 # **語篇語言學的宏觀結構分析**<br>（Macrostructure Analysis in Discourse Linguistics）
 
 

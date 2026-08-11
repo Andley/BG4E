@@ -1,3 +1,8 @@
+---
+title: "HW06-Key"
+date: 2026-07-04
+draft: false
+---
 # HW06 (啟 21.1-5) 句法圖析
 
 - 21:1a <RUBY><ruby><ruby>Καὶ<rt>又 And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>εἶδον</span><rt>我看見 I saw</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03708&m='>ὁράω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>οὐρανὸν<rt>一個新天新地 a heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καινὸν<rt>- new</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02537&m='>καινός</a></rt></ruby><rt>A-ASM</rt></RUBY>)C <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>γῆν<rt>- an earth</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01093&m='>γῆ</a></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καινήν<rt>- new</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02537&m='>καινός</a></rt></ruby><rt>A-ASF</rt></RUBY>)C <span class='punctuation'>.</span> 

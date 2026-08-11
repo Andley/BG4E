@@ -1,3 +1,8 @@
+---
+title: "Digital-Tools"
+date: 2026-07-04
+draft: false
+---
 
 ## 免費原文聖經閱讀工具 (更新：2026-01-06)
 
@@ -15,7 +20,7 @@
 👍 | GNT Reader | ❌ | ❌ | [✔️](https://play.google.com/store/apps/details?id=com.mattrobertson.greek.reader) | ❌ | 介面清爽，練習丟拐杖、純讀經的好工具！ | 
  | ‎Greek New Testament Study App App | [✔️](https://sites.google.com/claypotfrog.com/greekstudyapp/home) | ❌ | [✔️](https://play.google.com/store/apps/details?id=com.claypotfrog.gntsp&pli=1) | [✔️](https://apps.apple.com/us/app/greek-new-testament-study-app/id6451278791) | 認字形、背單字功能強大，適合傳統學習法使用 | 
 👍 | Hebrew/Greek Interlinear Bible | ❌ | ❌ | [✔️](https://play.google.com/store/apps/details?id=com.hagiostech.greekinterlinearbible) | ❌ | 介面簡潔，有<mark>逐行對照</mark>，可離線使用 | 
- | Marble | ❌ | [✔️]([Marble](https://marble.bible/)) | ❌ | ❌ | UBS 出品，有 UBS5 以及語義辭典(更新版 Louw-Nida) | 🆓 |
+ | Marble | ❌ | [✔️]([Marble](https://marble.bible/)| ❌ | ❌ | UBS 出品，有 UBS5 以及語義辭典(更新版 Louw-Nida) | 🆓 |
 👍 | MySword | ❌ | ❌ | [✔️](https://www.mysword.info/download-mysword)| ❌ |功能強大，資源眾多 (與 theWord 資料互通)，有<mark>逐行對照</mark>，我自己每天使用 |
  | OpenGNT<br>[Marvel Bible](https://marvel.bible/)<br>[Bible Bento](https://BibleBento.com)<br>[Unique Bible](https://www.uniquebible.app/home) | ❌ | [✔️](https://opengnt.com/index.html?OGNTint&40.1.1) | ❌ | ❌ | 集 OpenText、Levinsohn's Discourse Features、Berean Bible、STEP Bible等資料於一身的巨作！ | 
  | Parabible | ❌ | [✔️1](https://parabible.com/Matthew/1) | ❌ | ❌ | 有 LXX；BHS 有片語搜尋功能，GNT 開發中 | 
@@ -86,7 +91,7 @@ Logos
 	- 可以畫圖析 (word-level、phrase-level、proposition-level diagram)。圖析功能勝過付費軟體，而且可以把圖析和解經心得發佈到網路上
 	- 能夠作詞形搜尋 (morphological search)，以及簡單的句法搜尋 (syntax search)
 	- 需要申請帳號
-- 聯合聖經公會的 [🆓Marble](https://semanticdictionary.org/semdic.php?databaseType=SDGNT&language=zht)
+- 聯合聖經公會的 [Marble](https://semanticdictionary.org/semdic.php?databaseType=SDGNT&language=zht)
 	- 有按照語意域 (semantic domain) 編寫的舊約、新約 (Louw-Nida 修訂版) 辭典
 - [🆓ETCBC] (Hebrew text BHSA, linguitic annotations, morphology, etc.)
 	- OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)

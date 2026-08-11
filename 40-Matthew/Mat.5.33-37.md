@@ -1,3 +1,8 @@
+---
+title: "Mat.5.33-37"
+date: 2026-07-04
+draft: false
+---
 ### Teaching about Oaths (Mat 5:33-37)
 
 - 5:33a (<RUBY><ruby><ruby>Πάλιν<rt>又 again</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03825&m='>πάλιν</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἠκούσατε</span><rt>聽 heard</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAI-2P</rt></RUBY>) 

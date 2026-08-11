@@ -2,38 +2,14 @@
   "items": [
     {
       "type": "file",
-      "path": "Syntax/Syntax.md",
-      "ctime": 1683079389499
+      "ctime": 1784676358919,
+      "path": "content/Tools/Phrasing-Signs.md"
     },
     {
       "type": "file",
-      "path": "Tools/Phrasing-Signs.md",
-      "ctime": 1683079389499
-    },
-    {
-      "type": "file",
-      "path": "README.md",
-      "ctime": 1683079389499
-    },
-    {
-      "type": "file",
-      "path": "Semantics/Idioms.md",
-      "ctime": 1683079389499
-    },
-    {
-      "type": "file",
-      "path": "Syntax/§311a.md",
-      "ctime": 1683079389499
-    },
-    {
-      "type": "file",
-      "ctime": 1758322688920,
-      "path": "40-Matthew/SM-Notes.md"
-    },
-    {
-      "type": "file",
-      "ctime": 1758330584086,
-      "path": "GDNTG/GDNTG-TOC.md"
+      "ctime": 1784676382346,
+      "path": "content/48-Galatians/Galatians-Notes.md",
+      "title": "Gal"
     }
   ]
 }

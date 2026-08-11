@@ -1,3 +1,8 @@
+---
+title: "Mat.5.43-48"
+date: 2026-07-04
+draft: false
+---
 ### Love for Enemies (Mat 5:43-48)
 
 - 5:43a (<RUBY><ruby><ruby><span class='verb'>Ἠκούσατε</span><rt>聽 heard</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 

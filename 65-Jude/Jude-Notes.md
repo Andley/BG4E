@@ -1,3 +1,8 @@
+---
+title: "Jude-Notes"
+date: 2026-07-04
+draft: false
+---
 # ΙΟΥΔΑ 猶大書希臘文筆記
 
 #### 經文閱讀

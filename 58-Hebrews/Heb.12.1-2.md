@@ -1,3 +1,8 @@
+---
+title: "Heb.12.1-2"
+date: 2026-07-04
+draft: false
+---
 ### 2026 年度命名：Let Us Also Run! 讓我們也奔跑吧！
 ### 2026 年度經文：來12:1-2
 - 來12:1 <span class="w"><span class="t">Τοιγαροῦν</span><span class="g">所以 therefore</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05105&m='>τοιγαροῦν</a></span><span class="m">PRT</span></span> ==(<span class="w"><span class="t">καὶ</span><span class="g">既然~就 also</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></span><span class="m">CONJ</span></span>)A (<span class="w"><span class="t">**ἡμεῖς**</span><span class="g">**我們 we**</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02249&m='>ἐγώ</a></span><span class="m">P-1NP</span></span>)S== , 
