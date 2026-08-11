@@ -214,7 +214,7 @@
 .bfw-editor {
   width: 100%;
   height: 112px;
-  min-height: 88px;
+  min-height: 44px;
   resize: vertical;
   padding: 8px;
   border: 0;
@@ -233,6 +233,11 @@
 .bfw-editor:focus {
   outline: 2px solid var(--interactive-accent);
   outline-offset: -2px;
+}
+
+.bfw-item.is-active .bfw-editor:focus,
+.bfw-item.is-search-target .bfw-editor:focus {
+  outline: none;
 }
 
 .bfw-footer {
@@ -256,6 +261,111 @@
   justify-content: flex-end;
   gap: 8px;
   margin-top: 16px;
+}
+
+.bfw-item.is-rendered .bfw-editor {
+  display: none;
+}
+
+.bfw-item.is-live .bfw-editor {
+  display: none;
+}
+
+.bfw-live-host {
+  /* Mirror .bfw-rendered geometry exactly so entering edit mode causes zero reflow. */
+  min-height: 40px;
+  max-height: 112px;
+  overflow-y: auto;
+  /* A classic scrollbar only ever appears in the edit state (the rendered card
+     clips instead), stealing ~15px of text width and reflowing every line.
+     Hide the rail; wheel scrolling and caret-follow still work. */
+  scrollbar-width: none;
+  padding: 0;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  cursor: text;
+  /* The embedded editor consumes the main editor's font variables; without
+     this override, entering edit mode visibly enlarges the text in place. */
+  --font-text-size: var(--font-ui-small);
+  font-size: var(--font-ui-small);
+  line-height: 1.55;
+}
+
+.bfw-live-host::-webkit-scrollbar {
+  display: none;
+}
+
+.bfw-item.is-expanded .bfw-live-host {
+  max-height: none;
+  min-height: 120px;
+}
+
+.bfw-live-host .cm-editor {
+  background: transparent;
+  font-size: var(--font-ui-small);
+}
+
+.bfw-live-host .cm-editor .cm-content {
+  padding: 8px;
+  font-size: var(--font-ui-small);
+  font-family: var(--font-text);
+  line-height: 1.55;
+}
+
+.bfw-live-host .cm-line {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Typography parity: the rendered card and the live editor are two layout
+   engines; any text-metric property left to either engine's defaults can make
+   them wrap differently (e.g. long unbroken strings). Every layout-affecting
+   property below is therefore pinned to one explicit value on BOTH sides.
+   Wrap rules follow the editor (its white-space is untouchable); identity
+   values (font, size, line-height) follow the card's established look. */
+.bfw-item .bfw-rendered,
+.bfw-item .bfw-live-host .cm-editor .cm-content {
+  font-family: var(--font-text);
+  font-size: var(--font-ui-small);
+  line-height: 1.55;
+  letter-spacing: normal;
+  hyphens: none;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.bfw-live-host .cm-editor.cm-focused {
+  outline: none;
+}
+
+.bfw-rendered {
+  height: auto;
+  min-height: 40px;
+  max-height: 112px;
+  overflow: hidden;
+  padding: 8px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: var(--font-ui-small);
+  line-height: 1.55;
+  cursor: text;
+}
+
+.bfw-item.is-expanded .bfw-rendered {
+  max-height: none;
+  min-height: 120px;
+}
+
+.bfw-rendered .bfw-rendered-inner > :first-child {
+  margin-top: 0;
+}
+
+.bfw-rendered .bfw-rendered-inner > :last-child {
+  margin-bottom: 0;
+}
+
+.bfw-rendered a {
+  cursor: pointer;
 }
 
 .bfw-reference-flash {

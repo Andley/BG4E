@@ -12,10 +12,14 @@
             "id": "09da7fe3ce60f9ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Galatians-Notes.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Galatians-Notes"
             }
           }
         ]
@@ -29,10 +33,14 @@
             "id": "7fb21154250a8888",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.1.6-9.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gal.1.6-9"
             }
           }
         ]
@@ -226,6 +234,12 @@
   },
   "active": "09da7fe3ce60f9ae",
   "lastOpenFiles": [
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Gal.1.6-9.md",
+    "48-Galatians/Complement vs. Adjunct 判準總表.md",
+    "48-Galatians/_index.md",
+    "48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/Tools/AI Skills",
     "content/Tools/_index.md",
     "content/Tools/AI Skills/新約句法分析.md",
@@ -249,11 +263,6 @@
     "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "content/Semantics/Louw-Nida §89-§91.md",
     "content/Semantics/Idioms.md",
-    "content/Semantics/_index.md",
-    "content/_index.md",
-    "content/48-Galatians/Complement vs. Adjunct 判準總表.md",
-    "content/48-Galatians/Galatians-Clause.md",
-    "content/48-Galatians/_index.md",
     "public/48-galatians/Galatians-Notes.md/index.xml",
     "public/48-galatians/Galatians-Notes.md/index.html",
     "public/48-galatians/galatians-notes/index.xml",
@@ -261,7 +270,6 @@
     "public/48-galatians/Galatia/index.html",
     "public/48-galatians/Galatia",
     "public/48-galatians/home/index.xml",
-    "public/48-galatians/home/index.html",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",

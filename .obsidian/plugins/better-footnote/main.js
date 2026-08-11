@@ -2,10 +2,15 @@
   const VIEW_TYPE = "better-footnote-view";
   const SAVE_DELAY_MS = 450;
   const RENDER_DELAY_MS = 90;
+  const EDITOR_CHANGE_REFRESH_DELAY_MS = 900;
+  const CURSOR_SYNC_DELAY_MS = 80;
   const FOOTNOTE_CONTINUATION_INDENT = "    ";
   const FLASH_SELECTION_MS = 1400;
   const AUTO_TIDY_DELAY_MS = 250;
   const SIDEBAR_JUMP_CURSOR_SUPPRESS_MS = 1200;
+  // Content cropped by no more than this many pixels (descender zone of the
+  // last line) is treated as fully visible: no expand arrow, no auto-expand.
+  const CLIPPED_CONTENT_TOLERANCE_PX = 8;
   const DELETED_FOOTNOTE_RESTORE_TTL_MS = 10 * 60 * 1000;
   const RESTORED_DELETED_FOOTNOTE_CURSOR_SUPPRESS_MS = 5000;
   const MAX_DELETED_FOOTNOTE_RESTORE_RECORDS = 50;
@@ -16,6 +21,8 @@
     autoTidyAfterNewFootnote: false,
     countMode: "auto",
     tidyCommandId: "",
+    renderMarkdownInSidebar: false,
+    useLivePreviewEditor: true,
   };
 
   const COUNT_MODES = new Set(["auto", "characters", "words"]);
@@ -65,6 +72,8 @@
       countModeAuto: "Auto",
       countModeCharacters: "Characters",
       countModeWords: "Words",
+      renderMarkdownName: "Render Markdown in sidebar",
+      renderMarkdownDesc: "When enabled, footnote cards you are not editing show rendered Markdown, including links, bold, and other formatting. Click a link to open it. Click the text to edit in an embedded live preview editor that keeps formatting rendered while you type; if it is unavailable, the card falls back to a plain source editor.",
       autoTidyName: "Auto tidy after a new footnote",
       autoTidyDesc: "Requires Tidy Footnotes. When Better Footnote detects a newly inserted footnote, it runs Tidy Footnotes automatically. This closes Obsidian's built-in floating footnote editor; use the Better Footnote sidebar to edit the footnote.",
       tidyInstallName: "Tidy Footnotes integration",
@@ -82,7 +91,8 @@
       deleteConfirm: "Delete footnote",
       deleteNeedsEditor: "Open the source note before deleting a footnote.",
       deleteFailed: "Failed to delete footnote: {message}",
-      deletedFootnote: "Deleted footnote [^{id}]. Click the note editor, then press {shortcut} to undo.",
+      deletedFootnote: "Deleted footnote [^{id}]. Press {shortcut} to undo.",
+      duplicateFootnoteInserted: "New footnote [^{id}] collides with an existing id. Its marker now references the existing footnote, and an unreferenced duplicate definition was left behind. Consider undoing and using an unused id.",
     },
     zh: {
       title: "Better Footnote",
@@ -128,6 +138,8 @@
       countModeAuto: "自动",
       countModeCharacters: "字数",
       countModeWords: "单词数",
+      renderMarkdownName: "侧栏渲染 Markdown",
+      renderMarkdownDesc: "开启后，未在编辑的脚注卡片会显示渲染后的 Markdown，包括链接、粗体等格式。点击链接直接打开；点击文字进入嵌入式实时预览编辑器，输入时格式保持渲染。若实时预览编辑器不可用，卡片会自动回退为源码编辑框。",
       autoTidyName: "新增脚注后自动整理编号",
       autoTidyDesc: "需要先安装并启用 Tidy Footnotes。Better Footnote 检测到新增脚注后，会自动运行 Tidy Footnotes。启用后会关闭 Obsidian 自带的脚注悬浮编辑框，请在 Better Footnote 侧栏中编辑脚注。",
       tidyInstallName: "Tidy Footnotes 集成",
@@ -145,7 +157,8 @@
       deleteConfirm: "删除脚注",
       deleteNeedsEditor: "请先打开对应笔记，再删除脚注。",
       deleteFailed: "删除脚注失败：{message}",
-      deletedFootnote: "已删除脚注 [^{id}]。点击笔记编辑区后按 {shortcut} 撤销。",
+      deletedFootnote: "已删除脚注 [^{id}]。按 {shortcut} 可撤销。",
+      duplicateFootnoteInserted: "新脚注编号 [^{id}] 与现有脚注撞号：新标记已成为现有脚注的又一处引用，并留下一条未引用的重复定义。建议撤销后改用未使用的编号。",
     },
     ja: {
       title: "Better Footnote",
@@ -191,6 +204,8 @@
       countModeAuto: "自動",
       countModeCharacters: "文字数",
       countModeWords: "単語数",
+      renderMarkdownName: "サイドバーで Markdown をレンダリング",
+      renderMarkdownDesc: "有効にすると、編集していない脚注カードはリンクや太字などを含むレンダリング済みの Markdown で表示されます。リンクをクリックすると開きます。本文をクリックすると埋め込みライブプレビューエディタで編集でき、入力中も書式はレンダリングされたままです。利用できない場合は自動的にソース編集ボックスへ戻ります。",
       autoTidyName: "新しい脚注の後に自動整理",
       autoTidyDesc: "Tidy Footnotes のインストールと有効化が必要です。Better Footnote は新しい脚注を検出すると、Tidy Footnotes を自動実行します。有効にすると Obsidian 標準の脚注フローティング編集欄を閉じるため、脚注は Better Footnote サイドバーで編集してください。",
       tidyInstallName: "Tidy Footnotes 連携",
@@ -208,7 +223,8 @@
       deleteConfirm: "脚注を削除",
       deleteNeedsEditor: "脚注を削除する前に、元のノートを開いてください。",
       deleteFailed: "脚注の削除に失敗しました: {message}",
-      deletedFootnote: "脚注 [^{id}] を削除しました。ノート編集欄をクリックしてから {shortcut} で取り消せます。",
+      deletedFootnote: "脚注 [^{id}] を削除しました。{shortcut} で取り消せます。",
+      duplicateFootnoteInserted: "新しい脚注 [^{id}] は既存の脚注と番号が重複しています。挿入したマーカーは既存脚注への参照として扱われ、未参照の重複定義が残っています。取り消して未使用の番号を使うことをおすすめします。",
     },
     ko: {
       title: "Better Footnote",
@@ -254,6 +270,8 @@
       countModeAuto: "자동",
       countModeCharacters: "글자 수",
       countModeWords: "단어 수",
+      renderMarkdownName: "사이드바에서 Markdown 렌더링",
+      renderMarkdownDesc: "켜면 편집 중이 아닌 각주 카드가 링크, 굵게 등 서식을 포함한 렌더링된 Markdown으로 표시됩니다. 링크를 클릭하면 링크가 열립니다. 본문을 클릭하면 내장 라이브 프리뷰 편집기에서 편집할 수 있으며 입력 중에도 서식이 렌더링된 채 유지됩니다. 사용할 수 없는 경우 자동으로 소스 편집 상자로 돌아갑니다.",
       autoTidyName: "새 각주 뒤 자동 정리",
       autoTidyDesc: "Tidy Footnotes를 먼저 설치하고 활성화해야 합니다. Better Footnote가 새 각주를 감지하면 Tidy Footnotes를 자동으로 실행합니다. 이 기능을 켜면 Obsidian 기본 각주 플로팅 편집 창을 닫으므로, 각주는 Better Footnote 사이드바에서 편집하세요.",
       tidyInstallName: "Tidy Footnotes 연동",
@@ -271,7 +289,8 @@
       deleteConfirm: "각주 삭제",
       deleteNeedsEditor: "각주를 삭제하기 전에 원본 노트를 여세요.",
       deleteFailed: "각주 삭제 실패: {message}",
-      deletedFootnote: "각주 [^{id}]를 삭제했습니다. 노트 편집 영역을 클릭한 뒤 {shortcut}로 되돌릴 수 있습니다.",
+      deletedFootnote: "각주 [^{id}]를 삭제했습니다. {shortcut}로 되돌릴 수 있습니다.",
+      duplicateFootnoteInserted: "새 각주 [^{id}]가 기존 각주와 번호가 겹칩니다. 삽입한 표시는 기존 각주에 대한 참조로 처리되었고, 참조 없는 중복 정의가 남았습니다. 되돌린 뒤 사용하지 않은 번호를 쓰는 것이 좋습니다.",
     },
   };
 
@@ -490,11 +509,24 @@
     });
   }
 
+  function countFootnoteIdOccurrences(ids) {
+    const counts = new Map();
+    for (const id of ids) {
+      counts.set(id, (counts.get(id) || 0) + 1);
+    }
+    return counts;
+  }
+
   function detectAddedFootnotes(currentFootnotes, knownFootnoteIds, knownFootnoteSnapshots = null) {
     if (!knownFootnoteIds) return [];
+    const knownCounts = countFootnoteIdOccurrences(Array.from(knownFootnoteIds));
+    const seenCounts = new Map();
     return currentFootnotes.filter((footnote) => {
-      if (knownFootnoteIds.has(footnote.id)) return false;
-      if (isKnownFootnoteBySnapshot(footnote, knownFootnoteSnapshots)) return false;
+      const seen = (seenCounts.get(footnote.id) || 0) + 1;
+      seenCounts.set(footnote.id, seen);
+      const knownCount = knownCounts.get(footnote.id) || 0;
+      if (seen <= knownCount) return false;
+      if (knownCount === 0 && isKnownFootnoteBySnapshot(footnote, knownFootnoteSnapshots)) return false;
       return true;
     });
   }
@@ -930,6 +962,158 @@
     return nearest && nearest.distance <= 2 ? nearest.reference : null;
   }
 
+  function closestElement(target, selector) {
+    return target && typeof target.closest === "function" ? target.closest(selector) : null;
+  }
+
+  function isBetterFootnoteTarget(target) {
+    return Boolean(closestElement(target, ".better-footnote"));
+  }
+
+  function isMarkdownEditorTarget(target) {
+    return Boolean(closestElement(target, ".cm-editor, .markdown-source-view"));
+  }
+
+  function isCursorNavigationKey(event) {
+    return [
+      "ArrowUp",
+      "ArrowDown",
+      "ArrowLeft",
+      "ArrowRight",
+      "Home",
+      "End",
+      "PageUp",
+      "PageDown",
+    ].includes(event?.key);
+  }
+
+  function isTextEditingKey(event) {
+    const key = event?.key;
+    if (!key) return false;
+    if (event.metaKey || event.ctrlKey || event.altKey) return false;
+    if (event.isComposing || key === "Process") return true;
+    if (key.length === 1) return true;
+    return ["Backspace", "Delete", "Enter", "NumpadEnter", "Tab"].includes(key);
+  }
+
+  function isEditorTextInputEvent(event) {
+    if (!event || isBetterFootnoteTarget(event.target) || !isMarkdownEditorTarget(event.target)) {
+      return false;
+    }
+    if (event.type === "keydown") {
+      return isTextEditingKey(event);
+    }
+    const inputType = String(event.inputType || "");
+    if (!inputType) return true;
+    if (inputType.startsWith("history")) return false;
+    return inputType.startsWith("insert") || inputType.startsWith("delete");
+  }
+
+  function isCommandLikeEditorKeydown(event) {
+    if (!event || event.type !== "keydown") return false;
+    if (isBetterFootnoteTarget(event.target) || !isMarkdownEditorTarget(event.target)) return false;
+    if (isTextEditingKey(event)) return false;
+    return Boolean(event.metaKey || event.ctrlKey || event.altKey || isCursorNavigationKey(event));
+  }
+
+  function createDeferredFileScheduler({ delayMs, setTimeoutFn, clearTimeoutFn, onFlush }) {
+    const timers = new Map();
+    return {
+      schedule(key, payload) {
+        const normalizedKey = String(key || "");
+        if (!normalizedKey) return;
+        const existing = timers.get(normalizedKey);
+        if (existing) {
+          clearTimeoutFn(existing);
+        }
+        const timer = setTimeoutFn(() => {
+          timers.delete(normalizedKey);
+          onFlush(payload, normalizedKey);
+        }, delayMs);
+        timers.set(normalizedKey, timer);
+      },
+      cancel(key) {
+        const normalizedKey = String(key || "");
+        const existing = timers.get(normalizedKey);
+        if (!existing) return;
+        clearTimeoutFn(existing);
+        timers.delete(normalizedKey);
+      },
+      clear() {
+        for (const timer of timers.values()) {
+          clearTimeoutFn(timer);
+        }
+        timers.clear();
+      },
+      has(key) {
+        return timers.has(String(key || ""));
+      },
+      size() {
+        return timers.size;
+      },
+    };
+  }
+
+  function approximateSourceOffsetFromClick(content, contextText, offsetInContext) {
+    const text = normalizeLineEndings(content ?? "");
+    const context = String(contextText ?? "");
+    if (!text || !context) return null;
+    const numericOffset = Number(offsetInContext);
+    const clickOffset = Math.max(0, Math.min(context.length, Number.isFinite(numericOffset) ? Math.trunc(numericOffset) : 0));
+    const windowSizes = [context.length, 24, 12, 6, 3, 1];
+    const triedFragments = new Set();
+    for (const windowSize of windowSizes) {
+      const size = Math.max(1, Math.min(context.length, windowSize));
+      const start = Math.max(0, Math.min(context.length - size, clickOffset - Math.floor(size / 2)));
+      const fragment = context.slice(start, start + size);
+      const fragmentKey = `${start}:${size}`;
+      if (!fragment.trim() || triedFragments.has(fragmentKey)) continue;
+      triedFragments.add(fragmentKey);
+      const index = text.indexOf(fragment);
+      if (index !== -1) {
+        return Math.max(0, Math.min(text.length, index + (clickOffset - start)));
+      }
+    }
+    return null;
+  }
+
+  function createLruCache(options = {}) {
+    const maxEntries = Math.max(1, Math.trunc(Number(options.maxEntries) || 200));
+    const entries = new Map();
+    return {
+      get(key) {
+        const normalizedKey = String(key ?? "");
+        if (!entries.has(normalizedKey)) return undefined;
+        const value = entries.get(normalizedKey);
+        entries.delete(normalizedKey);
+        entries.set(normalizedKey, value);
+        return value;
+      },
+      set(key, value) {
+        const normalizedKey = String(key ?? "");
+        if (entries.has(normalizedKey)) {
+          entries.delete(normalizedKey);
+        }
+        entries.set(normalizedKey, value);
+        while (entries.size > maxEntries) {
+          entries.delete(entries.keys().next().value);
+        }
+      },
+      has(key) {
+        return entries.has(String(key ?? ""));
+      },
+      delete(key) {
+        return entries.delete(String(key ?? ""));
+      },
+      clear() {
+        entries.clear();
+      },
+      size() {
+        return entries.size;
+      },
+    };
+  }
+
   if (typeof require !== "function") {
     if (typeof module !== "undefined" && module.exports) {
       module.exports = {
@@ -952,6 +1136,12 @@
         referenceIndexForFootnoteReference,
         findReferenceAtOffset,
         findDefinitionAtOffset,
+        isTextEditingKey,
+        isEditorTextInputEvent,
+        isCommandLikeEditorKeydown,
+        createDeferredFileScheduler,
+        approximateSourceOffsetFromClick,
+        createLruCache,
       };
     }
     return;
@@ -985,6 +1175,12 @@
         deletedFootnoteRecordMatchesFootnote,
         normalizeReferenceIndex,
         referenceIndexForFootnoteReference,
+        isTextEditingKey,
+        isEditorTextInputEvent,
+        isCommandLikeEditorKeydown,
+        createDeferredFileScheduler,
+        approximateSourceOffsetFromClick,
+        createLruCache,
       };
     }
     return;
@@ -998,7 +1194,7 @@
     codemirrorView = null;
   }
 
-  const { ItemView, MarkdownView, Menu, Modal, Notice, Plugin, PluginSettingTab, Setting } = obsidian;
+  const { Component, ItemView, MarkdownRenderer, MarkdownView, Menu, Modal, Notice, Plugin, PluginSettingTab, Setting } = obsidian;
   const { StateEffect, StateField } = codemirrorState || {};
   const { Decoration, EditorView } = codemirrorView || {};
   const flashFootnoteReferenceEffect = StateEffect?.define?.();
@@ -1111,6 +1307,10 @@
     async onload() {
       this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
       this.settings.countMode = normalizeCountMode(this.settings.countMode);
+      this.settings.renderMarkdownInSidebar = Boolean(this.settings.renderMarkdownInSidebar);
+      // Data-only killswitch, defaults to enabled: only an explicit false disables it.
+      this.settings.useLivePreviewEditor = this.settings.useLivePreviewEditor !== false;
+      this.internalEditorResolution = null;
       this.views = new Set();
       this.lastMarkdownFile = null;
       this.cursorSyncTimer = null;
@@ -1118,6 +1318,13 @@
       this.pendingTidyKeys = new Set();
       this.tidyMissingNoticeShown = false;
       this.suppressCursorSyncUntil = 0;
+      this.typingCursorSyncSuppressUntil = 0;
+      this.deferredEditorRefresh = createDeferredFileScheduler({
+        delayMs: EDITOR_CHANGE_REFRESH_DELAY_MS,
+        setTimeoutFn: (callback, delay) => window.setTimeout(callback, delay),
+        clearTimeoutFn: (timer) => window.clearTimeout(timer),
+        onFlush: ({ file }) => this.flushDeferredEditorRefresh(file),
+      });
       this.activeDeleteNotice = null;
       this.recentlyDeletedFootnotesByFile = new Map();
       this.restoredDeletedFootnoteCursorSuppressionsByFile = new Map();
@@ -1139,15 +1346,23 @@
         callback: () => this.activateView(),
       });
 
-      this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.onWorkspaceContextChanged()));
+      this.registerEvent(this.app.workspace.on("active-leaf-change", (leaf) => this.onWorkspaceContextChanged(leaf)));
       this.registerEvent(this.app.workspace.on("file-open", () => this.onWorkspaceContextChanged()));
-      this.registerEvent(this.app.workspace.on("editor-change", () => this.onEditorChanged()));
+      this.registerEvent(this.app.workspace.on("editor-change", (editor, info) => this.onEditorChanged(editor, info)));
       this.registerEvent(this.app.vault.on("modify", (file) => {
-        if (isMarkdownFile(file)) this.refreshViews(file);
+        if (isMarkdownFile(file)) this.onVaultFileModified(file);
       }));
+      this.registerDomEvent(document, "beforeinput", (event) => this.onEditorTextInputEvent(event));
+      this.registerDomEvent(document, "keydown", (event) => this.onEditorKeydown(event));
+      this.registerDomEvent(document, "pointerdown", (event) => this.onDocumentPointerDown(event));
       this.registerDomEvent(document, "selectionchange", () => this.scheduleCursorSync());
-      this.registerDomEvent(document, "keyup", () => this.scheduleCursorSync());
-      this.registerDomEvent(document, "mouseup", () => this.scheduleCursorSync());
+      this.registerDomEvent(document, "keyup", (event) => {
+        this.scheduleCursorSync({ force: isCursorNavigationKey(event) && isMarkdownEditorTarget(event.target) });
+      });
+      this.registerDomEvent(document, "mouseup", (event) => {
+        if (!isMarkdownEditorTarget(event.target)) return;
+        this.scheduleCursorSync({ force: true });
+      });
 
       this.app.workspace.onLayoutReady(() => {
         this.trackCurrentMarkdownFile();
@@ -1162,6 +1377,7 @@
       if (this.flashSelectionTimer !== null) {
         window.clearTimeout(this.flashSelectionTimer);
       }
+      this.deferredEditorRefresh?.clear();
       this.hideActiveDeleteNotice();
       this.pendingTidyKeys.clear();
       this.recentlyDeletedFootnotesByFile.clear();
@@ -1190,19 +1406,158 @@
       this.views.delete(view);
     }
 
-    onWorkspaceContextChanged() {
+    onWorkspaceContextChanged(leaf = null) {
+      if (leaf?.view?.getViewType?.() === VIEW_TYPE) {
+        return;
+      }
       this.trackCurrentMarkdownFile();
       this.refreshViews();
-      this.scheduleCursorSync();
+      this.scheduleCursorSync({ force: true });
     }
 
-    onEditorChanged() {
-      this.trackCurrentMarkdownFile();
-      this.refreshViews(this.lastMarkdownFile);
-      this.scheduleCursorSync();
+    onEditorChanged(editor, info) {
+      // Typing inside our own embedded sidebar editor also fires the global
+      // editor-change event; listening to our own keystrokes is pure churn.
+      if (this.isOwnLiveEditorContext(editor, info)) return;
+      const file = this.trackCurrentMarkdownFile();
+      if (!file) return;
+      if (this.isTypingActive()) {
+        this.scheduleDeferredEditorRefresh(file);
+        return;
+      }
+      this.refreshViews(file);
+      this.scheduleCursorSync({ force: true, delay: RENDER_DELAY_MS + CURSOR_SYNC_DELAY_MS });
+    }
+
+    onVaultFileModified(file) {
+      if (this.isTypingActive() && this.lastMarkdownFile?.path === file?.path) {
+        this.scheduleDeferredEditorRefresh(file);
+        return;
+      }
+      this.refreshViews(file);
+    }
+
+    isOwnLiveEditorContext(editor, info) {
+      for (const view of this.views) {
+        const live = view.liveEditor;
+        if (!live) continue;
+        if (info && (info === live.controller || info === live.instance)) return true;
+        if (editor && editor === live.instance?.editor) return true;
+      }
+      return false;
+    }
+
+    isLivePreviewEditorAvailable() {
+      return this.settings.useLivePreviewEditor !== false
+        && Boolean(StateEffect?.appendConfig && EditorView?.updateListener);
+    }
+
+    disableLivePreviewEditorForSession(reason) {
+      this.internalEditorResolution = { ok: false, failedStep: reason || "runtime" };
+    }
+
+    resolveInternalMarkdownEditorClass() {
+      if (this.internalEditorResolution) return this.internalEditorResolution;
+      let resolution = { ok: false, failedStep: "exception" };
+      let embed = null;
+      let containerEl = null;
+      try {
+        const factory = this.app.embedRegistry?.embedByExtension?.md;
+        if (typeof factory !== "function") {
+          resolution = { ok: false, failedStep: "embedRegistry.md" };
+        } else {
+          containerEl = document.createElement("div");
+          embed = factory({ app: this.app, containerEl, state: {} }, null, "");
+          embed.load();
+          embed.editable = true;
+          embed.showEditor();
+          const editMode = embed.editMode;
+          const prototype = editMode ? Object.getPrototypeOf(Object.getPrototypeOf(editMode)) : null;
+          const EditorClass = prototype?.constructor;
+          if (typeof EditorClass !== "function") {
+            resolution = { ok: false, failedStep: "prototype" };
+          } else if (typeof EditorClass.prototype?.set !== "function") {
+            resolution = { ok: false, failedStep: "set" };
+          } else {
+            resolution = { ok: true, EditorClass };
+          }
+        }
+      } catch (_error) {
+        resolution = { ok: false, failedStep: "exception" };
+      }
+      try {
+        embed?.unload?.();
+      } catch (_error) {
+        // The temporary embed may already be unloaded.
+      }
+      containerEl?.remove?.();
+      if (!resolution.ok) {
+        console.warn(
+          "Better Footnote: internal Live Preview editor is unavailable, sidebar editing falls back to plain text.",
+          resolution.failedStep
+        );
+      }
+      this.internalEditorResolution = resolution;
+      return resolution;
+    }
+
+    onEditorTextInputEvent(event) {
+      if (isEditorTextInputEvent(event)) {
+        this.markTypingActive();
+      }
+    }
+
+    onEditorKeydown(event) {
+      if (isEditorTextInputEvent(event)) {
+        this.markTypingActive();
+      } else if (isCommandLikeEditorKeydown(event)) {
+        this.clearTypingActive();
+        if (isCursorNavigationKey(event)) {
+          this.suppressCursorSyncUntil = 0;
+        }
+      }
+    }
+
+    onDocumentPointerDown(event) {
+      if (!isBetterFootnoteTarget(event?.target)) {
+        this.clearTypingActive();
+        if (isMarkdownEditorTarget(event?.target)) {
+          this.suppressCursorSyncUntil = 0;
+        }
+      } else {
+        this.suppressCursorSyncFromSidebarJump();
+      }
+    }
+
+    markTypingActive() {
+      this.typingCursorSyncSuppressUntil = Date.now() + EDITOR_CHANGE_REFRESH_DELAY_MS;
+    }
+
+    clearTypingActive() {
+      this.typingCursorSyncSuppressUntil = 0;
+    }
+
+    isTypingActive() {
+      return Date.now() < this.typingCursorSyncSuppressUntil;
+    }
+
+    scheduleDeferredEditorRefresh(file) {
+      if (!file?.path) return;
+      this.deferredEditorRefresh.schedule(file.path, { file });
+    }
+
+    flushDeferredEditorRefresh(file) {
+      if (!file?.path) return;
+      this.refreshViews(file);
+      this.scheduleCursorSync({ force: true, delay: RENDER_DELAY_MS + CURSOR_SYNC_DELAY_MS });
     }
 
     refreshViews(file = null) {
+      if (file?.path) {
+        this.deferredEditorRefresh?.cancel(file.path);
+      } else {
+        this.deferredEditorRefresh?.clear();
+      }
       for (const view of this.views) {
         if (!file || !view.file || view.file.path === file.path) {
           view.scheduleRender();
@@ -1210,20 +1565,31 @@
       }
     }
 
-    scheduleCursorSync() {
+    scheduleCursorSync(options = {}) {
+      const force = Boolean(options.force);
+      if (!force && this.isTypingActive()) {
+        return;
+      }
       if (this.cursorSyncTimer !== null) {
         window.clearTimeout(this.cursorSyncTimer);
       }
       this.cursorSyncTimer = window.setTimeout(() => {
         this.cursorSyncTimer = null;
-        this.syncCursorToViews();
-      }, 80);
+        this.syncCursorToViews({ force });
+      }, typeof options.delay === "number" ? options.delay : CURSOR_SYNC_DELAY_MS);
     }
 
-    syncCursorToViews() {
+    syncCursorToViews(options = {}) {
+      if (!options.force && this.isTypingActive()) {
+        return;
+      }
       if (Date.now() < this.suppressCursorSyncUntil) {
         return;
       }
+      // LOAD-BEARING for the embedded Live Preview editor: its .cm-editor also
+      // matches isMarkdownEditorTarget, so mouseup/arrow keys inside the sidebar
+      // arrive here with force=true. This focus check is the only barrier that
+      // keeps those from being treated as main-editor cursor moves. (N24)
       if (document.activeElement?.closest?.(".better-footnote")) {
         return;
       }
@@ -1254,7 +1620,9 @@
         if (view.file?.path === markdownView.file?.path) {
           view.focusFootnote(footnoteId, {
             scroll: true,
-            scrollBlock: "start",
+            // A card already in view lights up in place; an off-screen card
+            // scrolls to the top position (maintainer decision, 1.5.2).
+            scrollBlock: "start-if-hidden",
             fromCursor: true,
             referenceIndex,
             expandIfClipped: Boolean(reference || definition),
@@ -1574,6 +1942,7 @@
         }
         this.rememberDeletedFootnote(file, result.footnote);
         this.suppressCursorSyncFromSidebarJump();
+        this.focusMarkdownEditor(markdownView);
         this.refreshViews(file);
         this.showFootnoteDeletedNotice(footnoteId);
         return true;
@@ -1605,6 +1974,15 @@
             insert: "",
           })),
         });
+        return true;
+      }
+      return false;
+    }
+
+    focusMarkdownEditor(markdownView) {
+      const editor = markdownView?.editor;
+      if (editor && typeof editor.focus === "function") {
+        editor.focus();
         return true;
       }
       return false;
@@ -1727,6 +2105,19 @@
       this.containerEl.createEl("h2", { text: strings.settingsTitle });
 
       new Setting(this.containerEl)
+        .setName(strings.renderMarkdownName)
+        .setDesc(strings.renderMarkdownDesc)
+        .addToggle((toggle) => {
+          toggle
+            .setValue(Boolean(this.plugin.settings.renderMarkdownInSidebar))
+            .onChange(async (value) => {
+              this.plugin.settings.renderMarkdownInSidebar = Boolean(value);
+              await this.plugin.saveSettings();
+              this.plugin.refreshViews();
+            });
+        });
+
+      new Setting(this.containerEl)
         .setName(strings.countModeName)
         .setDesc(strings.countModeDesc)
         .addDropdown((dropdown) => {
@@ -1795,6 +2186,14 @@
       this.expandedFootnoteIds = new Set();
       this.searchExpandedFootnoteIds = new Set();
       this.syncExpandedFootnoteIds = new Set();
+      this.editingFootnoteId = null;
+      this.renderGeneration = 0;
+      this.markdownRenderComponents = [];
+      this.markdownRenderCache = createLruCache({ maxEntries: 200 });
+      this.renderCacheFilePath = "";
+      this.pointerDownInside = false;
+      this.pendingEditExitFootnoteId = null;
+      this.liveEditor = null;
     }
 
     formatFootnoteCountForDisplay(text, strings = getStrings()) {
@@ -1816,6 +2215,42 @@
     async onOpen() {
       this.plugin.registerFootnoteView(this);
       this.contentEl.addClass("better-footnote");
+      this.registerDomEvent(this.contentEl, "pointerdown", () => {
+        this.pointerDownInside = true;
+      });
+      const releasePointer = () => {
+        if (!this.pointerDownInside) return;
+        this.pointerDownInside = false;
+        const pendingExitId = this.pendingEditExitFootnoteId;
+        if (pendingExitId) {
+          window.setTimeout(() => {
+            if (this.pendingEditExitFootnoteId !== pendingExitId) return;
+            if (this.pointerDownInside) return;
+            this.pendingEditExitFootnoteId = null;
+            const item = this.findFootnoteItem(pendingExitId);
+            const editorEl = item?.querySelector(".bfw-editor");
+            if (editorEl && document.activeElement === editorEl) return;
+            const live = this.liveEditor;
+            if (live && live.footnoteId === pendingExitId && live.host.contains(document.activeElement)) return;
+            const anchorItem = this.activeFootnoteId ? this.findFootnoteItem(this.activeFootnoteId) : null;
+            const anchorTopBefore = anchorItem ? anchorItem.getBoundingClientRect().top : null;
+            this.finishEditExit(pendingExitId);
+            if (anchorItem && anchorTopBefore !== null && this.listEl) {
+              const delta = anchorItem.getBoundingClientRect().top - anchorTopBefore;
+              if (delta !== 0) {
+                this.listEl.scrollTop += delta;
+              }
+            }
+          }, 40);
+        }
+        if (this.pendingRender) {
+          this.pendingRender = false;
+          this.scheduleRender();
+        }
+      };
+      this.registerDomEvent(document, "pointerup", releasePointer);
+      this.registerDomEvent(document, "pointercancel", releasePointer);
+      this.registerDomEvent(window, "blur", releasePointer);
       this.scheduleRender(0);
     }
 
@@ -1828,6 +2263,8 @@
       if (this.renderTimer !== null) {
         window.clearTimeout(this.renderTimer);
       }
+      this.invalidateRenderedArtifacts(null);
+      this.markdownRenderCache.clear();
       this.plugin.unregisterFootnoteView(this);
     }
 
@@ -1846,7 +2283,533 @@
     }
 
     isEditing() {
-      return document.activeElement?.classList?.contains("bfw-editor");
+      if (document.activeElement?.classList?.contains("bfw-editor")) return true;
+      const live = this.liveEditor;
+      if (live) {
+        if (!live.host.isConnected) {
+          // Self-heal: a stale live editor must never keep the render gate shut.
+          this.teardownLiveEditor();
+          return false;
+        }
+        if (live.host.contains(document.activeElement)) return true;
+      }
+      return false;
+    }
+
+    isMarkdownRenderingEnabled() {
+      return Boolean(this.plugin.settings?.renderMarkdownInSidebar)
+        && Boolean(MarkdownRenderer?.render || MarkdownRenderer?.renderMarkdown);
+    }
+
+    invalidateRenderedArtifacts(file) {
+      // Single choke point: every rebuild pipeline (render(), renderFootnoteList,
+      // file switches, onClose) passes through here, so the live editor is always
+      // torn down in an orderly way before its DOM disappears.
+      this.teardownLiveEditor();
+      this.renderGeneration += 1;
+      for (const component of this.markdownRenderComponents) {
+        try {
+          component.unload();
+        } catch (_error) {
+          // The component may already be unloaded.
+        }
+      }
+      this.markdownRenderComponents = [];
+      const path = file?.path || "";
+      if (path !== this.renderCacheFilePath) {
+        this.renderCacheFilePath = path;
+        this.markdownRenderCache.clear();
+        this.editingFootnoteId = null;
+      }
+    }
+
+    getMeasurableContentEl(item) {
+      if (!item) return null;
+      return item.querySelector(".bfw-rendered")
+        || item.querySelector(".bfw-live-host")
+        || item.querySelector(".bfw-editor");
+    }
+
+    hasHiddenContent(el) {
+      if (!el) return false;
+      if (el.tagName === "TEXTAREA") {
+        return this.hasHiddenTextareaContent(el);
+      }
+      return el.scrollHeight > el.clientHeight + CLIPPED_CONTENT_TOLERANCE_PX;
+    }
+
+    renderMarkdownIntoContainer(container, content, onReady) {
+      const component = new Component();
+      component.load();
+      this.markdownRenderComponents.push(component);
+      const generation = this.renderGeneration;
+      const sourcePath = this.file?.path || "";
+      const renderCall = MarkdownRenderer?.render
+        ? MarkdownRenderer.render(this.plugin.app, content, container, sourcePath, component)
+        : MarkdownRenderer.renderMarkdown(content, container, sourcePath, component);
+      Promise.resolve(renderCall).then(() => {
+        if (generation !== this.renderGeneration) return;
+        this.markdownRenderCache.set(content, container);
+        onReady?.();
+      }).catch(() => {
+        // Rendering errors leave the card blank; editing still works.
+      });
+    }
+
+    mountRenderedContent(itemEl, textarea, footnoteId, content, onReady) {
+      const normalizedContent = normalizeLineEndings(content ?? "");
+      const renderedEl = document.createElement("div");
+      renderedEl.className = "bfw-rendered markdown-rendered";
+      renderedEl.dataset.footnoteId = footnoteId;
+      textarea.insertAdjacentElement("beforebegin", renderedEl);
+      itemEl.addClass("is-rendered");
+      const cached = this.markdownRenderCache.get(normalizedContent);
+      if (cached) {
+        renderedEl.appendChild(cached.cloneNode(true));
+        onReady?.();
+      } else {
+        const container = document.createElement("div");
+        container.className = "bfw-rendered-inner";
+        renderedEl.appendChild(container);
+        this.renderMarkdownIntoContainer(container, normalizedContent, onReady);
+      }
+      renderedEl.addEventListener("click", (event) => {
+        if (event.target?.closest?.("a")) return;
+        event.preventDefault();
+        event.stopPropagation();
+        this.enterFootnoteEditMode(footnoteId, this.caretContextFromPoint(event));
+      });
+      return renderedEl;
+    }
+
+    enterFootnoteEditMode(footnoteId, caret = null, options = {}) {
+      if (!this.isMarkdownRenderingEnabled()) return;
+      this.editingFootnoteId = footnoteId;
+      const item = this.findFootnoteItem(footnoteId);
+      if (!item) return;
+      item.querySelector(".bfw-rendered")?.remove();
+      item.removeClass("is-rendered");
+      const textarea = item.querySelector(".bfw-editor");
+      if (!textarea) return;
+      if (this.liveEditor && this.liveEditor.footnoteId !== footnoteId) {
+        // Full synchronous exit, not a bare teardown: the previous card must go
+        // straight back to its rendered state within this same task (no raw
+        // source flash) and the card being entered must not move on screen.
+        this.exitLiveEditedFootnote({ anchorFootnoteId: footnoteId });
+      }
+      // Search locate sessions stay on the textarea path: their read-only
+      // selection mechanics were settled in 1.5.1 and are not migrated yet.
+      if (!options.searchSession && this.tryMountLiveEditor(item, textarea, footnoteId, caret)) {
+        return;
+      }
+      textarea.readOnly = false;
+      this.applyTextareaHeight(textarea, this.isFootnoteExpanded(footnoteId));
+      textarea.focus();
+      const value = textarea.value;
+      let position = value.length;
+      if (caret) {
+        const approximate = approximateSourceOffsetFromClick(value, caret.contextText, caret.offsetInContext);
+        if (typeof approximate === "number") {
+          position = Math.max(0, Math.min(value.length, approximate));
+        }
+      }
+      try {
+        textarea.setSelectionRange(position, position);
+      } catch (_error) {
+        // Some input states do not expose a selectable range.
+      }
+    }
+
+    finishEditExit(footnoteId) {
+      if (this.isMarkdownRenderingEnabled() || this.liveEditor?.footnoteId === footnoteId) {
+        this.exitFootnoteEditMode(footnoteId);
+      } else if (this.syncExpandedFootnoteIds.has(footnoteId)) {
+        this.setFootnoteExpanded(footnoteId, false);
+      }
+    }
+
+    exitFootnoteEditMode(footnoteId) {
+      if (this.editingFootnoteId === footnoteId) {
+        this.editingFootnoteId = null;
+      }
+      // The live editor must be dismantled even when the rendering setting was
+      // toggled off mid-edit; teardown is deliberately not gated by it.
+      if (this.liveEditor?.footnoteId === footnoteId) {
+        this.teardownLiveEditor();
+      }
+      if (!this.isMarkdownRenderingEnabled()) return;
+      const item = this.findFootnoteItem(footnoteId);
+      if (!item || item.querySelector(".bfw-rendered")) return;
+      const textarea = item.querySelector(".bfw-editor");
+      if (!textarea) return;
+      if (this.syncExpandedFootnoteIds.has(footnoteId)) {
+        this.setFootnoteExpanded(footnoteId, false);
+      }
+      const expandButton = item.querySelector(".bfw-expand-button");
+      this.mountRenderedContent(item, textarea, footnoteId, textarea.value, () => {
+        if (expandButton) {
+          this.updateExpandButtonVisibility(this.getMeasurableContentEl(item), expandButton, footnoteId);
+        }
+      });
+    }
+
+    applyEditSurfaceFocus(footnoteId, measurableEl) {
+      if (this.suppressTextareaFocusJump) {
+        this.focusFootnote(footnoteId, { scroll: false, focusEditor: false });
+        return false;
+      }
+      this.activateFootnoteFromSidebar(footnoteId, { selectSearchMatch: false });
+      if (!this.isFootnoteExpanded(footnoteId) && this.hasHiddenContent(measurableEl)) {
+        this.setFootnoteExpanded(footnoteId, true, { source: "sync" });
+      }
+      return true;
+    }
+
+    applyEditSurfaceInput(footnoteId, value, els) {
+      els.itemEl.addClass("is-dirty");
+      els.countEl?.setText(this.formatFootnoteCountForDisplay(value, els.strings));
+      els.statusEl?.setText(els.strings.saving);
+      this.queueSave(footnoteId, value, els.statusEl, els.itemEl);
+    }
+
+    handleEditSurfaceBlur(footnoteId, value, statusEl, itemEl, stillFocusedFn) {
+      this.flushSave(footnoteId, value, statusEl, itemEl).finally(() => {
+        const windowFocused = typeof document.hasFocus === "function" ? document.hasFocus() : true;
+        if (windowFocused && !stillFocusedFn()) {
+          if (this.pointerDownInside) {
+            this.pendingEditExitFootnoteId = footnoteId;
+          } else {
+            this.finishEditExit(footnoteId);
+          }
+        }
+        if (this.pendingRender) {
+          this.pendingRender = false;
+          this.scheduleRender();
+        }
+      });
+    }
+
+    resetHijackedActiveEditor(controller) {
+      // Data-safety guard (1.5.4 incident): while the embedded editor holds
+      // workspace.activeEditor, the app-wide contract lies ("file = the real
+      // note, editor = a one-footnote buffer") and any consumer that writes an
+      // active editor's content back to its file can wipe the note. Guarded
+      // CAS-style reset; takes the controller by value so that stale timers
+      // can still sweep after this.liveEditor has moved on.
+      try {
+        const workspace = this.plugin.app.workspace;
+        if (workspace.activeEditor === controller) {
+          workspace.activeEditor = null;
+        }
+      } catch (_error) {
+        // The workspace may itself be tearing down.
+      }
+    }
+
+    scheduleHijackSweep(controller) {
+      // The internal editor may assign activeEditor via setTimeout (Kanban's
+      // own recipe does), so synchronous resets alone can be outrun. A single
+      // 0ms sweep can still lose the timer race against the assignment (N33
+      // watchdog observed ~20-100ms windows under load), hence a short chain.
+      for (const delay of [0, 60, 180]) {
+        window.setTimeout(() => this.resetHijackedActiveEditor(controller), delay);
+      }
+    }
+
+    tryMountLiveEditor(item, textarea, footnoteId, caret) {
+      if (!this.plugin.isLivePreviewEditorAvailable()) return false;
+      const resolution = this.plugin.resolveInternalMarkdownEditorClass();
+      if (!resolution.ok) return false;
+      this.teardownLiveEditor();
+      const host = document.createElement("div");
+      host.className = "bfw-live-host";
+      let instance = null;
+      let controller = null;
+      let sentinel = null;
+      let releaseController = null;
+      try {
+        const app = this.plugin.app;
+        const file = this.file;
+        let released = false;
+        controller = {
+          app,
+          showSearch: () => {},
+          toggleMode: () => {},
+          onMarkdownScroll: () => {},
+          getMode: () => "source",
+          scroll: 0,
+          editMode: null,
+          get editor() {
+            return instance?.editor;
+          },
+          // Fixed snapshot on purpose: resolving through getActiveFile() recurses
+          // once the workspace points activeEditor back at this controller.
+          // After teardown the controller is neutered (released): a dangling
+          // reference captured by third parties has no file left to write to.
+          get file() {
+            return released ? null : file;
+          },
+          get path() {
+            return released ? "" : file?.path ?? "";
+          },
+        };
+        releaseController = () => {
+          released = true;
+        };
+        instance = new resolution.EditorClass(app, host, controller);
+        this.addChild(instance);
+        controller.editMode = instance;
+        if (!instance.cm || !instance.editor) {
+          throw new Error("embedded editor is missing its editing surface");
+        }
+        textarea.insertAdjacentElement("beforebegin", host);
+        item.addClass("is-live");
+        instance.set(textarea.value);
+        const live = {
+          instance,
+          host,
+          controller,
+          releaseController,
+          footnoteId,
+          textarea,
+          itemEl: item,
+          isTearingDown: false,
+          hijackSentinel: null,
+        };
+        this.liveEditor = live;
+        // Path-independent guarantee while mounted: whatever internal code
+        // path assigns activeEditor (sync, setTimeout, composition handlers),
+        // the sentinel sweeps it within 90 ms — tighter than the 100 ms
+        // hijack-exposure veto line in the N33 protocol. Cleared in teardown.
+        sentinel = window.setInterval(() => this.resetHijackedActiveEditor(controller), 90);
+        live.hijackSentinel = sentinel;
+        this.attachLiveEditorEvents(live);
+        instance.cm.focus();
+        const value = textarea.value;
+        let position = value.length;
+        if (caret) {
+          const approximate = approximateSourceOffsetFromClick(value, caret.contextText, caret.offsetInContext);
+          if (typeof approximate === "number") {
+            position = Math.max(0, Math.min(value.length, approximate));
+          }
+        }
+        try {
+          instance.cm.dispatch({ selection: { anchor: Math.min(position, instance.cm.state.doc.length) } });
+        } catch (_error) {
+          // A rejected selection leaves the caret at the start; editing still works.
+        }
+        this.resetHijackedActiveEditor(controller);
+        this.scheduleHijackSweep(controller);
+        return true;
+      } catch (error) {
+        console.warn("Better Footnote: live editor mount failed, falling back to plain text editing.", error);
+        this.plugin.disableLivePreviewEditorForSession("mount");
+        this.liveEditor = null;
+        if (sentinel !== null) {
+          window.clearInterval(sentinel);
+        }
+        if (controller) {
+          this.resetHijackedActiveEditor(controller);
+          this.scheduleHijackSweep(controller);
+        }
+        try {
+          if (instance) this.removeChild(instance);
+        } catch (_error) {
+          // The instance may not have been attached yet.
+        }
+        try {
+          // Neuter only after the instance is unloaded, mirroring teardown order.
+          releaseController?.();
+        } catch (_inner) {
+          // Neutering is best-effort.
+        }
+        host.remove();
+        item.removeClass("is-live");
+        return false;
+      }
+    }
+
+    attachLiveEditorEvents(live) {
+      const strings = getStrings();
+      const { instance, host, footnoteId, textarea, itemEl } = live;
+      const countEl = itemEl.querySelector(".bfw-count");
+      const statusEl = itemEl.querySelector(".bfw-status");
+      const expandButton = itemEl.querySelector(".bfw-expand-button");
+      const readLiveValue = () => normalizeLineEndings(instance.cm.state.doc.toString());
+      const mirror = () => {
+        const value = readLiveValue();
+        textarea.value = value;
+        return value;
+      };
+      live.mirror = mirror;
+      instance.cm.dispatch({
+        effects: StateEffect.appendConfig.of(
+          EditorView.updateListener.of((update) => {
+            // Unconditional guard first: CM emits updates on focus/selection
+            // changes too, making this a free extra sweep of the hijack.
+            this.resetHijackedActiveEditor(live.controller);
+            if (!update.docChanged || live.isTearingDown) return;
+            const value = mirror();
+            this.applyEditSurfaceInput(footnoteId, value, { itemEl, countEl, statusEl, strings });
+            this.updateExpandButtonVisibility(host, expandButton, footnoteId, strings);
+          })
+        ),
+      });
+      host.addEventListener("focusin", () => {
+        this.resetHijackedActiveEditor(live.controller);
+        this.scheduleHijackSweep(live.controller);
+        if (live.isTearingDown) return;
+        this.applyEditSurfaceFocus(footnoteId, host);
+      });
+      host.addEventListener("focusout", (event) => {
+        this.resetHijackedActiveEditor(live.controller);
+        this.scheduleHijackSweep(live.controller);
+        if (live.isTearingDown) return;
+        const next = event.relatedTarget;
+        if (next && host.contains(next)) return;
+        window.setTimeout(() => {
+          if (live.isTearingDown || this.liveEditor !== live) return;
+          if (host.contains(document.activeElement)) return;
+          this.handleEditSurfaceBlur(
+            footnoteId,
+            mirror(),
+            statusEl,
+            itemEl,
+            () => this.liveEditor === live && live.host.contains(document.activeElement)
+          );
+        }, 0);
+      });
+      host.addEventListener(
+        "keydown",
+        (event) => {
+          if (live.isTearingDown || event.isComposing) return;
+          if (event.key === "Escape") {
+            event.preventDefault();
+            event.stopPropagation();
+            // Esc means "close the card, leave my note alone". Entering edit
+            // mode parked the main-editor cursor on this footnote's reference;
+            // without re-arming the suppression window, the post-exit cursor
+            // sync reads that stale position and re-expands the card we just
+            // collapsed (collapse-then-expand flicker on slow exits).
+            this.plugin.suppressCursorSyncFromSidebarJump();
+            this.exitFootnoteEditMode(footnoteId);
+            return;
+          }
+          if ((event.metaKey || event.ctrlKey) && event.key?.toLowerCase?.() === "s") {
+            event.preventDefault();
+            this.flushSave(footnoteId, mirror(), statusEl, itemEl);
+          }
+        },
+        { capture: true }
+      );
+      // The live layout may clip content that the rendered layout did not
+      // (and vice versa); measure once at mount so the expand button state
+      // matches the editor's reality, not the rendered card's.
+      this.updateExpandButtonVisibility(host, expandButton, footnoteId, strings);
+    }
+
+    exitLiveEditedFootnote(options = {}) {
+      const live = this.liveEditor;
+      if (!live) return;
+      const liveFootnoteId = live.footnoteId;
+      if (this.pendingEditExitFootnoteId === liveFootnoteId) {
+        this.pendingEditExitFootnoteId = null;
+      }
+      const anchorItem = options.anchorFootnoteId ? this.findFootnoteItem(options.anchorFootnoteId) : null;
+      const anchorTopBefore = anchorItem ? anchorItem.getBoundingClientRect().top : null;
+      this.exitFootnoteEditMode(liveFootnoteId);
+      if (anchorItem && anchorTopBefore !== null && this.listEl) {
+        const delta = anchorItem.getBoundingClientRect().top - anchorTopBefore;
+        if (delta !== 0) {
+          this.listEl.scrollTop += delta;
+        }
+      }
+    }
+
+    teardownLiveEditor() {
+      const live = this.liveEditor;
+      if (!live || live.isTearingDown) return;
+      live.isTearingDown = true;
+      this.liveEditor = null;
+      try {
+        const value = typeof live.mirror === "function"
+          ? live.mirror()
+          : normalizeLineEndings(live.instance?.cm?.state?.doc?.toString() ?? live.textarea.value);
+        if (this.saveTimers.has(live.footnoteId) || live.itemEl?.classList?.contains("is-dirty")) {
+          const statusEl = live.itemEl?.querySelector?.(".bfw-status");
+          this.flushSave(live.footnoteId, value, statusEl, live.itemEl);
+        }
+      } catch (_error) {
+        // Reading the buffer mid-destroy may fail; the last mirrored value stands.
+      }
+      if (live.hijackSentinel !== null) {
+        window.clearInterval(live.hijackSentinel);
+        live.hijackSentinel = null;
+      }
+      this.resetHijackedActiveEditor(live.controller);
+      // A setTimeout-delayed assignment may land after this synchronous reset;
+      // sweep once more on the next macrotask.
+      this.scheduleHijackSweep(live.controller);
+      try {
+        this.removeChild(live.instance);
+      } catch (_error) {
+        try {
+          live.instance?.unload?.();
+        } catch (_inner) {
+          // Double-unload is harmless.
+        }
+      }
+      // Neuter the controller after unload: any dangling reference captured by
+      // third parties now sees file=null and has nothing left to write to.
+      try {
+        live.releaseController?.();
+      } catch (_error) {
+        // Releasing is best-effort.
+      }
+      try {
+        live.host.remove();
+      } catch (_error) {
+        // The host may already have been detached by a rebuild.
+      }
+      live.itemEl?.removeClass?.("is-live");
+    }
+
+    caretContextFromPoint(event) {
+      const doc = event?.target?.ownerDocument || document;
+      let node = null;
+      let offset = 0;
+      if (typeof doc.caretRangeFromPoint === "function") {
+        const range = doc.caretRangeFromPoint(event.clientX, event.clientY);
+        if (range) {
+          node = range.startContainer;
+          offset = range.startOffset;
+        }
+      } else if (typeof doc.caretPositionFromPoint === "function") {
+        const position = doc.caretPositionFromPoint(event.clientX, event.clientY);
+        if (position) {
+          node = position.offsetNode;
+          offset = position.offset;
+        }
+      }
+      if (!node || node.nodeType !== 3) return null;
+      return {
+        contextText: String(node.textContent || ""),
+        offsetInContext: offset,
+      };
+    }
+
+    onRenderedLinkClick(event) {
+      const link = closestElement(event.target, ".bfw-rendered a");
+      if (!link) return;
+      event.preventDefault();
+      event.stopPropagation();
+      const href = link.getAttribute("data-href") || link.getAttribute("href") || "";
+      if (!href || href.startsWith("#")) return;
+      if (link.classList.contains("internal-link")) {
+        this.plugin.app.workspace.openLinkText(href, this.file?.path || "", false);
+      } else {
+        window.open(href);
+      }
     }
 
     captureState() {
@@ -1877,6 +2840,10 @@
     }
 
     async render() {
+      if (this.isEditing() || this.pointerDownInside) {
+        this.pendingRender = true;
+        return;
+      }
       const strings = getStrings();
       const previousSearchInput = this.searchInputEl;
       const shouldRestoreSearchFocus = document.activeElement === previousSearchInput;
@@ -1902,6 +2869,7 @@
       this.captureState();
       const file = this.plugin.getCurrentMarkdownFile();
       this.file = file;
+      this.invalidateRenderedArtifacts(file);
       this.contentEl.empty();
       this.contentEl.addClass("better-footnote");
 
@@ -1953,6 +2921,7 @@
       });
       this.searchNextButton.setAttr("title", strings.nextMatch);
       this.listEl = this.contentEl.createDiv({ cls: "bfw-list" });
+      this.listEl.addEventListener("click", (event) => this.onRenderedLinkClick(event));
       this.updateSearchModeButtons();
 
       if (!file) {
@@ -1980,7 +2949,7 @@
       const orderedFootnotes = parsed.footnotes;
       const savedState = this.stateByFile.get(file.path) || {};
       const previousKnownFootnoteIds = Array.isArray(savedState.knownFootnoteIds)
-        ? new Set(savedState.knownFootnoteIds)
+        ? savedState.knownFootnoteIds
         : null;
       let addedFootnote = choosePrimaryAddedFootnote(
         detectAddedFootnotes(orderedFootnotes, previousKnownFootnoteIds, savedState.knownFootnoteSnapshots),
@@ -2025,13 +2994,18 @@
         nextState.activeSnapshot = createFootnoteSnapshot(restoredDeletedFootnote);
         nextState.autoFocusRendersRemaining = 0;
       } else if (addedFootnote) {
-        nextState.activeId = addedFootnote.id;
-        nextState.activeSnapshot = createFootnoteSnapshot(addedFootnote);
-        nextState.autoFocusRendersRemaining = Math.max(
-          Number(savedState.autoFocusRendersRemaining || 0),
-          1,
-        );
-        this.plugin.scheduleTidyFootnotesForNewFootnote(file, addedFootnote);
+        const isDuplicateDefinition = orderedFootnotes.filter((item) => item.id === addedFootnote.id).length > 1;
+        if (isDuplicateDefinition) {
+          new Notice(t(strings, "duplicateFootnoteInserted", { id: addedFootnote.id }), 10000);
+        } else {
+          nextState.activeId = addedFootnote.id;
+          nextState.activeSnapshot = createFootnoteSnapshot(addedFootnote);
+          nextState.autoFocusRendersRemaining = Math.max(
+            Number(savedState.autoFocusRendersRemaining || 0),
+            1,
+          );
+          this.plugin.scheduleTidyFootnotesForNewFootnote(file, addedFootnote);
+        }
       }
       this.stateByFile.set(file.path, nextState);
 
@@ -2060,13 +3034,15 @@
         return;
       }
 
-      this.searchInputEl.addEventListener("input", () => {
-        if (!this.searchInputEl.value.trim()) {
+      const handleSearchInputChanged = () => {
+        const currentState = this.stateByFile.get(file.path) || {};
+        if ((currentState.searchQuery || "") === this.searchInputEl.value) return;
+        const cleared = !this.searchInputEl.value.trim();
+        if (cleared) {
           this.collapseSearchExpandedFootnotes();
         }
         this.searchPaused = false;
         this.pausedSearchMatchIndex = -1;
-        const currentState = this.stateByFile.get(file.path) || {};
         this.stateByFile.set(file.path, {
           ...currentState,
           searchQuery: this.searchInputEl.value,
@@ -2077,7 +3053,12 @@
         });
         this.searchMatchIndex = -1;
         renderFilteredList();
-      });
+        if (cleared) {
+          this.scrollActiveFootnoteIntoView();
+        }
+      };
+      this.searchInputEl.addEventListener("input", handleSearchInputChanged);
+      this.searchInputEl.addEventListener("search", handleSearchInputChanged);
 
       this.searchInputEl.addEventListener("keydown", (event) => {
         if (event.key !== "Enter") return;
@@ -2103,6 +3084,7 @@
         });
         this.searchMatchIndex = -1;
         renderFilteredList();
+        this.scrollActiveFootnoteIntoView();
         this.searchInputEl.focus();
       });
 
@@ -2162,8 +3144,15 @@
       }
     }
 
-    pauseSearchModeForEditorSync() {
+    pauseSearchModeForEditorSync(footnoteId = null) {
       if (!this.getRawSearchQuery().trim() || this.searchPaused) return;
+      if (footnoteId && this.hasActiveSearch()) {
+        const visibleFootnotes = filterFootnotes(this.currentFootnotes, this.getEffectiveSearchQuery());
+        if (visibleFootnotes.some((footnote) => footnote.id === footnoteId)) {
+          this.selectFirstSearchMatchForFootnote(footnoteId, { scroll: false, focusMatch: false });
+          return;
+        }
+      }
       this.pausedSearchMatchIndex = this.searchMatchIndex;
       this.searchPaused = true;
       this.collapseSearchExpandedFootnotes();
@@ -2232,6 +3221,7 @@
     }
 
     renderFootnoteList(footnotes, strings, subtitleEl, fileName) {
+      this.invalidateRenderedArtifacts(this.file);
       const query = this.getEffectiveSearchQuery();
       const visibleFootnotes = filterFootnotes(footnotes, query);
       this.searchMatches = findFootnoteSearchResults(footnotes, query);
@@ -2326,6 +3316,21 @@
       this.applySearchMatch(this.searchMatches[this.searchMatchIndex]);
     }
 
+    scrollActiveFootnoteIntoView() {
+      if (!this.activeFootnoteId || !this.listEl) return;
+      const target = this.findFootnoteItem(this.activeFootnoteId);
+      if (!target) return;
+      const top = Math.max(0, target.offsetTop - this.listEl.offsetTop);
+      this.listEl.scrollTo({ top, behavior: "auto" });
+      if (this.file) {
+        const currentState = this.stateByFile.get(this.file.path) || {};
+        this.stateByFile.set(this.file.path, {
+          ...currentState,
+          scrollTop: this.listEl.scrollTop,
+        });
+      }
+    }
+
     markSearchTarget() {
       for (const item of this.contentEl.querySelectorAll(".bfw-item")) {
         item.removeClass("is-search-target");
@@ -2337,19 +3342,34 @@
 
     applySearchMatch(result, options = {}) {
       if (!result) return;
-      this.setFootnoteExpanded(result.footnoteId, true, { source: "search" });
+      const targetItem = this.findFootnoteItem(result.footnoteId);
+      const measurableEl = this.getMeasurableContentEl(targetItem);
+      if (measurableEl && !this.isFootnoteExpanded(result.footnoteId) && this.hasHiddenContent(measurableEl)) {
+        this.setFootnoteExpanded(result.footnoteId, true, { source: "search" });
+      }
       this.focusFootnote(result.footnoteId, {
         scroll: options.scroll !== false,
         focusEditor: false,
       });
       this.markSearchTarget();
       const item = this.findFootnoteItem(result.footnoteId);
+      if (options.focusMatch === false) return;
+      if (this.liveEditor?.footnoteId === result.footnoteId) {
+        // A search hit on the card being live-edited needs the textarea back
+        // for its selection display; exit live editing first.
+        this.exitFootnoteEditMode(result.footnoteId);
+      }
+      if (this.isMarkdownRenderingEnabled() && result.match && this.editingFootnoteId !== result.footnoteId) {
+        this.suppressTextareaFocusJump = true;
+        this.enterFootnoteEditMode(result.footnoteId, null, { searchSession: true });
+      }
       const textarea = item?.querySelector(".bfw-editor");
       if (!textarea) return;
-      this.applyTextareaHeight(textarea, true);
+      this.applyTextareaHeight(textarea, this.isFootnoteExpanded(result.footnoteId));
       const match = result.match;
       if (!match) return;
       this.suppressTextareaFocusJump = true;
+      textarea.readOnly = true;
       textarea.focus({ preventScroll: true });
       textarea.setSelectionRange(match.start, match.end, "forward");
       this.scrollTextareaToSelection(textarea, match.start);
@@ -2426,16 +3446,18 @@
       const item = this.findFootnoteItem(footnoteId);
       if (item) {
         item.toggleClass("is-expanded", expanded);
-        const textarea = item.querySelector(".bfw-editor");
-        this.applyTextareaHeight(textarea, expanded);
+        const contentEl = this.getMeasurableContentEl(item);
+        if (contentEl?.tagName === "TEXTAREA") {
+          this.applyTextareaHeight(contentEl, expanded);
+        }
         const button = item.querySelector(".bfw-expand-button");
         const strings = getStrings();
         if (button) {
           button.setText(expanded ? "△" : "▽");
           button.setAttr("title", expanded ? strings.collapseFootnote : strings.expandFootnote);
-          if (!expanded && textarea) {
+          if (!expanded && contentEl) {
             window.requestAnimationFrame(() => {
-              const hasHiddenContent = textarea.scrollHeight > textarea.clientHeight + 2;
+              const hasHiddenContent = contentEl.scrollHeight > contentEl.clientHeight + CLIPPED_CONTENT_TOLERANCE_PX;
               button.toggleClass("is-hidden", !hasHiddenContent);
             });
           }
@@ -2521,26 +3543,38 @@
     applyTextareaHeight(textarea, expanded) {
       if (!textarea) return;
       if (!expanded) {
-        textarea.style.height = "";
+        textarea.style.height = "auto";
+        textarea.style.height = `${Math.max(44, Math.min(112, textarea.scrollHeight + 2))}px`;
         return;
       }
       textarea.style.height = "auto";
       textarea.style.height = `${Math.max(120, textarea.scrollHeight + 2)}px`;
     }
 
-    updateExpandButtonVisibility(textarea, expandButton, footnoteId, strings = getStrings()) {
+    updateExpandButtonVisibility(contentEl, expandButton, footnoteId, strings = getStrings()) {
       window.requestAnimationFrame(() => {
+        if (!contentEl || !expandButton) return;
+        const isTextarea = contentEl.tagName === "TEXTAREA";
         const expanded = this.isFootnoteExpanded(footnoteId);
         if (expanded) {
           expandButton.removeClass("is-hidden");
           expandButton.setText("△");
           expandButton.setAttr("title", strings.collapseFootnote);
-          this.applyTextareaHeight(textarea, true);
+          if (isTextarea) {
+            this.applyTextareaHeight(contentEl, true);
+          }
           return;
         }
 
-        textarea.style.height = "";
-        const hasHiddenContent = textarea.scrollHeight > textarea.clientHeight + 2;
+        let hasHiddenContent;
+        if (isTextarea) {
+          contentEl.style.height = "auto";
+          const naturalHeight = contentEl.scrollHeight + 2;
+          contentEl.style.height = `${Math.max(44, Math.min(112, naturalHeight))}px`;
+          hasHiddenContent = naturalHeight > 112 + CLIPPED_CONTENT_TOLERANCE_PX;
+        } else {
+          hasHiddenContent = contentEl.scrollHeight > contentEl.clientHeight + CLIPPED_CONTENT_TOLERANCE_PX;
+        }
         expandButton.toggleClass("is-hidden", !hasHiddenContent);
         expandButton.setText("▽");
         expandButton.setAttr("title", strings.expandFootnote);
@@ -2551,7 +3585,7 @@
       if (!textarea) return false;
       const previousHeight = textarea.style.height;
       textarea.style.height = "";
-      const hasHiddenContent = textarea.scrollHeight > textarea.clientHeight + 2;
+      const hasHiddenContent = textarea.scrollHeight > textarea.clientHeight + CLIPPED_CONTENT_TOLERANCE_PX;
       textarea.style.height = previousHeight;
       return hasHiddenContent;
     }
@@ -2642,21 +3676,30 @@
       textarea.dataset.footnoteId = footnote.id;
       textarea.value = footnote.content;
       textarea.setAttr("spellcheck", "true");
-      this.updateExpandButtonVisibility(textarea, expandButton, footnote.id, strings);
+      const useRenderedState = this.isMarkdownRenderingEnabled() && footnote.id !== this.editingFootnoteId;
+      if (useRenderedState) {
+        this.mountRenderedContent(itemEl, textarea, footnote.id, footnote.content, () => {
+          this.updateExpandButtonVisibility(this.getMeasurableContentEl(itemEl), expandButton, footnote.id, strings);
+        });
+      }
+      this.updateExpandButtonVisibility(this.getMeasurableContentEl(itemEl), expandButton, footnote.id, strings);
 
       const footerEl = itemEl.createDiv({ cls: "bfw-footer" });
-      const countEl = footerEl.createSpan({ text: this.formatFootnoteCountForDisplay(textarea.value, strings) });
+      const countEl = footerEl.createSpan({ cls: "bfw-count", text: this.formatFootnoteCountForDisplay(textarea.value, strings) });
       const statusEl = footerEl.createSpan({ cls: "bfw-status", text: strings.saved });
 
       itemEl.addEventListener("click", (event) => {
         if (event.target?.closest?.(".bfw-definition-button")) return;
         if (event.target?.closest?.(".bfw-reference-nav")) return;
         if (event.target?.closest?.(".bfw-editor")) return;
+        if (event.target?.closest?.(".bfw-rendered")) return;
+        if (event.target?.closest?.(".bfw-live-host")) return;
         this.activateFootnoteFromSidebar(footnote.id, { selectSearchMatch: true });
       });
 
       itemEl.addEventListener("contextmenu", (event) => {
         if (event.target?.closest?.(".bfw-editor")) return;
+        if (event.target?.closest?.(".bfw-live-host")) return;
         event.preventDefault();
         event.stopPropagation();
         this.plugin.suppressCursorSyncFromSidebarJump();
@@ -2679,11 +3722,7 @@
       });
 
       textarea.addEventListener("focus", () => {
-        if (this.suppressTextareaFocusJump) {
-          this.focusFootnote(footnote.id, { scroll: false, focusEditor: false });
-          return;
-        }
-        this.activateFootnoteFromSidebar(footnote.id, { selectSearchMatch: false });
+        if (!this.applyEditSurfaceFocus(footnote.id, textarea)) return;
         window.setTimeout(() => {
           if (document.activeElement !== textarea) {
             textarea.focus();
@@ -2692,30 +3731,57 @@
       });
 
       textarea.addEventListener("input", () => {
-        itemEl.addClass("is-dirty");
-        countEl.setText(this.formatFootnoteCountForDisplay(textarea.value, strings));
-        statusEl.setText(strings.saving);
+        this.applyEditSurfaceInput(footnote.id, textarea.value, { itemEl, countEl, statusEl, strings });
         if (this.isFootnoteExpanded(footnote.id)) {
           this.applyTextareaHeight(textarea, true);
         }
         this.updateExpandButtonVisibility(textarea, expandButton, footnote.id, strings);
-        this.queueSave(footnote.id, textarea.value, statusEl, itemEl);
+      });
+
+      textarea.addEventListener("mousedown", () => {
+        if (textarea.readOnly) {
+          textarea.readOnly = false;
+        }
       });
 
       textarea.addEventListener("keydown", (event) => {
+        if (textarea.readOnly && !event.isComposing) {
+          if (event.key === "Enter") {
+            event.preventDefault();
+            this.navigateSearch(event.shiftKey ? -1 : 1);
+            return;
+          }
+          if (event.key === "Escape") {
+            event.preventDefault();
+            event.stopPropagation();
+            textarea.readOnly = false;
+            this.searchInputEl?.focus();
+            return;
+          }
+        }
         if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "s") {
           event.preventDefault();
           this.flushSave(footnote.id, textarea.value, statusEl, itemEl);
         }
+        if (event.key === "Escape" && !event.isComposing && this.isMarkdownRenderingEnabled()) {
+          event.preventDefault();
+          event.stopPropagation();
+          // Same echo guard as the live editor's Escape branch: the exit must
+          // not let the parked cursor position re-expand the card via sync.
+          this.plugin.suppressCursorSyncFromSidebarJump();
+          textarea.blur();
+        }
       });
 
       textarea.addEventListener("blur", () => {
-        this.flushSave(footnote.id, textarea.value, statusEl, itemEl).finally(() => {
-          if (this.pendingRender) {
-            this.pendingRender = false;
-            this.scheduleRender();
-          }
-        });
+        textarea.readOnly = false;
+        this.handleEditSurfaceBlur(
+          footnote.id,
+          textarea.value,
+          statusEl,
+          itemEl,
+          () => document.activeElement === textarea
+        );
       });
     }
 
@@ -2781,7 +3847,7 @@
 
     focusFootnote(footnoteId, options = {}) {
       if (options.fromCursor) {
-        this.pauseSearchModeForEditorSync();
+        this.pauseSearchModeForEditorSync(footnoteId);
       }
       this.activeFootnoteId = footnoteId;
       if (options.autoExpandSource === "sync") {
@@ -2814,15 +3880,25 @@
       const target = Array.from(items).find((item) => item.dataset.footnoteId === footnoteId);
       if (!target) return;
       this.updateReferenceNavDisplay(footnoteId);
+      const contentEl = this.getMeasurableContentEl(target);
       const textarea = target.querySelector(".bfw-editor");
-      if (options.expandIfClipped && textarea && !this.isFootnoteExpanded(footnoteId) && this.hasHiddenTextareaContent(textarea)) {
+      if (options.expandIfClipped && contentEl && !this.isFootnoteExpanded(footnoteId) && this.hasHiddenContent(contentEl)) {
         this.setFootnoteExpanded(footnoteId, true, { source: options.autoExpandSource || "sync" });
-        this.applyTextareaHeight(textarea, true);
-      } else if (textarea && this.isFootnoteExpanded(footnoteId)) {
-        this.applyTextareaHeight(textarea, true);
+      } else if (contentEl?.tagName === "TEXTAREA" && this.isFootnoteExpanded(footnoteId)) {
+        this.applyTextareaHeight(contentEl, true);
       }
       if (options.scroll) {
-        if (options.scrollBlock === "start" && this.listEl) {
+        if (options.scrollBlock === "start-if-hidden" && this.listEl) {
+          // Hybrid rule (1.5.2): a card already fully in view stays put; an
+          // off-screen (or clipped) card scrolls to the familiar top position.
+          const listRect = this.listEl.getBoundingClientRect();
+          const targetRect = target.getBoundingClientRect();
+          const fullyVisible = targetRect.top >= listRect.top - 2 && targetRect.bottom <= listRect.bottom + 2;
+          if (!fullyVisible) {
+            const top = Math.max(0, target.offsetTop - this.listEl.offsetTop);
+            this.listEl.scrollTo({ top, behavior: "auto" });
+          }
+        } else if (options.scrollBlock === "start" && this.listEl) {
           const top = Math.max(0, target.offsetTop - this.listEl.offsetTop);
           this.listEl.scrollTo({ top, behavior: "auto" });
         } else {
@@ -2830,7 +3906,13 @@
         }
       }
       if (options.focusEditor) {
-        textarea?.focus();
+        if (this.liveEditor?.footnoteId === footnoteId) {
+          this.liveEditor.instance?.cm?.focus?.();
+        } else if (this.isMarkdownRenderingEnabled() && this.editingFootnoteId !== footnoteId) {
+          this.enterFootnoteEditMode(footnoteId);
+        } else {
+          textarea?.focus();
+        }
       }
     }
   }
