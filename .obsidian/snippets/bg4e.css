@@ -1,13 +1,18 @@
+/* AndleyFont：希腊字符使用 Gentium Book Plus */
 @font-face {
   font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* 希腊字母 + 希腊扩展 */
   src: local("Gentium Book Plus");
-  }
+  font-display: swap;
+}
+
+/* AndleyFont：希伯来字符使用 Ezra SIL */
 @font-face {
   font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* 希伯来基础 + 希伯来连字变体 */
   src: local("Ezra SIL");
-  }
+  font-display: swap;
+}
 
 h1, .HyperMD-header-1 { text-decoration-line: underline; text-decoration-style: double;}
 h1, .HyperMD-header-1, h2, .HyperMD-header-2 { text-align: center; ;}
@@ -21,26 +26,21 @@ html, body, p, li {
 ruby {
   font-size: 1em ; 
   ruby-align:start;
-  font-family:  AndleyFont;
-  padding-right: 0.1em;
+  font-family:  AndleyFont,  serif;;
+  padding-right: 0.1;
   line-height:5em;
 }
 
 rt {
   font-size: 0.85em ; 
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif; ;
 } 
 
 li ruby {
-  line-height: 4em;
-}
-
-li:not(:has(ruby)) {
-  line-height: 1.5em;
+  line-height: 4.2em;
 }
 
 a {text-decoration: none; color: var(--text-link); }
-
 /* --------- table -----------------------------------   */
 .markdown-preview-view table {
   margin-left: auto;
@@ -71,11 +71,12 @@ a {text-decoration: none; color: var(--text-link); }
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
   font-family: "Noto Sans ExtraCondensed";
-  font-size:11px;
+  font-size:0.8em;
 }
 
 span.cm-hmd-frontmatter.cm-string {
   color: var(--text-muted);
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
   font-size: 1em;
 }
 /* ============= Obsidian 介面 ================== */
@@ -99,6 +100,7 @@ span.cm-hmd-frontmatter.cm-string {
   --color-base-40: silver;
   --table-cell-vertical-alignment: middle;
   --table-border-color: silver;
+  --font-text: AndleyFont, "Noto Sans", "Noto Sans TC";
   }
 
 .theme-light {
@@ -121,5 +123,14 @@ span.cm-hmd-frontmatter.cm-string {
   --color-base-40: darkblue;
   --table-cell-vertical-alignment: middle;
   --table-border-color: gray;
+  --font-text: AndleyFont, "Noto Sans", "Noto Sans TC";
 }
 
+body:not(.swcm6-nix-plugin-styles) {
+  --swcm6-space-bg-image:
+    radial-gradient(
+      circle at 50% 55%,
+      var(--swcm6-whitespace-color) 0 15%,
+      transparent 5%
+    );
+}

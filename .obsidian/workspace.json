@@ -6,6 +6,7 @@
       {
         "id": "5779b08d2976e333",
         "type": "tabs",
+        "dimension": 47.94608472400513,
         "children": [
           {
             "id": "449dcaed62887891",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "48-Galatians/Gal.3.1-14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
+              "title": "Gal.3.1-14"
             },
             "group": "4f91820b629c6d25"
           }
@@ -27,6 +28,7 @@
       {
         "id": "2f9ef02274afc139",
         "type": "tabs",
+        "dimension": 52.05391527599487,
         "children": [
           {
             "id": "d71c6a0451efe038",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "48-Galatians/Gal.3.1-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
+              "title": "Gal.3.1-14"
             },
             "group": "4f91820b629c6d25"
           }
@@ -77,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "48-Galatians/Gal.3.1-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -120,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.2076721191406
+    "width": 356.9110412597656,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -234,33 +237,33 @@
   },
   "active": "449dcaed62887891",
   "lastOpenFiles": [
+    "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Pasted image 20260811160939.png",
+    "48-Galatians/Gal.3.1-14.md",
+    "48-Galatians/old-Gal.2.15-21.md",
+    "template/template.md",
+    "template/HW.md",
+    "template/Book-Notes.md",
+    "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Gal.2.11-14.md",
+    "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.1.11-24.md",
+    "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Galatians-Interlinear-2lines.md",
+    "48-Galatians/Galatians-Interlinear-3lines.md",
+    "48-Galatians/Galatians-Interlinear-2.5lines.md",
+    "48-Galatians/old-Gal.1.1-5.md",
     "README.md",
     "Mounce-Syntax-Summary.md",
     "Living Greek Resources.md",
     "Greek Pedagogy.md",
     "Tools/KB_Greek_polytonic_Unicode.svg",
     "test.md",
-    "48-Galatians/Galatians-Notes.md",
     "_index.md",
-    "48-Galatians/Galatians-Interlinear-4lines.md",
     "Syntax/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "Syntax/Complement vs. Adjunct 判準總表.md",
-    "48-Galatians/Gal.1.1-5.md",
-    "48-Galatians/Gal.3.1-6.md",
-    "48-Galatians/Gal.3.7-14.md",
-    "48-Galatians/Gal.2.15-21.md",
-    "48-Galatians/Gal.2.11-14.md",
-    "48-Galatians/Gal.2.11-21.md",
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Gal.1.11-24.md",
-    "48-Galatians/Gal.2.6-10.md",
-    "48-Galatians/Gal.2.1-5.md",
-    "48-Galatians/Gal.1.18-24.md",
-    "48-Galatians/Gal.1.13-17.md",
-    "48-Galatians/Gal.1.6-10.md",
-    "48-Galatians/Gal.1.11-12.md",
-    "48-Galatians/Gal.1.10.md",
-    "48-Galatians/old-Gal.1.6-9.md",
     "content/Tools/AI Skills",
     "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
     "public/en.search-data.min.1aadd8206ecd96ad8d0c46d723d59efc548174dc144317b40f99cefb3d1c342a.json",
@@ -278,7 +281,6 @@
     "static/images/Pasted image 20260106152253.png",
     "static/images/Pasted image 20260106152049.png",
     "static/images/Pasted image 20260106083511.png",
-    "static/images/Pasted image 20260106082144.png",
-    "static/images/Pasted image 20260106082136.png"
+    "static/images/Pasted image 20260106082144.png"
   ]
 }

@@ -1,13 +1,11 @@
----
-title: "加拉太書句法筆記"
-weight: 01
----
-
 # 加拉太書希臘文筆記
 ## ΠΡΟΣ ΓΑΛΑΤΑΣ
 
 ### 經文閱讀
 -  [加拉太書 (四行 Interlinear)](Galatians-Interlinear-4lines.md)
+- [加拉太書 (三行 Interlinear)](Galatians-Interlinear-3lines.md)
+- [加拉太書 (兩行半 Interlinear)](Galatians-Interlinear-2.5lines.md)
+- [加拉太書 (兩行 Interlinear)](Galatians-Interlinear-2lines.md)
 
 ### 原文特色
 - [加拉太書子句結構](Galatians-Clause.md)

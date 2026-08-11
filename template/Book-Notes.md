@@ -1,9 +1,3 @@
----
-title: "Book-Notes"
-date: 2026-07-04
-draft: false
----
-
 
 # 彼得前書希臘文筆記
 
