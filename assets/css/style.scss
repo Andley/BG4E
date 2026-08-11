@@ -1,7 +1,31 @@
 ---
+# 必須保留這兩行 front matter，Jekyll 才會自動編譯 Sass
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-leap-day";
+
+/* ========================================================
+   修改 Jekyll Leap-Day 主題的容器寬度
+   ======================================================= */
+
+/* 1. 擴充主容器與版頭寬度 */
+div.wrapper,
+header,
+section,
+footer {
+  max-width: 1200px !important; /* 原預設約為 680px ~ 800px，可依需求改為 1200px 或 95% */
+  width: 95% !important;        /* 在小螢幕上保持自適應留邊 */
+}
+
+/* 2. 擴充主要內容區域 (section) */
+section {
+  max-width: 1200px !important;
+}
+
+/* 3. 如果想讓聖經 Interlinear 橫向顯示更多單字，可以將間距稍微微調 */
+#main_content {
+  width: 100% !important;
+}
 
 
 /* 設定字型 */
@@ -64,7 +88,6 @@ html, body, p, li {
   /* 第四行：最底層原文經文 (Surface Text，如 Παῦλος) */
   font-size: 18px !important;
   line-height: 1.2 !important;
-  color: #ffffff !important;
   font-family: 'AndleyFont', serif !important;
 }
 
@@ -94,7 +117,6 @@ ruby rt, RUBY rt {
 :not(ruby):not(RUBY) > ruby > rt,
 :not(ruby):not(RUBY) > RUBY > rt {
   font-size: 12px !important;
-  color: #ffffff !important;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", sans-serif !important;
 }
 
@@ -102,14 +124,12 @@ ruby rt, RUBY rt {
 ruby > ruby > rt,
 RUBY > RUBY > rt {
   font-size: 15px !important;
-  color: #5af78e !important;                 /* 亮綠色原形 */
   font-family: 'AndleyFont', sans-serif !important;
 }
 
 /* 第二行原形內部的超連結 (a 標籤) */
 ruby > ruby > rt a,
 RUBY > RUBY > rt a {
-  color: #5af78e !important;                 /* 繼承綠色 */
   text-decoration: none !important;          /* 移除底線 */
   border-bottom: none !important;
 }
@@ -118,22 +138,8 @@ RUBY > RUBY > rt a {
 ruby > ruby > ruby > rt,
 RUBY > RUBY > RUBY > rt {
   font-size: 13px !important;
-  color: #ffffff !important;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑", sans-serif !important;
 }
-
-/* 特殊標籤配色 (如分詞 .ptc 顯示為藍色) */
-.ptc {
-  color: #4a90e2 !important;                 /* 圖片中 ἐγείραντος 的藍色 */
-}
-
-/* 標點符號 (punctuation) 樣式微調 */
-.punctuation {
-  font-size: 18px;
-  color: #ffffff;
-  margin-right: 6px;
-}
-
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
 
