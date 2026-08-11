@@ -9,26 +9,28 @@
    ======================================================= */
 
 /* 1. 擴充主容器與版頭寬度 */
-div.wrapper,
-header,
-section,
-footer {
-  max-width: 1200px !important; /* 原預設約為 680px ~ 800px，可依需求改為 1200px 或 95% */
-  width: 95% !important;        /* 在小螢幕上保持自適應留邊 */
+/* 1200px 總寬度限制 */
+div.wrapper {
+  max-width: 1200px !important; /* 修正為最大 1200px */
+  width: 95% !important;
+  margin: 0 auto !important;
 }
 
-/* 2. 擴充主要內容區域 (section) */
+/* 固定左側選單 (header) 寬度，防止被擠壓或排版走樣 */
+header {
+  width: 220px !important;
+  float: left !important;
+  position: relative !important;
+}
+
+/* 右側內文區 (section) 自動填滿剩餘空間，與選單保持適當間距 */
 section {
-  max-width: 1200px !important;
+  width: calc(100% - 250px) !important; /* 扣除選單 220px 與 30px 間距 */
+  max-width: none !important;
+  float: right !important;
 }
 
-/* 3. 如果想讓聖經 Interlinear 橫向顯示更多單字，可以將間距稍微微調 */
-#main_content {
-  width: 100% !important;
-}
-
-
-/* 設定字型 */
+/* =========== 設定字型 =========== */
 @font-face {
   font-family: 'AndleyFont';
   unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek and Coptic, Greek Extended */
@@ -36,14 +38,11 @@ section {
   src: local("Gentium Book Plus"); 
 }
 
-/* 2. 定義 AndleyFont 的希伯來文範圍 */
 @font-face {
   font-family: 'AndleyFont';
   unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew, Alphabetic Presentation Forms */
   src: local("Noto Serif Hebrew");
 }
-
-
 
 html, body, p, li {
     color: black;
@@ -82,11 +81,11 @@ html, body, p, li {
   flex-direction: column-reverse !important; /* 核心關鍵：反轉排列順序，讓 rt 堆疊在上方 */
   align-items: flex-start !important;        /* 所有人靠左對齊 */
   text-align: left !important;
-  margin: 0 12px 16px 0 !important;          /* 單字間距與折行行距 */
+  margin: 0 3px 3px 0 !important;          /* 單字間距與折行行距 */
   vertical-align: bottom !important;         /* 讓 1:1 章節號與最底層經文對齊 */
   
   /* 第四行：最底層原文經文 (Surface Text，如 Παῦλος) */
-  font-size: 18px !important;
+  font-size: 16px !important;
   line-height: 1.2 !important;
   font-family: 'AndleyFont', serif !important;
 }
@@ -116,14 +115,14 @@ ruby rt, RUBY rt {
 /* 第一行：語法標記 POS (最外層 rt，如 N-NSM) */
 :not(ruby):not(RUBY) > ruby > rt,
 :not(ruby):not(RUBY) > RUBY > rt {
-  font-size: 12px !important;
+  font-size: 13px !important;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", sans-serif !important;
 }
 
 /* 第二行：希臘文原形 Lemma (中間層 rt，如 green Παῦλος) */
 ruby > ruby > rt,
 RUBY > RUBY > rt {
-  font-size: 15px !important;
+  font-size: 13px !important;
   font-family: 'AndleyFont', sans-serif !important;
 }
 
@@ -150,7 +149,7 @@ body.one-line-mode RUBY {
   display: inline !important;
   margin: 0 !important;
   width: auto !important;
-  font-size: 18px !important;
+  font-size: 16px !important;
 }
 
 body.one-line-mode :not(ruby):not(RUBY) > ruby,
