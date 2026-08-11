@@ -1,7 +1,3 @@
----
-title: "Gal 1:1-5"
----
-
 ### Salutation (Gal 1.1-5)
 
 #### 句法圖析 (Syntactic Diagram)

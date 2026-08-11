@@ -1,6 +1,3 @@
----
-title: "Gal 2:15-21"
----
 ### Jews, like Gentiles, are Saved by Faith (Gal 2:15-21)
 
 

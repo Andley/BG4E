@@ -22,6 +22,7 @@ ruby {
   font-size: 1em ; 
   ruby-align:start;
   font-family:  AndleyFont;
+  padding-right: 0.1em;
   line-height:5em;
 }
 

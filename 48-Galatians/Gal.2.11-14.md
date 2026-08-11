@@ -1,6 +1,3 @@
----
-title: "Gal 2:11-14"
----
 ### Paul Rebukes Peter at Antioch (Gal 2:11-14)
 
 #### 句法圖析 (Syntactic Diagram)

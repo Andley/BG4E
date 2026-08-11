@@ -1,7 +1,3 @@
----
-title: "Gal 1:11-24"
----
-
 ### How Paul Became an Apostle (Gal 1:11-24)
 
 #### 句法圖析 (Syntactic Diagram)

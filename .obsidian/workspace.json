@@ -9,17 +9,17 @@
         "dimension": 55.627198124267295,
         "children": [
           {
-            "id": "09da7fe3ce60f9ae",
+            "id": "449dcaed62887891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Notes.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Notes"
+              "title": "README"
             }
           }
         ]
@@ -33,14 +33,10 @@
             "id": "7fb21154250a8888",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.1.6-9.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gal.1.6-9"
+              "title": "New tab"
             }
           }
         ]
@@ -77,13 +73,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline"
             }
           },
           {
@@ -232,37 +228,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09da7fe3ce60f9ae",
+  "active": "449dcaed62887891",
   "lastOpenFiles": [
-    "48-Galatians/Gal.1.1-5.md",
+    "_index.md",
+    "README.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Galatians-Notes.md",
+    "Syntax/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
+    "Syntax/Complement vs. Adjunct 判準總表.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Gal.3.1-6.md",
+    "48-Galatians/Gal.3.7-14.md",
+    "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Gal.2.11-14.md",
+    "48-Galatians/Gal.2.11-21.md",
+    "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.1.11-24.md",
+    "48-Galatians/Gal.2.6-10.md",
+    "48-Galatians/Gal.2.1-5.md",
+    "48-Galatians/Gal.1.18-24.md",
+    "48-Galatians/Gal.1.13-17.md",
+    "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.11-12.md",
+    "48-Galatians/Gal.1.10.md",
+    "48-Galatians/old-Gal.1.6-9.md",
     "48-Galatians/Gal.1.6-9.md",
-    "48-Galatians/Complement vs. Adjunct 判準總表.md",
-    "48-Galatians/_index.md",
-    "48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
+    "48-Galatians/old-Gal.1.1-5.md",
+    "48-Galatians/Galatians-Interlinear-2lines.md",
+    "48-Galatians/Galatians-Interlinear-3lines.md",
     "content/Tools/AI Skills",
-    "content/Tools/_index.md",
-    "content/Tools/AI Skills/新約句法分析.md",
-    "content/Tools/AI 工具.md",
-    "content/48-Galatians/Gal.2.15-21.md",
-    "content/Tools/Phrasing-Signs.md",
-    "content/48-Galatians/Gal.2.11-14.md",
-    "content/48-Galatians/Gal.2.1-10.md",
-    "content/48-Galatians/Gal.1.11-24.md",
-    "content/48-Galatians/Gal.1.6-10.md",
-    "content/48-Galatians/Gal.1.1-5.md",
-    "content/48-Galatians/Galatians-Interlinear-4lines.md",
     "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
     "public/en.search-data.min.1aadd8206ecd96ad8d0c46d723d59efc548174dc144317b40f99cefb3d1c342a.json",
-    "content/48-Galatians/Galatians-Interlinear-3lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2lines.md",
-    "content/48-Galatians/Galatians-Interlinear-2.5lines.md",
-    "content/48-Galatians/Galatians-Intertextuality.md",
-    "content/48-Galatians/Galatians-Notes.md",
-    "content/Semantics/synonyms.md",
-    "content/48-Galatians/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
-    "content/Semantics/Louw-Nida §89-§91.md",
-    "content/Semantics/Idioms.md",
     "public/48-galatians/Galatians-Notes.md/index.xml",
     "public/48-galatians/Galatians-Notes.md/index.html",
     "public/48-galatians/galatians-notes/index.xml",
