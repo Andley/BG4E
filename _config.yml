@@ -1,26 +1,12 @@
-# ==========================================
-# 核心主題設定
-# ==========================================
-remote_theme: just-the-docs/just-the-docs@v0.12.0
-jekyll-default-layout:
-  enabled: false
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
+
+# theme: jekyll-theme-leap-day
 # markdown: GFM
 
 title: 全民希臘文 (BG4E)
 description: Biblical Greek for Everyone (BG4E)
 show_downloads: false
-search_enabled: true         # 自動開啟左上角超流暢全文搜尋
-heading_anchors: true        # 滑鼠移到標題時自動出現連結錨點
-color_scheme: dark           # 如果喜歡黑夜模式可開啟（預設為 light）
-
-
-defaults:
-  - scope:
-      path: ""               # "" 代表專案內的所有檔案與資料夾
-    values:
-      layout: "default"      # 自動幫所有 md 檔套用主題版面
-      nav_exclude: false     # 預設所有檔案都自動顯示在左側選單中
 
