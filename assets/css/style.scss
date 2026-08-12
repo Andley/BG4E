@@ -2,11 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-/* Adjust the total layout constraints */
-.wrapper {
-  width: 900px; /* Changes default 650px width */
-  max-width: 95%; /* Ensures small screens do not get horizontal scrollbars */
-}
 
 
 /* ==========================================================================
