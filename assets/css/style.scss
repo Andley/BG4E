@@ -63,12 +63,16 @@ li ruby {
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
+body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
-  line-height:1.2em;
+  display: inline !important;
+  margin: 0 !important;
   width: auto !important;             /* 恢復單行時不要強制撐寬 */
+}
+body.one-line-mode :not(ruby) > ruby {
+  font-weight: normal !important;
   cursor: help !important; /* 一行模式時滑鼠變問號 */
 }
-
 body.one-line-mode ruby rt {
   display: none !important; /* 點擊後隱藏所有解釋行 */
 }
