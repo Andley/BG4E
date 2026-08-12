@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2f9ef02274afc139",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d71c6a0451efe038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            },
-            "group": "8c3f16c281637a81"
-          }
-        ]
-      },
-      {
         "id": "65876c79dfb71d31",
         "type": "tabs",
         "children": [
@@ -32,16 +11,11 @@
             "id": "df65ef5f3534679f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            },
-            "group": "8c3f16c281637a81"
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -232,10 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d71c6a0451efe038",
+  "active": "df65ef5f3534679f",
   "lastOpenFiles": [
-    "48-Galatians/Gal.3.15-20.md",
+    "_includes/head.html.md",
+    "_includes/head-custom.html",
+    "_includes/head.html",
     "_includes/head-custom.html.md",
+    "README.md",
+    "48-Galatians/Gal.3.15-20.md",
     "Living Greek Resources.md",
     "_includes",
     "48-Galatians/Gal.3.1-14.md",
@@ -259,9 +237,6 @@
     "48-Galatians/Galatians-Interlinear-3lines.md",
     "48-Galatians/Galatians-Interlinear-2.5lines.md",
     "48-Galatians/old-Gal.1.1-5.md",
-    "README.md",
-    "Mounce-Syntax-Summary.md",
-    "Greek Pedagogy.md",
     "Tools/KB_Greek_polytonic_Unicode.svg",
     "content/Tools/AI Skills",
     "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
@@ -270,8 +245,6 @@
     "public/48-galatians/Galatians-Notes.md/index.html",
     "public/48-galatians/galatians-notes/index.xml",
     "public/48-galatians/Galatia/index.xml",
-    "public/48-galatians/Galatia/index.html",
-    "public/48-galatians/Galatia",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
