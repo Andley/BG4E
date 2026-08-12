@@ -45,6 +45,7 @@ html, body, p, li {
     margin-bottom: 0em;
   }
 
+  /* ==================== 切換狀態：四行模式 (four-line) ==================== */
 ruby {
   font-size: 1em ; 
   ruby-align:start;
@@ -62,20 +63,15 @@ li ruby {
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
-body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
-  display: inline !important;
-  margin: 0 !important;
+  line-height:1.2em;
   width: auto !important;             /* 恢復單行時不要強制撐寬 */
-}
-body.one-line-mode :not(ruby) > ruby {
-  font-weight: normal !important;
   cursor: help !important; /* 一行模式時滑鼠變問號 */
 }
+
 body.one-line-mode ruby rt {
   display: none !important; /* 點擊後隱藏所有解釋行 */
 }
-
 
 	/* ══════════════ /*
   /* page layout */
