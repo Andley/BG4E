@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear-4lines.md",
+                "file": "48-Galatians/Gal.3.15-20.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-4lines"
+              "title": "Gal.3.15-20"
             },
             "group": "ec852b445dacd73e"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear-4lines.md",
+                "file": "48-Galatians/Gal.3.15-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-4lines"
+              "title": "Gal.3.15-20"
             },
             "group": "ec852b445dacd73e"
           }
@@ -234,8 +234,8 @@
   },
   "active": "df65ef5f3534679f",
   "lastOpenFiles": [
-    "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Gal.3.15-20.md",
     "_includes/head.html.md",
     "_includes/head-custom.html",
     "_includes/head.html",

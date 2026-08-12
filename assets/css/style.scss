@@ -87,10 +87,14 @@ body.one-line-mode ruby rt {
     margin: 0 auto;
   }
 
+  .wrapper {
+  width:1200px;
+  }
+
   section {
     margin-top: 100px;
     padding-top:20px;
-    max-width: 100%; // 讓內容區塊可以撐滿外層的 .wrapper
+    width:1024px;
   }
 
   ul li::marker {
