@@ -1,101 +1,66 @@
 ---
-# 必須保留這兩行 front matter，Jekyll 才會自動編譯 Sass
+# 保留這兩行 front matter 讓 Jekyll 自動編譯 Sass
 ---
 
 @import "jekyll-theme-leap-day";
 
-/* ========================================================
-   修改 Jekyll Leap-Day 主題的容器寬度
-   ======================================================= */
+/* ==========================================================================
+   1. 版面結構修復 (CSS Grid / 最大寬度 1200px / 左側 Menu 歸位)
+   ========================================================================== */
 
-/* 1. 擴充主容器與版頭寬度 */
-/* 1200px 總寬度限制 */
+/* 清除原本主題干擾佈局的 float 與定位 */
+header, section {
+  float: none !important;
+  position: static !important;
+}
+
+/* 主容器：採用 Grid 雙欄網格 */
 div.wrapper {
-  max-width: 1200px !important; /* 修正為最大 1200px */
+  max-width: 1200px !important;               /* 限制最大寬度 1200px */
   width: 95% !important;
   margin: 0 auto !important;
+  
+  display: grid !important;                   /* 開啟 Grid 模式 */
+  grid-template-columns: 240px 1fr !important; /* 左欄固定 240px，右欄自動填滿 */
+  column-gap: 30px !important;                /* 兩欄之間的間距 */
+  align-items: start !important;
 }
 
-/* 固定左側選單 (header) 寬度，防止被擠壓或排版走樣 */
+/* 左側選單區域 (header) */
 header {
-  width: 220px !important;
-  float: left !important;
-  position: relative !important;
+  width: 100% !important;
+  grid-column: 1 !important;                  /* 鎖定在第 1 欄 */
 }
 
-/* 右側內文區 (section) 自動填滿剩餘空間，與選單保持適當間距 */
+/* 右側主要內容區 (section) */
 section {
-  width: calc(100% - 250px) !important; /* 扣除選單 220px 與 30px 間距 */
+  width: 100% !important;
   max-width: none !important;
-  float: right !important;
+  grid-column: 2 !important;                  /* 鎖定在第 2 欄 */
 }
 
-section p, 
-#main_content p {
-  font-size: 16px !important;          /* 讓 1:1 與 Παῦλος 等大 */
-  line-height: 1.2 !important;         /* 統一行高，避免 1:1 被推高或下壓 */
-}
-/* =========== 設定字型 =========== */
-@font-face {
-  font-family: 'AndleyFont';
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek and Coptic, Greek Extended */
-  /* 優先找本機字型，找不到就往後 fallback 到你網頁原本有引入的 Google Fonts 網路字型 */
-  src: local("Gentium Book Plus"); 
-}
 
-@font-face {
-  font-family: 'AndleyFont';
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew, Alphabetic Presentation Forms */
-  src: local("Noto Serif Hebrew");
-}
+/* ==========================================================================
+   2. 聖經逐字對齊（四行 Interlinear 模式）
+   ========================================================================== */
 
-html, body, p, li {
-    color: black;
-    font-family: 'AndleyFont', sans-serif;
-  }
-
-  h1 {
-    color: #C00000;
-    text-align: center;
-    border-bottom: 4px double ;
-  }
-
-  h1, h3, h5 {
-    text-align: center;
-  }
-
-  h2, h3, h4, h5, h6 {
-    margin-top: 10px;
-    color:black;
-  }
-
-  ul   {
-    margin-bottom: 0em;
-  }
-
-/* ========================================================
-   聖經逐字對齊（四行 / 一行模式）核心切換語法
-   ======================================================= */
-
-/* ==================== 預設狀態：四行模式 (Interlinear) ==================== */
-
-/* 僅針對最外層沒有被其他 ruby 包裹的 ruby 進行排版 */
+/* 最外層單字塊：彈性垂直反轉，並以文字基準線對齊旁邊的 1:1 章節號 */
 :not(ruby):not(RUBY) > ruby,
 :not(ruby):not(RUBY) > RUBY {
   display: inline-flex !important;
-  flex-direction: column-reverse !important; /* 核心關鍵：反轉排列順序，讓 rt 堆疊在上方 */
-  align-items: flex-start !important;        /* 所有人靠左對齊 */
+  flex-direction: column-reverse !important;  /* 反轉 HTML 順序，將 rt 堆疊在上方 */
+  align-items: flex-start !important;         /* 內容物一律靠左對齊 */
   text-align: left !important;
-  vertical-align: baseline !important; /* 改用 baseline 讓 1:1 與 Παῦλος 底部字線完美貼合 */
-  margin-bottom: 0 !important;
+  margin: 0 12px 16px 0 !important;           /* 單字左右間距與折行行距 */
+  vertical-align: baseline !important;        /* 讓底部原文與 1:1 章節號對齊 */
   
-  /* 第四行：最底層原文經文 (Surface Text，如 Παῦλος) */
-  font-size: 16px !important;
+  /* 第四行：最底層希臘文經文 (Surface Text，如 Παῦλος) */
+  font-size: 16px !important;                 /* 設定為 16px */
   line-height: 1.2 !important;
   font-family: 'AndleyFont', serif !important;
 }
 
-/* 內層所有嵌套的 ruby 保持垂直反轉與靠左 */
+/* 內層所有嵌套的 ruby 結構 */
 ruby ruby, RUBY RUBY {
   display: flex !important;
   flex-direction: column-reverse !important;
@@ -104,27 +69,28 @@ ruby ruby, RUBY RUBY {
   width: 100% !important;
 }
 
-/* 通用 rt 基礎設定 */
+/* 通用 rt 標註屬性（上方三行統一為 13px） */
 ruby rt, RUBY rt {
   display: block !important;
   width: 100% !important;
   text-align: left !important;
-  white-space: nowrap !important;            /* 強制內容不折行 */
+  white-space: nowrap !important;             /* 強制內容不折行 */
   font-weight: normal !important;
-  line-height: 1 !important;
+  line-height: 1.3 !important;
   margin: 1px 0 !important;
+  font-size: 13px !important;                 /* 上方三行統一 13px */
 }
 
-/* ------------------- 各行獨立外觀控制 ------------------- */
+/* ------------------ 各層字體獨立設定（不干涉顏色） ------------------ */
 
-/* 第一行：語法標記 POS (最外層 rt，如 N-NSM) */
+/* 第一行：語法標記 POS (最外層 rt) */
 :not(ruby):not(RUBY) > ruby > rt,
 :not(ruby):not(RUBY) > RUBY > rt {
   font-size: 13px !important;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", sans-serif !important;
 }
 
-/* 第二行：希臘文原形 Lemma (中間層 rt，如 green Παῦλος) */
+/* 第二行：希臘文原形 Lemma (中間層 rt) */
 ruby > ruby > rt,
 RUBY > RUBY > rt {
   font-size: 13px !important;
@@ -134,18 +100,36 @@ RUBY > RUBY > rt {
 /* 第二行原形內部的超連結 (a 標籤) */
 ruby > ruby > rt a,
 RUBY > RUBY > rt a {
-  text-decoration: none !important;          /* 移除底線 */
+  text-decoration: none !important;           /* 移除底線 */
   border-bottom: none !important;
 }
 
-/* 第三行：中英文字義 Gloss (最內層 rt，如 保羅 Paul) */
+/* 第三行：中英文字義 Gloss (最內層 rt) */
 ruby > ruby > ruby > rt,
 RUBY > RUBY > RUBY > rt {
   font-size: 13px !important;
   font-family: 'AndleyFont', "Noto Sans ExtraCondensed", "未來熒黑", sans-serif !important;
 }
 
-/* ==================== 切換狀態：一行模式 (one-line) ==================== */
+/* ------------------ 章節號與標點符號 ------------------ */
+
+/* 讓經文段落內的 1:1 等章節號，與第四行希臘文 (16px) 等大 */
+section p, 
+#main_content p {
+  font-size: 16px !important;
+  line-height: 1.2 !important;
+}
+
+/* 標點符號 */
+.punctuation {
+  font-size: 16px !important;
+  margin-right: 6px;
+}
+
+
+/* ==========================================================================
+   3. 聖經逐字對齊（一行 One-line 模式）
+   ========================================================================== */
 
 body.one-line-mode :not(ruby):not(RUBY) > ruby,
 body.one-line-mode :not(ruby):not(RUBY) > RUBY,
@@ -154,117 +138,15 @@ body.one-line-mode RUBY {
   display: inline !important;
   margin: 0 !important;
   width: auto !important;
-  font-size: 16px !important;
+  font-size: 16px !important;                 /* 一行模式同步維持 16px */
 }
 
 body.one-line-mode :not(ruby):not(RUBY) > ruby,
 body.one-line-mode :not(ruby):not(RUBY) > RUBY {
-  cursor: help !important;                   /* 一行模式時滑鼠變成問號提示 */
+  cursor: help !important;                    /* 切換為一行模式時滑鼠顯示問號 */
 }
 
 body.one-line-mode ruby rt,
 body.one-line-mode RUBY rt {
-  display: none !important;                  /* 點擊後隱藏上方三行標註 */
-}
-
-	/* ══════════════ /*
-  /* page layout */
-
-
-  header {
-    padding: 20px 20px 5px 20px;
-    margin: 0 auto;
-  }
-
-  section {
-    margin-top: 100px;
-    padding-top:20px;
-    max-width: 100%; // 讓內容區塊可以撐滿外層的 .wrapper
-  }
-
-  ul li::marker {
-    content: '● ';
-  }
-
-  nav {
-    ul li::marker {
-      content: none;
-    }
-  }
-
-  section.footnotes {
-    width: 90%;
-    margin-top: 30px;
-  }
-
-  /* table */
-  table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  th {
-    border-bottom: 4px double;
-    border-top: 2px solid;
-    border-right: 2px solid;
-    border-left: 2px solid;
-    font-weight: 800;
-    border-color: black;
-  }
-  td {
-    border: 1px solid;
-    border-color: black;
-  }
-  td:first-child {
-    border-left: 1px solid;
-  }
-
-  /* offset anchor tag link */
-  
-:target {
-    padding-top: 115px;
-    margin-top: -115px;
-}
-
-/* --------------------------------------------   */
-.verb { color: red; }
-.ptc  { color: blue; }
-.inf  { color: green; }
-.punctuation { font-weight:bolder;}
-.poetry::before {content:'\a                 '; white-space: pre;}
-.paragraph::after {content:'\a          '; white-space: pre;}
-/* --------------------------------------------   */
-
-
-/* BULLET POINT RELATIONSHIP LINES */
-ul ul { position: relative; }
-ul ul::before {
- content:'';
- border-left: 1px solid grey ;
- position: absolute;
-}
-ul ul::before { left: -7px; top: 0; bottom: 0; 
-} 
-
-
-/*Functional Styling*/
-@media (pointer: coarse), (hover: none) {
-  [title] {
-    position: relative;
-    display: inline-flex;
-    justify-content: center;
-
-  }
-  [title]:focus::after {
-    content: attr(title);
-    position: absolute;
-    top: 110%;
-    color: #000;
-    background-color: lightgreen;
-    border: 2px solid;
-    width: fit-content;
-    padding: 3px;
-    font-size: 12px;
-    z-index:1;
-  }
+  display: none !important;                   /* 隱藏上方三行標註 */
 }
