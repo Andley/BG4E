@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.15-20.md",
+                "file": "_includes/head-custom.html.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.15-20"
+              "title": "head-custom.html"
             },
             "group": "8c3f16c281637a81"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.15-20.md",
+                "file": "_includes/head-custom.html.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.15-20"
+              "title": "head-custom.html"
             },
             "group": "8c3f16c281637a81"
           }
@@ -234,8 +234,11 @@
   },
   "active": "d71c6a0451efe038",
   "lastOpenFiles": [
-    "48-Galatians/Gal.3.1-14.md",
+    "Living Greek Resources.md",
+    "_includes/head-custom.html.md",
+    "_includes",
     "48-Galatians/Gal.3.15-20.md",
+    "48-Galatians/Gal.3.1-14.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Intertextuality.md",
@@ -258,10 +261,8 @@
     "48-Galatians/old-Gal.1.1-5.md",
     "README.md",
     "Mounce-Syntax-Summary.md",
-    "Living Greek Resources.md",
     "Greek Pedagogy.md",
     "Tools/KB_Greek_polytonic_Unicode.svg",
-    "test.md",
     "content/Tools/AI Skills",
     "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
     "public/en.search-data.min.1aadd8206ecd96ad8d0c46d723d59efc548174dc144317b40f99cefb3d1c342a.json",
@@ -271,7 +272,6 @@
     "public/48-galatians/Galatia/index.xml",
     "public/48-galatians/Galatia/index.html",
     "public/48-galatians/Galatia",
-    "public/48-galatians/home/index.xml",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
