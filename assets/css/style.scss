@@ -30,6 +30,11 @@ section {
   float: right !important;
 }
 
+section p, 
+#main_content p {
+  font-size: 16px !important;          /* 讓 1:1 與 Παῦλος 等大 */
+  line-height: 1.2 !important;         /* 統一行高，避免 1:1 被推高或下壓 */
+}
 /* =========== 設定字型 =========== */
 @font-face {
   font-family: 'AndleyFont';
@@ -81,8 +86,8 @@ html, body, p, li {
   flex-direction: column-reverse !important; /* 核心關鍵：反轉排列順序，讓 rt 堆疊在上方 */
   align-items: flex-start !important;        /* 所有人靠左對齊 */
   text-align: left !important;
-  margin: 0 3px 3px 0 !important;          /* 單字間距與折行行距 */
-  vertical-align: bottom !important;         /* 讓 1:1 章節號與最底層經文對齊 */
+  vertical-align: baseline !important; /* 改用 baseline 讓 1:1 與 Παῦλος 底部字線完美貼合 */
+  margin-bottom: 0 !important;
   
   /* 第四行：最底層原文經文 (Surface Text，如 Παῦλος) */
   font-size: 16px !important;
@@ -106,7 +111,7 @@ ruby rt, RUBY rt {
   text-align: left !important;
   white-space: nowrap !important;            /* 強制內容不折行 */
   font-weight: normal !important;
-  line-height: 1.3 !important;
+  line-height: 1 !important;
   margin: 1px 0 !important;
 }
 
