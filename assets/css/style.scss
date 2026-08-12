@@ -1,44 +1,17 @@
 ---
-# 保留這兩行 front matter 讓 Jekyll 自動編譯 Sass
 ---
+@import "{{ site.theme }}";
 
-@import "jekyll-theme-leap-day";
-
-/* ==========================================================================
-   1. 版面結構修復 (CSS Grid / 最大寬度 1200px / 左側 Menu 歸位)
-   ========================================================================== */
-
-/* 清除原本主題干擾佈局的 float 與定位 */
-header, section {
-  float: none !important;
-  position: static !important;
+/* Adjust the total layout constraints */
+.wrapper {
+  width: 900px; /* Changes default 650px width */
+  max-width: 95%; /* Ensures small screens do not get horizontal scrollbars */
 }
 
-/* 主容器：採用 Grid 雙欄網格 */
-div.wrapper {
-  max-width: 1200px !important;               /* 限制最大寬度 1200px */
-  width: 95% !important;
-  margin: 0 auto !important;
-  
-  display: grid !important;                   /* 開啟 Grid 模式 */
-  grid-template-columns: 240px 1fr !important; /* 左欄固定 240px，右欄自動填滿 */
-  column-gap: 30px !important;                /* 兩欄之間的間距 */
-  align-items: start !important;
+/* Optional: Scale sidebar/navigation positioning if elements overlap */
+nav {
+  margin-right: -750px; /* Adjust if your side menu misaligns with the wider layout */
 }
-
-/* 左側選單區域 (header) */
-header {
-  width: 100% !important;
-  grid-column: 1 !important;                  /* 鎖定在第 1 欄 */
-}
-
-/* 右側主要內容區 (section) */
-section {
-  width: 100% !important;
-  max-width: none !important;
-  grid-column: 2 !important;                  /* 鎖定在第 2 欄 */
-}
-
 
 /* ==========================================================================
    2. 聖經逐字對齊（四行 Interlinear 模式）
