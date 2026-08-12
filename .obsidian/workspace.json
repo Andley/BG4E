@@ -11,10 +11,34 @@
             "id": "df65ef5f3534679f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.15-20.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gal.3.15-20"
+            }
+          }
+        ]
+      },
+      {
+        "id": "51b603a7a822cfa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd93c939e77cd7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.15-20.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.3.15-20"
             }
           }
         ]
@@ -94,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
