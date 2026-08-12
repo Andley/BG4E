@@ -2,6 +2,8 @@
 # 核心主題設定
 # ==========================================
 remote_theme: just-the-docs/just-the-docs@v0.12.0
+jekyll-default-layout:
+  enabled: false
 plugins:
   - jekyll-remote-theme
 
@@ -10,10 +12,6 @@ plugins:
 title: 全民希臘文 (BG4E)
 description: Biblical Greek for Everyone (BG4E)
 show_downloads: false
-
-# ==========================================
-# 功能設定
-# ==========================================
 search_enabled: true         # 自動開啟左上角超流暢全文搜尋
 heading_anchors: true        # 滑鼠移到標題時自動出現連結錨點
 color_scheme: dark           # 如果喜歡黑夜模式可開啟（預設為 light）

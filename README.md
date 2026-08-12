@@ -1,3 +1,10 @@
+---
+layout: default
+title: 首頁
+permalink: /
+---
+
+
 # 全民希臘文 Biblical Greek for Everyone
 
 - [全民希臘文（BG4E）新約句法分析 AI 機器人 (2026-07-21)
