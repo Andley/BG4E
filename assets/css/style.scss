@@ -91,18 +91,18 @@ body.one-line-mode ruby rt {
 
 /* ═════════════ page layout ═════════════ */
 .wrapper {
-  width: 1400px; /* 650 + 750 */
+  width: 720px; /* 650 + 70 */
   margin: 0 auto;
   position: relative;
 }
 
 section {
-  width: 1340px; /* 590 + 750 */
+  width: 660px; /* 590 + 70 */
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
-  /* 其餘保持不變 */
+  /* 其餘樣式保持不變 */
 }
 
   ul li::marker {
@@ -110,26 +110,16 @@ section {
   }
 
 nav {
-  width: 230px;
+  width: 210px; /* 原本 230px，微調 20px 避免擠壓 */
   position: fixed;
   top: 220px;
   left: 50%;
-  margin-left: -955px; /* -580 - 375 */
+  margin-left: -590px; /* 左邊緣位於 600 - 590 = 10px (剛好留 10px 邊界) */
   text-align: right;
-  /* 其餘保持不變 */
+  /* 其餘樣式保持不變 */
   ul li::marker {
       content: none;
     }
-}
-
-footer {
-  width: 180px;
-  position: fixed;
-  left: 50%;
-  margin-left: -905px; /* -530 - 375 */
-  bottom: 20px;
-  text-align: right;
-  line-height: 16px;
 }
 
 #banner {
@@ -137,16 +127,16 @@ footer {
   left: 0;
   right: 50%;
   height: 50px;
-  margin-right: -757px; /* -382 - 375 */
+  margin-right: -417px; /* -382 - 35 */
   position: fixed;
   top: 115px;
-  /* 其餘保持不變 */
+  /* 其餘樣式保持不變 */
 }
 
 #banner .fork {
   position: fixed;
   left: 50%;
-  margin-left: -700px; /* -325 - 375 */
+  margin-left: -360px; /* -325 - 35 */
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -154,8 +144,8 @@ footer {
   background-color: #FFE788;
 }
 
-@media print, screen and (max-width: 1820px) {
-  /* 區塊內維持原本的 RWD 規則，會自動收起 nav 並調整版面 */
+@media print, screen and (max-width: 1180px) {
+  /* 區塊內維持原本的 RWD 切換規則 */
 }
 
 /* ══════════════════════════ */
