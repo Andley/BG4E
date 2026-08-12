@@ -91,35 +91,41 @@ body.one-line-mode ruby rt {
 
 /* ═════════════ page layout ═════════════ */
 .wrapper {
-  width: 720px; /* 650 + 70 */
+  width: 850px; /* 650 + 200 */
   margin: 0 auto;
   position: relative;
 }
 
 section {
-  width: 660px; /* 590 + 70 */
+  width: 790px; /* 590 + 200 */
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
   /* 其餘樣式保持不變 */
-}
-
   ul li::marker {
     content: '● ';
   }
 
 nav {
-  width: 210px; /* 原本 230px，微調 20px 避免擠壓 */
+  width: 230px;
   position: fixed;
   top: 220px;
   left: 50%;
-  margin-left: -590px; /* 左邊緣位於 600 - 590 = 10px (剛好留 10px 邊界) */
+  margin-left: -680px; /* -580 - 100 */
   text-align: right;
   /* 其餘樣式保持不變 */
-  ul li::marker {
-      content: none;
-    }
+}
+
+footer {
+  width: 230px;          /* 1. 改為與 nav 同寬 (原本 180px)，文字不會一直折行 */
+  position: fixed;
+  top: 480px;            /* 2. 改用 top 定位，直接接在 nav (top: 220px) 的下方 */
+  left: 50%;
+  margin-left: -680px;   /* 3. 改為與 nav 的 margin-left 完全相同，左右完美對齊 */
+  bottom: auto;          /* 4. 取消原本的 bottom: 20px 固定在最底部 */
+  text-align: right;
+  line-height: 16px;
 }
 
 #banner {
@@ -127,7 +133,7 @@ nav {
   left: 0;
   right: 50%;
   height: 50px;
-  margin-right: -417px; /* -382 - 35 */
+  margin-right: -482px; /* -382 - 100 */
   position: fixed;
   top: 115px;
   /* 其餘樣式保持不變 */
@@ -136,7 +142,7 @@ nav {
 #banner .fork {
   position: fixed;
   left: 50%;
-  margin-left: -360px; /* -325 - 35 */
+  margin-left: -425px; /* -325 - 100 */
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -144,8 +150,8 @@ nav {
   background-color: #FFE788;
 }
 
-@media print, screen and (max-width: 1180px) {
-  /* 區塊內維持原本的 RWD 切換規則 */
+@media print, screen and (max-width: 1380px) {
+  /* 區塊內維持原本的 RWD 規則 */
 }
 
 /* ══════════════════════════ */
