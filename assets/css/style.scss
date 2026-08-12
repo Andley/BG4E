@@ -68,6 +68,7 @@ body.one-line-mode ruby {
   display: inline !important;
   margin: 0 !important;
   width: auto !important;             /* 恢復單行時不要強制撐寬 */
+  line-height: 1em !important;  /* ← 新增這行：重置行高 */
 }
 body.one-line-mode :not(ruby) > ruby {
   font-weight: normal !important;
