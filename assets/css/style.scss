@@ -78,39 +78,88 @@ body.one-line-mode ruby rt {
   display: none !important; /* 點擊後隱藏所有解釋行 */
 }
 
+
+/* --------------------------------------------   */
+.verb { color: red; }
+.ptc  { color: blue; }
+.inf  { color: green; }
+.punctuation { font-weight:bolder;}
+.poetry::before {content:'\a                 '; white-space: pre;}
+.paragraph::after {content:'\a          '; white-space: pre;}
+/* --------------------------------------------   */
+
+
 	/* ══════════════ /*
   /* page layout */
 
 
-  header {
-    padding: 20px 20px 5px 20px;
-    margin: 0 auto;
-  }
+.wrapper {
+  width: 960px; /* 原本 650px + 310px */
+  margin: 0 auto;
+  position: relative;
+}
 
-  .wrapper {
-  width:1200px;
-  }
-
-  section {
-    margin-top: 100px;
-    padding-top:20px;
-    width:900px;
-  }
+section {
+  width: 900px; /* 目標寬度 */
+  padding: 30px 30px 50px 30px;
+  margin: 20px 0;
+  margin-top: 190px;
+  position: relative;
+  /* 其餘樣式保持不變 */
+}
 
   ul li::marker {
     content: '● ';
   }
 
   nav {
-    ul li::marker {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left: 50%;
+  margin-left: -735px; /* 原本 -580px - 155px */
+  text-align: right;
+  /* 其餘樣式保持不變 */
+  ul li::marker {
       content: none;
     }
-  }
+}
 
-  section.footnotes {
-    width: 90%;
-    margin-top: 30px;
-  }
+footer {
+  width: 180px;
+  position: fixed;
+  left: 50%;
+  margin-left: -685px; /* 原本 -530px - 155px */
+  bottom: 20px;
+  text-align: right;
+  line-height: 16px;
+}
+
+#banner {
+  z-index: 100;
+  left: 0;
+  right: 50%;
+  height: 50px;
+  margin-right: -537px; /* 原本 -382px - 155px */
+  position: fixed;
+  top: 115px;
+  /* 其餘樣式保持不變 */
+}
+
+#banner .fork {
+  position: fixed;
+  left: 50%;
+  margin-left: -480px; /* 原本 -325px - 155px */
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
+  background-color: #FFE788;
+}
+
+@media print, screen and (max-width: 1370px) {
+  /* 區塊內原本的 CSS 設定保持不變 */
+}
 
   /* table */
   table {
@@ -141,14 +190,6 @@ body.one-line-mode ruby rt {
     margin-top: -115px;
 }
 
-/* --------------------------------------------   */
-.verb { color: red; }
-.ptc  { color: blue; }
-.inf  { color: green; }
-.punctuation { font-weight:bolder;}
-.poetry::before {content:'\a                 '; white-space: pre;}
-.paragraph::after {content:'\a          '; white-space: pre;}
-/* --------------------------------------------   */
 
 
 /* BULLET POINT RELATIONSHIP LINES */
