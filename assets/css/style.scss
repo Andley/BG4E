@@ -49,18 +49,18 @@ html, body, p, li {
 /* 僅針對最外層沒有被其他 ruby 包裹的 ruby 進行排版 */
 :not(ruby) > ruby {
   display: inline-flex !important;
-  flex-direction: column !important;
+  flex-direction: column-reverse !important;
   align-items: center !important;
   justify-content: center !important;
   text-align: center !important;       /* 文字置中 */
-  margin: 0 0 2px 0 !important; /* 每個單字塊彼此的左右與下方間距 */
+  /* margin: 0 0 2px 0 !important;  每個單字塊彼此的左右與下方間距 */
   vertical-align:bottom !important;
 }
 
 /* 內層嵌套的 ruby 保持彈性垂直排列 */
-ruby ruby {
+ruby > ruby {
   display: flex !important;
-  flex-direction: column-reverse !important;
+  flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
   text-align: center !important;
@@ -74,19 +74,22 @@ ruby rt {
   text-align: center !important;       /* 文字置中核心 */
   font-size: 14px !important;
   line-height: 1.1 !important; 
-  margin-top: 1px !important;
-  margin-bottom: 1px !important;
+  /* margin-top: 1px !important;
+  margin-bottom: 1px !important; */
   font-weight: normal;
   font-family: 'AndleyFont', sans-serif !important;
 }
 
 /* 最內層希臘文原文的字體外觀 */
 ruby > ruby > ruby {
+  display: flex !important;
+  flex-direction: column !important;
   font-size: 16px !important;
   line-height: 1.2 !important; /* 同步微調原文的行高，讓第一行與第二行更緊湊 */
   font-weight: normal;
   text-align: normal !important;
   font-family: 'AndleyFont', serif !important;
+  white-space: nowrap !important;
 }
 
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
