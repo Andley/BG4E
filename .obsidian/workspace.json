@@ -13,13 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Interlinear-4lines.md",
+                "file": "48-Galatians/Gal.3.15-20.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.3.15-20"
+            },
+            "group": "ec852b445dacd73e"
+          }
+        ]
+      },
+      {
+        "id": "3897f42471bb6e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f59a3d17f61e625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.3.15-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Interlinear-4lines"
-            }
+              "title": "Gal.3.15-20"
+            },
+            "group": "ec852b445dacd73e"
           }
         ]
       }
