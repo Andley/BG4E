@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/head-custom.html.md",
+                "file": "48-Galatians/Gal.3.15-20.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "head-custom.html"
+              "title": "Gal.3.15-20"
             },
             "group": "8c3f16c281637a81"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/head-custom.html.md",
+                "file": "48-Galatians/Gal.3.15-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "head-custom.html"
+              "title": "Gal.3.15-20"
             },
             "group": "8c3f16c281637a81"
           }
@@ -234,8 +234,8 @@
   },
   "active": "d71c6a0451efe038",
   "lastOpenFiles": [
-    "Living Greek Resources.md",
     "_includes/head-custom.html.md",
+    "Living Greek Resources.md",
     "_includes",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Gal.3.1-14.md",
