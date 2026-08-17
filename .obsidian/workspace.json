@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.15-20.md",
-                "mode": "source",
+                "file": "GDNTG/Chapter02.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.15-20"
+              "title": "Chapter02"
             },
             "group": "ec852b445dacd73e"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.15-20.md",
+                "file": "GDNTG/Chapter02.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.15-20"
+              "title": "Chapter02"
             },
             "group": "ec852b445dacd73e"
           }
@@ -234,8 +234,10 @@
   },
   "active": "df65ef5f3534679f",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Interlinear-4lines.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/_index.md",
     "48-Galatians/Gal.3.15-20.md",
+    "48-Galatians/Galatians-Interlinear-4lines.md",
     "_includes/head.html.md",
     "_includes/head-custom.html",
     "_includes/head.html",
@@ -262,7 +264,6 @@
     "48-Galatians/Galatians-Interlinear-2lines.md",
     "48-Galatians/Galatians-Interlinear-3lines.md",
     "48-Galatians/Galatians-Interlinear-2.5lines.md",
-    "48-Galatians/old-Gal.1.1-5.md",
     "Tools/KB_Greek_polytonic_Unicode.svg",
     "content/Tools/AI Skills",
     "public/en.search.min.e0094c35fb67c1a63a2468851f2ad3ad88e6adb1c2e8b3b46e818994ba1dc137.js",
