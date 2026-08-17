@@ -14,30 +14,15 @@
               "type": "markdown",
               "state": {
                 "file": "GDNTG/Chapter02.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Chapter02"
             },
             "group": "ec852b445dacd73e"
-          },
-          {
-            "id": "2f9ad5479ad1d018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter02.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter02"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3897f42471bb6e5e",
@@ -135,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -247,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f59a3d17f61e625",
+  "active": "df65ef5f3534679f",
   "lastOpenFiles": [
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter02.md",
