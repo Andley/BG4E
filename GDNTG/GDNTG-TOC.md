@@ -253,6 +253,8 @@
 		- [8.5.1 預測的未來式 Predictive Future](Chapter08#8.5.1%20%E9%A0%90%E6%B8%AC%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Predictive%20Future)
 		- [8.5.2 命令的未來式 Imperatival Future](Chapter08#8.5.2%20%E5%91%BD%E4%BB%A4%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Imperatival%20Future)
 		- [8.5.3 考慮的未來式 Deliberative Future](Chapter08#8.5.3%20%E8%80%83%E6%85%AE%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Deliberative%20Future)
+			- [8.5.3.1 真正的問句 Real Questions](app://obsidian.md/index.html#8.5.3.1%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%95%8F%E5%8F%A5%20Real%20Questions)
+			- [8.5.3.2 修辭疑問句 Rhetorical Questions](app://obsidian.md/index.html#8.5.3.2%20%E4%BF%AE%E8%BE%AD%E7%96%91%E5%95%8F%E5%8F%A5%20Rhetorical%20Questions)
 		- [8.5.4 格言的未來式 Gnomic Future](Chapter08#8.5.4%20%E6%A0%BC%E8%A8%80%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Gnomic%20Future)
 		- [8.5.5 進行的未來式 Progressive Future](Chapter08#8.5.5%20%E9%80%B2%E8%A1%8C%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Progressive%20Future)
 	- [8.6 SUMMARY](Chapter08#8.6%20SUMMARY)

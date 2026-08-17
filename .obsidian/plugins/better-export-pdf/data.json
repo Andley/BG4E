@@ -24,7 +24,7 @@
     "marginBottom": "0",
     "marginLeft": "0",
     "marginRight": "0",
-    "displayHeader": true,
+    "displayHeader": false,
     "displayFooter": true,
     "cssSnippet": "0"
   }
