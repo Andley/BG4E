@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.21-4.7.md",
+                "file": "48-Galatians/Galatians-Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.21-4.7"
+              "title": "Galatians-Notes"
             },
             "group": "309804a05069b8e1"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.3.21-4.7.md",
+                "file": "48-Galatians/Galatians-Notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.3.21-4.7"
+              "title": "Galatians-Notes"
             },
             "group": "309804a05069b8e1"
           }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -235,49 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "e56cba5e7bdb6d09",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d29785e0b5ecf4bc",
-        "type": "window",
-        "children": [
-          {
-            "id": "2055c31e0c9e8fcf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cd2f0fdae50a319b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "48-Galatians/Galatians-Interlinear-4lines.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Galatians-Interlinear-4lines"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 102,
-        "y": 0,
-        "width": 1026,
-        "height": 731,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "9de226f5d54bc26a",
   "lastOpenFiles": [
-    "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Gal.3.21-4.7.md",
+    "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Galatians-Notes.md",
     "GDNTG/Chapter13.md",
