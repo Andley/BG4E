@@ -46,7 +46,7 @@ draft: false
 
 ἄλλος (155)P
 
-ἄλλος , η , ο another, other ( ἄλλος . . . ἄλλος one . . . another); more, additional
+ἄλλος , η , ο another, other ἄλλος . . . ἄλλος one . . . another); more, additional
 
 ἀλλοτριεπίσκοπος , ου m busybody, one who interferes in another's affairs, trouble-maker
 
@@ -84,7 +84,7 @@ draft: false
 
 ἅμα (10)P
 
-ἅμα (1) adv. at the same time, together; (2) prep. with dat. together with ( ἅμα πρωΐ early in the morning Mt 20.1)
+ἅμα (1) adv. at the same time, together; (2) prep. with dat. together with ἅμα πρωΐ early in the morning Mt 20.1)
 
 ἀμαθής , ές ignorant
 
@@ -100,7 +100,7 @@ draft: false
 
 ἁμαρτία (173)P
 
-ἁμαρτία , ας f sin ( ἔχω ἁ. be sinful); περὶ ἁ. often sin offering
+ἁμαρτία , ας f sin ἔχω ἁ. be sinful); περὶ ἁ. often sin offering
 
 ἀμάρτυρος , ον without evidence or witness
 
@@ -134,7 +134,7 @@ draft: false
 
 ἀμετανόητος , ον unrepentant, obstinate
 
-ἄμετρος , ον immeasurable, unmeasured ( εἰς τὰ ἄ. beyond limits 2 Cor 10.13, 15)
+ἄμετρος , ον immeasurable, unmeasured εἰς τὰ ἄ. beyond limits 2 Cor 10.13, 15)
 
 ἀμήν (128)P
 
@@ -196,7 +196,7 @@ draft: false
 
 ἀναβαίνω (aor. ἀνέβην ; pf. ἀναβέβηκα) go up, come up, ascend; grow; go aboard (of ships); arise (Lk 24.38); enter, occur to (1 Cor 2.9)
 
-ἀναβάλλομαι (aor. ἀνεβαλόμην) postpone ( ἀ. αὐτούς he brought their hearing to a close, he adjourned their trial Ac 24.22)
+ἀναβάλλομαι (aor. ἀνεβαλόμην) postpone ἀ. αὐτούς he brought their hearing to a close, he adjourned their trial Ac 24.22)
 
 ἀναβάλλω see ἀναβάλλομαι
 
@@ -210,7 +210,7 @@ draft: false
 
 ἀναβοάω cry out
 
-ἀναβολή , ῆς f delay ( ἀ. μηδεμίαν ποιησάμενος without losing any time Ac 25.17)
+ἀναβολή , ῆς f delay ἀ. μηδεμίαν ποιησάμενος without losing any time Ac 25.17)
 
 ἀνάγαιον , ου n upstairs room
 
@@ -322,7 +322,7 @@ draft: false
 
 ἀναλόω cf. ἀναλίσκω
 
-ἀναλογία , ας f proportion ( κατὰ τὴν ἀ. according to Ro 12.6)
+ἀναλογία , ας f proportion κατὰ τὴν ἀ. according to Ro 12.6)
 
 ἀναλογίζομαι consider closely, think of, compare
 
@@ -338,11 +338,11 @@ draft: false
 
 ἀναμιμνῄσκω (fut. ἀναμνήσω ; aor. pass. ἀνεμνήσθην) remind; pass. remember
 
-ἀνάμνησις , εως f reminder, remembrance ( εἰς τὴν ἐμὴν ἀ. in memory of me)
+ἀνάμνησις , εως f reminder, remembrance εἰς τὴν ἐμὴν ἀ. in memory of me)
 
 ἀνανεόω renew
 
-ἀνανήφω regain one's senses ( ἀ. εκ regain one's senses and escape 2 Tm 2.26)
+ἀνανήφω regain one's senses ἀ. εκ regain one's senses and escape 2 Tm 2.26)
 
 ἁνανίας (11)P
 
@@ -516,7 +516,7 @@ draft: false
 
 ἀνήρ (216)P
 
-ἀνήρ , ἀνδρός m man; husband ( ἔχω ἀ. or γινώσκω ἀ. be a married woman); person
+ἀνήρ , ἀνδρός m man; husband ἔχω ἀ. or γινώσκω ἀ. be a married woman); person
 
 ἀνθίστημι (14)P
 
@@ -528,7 +528,7 @@ draft: false
 
 ἀνθρακιά , ᾶς f charcoal fire
 
-ἄνθραξ , ακος m charcoal ( ἄ. πυρός burning coals Ro 12.20)
+ἄνθραξ , ακος m charcoal ἄ. πυρός burning coals Ro 12.20)
 
 ἀνθρωπάρεσκος , ον one who acts merely to please men
 
@@ -538,7 +538,7 @@ draft: false
 
 ἄνθρωπος (550)P
 
-ἄνθρωπος , ου m man, human being, person, one (friend, sir, man in address); pl. people; mankind, humanity ( κατὰ ἄ. according to human standards); husband (Mt 19.10); son (Mt 10.35); servant (Lk 12.36)
+ἄνθρωπος , ου m man, human being, person, one (friend, sir, man in address); pl. people; mankind, humanity κατὰ ἄ. according to human standards); husband (Mt 19.10); son (Mt 10.35); servant (Lk 12.36)
 
 ἀνθύπατος , ου m proconsul (official in charge of a Roman senatorial province)
 
@@ -556,7 +556,7 @@ draft: false
 
 ἀνοίγω (77)P
 
-ἀνοίγω (aor. ἀνέῳξα [ ἠνέῳξα and ἤνοιξα ]; pf. ἀνέῳγα ; pf. pass. ἀνέῳγμαι and ἠνέῳγμαι ; aor. pass. ἀνεῴχθην [ ἠνεῴχθην , ἠνοίχθην and ἠνοίγην ]) trans. open ( ἀ. τὸ στόμα speak, teach); restore, heal (of sight or hearing); intrans. (only in pf. ἀνέῳγα) open ( τὸ οτόμα ἡμῶν ἀ. πρὸς ὑμᾶς we have spoken frankly to you 2 Cor 6.11)
+ἀνοίγω (aor. ἀνέῳξα ἠνέῳξα and ἤνοιξα ]; pf. ἀνέῳγα ; pf. pass. ἀνέῳγμαι and ἠνέῳγμαι ; aor. pass. ἀνεῴχθην ἠνεῴχθην , ἠνοίχθην and ἠνοίγην ]) trans. open ἀ. τὸ στόμα speak, teach); restore, heal (of sight or hearing); intrans. (only in pf. ἀνέῳγα) open τὸ οτόμα ἡμῶν ἀ. πρὸς ὑμᾶς we have spoken frankly to you 2 Cor 6.11)
 
 ἀνοικοδομέω rebuild
 
@@ -564,7 +564,7 @@ draft: false
 
 ἀνομία (15)P
 
-ἀνομία , ας f wickedness, lawlessness, sin ( ὁ ἄνθρωνος τῆς ἀ. the personification of lawlessness 2 Th 2.3; τὸ μυστήριον τῆς ἀ. the secret power of lawlessness 2 Th 2.7)
+ἀνομία , ας f wickedness, lawlessness, sin ὁ ἄνθρωνος τῆς ἀ. the personification of lawlessness 2 Th 2.3; τὸ μυστήριον τῆς ἀ. the secret power of lawlessness 2 Th 2.7)
 
 ἄνομος , ον lawless, outside the law, criminal; a person outside the (Jewish) law, Gentile
 
@@ -596,7 +596,7 @@ draft: false
 
 ἀντεῖπον aor. of ἀντιλέγω
 
-ἀντιλέγω (aor. ἀντεῖπον) object to, oppose ( εἰς σημεῖον ἀντιλεγόμενον for a controversial sign Lk 2.34); contradict, refute; be rebellious or obstinate; οἱ ἀ. ἀνάστασιν μὴ εἶναι those who say there is no resurrection (Lk 20.27)
+ἀντιλέγω (aor. ἀντεῖπον) object to, oppose εἰς σημεῖον ἀντιλεγόμενον for a controversial sign Lk 2.34); contradict, refute; be rebellious or obstinate; οἱ ἀ. ἀνάστασιν μὴ εἶναι those who say there is no resurrection (Lk 20.27)
 
 ἀντέχομαι (fut. ἀνθέξομαι) be loyal to; hold firmly to; help
 
@@ -604,13 +604,13 @@ draft: false
 
 ἀντί (22)P
 
-ἀντί prep. with gen. (original mng. opposite) for, in place of, instead of; in behalf of; because of ( ἀνθ ὧν because; therefore); for, as (1 Cor 11.15)
+ἀντί prep. with gen. (original mng. opposite) for, in place of, instead of; in behalf of; because of ἀνθ ὧν because; therefore); for, as (1 Cor 11.15)
 
 ἀντιβάλλω exchange; ἀ. λόγους discuss, converse
 
 ἀντιδιατίθημι see ἀντιδιατίθεμαι
 
-ἀντιδιατίθεμαι oppose ( ὁ ἀ. opponent)
+ἀντιδιατίθεμαι oppose ὁ ἀ. opponent)
 
 ἀντίδικος , ου m opponent at law; enemy
 
@@ -620,13 +620,13 @@ draft: false
 
 ἀντικαλέω invite in return
 
-ἀντίκειμαι oppose, be against ( ὁ ἀ. enemy, opponent)
+ἀντίκειμαι oppose, be against ὁ ἀ. enemy, opponent)
 
 ἄντικρυς prep. with gen. opposite, off
 
 ἀντιλαμβάνομαι (aor. ἀντελαβόμην) help, come to the help of; benefit from or devote oneself to (1 Tm 6.2)
 
-ἀντιλέγω (aor. ἀντεῖπον) object to, oppose ( εἰς σημεῖον ἀντιλεγόμενον for a controversial sign Lk 2.34); contradict, refute; be rebellious or obstinate; οἱ ἀ. ἀνάστασιν μὴ εἶναι those who say there is no resurrection (Lk 20.27)
+ἀντιλέγω (aor. ἀντεῖπον) object to, oppose εἰς σημεῖον ἀντιλεγόμενον for a controversial sign Lk 2.34); contradict, refute; be rebellious or obstinate; οἱ ἀ. ἀνάστασιν μὴ εἶναι those who say there is no resurrection (Lk 20.27)
 
 ἀντεῖπον aor. of ἀντιλέγω
 
@@ -640,7 +640,7 @@ draft: false
 
 ἀντιμετρέω measure out in return
 
-ἀντιμισθία , ας f response, return ( τὴν αὐτὴν ἀ. πλατύνθητε show us the same feelings that we have for you 2 Cor 6.13); punishment
+ἀντιμισθία , ας f response, return τὴν αὐτὴν ἀ. πλατύνθητε show us the same feelings that we have for you 2 Cor 6.13); punishment
 
 ἀντιόχεια (18)P
 
@@ -722,7 +722,7 @@ draft: false
 
 ἀπαλγέω lose all feeling, become insensitive
 
-ἀπαλλάσσω (pf. pass. inf. ἀπηλλάχθαι) trans. set free ( ἀπηλλάχθαι ἀπ αὐτοῦ to settle the matter with him Lk 12.58); intrans. leave, depart (Ac 19.12)
+ἀπαλλάσσω (pf. pass. inf. ἀπηλλάχθαι) trans. set free ἀπηλλάχθαι ἀπ αὐτοῦ to settle the matter with him Lk 12.58); intrans. leave, depart (Ac 19.12)
 
 ἀπαλλοτριόομαι be a stranger to, have no connection with
 
@@ -764,7 +764,7 @@ draft: false
 
 ἀπαύγασμα , τος n brightness, radiance
 
-ἀπείθεια , ας f disobedience ( υἱοὶ τῆς ἀ. persons disobedient to God)
+ἀπείθεια , ας f disobedience υἱοὶ τῆς ἀ. persons disobedient to God)
 
 ἀπειθέω (14)P
 
@@ -823,7 +823,7 @@ draft: false
 
 ἄπιστος (23)P
 
-ἄπιστος , ον unfaithful, unbelieving ( ὁ ἄ. unbeliever); incredible (Ac 26.8)
+ἄπιστος , ον unfaithful, unbelieving ὁ ἄ. unbeliever); incredible (Ac 26.8)
 
 ἁπλότης , ητος f generosity, liberality; sincerity, singlehearted devotion
 
@@ -875,7 +875,7 @@ draft: false
 
 ἀποδοχή , ῆς f acceptance
 
-ἀπόθεσις , εως f removal ( ἀ. τοῦ σκηνώματος death 2 Pe 1.14)
+ἀπόθεσις , εως f removal ἀ. τοῦ σκηνώματος death 2 Pe 1.14)
 
 ἀποθήκη , ης f barn, granary
 
@@ -951,7 +951,7 @@ draft: false
 
 ἀπολογέομαι speak in one's own behalf, defend oneself
 
-ἀπολογία , ας f verbal defense, defense ( ἀλλὰ ἀ. what eagerness to prove your innocence 2 Cor 7.11); answer, reply
+ἀπολογία , ας f verbal defense, defense ἀλλὰ ἀ. what eagerness to prove your innocence 2 Cor 7.11); answer, reply
 
 ἀπολούομαι cleanse oneself; wash away (sin)
 
@@ -1005,7 +1005,7 @@ draft: false
 
 ἀποστέλλω (fut. ἀποστελῶ ; aor. ἀπέστειλα , subj. ἀποστείλω [in Ac 7.33 this may be a dialectical peculiarity of the pres. ind.]; pf. ἀπέσταλκα ; aor. pass. ἀπεστάλην) send; send out or away
 
-ἀποστερέω defraud, rob, steal; deny, refuse ( μὴ ἀ. ἀλλήλους do not deny marital relations to one another 1 Cor 7.5); pf. pass. ptc. no longer have (1 Tm 6.5)
+ἀποστερέω defraud, rob, steal; deny, refuse μὴ ἀ. ἀλλήλους do not deny marital relations to one another 1 Cor 7.5); pf. pass. ptc. no longer have (1 Tm 6.5)
 
 ἀποστολή , ῆς f apostleship; mission
 
@@ -1073,13 +1073,13 @@ draft: false
 
 ἅπτω (39)P
 
-ἅπτω (aor. ptc. ἅψας ; aor. midd. ἡψάμην) light, ignite; midd. take hold of, touch ( γυναιχὸς μὴ ἅ. not to marry 1 Cor 7.1); harm, injure
+ἅπτω (aor. ptc. ἅψας ; aor. midd. ἡψάμην) light, ignite; midd. take hold of, touch γυναιχὸς μὴ ἅ. not to marry 1 Cor 7.1); harm, injure
 
 ἀπωθέομαι (aor. ἀπωσάμην) push aside; reject; fail lo listen to (one's conscience)
 
 ἀπώλεια (18)P
 
-ἀπώλεια , ας f destruction, utter ruin; hell ( ὁ υἱὸς τῆς ἀ. one bound to be lost or one destined for hell Jn 17.12; 2 Th 2.3)
+ἀπώλεια , ας f destruction, utter ruin; hell ὁ υἱὸς τῆς ἀ. one bound to be lost or one destined for hell Jn 17.12; 2 Th 2.3)
 
 ἀρά , ᾶς f cursing, curse(s)
 
@@ -1093,7 +1093,7 @@ draft: false
 
 ἀργέω be idle or inoperative
 
-ἀργός , ή , όν idle, unemployed; lazy ( γαστέρες ἀ. lazy gluttons Tt 1.12); careless; ineffective, useless
+ἀργός , ή , όν idle, unemployed; lazy γαστέρες ἀ. lazy gluttons Tt 1.12); careless; ineffective, useless
 
 ἀργύριον (20)P
 
@@ -1161,7 +1161,7 @@ draft: false
 
 ἁρπάζω (aor. pass. ἡρπάγην , ptc. ἁρπαγείς) take by force; take away, carry off; catch up (into heaven); perhaps attack (Jn 10.12)
 
-ἅρπαξ , αγος adj. grasping, greedy ( ὁ ἅ. swindler); savage (of wolves)
+ἅρπαξ , αγος adj. grasping, greedy ὁ ἅ. swindler); savage (of wolves)
 
 ἀρραβών , ῶνος m pledge, guarantee (of what is to come)
 
@@ -1177,7 +1177,7 @@ draft: false
 
 ἄρτι (36)P
 
-ἄρτι adv. now, at the present time ( ἀπ ἄρτι hereafter, from now on, again); just now; at once
+ἄρτι adv. now, at the present time ἀπ ἄρτι hereafter, from now on, again); just now; at once
 
 ἀρτιγέννητος , ον newborn
 
@@ -1197,7 +1197,7 @@ draft: false
 
 ἀρχή (55)P
 
-ἀρχή , ῆς f beginning, first ( τὴν ἀ. ὅ τι καὶ λαλῶ ὑμῖν what I have told you from the very beginning or why do I talk to you at all? Jn 8.25); origin, first cause; ruling power, authority, ruler (whether earthly or spiritual); what is elementary, elementary principle (He 5.12; 6.1); corner (of a cloth)
+ἀρχή , ῆς f beginning, first τὴν ἀ. ὅ τι καὶ λαλῶ ὑμῖν what I have told you from the very beginning or why do I talk to you at all? Jn 8.25); origin, first cause; ruling power, authority, ruler (whether earthly or spiritual); what is elementary, elementary principle (He 5.12; 6.1); corner (of a cloth)
 
 ἀρχηγός , οῦ m leader, pioneer, founder, originator
 
@@ -1245,7 +1245,7 @@ draft: false
 
 ἀσθένεια (24)P
 
-ἀσθένεια , ας f weakness (of any sort); illness ( πνεῦμα ἀσθενείας a spirit causing illness Lk 13.11)
+ἀσθένεια , ας f weakness (of any sort); illness πνεῦμα ἀσθενείας a spirit causing illness Lk 13.11)
 
 ἀσθενέω (33)P
 
@@ -1259,7 +1259,7 @@ draft: false
 
 ἀσία (18)P
 
-ἀσιτία , ας f lack of appetite ( πολλῆς τε ἀσιτίας ὑπαρχούσης after they had gone for a long time without food Ac 27.21)
+ἀσιτία , ας f lack of appetite πολλῆς τε ἀσιτίας ὑπαρχούσης after they had gone for a long time without food Ac 27.21)
 
 ἄσιτος , ον without food
 
@@ -1317,7 +1317,7 @@ draft: false
 
 ἀσύνθετος , ον faithless, disloyal
 
-ἀσφάλεια , ας f security, safety ( ἐν πάσῃ ἀ. most securely Ac 5.23); accurate information, full truth (Lk 1.4)
+ἀσφάλεια , ας f security, safety ἐν πάσῃ ἀ. most securely Ac 5.23); accurate information, full truth (Lk 1.4)
 
 ἀσφαλής , ές safe, sure; safeguard (Php 3.1); definite (Ac 25.26); the facts or reason (Ac 21.34; 22.30)
 
@@ -1331,7 +1331,7 @@ draft: false
 
 ἀσχημοσύνη , ης f shameless act(s); shame of nakedness
 
-ἀσχήμων , ον unpresentable ( τα ἀ. private bodily parts 1 Cor 12.23)
+ἀσχήμων , ον unpresentable τα ἀ. private bodily parts 1 Cor 12.23)
 
 ἀσωτία , ας f dissipation, reckless living
 
@@ -1379,7 +1379,7 @@ draft: false
 
 αὐθεντέω domineer, have authority over
 
-αὐλέω play a flute ( τὸ αὐλούμενον what is played on a flute 1 Cor 14.7)
+αὐλέω play a flute τὸ αὐλούμενον what is played on a flute 1 Cor 14.7)
 
 αὐλή (12)P
 
@@ -1437,7 +1437,7 @@ draft: false
 
 ἀφανισμός , οῦ m disappearing, destruction
 
-ἄφαντος , ον invisible ( ἄ. ἐγένετο he disappeared Lk 24.31)
+ἄφαντος , ον invisible ἄ. ἐγένετο he disappeared Lk 24.31)
 
 ἀφεδρών , ῶνος m latrine
 
@@ -1459,7 +1459,7 @@ draft: false
 
 ἀφίημι (143)P
 
-ἀφίημι (pres. 2 sg. ἀφεῖς , 1 pl. ἀφίομεν , 3 pl. ἀφίουσιν , inf. ἀφιέναι ; impf. 3 sg. ἤφιεν ; fut. ἀφήσω ; aor. ἀφῆκα , impv. ἄφες , 2 pl. ἄφετε , subj. ἀφῶ , ptc. ἀφείς ; aor. pass. ἀφέθην ; fut. pass. ἀφεθήσοραι ; pf. pass. 3 pl. ἀφέωνται) cancel, forgive, remit (of sin or debts); allow, let be, tolerate ( ἄφες ἴδωμεν Wait! Let us see! or simply Let us see! Mt 27.49; Mk 15.36); leave; leave behind, forsake, neglect; let go, dismiss, divorce; ἀθῆκεν τὸ πνεῦμα he died (Mt 27.50); ἀ. φωνὴν μεγάλην give a loud cry (Mk 15.37)
+ἀφίημι (pres. 2 sg. ἀφεῖς , 1 pl. ἀφίομεν , 3 pl. ἀφίουσιν , inf. ἀφιέναι ; impf. 3 sg. ἤφιεν ; fut. ἀφήσω ; aor. ἀφῆκα , impv. ἄφες , 2 pl. ἄφετε , subj. ἀφῶ , ptc. ἀφείς ; aor. pass. ἀφέθην ; fut. pass. ἀφεθήσοραι ; pf. pass. 3 pl. ἀφέωνται) cancel, forgive, remit (of sin or debts); allow, let be, tolerate ἄφες ἴδωμεν Wait! Let us see! or simply Let us see! Mt 27.49; Mk 15.36); leave; leave behind, forsake, neglect; let go, dismiss, divorce; ἀθῆκεν τὸ πνεῦμα he died (Mt 27.50); ἀ. φωνὴν μεγάλην give a loud cry (Mk 15.37)
 
 ἀφικνέομαι (aor. ἀφικόμην) reach, be known to
 
@@ -1491,7 +1491,7 @@ draft: false
 
 ἀφρός , οῦ m foam
 
-ἀφροσύνη , ης f folly, foolishness ( ἐν ἀ. foolishly 2 Cor 11.17,21)
+ἀφροσύνη , ης f folly, foolishness ἐν ἀ. foolishly 2 Cor 11.17,21)
 
 ἄφρων (11)P
 
@@ -1539,11 +1539,11 @@ draft: false
 
 βαθμός , οῦ m standing, position, status
 
-βάθος , ους n depth; greatness ( ἡ κατὰ β. πτωχεία extreme poverty 2 Cor 8.2); deep water (Lk 5.4)
+βάθος , ους n depth; greatness ἡ κατὰ β. πτωχεία extreme poverty 2 Cor 8.2); deep water (Lk 5.4)
 
 βαθύνω go deep
 
-βαθύς , εῖα , ύ deep ( τὰ β. the deep secrets Re 2.24); ὄρθρου βαθέως at early dawn (Lk 24.1)
+βαθύς , εῖα , ύ deep τὰ β. the deep secrets Re 2.24); ὄρθρου βαθέως at early dawn (Lk 24.1)
 
 βάϊον , ου n palm branch
 
@@ -1571,7 +1571,7 @@ draft: false
 
 βαπτιστής , οῦ m Baptist (of John)
 
-βάπτω (pf. pass. βέβαμμαι) dip ( βεβα. αἵματι covered with blood Re 19.13)
+βάπτω (pf. pass. βέβαμμαι) dip βεβα. αἵματι covered with blood Re 19.13)
 
 βαραββᾶς (11)P
 
@@ -1599,7 +1599,7 @@ draft: false
 
 Βαρναβᾶς , ᾶ m Barnabas
 
-βάρος , ους n burden; weight, fulness (of glory); importance ( ἐν β. εἴναι make demands, make one's weight felt 1 Th 2.7)
+βάρος , ους n burden; weight, fulness (of glory); importance ἐν β. εἴναι make demands, make one's weight felt 1 Th 2.7)
 
 Βαρσαββᾶς , ᾶ m Barsabbas: (1) Joseph (Ac 1.23); (2) Judas (Ac 15.22)
 
@@ -1623,7 +1623,7 @@ draft: false
 
 βασιλεία (162)P
 
-βασιλεία , ας f reign, rule; kingdom, domain ( λαβεῖν β. to be made king Lk 19.12, 15)
+βασιλεία , ας f reign, rule; kingdom, domain λαβεῖν β. to be made king Lk 19.12, 15)
 
 βασίλειος , ον royal; palace (Lk 7.25)
 
@@ -1792,7 +1792,7 @@ draft: false
 
 βορρᾶς , ᾶ m the north
 
-βόσκω tend, feed ( ὁ βόσκων herdsman); midd. graze, feed
+βόσκω tend, feed ὁ βόσκων herdsman); midd. graze, feed
 
 Βοσόρ m Bosor (2 Pe 2.15)
 
@@ -1806,7 +1806,7 @@ draft: false
 
 βουλή (12)P
 
-βουλή , ῆς f purpose, intention; plan, decision ( τίθημι β. advise, be in favor of Ac 27.12)
+βουλή , ῆς f purpose, intention; plan, decision τίθημι β. advise, be in favor of Ac 27.12)
 
 βούλημα , τος n will, desire; purpose, intention
 
@@ -1856,7 +1856,7 @@ draft: false
 
 βρῶμα , τος n food; solid food
 
-βρώσιμος , ον eatable ( ἔχετέ τι β. do you have anything to eat? Lk 23.41)
+βρώσιμος , ον eatable ἔχετέ τι β. do you have anything to eat? Lk 23.41)
 
 βρῶσις (11)P
 
@@ -1929,7 +1929,7 @@ draft: false
 
 γάρ conj. for, since, then; indeed, certainly; τί γάρ what! why!
 
-γαστήρ , τρός f womb ( ἐν γ. ἔχω conceive or be pregnant); glutton (Tt 1.12)
+γαστήρ , τρός f womb ἐν γ. ἔχω conceive or be pregnant); glutton (Tt 1.12)
 
 γέ (26)P
 
@@ -1971,7 +1971,7 @@ draft: false
 
 γενετή , ῆς f birth
 
-γένημα , τος n product, harvest ( γ. τῆς ἀμπέλου wine)
+γένημα , τος n product, harvest γ. τῆς ἀμπέλου wine)
 
 γέννημα , τος n offspring; γ. ἐχιδνῶν you snakes!
 
@@ -1981,7 +1981,7 @@ draft: false
 
 γέννημα , τος n offspring; γ. ἐχιδνῶν you snakes!
 
-γένημα , τος n product, harvest ( γ. τῆς ἀμπέλου wine)
+γένημα , τος n product, harvest γ. τῆς ἀμπέλου wine)
 
 Γεννησαρέτ f Gennesaret (2 D-3)
 
@@ -2019,13 +2019,13 @@ draft: false
 
 γίνομαι (669)P
 
-γίνομαι (fut. γενήσομαι ; aor. ἐγενόμην , opt. 3 sg. γένοιτο , inf. γενέσθαι , ptc. γενόμενος ; pf. γέγονα and γεγένημαι ; aor. pass. ἐγενήθην , impv. 3 sg. γενηθήτω ; plpf. 3 sg. ἐγεγόνει and γεγόνει) become, be; happen, take place, arise (aor. often impers. it happened or came about); come into being, be born or created; be done (of things), become something (of persons); come, go ( γ. κατά arrive off Ac 27.7); appear (Mk 1.4; Jn 1.6); marry (Ro 7.3, 4); μὴ γένοιτο no indeed!; sometimes with dat. of person have, possess, receive e*.g. Mt 18.12)
+γίνομαι (fut. γενήσομαι ; aor. ἐγενόμην , opt. 3 sg. γένοιτο , inf. γενέσθαι , ptc. γενόμενος ; pf. γέγονα and γεγένημαι ; aor. pass. ἐγενήθην , impv. 3 sg. γενηθήτω ; plpf. 3 sg. ἐγεγόνει and γεγόνει) become, be; happen, take place, arise (aor. often impers. it happened or came about); come into being, be born or created; be done (of things), become something (of persons); come, go γ. κατά arrive off Ac 27.7); appear (Mk 1.4; Jn 1.6); marry (Ro 7.3, 4); μὴ γένοιτο no indeed!; sometimes with dat. of person have, possess, receive e*.g. Mt 18.12)
 
 γινώσκω (222)P
 
 γινώσκω (fut. γνώσομαι ; aor. ἔγνων , impv. γνῶθι , γνώτω , subj. 3 sg. γνῷ ανδ γνοῖ , inf. γνῶναι , ptc. γνούς ; pf. ἔγνωκα ; plpf. ἐγνώκειν ; aor. pass. ἐγνώσθην ; fut. pass. γνωσθήσομαι) know, have knowledge of (of sexual relations Mt 1.25; Lk 1.34); find out, learn, understand; perceive, discern; to have knowledge; acknowledge, recognize; impv. be very certain, remember
 
-γλεῦκος , ους n new wine ( γ. μεμεστωμένος be drunk Ac 2.13)
+γλεῦκος , ους n new wine γ. μεμεστωμένος be drunk Ac 2.13)
 
 γλυκύς , εια , ύ sweet
 
@@ -2089,7 +2089,7 @@ draft: false
 
 γράμμα (14)P
 
-γράμμα , τος n letter of the alphabet ( οὐ γράμματι not literal Ro 2.29); Scripture; letter, communication (Ac 28.21); bill, account (Lk 16.6, 7); learning ( πῶς οὗτος γ. οἴδεν how does he know so much?, Jn 7.15)
+γράμμα , τος n letter of the alphabet οὐ γράμματι not literal Ro 2.29); Scripture; letter, communication (Ac 28.21); bill, account (Lk 16.6, 7); learning πῶς οὗτος γ. οἴδεν how does he know so much?, Jn 7.15)
 
 γραμματεύς (63)P
 
@@ -2119,13 +2119,13 @@ draft: false
 
 γυμνός (15)P
 
-γυμνός , ή , όν naked ( ἐπὶ γ. on his body Mk 14.51); uncovered, bare, exposed; poorly dressed, in need of clothes; perhaps wearing only an undergarment (Jn 21.7)
+γυμνός , ή , όν naked ἐπὶ γ. on his body Mk 14.51); uncovered, bare, exposed; poorly dressed, in need of clothes; perhaps wearing only an undergarment (Jn 21.7)
 
 γυμνότης , ητος f nakedness; without sufficient clothing, poverty
 
 γυναικάριον , ου n morally weak woman
 
-γυναικεῖος , α , ον female ( γ. σκεῦος wife 1 Pe 3.7)
+γυναικεῖος , α , ον female γ. σκεῦος wife 1 Pe 3.7)
 
 γυνή (215)P
 
@@ -2187,7 +2187,7 @@ draft: false
 
 δανειστής , οῦ m moneylender
 
-δαπανάω spend ( δ. ἐπ αὐτοῖς pay their expenses Ac 21.24)
+δαπανάω spend δ. ἐπ αὐτοῖς pay their expenses Ac 21.24)
 
 δαπάνη , ης f cost, expense
 
@@ -2209,7 +2209,7 @@ draft: false
 
 δεῖγμα , τος n example, warning
 
-δειγματίζω disgrace ( δ. ἐν παρρησίᾳ make a public spectacle of Col 2.15); expose
+δειγματίζω disgrace δ. ἐν παρρησίᾳ make a public spectacle of Col 2.15); expose
 
 δείκνυμι (33)P
 
@@ -2225,7 +2225,7 @@ draft: false
 
 δεινῶς adv. terribly; with hostility
 
-δεινός ή , όν terrible ( ἄλλα δεινά , other terrible sufferings)
+δεινός ή , όν terrible ἄλλα δεινά , other terrible sufferings)
 
 δειπνέω eat, dine
 
@@ -2277,7 +2277,7 @@ draft: false
 
 δέομαι (impf. 3 sg. ἐδεῖτο ; aor. ἐδεήθην , impv. δεήθητι) ask, beg (often= interj. please!); pray; implore
 
-δέω (aor. ἔδησα , subj. δήσω ; pf. ptc. δεδεκώς ; pf. pass. δέδεμαι ; aor. pass. inf. δεθῆναι) bind, tie ( δέδεμαι γυναικί be married 1 Cor 7.27); imprison; compel (Ac 20.22); forbid, prohibit (Mt 16.19; 18.18)
+δέω (aor. ἔδησα , subj. δήσω ; pf. ptc. δεδεκώς ; pf. pass. δέδεμαι ; aor. pass. inf. δεθῆναι) bind, tie δέδεμαι γυναικί be married 1 Cor 7.27); imprison; compel (Ac 20.22); forbid, prohibit (Mt 16.19; 18.18)
 
 δέος , ους n awe, godly fear
 
@@ -2325,7 +2325,7 @@ draft: false
 
 δεύτερος (43)P
 
-δεύτερος , α , ον second ( τὸ) δ. , πάλιν δ. , ἐν τῷ δ. or ἐκ δ. a second time; in the second place, secondly (1 Cor 12.28); afterward, the next time (Jd 5)
+δεύτερος , α , ον second τὸ) δ. , πάλιν δ. , ἐν τῷ δ. or ἐκ δ. a second time; in the second place, secondly (1 Cor 12.28); afterward, the next time (Jd 5)
 
 δέχομαι (56)P
 
@@ -2333,13 +2333,13 @@ draft: false
 
 δέω (43)P
 
-δέω (aor. ἔδησα , subj. δήσω ; pf. ptc. δεδεκώς ; pf. pass. δέδεμαι ; aor. pass. inf. δεθῆναι) bind, tie ( δέδεμαι γυναικί be married 1 Cor 7.27); imprison; compel (Ac 20.22); forbid, prohibit (Mt 16.19; 18.18)
+δέω (aor. ἔδησα , subj. δήσω ; pf. ptc. δεδεκώς ; pf. pass. δέδεμαι ; aor. pass. inf. δεθῆναι) bind, tie δέδεμαι γυναικί be married 1 Cor 7.27); imprison; compel (Ac 20.22); forbid, prohibit (Mt 16.19; 18.18)
 
 δέομαι (impf. 3 sg. ἐδεῖτο ; aor. ἐδεήθην , impv. δεήθητι) ask, beg (often= interj. please!); pray; implore
 
 δή indeed; then, therefore, now
 
-δῆλος , η , ον evident ( ἡ λαλιά σου δ. σε ποιεῖ your speech gives you away Mt 26.73); δῆλον (ὅτι) it is evident (that)
+δῆλος , η , ον evident ἡ λαλιά σου δ. σε ποιεῖ your speech gives you away Mt 26.73); δῆλον (ὅτι) it is evident (that)
 
 δηλόω make clear, show; indicate; inform
 
@@ -2353,7 +2353,7 @@ draft: false
 
 δῆμος , ου m people, crowd; public assembly
 
-δημόσιος , α , ον public ( δημοσίᾳ publicly, in public)
+δημόσιος , α , ον public δημοσίᾳ publicly, in public)
 
 δηνάριον (16)P
 
@@ -2363,7 +2363,7 @@ draft: false
 
 διά (667)P
 
-διά prep. with: (1) gen. through, by means of, with; during, throughout ( διὰ παντός continually); through, among, throughout; (2) acc. because of, on account of, for the sake of; through, by (rarely); διὰ τοῦτο therefore, for this reason; διὰ (τό) with inf. because; διὰ τί why?
+διά prep. with: (1) gen. through, by means of, with; during, throughout διὰ παντός continually); through, among, throughout; (2) acc. because of, on account of, for the sake of; through, by (rarely); διὰ τοῦτο therefore, for this reason; διὰ (τό) with inf. because; διὰ τί why?
 
 διαβαίνω (aor. διέβην , ptc. διαβάς) cross, cross over, come over
 
@@ -2461,7 +2461,7 @@ draft: false
 
 διαλογισμός (14)P
 
-διαλογισμός , οῦ m thought, opinion, motive ( κριταὶ δ. πονηρῶν perhaps persons who make judgments based on evil motives Jas 2.4); reasoning; doubt, question; argument, dispute
+διαλογισμός , οῦ m thought, opinion, motive κριταὶ δ. πονηρῶν perhaps persons who make judgments based on evil motives Jas 2.4); reasoning; doubt, question; argument, dispute
 
 διαλύω scatter, disperse
 
@@ -2529,7 +2529,7 @@ draft: false
 
 διασπορά , ᾶς f dispersion (of the Jews or Christians scattered throughout the Graeco-Roman world)
 
-διαστέλλομαι (aor. διεστειλάμην) order, command ( δ. πολλά give strict orders Mk 5.43)
+διαστέλλομαι (aor. διεστειλάμην) order, command δ. πολλά give strict orders Mk 5.43)
 
 διαστέλλω see διαστέλλομαι
 
@@ -2541,7 +2541,7 @@ draft: false
 
 διασῴζω (aor. pass. διεσώθην) bring safely through, rescue; cure; pass. escape (Ac 28.1, 4)
 
-διαταγή , ῆς f decree, ordinance ( εἰς δ. ἀγγέλων handed down by angels Ac 7.53)
+διαταγή , ῆς f decree, ordinance εἰς δ. ἀγγέλων handed down by angels Ac 7.53)
 
 διάταγμα , τος n order, decree
 
@@ -2569,7 +2569,7 @@ draft: false
 
 διαφέρω (13)P
 
-διαφέρω (aor. subj. διενέγκω) intrans. be worth more than, be superior to ( τὰ δ. what is best or right Ro 2.18; Php 1.10); differ, differ from; trans. carry through (Mk 11.16); spread (Ac 13.49); drive about (pass. drift Ac 27.27); impers. οὐδέν μοι διαφέρει it does not matter to me (Ga 2.6)
+διαφέρω (aor. subj. διενέγκω) intrans. be worth more than, be superior to τὰ δ. what is best or right Ro 2.18; Php 1.10); differ, differ from; trans. carry through (Mk 11.16); spread (Ac 13.49); drive about (pass. drift Ac 27.27); impers. οὐδέν μοι διαφέρει it does not matter to me (Ga 2.6)
 
 διαφεύγω (aor. subj. διαφύγω) escape
 
@@ -2619,7 +2619,7 @@ draft: false
 
 δίδωμι (415)P
 
-δίδωμι (διδῶ Re 3.9) (3 pl. διδόασιν , impv. 2 sg. δίδου , inf. διδόναι , ptc. διδούς ; impf. 3 sg. ἐδίδου , 3 pl. ἐδίδουν and ἐδίδοσαν ; fut. δώσω ; aor. ἔδωκα , subj. 3 sg. δῷ , δοῖ and δώῃ , opt. 3 sg. δῴη , impv. δός , inf. δοῦναι , ptc. δούς ; pf. δέδωκα ; pf. pass. δέδομαι ; plpf. ( ἐ) δεδώκειν ; aor. pass. ἐδόθην , ptc. δοθείς ; fut. pass. δοθήσομαι) give; grant, allow, permit; place, put; appoint; establish; give out, pay; produce, yield, cause; entrust; bring (offerings); inflict (punishment); δ. ἑαυτόν venture to go (Ac 19.31); cf. ἐργασία (Lk 12.58)
+δίδωμι (διδῶ Re 3.9) (3 pl. διδόασιν , impv. 2 sg. δίδου , inf. διδόναι , ptc. διδούς ; impf. 3 sg. ἐδίδου , 3 pl. ἐδίδουν and ἐδίδοσαν ; fut. δώσω ; aor. ἔδωκα , subj. 3 sg. δῷ , δοῖ and δώῃ , opt. 3 sg. δῴη , impv. δός , inf. δοῦναι , ptc. δούς ; pf. δέδωκα ; pf. pass. δέδομαι ; plpf. ἐ) δεδώκειν ; aor. pass. ἐδόθην , ptc. δοθείς ; fut. pass. δοθήσομαι) give; grant, allow, permit; place, put; appoint; establish; give out, pay; produce, yield, cause; entrust; bring (offerings); inflict (punishment); δ. ἑαυτόν venture to go (Ac 19.31); cf. ἐργασία (Lk 12.58)
 
 διεγείρω (aor. διήγειρα ; aor. pass. ptc. διεγερθείς) awake, wake up; rise, grow rough (of the sea)
 
@@ -2661,7 +2661,7 @@ draft: false
 
 δίκαιος , α , ον conforming to the standard, will, or character of God; upright, righteous, good; just, right; proper; in a right relationship with God; fair, honest; innocent
 
-δικαίως adv. justly, uprightly ( γίνομαι δ. live uprightly 1 Th 2.10); ἐκνήφω δ. come to one's senses (1 Cor 15.34)
+δικαίως adv. justly, uprightly γίνομαι δ. live uprightly 1 Th 2.10); ἐκνήφω δ. come to one's senses (1 Cor 15.34)
 
 δικαιοσύνη (92)P
 
@@ -2675,7 +2675,7 @@ draft: false
 
 δικαίωμα , τος n regulation, requirement; righteous deed, judgment; acquittal (Ro 5.16)
 
-δικαίως adv. justly, uprightly ( γίνομαι δ. live uprightly 1 Th 2.10); ἐκνήφω δ. come to one's senses (1 Cor 15.34)
+δικαίως adv. justly, uprightly γίνομαι δ. live uprightly 1 Th 2.10); ἐκνήφω δ. come to one's senses (1 Cor 15.34)
 
 δίκαιος , α , ον conforming to the standard, will, or character of God; upright, righteous, good; just, right; proper; in a right relationship with God; fair, honest; innocent
 
@@ -2717,7 +2717,7 @@ draft: false
 
 Διοτρέφης , ους m Diotrephes (3 Jn 9)
 
-διπλοῦς , ῆ , οῦν double ( διπλόω τὰ δ. repay double Re 18.6); comp. twice as much, much more (Mt 23.15)
+διπλοῦς , ῆ , οῦν double διπλόω τὰ δ. repay double Re 18.6); comp. twice as much, much more (Mt 23.15)
 
 διπλόω double
 
@@ -2777,7 +2777,7 @@ draft: false
 
 δοκίμιον , ου n testing, act of testing; genuineness
 
-δόκιμος , ον approved, genuine ( δ. γίνομαι stand the test Jas 1.12); respected, valued
+δόκιμος , ον approved, genuine δ. γίνομαι stand the test Jas 1.12); respected, valued
 
 δοκός , οῦ f log, beam of wood
 
@@ -2795,7 +2795,7 @@ draft: false
 
 δόξα (166)P
 
-δόξα , ης f glory, splendor, grandeur (in gen. often glorious); power, kingdom; praise, honor; pride ( δόξα καὶ χαρά pride and joy 1 Th 2.20); brightness, brilliance; revealed presence of God, God himself; heaven (1 Tm 3.16); glorious heavenly being (2 Pe 2.10; Jd 8); δὸς δόξαν τῷ θεῷ promise before God to tell the truth (Jn 9.24)
+δόξα , ης f glory, splendor, grandeur (in gen. often glorious); power, kingdom; praise, honor; pride δόξα καὶ χαρά pride and joy 1 Th 2.20); brightness, brilliance; revealed presence of God, God himself; heaven (1 Tm 3.16); glorious heavenly being (2 Pe 2.10; Jd 8); δὸς δόξαν τῷ θεῷ promise before God to tell the truth (Jn 9.24)
 
 δοξάζω (61)P
 
@@ -2874,9 +2874,9 @@ draft: false
 
 δύσκολος , ον hard, difficult
 
-δυσκόλως adv. with difficulty ( πῶς δ. how hard it is)
+δυσκόλως adv. with difficulty πῶς δ. how hard it is)
 
-δυσκόλως adv. with difficulty ( πῶς δ. how hard it is)
+δυσκόλως adv. with difficulty πῶς δ. how hard it is)
 
 δύσκολος , ον hard, difficult
 
@@ -2938,7 +2938,7 @@ draft: false
 
 ἑβδομήκοντα seventy
 
-ἑβδομηκοντάκις seventy times ( ἑ. ἑπτά seventy-seven times Mt 18.22)
+ἑβδομηκοντάκις seventy times ἑ. ἑπτά seventy-seven times Mt 18.22)
 
 ἕβδομος , η , ον seventh
 
@@ -2974,13 +2974,13 @@ draft: false
 
 ἐγκαταλείπω (aor. ἐγκατέλιπον) forsake, abandon, desert; leave, leave behind; neglect
 
-ἐγκατοικέω live ( ἐν) among
+ἐγκατοικέω live ἐν) among
 
 ἐγκαυχάομαι boast
 
 ἐγκεντρίζω graft (of branches)
 
-ἔγκλημα , τος n charge, accusation ( ἔχω ἔ be charged with a crime Ac 23.29)
+ἔγκλημα , τος n charge, accusation ἔχω ἔ be charged with a crime Ac 23.29)
 
 ἐγκομβόομαι put on
 
@@ -3046,7 +3046,7 @@ draft: false
 
 ἴδε Look! See! Listen!; here is; here are
 
-ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
+ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ὅρα μή do not do that)
 
 εἶδος , ους n visible form, outward appearance; sight, seeing (2 Cor 5.7); kind, sort (1 Th 5.22)
 
@@ -3094,7 +3094,7 @@ draft: false
 
 ἐρῶ fut. of λέγω
 
-λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context)
+λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context)
 
 ῥηθείς aor. pass. ptc. of λέγω
 
@@ -3126,7 +3126,7 @@ draft: false
 
 εἰσδέχομαι welcome, receive accept
 
-εἴσειμι ([ εἶμι ] inf. εἰσιέναι ; pres. 3 pl. εἰσίασιν ; impf. 3 sg. εἰσῄει) enter, go in
+εἴσειμι (εἶμι ] inf. εἰσιέναι ; pres. 3 pl. εἰσίασιν ; impf. 3 sg. εἰσῄει) enter, go in
 
 εἰσέρχομαι (194)P
 
@@ -3156,7 +3156,7 @@ draft: false
 
 εἰ if; whether; that; if only, surely; since; εἴ τις , εἴ τι whoe*ver), whate*ver); εἴπερ since, if it is true that εἴγε if indeed
 
-εἴωθα (pf. with pres. mng.) be accustomed ( τὸ εἰωθος custom)
+εἴωθα (pf. with pres. mng.) be accustomed τὸ εἰωθος custom)
 
 ἐκ (914)P
 
@@ -3206,7 +3206,7 @@ draft: false
 
 ἐκδιηγέομαι tell or relate (fully)
 
-ἐκδικέω help (someone) get justice; avenge, punish ( ἐ. ἐμαυτόν take revenge Ro 12.19)
+ἐκδικέω help (someone) get justice; avenge, punish ἐ. ἐμαυτόν take revenge Ro 12.19)
 
 ἐκδίκησις , εως f rendering of justice; retribution, punishment, revenge
 
@@ -3350,7 +3350,7 @@ draft: false
 
 ἐκπορεύομαι (33)P
 
-ἐκπορεύομαι go or come out ( ἐ. εἰς ὁδόν set out on a journey Mk 10.17); come from; rise (of the dead); spread (Lk 4.37)
+ἐκπορεύομαι go or come out ἐ. εἰς ὁδόν set out on a journey Mk 10.17); come from; rise (of the dead); spread (Lk 4.37)
 
 ἐκπορνεύω live immorally
 
@@ -3358,7 +3358,7 @@ draft: false
 
 ἐκριζόω uproot
 
-ἔκστασις , εως f amazement; trance, vision ( ἐγένετο ἐπ αὐτὸν ἔ. he had a vision Ac 10.10; cf. Ac 11.5; 22.17)
+ἔκστασις , εως f amazement; trance, vision ἐγένετο ἐπ αὐτὸν ἔ. he had a vision Ac 10.10; cf. Ac 11.5; 22.17)
 
 ἐκστρέφω see ἐκστρέφοραι
 
@@ -3366,7 +3366,7 @@ draft: false
 
 ἐκτείνω (16)P
 
-ἐκτείνω (fut. ἐκτενῶ ; aor. ἐξέτεινα) stretch out, extend ( οὐκ ἐ. τὰς χεῖρας ἐπ ἐμέ you did not arrest me Lk 22.53); lay out (anchors)
+ἐκτείνω (fut. ἐκτενῶ ; aor. ἐξέτεινα) stretch out, extend οὐκ ἐ. τὰς χεῖρας ἐπ ἐμέ you did not arrest me Lk 22.53); lay out (anchors)
 
 ἐκτελέω finish, complete
 
@@ -3438,7 +3438,7 @@ draft: false
 
 ἐλαύνω (pf. ἐλήλακα) drive (of wind or demons); row
 
-ἐλαφρία , ας f vacillation ( τῇ ἐ. χρῶμαι be fickle 2 Cor 1.17)
+ἐλαφρία , ας f vacillation τῇ ἐ. χρῶμαι be fickle 2 Cor 1.17)
 
 ἐλαφρός , ά , όν light, easy to bear; slight, insignificant
 
@@ -3446,7 +3446,7 @@ draft: false
 
 ἐλάχιστος , η , ον (superl. of μικρός) least, smallest; very little, insignificant; ἐλαχιστότερος less than the least (Eph 3.8)
 
-ὀλίγος , η , ον little, small, pl. few ( ἐν ὀλίγῳ in a short while, briefly; πρὸς ὀλίγον for a little while, in only a small way; δῖ ὀλίγων briefly); adv. ὀλίγον a little, only a little
+ὀλίγος , η , ον little, small, pl. few ἐν ὀλίγῳ in a short while, briefly; πρὸς ὀλίγον for a little while, in only a small way; δῖ ὀλίγων briefly); adv. ὀλίγον a little, only a little
 
 ἐλάσσων , ον (comp. of μικρός) lesser, inferior; younger; less (than)
 
@@ -3516,7 +3516,7 @@ draft: false
 
 ἐλπίς (53)P
 
-ἐλπίς , ίδος f hope ( παρ ἐ. ἐπ ἐ. hoping against hope Ro 4.18); ground or basis of hope; what is hoped for
+ἐλπίς , ίδος f hope παρ ἐ. ἐπ ἐ. hoping against hope Ro 4.18); ground or basis of hope; what is hoped for
 
 ελωι (Aramaic word) my God
 
@@ -3564,7 +3564,7 @@ draft: false
 
 ἐμπαίκτης , ου m one who makes fun (of another), mocker
 
-ἐμπεριπατέω live ( ἐν) among
+ἐμπεριπατέω live ἐν) among
 
 ἐμπίπλημι and ἐμπιπλάω (aor. ἐνέπλησα ; pf. pass. ἐμπέπλησμαι ; aor. pass. ἐνεπλήσθην) fill, satisfy; enjoy
 
@@ -3658,7 +3658,7 @@ draft: false
 
 ἔνδυμα , τος n clothing, garment
 
-ἐνδυναμόω strengthen, make strong; pass. become strong ( ἐ. μᾶλλον grow stronger and stronger Ac 9.22)
+ἐνδυναμόω strengthen, make strong; pass. become strong ἐ. μᾶλλον grow stronger and stronger Ac 9.22)
 
 ἐνδύνω enter on the sly, worm in
 
@@ -3676,7 +3676,7 @@ draft: false
 
 ἐνειλέω wrap in
 
-ἔνειμι (ptc. ἑνών) be in or inside ( τὰ ἐ. what is inside Lk 11.41)
+ἔνειμι (ptc. ἑνών) be in or inside τὰ ἐ. what is inside Lk 11.41)
 
 ἔνι (= ἔνεστιν) there is
 
@@ -3697,7 +3697,7 @@ draft: false
 
 ἐνεργέω (21)P
 
-ἐνεργέω (generally of supernatural activity) intrans. work, be at work, be operative; be effective ( πολὺ ἰσχύει ἐ. has powerful effects Jas 5.16); trans. effect, accomplish
+ἐνεργέω (generally of supernatural activity) intrans. work, be at work, be operative; be effective πολὺ ἰσχύει ἐ. has powerful effects Jas 5.16); trans. effect, accomplish
 
 ἐνέργημα , τος n working, activity
 
@@ -3717,11 +3717,11 @@ draft: false
 
 ἔνι (= ἔνεστιν) there is
 
-ἔνειμι (ptc. ἑνών) be in or inside ( τὰ ἐ. what is inside Lk 11.41)
+ἔνειμι (ptc. ἑνών) be in or inside τὰ ἐ. what is inside Lk 11.41)
 
 ἐνιαυτός (14)P
 
-ἐνιαυτός , οῦ m year ( κατ ἐ. yearly)
+ἐνιαυτός , οῦ m year κατ ἐ. yearly)
 
 ἐνίστημι (pf. ἐνέστηκα , ptc. ἐνεστηκώς and ἐνεστώς ; fut. midd. ἐνστήσομαι) be impending, be present, pf. have come, arrived (pf. ptc. present, imminent)
 
@@ -3741,7 +3741,7 @@ draft: false
 
 ἐνοικέω live in
 
-ἐνορκίζω place (someone) under a solemn charge ( ἐ. ὑμᾶς τὸν κύριον I solemnly charge you in the name of the Lord 1 Th 5.27)
+ἐνορκίζω place (someone) under a solemn charge ἐ. ὑμᾶς τὸν κύριον I solemnly charge you in the name of the Lord 1 Th 5.27)
 
 ἑνότης , ητος f unity
 
@@ -3765,7 +3765,7 @@ draft: false
 
 ἐντεῦθεν (10)P
 
-ἐντεῦθεν adv. from here; on this side ( ἐ. καὶ ἐ. on each side Jn 19.18); from this very source (Jas 4.1)
+ἐντεῦθεν adv. from here; on this side ἐ. καὶ ἐ. on each side Jn 19.18); from this very source (Jas 4.1)
 
 ἔντευξις , εως f prayer, petition
 
@@ -3847,7 +3847,7 @@ draft: false
 
 ἐξανατέλλω (aor. ἐξανέτειλα) sprout, spring up
 
-ἐξανίστημι (aor. ἐξανέστησα , subj. 3 sg. ἐξαναστήσῃ) trans. have ( σπέρμα) children; intrans. stand up
+ἐξανίστημι (aor. ἐξανέστησα , subj. 3 sg. ἐξαναστήσῃ) trans. have σπέρμα) children; intrans. stand up
 
 ἐξαπατάω deceive, lead astray
 
@@ -3869,7 +3869,7 @@ draft: false
 
 ἐξεγείρω (fut. ἐξεγερῶ ; aor. ἐξήγειρα) raise; bring into power (Ro 9.17)
 
-ἔξειμι ([ εἶμι ] inf. ἐξιέναι , ptc. ἐξιών; ιμπφ. 3 πλ. ἐξῄεσαν) go away, depart, leave; head for, get to (Ac 27.43)
+ἔξειμι (εἶμι ] inf. ἐξιέναι , ptc. ἐξιών; ιμπφ. 3 πλ. ἐξῄεσαν) go away, depart, leave; head for, get to (Ac 27.43)
 
 ἔξεστι (ptc. ἐξόν) impers. it is proper, permitted or lawful; it is possible
 
@@ -3881,13 +3881,13 @@ draft: false
 
 ἐξέρχομαι (218)P
 
-ἐξέρχομαι (fut. ἑξελεύσομαι ; aor. ἐξῆλθον ; pf. ἐξελήλυθα) come or go out or forth; get out, escape, get away; originate ( ἐ. ἐκ τῆς ὀσφύος descend from He 7.5); be gone, disappear (Ac 16.19)
+ἐξέρχομαι (fut. ἑξελεύσομαι ; aor. ἐξῆλθον ; pf. ἐξελήλυθα) come or go out or forth; get out, escape, get away; originate ἐ. ἐκ τῆς ὀσφύος descend from He 7.5); be gone, disappear (Ac 16.19)
 
 ἔξεστι (31)P
 
 ἔξεστι (ptc. ἐξόν) impers. it is proper, permitted or lawful; it is possible
 
-ἔξειμι ([ εἶμι ] inf. ἐξιέναι , ptc. ἐξιών; ιμπφ. 3 πλ. ἐξῄεσαν) go away, depart, leave; head for, get to (Ac 27.43)
+ἔξειμι (εἶμι ] inf. ἐξιέναι , ptc. ἐξιών; ιμπφ. 3 πλ. ἐξῄεσαν) go away, depart, leave; head for, get to (Ac 27.43)
 
 ἐξετάζω look for; make a careful search; ask
 
@@ -3917,7 +3917,7 @@ draft: false
 
 ἐξομολογέω agree, consent; midd. confess, admit; acknowledge; praise; thank
 
-ἐξορκίζω put (someone) under oath ( κατὰ τοῦ θεοῦ in the name of God)
+ἐξορκίζω put (someone) under oath κατὰ τοῦ θεοῦ in the name of God)
 
 ἐξορκιστής , οῦ m exorcist (one who drives out evil spirits with magic formulas)
 
@@ -3963,7 +3963,7 @@ draft: false
 
 ἑορτή (25)P
 
-ἑορτή , ῆς f festival, feast ( καθ ἑ. at each festival)
+ἑορτή , ῆς f festival, feast καθ ἑ. at each festival)
 
 ἐπαγγελία (52)P
 
@@ -3999,7 +3999,7 @@ draft: false
 
 ἐπαιτέω beg
 
-ἐπακολουθέω follow ( τὰ ἐ. σημεῖα accompanying or authenticating signs Mk 16.20); appear or come later; devote oneself to
+ἐπακολουθέω follow τὰ ἐ. σημεῖα accompanying or authenticating signs Mk 16.20); appear or come later; devote oneself to
 
 ἐπακούω listen to, give attention to
 
@@ -4059,7 +4059,7 @@ draft: false
 
 ἐφοράω (aor. ἐπεῖδον , impv. ἔπιδε) concern oneself with; take notice of
 
-ἔπειμι (fem. ptc. ἐπιοῦσα) come after, be next ( ἡ ἐπιοῦσα the next day)
+ἔπειμι (fem. ptc. ἐπιοῦσα) come after, be next ἡ ἐπιοῦσα the next day)
 
 ἐπιοῦσα , ης f the next day
 
@@ -4089,7 +4089,7 @@ draft: false
 
 ἐπερώτημα , τος n promise, answer; appeal; συνειδήσεως ἀγαθῆς ἐ. εἰς θεόν perhaps promise or answer made to God from a good conscience (1 Pe 3.21)
 
-ἐπέχω (aor. ἐπέσχον) intrans. notice, give close attention to, keep close watch on; stay ( ἐ. χρόνον stay a while Ac 19.22); trans. hold firmly to or offer (Php 2.16)
+ἐπέχω (aor. ἐπέσχον) intrans. notice, give close attention to, keep close watch on; stay ἐ. χρόνον stay a while Ac 19.22); trans. hold firmly to or offer (Php 2.16)
 
 ἐπηρεάζω mistreat, insult
 
@@ -4125,7 +4125,7 @@ draft: false
 
 ἐπίγνωσις (20)P
 
-ἐπίγνωσις , εως f knowledge, recognition, consciousness ( ἔχω ἐν ἐ. acknowledge Ro 1.28)
+ἐπίγνωσις , εως f knowledge, recognition, consciousness ἔχω ἐν ἐ. acknowledge Ro 1.28)
 
 ἐπιγραφή , ῆς f inscription (on a coin); superscription (on the cross)
 
@@ -4195,7 +4195,7 @@ draft: false
 
 ἐπιλέγω call, name; midd. choose
 
-ἐπιλείπω run short ( ἐ. με ὁ χρόνος time is running short for me He 11.32)
+ἐπιλείπω run short ἐ. με ὁ χρόνος time is running short for me He 11.32)
 
 ἐπιλείχω lick
 
@@ -4361,7 +4361,7 @@ draft: false
 
 ἐπιφωνέω shout, cry out
 
-ἐπιφώσκω dawn, draw near, begin ( τῇ ἐ. εἰς μίαν σαββάτων as the first day of the week was dawning Mt 28.1)
+ἐπιφώσκω dawn, draw near, begin τῇ ἐ. εἰς μίαν σαββάτων as the first day of the week was dawning Mt 28.1)
 
 ἐπιχειρέω undertake, attempt, try
 
@@ -4454,7 +4454,7 @@ draft: false
 
 ἔρχομαι (632)P
 
-ἔρχομαι (imperf. ἠρχόμην , fut. ἐλεύσομαι ; aor. ἦλθον and ἦλθα , inf. ἐλθεῖν ; pf. ἐλήλυθα) come ( εἰς τὸ χεῖρον ἐ. grow worse Mk 5.26); appear, make an appearance; go; return (Jn 4.27, 30; Ro 9.9); be brought (Mk 4.21); ἐ. εἰς προκοπήν help the progress (Php 1.12)
+ἔρχομαι (imperf. ἠρχόμην , fut. ἐλεύσομαι ; aor. ἦλθον and ἦλθα , inf. ἐλθεῖν ; pf. ἐλήλυθα) come εἰς τὸ χεῖρον ἐ. grow worse Mk 5.26); appear, make an appearance; go; return (Jn 4.27, 30; Ro 9.9); be brought (Mk 4.21); ἐ. εἰς προκοπήν help the progress (Php 1.12)
 
 ἐρωτάω (63)P
 
@@ -4498,15 +4498,15 @@ draft: false
 
 ἕτερος (98)P
 
-ἕτερος , α , ον other, another ( ἐν ἑτέρῳ in another passage Ac 13.35; He 5.6; γίνομαι ἕ. be altered or changed Lk 9.29; οὐδἑν ἕ. nothing else Ac 17.21); different strange ( σὰρξ ἕ. unnatural lust Jd 7); next ( τῇ ἑ. the next day Ac 20.15; 27.3)
+ἕτερος , α , ον other, another ἐν ἑτέρῳ in another passage Ac 13.35; He 5.6; γίνομαι ἕ. be altered or changed Lk 9.29; οὐδἑν ἕ. nothing else Ac 17.21); different strange σὰρξ ἕ. unnatural lust Jd 7); next τῇ ἑ. the next day Ac 20.15; 27.3)
 
 ἑτέρως adv. otherwise, differently
 
-ἕτερος , α , ον other, another ( ἐν ἑτέρῳ in another passage Ac 13.35; He 5.6; γίνομαι ἕ. be altered or changed Lk 9.29; οὐδἑν ἕ. nothing else Ac 17.21); different strange ( σὰρξ ἕ. unnatural lust Jd 7); next ( τῇ ἑ. the next day Ac 20.15; 27.3)
+ἕτερος , α , ον other, another ἐν ἑτέρῳ in another passage Ac 13.35; He 5.6; γίνομαι ἕ. be altered or changed Lk 9.29; οὐδἑν ἕ. nothing else Ac 17.21); different strange σὰρξ ἕ. unnatural lust Jd 7); next τῇ ἑ. the next day Ac 20.15; 27.3)
 
 ἔτι (93)P
 
-ἔτι adv. still, yet ( οὐκ ἔτι no longer; οὐδὲ ἔτι νῦν not even yet 1 Cor 3.2); even; further, in addition, moreover ( τίς ἔτι χρεία what further need? He 7.11)
+ἔτι adv. still, yet οὐκ ἔτι no longer; οὐδὲ ἔτι νῦν not even yet 1 Cor 3.2); even; further, in addition, moreover τίς ἔτι χρεία what further need? He 7.11)
 
 ἑτοιμάζω (40)P
 
@@ -4516,19 +4516,19 @@ draft: false
 
 ἕτοιμος (17)P
 
-ἕτοιμος , η , ον ready, prepared ( ἐν ἑ. ἔχω be ready 2 Cor 10.6); present, at hand (Jn 7.6); τὰ ἕ. work already done (2 Cor l0.16)
+ἕτοιμος , η , ον ready, prepared ἐν ἑ. ἔχω be ready 2 Cor 10.6); present, at hand (Jn 7.6); τὰ ἕ. work already done (2 Cor l0.16)
 
 ἑτοίμως adv. readily; ἑ. ἔχω be ready or prepared
 
 ἑτοίμως adv. readily; ἑ. ἔχω be ready or prepared
 
-ἕτοιμος , η , ον ready, prepared ( ἐν ἑ. ἔχω be ready 2 Cor 10.6); present, at hand (Jn 7.6); τὰ ἕ. work already done (2 Cor l0.16)
+ἕτοιμος , η , ον ready, prepared ἐν ἑ. ἔχω be ready 2 Cor 10.6); present, at hand (Jn 7.6); τὰ ἕ. work already done (2 Cor l0.16)
 
 ἔτος (49)P
 
-ἔτος , ους n year ( πεντήκουτα ἔτη ἐξω be fifty years old Jn 8.57; κατ ἔτος every year Lk 2.41)
+ἔτος , ους n year πεντήκουτα ἔτη ἐξω be fifty years old Jn 8.57; κατ ἔτος every year Lk 2.41)
 
-εὖ adv. well ( εῦ ποιῶ do good, help); well done! splendid!
+εὖ adv. well εῦ ποιῶ do good, help); well done! splendid!
 
 Εὕα , ας f Eve (2 Cor 11.3; 1 Tm 2.1;3)
 
@@ -4764,7 +4764,7 @@ draft: false
 
 ἐφήμερος , ον daily
 
-ἐφικνέομαι (aor. inf. ἐφικέσθαι) reach, come ( ἄχρι) as far as
+ἐφικνέομαι (aor. inf. ἐφικέσθαι) reach, come ἄχρι) as far as
 
 ἐφίστημι (21)P
 
@@ -4784,11 +4784,11 @@ draft: false
 
 ἔχω (708)P
 
-ἔχω (impf. εἶχον ; fut. ἕξω ; aor. ἔσχον , subj. σχῶ ; pf. ἔσχηκα) trans. have, hold, possess; keep; receive, get; regard, consider, think; can, be able, must (with inf.); be married to; wear (of clothes); be situated ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away Ac 1.12); τὸ νῦν ἔχον for the present (Ac 24.25); intrans. be, feel; impers. it is ( οὕτως ἔχει it is so); midd. ptc. next, neighboring ( τῇ εχομένῃ the next day Lk 13.33)
+ἔχω (impf. εἶχον ; fut. ἕξω ; aor. ἔσχον , subj. σχῶ ; pf. ἔσχηκα) trans. have, hold, possess; keep; receive, get; regard, consider, think; can, be able, must (with inf.); be married to; wear (of clothes); be situated σαββάτου ἔχον ὁδόν a Sabbath day's journey away Ac 1.12); τὸ νῦν ἔχον for the present (Ac 24.25); intrans. be, feel; impers. it is οὕτως ἔχει it is so); midd. ptc. next, neighboring τῇ εχομένῃ the next day Lk 13.33)
 
 ἕως (146)P
 
-ἕως (1) conj. (and ἔως ὅτου or ἕως οὗ) until (with any tense); while (with pres. ind. only); (2) prep. with gen. to, until, as far as, to the point of ( ἕως τέλους to the end, fully; ἕως τοῦ νῦν until now; ἕως τούτου cf. ἐάω); as many as (of numerals); (3) ἕως ἄνω to the brim (Jn 2.7); ἐως ἄρτι until now, so far, still; ἕως ἐπί to (Ac 17.14); ἐως ἔξω outside (Ac 21.5); ἕως καὶ εἰς even into (Ac 26.11); ἔως πότε how long? ἕως πρός as far as (Lk 24.50); ἕως ὧδε as far as this place (Lk 23.5)
+ἕως (1) conj. (and ἔως ὅτου or ἕως οὗ) until (with any tense); while (with pres. ind. only); (2) prep. with gen. to, until, as far as, to the point of ἕως τέλους to the end, fully; ἕως τοῦ νῦν until now; ἕως τούτου cf. ἐάω); as many as (of numerals); (3) ἕως ἄνω to the brim (Jn 2.7); ἐως ἄρτι until now, so far, still; ἕως ἐπί to (Ac 17.14); ἐως ἔξω outside (Ac 21.5); ἕως καὶ εἰς even into (Ac 26.11); ἔως πότε how long? ἕως πρός as far as (Lk 24.50); ἕως ὧδε as far as this place (Lk 23.5)
 
 Ζαβουλών m Zebulun: (1) an Israelite tribe; (2) and its territory (1 C-3, 2 C-3)
 
@@ -4816,7 +4816,7 @@ draft: false
 
 Ζεύς gen. Διός acc. Δία m Zeus
 
-ζέω boil ( ζέων τῷ πνεύματι with enthusiasm Ac 18.25; with a heart full of devotion Ro 12.11)
+ζέω boil ζέων τῷ πνεύματι with enthusiasm Ac 18.25; with a heart full of devotion Ro 12.11)
 
 ζηλεύω be zealous, be earnest
 
@@ -4838,7 +4838,7 @@ draft: false
 
 ζητέω (117)P
 
-ζητέω seek, search or look for; try, attempt, strive for ( ζ. τὸ ἐμαυτοῦ or ζ. τὰ ἐμαυτοῦ strive for one's own interest or advantage); want, ask, ask for; demand, require, expect; consider, deliberate, examine investigate
+ζητέω seek, search or look for; try, attempt, strive for ζ. τὸ ἐμαυτοῦ or ζ. τὰ ἐμαυτοῦ strive for one's own interest or advantage); want, ask, ask for; demand, require, expect; consider, deliberate, examine investigate
 
 ζήτημα , τος n controversial question, point of disagreement
 
@@ -4882,7 +4882,7 @@ draft: false
 
 ἤ (343)P
 
-ἤ particle or ( ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
+ἤ particle or ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
 
 ἤπερ than (strengthened form of ἤ)
 
@@ -4898,7 +4898,7 @@ draft: false
 
 ἡγέομαι (28)P
 
-ἡγέομαι consider, regard, think; lead, rule ( ὁ ἡ. leader, ruler; ὁ ἡ. τοῦ λόγου the chief speaker Ac 14.12)
+ἡγέομαι consider, regard, think; lead, rule ὁ ἡ. leader, ruler; ὁ ἡ. τοῦ λόγου the chief speaker Ac 14.12)
 
 ἡδέως adv. gladly
 
@@ -4924,7 +4924,7 @@ draft: false
 
 ἠλίας (29)P
 
-ἡλικία , ας f age, span of life, years ( ἡλικίαν ἔχω be of age Jn 9.21, 23; καὶ παρὰ καιρὸν ἡ. though she was past age for childbirth He 11.11); height (Lk 19.3; Mt 6.27 = years or height); maturity (Eph 4.13)
+ἡλικία , ας f age, span of life, years ἡλικίαν ἔχω be of age Jn 9.21, 23; καὶ παρὰ καιρὸν ἡ. though she was past age for childbirth He 11.11); height (Lk 19.3; Mt 6.27 = years or height); maturity (Eph 4.13)
 
 ἡλίκος , η , ον how great, how large; how small
 
@@ -4936,7 +4936,7 @@ draft: false
 
 ἡμέρα (389)P
 
-ἡμέρα , ας f day ( καθ ἡμέραν daily; διὰ τριῶν ἡ. in three days; δῖ ἡμερῶν some days later); time; legal day ( ἀνθρωπίνη ἡ. human court 1 Cor 4.3)
+ἡμέρα , ας f day καθ ἡμέραν daily; διὰ τριῶν ἡ. in three days; δῖ ἡμερῶν some days later); time; legal day ἀνθρωπίνη ἡ. human court 1 Cor 4.3)
 
 ἡμέτερος , α , ον our
 
@@ -4952,7 +4952,7 @@ draft: false
 
 ἤπερ than (strengthened form of ἤ)
 
-ἤ particle or ( ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
+ἤ particle or ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
 
 ἤτοι or; ἤτοι . . . ἤ either . . . or
 
@@ -4966,7 +4966,7 @@ draft: false
 
 ἡσσάομαι alt. form of ἡττάομαι
 
-ἡττάομαι be defeated or overcome; be treated worse ( ὑπέρ) than (2 Cor 12.13)
+ἡττάομαι be defeated or overcome; be treated worse ὑπέρ) than (2 Cor 12.13)
 
 ἥσσων , ον gen. ονος less; εις τὸ ἧ. for the worse (1 Cor 11.17)
 
@@ -4978,7 +4978,7 @@ draft: false
 
 ἤτοι or; ἤτοι . . . ἤ either . . . or
 
-ἤ particle or ( ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
+ἤ particle or ἢ . . . ἤ either . . . or; ἢ καί or even; with negatives nor, or); than (of comparison); πρὶν ἤ before; ἀλλ ἤ but rather (Lk 12.51)
 
 ἤπερ than (strengthened form of ἤ)
 
@@ -5037,7 +5037,7 @@ draft: false
 
 θαυμάζω (43)P
 
-θαυμάζω intrans. marvel, wonder, be amazed ( θ. ὀπίσω follow with amazement Re 13.3); trans. marvel or wonder at, admire ( θ. πρόσωπα flatter people Jd 16)
+θαυμάζω intrans. marvel, wonder, be amazed θ. ὀπίσω follow with amazement Re 13.3); trans. marvel or wonder at, admire θ. πρόσωπα flatter people Jd 16)
 
 θαυμάσιος , α , ον wonderful
 
@@ -5091,7 +5091,7 @@ draft: false
 
 θεός (1317)P
 
-θεός , οῦ m God ( κατὰ θεόν according to God's will, godly; after the likeness of God Eph 4.24); god; f goddess (Ac 19.37)
+θεός , οῦ m God κατὰ θεόν according to God's will, godly; after the likeness of God Eph 4.24); god; f goddess (Ac 19.37)
 
 θεοσέβεια , ας f religion, piety
 
@@ -5237,7 +5237,7 @@ draft: false
 
 θύρα (39)P
 
-θύρα , ας f door, gate ( ἐπὶ θ. at the very door); entrance (of a tomb); opportunity
+θύρα , ας f door, gate ἐπὶ θ. at the very door); entrance (of a tomb); opportunity
 
 θυρεός , οῦ m shield
 
@@ -5285,7 +5285,7 @@ draft: false
 
 εἶδον see εἶδος
 
-ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
+ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ὅρα μή do not do that)
 
 ἴδιος (114)P
 
@@ -5333,7 +5333,7 @@ draft: false
 
 ἱκανός (39)P
 
-ἱκανός , ή , όν worthy, fit; sufficient, able ( ἱκανόν ἐστιν it is enough! Lk 22.38; τὸ ἱ. ποιῶ satisfy Mk 15.15; τὸ ἱ. security, peace bond Ac 17.9); large, great, much, pl. many or some ( ἐν λόγοις ἱ. at some length Lk 23.9; ἀπὸ ἱ. ἐτῶν for many years Ro 15.23); long, considerable ( ἐφ ἱ. for a long while Ac 20.11)
+ἱκανός , ή , όν worthy, fit; sufficient, able ἱκανόν ἐστιν it is enough! Lk 22.38; τὸ ἱ. ποιῶ satisfy Mk 15.15; τὸ ἱ. security, peace bond Ac 17.9); large, great, much, pl. many or some ἐν λόγοις ἱ. at some length Lk 23.9; ἀπὸ ἱ. ἐτῶν for many years Ro 15.23); long, considerable ἐφ ἱ. for a long while Ac 20.11)
 
 ἱκανότης , ητος f capacity, capability
 
@@ -5355,7 +5355,7 @@ draft: false
 
 ἱλαστήριον , ου n means by which sins are forgiven (Ro 3.25); place where sins are forgiven (He 9.5)
 
-ἵλεως , ων merciful ( ἵλεώς σοι May God be merciful to you! or God forbid! Mt 16.22)
+ἵλεως , ων merciful ἵλεώς σοι May God be merciful to you! or God forbid! Mt 16.22)
 
 ἱμάς , άντος m strap (of a sandal); perhaps lash, whip (Ac 22.25)
 
@@ -5409,9 +5409,9 @@ draft: false
 
 ἰσκαριώθ (11)P
 
-ἴσος , η , ον equal, the same; in agreement (Mk 14.56, 59); ἴσα adv. equally ( τὸ εἶναι ἴσα equality Php 2.6)
+ἴσος , η , ον equal, the same; in agreement (Mk 14.56, 59); ἴσα adv. equally τὸ εἶναι ἴσα equality Php 2.6)
 
-ἰσότης , ητος f equality ( ἐξ ἰσότητος as a matter of equality 2 Cor 8.13); fairness (of treatment)
+ἰσότης , ητος f equality ἐξ ἰσότητος as a matter of equality 2 Cor 8.13); fairness (of treatment)
 
 ἰσότιμος , ον equally valuable of the same kind, of equal privilege
 
@@ -5435,7 +5435,7 @@ draft: false
 
 ἰσχύω (28)P
 
-ἰσχύω be able, can, have resources ( εἰς οὐδὲν ἰ. be worthless Mt 5.13); win over, defeat; be strong, grow strong (Ac 19.20; on Jas 5.16 cf. ἐνεργέω) ; ὁ. ἰ. a well person
+ἰσχύω be able, can, have resources εἰς οὐδὲν ἰ. be worthless Mt 5.13); win over, defeat; be strong, grow strong (Ac 19.20; on Jas 5.16 cf. ἐνεργέω) ; ὁ. ἰ. a well person
 
 ἴσως adv. perhaps, it may be
 
@@ -5553,7 +5553,7 @@ draft: false
 
 καιρός (85)P
 
-καιρός , οῦ m time (viewed as an occasion rather than an extent), appointed or proper time, season, age ( ἄχρι κ. for a while; ἐν παντι κ. always, at all times; ἐν ᾧ κ. at this time Ac 7.20; πρὸς κ. or προς κ. ὤρας for a brief while; κατα κ. at the right time Ro 5.6, from time to time Jn 5.4; κατὰ τον κ. τουτον »ἐκεῖνον1/4 about this [that] time Ro 9.9; Ac 19.23); opportunity; the last times
+καιρός , οῦ m time (viewed as an occasion rather than an extent), appointed or proper time, season, age ἄχρι κ. for a while; ἐν παντι κ. always, at all times; ἐν ᾧ κ. at this time Ac 7.20; πρὸς κ. or προς κ. ὤρας for a brief while; κατα κ. at the right time Ro 5.6, from time to time Jn 5.4; κατὰ τον κ. τουτον »ἐκεῖνον1/4 about this [that] time Ro 9.9; Ac 19.23); opportunity; the last times
 
 καῖσαρ (29)P
 
@@ -5611,7 +5611,7 @@ draft: false
 
 κακός , ή , όν evil, bad, wrong; injury, harm (as a noun); foul, troublesome (sore)
 
-κακῶς adv. badly, severely ( κ. ἔχω be sick); wrongly, with wrong motive
+κακῶς adv. badly, severely κ. ἔχω be sick); wrongly, with wrong motive
 
 κακοῦργος , ου m criminal
 
@@ -5623,7 +5623,7 @@ draft: false
 
 κακῶς (16)P
 
-κακῶς adv. badly, severely ( κ. ἔχω be sick); wrongly, with wrong motive
+κακῶς adv. badly, severely κ. ἔχω be sick); wrongly, with wrong motive
 
 κακός , ή , όν evil, bad, wrong; injury, harm (as a noun); foul, troublesome (sore)
 
@@ -5657,7 +5657,7 @@ draft: false
 
 καλῶς (35)P
 
-καλῶς adv. well ( οὐ κ. for no good purpose Ga 4.17); rightly, correctly; very well, well enough; please (Jas 2.3); κ. ἔχω be well; κ. ποιῶ do good (Mt 12.12; Lk 6.27), be kind (Ac 10.33; Php 4.14)
+καλῶς adv. well οὐ κ. for no good purpose Ga 4.17); rightly, correctly; very well, well enough; please (Jas 2.3); κ. ἔχω be well; κ. ποιῶ do good (Mt 12.12; Lk 6.27), be kind (Ac 10.33; Php 4.14)
 
 κάμηλος , ου m and f camel
 
@@ -5671,7 +5671,7 @@ draft: false
 
 κἄν (17)P
 
-κἄν (καὶ ἐάν) even if, and if ( κἂν . . . κἄν if . . . or Lk 12.38); even, at least
+κἄν (καὶ ἐάν) even if, and if κἂν . . . κἄν if . . . or Lk 12.38); even, at least
 
 Κανά f Cana (2 C-3)
 
@@ -5711,7 +5711,7 @@ draft: false
 
 κατά (473)P
 
-κατά prep. with: (1) acc. according to, corresponding to, with reference to, just as ( τὰ κ. τινα one's case or circumstances; κ. τὰ αὐτά so, in the same way; κ. ἐμέ my; κ. τὸ αὐτό together Ac 14.1; κ. τί how Lk 1.18); used distributively with numerals and places; in; for; for the purpose of; at, about, (of time); on, upon, along, through, to, toward; off, opposite, near, bordering on; with, by means of, because of; (2) gen. against; down, down from; throughout; by (of oaths) ; over (of authority)
+κατά prep. with: (1) acc. according to, corresponding to, with reference to, just as τὰ κ. τινα one's case or circumstances; κ. τὰ αὐτά so, in the same way; κ. ἐμέ my; κ. τὸ αὐτό together Ac 14.1; κ. τί how Lk 1.18); used distributively with numerals and places; in; for; for the purpose of; at, about, (of time); on, upon, along, through, to, toward; off, opposite, near, bordering on; with, by means of, because of; (2) gen. against; down, down from; throughout; by (of oaths) ; over (of authority)
 
 καταβαίνω (81)P
 
@@ -5721,7 +5721,7 @@ draft: false
 
 καταβαρέω be a burden to
 
-καταβαρύνομαι be very heavy ( ὀφθαλμοι κ. be unable to keep one's eyes open Mk 14.40)
+καταβαρύνομαι be very heavy ὀφθαλμοι κ. be unable to keep one's eyes open Mk 14.40)
 
 καταβαρύνω see καταβαρύνομαι
 
@@ -5747,7 +5747,7 @@ draft: false
 
 καταγράφω write
 
-κατάγω (aor. κατήγαγον , inf. καταγαγεῖν ; aor. pass. κατήχθην , ptc. καταχθείς) bring down; bring (Lk 5.11); pass. put in ( εἰς) at (Ac 27.3; 28.12)
+κατάγω (aor. κατήγαγον , inf. καταγαγεῖν ; aor. pass. κατήχθην , ptc. καταχθείς) bring down; bring (Lk 5.11); pass. put in εἰς) at (Ac 27.3; 28.12)
 
 καταγωνίζομαι conquer, defeat
 
@@ -5831,7 +5831,7 @@ draft: false
 
 καταλείπω (24)P
 
-καταλείπω (aor. κατέλιπον and κατέλειψα ; pf. pass. καταλέλειμμαι) leave, leave behind (pass. often remain); neglect, forsake, abandon; keep ( ἐμαυτῷ) for oneself (Ro 11.4)
+καταλείπω (aor. κατέλιπον and κατέλειψα ; pf. pass. καταλέλειμμαι) leave, leave behind (pass. often remain); neglect, forsake, abandon; keep ἐμαυτῷ) for oneself (Ro 11.4)
 
 καταλιθάζω stone
 
@@ -5869,7 +5869,7 @@ draft: false
 
 κατάνυξις , εως f stupor, numbness
 
-κατανύσσομαι (aor. κατενύγην) be stabbed ( κ. τὴν καρδίαν be deeply troubled Ac 2.37)
+κατανύσσομαι (aor. κατενύγην) be stabbed κ. τὴν καρδίαν be deeply troubled Ac 2.37)
 
 καταξιόω count worthy; make worthy
 
@@ -5885,7 +5885,7 @@ draft: false
 
 καταπίπτω (aor. κατέπεσον , ptc. καταπεσών) fall, fall down
 
-καταπλέω (aor. κατέπλευσα) sail ( εἰς) to
+καταπλέω (aor. κατέπλευσα) sail εἰς) to
 
 καταπονέω mistreat; trouble
 
@@ -5903,13 +5903,13 @@ draft: false
 
 καταρτίζω (13)P
 
-καταρτίζω mend, restore, set right, make complete (midd. strive for perfection 2 Cor 13.11); act. and midd. make, prepare, supply ( κατηρτισμένος fully trained Lk 6.40)
+καταρτίζω mend, restore, set right, make complete (midd. strive for perfection 2 Cor 13.11); act. and midd. make, prepare, supply κατηρτισμένος fully trained Lk 6.40)
 
 κατάρτισις , εως f being made complete
 
 καταρτισμός , οῦ m equipping, training
 
-κατασείω motion, make a sign, give a signal ( κ. τὴν χεῖρα motion with the hand Ac 19.33)
+κατασείω motion, make a sign, give a signal κ. τὴν χεῖρα motion with the hand Ac 19.33)
 
 κατασκάπτω demolish, destroy
 
@@ -6037,7 +6037,7 @@ draft: false
 
 κατοικέω (aor. κατῴκησα) intrans. live, settle; trans. inhabit, live in
 
-κατοίκησις , εως f home ( ἔχω κ. live Mk 5.3)
+κατοίκησις , εως f home ἔχω κ. live Mk 5.3)
 
 κατοικητήριον , ου n house, home; haunt (of demons)
 
@@ -6123,7 +6123,7 @@ draft: false
 
 κενός (18)P
 
-κενός , ή , όν empty, empty-handed; to no purpose, without result ( εἰς κ. in vain); foolish, senseless
+κενός , ή , όν empty, empty-handed; to no purpose, without result εἰς κ. in vain); foolish, senseless
 
 κενῶς adv. in vain, to no purpose
 
@@ -6137,7 +6137,7 @@ draft: false
 
 κενῶς adv. in vain, to no purpose
 
-κενός , ή , όν empty, empty-handed; to no purpose, without result ( εἰς κ. in vain); foolish, senseless
+κενός , ή , όν empty, empty-handed; to no purpose, without result εἰς κ. in vain); foolish, senseless
 
 κεραία , ας f stroke (part of a letter)
 
@@ -6153,7 +6153,7 @@ draft: false
 
 κέρας (11)P
 
-κέρας , ατος n horn (perhaps corner Re 9.13); might, power ( κ. σωτηρίας a mighty Savior Lk 1.69)
+κέρας , ατος n horn (perhaps corner Re 9.13); might, power κ. σωτηρίας a mighty Savior Lk 1.69)
 
 κεράτιον , ου n pod (of the carob tree)
 
@@ -6171,7 +6171,7 @@ draft: false
 
 κεφαλή (75)P
 
-κεφαλή , ῆς f head ( κατὰ κ. ἔχω have one's head covered 1 Cor 11.4); lord, head (of superior rank, etc.); κ. γωνίας main corner-stone
+κεφαλή , ῆς f head κατὰ κ. ἔχω have one's head covered 1 Cor 11.4); lord, head (of superior rank, etc.); κ. γωνίας main corner-stone
 
 κεφαλιόω beat over the head
 
@@ -6197,7 +6197,7 @@ draft: false
 
 Κηφᾶς , ᾶ m Cephas (Aramaic equivalent of Greek Πέτρος , Peter mng. rock)
 
-κιβωτός , οῦ f ark (of a ship); box ( κ. τῆς διαθήκης the covenant box)
+κιβωτός , οῦ f ark (of a ship); box κ. τῆς διαθήκης the covenant box)
 
 κιθάρα , ας f harp
 
@@ -6281,7 +6281,7 @@ draft: false
 
 κλῆρος , ου m lot (of something thrown or drawn to reach a decision); share, part, place; someone given to another's care (1 Pe 5.3)
 
-κληρόω choose ( ἐν ᾧ ἐκληρώθημεν perhaps in whom we were chosen as God's own people Eph 1.11)
+κληρόω choose ἐν ᾧ ἐκληρώθημεν perhaps in whom we were chosen as God's own people Eph 1.11)
 
 κλῆσις (11)P
 
@@ -6327,7 +6327,7 @@ draft: false
 
 κοιλία (22)P
 
-κοιλία , ας f stomach, belly ( ἐκ τῆς κ. αὐτοῦ from within him Jn 7.38); womb ( εκ κ. from birth); appetite, bodily desires (Ro 16.18; Php 3.19)
+κοιλία , ας f stomach, belly ἐκ τῆς κ. αὐτοῦ from within him Jn 7.38); womb εκ κ. from birth); appetite, bodily desires (Ro 16.18; Php 3.19)
 
 κοιμάομαι (18)P
 
@@ -6355,7 +6355,7 @@ draft: false
 
 κοινωνός , οῦ m and f partner, sharer
 
-κοίτη , ης f bed; marital relationship (He 13.4); sperm ( κοίτην ἔχω conceive Ro 9.10); sexual impurity (Ro 13.13)
+κοίτη , ης f bed; marital relationship (He 13.4); sperm κοίτην ἔχω conceive Ro 9.10); sexual impurity (Ro 13.13)
 
 κοιτών , ῶνος m bedroom; ὁ ἐπὶ τοῦ κ. one who is in charge of the bed-chamber (Ac 12.20)
 
@@ -6385,7 +6385,7 @@ draft: false
 
 Κολοσσαί , ῶν f Colossae (4 E-3)
 
-κόλπος , ου m bosom, chest ( εἰς τὸν κ. close to, near Jn 1.18; ἐν τ /|κ. next to Jn 13.23); lap (Lk 6.38); bay, gulf (Ac 27.39)
+κόλπος , ου m bosom, chest εἰς τὸν κ. close to, near Jn 1.18; ἐν τ /|κ. next to Jn 13.23); lap (Lk 6.38); bay, gulf (Ac 27.39)
 
 κολυμβάω swim
 
@@ -6415,7 +6415,7 @@ draft: false
 
 κοπιάω (23)P
 
-κοπιάω work, work hard, labor ( πολλὰ κ. work hard Ro 16.6, 12); become tired, grow weary
+κοπιάω work, work hard, labor πολλὰ κ. work hard Ro 16.6, 12); become tired, grow weary
 
 κόπος (18)P
 
@@ -6515,7 +6515,7 @@ draft: false
 
 κρείττων and κρείσσων , ον gen. ονος better; greater, superior
 
-κρεῖττον and κρεῖσσον adv. better ( κ. λαλῶ παρά speak better things He 12.24)
+κρεῖττον and κρεῖσσον adv. better κ. λαλῶ παρά speak better things He 12.24)
 
 κρεμάννυμι (midd. κρέμαμαι ; aor. ptc. κρεμάσας ; aor. pass. ptc. κρεμασθείς) trans. hang; intrans. (midd.) hang; depend (Mt 22.40)
 
@@ -6533,7 +6533,7 @@ draft: false
 
 κρίμα (27)P
 
-κρίμα , τος n judgment; decision, verdict; condemnation, punishment; lawsuit ( 1 Cor 6.7); power or authority to judge (Re 20.4)
+κρίμα , τος n judgment; decision, verdict; condemnation, punishment; lawsuit 1 Cor 6.7); power or authority to judge (Re 20.4)
 
 κρίνον , ου n lily, attractive wild flower
 
@@ -6547,7 +6547,7 @@ draft: false
 
 Κρίσπος , ου m Crispus (Ac 18.8; 1 Cor 1.14)
 
-κριτήριον , ου n court; case ( κ. ἐλαχίοτων perhaps trivial matters 1 Cor 6.2)
+κριτήριον , ου n court; case κ. ἐλαχίοτων perhaps trivial matters 1 Cor 6.2)
 
 κριτής (19)P
 
@@ -6561,7 +6561,7 @@ draft: false
 
 κρυπτός (17)P
 
-κρυπτός , ή , όν secret, hidden, private; inward, inmost ( ὁ ἐν τῷ κ. Ἰουδαῖος one who is a Jew inwardly Ro 2.29)
+κρυπτός , ή , όν secret, hidden, private; inward, inmost ὁ ἐν τῷ κ. Ἰουδαῖος one who is a Jew inwardly Ro 2.29)
 
 κρύπτω (18)P
 
@@ -6575,7 +6575,7 @@ draft: false
 
 κρυφῇ adv. in secret, secretly
 
-κτάομαι acquire, gain ( τὸ ἑαυτοῦ σκεῦος κτᾶσθαι take a wife for himself or exercise self control 1 Th 4.4); buy
+κτάομαι acquire, gain τὸ ἑαυτοῦ σκεῦος κτᾶσθαι take a wife for himself or exercise self control 1 Th 4.4); buy
 
 κτῆμα , τος n possession, property; piece of land
 
@@ -6689,7 +6689,7 @@ draft: false
 
 λακάω burst open
 
-λακτίζω kick ( λ. πρός kick against)
+λακτίζω kick λ. πρός kick against)
 
 λαλέω (296)P
 
@@ -6747,7 +6747,7 @@ draft: false
 
 λέγω (1329)P
 
-λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell ( λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context)
+λέγω (fut. ἐρῶ ; aor. εἶπον and εἶπα , inf. εἰπεῖν ; pf. εἴρηκα ; plpf. 3 sg. εἰρήκει ; pf. pass. εἴρημαι ; aor. pass. ἐρρέθην , ptc. ῥηθείς) say, speak, tell λέγων in discourse is often redundant); call, name; maintain, assert, declare; mean, intend; think (to oneself); command, order; answer, ask (dependent on context)
 
 εἶπον aor. of λέγω
 
@@ -6849,7 +6849,7 @@ draft: false
 
 λίτρα , ας f pound (of the Roman pound weighing 11.5 ounces)
 
-λίψ acc. λίβα m the southwest wind ( κατὰ λ. facing southwest Ac 27.12)
+λίψ acc. λίβα m the southwest wind κατὰ λ. facing southwest Ac 27.12)
 
 λογεία , ας f contribution, collection
 
@@ -6871,7 +6871,7 @@ draft: false
 
 λόγος (330)P
 
-λόγος , ου m something said e*.g. word; saying; message, teaching; talk, conversation; question after ἐρωτάω ; preaching 1 Tm 5.17; πολὺς ἡμῖν ὁ λόγος we have much to say He 5.11); Word (in Johannine Christology); account, settlement of an account ( πρὸς ὃν ἡμῖν ὁ λόγος to whom we must render an account He 4.13); value (Ac 20.24); reason, grounds ( κατὰ λόγον reasonably, patiently Ac 18.14); charge (Ac 19.38); matter, thing (Ac 8.21); book (Ac 1.1)
+λόγος , ου m something said e*.g. word; saying; message, teaching; talk, conversation; question after ἐρωτάω ; preaching 1 Tm 5.17; πολὺς ἡμῖν ὁ λόγος we have much to say He 5.11); Word (in Johannine Christology); account, settlement of an account πρὸς ὃν ἡμῖν ὁ λόγος to whom we must render an account He 4.13); value (Ac 20.24); reason, grounds κατὰ λόγον reasonably, patiently Ac 18.14); charge (Ac 19.38); matter, thing (Ac 8.21); book (Ac 1.1)
 
 λόγχη , ης f spear
 
@@ -6885,7 +6885,7 @@ draft: false
 
 λοιπός (55)P
 
-λοιπός , ή , όν (i) adj. rest, remaining, other; (2) adv. ( τὸ) λοιπόν finally; from now on, henceforth; still; beyond that, in addition; τοῦ λοιποῦ henceforth, in the future; finally; ὧδε λοιπόν moreover, in this connection
+λοιπός , ή , όν (i) adj. rest, remaining, other; (2) adv. τὸ) λοιπόν finally; from now on, henceforth; still; beyond that, in addition; τοῦ λοιποῦ henceforth, in the future; finally; ὧδε λοιπόν moreover, in this connection
 
 λουκᾶς , ᾶ m Luke
 
@@ -7041,7 +7041,7 @@ draft: false
 
 μᾶλλον (81)P
 
-μᾶλλον adv. more ( πολλῷ μ. much more, all the more; πόσῳ μ. how much more; καλόν ἐστιν μ. it is better; μ. διαφέρω of more value than; πολλῷ μ. κρεῖσσον better by far Php 1.23; μ. περισσότερον all the more Mk 7.36); rather, instead ( μ. ἤ rather than, more than); all the more, more than ever, more than that
+μᾶλλον adv. more πολλῷ μ. much more, all the more; πόσῳ μ. how much more; καλόν ἐστιν μ. it is better; μ. διαφέρω of more value than; πολλῷ μ. κρεῖσσον better by far Php 1.23; μ. περισσότερον all the more Mk 7.36); rather, instead μ. ἤ rather than, more than); all the more, more than ever, more than that
 
 Μάλχος , ου m Malchus (Jn 18.10)
 
@@ -7145,9 +7145,9 @@ draft: false
 
 μεγαλειότης , ητος f majesty, greatness
 
-μεγαλοπρεπής , ές majestic ( μ. δόξα Majestic Glory as a name for God 2 Pe 1.17)
+μεγαλοπρεπής , ές majestic μ. δόξα Majestic Glory as a name for God 2 Pe 1.17)
 
-μεγαλύνω enlarge, extend ( μ. ἔλεος show great kindness Lk 1.58); praise; hold in high honor
+μεγαλύνω enlarge, extend μ. ἔλεος show great kindness Lk 1.58); praise; hold in high honor
 
 μεγάλως adv. greatly
 
@@ -7171,7 +7171,7 @@ draft: false
 
 μέθη , ης f drunkenness
 
-μεθίστημι and μεθιστάνω (aor. μετέστησα , ptc. μεταστήσας ; aor. pass. subj. μετασταθῶ) remove; mislead; bring ( εἰς) into; pass. μ. ἐκ τῆς οἰκονομίας lose one's job as a steward (Lk 16.4)
+μεθίστημι and μεθιστάνω (aor. μετέστησα , ptc. μεταστήσας ; aor. pass. subj. μετασταθῶ) remove; mislead; bring εἰς) into; pass. μ. ἐκ τῆς οἰκονομίας lose one's job as a steward (Lk 16.4)
 
 μεθοδεία , ας f trickery; pl. tricks
 
@@ -7199,7 +7199,7 @@ draft: false
 
 μέλλω (109)P
 
-μέλλω (before an inf.) be going, be about, intend; must, be destined; (ptc. without inf.) coming, future; (finite verb without inf.) delay, wait ( τί μέλλεις what are you waiting for? Ac 22.16)
+μέλλω (before an inf.) be going, be about, intend; must, be destined; (ptc. without inf.) coming, future; (finite verb without inf.) delay, wait τί μέλλεις what are you waiting for? Ac 22.16)
 
 μέλος (34)P
 
@@ -7249,7 +7249,7 @@ draft: false
 
 μεριμνάω be anxious, worry about; care for, be concerned about
 
-μερίς , ίδος f part, portion, share ( τίς μερὶς πιστῷ μετὰ ἀπίστου what does a believer have in common with an unbeliever? 2 Cor 6.15); district (Ac 16.12)
+μερίς , ίδος f part, portion, share τίς μερὶς πιστῷ μετὰ ἀπίστου what does a believer have in common with an unbeliever? 2 Cor 6.15); district (Ac 16.12)
 
 μερισμός , οῦ m distribution, distributing; division, separation
 
@@ -7257,7 +7257,7 @@ draft: false
 
 μέρος (43)P
 
-μέρος , ους n part, piece ( ἀνὰ μέρος one at a time 1 Cor 14.27; ἀπὸ μέρους partially, partly 2 Cor 1.14; at times, at some points Ro 15.15; for a while Ro 15:24; to some degree 2 Cor 2.5; πώρωσις ἀπὸ μέρους a partial hardening Ro 11.25; ἐκ μέρους individually 1 Cor 12.27; partially, imperfectly 1 Cor 13.9ff; τὸ ἐκ μέρους the partial or incomplete 1 Cor 13.10; κατὰ μέρος in detail He 9.5); place, region, district; share, portion; case, matter, circumstance ( ἐν μέρει ἑορτῆς with regard to a festival Cor 2.16); trade, business (Ac 19.27); party, sect (Ac 23.9); side (Jn 21.6)
+μέρος , ους n part, piece ἀνὰ μέρος one at a time 1 Cor 14.27; ἀπὸ μέρους partially, partly 2 Cor 1.14; at times, at some points Ro 15.15; for a while Ro 15:24; to some degree 2 Cor 2.5; πώρωσις ἀπὸ μέρους a partial hardening Ro 11.25; ἐκ μέρους individually 1 Cor 12.27; partially, imperfectly 1 Cor 13.9ff; τὸ ἐκ μέρους the partial or incomplete 1 Cor 13.10; κατὰ μέρος in detail He 9.5); place, region, district; share, portion; case, matter, circumstance ἐν μέρει ἑορτῆς with regard to a festival Cor 2.16); trade, business (Ac 19.27); party, sect (Ac 23.9); side (Jn 21.6)
 
 μεσημβρία , ας f noon, midday; south; κατὰ μ. toward the south or about noon (Ac 8.26)
 
@@ -7271,7 +7271,7 @@ draft: false
 
 μέσος (58)P
 
-μέσος , η , ον (1) adj. middle, in the middle ( ἀνὰ μέσον among Mt 13.25; between 1 Cor 6.5; through Mk 7.31; at the center Re 7.17; ἐν μέσῳ or εἰς μέσον in the middle, in the midst, among; ἐν τῷ μέσῳ before the guests Mt 14.6; ἐν μέσῳ αὐτῆς inside the city Lk 21.21; ἐκ μέσου from, from among; αἴρω ἐκ τοῦ μέσου set aside Col 2.14; γίνομαι ἐκ μέσου be removed disappear 2 Th 2.7; διέρχομαι διὰ μέσον cross the borderland between Lk 17.11; σχίζω μέσον tear in two Lk 23.45); (2) prep. with gen. in the middle, in the midst (Mt 14.24; Php 2.15)
+μέσος , η , ον (1) adj. middle, in the middle ἀνὰ μέσον among Mt 13.25; between 1 Cor 6.5; through Mk 7.31; at the center Re 7.17; ἐν μέσῳ or εἰς μέσον in the middle, in the midst, among; ἐν τῷ μέσῳ before the guests Mt 14.6; ἐν μέσῳ αὐτῆς inside the city Lk 21.21; ἐκ μέσου from, from among; αἴρω ἐκ τοῦ μέσου set aside Col 2.14; γίνομαι ἐκ μέσου be removed disappear 2 Th 2.7; διέρχομαι διὰ μέσον cross the borderland between Lk 17.11; σχίζω μέσον tear in two Lk 23.45); (2) prep. with gen. in the middle, in the midst (Mt 14.24; Php 2.15)
 
 μεσότοιχον , ου n dividing wall
 
@@ -7287,7 +7287,7 @@ draft: false
 
 μετά (469)P
 
-μετά prep. with: (1) gen. with, in company with, among; by, in; on the side of; against; (2) acc. after, behind ( μετὰ τό with inf. after)
+μετά prep. with: (1) gen. with, in company with, among; by, in; on the side of; against; (2) acc. after, behind μετὰ τό with inf. after)
 
 μεταβαίνω (12)P
 
@@ -7331,7 +7331,7 @@ draft: false
 
 μετάνοια , ας f repentance, change of heart, turning from one's sins, change of way
 
-μεταξύ (1) prep. with gen. between, among ( μ. ἀλλήλων τῶν λογισμῶν their conflicting thoughts or their thoughts which argue the case on either side Ro 2.15); (2) adv. meanwhile (Jn 4.31); after ( τὸ μ. σάββατον the next Sabbath Ac 13.42)
+μεταξύ (1) prep. with gen. between, among μ. ἀλλήλων τῶν λογισμῶν their conflicting thoughts or their thoughts which argue the case on either side Ro 2.15); (2) adv. meanwhile (Jn 4.31); after τὸ μ. σάββατον the next Sabbath Ac 13.42)
 
 μεταπέμπομαι (aor. impv. μετάπεμψαι) send for, summon
 
@@ -7365,17 +7365,17 @@ draft: false
 
 μετριοπαθέω be gentle (with), have feeling (for)
 
-μετρίως adv. measurably ( οὐ μετρίως immeasurably, greatly Ac 20.12)
+μετρίως adv. measurably οὐ μετρίως immeasurably, greatly Ac 20.12)
 
 μέτρον (14)P
 
-μέτρον , ου n measure, degree, quantity ( οὐκ ἐκ μέτρου without measure Jn 3.34; κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου , ἐφικέσθαι ἄχρι καὶ ὑμῶν within the limits God assigned us, which allowed us to come as far as you 2 Cor 10.13; κατ ἐνέργειαν ἐν μἐτρῳ ἑνὸς ἑκάστου μέρους by the proper working of each part Eph 4.16)
+μέτρον , ου n measure, degree, quantity οὐκ ἐκ μέτρου without measure Jn 3.34; κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου , ἐφικέσθαι ἄχρι καὶ ὑμῶν within the limits God assigned us, which allowed us to come as far as you 2 Cor 10.13; κατ ἐνέργειαν ἐν μἐτρῳ ἑνὸς ἑκάστου μέρους by the proper working of each part Eph 4.16)
 
 μέτωπον , ου n forehead
 
 μέχρι (17)P
 
-μέχρι and μέχρις (1) prep. with gen. until, to ( μέχρι τέλους to the end); to the extent, to the point; as far as (Ro 15.19); (2) conj. until ( μέχρι οὗ until)
+μέχρι and μέχρις (1) prep. with gen. until, to μέχρι τέλους to the end); to the extent, to the point; as far as (Ro 15.19); (2) conj. until μέχρι οὗ until)
 
 μή (1042)P
 
@@ -7385,7 +7385,7 @@ draft: false
 
 μηδέ (56)P
 
-μηδέ negative particle nor, and not ( μηδὲ . . . μηδέ neither . . . nor); not even
+μηδέ negative particle nor, and not μηδὲ . . . μηδέ neither . . . nor); not even
 
 μηδείς (90)P
 
@@ -7411,8 +7411,8 @@ draft: false
 
 μήν (19)P
 
-μήν , μηνός m month ( κατὰ μῆνα ἕκαστον each month Re 22.2)
-μήν intensive particle indeed, surely ( εἰ μήν surely He 6.14)
+μήν , μηνός m month κατὰ μῆνα ἕκαστον each month Re 22.2)
+μήν intensive particle indeed, surely εἰ μήν surely He 6.14)
 
 μηνύω make known, disclose; inform, report
 
@@ -7426,7 +7426,7 @@ draft: false
 
 μήτε (34)P
 
-μήτε and not ( μήτε . . . μήτε neither . . . nor)
+μήτε and not μήτε . . . μήτε neither . . . nor)
 
 μήτηρ (83)P
 
@@ -7438,7 +7438,7 @@ draft: false
 
 μήτιγε how much more, not to speak of
 
-μήτρα , ας f womb ( πᾶν ἄρσεν διανοῖγον μ. every firstborn male Lk 2.23)
+μήτρα , ας f womb πᾶν ἄρσεν διανοῖγον μ. every firstborn male Lk 2.23)
 
 μητρολῴας , ου m one who murders his mother
 
@@ -7454,7 +7454,7 @@ draft: false
 
 μικρός (46)P
 
-μικρός , ά , όν little, small; of least importance, insignificant, humble ( ἀπὸ μικροῦ ἕως μεγάλου from the least to the greatest Ac 8.10; He 8.11); younger (Mk 15.40); adv. μικρόν a little while, a little farther ( ἔτι μ. a little longer Jn 13.33; 14.19; μετὰ μ. a little later Mt. 26.73); μικρότερος least, smallest
+μικρός , ά , όν little, small; of least importance, insignificant, humble ἀπὸ μικροῦ ἕως μεγάλου from the least to the greatest Ac 8.10; He 8.11); younger (Mk 15.40); adv. μικρόν a little while, a little farther ἔτι μ. a little longer Jn 13.33; 14.19; μετὰ μ. a little later Mt. 26.73); μικρότερος least, smallest
 
 Μίλητος , ου f Miletus (4 E-3)
 
@@ -7564,7 +7564,7 @@ draft: false
 
 μορφή , ῆς f nature, form
 
-μορφόω form ( μέχρις οὗ μ. Χριστὸς ἐν ὑμῖν until Christ's nature be formed in you Ga 4.19)
+μορφόω form μέχρις οὗ μ. Χριστὸς ἐν ὑμῖν until Christ's nature be formed in you Ga 4.19)
 
 μόρφωσις , εως f outward form (2 Tm 3.5); content, full content (Ro 2.20)
 
@@ -7588,11 +7588,11 @@ draft: false
 
 μυκτηρίζω mock, make a fool of
 
-μυλικός , ή , όν pertaining to a mill ( λίθος μ. millstone)
+μυλικός , ή , όν pertaining to a mill λίθος μ. millstone)
 
 μύλινος , η , ον pertaining to a mill, millstone
 
-μύλος , ου m mill; millstone ( μ. ὀνικός large millstone drawn by a donkey)
+μύλος , ου m mill; millstone μ. ὀνικός large millstone drawn by a donkey)
 
 Μύρα , ων n Myra (4 F-3)
 
@@ -7630,7 +7630,7 @@ draft: false
 
 μωρός (12)P
 
-μωρός , ά , όν foolish ( μωρέ you worthless fool! Mt 5.22); τὸ μ. foolishness
+μωρός , ά , όν foolish μωρέ you worthless fool! Mt 5.22); τὸ μ. foolishness
 
 μωϋσῆς (80)P
 
@@ -7692,7 +7692,7 @@ draft: false
 
 νεκρός (128)P
 
-νεκρός , ά , όν dead, lifeless ( ὁ ν. a dead person, corpse; ἐπὶ ν. in the case of dead persons or at death He 9.17); useless, ineffective
+νεκρός , ά , όν dead, lifeless ὁ ν. a dead person, corpse; ἐπὶ ν. in the case of dead persons or at death He 9.17); useless, ineffective
 
 νεκρόω put to death (pf. pass. ptc. as good as dead)
 
@@ -7794,11 +7794,11 @@ draft: false
 
 νόθος , η , ον illegitimate (as of children)
 
-νομή , ῆς f pasture; spreading ( ν. ἔχω spread, eat away 2 Tm 2.17)
+νομή , ῆς f pasture; spreading ν. ἔχω spread, eat away 2 Tm 2.17)
 
 νομίζω (15)P
 
-νομίζω think, suppose, assume ( οὗ ἐνομίζομεν προσευχὴν εἶναι where we thought there would be a place of prayer Ac 16.13); pass. be the custom ( οὗ ἐνομίζετο προσευχη εἶναι where it was customary for a place of prayer to be Ac 16.13)
+νομίζω think, suppose, assume οὗ ἐνομίζομεν προσευχὴν εἶναι where we thought there would be a place of prayer Ac 16.13); pass. be the custom οὗ ἐνομίζετο προσευχη εἶναι where it was customary for a place of prayer to be Ac 16.13)
 
 νομικός , ή , όν pertaining to the law; ὁ ν. lawyer
 
@@ -7810,7 +7810,7 @@ draft: false
 
 νομοθεσία , ας f (God's) giving of the law (to Israel)
 
-νομοθετέομαι be given the law ( ὁ λαὸς γὰρ ἐπ αὐτῆς νε. on the basis of it, i.e. the Levitical priesthood, the people were given the law He 7.11); be based on (He 8.6)
+νομοθετέομαι be given the law ὁ λαὸς γὰρ ἐπ αὐτῆς νε. on the basis of it, i.e. the Levitical priesthood, the people were given the law He 7.11); be based on (He 8.6)
 
 νομοθετέω see νομοθετέομαι
 
@@ -7856,7 +7856,7 @@ draft: false
 
 νυμφίος , ου m bridegroom
 
-νυμφών , ῶνος m wedding hall ( υἱὸς του ν. bridegroom's attendant, wedding guest)
+νυμφών , ῶνος m wedding hall υἱὸς του ν. bridegroom's attendant, wedding guest)
 
 νῦν (147)P
 
@@ -7900,7 +7900,7 @@ draft: false
 
 ξηραίνω (aor. ἐξήρανα ; aor. pass. ἐξηράνθην ; pf. pass. ἐξήραμμαι) dry up, scorch; pass. wither; cease (of a hemorrhage); be ripe (of a harvest); become stiff (Mk 9.18)
 
-ξηρός , ά , όν dry ( ἡ ξηρά land Mt 23.15); withered, paralyzed
+ξηρός , ά , όν dry ἡ ξηρά land Mt 23.15); withered, paralyzed
 
 ξύλινος , η , ον wooden
 
@@ -7936,7 +7936,7 @@ draft: false
 
 ὁδός (101)P
 
-ὁδός , οῦ f way, road; journey ( σαββάτου ἔχον ὁδόν a Sabbath day's journey away, i.e. about half a mile Ac 1.12); way of life, conduct; Way (of the Christian faith and life)
+ὁδός , οῦ f way, road; journey σαββάτου ἔχον ὁδόν a Sabbath day's journey away, i.e. about half a mile Ac 1.12); way of life, conduct; Way (of the Christian faith and life)
 
 ὀδούς (12)P
 
@@ -7960,7 +7960,7 @@ draft: false
 
 οἶδα (318)P
 
-οἶδα (pf. with pres. mng. ἴστε may be 2 pl. ind. or impv., ind. 3 pl. οἴδασι and ἴσασι , subj. εἰδῶ , inf. εἰδέναι , masc. ptc. εἰδώς , fem. ptc. εἰδυῖα; plpf. ᾔδειν ; fut. εἰδήσω) know, understand, perceive ( τοῦτο γὰρ ἴστε γινώσκοντες be very sure of this or you know this very well Eph 5.5); experience, learn, know how; be acquainted with, recognize, acknowledge; remember (1 Cor 1.16); pay proper respect to (1 Th 5.12)
+οἶδα (pf. with pres. mng. ἴστε may be 2 pl. ind. or impv., ind. 3 pl. οἴδασι and ἴσασι , subj. εἰδῶ , inf. εἰδέναι , masc. ptc. εἰδώς , fem. ptc. εἰδυῖα; plpf. ᾔδειν ; fut. εἰδήσω) know, understand, perceive τοῦτο γὰρ ἴστε γινώσκοντες be very sure of this or you know this very well Eph 5.5); experience, learn, know how; be acquainted with, recognize, acknowledge; remember (1 Cor 1.16); pay proper respect to (1 Th 5.12)
 
 εἰδῶ subj. of οἶδα
 
@@ -8008,7 +8008,7 @@ draft: false
 
 οἶκος (114)P
 
-οἶκος , ου m house, home ( κατ οἷκον or κατὰ τοὺς οἴκους from house to house; ἡ κατ οἶκον αὐτῶν ἐκκλησία the church in their house); family household; nation, people; temple, sanctuary
+οἶκος , ου m house, home κατ οἷκον or κατὰ τοὺς οἴκους from house to house; ἡ κατ οἶκον αὐτῶν ἐκκλησία the church in their house); family household; nation, people; temple, sanctuary
 
 οἰκουμένη (15)P
 
@@ -8052,7 +8052,7 @@ draft: false
 
 ὀλίγος (40)P
 
-ὀλίγος , η , ον little, small, pl. few ( ἐν ὀλίγῳ in a short while, briefly; πρὸς ὀλίγον for a little while, in only a small way; δῖ ὀλίγων briefly); adv. ὀλίγον a little, only a little
+ὀλίγος , η , ον little, small, pl. few ἐν ὀλίγῳ in a short while, briefly; πρὸς ὀλίγον for a little while, in only a small way; δῖ ὀλίγων briefly); adv. ὀλίγον a little, only a little
 
 ὀλίγως adv. barely, just
 
@@ -8062,7 +8062,7 @@ draft: false
 
 ὀλοθρευτής , οῦ m destroying angel
 
-ὀλοθρεύω destroy ( ὁ ὀλοθρεύων / ὀλοθρευτής)
+ὀλοθρεύω destroy ὁ ὀλοθρεύων / ὀλοθρευτής)
 
 ὁλοκαύτωμα , τος n whole burnt offering
 
@@ -8074,7 +8074,7 @@ draft: false
 
 ὅλος (109)P
 
-ὅλος , η , ον whole, all, complete, entire ( δῖ ὅλου throughout); altogether, wholly (Jn 9.34; 13.10)
+ὅλος , η , ον whole, all, complete, entire δῖ ὅλου throughout); altogether, wholly (Jn 9.34; 13.10)
 
 ὅλως adv. at all; actually
 
@@ -8084,7 +8084,7 @@ draft: false
 
 ὅλως adv. at all; actually
 
-ὅλος , η , ον whole, all, complete, entire ( δῖ ὅλου throughout); altogether, wholly (Jn 9.34; 13.10)
+ὅλος , η , ον whole, all, complete, entire δῖ ὅλου throughout); altogether, wholly (Jn 9.34; 13.10)
 
 ὄμβρος , ου m shower, rainstorm
 
@@ -8104,7 +8104,7 @@ draft: false
 
 ὁμοθυμαδόν (11)P
 
-ὁμοθυμαδόν adv. with one mind, by common consent, together ( γινὀμενοι ὁ. unanimously Ac 15.25)
+ὁμοθυμαδόν adv. with one mind, by common consent, together γινὀμενοι ὁ. unanimously Ac 15.25)
 
 ὁμοιοπαθής , ές like in every way
 
@@ -8120,7 +8120,7 @@ draft: false
 
 ὁμοιόω make like (pass. resemble, be like; ὁμοιωθεὶς ἀνθρώπῳ in human form Ac 14.11); compare
 
-ὁμοίωμα , τος n likeness ( ἐν ὀ. ἀνθρώπων γενόμενος being born like a man Php 2.7); appearance (Re 9.7); something made to look like, image (Ro 1.23)
+ὁμοίωμα , τος n likeness ἐν ὀ. ἀνθρώπων γενόμενος being born like a man Php 2.7); appearance (Re 9.7); something made to look like, image (Ro 1.23)
 
 ὁμοίως (30)P
 
@@ -8146,7 +8146,7 @@ draft: false
 
 ὅμως adv. even; nevertheless
 
-ὄναρ n dream ( κατ ὄναρ in a dream)
+ὄναρ n dream κατ ὄναρ in a dream)
 
 ὀνάριον , ου n (young) donkey
 
@@ -8160,7 +8160,7 @@ draft: false
 
 ὄνομα (229)P
 
-ὄνομα , τος n name ( κατ ὄ. by name); title; person; authority, power; status, category e*. g. εἰς ὄ. προφήτου because he is a prophet; ἐν ὀ. ὅτι Χριστοῦ ἐστε because you are followers of Christ Mk 9.41); reputation (Mk 6.14; Re 3.1)
+ὄνομα , τος n name κατ ὄ. by name); title; person; authority, power; status, category e*. g. εἰς ὄ. προφήτου because he is a prophet; ἐν ὀ. ὅτι Χριστοῦ ἐστε because you are followers of Christ Mk 9.41); reputation (Mk 6.14; Re 3.1)
 
 ὀνομάζω (10)P
 
@@ -8182,7 +8182,7 @@ draft: false
 
 ὀπίσω (35)P
 
-ὀπίσω (1) prep. with gen. after (after ἔρχομαι or related verbs often follow, be a disciple); behind; away from (Mt 16.23; Mk 8.33); (2) adv. back, behind ( εἰς τὰ ὀπίσω back; around Jn 20.14; τὰ ὀπίσω what lies behind Php 3.13)
+ὀπίσω (1) prep. with gen. after (after ἔρχομαι or related verbs often follow, be a disciple); behind; away from (Mt 16.23; Mk 8.33); (2) adv. back, behind εἰς τὰ ὀπίσω back; around Jn 20.14; τὰ ὀπίσω what lies behind Php 3.13)
 
 ὁπλίζομαι arm oneself with
 
@@ -8190,11 +8190,11 @@ draft: false
 
 ὅπλον , ου n weapon; tool, instrument
 
-ὁποῖος , α , ον correlative pro. of what sort, as, such as ( ὁποῖός ποτε whatever Ga 2.6)
+ὁποῖος , α , ον correlative pro. of what sort, as, such as ὁποῖός ποτε whatever Ga 2.6)
 
 ὅπου (82)P
 
-ὅπου adv. where ( ὄπου ἄν or ὅπου ἐάν wherever, whenever); whereas, while
+ὅπου adv. where ὄπου ἄν or ὅπου ἐάν wherever, whenever); whereas, while
 
 ὀπτάνομαι appear, be seen
 
@@ -8218,7 +8218,7 @@ draft: false
 
 ὁράω (113)P
 
-ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ( ὅρα μή do not do that)
+ὁράω (impf. 3 pl. ἑώρων ; fut. ὄψομαι ; aor. εἶδα and εἶδον , ptc. ἰδών , impv. ἴδετε ; pf. ἑώρακα and ἑόρακα ; aor. pass. ὤφθην , ptc. ὀφθείς ; fut. pass. ὀφθήσομαι) trans. see, observe, notice (pass. appear); perceive, understand, recognize; experience; visit, come to see (He 13.23); intrans. make sure, see to, take care ὅρα μή do not do that)
 
 εἶδον see εἶδος
 
@@ -8242,7 +8242,7 @@ draft: false
 
 ὄρεξις , εως f lustful passion
 
-ὀρθοποδέω be consistent ( πρός) with or make progress ( πρός) towards
+ὀρθοποδέω be consistent πρός) with or make progress πρός) towards
 
 ὀρθός , ή , όν straight; upright, erect
 
@@ -8298,13 +8298,13 @@ draft: false
 
 ὅς (1406)P
 
-ὅς , ἥ , ὅ relative pro. who, which, what, that ( ὃς ἄν or ὃς ἐάν whoever; ὃς μὲν . . . ὃς δέ one . . . another) ; he, she
+ὅς , ἥ , ὅ relative pro. who, which, what, that ὃς ἄν or ὃς ἐάν whoever; ὃς μὲν . . . ὃς δέ one . . . another) ; he, she
 
-οὗ adv. where ( οὗ ἐάν wherever); to which
+οὗ adv. where οὗ ἐάν wherever); to which
 
 ὁσάκις adv. as often as, whenever
 
-ὅσιος , α , ον holy ( τὰ ὅσια sacred promises or blessings Ac 13.34); devout, pious
+ὅσιος , α , ον holy τὰ ὅσια sacred promises or blessings Ac 13.34); devout, pious
 
 ὁσίως adv. in a manner pleasing to God
 
@@ -8312,13 +8312,13 @@ draft: false
 
 ὁσίως adv. in a manner pleasing to God
 
-ὅσιος , α , ον holy ( τὰ ὅσια sacred promises or blessings Ac 13.34); devout, pious
+ὅσιος , α , ον holy τὰ ὅσια sacred promises or blessings Ac 13.34); devout, pious
 
-ὀσμή , ῆς f fragrance ( ὀσμὴ εὐωδίας sweet-smelling offering or fragrant scent Php 4.18)
+ὀσμή , ῆς f fragrance ὀσμὴ εὐωδίας sweet-smelling offering or fragrant scent Php 4.18)
 
 ὅσος (110)P
 
-ὅσος , η , ον correlative pro. as much as, how much; as great as, how great; as far as, how far; whoever ( = ὅσος ἄν , ὅσος ἐάν); pl. as many as, all, everyone; ἐφ ὅσον inasmuch as, while; καθ ὅσον just as, as ( καθ ὅσον . . . κατὰ τοσοῦτο or ὅσα . . . τοσοῦτον to the degree that . . . to the same degree; κατὰ πάντα ὅσα ἄν whatever Ac 3.22); ὅσῳ as, just as, to the degree that (He 8.6); ὅσον . . . μᾶλλον περισσὀτερον the more . . . the more (Mk 7.36); τοσούτῳ . . . ὅσῳ ῾βψ as much . . . as (He 1.4); ὅσον χρὀνον as long as (Mk 2.19); ἔτι γὰρ μικρὸν ὅσον ὅσον for in a very short while (He 10.37)
+ὅσος , η , ον correlative pro. as much as, how much; as great as, how great; as far as, how far; whoever = ὅσος ἄν , ὅσος ἐάν); pl. as many as, all, everyone; ἐφ ὅσον inasmuch as, while; καθ ὅσον just as, as καθ ὅσον . . . κατὰ τοσοῦτο or ὅσα . . . τοσοῦτον to the degree that . . . to the same degree; κατὰ πάντα ὅσα ἄν whatever Ac 3.22); ὅσῳ as, just as, to the degree that (He 8.6); ὅσον . . . μᾶλλον περισσὀτερον the more . . . the more (Mk 7.36); τοσούτῳ . . . ὅσῳ ῾βψ as much . . . as (He 1.4); ὅσον χρὀνον as long as (Mk 2.19); ἔτι γὰρ μικρὸν ὅσον ὅσον for in a very short while (He 10.37)
 
 ὀστέον , ου and ὀστοῦν , οῦ n bone
 
@@ -8330,11 +8330,11 @@ draft: false
 
 ὄσφρησις , εως f sense of smell, nose
 
-ὀσφύς , ύος f waist; reproductive organs ( καρπὸς τής ὀ. descendant Ac 2.30; ἐξέρχομαι ἐκ τῆς ὀ. be descended from He 7.5)
+ὀσφύς , ύος f waist; reproductive organs καρπὸς τής ὀ. descendant Ac 2.30; ἐξέρχομαι ἐκ τῆς ὀ. be descended from He 7.5)
 
 ὅταν (123)P
 
-ὅταν when, whenever, as often as ( εἰ μὴ ὄταν until Mk 9.9)
+ὅταν when, whenever, as often as εἰ μὴ ὄταν until Mk 9.9)
 
 ὅτε (103)P
 
@@ -8342,7 +8342,7 @@ draft: false
 
 ὅτι (1294)P
 
-ὅτι conj. that ( τί ὅτι why? ὡς ὅτι that generally introducing the subjective opinion of the writer, e.g. 2 Cor 5.19; 11.21; 2 Th 2.2); because, for, since; may mark the beginning of direct discourse
+ὅτι conj. that τί ὅτι why? ὡς ὅτι that generally introducing the subjective opinion of the writer, e.g. 2 Cor 5.19; 11.21; 2 Th 2.2); because, for, since; may mark the beginning of direct discourse
 
 οὐ (1624)P
 
@@ -8350,9 +8350,9 @@ draft: false
 
 οὗ (24)P
 
-οὗ adv. where ( οὗ ἐάν wherever); to which
+οὗ adv. where οὗ ἐάν wherever); to which
 
-ὅς , ἥ , ὅ relative pro. who, which, what, that ( ὃς ἄν or ὃς ἐάν whoever; ὃς μὲν . . . ὃς δέ one . . . another) ; he, she
+ὅς , ἥ , ὅ relative pro. who, which, what, that ὃς ἄν or ὃς ἐάν whoever; ὃς μὲν . . . ὃς δέ one . . . another) ; he, she
 
 οὐά interj. aha! ha!
 
@@ -8364,7 +8364,7 @@ draft: false
 
 οὐδέ (143)P
 
-οὐδέ neither, nor, and not ( οὐδὲ . . . οὐδέ neither . . . nor; ἀλλ οὐδέ neither, not even); not, not even
+οὐδέ neither, nor, and not οὐδὲ . . . οὐδέ neither . . . nor; ἀλλ οὐδέ neither, not even); not, not even
 
 οὐδείς (234)P
 
@@ -8376,11 +8376,11 @@ draft: false
 
 οὐδέποτε adv. never
 
-οὐδέπω adv. not yet ( οὐδέπω οὐδείς no one ever before)
+οὐδέπω adv. not yet οὐδέπω οὐδείς no one ever before)
 
 οὐκέτι (47)P
 
-οὐκέτι adv. no longer, no more ( οὐκέτι οὐ μή never again)
+οὐκέτι adv. no longer, no more οὐκέτι οὐ μή never again)
 
 οὐκοῦν adv. so, then
 
@@ -8390,7 +8390,7 @@ draft: false
 
 οὔπω (26)P
 
-οὔπω adv. not yet ( οὐδεὶς οὔπω no one ever before)
+οὔπω adv. not yet οὐδεὶς οὔπω no one ever before)
 
 οὐρά , ᾶς f tail
 
@@ -8410,7 +8410,7 @@ draft: false
 
 οὖς (36)P
 
-οὖς , ὠτός n ear ( πρὸς τὸ οὖς λαλέω whisper Lk 12.3); hearing
+οὖς , ὠτός n ear πρὸς τὸ οὖς λαλέω whisper Lk 12.3); hearing
 
 ὠτίον , ου n ear
 
@@ -8418,7 +8418,7 @@ draft: false
 
 οὔτε (87)P
 
-οὔτε adv. not, no, nor ( οὔτε . . . οὔτε neither . . . nor)
+οὔτε adv. not, no, nor οὔτε . . . οὔτε neither . . . nor)
 
 οὗτος (1387)P
 
@@ -8428,7 +8428,7 @@ draft: false
 
 οὕτως see οὕτω
 
-οὕτω and οὕτως (1) adv. in this way, thus, so, in the same way, like this ( ἔχειν οὕτως often be so or true; τὸ οὕτως εἶναι to remain as one is 1 Cor 7.26); as follows; (2) adj. such, of such kind ( ὁ μὲν οὕτως , ὁ δὲ οὕτως one of one kind and one of another 1 Cor 7.7)
+οὕτω and οὕτως (1) adv. in this way, thus, so, in the same way, like this ἔχειν οὕτως often be so or true; τὸ οὕτως εἶναι to remain as one is 1 Cor 7.26); as follows; (2) adj. such, of such kind ὁ μὲν οὕτως , ὁ δὲ οὕτως one of one kind and one of another 1 Cor 7.7)
 
 οὐχί (54)P
 
@@ -8440,7 +8440,7 @@ draft: false
 
 ὀφειλή , ῆς f debt; what is due (with specific reference to conjugal rights 1 Cor 7.3)
 
-ὀφείλημα , τος n debt ( κατὰ ὀ. as a debt Ro 4.4); wrong, sin, guilt
+ὀφείλημα , τος n debt κατὰ ὀ. as a debt Ro 4.4); wrong, sin, guilt
 
 ὀφείλω (35)P
 
@@ -8452,13 +8452,13 @@ draft: false
 
 ὀφείλω owe; ought, must, be bound or obligated; sin against, wrong (Lk 11.4)
 
-ὄφελος , ους n gain, benefit ( τί τὸ ὄφελος what good is it? Jas 2.14, 16)
+ὄφελος , ους n gain, benefit τί τὸ ὄφελος what good is it? Jas 2.14, 16)
 
 ὀφθαλμοδουλία , ας f service rendered merely for the sake of impressing others
 
 ὀφθαλμός (100)P
 
-ὀφθαλμός , οῦ m eye ( ὀφθαλμὸς πονηρός envy, jealousy Mk 7.22; οἷς κατ ὀφθαλμούς before whose eyes Ga 3.1); sight (Ac 1.9)
+ὀφθαλμός , οῦ m eye ὀφθαλμὸς πονηρός envy, jealousy Mk 7.22; οἷς κατ ὀφθαλμούς before whose eyes Ga 3.1); sight (Ac 1.9)
 
 ὄφις (14)P
 
@@ -8542,7 +8542,7 @@ draft: false
 
 παλαιός , ά , όν old; former
 
-παλαιότης , ητος f age, oldness ( δουλεύω ἐν π. γράμματος serve in the old way of a written law Ro. 7.6)
+παλαιότης , ητος f age, oldness δουλεύω ἐν π. γράμματος serve in the old way of a written law Ro. 7.6)
 
 παλαιόω make or declare old or obsolete; pass. become old or obsolete, wear out
 
@@ -8552,7 +8552,7 @@ draft: false
 
 πάλιν (141)P
 
-πάλιν adv. again, once more ( εἰς τὸ πάλινπάλιν 2 Cor 13.2); back; furthermore; on the other hand, yet
+πάλιν adv. again, once more εἰς τὸ πάλινπάλιν 2 Cor 13.2); back; furthermore; on the other hand, yet
 
 παμπληθεί adv. together, one and all
 
@@ -8594,7 +8594,7 @@ draft: false
 
 παρά (194)P
 
-παρά prep. with: (1) gen. from, of ( τὰ παρά τινος one's provisions, money or gift; οἱ παρ αὐτοῦ his family Mk 3.21); by, with; (2) dat. with, in the presence of, before; in the judgment of; near, beside; for; (3) acc. beside, by, at; on, along; to; than, more than, above; rather than; contrary to; παρὰ τοῦτο because of this (1 Cor 12.15, 16); παρὰ μίαν less one (2 Cor 11.24)
+παρά prep. with: (1) gen. from, of τὰ παρά τινος one's provisions, money or gift; οἱ παρ αὐτοῦ his family Mk 3.21); by, with; (2) dat. with, in the presence of, before; in the judgment of; near, beside; for; (3) acc. beside, by, at; on, along; to; than, more than, above; rather than; contrary to; παρὰ τοῦτο because of this (1 Cor 12.15, 16); παρὰ μίαν less one (2 Cor 11.24)
 
 παραβαίνω (aor. παρέβην) trans. break, disobey; intrans. turn away, leave
 
@@ -8610,13 +8610,13 @@ draft: false
 
 παραβολή (50)P
 
-παραβολή , ῆς f parable, proverb; figure, symbol ( ἥτις π. εἰς this is a figure which refers to He 9.9; ἐν π. so to speak He 11.19)
+παραβολή , ῆς f parable, proverb; figure, symbol ἥτις π. εἰς this is a figure which refers to He 9.9; ἐν π. so to speak He 11.19)
 
 παραγγελία , ας f order, command; instruction
 
 παραγγέλλω (32)P
 
-παραγγέλλω (aor. παρήγγειλα , ptc. παραγγείλας) command, order ( παραγγελίᾳ παραγγέλλω give strict orders Ac 5.28)
+παραγγέλλω (aor. παρήγγειλα , ptc. παραγγείλας) command, order παραγγελίᾳ παραγγέλλω give strict orders Ac 5.28)
 
 παραγίνομαι (37)P
 
@@ -8634,7 +8634,7 @@ draft: false
 
 παραδίδωμι (119)P
 
-παραδίδωμι (pres. 2 sg. παραδίδως , subj. 3 sg. παραδιδῷ and παραδιδοῖ , inf. παραδιδόναι , ptc. παραδιδούς ; impf. 3 sg. παρεδίδου , 3 pl. παρεδίδουν and παρεδίδοσαν ; fut. παραδώσω ; aor. παρέδωκα , 3 pl. παρέδωκαν and παρέδοσαν , subj. 3 sg. παραδῷ and παραδοῖ , inf. παραδοῦναι , ptc. παραδούς ; pf. ptc. παραδεδωκώς ; plpf. 3 pl. παραδεδώκεισαν ; pf. midd. παραδέδομαι ; aor. pass. παρεδόθην , subj. παραδοθῶ , inf. παραδοθῆναι , ptc. παραδοθείς ; fut. pass. παραδοθήσομαι) hand or give over, deliver up (pass. often be arrested); betray, deliver (to death); deliver, entrust, commit, give; hand down, pass on; commend (Ac 14.26; 15.40); risk (Ac 15.26); permit ( ὅταν παραδοῖ ὁ καρπός when the crop permits, i.e. is ripe Mk 4.29)
+παραδίδωμι (pres. 2 sg. παραδίδως , subj. 3 sg. παραδιδῷ and παραδιδοῖ , inf. παραδιδόναι , ptc. παραδιδούς ; impf. 3 sg. παρεδίδου , 3 pl. παρεδίδουν and παρεδίδοσαν ; fut. παραδώσω ; aor. παρέδωκα , 3 pl. παρέδωκαν and παρέδοσαν , subj. 3 sg. παραδῷ and παραδοῖ , inf. παραδοῦναι , ptc. παραδούς ; pf. ptc. παραδεδωκώς ; plpf. 3 pl. παραδεδώκεισαν ; pf. midd. παραδέδομαι ; aor. pass. παρεδόθην , subj. παραδοθῶ , inf. παραδοθῆναι , ptc. παραδοθείς ; fut. pass. παραδοθήσομαι) hand or give over, deliver up (pass. often be arrested); betray, deliver (to death); deliver, entrust, commit, give; hand down, pass on; commend (Ac 14.26; 15.40); risk (Ac 15.26); permit ὅταν παραδοῖ ὁ καρπός when the crop permits, i.e. is ripe Mk 4.29)
 
 παράδοξος , ον incredible, unusual
 
@@ -8654,7 +8654,7 @@ draft: false
 
 παραιτέομαι (12)P
 
-παραιτέομαι (impf. παρῃτούμην ; pf. ptc. παρῃτημένος) ask for, request; excuse ( ἔχε με π. please accept my apologies Lk 14.18b, 19); keep away from, have nothing to do with; ask to escape (death); do not include (1 Tm 5.11); refuse to hear (He 12.25); beg (He 12.19)
+παραιτέομαι (impf. παρῃτούμην ; pf. ptc. παρῃτημένος) ask for, request; excuse ἔχε με π. please accept my apologies Lk 14.18b, 19); keep away from, have nothing to do with; ask to escape (death); do not include (1 Tm 5.11); refuse to hear (He 12.25); beg (He 12.19)
 
 παρακαθέζομαι sit, seat oneself
 
@@ -8670,7 +8670,7 @@ draft: false
 
 παράκλησις (29)P
 
-παράκλησις , εως f encouragement, help; comfort; appeal, request ( μετὰ πολλῆς π. most insistently 2 Cor 8.4); salvation, setting free (Lk 2.25)
+παράκλησις , εως f encouragement, help; comfort; appeal, request μετὰ πολλῆς π. most insistently 2 Cor 8.4); salvation, setting free (Lk 2.25)
 
 παράκλητος , ου m Helper, Intercessor (refers to the Holy Spirit and in 1 Jn 2.1 to Jesus Christ)
 
@@ -8698,7 +8698,7 @@ draft: false
 
 παραλυτικός , οῦ m paralytic, cripple
 
-παραλύομαι be paralyzed ( ὁ παραλελυμένος paralytic); be weak (He 12.12)
+παραλύομαι be paralyzed ὁ παραλελυμένος paralytic); be weak (He 12.12)
 
 παραλύω see παραλύομαι
 
@@ -8778,7 +8778,7 @@ draft: false
 
 πάρειμι (24)P
 
-πάρειμι (inf. παρεῖναι (Ac 24.19; Ga 4.18, 20), ptc. παρών , παροῦσα , παρόν ; impf. 3 pl. παρῆσαν) be present or here ( πρὸς τὸ π. for the moment He 12.11; τὰ π. what one has He 13.5; ἡ π. ἀληθεία the truth which you have 2 Pe 1.12); come
+πάρειμι (inf. παρεῖναι (Ac 24.19; Ga 4.18, 20), ptc. παρών , παροῦσα , παρόν ; impf. 3 pl. παρῆσαν) be present or here πρὸς τὸ π. for the moment He 12.11; τὰ π. what one has He 13.5; ἡ π. ἀληθεία the truth which you have 2 Pe 1.12); come
 
 παρεισάγω bring in under false pretenses, bring in
 
@@ -8788,9 +8788,9 @@ draft: false
 
 παρεισέρχομαι (aor. παρεισῆλθον) come in, slip in
 
-παρεισφέρω (aor. ptc. παρεισενέγκας) exert ( σπουδὴν πᾶσαν π. do one's best 2 Pe 1.5)
+παρεισφέρω (aor. ptc. παρεισενέγκας) exert σπουδὴν πᾶσαν π. do one's best 2 Pe 1.5)
 
-παρεκτός (1) prep. with gen. except, apart from; (2) adv. used as adj. external, unmentioned ( χωρὶς τῶν π. apart from these external things or apart from those things left unmentioned 2 Cor 11.28)
+παρεκτός (1) prep. with gen. except, apart from; (2) adv. used as adj. external, unmentioned χωρὶς τῶν π. apart from these external things or apart from those things left unmentioned 2 Cor 11.28)
 
 παρεμβάλλω (fut. παρεμβαλῶ) set up
 
@@ -8810,11 +8810,11 @@ draft: false
 
 παρέχω (16)P
 
-παρέχω (fut. midd. 2 sg. παρέξῃ ; aor. παρέσχον , ptc. παρασχών) used in act. and midd. cause, bring about, do ( π. κόπους trouble); grant, give, offer, present
+παρέχω (fut. midd. 2 sg. παρέξῃ ; aor. παρέσχον , ptc. παρασχών) used in act. and midd. cause, bring about, do π. κόπους trouble); grant, give, offer, present
 
 παρηγορία , ας f comfort
 
-παρθενία , ας f virginity ( ἀπὸ τῆς π. αὐτῆς from the time of her marriage Lk 2.36)
+παρθενία , ας f virginity ἀπὸ τῆς π. αὐτῆς from the time of her marriage Lk 2.36)
 
 παρθένος (15)P
 
@@ -8868,13 +8868,13 @@ draft: false
 
 παρρησία (31)P
 
-παρρησία , ας f openness, frankness ( παρρησίᾳ openly, plainly, freely); boldness, confidence, assurance; before the public ( ἐν π. εἶναι to be known publicly Jn 7.4; δειγματίζω ἐν π. make a public example of Col 2.15)
+παρρησία , ας f openness, frankness παρρησίᾳ openly, plainly, freely); boldness, confidence, assurance; before the public ἐν π. εἶναι to be known publicly Jn 7.4; δειγματίζω ἐν π. make a public example of Col 2.15)
 
 παρρησιάζομαι speak boldly or freely; have courage (1 Th 2.2)
 
 πᾶς (1243)P
 
-πᾶς , πᾶσα , πᾶν gen. παντός , πάσης , παντός (1) without the article each, every (pl. all); every kind of; all, full, absolute, greatest; (2) with the article entire, whole; all ( πᾶς ὁ with ptc. everyone who); (3) everyone, everything ( διὰ παντός always, continually, forever; κατὰ πάντα in everything, in every respect)
+πᾶς , πᾶσα , πᾶν gen. παντός , πάσης , παντός (1) without the article each, every (pl. all); every kind of; all, full, absolute, greatest; (2) with the article entire, whole; all πᾶς ὁ with ptc. everyone who); (3) everyone, everything διὰ παντός always, continually, forever; κατὰ πάντα in everything, in every respect)
 
 πάσχα (29)P
 
@@ -8890,7 +8890,7 @@ draft: false
 
 πατάσσω strike; strike down; tap, touch (Ac 12.7)
 
-πατέω trans. trample ( π. ληνόν squeeze out the grapes); intrans. walk (Lk 10.19)
+πατέω trans. trample π. ληνόν squeeze out the grapes); intrans. walk (Lk 10.19)
 
 πατήρ (413)P
 
@@ -8948,7 +8948,7 @@ draft: false
 
 πεινάω be hungry, hunger
 
-πεῖρα , ας f attempt ( λαμβάνω π. attempt He 11.29); experience ( ἐμπαιγμῶν π. λαμβάνω undergo ridicule He 11.36)
+πεῖρα , ας f attempt λαμβάνω π. attempt He 11.29); experience ἐμπαιγμῶν π. λαμβάνω undergo ridicule He 11.36)
 
 πειράζω (38)P
 
@@ -8958,7 +8958,7 @@ draft: false
 
 πειρασμός (21)P
 
-πειρασμός , οῦ m period or process of testing, trial, test ( πύρωσις πρὸς π. fiery ordeal 1 Pe 4.12); temptation, enticement
+πειρασμός , οῦ m period or process of testing, trial, test πύρωσις πρὸς π. fiery ordeal 1 Pe 4.12); temptation, enticement
 
 πεισμονή , ῆς f persuasion
 
@@ -8998,7 +8998,7 @@ draft: false
 
 πεντεκαιδέκατος , η , ον fifteenth
 
-πεντήκοντα fifty ( κατὰ π. by fifties)
+πεντήκοντα fifty κατὰ π. by fifties)
 
 πεντηκοστή , ῆς f Pentecost (Jewish festival celebrated on the fiftieth day after the Passover Feast)
 
@@ -9018,7 +9018,7 @@ draft: false
 
 περί (333)P
 
-περί prep. with: (1) gen. about, concerning, of, with reference to; for; on account of ( π. ἁμαρτίας often sin offering); (2) acc. around, about; near; of, with reference to, regarding ( οἱ π. τὰ τοιαῦτα ἐργάται workmen of the same trade Ac 19.25; τὰ π. ἐμέ how I stand Php 2.23); with, in company with
+περί prep. with: (1) gen. about, concerning, of, with reference to; for; on account of π. ἁμαρτίας often sin offering); (2) acc. around, about; near; of, with reference to, regarding οἱ π. τὰ τοιαῦτα ἐργάται workmen of the same trade Ac 19.25; τὰ π. ἐμέ how I stand Php 2.23); with, in company with
 
 περιάγω intrans. go around or about; travel over (Mt 23.15); trans. take along (1 Cor 9.5)
 
@@ -9112,11 +9112,11 @@ draft: false
 
 περισσεύω (39)P
 
-περισσεύω intrans. be left over, be more than enough ( τὸ π. what is left; wealth, ample possessions); increase, abound, overflow; excel, exceed; have plenty, have more than enough; be better off (1 Cor 8.8); π. μᾶλλον do even more (1 Th 4.1, 10); trans. cause to increase or abound; provide in abundance
+περισσεύω intrans. be left over, be more than enough τὸ π. what is left; wealth, ample possessions); increase, abound, overflow; excel, exceed; have plenty, have more than enough; be better off (1 Cor 8.8); π. μᾶλλον do even more (1 Th 4.1, 10); trans. cause to increase or abound; provide in abundance
 
 περισσός (22)P
 
-περισσός , ή , όν (1) adj. more ( λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
+περισσός , ή , όν (1) adj. more λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
 
 περισσῶς adv. all the more, even more; even louder; π. ἐμμαίνομαι be insanely furious (Ac 26.11)
 
@@ -9130,13 +9130,13 @@ draft: false
 
 περισσῶς adv. all the more, even more; even louder; π. ἐμμαίνομαι be insanely furious (Ac 26.11)
 
-περισσός , ή , όν (1) adj. more ( λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
+περισσός , ή , όν (1) adj. more λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
 
 περισσότερος , α , ον (1) adj. more, greater; much more, even more; severest (judgment); (2) adv. more (He 7.15); more clearly (He 6.17); μᾶλλον π. all the more (Mk 7.36)
 
 περισσῶς adv. all the more, even more; even louder; π. ἐμμαίνομαι be insanely furious (Ac 26.11)
 
-περισσός , ή , όν (1) adj. more ( λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
+περισσός , ή , όν (1) adj. more λίαν ἐκ π. utterly, completely Mk 6.51); unnecessary (2 Cor 9.1); (2) adv. to the full (Jn 10.10); (3) τὸ π. advantage (Ro 3.1)
 
 περισσότερος , α , ον (1) adj. more, greater; much more, even more; severest (judgment); (2) adv. more (He 7.15); more clearly (He 6.17); μᾶλλον π. all the more (Mk 7.36)
 
@@ -9156,7 +9156,7 @@ draft: false
 
 περιτομή , ῆς f circumcision (as a religious rite); those who are circumcised, Jews (also ὁ ἐκ π. = Jew)
 
-περιτρέπω drive ( εἰς μανίαν) insane
+περιτρέπω drive εἰς μανίαν) insane
 
 περιτρέχω (aor. περιέδραμον) run about
 
@@ -9172,7 +9172,7 @@ draft: false
 
 Περσίς , ίδος f Persis (Ro 16.12)
 
-πέρυσι adv. a year ago ( ἀπὸ π. a year ago, since last year)
+πέρυσι adv. a year ago ἀπὸ π. a year ago, since last year)
 
 πετεινός (14)P
 
@@ -9224,7 +9224,7 @@ draft: false
 
 πικραίνω (fut. πικρανῶ ; aor. pass. ἐπικράνθην) make bitter; pass. become bitter; be harsh or embittered (Col 3.19)
 
-πικρία , ας f bitterness ( χολὴ πικρίας perhaps bitter envy Ac 8.23); spite, bitter feeling
+πικρία , ας f bitterness χολὴ πικρίας perhaps bitter envy Ac 8.23); spite, bitter feeling
 
 πικρός , ά , όν bitter
 
@@ -9278,7 +9278,7 @@ draft: false
 
 πιστός (67)P
 
-πιστός , ή , όν faithful, trustworthy, reliable; believing (often believer, Christian; ὁ έκ περιτομῆς π. Jewish Christian Ac 10.45); sure, true, unfailing ( τὰ π. sure promises or blessings Ac 13.34)
+πιστός , ή , όν faithful, trustworthy, reliable; believing (often believer, Christian; ὁ έκ περιτομῆς π. Jewish Christian Ac 10.45); sure, true, unfailing τὰ π. sure promises or blessings Ac 13.34)
 
 πιστόομαι firmly believe; be entrusted with
 
@@ -9292,7 +9292,7 @@ draft: false
 
 πλάνη , ης f error, deceit, deception, delusion; lie or deception (Mt 27.64); perhaps perversion (Ro 1.27)
 
-πλανήτης , ου m wanderer ( άστέρες π. stars out of their orbit Jd 13)
+πλανήτης , ου m wanderer άστέρες π. stars out of their orbit Jd 13)
 
 πλάνος , ον deceitful; ὁ π. deceiver, imposter
 
@@ -9330,11 +9330,11 @@ draft: false
 
 πλευρά , ᾶς f side (of the body)
 
-πλέω sail ( ὁ ἐπὶ τόπον πλέων passenger on a ship Re 18.17)
+πλέω sail ὁ ἐπὶ τόπον πλέων passenger on a ship Re 18.17)
 
 πληγή (22)P
 
-πληγή , ῆς f plague, misfortune; blow, beating ( ἐπιτίθημι π. beat Lk 10.30; Ac 16.23); wound ( λούω ἀπὸ π. wash one's wounds Ac 16.33; ἡ π. τοῦ θανάτου fatal wound Re 13.3, 12)
+πληγή , ῆς f plague, misfortune; blow, beating ἐπιτίθημι π. beat Lk 10.30; Ac 16.23); wound λούω ἀπὸ π. wash one's wounds Ac 16.33; ἡ π. τοῦ θανάτου fatal wound Re 13.3, 12)
 
 πλῆθος (31)P
 
@@ -9350,13 +9350,13 @@ draft: false
 
 πλήν (31)P
 
-πλήν (1) conj. but, yet, nevertheless, however ( πλὴν ὅτι except that, only that Ac 20.23; Php 1.18); (2) prep. with gen. except, but, besides
+πλήν (1) conj. but, yet, nevertheless, however πλὴν ὅτι except that, only that Ac 20.23; Php 1.18); (2) prep. with gen. except, but, besides
 
 πλήρης (16)P
 
 πλήρης , ες (indeclinable in Jn 1.14; Ac 6.5) full; complete; full-grown (Mk 4.28); covered (with leprosy)
 
-πληροφορέω accomplish, carry out fully ( τὰ πεπληροφορημένα ἐν ἡμῖν πράγματα those things that have taken place among us Lk 1.1); convince fully, assure fully; proclaim fully (2 Tm 4.17)
+πληροφορέω accomplish, carry out fully τὰ πεπληροφορημένα ἐν ἡμῖν πράγματα those things that have taken place among us Lk 1.1); convince fully, assure fully; proclaim fully (2 Tm 4.17)
 
 πληροφορία , ας f full assurance, conviction, certainty
 
@@ -9366,13 +9366,13 @@ draft: false
 
 πλήρωμα (17)P
 
-πλήρωμα , τος n fullness, completeness (often of the divine being or nature); fulfilling, fulfillment, completion ( τὸ π. τοῦ χρόνου the right time Ga 4.4; cf. Eph 1.10); that which fills, contents ( τὸ π. τῆς γῆς everything on the earth 1 Cor 10.26); patch (of cloth); full number (Ro 11.12, 25); full measure (Ro 15.29)
+πλήρωμα , τος n fullness, completeness (often of the divine being or nature); fulfilling, fulfillment, completion τὸ π. τοῦ χρόνου the right time Ga 4.4; cf. Eph 1.10); that which fills, contents τὸ π. τῆς γῆς everything on the earth 1 Cor 10.26); patch (of cloth); full number (Ro 11.12, 25); full measure (Ro 15.29)
 
 πλησίον (17)P
 
 πλησίον (1) prep. with gen. near; (2) ὁ π. fellow man, neighbor
 
-πλησμονή , ῆς f satisfaction ( οὐκ ἐν τιμῇ τινι πρὸς π. τῆς σαρκός either no value in controlling physical passions or no value, except for satisfying physical passions Col 2.23)
+πλησμονή , ῆς f satisfaction οὐκ ἐν τιμῇ τινι πρὸς π. τῆς σαρκός either no value in controlling physical passions or no value, except for satisfying physical passions Col 2.23)
 
 πλήσσω (aor. pass. ἐπλήγην) strike
 
@@ -9404,13 +9404,13 @@ draft: false
 
 πλοῦτος (22)P
 
-πλοῦτος , ου m and n riches, wealth, abundance ( τὸ π. τῆς ἁπλότητος extreme generosity 2 Cor 8.2); rich blessings, enrichment
+πλοῦτος , ου m and n riches, wealth, abundance τὸ π. τῆς ἁπλότητος extreme generosity 2 Cor 8.2); rich blessings, enrichment
 
 πλύνω wash
 
 πνεῦμα (379)P
 
-πνεῦμα , τος n Spirit (of God); spirit, inner life, self; disposition, state of mind; spirit, spirit being or power, power (often of evil spirits); life ( ἀφίημι τὸ π. die Mt 27.50); wind (He 1.7; perhaps Jn 3.8); breath (2 Th 2.8); ghost, apparition (Lk 24.37, 39)
+πνεῦμα , τος n Spirit (of God); spirit, inner life, self; disposition, state of mind; spirit, spirit being or power, power (often of evil spirits); life ἀφίημι τὸ π. die Mt 27.50); wind (He 1.7; perhaps Jn 3.8); breath (2 Th 2.8); ghost, apparition (Lk 24.37, 39)
 
 πνευματικός (26)P
 
@@ -9438,7 +9438,7 @@ draft: false
 
 ποιέω (568)P
 
-ποιέω (unaugmented plpf. 3 pl. πεποιήκεισαν) make, do, cause, effect, bring about, accomplish, perform, provide; create (of God); produce, yield, bear, put forth; give, prepare, keep, celebrate (of feasts, etc.); claim, pretend (to be somebody); show (mercy, etc.); work, be active; live, practice, act ( καλῶς π. do good, act benevolently or kindly); spend, stay (of time); exercise (authority); wage (war); execute (judgment); give (alms); appoint (Mk 3.14; He 3.2); consider, count (Ac 20.24); often with a noun as a verb equivalent, e.g. π. δέησιν pray (Lk 5.33); π. τὸ ἱκανόν please, satisfy (Mk 15.15); π. λύτρωσιν redeem, set free (Lk 1.68)
+ποιέω (unaugmented plpf. 3 pl. πεποιήκεισαν) make, do, cause, effect, bring about, accomplish, perform, provide; create (of God); produce, yield, bear, put forth; give, prepare, keep, celebrate (of feasts, etc.); claim, pretend (to be somebody); show (mercy, etc.); work, be active; live, practice, act καλῶς π. do good, act benevolently or kindly); spend, stay (of time); exercise (authority); wage (war); execute (judgment); give (alms); appoint (Mk 3.14; He 3.2); consider, count (Ac 20.24); often with a noun as a verb equivalent, e.g. π. δέησιν pray (Lk 5.33); π. τὸ ἱκανόν please, satisfy (Mk 15.15); π. λύτρωσιν redeem, set free (Lk 1.68)
 
 ποίημα , τος n what is created or made
 
@@ -9474,7 +9474,7 @@ draft: false
 
 πόλις (162)P
 
-πόλις , εως f city, town ( κατὰ π. from city to city); inhabitants (of a city)
+πόλις , εως f city, town κατὰ π. from city to city); inhabitants (of a city)
 
 πολιτάρχης , ου m city official, member of the city council
 
@@ -9500,7 +9500,7 @@ draft: false
 
 πολύς (416)P
 
-πολύς , πολλή , πολύ gen. πολλοῦ , ῆς , οῦ (1) much, many (of great crowds; loud mourning; plentiful harvest; deep soil; late hour; long time; etc.); (2) πολλά many things; adv. often, frequently; strictly; insistently; strongly; hard; heartily; etc.; πολύ much, greatly ( ἐπὶ π. a long time Ac 28.6; μετ οὐ π. soon Ac 27.14; π. μᾶλλον much more, all the more He 12.9, 25); πολλῷ μᾶλλον much more, all the more; πολλῷ πλείους many more (Jn 4.41); πολλοῦ for a large sum (Mt 26.9)
+πολύς , πολλή , πολύ gen. πολλοῦ , ῆς , οῦ (1) much, many (of great crowds; loud mourning; plentiful harvest; deep soil; late hour; long time; etc.); (2) πολλά many things; adv. often, frequently; strictly; insistently; strongly; hard; heartily; etc.; πολύ much, greatly ἐπὶ π. a long time Ac 28.6; μετ οὐ π. soon Ac 27.14; π. μᾶλλον much more, all the more He 12.9, 25); πολλῷ μᾶλλον much more, all the more; πολλῷ πλείους many more (Jn 4.41); πολλοῦ for a large sum (Mt 26.9)
 
 πλείων , πλεῖον or πλέον gen. ονος nom. pl. πλείονες or πλείους (comp. of πολύς) more (more than of comparison; πολλῷ π. many more Jn 4.41; διὰ τῶν π. through more and more people 2 Cor 4.15); most, the majority (a larger amount Mt 20.10; Lk 7.43); many, a larger number; greater (greater than of comparison); more acceptable (sacrifice); ἐπὶ π. further, more and more, on and on; very far (2 Tm 3.9); ἐπὶ π. χρὀνον longer (Ac 18.20); δῖ ἐτῶν π. after some years' absence (Ac 24.17)
 
@@ -9524,7 +9524,7 @@ draft: false
 
 πόνος , ου m pain, suffering; hard work
 
-Ποντικός , ή , όν of Pontus ( Τ. τῷ; γένει a native of Pontus Ac 18.2)
+Ποντικός , ή , όν of Pontus Τ. τῷ; γένει a native of Pontus Ac 18.2)
 
 Πόντιος , ου m Pontius
 
@@ -9547,7 +9547,7 @@ draft: false
 
 πορνεία (25)P
 
-πορνεία , ας f sexual immorality ( ἐκ π. οὐκ ἐγεννήθημεν we are not bastards Jn 8.41); unfaithfulness (Mt 5.32; 19-9)
+πορνεία , ας f sexual immorality ἐκ π. οὐκ ἐγεννήθημεν we are not bastards Jn 8.41); unfaithfulness (Mt 5.32; 19-9)
 
 πορνεύω commit sexual immorality
 
@@ -9575,7 +9575,7 @@ draft: false
 
 πόσος (27)P
 
-πόσος , η , ον how much, how many ( πόσῳ μᾶλλον how much more); how much? how many? (Mt 15.34; Lk 16.5, 7)
+πόσος , η , ον how much, how many πόσῳ μᾶλλον how much more); how much? how many? (Mt 15.34; Lk 16.5, 7)
 
 ποταμός (17)P
 
@@ -9587,11 +9587,11 @@ draft: false
 
 ποτέ (29)P
 
-ποτέ enclitic particle once, formerly, at one time; ever, at any time ( ὀυ . . . ποτέ never); at last, after so long (Ro 1.10; Php 4.10); when (Lk 22.32); ὁποιός ποτε whoever or whatever (Ga 2.6)
+ποτέ enclitic particle once, formerly, at one time; ever, at any time ὀυ . . . ποτέ never); at last, after so long (Ro 1.10; Php 4.10); when (Lk 22.32); ὁποιός ποτε whoever or whatever (Ga 2.6)
 
 πότε (19)P
 
-πότε interrog. adv. when? ( ἕως πότε how long?)
+πότε interrog. adv. when? ἕως πότε how long?)
 
 πότερον adv. whether
 
@@ -9633,7 +9633,7 @@ draft: false
 
 πρᾶξις , εως f what one does, deed, action, practice; function (of body parts); magical practice (Ac 19.18)
 
-πρασιά , ᾶς f (lit. garden plot) group ( πρασιαὶ πρασιαί in groups Mk 6.40)
+πρασιά , ᾶς f (lit. garden plot) group πρασιαὶ πρασιαί in groups Mk 6.40)
 
 πράσσω (39)P
 
@@ -9683,7 +9683,7 @@ draft: false
 
 προάγω (20)P
 
-προάγω (aor. προήγαγον , inf. προαγαγεῖν) intrans. go before or ahead of; come or go before ( προάγουσα ἐντολή former commandment He 7.18; αἱ π. προφητεῖαι the prophecies made long ago 1 Tm 1.18); go too far (2 Jn 9); trans. lead or bring out; bring ( ἐπί) before (Ac 25.26)
+προάγω (aor. προήγαγον , inf. προαγαγεῖν) intrans. go before or ahead of; come or go before προάγουσα ἐντολή former commandment He 7.18; αἱ π. προφητεῖαι the prophecies made long ago 1 Tm 1.18); go too far (2 Jn 9); trans. lead or bring out; bring ἐπί) before (Ac 25.26)
 
 προαιρέομαι (pf. προῄρημαι) decide
 
@@ -9713,7 +9713,7 @@ draft: false
 
 προβλέπω see προβλέπομαι
 
-προγίνομαι happen previously ( προγεγόνατα ἁμαρτήματα former sins Ro 3.25)
+προγίνομαι happen previously προγεγόνατα ἁμαρτήματα former sins Ro 3.25)
 
 προγινώσκω (aor. προέγνων) know already, know beforehand; choose from the beginning, choose beforehand
 
@@ -9743,7 +9743,7 @@ draft: false
 
 προεπαγγέλλομαι (aor. προεπηγγειλάμην ; pf. προεπήγγελμαι) promise from the beginning, promise long ago
 
-προέρχομαι (fut. προελεύσομαι ; aor. προῆλθον , ptc. προελθών) go ahead, go on before ( π. τινά arrive before someone Mk 6.33); go before, precede (lead Lk 22.47); go, come; pass along (a street)
+προέρχομαι (fut. προελεύσομαι ; aor. προῆλθον , ptc. προελθών) go ahead, go on before π. τινά arrive before someone Mk 6.33); go before, precede (lead Lk 22.47); go, come; pass along (a street)
 
 προετοιμάζω prepare beforehand
 
@@ -9753,7 +9753,7 @@ draft: false
 
 προέχω see προέχομαι
 
-προηγέομαι outdo, lead the way ( τιμῇ αλλήλους π. perhaps be eager to show respect to one another Ro 12.10)
+προηγέομαι outdo, lead the way τιμῇ αλλήλους π. perhaps be eager to show respect to one another Ro 12.10)
 
 πρόθεσις (12)P
 
@@ -9789,7 +9789,7 @@ draft: false
 
 προκοπή , ῆς f progress, advancement
 
-προκόπτω advance, progress, grow ( π. ἐπὶ τὸ χεῖρον go from bad to worse 2 Tm 3.13); be far gone (of night)
+προκόπτω advance, progress, grow π. ἐπὶ τὸ χεῖρον go from bad to worse 2 Tm 3.13); be far gone (of night)
 
 πρόκριμα , τος n prejudice
 
@@ -9825,7 +9825,7 @@ draft: false
 
 πρός (700)P
 
-πρός prep. with: (1) acc. to; toward; for the sake or purpose of, in order to, so that e*specially of πρὸς τό with inf.); for; against; with, in company with; at, about, near, beside ( τὰ πρὸς τὴν θύραν on the street near the door Mk 2.2); pertaining to, with reference to ( τί πρὸς ἡμᾶς what is it to us? Mt 27.4; πρὸς οὐδὲ ἓν ῥῆμα not even one word Mt 27.14); before, in the presence of; in comparison with (Ro 8.18); (2) dat. at, on, near; (3) gen. for, for the sake of (Ac 27.34)
+πρός prep. with: (1) acc. to; toward; for the sake or purpose of, in order to, so that e*specially of πρὸς τό with inf.); for; against; with, in company with; at, about, near, beside τὰ πρὸς τὴν θύραν on the street near the door Mk 2.2); pertaining to, with reference to τί πρὸς ἡμᾶς what is it to us? Mt 27.4; πρὸς οὐδὲ ἓν ῥῆμα not even one word Mt 27.14); before, in the presence of; in comparison with (Ro 8.18); (2) dat. at, on, near; (3) gen. for, for the sake of (Ac 27.34)
 
 προσάββατον , ου n the day before the Sabbath, Friday
 
@@ -9885,7 +9885,7 @@ draft: false
 
 προσέχω (24)P
 
-προσέχω (aor. προσέσχον ; pf. προσέσχηκα) pay close attention to, hold on to, give oneself to ( οἴνῳ πολλῷ π. be addicted to wine, be fond of much wine 1 Tm 3.8); be on guard, watch, be careful ( π. ἀπό watch out for, be on guard against); serve as a priest (He 7.13)
+προσέχω (aor. προσέσχον ; pf. προσέσχηκα) pay close attention to, hold on to, give oneself to οἴνῳ πολλῷ π. be addicted to wine, be fond of much wine 1 Tm 3.8); be on guard, watch, be careful π. ἀπό watch out for, be on guard against); serve as a priest (He 7.13)
 
 προσηλόω nail to
 
@@ -9919,11 +9919,11 @@ draft: false
 
 προσκολλάω see προσκολλάομαι
 
-πρόσκομμα , τος n that which causes stumbling or offense ( ὁ διὰ προσκόμματος ἐσθίων one who eats something that causes someone else to fall into sin Ro 14.20)
+πρόσκομμα , τος n that which causes stumbling or offense ὁ διὰ προσκόμματος ἐσθίων one who eats something that causes someone else to fall into sin Ro 14.20)
 
 προσκοπή , ῆς f cause for offense
 
-προσκόπτω intrans. stumble; take offense, be offended; beat against (of rain); trans. strike ( τί) something ( πρός) against (Mt 4.6; Lk 4.11)
+προσκόπτω intrans. stumble; take offense, be offended; beat against (of rain); trans. strike τί) something πρός) against (Mt 4.6; Lk 4.11)
 
 προσκυλίω roll against or to
 
@@ -10011,7 +10011,7 @@ draft: false
 
 πρόσωπον (76)P
 
-πρόσωπον , ου n face, countenance, appearance ( τὰ κατὰ π. what is before one's eyes 2 Cor 10.7; ἐν π. καυχῶμαι put on an outward show 2 Cor 5.12; π. τῆς γενέσεως one's natural face Jas 1.23); presence ( ἀπὸ π. from, from the presence of; κατὰ π. in the presence of, face to face; πρὸ π. before, ahead of; εἰς π. in the presence of 2 Cor 8.24); person ( λαμβάνω π. or βλέπω εἰς π. show favoritism; θαυμάζω π. flatter people Jd 16); surface (of the earth)
+πρόσωπον , ου n face, countenance, appearance τὰ κατὰ π. what is before one's eyes 2 Cor 10.7; ἐν π. καυχῶμαι put on an outward show 2 Cor 5.12; π. τῆς γενέσεως one's natural face Jas 1.23); presence ἀπὸ π. from, from the presence of; κατὰ π. in the presence of, face to face; πρὸ π. before, ahead of; εἰς π. in the presence of 2 Cor 8.24); person λαμβάνω π. or βλέπω εἰς π. show favoritism; θαυμάζω π. flatter people Jd 16); surface (of the earth)
 
 προτείνω tie up (with straps) or stretch out (for a beating)
 
@@ -10047,13 +10047,13 @@ draft: false
 
 προφήτης (144)P
 
-προφήτης , ου m prophet (of one who has insight into the divine will and possesses the power of inspired utterance); προφῆται prophetic books of the OT ( νόμος καὶ π. the OT)
+προφήτης , ου m prophet (of one who has insight into the divine will and possesses the power of inspired utterance); προφῆται prophetic books of the OT νόμος καὶ π. the OT)
 
 προφητικός , ή , όν prophetic
 
 προφῆτις , ιδος f prophetess (fem. equivalent of προφήτης)
 
-προφθάνω come before ( π. αὐτὸν ὁ Ἰησοῦς λέγων Jesus spoke to him first Mt 17.25)
+προφθάνω come before π. αὐτὸν ὁ Ἰησοῦς λέγων Jesus spoke to him first Mt 17.25)
 
 προχειρίζομαι midd. choose or appoint for oneself; pass. be chosen or appointed (Ac 3.20)
 
@@ -10067,13 +10067,13 @@ draft: false
 
 πρωΐ adv. early morning, in the morning, morning; εὐθὺς π. as soon as morning came (Mk 15.1); λίαν very early (Mk 16.2); π. ἔννυχα λίαν early morning while it was still dark (Mk 1.35)
 
-πρωΐα , ας f morning ( π. δὲ ἤδη γενομένλης as day was breaking Jn 21.4)
+πρωΐα , ας f morning π. δὲ ἤδη γενομένλης as day was breaking Jn 21.4)
 
 πρωϊνός , ή , όν morning
 
 πρωϊνός , ή , όν morning
 
-πρωΐα , ας f morning ( π. δὲ ἤδη γενομένλης as day was breaking Jn 21.4)
+πρωΐα , ας f morning π. δὲ ἤδη γενομένλης as day was breaking Jn 21.4)
 
 πρῷρα , ης f bow (of a ship)
 
@@ -10137,7 +10137,7 @@ draft: false
 
 πτῶσις , εως f fall
 
-πτωχεία , ας f poverty ( ἡ κατὰ βάθους π. extreme poverty 2 Cor 8.2)
+πτωχεία , ας f poverty ἡ κατὰ βάθους π. extreme poverty 2 Cor 8.2)
 
 πτωχεύω become poor
 
@@ -10145,7 +10145,7 @@ draft: false
 
 πτωχός , ή , όν poor; perhaps pitiful or inferior (Gal 4.9)
 
-πυγμή , ῆς f fist ( πυγμῇ of doubtful mng. with the fist, to the wrist, carefully or in the proper way Mk 7.3)
+πυγμή , ῆς f fist πυγμῇ of doubtful mng. with the fist, to the wrist, carefully or in the proper way Mk 7.3)
 
 πύθων , ωνος m Python (a spirit of divination); ἔχω πνεῦμα π. be a fortuneteller
 
@@ -10293,7 +10293,7 @@ draft: false
 
 ῥύομαι (17)P
 
-ῥύομαι (aor. ἐρρυσάμην , impv. ῥῦσαι , 3 sg. ῥυσάσθω ; aor. pass. ἐρρύσθην , subj. ῥυσθῶ) save, rescue, deliver ( ὁ ῥυόμενος the Deliverer, the Savior Ro 11.26)
+ῥύομαι (aor. ἐρρυσάμην , impv. ῥῦσαι , 3 sg. ῥυσάσθω ; aor. pass. ἐρρύσθην , subj. ῥυσθῶ) save, rescue, deliver ὁ ῥυόμενος the Deliverer, the Savior Ro 11.26)
 
 ῥυπαίνω see ῥυπαίνομαι
 
@@ -10305,7 +10305,7 @@ draft: false
 
 ῥύπος , ου m dirt
 
-ῥύσις , εως f flow ( ῥ. αἵματος hemorrhage, severe bleeding)
+ῥύσις , εως f flow ῥ. αἵματος hemorrhage, severe bleeding)
 
 ῥυτίς , ίδος f wrinkle
 
@@ -10321,7 +10321,7 @@ draft: false
 
 σάββατον (68)P
 
-σάββατον , ου n (often in pl.; Jewish sacred day of worship and rest) the seventh day, Sabbath ( ἡμέρα σαββάτου the Sabbath day); week ( μία or πρώτη σαββάτων the first day of the week; κατὰ μίαν ς. on the first day of every week, every Sunday 1 Cor 16.2; δὶς τοῦ ς. twice a week Lk 18.12); ὁδὸς ς. cf. ὁδός
+σάββατον , ου n (often in pl.; Jewish sacred day of worship and rest) the seventh day, Sabbath ἡμέρα σαββάτου the Sabbath day); week μία or πρώτη σαββάτων the first day of the week; κατὰ μίαν ς. on the first day of every week, every Sunday 1 Cor 16.2; δὶς τοῦ ς. twice a week Lk 18.12); ὁδὸς ς. cf. ὁδός
 
 σαγήνη , ης f dragnet (for fishing)
 
@@ -10347,9 +10347,9 @@ draft: false
 
 σαλεύω (15)P
 
-σαλεύω shake ( σαλευθῆναι ἀπὸ τοῦ νοός be unsettled in mind, be confused 2 Th 2.2); stir up (a crowd); pf. pass. ptc. shaken together (Lk 6.38)
+σαλεύω shake σαλευθῆναι ἀπὸ τοῦ νοός be unsettled in mind, be confused 2 Th 2.2); stir up (a crowd); pf. pass. ptc. shaken together (Lk 6.38)
 
-Σαλήμ f Salem ( βασιλεὺς Σ. king of Salem or king of peace He 7.1, 2)
+Σαλήμ f Salem βασιλεὺς Σ. king of Salem or king of peace He 7.1, 2)
 
 Σαλμών m Salmon (Mt 1.4, 5; Lk 3.32)
 
@@ -10413,7 +10413,7 @@ draft: false
 
 σάρξ (147)P
 
-σάρξ , σαρκός f flesh, physical body; human nature, earthly descent ( κατὰ ς. by earthly descent, τεκνα τῆς σαρκός physical descendants Ro 9.8 εἴ πως παραζηλώσω μου τὴν σάρκα perhaps I can make the people of my own race jealous Ro 11.14); one's lower nature, sinful human nature ( κατὰ ς. or ἐν ς. under the control of one's sinful nature); human being, person, man ( κατὰ ς. by human standards, from a human point of view, as far as externals are concerned); earthly life, human realm of existence ( ὁ κατὰ ς. κύριος earthly master Col 3.22; ὁ τῆς ς. πατήρ human father He 12.9; ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ during his earthly life He 5.7); sexual impulse ( ἐκ θελήματος σαρκός from sexual desire Jn 1.13; ἀπέρχομαι ὀπίσω ς. ἑτέρας commit sexual immorality Jd 7)
+σάρξ , σαρκός f flesh, physical body; human nature, earthly descent κατὰ ς. by earthly descent, τεκνα τῆς σαρκός physical descendants Ro 9.8 εἴ πως παραζηλώσω μου τὴν σάρκα perhaps I can make the people of my own race jealous Ro 11.14); one's lower nature, sinful human nature κατὰ ς. or ἐν ς. under the control of one's sinful nature); human being, person, man κατὰ ς. by human standards, from a human point of view, as far as externals are concerned); earthly life, human realm of existence ὁ κατὰ ς. κύριος earthly master Col 3.22; ὁ τῆς ς. πατήρ human father He 12.9; ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ during his earthly life He 5.7); sexual impulse ἐκ θελήματος σαρκός from sexual desire Jn 1.13; ἀπέρχομαι ὀπίσω ς. ἑτέρας commit sexual immorality Jd 7)
 
 σαρόω sweep (a house)
 
@@ -10437,7 +10437,7 @@ draft: false
 
 σεαυτοῦ (43)P
 
-σεαυτοῦ , ῆς reflexive pro. yourself ( κατὰ ς. ἔχε ἐνώπιον τοῦ θεοῦ keep it a matter between yourself and God Ro 14.22)
+σεαυτοῦ , ῆς reflexive pro. yourself κατὰ ς. ἔχε ἐνώπιον τοῦ θεοῦ keep it a matter between yourself and God Ro 14.22)
 
 σεβάζομαι worship, reverence
 
@@ -10553,7 +10553,7 @@ draft: false
 
 σιτίον , ου n grain; pl. food
 
-σιτιστός , ή , όν fattened ( τὰ ς. fattened calves)
+σιτιστός , ή , όν fattened τὰ ς. fattened calves)
 
 σιτομέτριον , ου n food allowance, ration
 
@@ -10561,11 +10561,11 @@ draft: false
 
 σῖτος , ου m grain; wheat
 
-Σιών f Mount Zion; Jerusalem ( θυγάτηρ Σιών Jerusalem)
+Σιών f Mount Zion; Jerusalem θυγάτηρ Σιών Jerusalem)
 
 σιωπάω (10)P
 
-σιωπάω be silent or quiet ( ἔσῃ ς. you shall be struck dumb Lk 1.20); stop talking: calm down (of the sea)
+σιωπάω be silent or quiet ἔσῃ ς. you shall be struck dumb Lk 1.20); stop talking: calm down (of the sea)
 
 σκανδαλίζω (29)P
 
@@ -10611,7 +10611,7 @@ draft: false
 
 σκληροκαρδία , ας f stubbornness (of persons hard to teach)
 
-σκληρός , ά , όν hard, difficult ( σκληρόν σοι it is hard for you Ac 26.13); strong (wind); harsh, terrible (Jd 15)
+σκληρός , ά , όν hard, difficult σκληρόν σοι it is hard for you Ac 26.13); strong (wind); harsh, terrible (Jd 15)
 
 σκληρότης , ητος f hardness, stubbornness
 
@@ -10625,7 +10625,7 @@ draft: false
 
 σκοπέω pay attention to, keep one's attention on; be concerned about; watch out (for), be careful
 
-σκοπός , οῦ m goal ( κατὰ ς. toward the goal Php 3.14)
+σκοπός , οῦ m goal κατὰ ς. toward the goal Php 3.14)
 
 σκορπίζω scatter, disperse; be generous (2 Cor 9.9)
 
@@ -10744,7 +10744,7 @@ draft: false
 
 σπλάγχνον (11)P
 
-σπλάγχνον , ου n one's inmost self or feelings, heart; affection, love ( διὰ ς. ἐλέους θεοῦ because of God's tender mercy Lk 1.78); τὰ ς. entrails (Ac 1.18)
+σπλάγχνον , ου n one's inmost self or feelings, heart; affection, love διὰ ς. ἐλέους θεοῦ because of God's tender mercy Lk 1.78); τὰ ς. entrails (Ac 1.18)
 
 σπόγγος , ου m sponge
 
@@ -10762,9 +10762,9 @@ draft: false
 
 σπουδαῖος , α , ον earnest, eager; comp. σπουδαιότερος very earnest (2 Cor 8.17), πολὺ ς. more earnest than ever (2 Cor 8.22)
 
-σπουδαίως adv. earnestly, diligently, eagerly ( αὐτοὺς ς. πρόπεμψον do your best to help them get started on their travels Tt 3.13); comp. σπουδαιοτέρως all the more eagerly or with great urgency (Php 2.28)
+σπουδαίως adv. earnestly, diligently, eagerly αὐτοὺς ς. πρόπεμψον do your best to help them get started on their travels Tt 3.13); comp. σπουδαιοτέρως all the more eagerly or with great urgency (Php 2.28)
 
-σπουδαίως adv. earnestly, diligently, eagerly ( αὐτοὺς ς. πρόπεμψον do your best to help them get started on their travels Tt 3.13); comp. σπουδαιοτέρως all the more eagerly or with great urgency (Php 2.28)
+σπουδαίως adv. earnestly, diligently, eagerly αὐτοὺς ς. πρόπεμψον do your best to help them get started on their travels Tt 3.13); comp. σπουδαιοτέρως all the more eagerly or with great urgency (Php 2.28)
 
 σπουδαῖος , α , ον earnest, eager; comp. σπουδαιότερος very earnest (2 Cor 8.17), πολὺ ς. more earnest than ever (2 Cor 8.22)
 
@@ -10874,7 +10874,7 @@ draft: false
 
 στόμα (78)P
 
-στόμα , τος n mouth ( ς. πρὸς ς. face to face 2 Jn 12; 3 Jn 14); word(s), utterance; power of speech ( ἀνεῴχθη δὲ τὸ ς. αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ and immediately his power of speech was restored Lk 1.64); eloquence, ability to speak with persuasion (Lk 21.15); evidence, testimony (Mt 18.16); edge (of a sword)
+στόμα , τος n mouth ς. πρὸς ς. face to face 2 Jn 12; 3 Jn 14); word(s), utterance; power of speech ἀνεῴχθη δὲ τὸ ς. αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ and immediately his power of speech was restored Lk 1.64); eloquence, ability to speak with persuasion (Lk 21.15); evidence, testimony (Mt 18.16); edge (of a sword)
 
 στόμαχος , ου m stomach
 
@@ -10890,7 +10890,7 @@ draft: false
 
 στρατηγός , οῦ m chief magistrate (the highest civil official in Philippi); ς. τοῦ ἱεροῦ captain of the temple guard
 
-στρατιά , ᾶς f army ( ς. τοῦ οὐρανοῦ the stars of heaven Ac 7.42)
+στρατιά , ᾶς f army ς. τοῦ οὐρανοῦ the stars of heaven Ac 7.42)
 
 στρατιώτης (26)P
 
@@ -10904,7 +10904,7 @@ draft: false
 
 στρέφω (21)P
 
-στρέφω (aor. pass. ἐστράφην , ptc. στραφείς) intrans. (mostly in pass.) turn, turn around ( ἐστράφη εἰς τὰ ὀπίσω she turned around Jn 20.14); change inwardly (Mt 18.3); turn away (Ac 7.42); trans. turn, offer (Mt 5.39); turn, change (Re 11.6); return, give back (Mt 27.3)
+στρέφω (aor. pass. ἐστράφην , ptc. στραφείς) intrans. (mostly in pass.) turn, turn around ἐστράφη εἰς τὰ ὀπίσω she turned around Jn 20.14); change inwardly (Mt 18.3); turn away (Ac 7.42); trans. turn, offer (Mt 5.39); turn, change (Re 11.6); return, give back (Mt 27.3)
 
 στρηνιάω live in sensuality or luxury
 
@@ -10956,7 +10956,7 @@ draft: false
 
 συγκατατίθεμαι (pf. ptc. συγκατατεθειμένος) agree with, consent to
 
-συγκαταψηφίζομαι be enrolled ( μετά) with or included ( μετά) among
+συγκαταψηφίζομαι be enrolled μετά) with or included μετά) among
 
 συγκεράννυμι (aor. συνεκέρασα ; pf. pass. συγκεκέρασμαι and συγκέκραμαι) unite; put together, arrange (the body)
 
@@ -10976,7 +10976,7 @@ draft: false
 
 συγκύπτω bend double
 
-συγκυρία , ας f chance, coincidence ( κατὰ ς. by chance Lk 10.31)
+συγκυρία , ας f chance, coincidence κατὰ ς. by chance Lk 10.31)
 
 συγχαίρω (aor. impv. 2 pl. συγχάρητε) rejoice with or together; congratulate
 
@@ -11038,7 +11038,7 @@ draft: false
 
 συμβουλεύω advise, counsel; midd. confer, consult, plot
 
-συμβούλιον , ου n plan, plot ( ς. λαμβάνω plan, plot, hold counsel); council, advisers (Ac 25.12)
+συμβούλιον , ου n plan, plot ς. λαμβάνω plan, plot, hold counsel); council, advisers (Ac 25.12)
 
 σύμβουλος , ου m counselor, adviser
 
@@ -11094,13 +11094,13 @@ draft: false
 
 συμπορεύομαι go or walk along with; ς. πρός flock to or gather around (Mk 10.1)
 
-συμπόσιον , ου n group sharing a meal ( συμπόσια συμπόσια in groups Mk 6.39)
+συμπόσιον , ου n group sharing a meal συμπόσια συμπόσια in groups Mk 6.39)
 
 συμπρεσβύτερος , ου m fellow-elder
 
 συμφέρω (15)P
 
-συμφέρω (aor. ptc. συνενέγκας) most often impers. it is better, it is to one's advantage, it is helpful, good or useful ( ἐπὶ τὸ συμφέρον for our good He 12.10; οὐ συμφέρον it does no good 2 Cor 12.1); bring together, collect (Ac 19.19)
+συμφέρω (aor. ptc. συνενέγκας) most often impers. it is better, it is to one's advantage, it is helpful, good or useful ἐπὶ τὸ συμφέρον for our good He 12.10; οὐ συμφέρον it does no good 2 Cor 12.1); bring together, collect (Ac 19.19)
 
 σύμφημι agree with
 
@@ -11114,7 +11114,7 @@ draft: false
 
 συμφύω see συμφύομαι
 
-συμφωνέω agree with, be in agreement, agree ( συνεφωνήθη ὑμῖν you agreed Ac 5.9); match, fit together (of cloth)
+συμφωνέω agree with, be in agreement, agree συνεφωνήθη ὑμῖν you agreed Ac 5.9); match, fit together (of cloth)
 
 συμφώνησις , εως f agreement, common ground
 
@@ -11144,7 +11144,7 @@ draft: false
 
 συναθροίζω gather, gather together
 
-συναίρω (aor. inf. συνᾶραι) settle ( ς. λόγον settle accounts)
+συναίρω (aor. inf. συνᾶραι) settle ς. λόγον settle accounts)
 
 συναιχμάλωτος , ου m fellow-prisoner
 
@@ -11152,11 +11152,11 @@ draft: false
 
 συναλίζομαι eat with; assemble; perhaps an alternative spelling of συναυλίζομαι stay with
 
-συναλλάσσω reconcile ( ς. αὐτούς εἰς εἰρήνην he tried to make peace between them Ac 7.26)
+συναλλάσσω reconcile ς. αὐτούς εἰς εἰρήνην he tried to make peace between them Ac 7.26)
 
 συναναβαίνω (aor. ptc. συναναβάς) come up together with, travel with
 
-συνανάκειμαι sit at table with, eat with ( ὁ ς. guest)
+συνανάκειμαι sit at table with, eat with ὁ ς. guest)
 
 συναναμίγνυμι associate with, have dealings with
 
@@ -11186,9 +11186,9 @@ draft: false
 
 συναυξάνω see συναυξάνομαι
 
-σύνδεσμος , ου m that which binds together, bond; chain or bundle ( ς. ἀδικίας bound by sin or a bundle of sin Ac 8.23); ligament (Col 2.19)
+σύνδεσμος , ου m that which binds together, bond; chain or bundle ς. ἀδικίας bound by sin or a bundle of sin Ac 8.23); ligament (Col 2.19)
 
-συνδέομαι be in prison with ( ὁ συνδδδεμένος fellow prisoner He 13.3)
+συνδέομαι be in prison with ὁ συνδδδεμένος fellow prisoner He 13.3)
 
 συνδέω see συνδέομαι
 
@@ -11210,7 +11210,7 @@ draft: false
 
 συνείδησις (30)P
 
-συνείδησις , εως f conscience ( ἔχω ς. ἁμαρτιῶν feel guilty of sin He 1O.2); awareness, consciousness (1 Pe 2.19)
+συνείδησις , εως f conscience ἔχω ς. ἁμαρτιῶν feel guilty of sin He 1O.2); awareness, consciousness (1 Pe 2.19)
 
 σύνειμι (from εἰμί ; ptc. συνών ; impf. 3 pl. συνῆσαν) be present, be with
 σύνειμι (from εἶμι ; ptc. συνιών) gather, collect (of crowds)
@@ -11349,7 +11349,7 @@ draft: false
 
 σύσσωμος , ον member of the same body
 
-συστατικός , ή , όν commendatory ( ς. ἐπιστολή letter of recommendation 2 Cor 3.1)
+συστατικός , ή , όν commendatory ς. ἐπιστολή letter of recommendation 2 Cor 3.1)
 
 συσταυρόομαι be crucified together (with someone else)
 
@@ -11401,7 +11401,7 @@ draft: false
 
 σχεδόν adv. almost, nearly
 
-σχῆμα , τος n outward form, present form (of this world); form, likeness, nature ( ς. εὑρεθεὶς ὡς ἄνθρωπος assuming human form, appearing in human likeness Php 2.7)
+σχῆμα , τος n outward form, present form (of this world); form, likeness, nature ς. εὑρεθεὶς ὡς ἄνθρωπος assuming human form, appearing in human likeness Php 2.7)
 
 σχίζω (11)P
 
@@ -11467,7 +11467,7 @@ draft: false
 
 σωφρόνως adv. according to good sense, showing self-control
 
-ταβέρνη , ης f rest-house, inn, tavern ( Τρεῖς τ. Three Taverns Ac 28.15) (4 A-1)
+ταβέρνη , ης f rest-house, inn, tavern Τρεῖς τ. Three Taverns Ac 28.15) (4 A-1)
 
 Ταβιθά f Tabitha (Ac 9.36, 40)
 
@@ -11491,7 +11491,7 @@ draft: false
 
 ταμεῖον , ου n inner or private room; storeroom (Lk 12.24)
 
-τάξις , εως f order, division, succession (of priests); good order, orderliness ( κατὰ τ. in an orderly way 1 Cor 14.40); rank or perhaps nature, quality ( κατὰ τ. μελχισέδεκ just like Melchizedek)
+τάξις , εως f order, division, succession (of priests); good order, orderliness κατὰ τ. in an orderly way 1 Cor 14.40); rank or perhaps nature, quality κατὰ τ. μελχισέδεκ just like Melchizedek)
 
 ταπεινός , ή , όν humble, lowly; poor, of humble circumstances; downcast, downhearted (2 Cor 7.6); lacking confidence, meek and mild (2 Cor 10.1)
 
@@ -11519,7 +11519,7 @@ draft: false
 
 ταρταρόω put in hell
 
-τάσσω (pf. inf. τεταχέναι ; pf. pass. τέταγμαι , 3 sg. τέτακται) appoint, designate, set aside; command, order, direct ( ὑπὸ ἐξουσίαν τασσόμενος under the authority of superior officers Lk 7.8); institute (of governmental authority); devote (to service); midd. equivalent to act. fix, set (Ac 28.23); tell, direct (Mt 28.16)
+τάσσω (pf. inf. τεταχέναι ; pf. pass. τέταγμαι , 3 sg. τέτακται) appoint, designate, set aside; command, order, direct ὑπὸ ἐξουσίαν τασσόμενος under the authority of superior officers Lk 7.8); institute (of governmental authority); devote (to service); midd. equivalent to act. fix, set (Ac 28.23); tell, direct (Mt 28.16)
 
 ταῦρος , ου m bull, ox
 
@@ -11531,25 +11531,25 @@ draft: false
 
 ταχέως (10)P
 
-ταχέως adv. Quickly, at once, soon ( οὕτως τ. so Quickly Ga 1.6); too hastily, too Quickly
+ταχέως adv. Quickly, at once, soon οὕτως τ. so Quickly Ga 1.6); too hastily, too Quickly
 
 ταχύς , εῖα ύ , quick, swift
 
-τάχιον adv. (comp. of ταχέως) quickly, at once, soon; the sooner, more quickly ( προτρέχω τ. outrun Jn 20.4)
+τάχιον adv. (comp. of ταχέως) quickly, at once, soon; the sooner, more quickly προτρέχω τ. outrun Jn 20.4)
 
 ταχύ adv. quickly, without delay; soon, soon afterward (Mk 9.39)
 
 ταχινός , ή , όν soon, in the near future; swift, speedy
 
-τάχος , ους n speed, quickness ( ἐν τ. speedily, quickly, without delay; soon, shortly, before long)
+τάχος , ους n speed, quickness ἐν τ. speedily, quickly, without delay; soon, shortly, before long)
 
 ταχύς (18)P
 
 ταχύς , εῖα ύ , quick, swift
 
-ταχέως adv. Quickly, at once, soon ( οὕτως τ. so Quickly Ga 1.6); too hastily, too Quickly
+ταχέως adv. Quickly, at once, soon οὕτως τ. so Quickly Ga 1.6); too hastily, too Quickly
 
-τάχιον adv. (comp. of ταχέως) quickly, at once, soon; the sooner, more quickly ( προτρέχω τ. outrun Jn 20.4)
+τάχιον adv. (comp. of ταχέως) quickly, at once, soon; the sooner, more quickly προτρέχω τ. outrun Jn 20.4)
 
 ταχύ adv. quickly, without delay; soon, soon afterward (Mk 9.39)
 
@@ -11577,9 +11577,9 @@ draft: false
 
 τέλειος (19)P
 
-τέλειος , α , ον complete, perfect, whole ( ἔργον τ. full effect, successful results Jas 1.4); full-grown, mature (of persons); τελειότερος more perfect (He 9.11)
+τέλειος , α , ον complete, perfect, whole ἔργον τ. full effect, successful results Jas 1.4); full-grown, mature (of persons); τελειότερος more perfect (He 9.11)
 
-τελειότης , ητος f completeness ( σύνδεσμος τῆς τ. bond which unites everything in complete harmony Col 3.1 4); maturity
+τελειότης , ητος f completeness σύνδεσμος τῆς τ. bond which unites everything in complete harmony Col 3.1 4); maturity
 
 τελειόω (23)P
 
@@ -11587,7 +11587,7 @@ draft: false
 
 τελείως adv. fully, completely
 
-τέλειος , α , ον complete, perfect, whole ( ἔργον τ. full effect, successful results Jas 1.4); full-grown, mature (of persons); τελειότερος more perfect (He 9.11)
+τέλειος , α , ον complete, perfect, whole ἔργον τ. full effect, successful results Jas 1.4); full-grown, mature (of persons); τελειότερος more perfect (He 9.11)
 
 τελείωσις , εως f fulfillment, coming true; perfection
 
@@ -11597,17 +11597,17 @@ draft: false
 
 τελευτάω (11)P
 
-τελευτάω die ( θανάτῳ τελευτάτω let him be put to death Mt 15.4; Mk 7.10); be at the point of death (He 11.22)
+τελευτάω die θανάτῳ τελευτάτω let him be put to death Mt 15.4; Mk 7.10); be at the point of death (He 11.22)
 
 τελευτή , ῆς f death
 
 τελέω (28)P
 
-τελέω finish, complete, end ( τ. τὰς πόλεις finish going through the towns or finish your work in the towns Mt 10.23); fulfill, carry out, accomplish; come to an end, be over; pay (taxes); keep, obey (of law); find full strength, be at one's strongest (2 Cor 12.9)
+τελέω finish, complete, end τ. τὰς πόλεις finish going through the towns or finish your work in the towns Mt 10.23); fulfill, carry out, accomplish; come to an end, be over; pay (taxes); keep, obey (of law); find full strength, be at one's strongest (2 Cor 12.9)
 
 τέλος (40)P
 
-τέλος , ους n end, termination, conclusion ( άχρι τ. until the end; εἰς τ. to the end, forever, continually, at last; ἕως τ. to the end, fully; μέχρι τ. to the end; ἕχω τ. be at an end; τὸ δὲ τ. finally, to sum up 1 Pe 3.8); outcome, result, goal, aim, fulfilment ( τὸ περὶ ἐμοῦ τ. ἔΧει that which was written about me is coming true or my life's work is completed Lk 22.37); tax, revenue (Mt 17.25; Ro 13.7)
+τέλος , ους n end, termination, conclusion άχρι τ. until the end; εἰς τ. to the end, forever, continually, at last; ἕως τ. to the end, fully; μέχρι τ. to the end; ἕχω τ. be at an end; τὸ δὲ τ. finally, to sum up 1 Pe 3.8); outcome, result, goal, aim, fulfilment τὸ περὶ ἐμοῦ τ. ἔΧει that which was written about me is coming true or my life's work is completed Lk 22.37); tax, revenue (Mt 17.25; Ro 13.7)
 
 τελώνης (21)P
 
@@ -11633,13 +11633,13 @@ draft: false
 
 τεσσεράκοντα forty
 
-τεσσερακονταετής , ές forty years ( ὡς δὲ ἐπληροῦτο αὐτῶ τ. χρόνος when he was about forty years old Ac 7.23; ὡς τ. χρόνον for about forty years Ac 13.18)
+τεσσερακονταετής , ές forty years ὡς δὲ ἐπληροῦτο αὐτῶ τ. χρόνος when he was about forty years old Ac 7.23; ὡς τ. χρόνον for about forty years Ac 13.18)
 
-τεταρταῖος , α , ον happening on the fourth day ( τ. ἐστιν he has been dead four days Jn 11.39)
+τεταρταῖος , α , ον happening on the fourth day τ. ἐστιν he has been dead four days Jn 11.39)
 
 τέταρτος (10)P
 
-τέταρτος , η , ον fourth ( ἀπὸ τ. ἡμέρας three days ago or perhaps four days ago Ac 10.30); τὸ τ. a fourth part, a quarter (of the earth)
+τέταρτος , η , ον fourth ἀπὸ τ. ἡμέρας three days ago or perhaps four days ago Ac 10.30); τὸ τ. a fourth part, a quarter (of the earth)
 
 τετρααρχέω be tetrarch, be ruler (cf. τετραάρχης)
 
@@ -11685,7 +11685,7 @@ draft: false
 
 τίθημι (100)P
 
-τίθημι (3 pl. τιθέασιν , ptc. τιθείς ; impf. 3 sg. ἐτίθει , 3 pl. ἐτίθουν and ἐτίθεσαν ; fut. θήσω ; aor. ἔθηκα , subj. θῶ , impv. 2 pl. θέτε , inf. θεῖναι , ptc. θείς ; pf. τέθεικα , ptc. τεθεικώς ; aor. midd. 2 sg. ἔθου , 3 pl. ἔθεντο , impv. 2 pl. θέσθε ; pf. pass. 3 sg. τέθειται ; aor. pass. ἐτέθην , subj. τεθώ , inf. τεθῆναι) put, place, lay, set ( τ. τὰ γόνατα kneel; τ. ἐν καρδίᾳ make up one's mind Lk 21.14); lay down, give up (one's life); lay aside, store up ( τ. παρ ἐμαυτῷ lay aside 1 Cor 16.2); make (someone something), appoint, destine ( τ. τὸ μέρος τινός assign one a place Mt 24.51; Lk 12.46); present, describe (by a parable); lay aside, remove (clothes); serve (wine); midd. put, place, lay, set ( τ. εἰς ὦτα keep in mind Lk 9.44; τ. ἐν καρδίᾳ keep in mind Lk 1.66; think of, decide Ac 5.4; τ. βουλήν advise, be in favor of Ac 27.12); make (someone something), appoint, destine; arrange (parts of the body); τ. ἐν τώ πνεύματι resolve, make up one's mind (Ac 19.21)
+τίθημι (3 pl. τιθέασιν , ptc. τιθείς ; impf. 3 sg. ἐτίθει , 3 pl. ἐτίθουν and ἐτίθεσαν ; fut. θήσω ; aor. ἔθηκα , subj. θῶ , impv. 2 pl. θέτε , inf. θεῖναι , ptc. θείς ; pf. τέθεικα , ptc. τεθεικώς ; aor. midd. 2 sg. ἔθου , 3 pl. ἔθεντο , impv. 2 pl. θέσθε ; pf. pass. 3 sg. τέθειται ; aor. pass. ἐτέθην , subj. τεθώ , inf. τεθῆναι) put, place, lay, set τ. τὰ γόνατα kneel; τ. ἐν καρδίᾳ make up one's mind Lk 21.14); lay down, give up (one's life); lay aside, store up τ. παρ ἐμαυτῷ lay aside 1 Cor 16.2); make (someone something), appoint, destine τ. τὸ μέρος τινός assign one a place Mt 24.51; Lk 12.46); present, describe (by a parable); lay aside, remove (clothes); serve (wine); midd. put, place, lay, set τ. εἰς ὦτα keep in mind Lk 9.44; τ. ἐν καρδίᾳ keep in mind Lk 1.66; think of, decide Ac 5.4; τ. βουλήν advise, be in favor of Ac 27.12); make (someone something), appoint, destine; arrange (parts of the body); τ. ἐν τώ πνεύματι resolve, make up one's mind (Ac 19.21)
 
 τίκτω (18)P
 
@@ -11701,7 +11701,7 @@ draft: false
 
 τιμή (41)P
 
-τιμή , ῆς f honor, respect, recognition; price, value ( τ. αἵματος blood money Mt 27.6); sum (of money); proceeds (of a sale); place of honor, honor (He 5.4); perhaps pay, compensation (1 Tm 5.17)
+τιμή , ῆς f honor, respect, recognition; price, value τ. αἵματος blood money Mt 27.6); sum (of money); proceeds (of a sale); place of honor, honor (He 5.4); perhaps pay, compensation (1 Tm 5.17)
 
 τίμιος (13)P
 
@@ -11723,7 +11723,7 @@ draft: false
 
 τίς (555)P
 
-τίς , τί gen. τίνος dat. τίνι acc. τίνα , τί interrog. pro. and adj. who? which? what? what sort of? τί , διὰ τί , εἰς τί , τί ὅτι why?for what reason or purpose? τί γάρ , τί οὖν why then? ( τί γάρ λοω 1 Cor 7.16); τί ἡμῖν ῾εμοι καὶ σοί what have you to do with us (me)? κατὰ τί how? (Lk 1.18); τί θέλω εἰ would that, how I wish that (Lk 12.49)
+τίς , τί gen. τίνος dat. τίνι acc. τίνα , τί interrog. pro. and adj. who? which? what? what sort of? τί , διὰ τί , εἰς τί , τί ὅτι why?for what reason or purpose? τί γάρ , τί οὖν why then? τί γάρ λοω 1 Cor 7.16); τί ἡμῖν ῾εμοι καὶ σοί what have you to do with us (me)? κατὰ τί how? (Lk 1.18); τί θέλω εἰ would that, how I wish that (Lk 12.49)
 
 τὶς (534)P
 
@@ -11737,7 +11737,7 @@ draft: false
 
 Τίτος , ου m Titus: (1) companion of Paul; (2) surnamed Justus (Ac 18.7)
 
-λοιπός , ή , όν (i) adj. rest, remaining, other; (2) adv. ( τὸ) λοιπόν finally; from now on, henceforth; still; beyond that, in addition; τοῦ λοιποῦ henceforth, in the future; finally; ὧδε λοιπόν moreover, in this connection
+λοιπός , ή , όν (i) adj. rest, remaining, other; (2) adv. τὸ) λοιπόν finally; from now on, henceforth; still; beyond that, in addition; τοῦ λοιποῦ henceforth, in the future; finally; ὧδε λοιπόν moreover, in this connection
 
 τοιγαροῦν inferential particle therefore, then, for that very reason then
 
@@ -11747,7 +11747,7 @@ draft: false
 
 τοιοῦτος (57)P
 
-τοιοῦτος , αύτη , οῦτον correlative pro. and adj. such, of such kind; similar, like ( ὁ περὶ τὰ τ. ἐργάτης person of a similar trade Ac 19.25)
+τοιοῦτος , αύτη , οῦτον correlative pro. and adj. such, of such kind; similar, like ὁ περὶ τὰ τ. ἐργάτης person of a similar trade Ac 19.25)
 
 τοῖχος , ου m wall
 
@@ -11769,15 +11769,15 @@ draft: false
 
 τόπος (94)P
 
-τόπος , ου m place, location, region, vicinity, spot ( κατὰ τόπους in various places; κατά τὸν τ. to that place Lk 10.32); station, position, office; chance, opportunity; (Jerusalem) temple; passage (of Scripture); seaport (Ac 27.2)
+τόπος , ου m place, location, region, vicinity, spot κατὰ τόπους in various places; κατά τὸν τ. to that place Lk 10.32); station, position, office; chance, opportunity; (Jerusalem) temple; passage (of Scripture); seaport (Ac 27.2)
 
 τοσοῦτος (20)P
 
-τοσοῦτος , αύτη , οῦτον correlative adj. so much, so great, so large, etc., pl. so many, many ( τ. ἔτη all these years Lk 15.29; τ. χρόνω all this time, for a long lime Jn 14.9; μετὰ τ. χρόνον many years later He 4.7; τοσούτου for such and such a price, the full amount Ac 5.8); enough (bread); καθ ὅσον . . . κατὰ τ. or ὅσα . . . τοσοῦτον to the degree that . . . to that same degree; τοσούτῳ . . . ὅσῳ (by) as much . . . as (He 1.4)
+τοσοῦτος , αύτη , οῦτον correlative adj. so much, so great, so large, etc., pl. so many, many τ. ἔτη all these years Lk 15.29; τ. χρόνω all this time, for a long lime Jn 14.9; μετὰ τ. χρόνον many years later He 4.7; τοσούτου for such and such a price, the full amount Ac 5.8); enough (bread); καθ ὅσον . . . κατὰ τ. or ὅσα . . . τοσοῦτον to the degree that . . . to that same degree; τοσούτῳ . . . ὅσῳ (by) as much . . . as (He 1.4)
 
 τότε (160)P
 
-τότε adv. then, at that time ( ἀπό τότε from that time on, after that; ὁ τ. κόσμος the then-existing world 2 Pe 3.6); thereupon, next, after that
+τότε adv. then, at that time ἀπό τότε from that time on, after that; ὁ τ. κόσμος the then-existing world 2 Pe 3.6); thereupon, next, after that
 
 τράγος , ου m he-goat
 
@@ -11799,11 +11799,11 @@ draft: false
 
 τραχύς , εῖα , ύ rough; κατὰ τ. τόπους on a rocky coast (Ac 27.29)
 
-Τραχωνῖτις , ιδος f Trachonitis ( ἡ Τ. χώρα the Trachonitis region) (2 E-2)
+Τραχωνῖτις , ιδος f Trachonitis ἡ Τ. χώρα the Trachonitis region) (2 E-2)
 
 τρεῖς (69)P
 
-τρεῖς , τρία gen. τριῶν dat. τρισίν three ( διὰ τ. ἡμερῶν in three days)
+τρεῖς , τρία gen. τριῶν dat. τρισίν three διὰ τ. ἡμερῶν in three days)
 
 τρέμω tremble; be afraid, fear
 
@@ -11811,7 +11811,7 @@ draft: false
 
 τρέχω (20)P
 
-τρέχω (aor. ἔδραμον , ptc. δραμών) run; exert oneself, make an effort; speed on, make progress ( τ. καλῶς make good progress, do well Ga 5.7); rush (into battle)
+τρέχω (aor. ἔδραμον , ptc. δραμών) run; exert oneself, make an effort; speed on, make progress τ. καλῶς make good progress, do well Ga 5.7); rush (into battle)
 
 τρῆμα , τος n eye (of a needle)
 
@@ -11833,7 +11833,7 @@ draft: false
 
 τρίς (12)P
 
-τρίς adv. three times ( ἐπὶ τρίς three times or a third time Ac 10.16; 11.10)
+τρίς adv. three times ἐπὶ τρίς three times or a third time Ac 10.16; 11.10)
 
 τρίστεγον , ου n third floor
 
@@ -11841,9 +11841,9 @@ draft: false
 
 τρίτος (56)P
 
-τρίτος , η , ον adj. third ( ἐκ τ. for the third time Mt 26.44); τὸ τ. one-third, a third
+τρίτος , η , ον adj. third ἐκ τ. for the third time Mt 26.44); τὸ τ. one-third, a third
 
-τρίχινος , η , ον of hair ( σάκκος τ. sackcloth Re 6.12)
+τρίχινος , η , ον of hair σάκκος τ. sackcloth Re 6.12)
 
 τρόμος , ου m trembling
 
@@ -11851,7 +11851,7 @@ draft: false
 
 τρόπος (13)P
 
-τρόπος , ου m way, manner ( ὅν τ. in the same way as, as, like; καθ ὅν τ. as, just as; κατὰ πάντα τ. in every way; κατὰ μηδένα τ. in no way); life, way of life (He 13.5)
+τρόπος , ου m way, manner ὅν τ. in the same way as, as, like; καθ ὅν τ. as, just as; κατὰ πάντα τ. in every way; κατὰ μηδένα τ. in no way); life, way of life (He 13.5)
 
 τροποφορέω put up with (someone's conduct)
 
@@ -11865,7 +11865,7 @@ draft: false
 
 τροχιά , ᾶς f path, way
 
-τροχός , οῦ m wheel, cycle ( τ. τῆς γενέσεως course of existence Jas 3.6)
+τροχός , οῦ m wheel, cycle τ. τῆς γενέσεως course of existence Jas 3.6)
 
 τρύβλιον , ου n dish, bowl (of food)
 
@@ -11899,7 +11899,7 @@ draft: false
 
 τύπος (15)P
 
-τύπος , ου m pattern, example, model, standard ( γράψας ἐπιστολὴν ἔχουσαν τὸν ττοῦτον he wrote a letter that went like this Ac 23.25); type, figure (of someone to come in the future Ro 5.14); scar, mark (Jn 20.25); image, statue (Ac 7.43); warning (1 Cor 10.6)
+τύπος , ου m pattern, example, model, standard γράψας ἐπιστολὴν ἔχουσαν τὸν ττοῦτον he wrote a letter that went like this Ac 23.25); type, figure (of someone to come in the future Ro 5.14); scar, mark (Jn 20.25); image, statue (Ac 7.43); warning (1 Cor 10.6)
 
 τύπτω (13)P
 
@@ -11927,7 +11927,7 @@ draft: false
 
 τύφω see τύφομαι
 
-τυφωνικός , ή , όν whirlwind-like ( τ. ἄνεμος α very strong wind Ac 27.14)
+τυφωνικός , ή , όν whirlwind-like τ. ἄνεμος α very strong wind Ac 27.14)
 
 Τυχικός , οῦ m Tychicus (a traveling companion of Paul)
 
@@ -11977,7 +11977,7 @@ draft: false
 
 ὑμέτερος (11)P
 
-ὑμέτερος , α , ον possessive adj. of 2 pl. your ( νὴ τὴν ὑ. καυχησιν ἣν ἔχω by my pride in you 1 Cor 15.31; τῷ ὑ. ἐλέει by the mercy shown to you Ro 11.31)
+ὑμέτερος , α , ον possessive adj. of 2 pl. your νὴ τὴν ὑ. καυχησιν ἣν ἔχω by my pride in you 1 Cor 15.31; τῷ ὑ. ἐλέει by the mercy shown to you Ro 11.31)
 
 ὑμνέω intrans. sing a hymn; trans. sing praises to
 
@@ -11985,7 +11985,7 @@ draft: false
 
 ὑπάγω (79)P
 
-ὑπάγω go, go one's way; go away, depart ( ὕπαγε ὀπίσω μου get away from me Mt 16.23; Mk 8.33); go home; go back, return
+ὑπάγω go, go one's way; go away, depart ὕπαγε ὀπίσω μου get away from me Mt 16.23; Mk 8.33); go home; go back, return
 
 ὑπακοή (15)P
 
@@ -12001,13 +12001,13 @@ draft: false
 
 ὑπαντάω meet; fight, oppose (in battle)
 
-ὑπάντησις , εως f meeting ( εἰς ὑ. to meet)
+ὑπάντησις , εως f meeting εἰς ὑ. to meet)
 
 ὕπαρξις , εως f possession, property
 
 ὑπάρχω (60)P
 
-ὑπάρχω be (= εἰμί); be at one's disposal ( τὰ ὑ. possessions, property; means, resources)
+ὑπάρχω be (= εἰμί); be at one's disposal τὰ ὑ. possessions, property; means, resources)
 
 ὑπείκω accept (someone's) authority, submit to, be subject to
 
@@ -12015,7 +12015,7 @@ draft: false
 
 ὑπέρ (150)P
 
-ὑπέρ prep. with: (1) gen. for, in behalf of, for the sake of ( εἶναι ὑπέρ τινος be on someone's side, be in favor of someone);3 of, about, concerning; (2) acc. over and above, beyond; more than, than; (3) adv. ὑπὲρ ἐγώ I am even more (2 Cor 11.23)
+ὑπέρ prep. with: (1) gen. for, in behalf of, for the sake of εἶναι ὑπέρ τινος be on someone's side, be in favor of someone);3 of, about, concerning; (2) acc. over and above, beyond; more than, than; (3) adv. ὑπὲρ ἐγώ I am even more (2 Cor 11.23)
 
 ὑπεραίρω see ὑπεραίρομαι
 
@@ -12041,7 +12041,7 @@ draft: false
 
 ὑπερεκπερισσοῦ (1) adv. with all earnestness, more than ever; very highly indeed; (2) prep. with gen. far beyond, so much more than (Eph 3.20)
 
-ὑπερεκτείνω go beyond ( ὑ. ἐμαντόν go beyond one's limits or authority 2 Cor 10.14)
+ὑπερεκτείνω go beyond ὑ. ἐμαντόν go beyond one's limits or authority 2 Cor 10.14)
 
 ὑπερεκχύννομαι run over, overflow
 
@@ -12103,7 +12103,7 @@ draft: false
 
 ὑποδέχομαι receive or welcome as a guest
 
-ὑποδέομαι (aor. impv. ὑπόδησαι) put on ( ὑ. τοὺς πόδας put on one's shoes Eph 6.15)
+ὑποδέομαι (aor. impv. ὑπόδησαι) put on ὑ. τοὺς πόδας put on one's shoes Eph 6.15)
 
 ὑποδέω see ὑποδέομαι
 
@@ -12215,7 +12215,7 @@ draft: false
 
 ὑψηλός (11)P
 
-ὑψηλός , ή , όν high ( ἐν ὑ. in heaven He 1.3); proud, exalted φρονῶ ὑ. be proud or arrogant; τὸ ὑ. object of pride or value Lk 16.15); uplifted (arm); ὑψηλότερος higher, above (He 7.26)
+ὑψηλός , ή , όν high ἐν ὑ. in heaven He 1.3); proud, exalted φρονῶ ὑ. be proud or arrogant; τὸ ὑ. object of pride or value Lk 16.15); uplifted (arm); ὑψηλότερος higher, above (He 7.26)
 
 ὑψηλοφρονέω be proud or arrogant
 
@@ -12237,13 +12237,13 @@ draft: false
 
 φαίνω (31)P
 
-φαίνω (aor. subj. 3 sg. φάνῃ ; fut. midd. 3 sg. φανεῖται ; aor. pass. ἐφάνην , subj. φανῶ ; fut. pass. φανήσομαι) shine, give light (midd. Php 2.15); midd. and pass. appear, be seen, be or become visible, be revealed (be revealed as Ro 7.13; ἁμαρτωλὸς ποῦ φανεῖται what will become of the sinner? 1 Pe 4.18); appear to be something, put on an appearance; seem, appear ( τί ὑμῖν φαίνεται what is your decision? Mk 14.64)
+φαίνω (aor. subj. 3 sg. φάνῃ ; fut. midd. 3 sg. φανεῖται ; aor. pass. ἐφάνην , subj. φανῶ ; fut. pass. φανήσομαι) shine, give light (midd. Php 2.15); midd. and pass. appear, be seen, be or become visible, be revealed (be revealed as Ro 7.13; ἁμαρτωλὸς ποῦ φανεῖται what will become of the sinner? 1 Pe 4.18); appear to be something, put on an appearance; seem, appear τί ὑμῖν φαίνεται what is your decision? Mk 14.64)
 
 Φάλεκ m Peleg (Lk 3.35)
 
 φανερός (18)P
 
-φανερός , ά , όν known, evident, plain, visible ( ἐλθεῖν εἰς φ. be brought out into the open Mk 4.22; Lk 8.17; ὁ ἐν τῷ φ. Ἰουδαῖος one who is a Jew outwardly Ro 2.28)
+φανερός , ά , όν known, evident, plain, visible ἐλθεῖν εἰς φ. be brought out into the open Mk 4.22; Lk 8.17; ὁ ἐν τῷ φ. Ἰουδαῖος one who is a Jew outwardly Ro 2.28)
 
 φανερῶς adv. openly, publicly; clearly
 
@@ -12253,15 +12253,15 @@ draft: false
 
 φανερῶς adv. openly, publicly; clearly
 
-φανερός , ά , όν known, evident, plain, visible ( ἐλθεῖν εἰς φ. be brought out into the open Mk 4.22; Lk 8.17; ὁ ἐν τῷ φ. Ἰουδαῖος one who is a Jew outwardly Ro 2.28)
+φανερός , ά , όν known, evident, plain, visible ἐλθεῖν εἰς φ. be brought out into the open Mk 4.22; Lk 8.17; ὁ ἐν τῷ φ. Ἰουδαῖος one who is a Jew outwardly Ro 2.28)
 
-φανέρωσις , εως f bringing to light, disclosure ( τῇ φ. τῆς ἀληθείας in the full light of truth 2 Cor 4.2)
+φανέρωσις , εως f bringing to light, disclosure τῇ φ. τῆς ἀληθείας in the full light of truth 2 Cor 4.2)
 
 φανός , οῦ m lantern, torch
 
 Φανουήλ m Phanuel (Lk 2.36)
 
-φαντάζομαι appear ( τὸ φανταζόμενον the sight or spectacle He 12.21)
+φαντάζομαι appear τὸ φανταζόμενον the sight or spectacle He 12.21)
 
 φαντάζω see φαντάζομαι
 
@@ -12307,7 +12307,7 @@ draft: false
 
 φέρω (66)P
 
-φέρω (fut. οἴσω ; aor. ἤνεγκα , inf. ἐνεγκεῖν and ἐνέγκαι , ptc. ἐνέγκας ; aor. pass. ἠνέχθην , ptc. ἐνεχθείς) bring, bring along, carry; endure, bear, put up with; yield, produce (fruit); drive (of wind; midd. rush Ac 2.2); bring against (of charges); move, guide (by the Holy Spirit); lead (of a gate); sustain, support (He 1.3); establish, validate, prove ( θάνατον ἀνάγκη φ. τοῦ διαθεμένου the death of the one who made the will must be established He 9.16); put, reach out (Jn 20.27)
+φέρω (fut. οἴσω ; aor. ἤνεγκα , inf. ἐνεγκεῖν and ἐνέγκαι , ptc. ἐνέγκας ; aor. pass. ἠνέχθην , ptc. ἐνεχθείς) bring, bring along, carry; endure, bear, put up with; yield, produce (fruit); drive (of wind; midd. rush Ac 2.2); bring against (of charges); move, guide (by the Holy Spirit); lead (of a gate); sustain, support (He 1.3); establish, validate, prove θάνατον ἀνάγκη φ. τοῦ διαθεμένου the death of the one who made the will must be established He 9.16); put, reach out (Jn 20.27)
 
 φεύγω (29)P
 
@@ -12341,7 +12341,7 @@ draft: false
 
 φθόνος , ου m envy, jealousy, spite
 
-φθορά , ᾶς f decay, corruption, ruin ( εἰς ἅλωσιν καὶ φ. to be caught and killed 2 Pe 2.12); moral ruin, depravity; that which is perishable
+φθορά , ᾶς f decay, corruption, ruin εἰς ἅλωσιν καὶ φ. to be caught and killed 2 Pe 2.12); moral ruin, depravity; that which is perishable
 
 φιάλη (12)P
 
@@ -12458,7 +12458,7 @@ draft: false
 
 φόνος , ου m murder, killing
 
-φορέω wear ( φ. εἰκόνα wear the likeness of 1 Cor 15.49); hold the power of (Ro 13.4)
+φορέω wear φ. εἰκόνα wear the likeness of 1 Cor 15.49); hold the power of (Ro 13.4)
 
 φόρος , ου m tax, tribute
 
@@ -12490,7 +12490,7 @@ draft: false
 
 φρονέω (26)P
 
-φρονέω think, have in mind ( φ. τά with gen. think the thoughts of, have one's mind controlled by; τὸ αὐτὸ φ. or ἕν φ. live in harmony of mind, agree with one another; ὑψηλὰ φ. be proud, have proud thoughts); care for, be concerned about ( τὸ φρονεῖν concern, care Php 4.10); think highly of (Ro 14.6a)
+φρονέω think, have in mind φ. τά with gen. think the thoughts of, have one's mind controlled by; τὸ αὐτὸ φ. or ἕν φ. live in harmony of mind, agree with one another; ὑψηλὰ φ. be proud, have proud thoughts); care for, be concerned about τὸ φρονεῖν concern, care Php 4.10); think highly of (Ro 14.6a)
 
 φρόνημα , τος n way of thinking, mind
 
@@ -12554,7 +12554,7 @@ draft: false
 
 φύσις (14)P
 
-φύσις , εως f nature, natural condition ( ὁ κατὰ φ. κλάδος natural branch Ro 11.21, cf. Ro 11.24; ἡ ἐκ φ. ἀκροβυστία one who is physically uncircumcised Ro 2.27; παρὰ φ. contrary to nature Ro 11.24); nature, the natural order ( ἡ παρὰ φ. χρῆσιν unnatural intercourse Ro 1.26); nature, being, essence ( φ. ἀνθρωπίνη mankind Jas 3.7b); kind, species (Jas 3.7a)
+φύσις , εως f nature, natural condition ὁ κατὰ φ. κλάδος natural branch Ro 11.21, cf. Ro 11.24; ἡ ἐκ φ. ἀκροβυστία one who is physically uncircumcised Ro 2.27; παρὰ φ. contrary to nature Ro 11.24); nature, the natural order ἡ παρὰ φ. χρῆσιν unnatural intercourse Ro 1.26); nature, being, essence φ. ἀνθρωπίνη mankind Jas 3.7b); kind, species (Jas 3.7a)
 
 φυσίωσις , εως f conceit, arrogance, pride
 
@@ -12640,15 +12640,15 @@ draft: false
 
 χαρίζομαι grant, give, bestow on; deal generously or graciously with, forgive, pardon; hand over or release (of a prisoner); cancel a debt (Lk 7.42, 43); be returned (Phm 22)
 
-χάριν prep. with gen. generally occurring after a noun or pronoun for the sake of, because of, by reason of ( τούτου χ. for this reason; οὗ χ. therefore, for this reason Lk 7.47; χ. τίνος why? for what reason? 1 Jn 3.12)
+χάριν prep. with gen. generally occurring after a noun or pronoun for the sake of, because of, by reason of τούτου χ. for this reason; οὗ χ. therefore, for this reason Lk 7.47; χ. τίνος why? for what reason? 1 Jn 3.12)
 
-χάρις , ιτος f grace, kindness, mercy, goodwill ( ἔχω χ. πρός have the goodwill of Ac 2.47); a special manifestation of the divine presence, activity, power or glory; a favor, expression of kindness, gift, blessing ( κατὰ χ. as a gift Ro 4.4, 16; ἵνα δευτέραν χ. σχῆτε in order that you might be blessed twice 2 Cor 1.15); thanks, gratitude; graciousness ( ὁ λόγος ὑμῶν πάντοτε ἐν χ. your speech should always be pleasant Col 4.6)
+χάρις , ιτος f grace, kindness, mercy, goodwill ἔχω χ. πρός have the goodwill of Ac 2.47); a special manifestation of the divine presence, activity, power or glory; a favor, expression of kindness, gift, blessing κατὰ χ. as a gift Ro 4.4, 16; ἵνα δευτέραν χ. σχῆτε in order that you might be blessed twice 2 Cor 1.15); thanks, gratitude; graciousness ὁ λόγος ὑμῶν πάντοτε ἐν χ. your speech should always be pleasant Col 4.6)
 
 χάρις (155)P
 
-χάρις , ιτος f grace, kindness, mercy, goodwill ( ἔχω χ. πρός have the goodwill of Ac 2.47); a special manifestation of the divine presence, activity, power or glory; a favor, expression of kindness, gift, blessing ( κατὰ χ. as a gift Ro 4.4, 16; ἵνα δευτέραν χ. σχῆτε in order that you might be blessed twice 2 Cor 1.15); thanks, gratitude; graciousness ( ὁ λόγος ὑμῶν πάντοτε ἐν χ. your speech should always be pleasant Col 4.6)
+χάρις , ιτος f grace, kindness, mercy, goodwill ἔχω χ. πρός have the goodwill of Ac 2.47); a special manifestation of the divine presence, activity, power or glory; a favor, expression of kindness, gift, blessing κατὰ χ. as a gift Ro 4.4, 16; ἵνα δευτέραν χ. σχῆτε in order that you might be blessed twice 2 Cor 1.15); thanks, gratitude; graciousness ὁ λόγος ὑμῶν πάντοτε ἐν χ. your speech should always be pleasant Col 4.6)
 
-χάριν prep. with gen. generally occurring after a noun or pronoun for the sake of, because of, by reason of ( τούτου χ. for this reason; οὗ χ. therefore, for this reason Lk 7.47; χ. τίνος why? for what reason? 1 Jn 3.12)
+χάριν prep. with gen. generally occurring after a noun or pronoun for the sake of, because of, by reason of τούτου χ. for this reason; οὗ χ. therefore, for this reason Lk 7.47; χ. τίνος why? for what reason? 1 Jn 3.12)
 
 χάρισμα (17)P
 
@@ -12672,7 +12672,7 @@ draft: false
 
 χείρ (177)P
 
-χείρ , χειρός f hand ( βάλλω χ. ἐπί arrest, seize); power, authority; activity; finger (Lk 15.22)
+χείρ , χειρός f hand βάλλω χ. ἐπί arrest, seize); power, authority; activity; finger (Lk 15.22)
 
 χειραγωγέω lead by the hand
 
@@ -12686,7 +12686,7 @@ draft: false
 
 χείρων (11)P
 
-χείρων , ον gen. ονος worse, more severe ( εἰς τὸ χ. ἔρχομαι grow worse Mk 5.26; ἐπὶ τὸ χ. from bad to worse 2 Tm 3.13)
+χείρων , ον gen. ονος worse, more severe εἰς τὸ χ. ἔρχομαι grow worse Mk 5.26; ἐπὶ τὸ χ. from bad to worse 2 Tm 3.13)
 
 κακός , ή , όν evil, bad, wrong; injury, harm (as a noun); foul, troublesome (sore)
 
@@ -12764,13 +12764,13 @@ draft: false
 
 χράομαι (11)P
 
-χράομαι (impv. χρῶ ; aor. impv. χρῆσαι) use, make use of, make the most of (make the most of the opportunity to get free or perhaps make the most of the existing situation 1 Cor 7.21); act, behave ( ἐλαφρίᾳ χ. be fickle 2 Cor 1.17; πολλῇ παρρησίᾳ χ. be very bold or frank 2 Cor 3.12)
+χράομαι (impv. χρῶ ; aor. impv. χρῆσαι) use, make use of, make the most of (make the most of the opportunity to get free or perhaps make the most of the existing situation 1 Cor 7.21); act, behave ἐλαφρίᾳ χ. be fickle 2 Cor 1.17; πολλῇ παρρησίᾳ χ. be very bold or frank 2 Cor 3.12)
 
 κίχρημι (aor. impv. χρῆσον) lend
 
 χρεία (49)P
 
-χρεία , ας f need, necessity ( ἔχω χ. τινός have need of something or somebody); need, want, lack ( ἔχω χ. be in need, lack; πρὸς οἰκοδομὴν τῆς χ. to build up as the occasion requires Eph 4.29); duty, task, function (Ac 6.3)
+χρεία , ας f need, necessity ἔχω χ. τινός have need of something or somebody); need, want, lack ἔχω χ. be in need, lack; πρὸς οἰκοδομὴν τῆς χ. to build up as the occasion requires Eph 4.29); duty, task, function (Ac 6.3)
 
 χρεοφειλέτης , ου m debtor
 
@@ -12792,7 +12792,7 @@ draft: false
 
 χρηστολογία , ας f smooth talk, plausible talk
 
-χρηστός , ή , όν kind, loving, good, merciful ( τὸ χ. kindness Ro 2.4); morally good, upright (1 Cor 15.33); easy to bear (Mt 11.30); good (wine); comp. χρηστότερος better (Lk 5.39)
+χρηστός , ή , όν kind, loving, good, merciful τὸ χ. kindness Ro 2.4); morally good, upright (1 Cor 15.33); easy to bear (Mt 11.30); good (wine); comp. χρηστότερος better (Lk 5.39)
 
 χρηστότης (10)P
 
@@ -12812,7 +12812,7 @@ draft: false
 
 χρόνος (54)P
 
-χρόνος , ου m time, extension or period of time ( ἐφ ὅσον χ. or ὅσον χ. as long as, while; ἐπὶ χ. or χρόνον τινά for a while Lk 18.5; 1 Cor 16.7; πρὸ χ. αἰωνίων or χ. αἰωνίοις before time began, from all eternity 2 Tm 1.9; Tt 1.2; Ro 16.25; πόσος χ. how long? Mk 9.21); time, moment of time, occasion; delay (Re 10.6)
+χρόνος , ου m time, extension or period of time ἐφ ὅσον χ. or ὅσον χ. as long as, while; ἐπὶ χ. or χρόνον τινά for a while Lk 18.5; 1 Cor 16.7; πρὸ χ. αἰωνίων or χ. αἰωνίοις before time began, from all eternity 2 Tm 1.9; Tt 1.2; Ro 16.25; πόσος χ. how long? Mk 9.21); time, moment of time, occasion; delay (Re 10.6)
 
 χρονοτριβέω spend time
 
@@ -12850,7 +12850,7 @@ draft: false
 
 χωρέω (10)P
 
-χωρέω trans. make room for, have room for ( χ. ἡμᾶς make room for us in your hearts 2 Cor 7.2); accept, practice (the celibate life); hold, contain (Jn 2.6; 21.25); intrans. be room (Mk 2.2); go into (of food into the stomach); make headway, take hold (Jn 8.37); εἰς μετάνοιαν χ. repent (2 Pe 3.9)
+χωρέω trans. make room for, have room for χ. ἡμᾶς make room for us in your hearts 2 Cor 7.2); accept, practice (the celibate life); hold, contain (Jn 2.6; 21.25); intrans. be room (Mk 2.2); go into (of food into the stomach); make headway, take hold (Jn 8.37); εἰς μετάνοιαν χ. repent (2 Pe 3.9)
 
 χωρίζω (13)P
 
@@ -12864,7 +12864,7 @@ draft: false
 
 χωρίς (1) prep. with gen. without, apart from, without relation to (occurs postpositive in He 12.14 οὗ χ. without which); besides, in addition to; (2) adv. separately, by itself (Jn 20.7)
 
-χῶρος , ου m northwest wind ( κατὰ χ. facing northwest Ac 27.12)
+χῶρος , ου m northwest wind κατὰ χ. facing northwest Ac 27.12)
 
 ψάλλω (fut. ψαλῶ) sing, sing a hymn of praise, sing praise
 
@@ -12912,7 +12912,7 @@ draft: false
 
 ψηφίζω figure out (a secret number); figure out, count (the cost)
 
-ψῆφος , ου f pebble, stone; vote ( καταφέρω ψ. cast one's vote against Ac 26.10)
+ψῆφος , ου f pebble, stone; vote καταφέρω ψ. cast one's vote against Ac 26.10)
 
 ψιθυρισμός , οῦ m harmful gossip, tale-bearing
 
@@ -12946,7 +12946,7 @@ draft: false
 
 ὧδε (61)P
 
-ὧδε adv. here, in this place ( πάντα τὰ ὧδε all that is happening here Col 4.9); here, to this place ( ἕως ὧδε here, to this place Lk 23.5); under these circumstances, in this case ( ὧδε λοιπόν moreover, in this connection 1 Cor 4.2)
+ὧδε adv. here, in this place πάντα τὰ ὧδε all that is happening here Col 4.9); here, to this place ἕως ὧδε here, to this place Lk 23.5); under these circumstances, in this case ὧδε λοιπόν moreover, in this connection 1 Cor 4.2)
 
 ᾠδή , ῆς f song, song of praise
 
@@ -12970,7 +12970,7 @@ draft: false
 
 ὡς (504)P
 
-ὡς (1) particle of comparison as, like ( ὡς ἔπος εἰπεῖν so to speak He 7.9); as though, as if, on the grounds that, on the pretext of; with numerals about ( ὡς ἀπὸ σταδίων δεκαπέντε about fifteen stades away Jn 11.18; cf. 21.8; ὡς ἐπὶ ὥρας δύο for about two hours Ac 19.34); introducing discourse how, that ( ὡς ὅτι how, that); intensifying an adv. or adj. very, how ( ὡς τάχιστα as soon as possible Ac 17.15; ὡς ὡραῖοι how welcome Ro 10.15; cf. Ro 11.33; Ac 17.22); as in the sense to be e*. g. ὡς προφήτην αὐτὸν εἶχον they held him to be a prophet Mt 14.5); (2) temporal and consequential particle as, as long as, while, when (with pres. or impf.); when, after (with aor.); so that, in order that, because; ὡς ἄν e;vάν) when, as soon as
+ὡς (1) particle of comparison as, like ὡς ἔπος εἰπεῖν so to speak He 7.9); as though, as if, on the grounds that, on the pretext of; with numerals about ὡς ἀπὸ σταδίων δεκαπέντε about fifteen stades away Jn 11.18; cf. 21.8; ὡς ἐπὶ ὥρας δύο for about two hours Ac 19.34); introducing discourse how, that ὡς ὅτι how, that); intensifying an adv. or adj. very, how ὡς τάχιστα as soon as possible Ac 17.15; ὡς ὡραῖοι how welcome Ro 10.15; cf. Ro 11.33; Ac 17.22); as in the sense to be e*. g. ὡς προφήτην αὐτὸν εἶχον they held him to be a prophet Mt 14.5); (2) temporal and consequential particle as, as long as, while, when (with pres. or impf.); when, after (with aor.); so that, in order that, because; ὡς ἄν e;vάν) when, as soon as
 
 ὡσαννά hosanna (in Aramaic), an exclamation of praise literally meaning, "Save, I pray"
 
@@ -12996,7 +12996,7 @@ draft: false
 
 ὠτίον , ου n ear
 
-οὖς , ὠτός n ear ( πρὸς τὸ οὖς λαλέω whisper Lk 12.3); hearing
+οὖς , ὠτός n ear πρὸς τὸ οὖς λαλέω whisper Lk 12.3); hearing
 
 ὠφέλεια , ας f advantage,
 benefit

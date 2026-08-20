@@ -22,7 +22,7 @@ Punctuated in the editions as a statement, but a fair number of scholars regard 
 Luke 18:11  
 ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο Ὁ θεός εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης.  
   
-I think this is ambiguous - it could mean either that he was standing by himself ("σταθεὶς πρὸς ἑαυτὸν") or that he was standing and speaking to himself as he prayed ( σταθεὶς ... πρὸς ἑαυτὸν ταῦτα προσηύχετο).
+I think this is ambiguous - it could mean either that he was standing by himself ("σταθεὶς πρὸς ἑαυτὸν") or that he was standing and speaking to himself as he prayed σταθεὶς ... πρὸς ἑαυτὸν ταῦτα προσηύχετο).
 
 
 Further on Luke 18.11,  

@@ -131,7 +131,7 @@ Logos
 
 ## 多媒體聖經
 - Lumo Project
-	- [馬太福音章節  ](https://www.youtube.com/playlist?list=PLcJVIuhI8isJQK66AYdiBCZ7iSmazx6yv)
+	- [馬太福音章節(https://www.youtube.com/playlist?list=PLcJVIuhI8isJQK66AYdiBCZ7iSmazx6yv)
 	- [馬可福音 (中文)](https://www.youtube.com/playlist?list=PLcJVIuhI8isI_-oSEiZLmtotdRpDvn8Gh)
 	- [路加福音 (中文)](https://www.youtube.com/playlist?list=PLcJVIuhI8isK17xc0xw-5RcEah7YI-WbK)
 	- [約翰福音 (中文)](https://www.youtube.com/playlist?list=PLcJVIuhI8isILNJn0hAAZX4VMRXmm9mhm)
