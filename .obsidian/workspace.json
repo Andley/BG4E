@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Notes.md",
+                "file": "48-Galatians/Gal.4.8-20.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Notes"
+              "title": "Gal.4.8-20"
             },
             "group": "309804a05069b8e1"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Galatians-Notes.md",
+                "file": "48-Galatians/Gal.4.8-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Galatians-Notes"
+              "title": "Gal.4.8-20"
             },
             "group": "309804a05069b8e1"
           }
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -237,9 +238,20 @@
   "active": "9de226f5d54bc26a",
   "lastOpenFiles": [
     "48-Galatians/Gal.3.21-4.7.md",
+    "48-Galatians/Gal.4.8-20.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
-    "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Gal.3.15-20.md",
+    "48-Galatians/Gal.3.1-14.md",
+    "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Gal.2.11-14.md",
+    "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.1.11-24.md",
+    "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "Tools/Phrasing-Signs.md",
+    "Tools/OpenText 2.0 未來.md",
+    "README.md",
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter12.md",
     "GDNTG/Chapter11.md",
@@ -251,20 +263,9 @@
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
-    "GDNTG/Chapter02.md",
-    "GDNTG/GDNTG-TOC.md",
-    "GDNTG/Untitled.md",
-    "GDNTG/_index.md",
-    "_includes/head.html.md",
     "_includes/head-custom.html",
     "_includes/head.html",
-    "_includes/head-custom.html.md",
-    "README.md",
-    "Living Greek Resources.md",
     "_includes",
-    "48-Galatians/Gal.3.1-14.md",
-    "48-Galatians/Galatians-Intertextuality.md",
-    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Pasted image 20260811160939.png",
     "Tools/KB_Greek_polytonic_Unicode.svg",
     "content/Tools/AI Skills",
