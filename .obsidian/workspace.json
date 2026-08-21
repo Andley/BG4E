@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.4.8-20.md",
+                "file": "48-Galatians/Gal.4.21-5.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.4.8-20"
+              "title": "Gal.4.21-5.1"
             },
             "group": "309804a05069b8e1"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.4.8-20.md",
+                "file": "48-Galatians/Gal.4.21-5.1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.4.8-20"
+              "title": "Gal.4.21-5.1"
             },
             "group": "309804a05069b8e1"
           }
@@ -237,10 +237,11 @@
   },
   "active": "9de226f5d54bc26a",
   "lastOpenFiles": [
-    "48-Galatians/Gal.3.21-4.7.md",
     "48-Galatians/Gal.4.8-20.md",
-    "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Gal.4.21-5.1.md",
+    "48-Galatians/Gal.3.21-4.7.md",
     "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Gal.3.1-14.md",
     "48-Galatians/Gal.2.15-21.md",
@@ -262,7 +263,6 @@
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
-    "GDNTG/Chapter03.md",
     "_includes/head-custom.html",
     "_includes/head.html",
     "_includes",
