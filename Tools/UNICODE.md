@@ -6,9 +6,9 @@ draft: false
 ### 記得要把 oxia 改成 tonos
 
 
-source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://wiki.digitalclassicist.org/Greek_Unicode_duplicated_vowels)
+source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki]https://wiki.digitalclassicist.org/Greek_Unicode_duplicated_vowels)
 
-> The latest versions of Unicode (as of 2016) have now formally deprecated and removed the vowel+oxia combinations from the Greek extended range, leaving only the vowel+tonos from the basic Greek and Coptic range.
+> The latest versions of Unicode as of 2016) have now formally deprecated and removed the vowel+oxia combinations from the Greek extended range, leaving only the vowel+tonos from the basic Greek and Coptic range.
 
 
 #### tonos vs. oxia ?
@@ -19,13 +19,13 @@ source: [Greek Unicode duplicated vowels - The Digital Classicist Wiki](https://
 - Bibleworks10 : oxia
 
 ##### 鍵盤輸入法
-- [Tyndale Keyboard](https://www.stepbible.org/downloads.jsp) 
-	- 只能輸出 pre-composed character with oxia (e.g. ά =\u1F71)，不能用
+- [Tyndale Keyboard]https://www.stepbible.org/downloads.jsp) 
+	- 只能輸出 pre-composed character with oxia e.g. ά =\u1F71)，不能用
 	- customize 之後就可以用了 😀
-- [Logos Greek Keyboard](https://www.logos.com/product/53264/original-languages-keyboards-for-windows) 
-	- 只能輸出 combining characters (e.g. ά = \u03B1+\u0301)，不能用
+- [Logos Greek Keyboard]https://www.logos.com/product/53264/original-languages-keyboards-for-windows) 
+	- 只能輸出 combining characters e.g. ά = \u03B1+\u0301)，不能用
 - Microsoft Polytonic
-	- 可以輸出 pre-omposed character with tonos (ά U+03AC) 和 pre-composed character with oxia (ά U+1F71)，記得要用 tonos (ά U+03AC)！
+	- 可以輸出 pre-omposed character with tonos ά U+03AC) 和 pre-composed character with oxia (ά U+1F71)，記得要用 tonos (ά U+03AC)！
 	- ![images/key.png](images/key.png)
 	- ![images/Pasted image 20220630200904.png](images/Pasted%20image%2020220630200904.png)
 	- ![KB_Greek_polytonic_Unicode.svg](KB_Greek_polytonic_Unicode.svg)

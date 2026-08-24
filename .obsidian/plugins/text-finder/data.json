@@ -11,12 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "我激進",
-      "lastUsedAt": 1784620184765,
-      "createdAt": 1784620180187,
-      "count": 1
-    },
-    {
       "text": "萬物",
       "lastUsedAt": 1784796823224,
       "createdAt": 1784796823214,
@@ -63,6 +57,18 @@
       "lastUsedAt": 1787310471556,
       "createdAt": 1787310381266,
       "count": 1
+    },
+    {
+      "text": ")",
+      "lastUsedAt": 1787560759529,
+      "createdAt": 1787560685592,
+      "count": 3
+    },
+    {
+      "text": "(",
+      "lastUsedAt": 1787560792251,
+      "createdAt": 1787560659694,
+      "count": 2
     }
   ]
 }
