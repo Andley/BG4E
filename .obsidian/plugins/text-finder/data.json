@@ -11,12 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "萬物",
-      "lastUsedAt": 1784796823224,
-      "createdAt": 1784796823214,
-      "count": 1
-    },
-    {
       "text": "strong",
       "lastUsedAt": 1786003587403,
       "createdAt": 1786003585699,
@@ -26,12 +20,6 @@
       "text": "<strong>",
       "lastUsedAt": 1786003746932,
       "createdAt": 1786003729051,
-      "count": 1
-    },
-    {
-      "text": "[",
-      "lastUsedAt": 1786056060123,
-      "createdAt": 1786056060123,
       "count": 1
     },
     {
@@ -69,6 +57,18 @@
       "lastUsedAt": 1787560792251,
       "createdAt": 1787560659694,
       "count": 2
+    },
+    {
+      "text": "[",
+      "lastUsedAt": 1787569060917,
+      "createdAt": 1786056060123,
+      "count": 2
+    },
+    {
+      "text": "]",
+      "lastUsedAt": 1787569080541,
+      "createdAt": 1787569066695,
+      "count": 1
     }
   ]
 }

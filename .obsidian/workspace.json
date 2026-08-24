@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/Gal.1.1-5.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.1-5"
             },
             "group": "4e8ff9a566665881"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/Gal.1.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.1-5"
             },
             "group": "4e8ff9a566665881"
           }
@@ -271,11 +271,11 @@
       }
     ]
   },
-  "active": "e11fc4bfe2e439db",
+  "active": "5e46f5fad6e59e36",
   "lastOpenFiles": [
-    "48-Galatians/Gal.1.6-10.md",
     "Tools/Phrasing-Signs.md",
     "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Gal.1.6-10.md",
     "Tools/UNICODE.md",
     "48-Galatians/Gal.4.8-20.md",
     "48-Galatians/Gal.1.11-24.md",
