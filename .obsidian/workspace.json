@@ -232,45 +232,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "f6993b483f66447e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d42adcdb89b67fac",
-        "type": "window",
-        "children": [
-          {
-            "id": "a2e04885195977d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e11fc4bfe2e439db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tools/Phrasing-Signs.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Phrasing-Signs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 102,
-        "y": 0,
-        "width": 1026,
-        "height": 731,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "5e46f5fad6e59e36",
   "lastOpenFiles": [
     "Tools/Phrasing-Signs.md",
