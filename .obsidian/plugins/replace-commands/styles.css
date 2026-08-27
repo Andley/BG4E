@@ -1,0 +1,406 @@
+/**
+ * CUSTOM REPLACE PLUGIN STYLES
+ */
+
+body {
+	--replace-commands-border-width: 1px;
+	--replace-commands-border-style: solid;
+	--replace-commands-border-color: var(--background-modifier-border);
+	--replace-commands-border-hover-color: var(--background-modifier-border-hover);
+
+	--replace-commands-spacing-xs: 4px;
+	--replace-commands-spacing-sm: 8px;
+	--replace-commands-spacing-md: 10px;
+	--replace-commands-spacing-lg: 15px;
+	--replace-commands-spacing-xl: 20px;
+
+	--replace-commands-radius-sm: 4px;
+	--replace-commands-radius-md: 5px;
+	--replace-commands-radius-lg: 6px;
+
+	--replace-commands-indicator-width: 4px;
+	--replace-commands-indicator-color: var(--interactive-accent);
+
+	--replace-commands-col-min-width: 100px;
+	--replace-commands-flags-width: 60px;
+
+	--replace-commands-font-size-small: 0.8em;
+
+	--replace-commands-box-shadow-color: var(--background-secondary);
+	--replace-commands-box-shadow: 0 2px 4px var(--replace-commands-box-shadow-color);
+	--replace-commands-box-shadow-bottom: 0 12px 6px -6px var(--replace-commands-box-shadow-color);
+}
+
+.custom-replace-rules-container {
+	margin-top: var(--replace-commands-spacing-md);
+	border-top: var(--replace-commands-border-width) var(--replace-commands-border-style)
+		var(--replace-commands-border-hover-color);
+	padding-top: var(--replace-commands-spacing-lg);
+}
+
+/* Wide Modal Override */
+.modal.custom-replace-wide-modal {
+	width: 85vw;
+	max-width: 900px;
+}
+
+/* Rule Card Header & Badging */
+.custom-replace-rule-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: var(--replace-commands-spacing-sm);
+	width: 100%;
+}
+
+.custom-replace-rule-badge {
+	color: var(--text-accent);
+	font-weight: 600;
+	font-size: var(--replace-commands-font-size-small);
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+}
+
+.custom-replace-rule-actions {
+	display: flex;
+	align-items: center;
+	gap: var(--replace-commands-spacing-xs);
+}
+
+/* Test Bench Controls */
+.modal.custom-replace-wide-modal
+	.modal-content
+	.custom-replace-test-toggle.setting-item.setting-item {
+	position: relative;
+	margin-bottom: var(--replace-commands-spacing-md);
+	padding-top: var(--replace-commands-spacing-lg);
+	padding-bottom: var(--replace-commands-spacing-lg);
+}
+
+@media (min-width: 600px) and (min-height: 500px) {
+	.modal.custom-replace-wide-modal
+		.modal-content
+		.custom-replace-test-toggle.setting-item.setting-item {
+		position: sticky;
+		top: calc(0px - var(--size-4-4));
+		z-index: 10;
+		border-bottom: var(--replace-commands-border-width) var(--replace-commands-border-style)
+			var(--replace-commands-border-color);
+		background-color: var(--background-primary);
+	}
+
+	@supports (container-type: scroll-state) {
+		.modal.custom-replace-wide-modal
+			.modal-content
+			.custom-replace-test-toggle.setting-item.setting-item {
+			container-type: scroll-state;
+			border-bottom: none;
+			background-color: transparent;
+		}
+
+		.modal.custom-replace-wide-modal
+			.modal-content
+			.custom-replace-test-toggle.setting-item.setting-item::before {
+			position: absolute;
+			z-index: -1;
+			transition:
+				box-shadow 0.2s ease,
+				border-color 0.2s ease;
+			inset: 0;
+			border-bottom: var(--replace-commands-border-width) var(--replace-commands-border-style)
+				var(--background-primary);
+			pointer-events: none;
+			content: '';
+		}
+
+		@container scroll-state(stuck: top) {
+			.modal.custom-replace-wide-modal
+				.modal-content
+				.custom-replace-test-toggle.setting-item.setting-item::before {
+				box-shadow: var(--replace-commands-box-shadow-bottom);
+				border-bottom-color: var(--replace-commands-border-color);
+				background-color: var(--background-primary);
+			}
+		}
+	}
+}
+
+.custom-replace-test-input-container {
+	margin-bottom: var(--replace-commands-spacing-xl);
+	border-bottom: var(--replace-commands-border-width) var(--replace-commands-border-style)
+		var(--replace-commands-border-color);
+	padding-bottom: var(--replace-commands-spacing-lg);
+}
+
+.custom-replace-label {
+	display: block;
+	margin-bottom: var(--replace-commands-spacing-sm);
+	font-weight: bold;
+}
+
+/* Action Name Validation Feedback */
+.custom-replace-name-error-msg {
+	margin-top: calc(-1 * var(--replace-commands-spacing-md));
+	margin-bottom: var(--replace-commands-spacing-lg);
+}
+
+input[type='text'].custom-replace-input-error,
+textarea.custom-replace-input-error {
+	border-color: var(--text-error);
+}
+
+/* Action Configuration Grid */
+.custom-replace-config-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(32ch, 1fr));
+	align-items: stretch;
+	gap: var(--replace-commands-spacing-lg);
+	container-type: inline-size;
+	margin-bottom: var(--replace-commands-spacing-lg);
+}
+
+.custom-replace-config-grid .custom-replace-config-col {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-top: none;
+}
+
+.modal.custom-replace-wide-modal
+	.modal-content
+	.custom-replace-config-grid
+	.setting-item.setting-item {
+	align-items: center;
+	border-top: none;
+}
+
+.custom-replace-config-grid .custom-replace-name-error-msg {
+	align-self: flex-end;
+	padding: var(--replace-commands-spacing-md) var(--replace-commands-spacing-lg) 0;
+}
+
+@container (min-width: calc(64ch + 15px)) {
+	.custom-replace-config-grid .custom-replace-config-col {
+		border-radius: var(--replace-commands-radius-md);
+		background-color: var(--background-primary-alt);
+	}
+
+	.modal.custom-replace-wide-modal
+		.modal-content
+		.custom-replace-config-grid
+		.setting-item.setting-item {
+		padding: var(--replace-commands-spacing-sm);
+	}
+}
+
+/* Action Name Auto-sizing Input */
+.custom-replace-name-setting .setting-item-info {
+	flex-shrink: 0;
+	margin-right: var(--replace-commands-spacing-lg);
+}
+
+.custom-replace-name-setting .setting-item-control {
+	flex-shrink: 1;
+	min-width: 0;
+}
+
+.custom-replace-name-setting .setting-item-control input[type='text'] {
+	flex-basis: max-content;
+	width: auto;
+	min-width: 20ch;
+	max-width: 100%;
+	field-sizing: content;
+}
+
+/* Textareas Shared Styles */
+.custom-replace-textarea {
+	border-radius: var(--replace-commands-radius-sm);
+	background-color: var(--background-secondary);
+	padding: var(--replace-commands-spacing-md);
+	width: 100%;
+	overflow: hidden;
+	resize: none;
+	font-family: var(--font-monospace);
+	white-space: pre-wrap;
+}
+
+.custom-replace-test-input-textarea {
+	min-height: 80px;
+}
+
+.custom-replace-output-textarea {
+	min-height: 40px;
+}
+
+/* Rule Row Layout */
+
+.custom-replace-rule-row {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	gap: var(--replace-commands-spacing-lg);
+	margin-bottom: var(--replace-commands-spacing-xl);
+	border: var(--replace-commands-border-width) var(--replace-commands-border-style)
+		var(--replace-commands-border-color);
+	border-left: var(--replace-commands-indicator-width) var(--replace-commands-border-style)
+		var(--replace-commands-indicator-color);
+	border-radius: var(--replace-commands-radius-sm) var(--replace-commands-radius-lg)
+		var(--replace-commands-radius-lg) var(--replace-commands-radius-sm);
+	background-color: var(--background-primary-alt);
+	padding: var(--replace-commands-spacing-lg);
+}
+
+.custom-replace-rule-inputs {
+	display: flex;
+	flex-basis: 100%;
+	align-items: stretch;
+	gap: var(--replace-commands-spacing-md);
+	width: 100%;
+}
+
+.custom-replace-input-column {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	min-width: var(--replace-commands-col-min-width);
+}
+
+.custom-replace-column-label {
+	margin-bottom: var(--replace-commands-spacing-xs);
+	font-weight: bold;
+	font-size: var(--replace-commands-font-size-small);
+}
+
+.custom-replace-regex-col {
+	display: flex;
+	flex-shrink: 0;
+	flex-direction: column;
+	align-items: center;
+}
+
+.custom-replace-flags-col {
+	display: flex;
+	flex-shrink: 0;
+	flex-direction: column;
+	width: var(--replace-commands-flags-width);
+}
+
+.custom-replace-toggle-inner {
+	flex-grow: 1;
+	align-items: center;
+}
+
+.modal.custom-replace-wide-modal
+	.modal-content
+	.custom-replace-toggle-inner.setting-item.setting-item {
+	border: none;
+	border-top: unset;
+	background: none;
+	padding: 0;
+}
+
+/* Force lowercase for regex flags */
+.custom-replace-flags-input,
+.custom-replace-flags-input::placeholder,
+.custom-replace-flags-list {
+	text-transform: lowercase;
+}
+
+.custom-replace-flags-input:invalid {
+	border-color: var(--text-error);
+	color: var(--text-error);
+}
+
+.custom-replace-flags-error-msg {
+	display: none;
+	position: absolute;
+	top: calc(100% + var(--replace-commands-spacing-xs));
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 10;
+	margin-top: var(--replace-commands-spacing-xs);
+	box-shadow: var(--replace-commands-box-shadow);
+	border: var(--replace-commands-border-width) solid var(--text-error);
+	border-radius: var(--replace-commands-radius-sm);
+	background-color: var(--background-primary);
+	padding: var(--replace-commands-spacing-xs) var(--replace-commands-spacing-sm);
+	pointer-events: none;
+	color: var(--text-error);
+	font-weight: bold;
+	font-size: var(--replace-commands-font-size-small);
+	white-space: nowrap;
+}
+@supports (top: anchor(bottom)) {
+	.custom-replace-flags-error-msg {
+		top: calc(anchor(bottom) + var(--replace-commands-spacing-xs));
+		left: anchor(center);
+	}
+}
+
+.custom-replace-flags-input:invalid + .custom-replace-flags-error-msg {
+	display: block;
+}
+
+/* Rule Output/Error */
+.custom-replace-output-col {
+	flex-basis: 100%;
+	margin-top: var(--replace-commands-spacing-md);
+	width: 100%;
+}
+
+.custom-replace-step-label {
+	display: block;
+	margin-bottom: var(--replace-commands-spacing-xs);
+	color: var(--text-muted);
+	font-weight: bold;
+	font-size: var(--replace-commands-font-size-small);
+}
+
+.custom-replace-final-label {
+	color: var(--text-accent);
+}
+
+.custom-replace-error {
+	margin-bottom: var(--replace-commands-spacing-xs);
+	color: var(--text-error);
+	font-size: var(--replace-commands-font-size-small);
+}
+
+/* Rule Actions */
+.custom-replace-add-rule-btn-row {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: var(--replace-commands-spacing-md);
+	margin-bottom: var(--replace-commands-spacing-md);
+}
+
+/* Position Swap Animations for Rules */
+@keyframes custom-replace-slide-up {
+	0% {
+		transform: translateY(30px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes custom-replace-slide-down {
+	0% {
+		transform: translateY(-30px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+.custom-replace-moved-up {
+	animation: custom-replace-slide-up 0.25s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
+}
+
+.custom-replace-moved-down {
+	animation: custom-replace-slide-down 0.25s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
+}

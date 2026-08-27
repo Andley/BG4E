@@ -1,0 +1,11 @@
+{
+	"id": "replace-commands",
+	"name": "Replace Commands",
+	"version": "1.0.1",
+	"minAppVersion": "1.13.0",
+	"description": "Preconfigure custom search and replace actions using plain text or regex to quickly modify selections or documents.",
+	"author": "Eric Lowry",
+	"authorUrl": "https://eric-lowry.com",
+	"fundingUrl": "https://buymeacoffee.com/ericlowry",
+	"isDesktopOnly": false
+}

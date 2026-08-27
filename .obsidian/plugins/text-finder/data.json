@@ -11,12 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "strong",
-      "lastUsedAt": 1786003587403,
-      "createdAt": 1786003585699,
-      "count": 1
-    },
-    {
       "text": "<strong>",
       "lastUsedAt": 1786003746932,
       "createdAt": 1786003729051,
@@ -69,6 +63,12 @@
       "lastUsedAt": 1787569080541,
       "createdAt": 1787569066695,
       "count": 1
+    },
+    {
+      "text": "1Pe 1:",
+      "lastUsedAt": 1787790571867,
+      "createdAt": 1787787539708,
+      "count": 2
     }
   ]
 }
