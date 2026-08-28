@@ -1,8 +1,4 @@
----
-title: "1Peter-Interlinear"
-date: 2026-07-04
-draft: false
----
+
 # Πἐτρου αʹ 彼得前書
 
 
