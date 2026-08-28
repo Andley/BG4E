@@ -39,6 +39,10 @@ li ruby {
   line-height: 4.2em;
 }
 
+li {
+  line-height: 1.5em;
+}
+
 a {text-decoration: none; color: var(--text-link); }
 /* --------- table -----------------------------------   */
 .markdown-preview-view table {
