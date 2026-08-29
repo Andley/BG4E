@@ -6,7 +6,7 @@
       {
         "id": "42fe6b2d0cdbc919",
         "type": "tabs",
-        "dimension": 41.81818181818181,
+        "dimension": 43.90243902439025,
         "children": [
           {
             "id": "eb993de3516a686e",
@@ -27,7 +27,7 @@
       {
         "id": "bb896137e91f0c32",
         "type": "tabs",
-        "dimension": 58.18181818181818,
+        "dimension": 56.09756097560976,
         "children": [
           {
             "id": "1937bb39a4122658",
@@ -233,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb993de3516a686e",
+  "active": "1937bb39a4122658",
   "lastOpenFiles": [
     "Tools/Phrasing-Signs.md",
     "60-1Peter/1Pe.1.3-12.md",
