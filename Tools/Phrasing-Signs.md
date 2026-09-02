@@ -26,8 +26,8 @@
 功能 (function) 的符號  | 含意
 :---: | :----: 
 不標示 | 連接詞、否定質詞
-S/P/C/A/V| S=主語; P=謂語; C=補語; A=狀語; V=稱謂 or 驚嘆
-S/P/C/A<br>s/p/c/a | 主要子句、從屬子句的構成元素用大寫<br>內嵌子句用小寫
+SPCAV| S=主語; P=謂語; C=補語; A=狀語; V=稱謂 or 驚嘆
+SPCA<br>spca <sub>spca</sub> | 主要子句、從屬子句的構成元素用大寫<br>內嵌子句用小寫、雙重內嵌子句用<sub>小小寫</sub>
 = |  同位 (apposition)</br>通常涉及名詞類，可以取代先行詞 (antecedent)
 ≒| 附帶說明 (epexegetical)</br>通常涉及動詞類，不能取代先行詞 (antecedent)
 +  | 補充 (complement) </br> object-complement 中的 complement (相當於 object 的 predicate)
