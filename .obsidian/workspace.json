@@ -6,59 +6,40 @@
       {
         "id": "42fe6b2d0cdbc919",
         "type": "tabs",
-        "dimension": 43.90243902439025,
         "children": [
           {
-            "id": "eb993de3516a686e",
+            "id": "a717adb4c0e102ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
-                "mode": "source",
-                "source": true
+                "file": "Tools/AI Chart.canvas",
+                "viewState": {
+                  "x": -87.5,
+                  "y": -200,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "icon": "lucide-layout-dashboard",
+              "title": "AI Chart"
             }
           },
           {
-            "id": "454d7159912cbea2",
+            "id": "b610cf35d20a6122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Untitled 1.md",
+                "file": "Tools/句法小幫手.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "句法小幫手"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "bb896137e91f0c32",
-        "type": "tabs",
-        "dimension": 56.09756097560976,
-        "children": [
-          {
-            "id": "1937bb39a4122658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.6-10"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "48-Galatians/Gal.3.1-14.md",
+                "file": "Tools/句法小幫手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -107,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,11 +225,28 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false
     }
   },
-  "active": "454d7159912cbea2",
+  "active": "b610cf35d20a6122",
   "lastOpenFiles": [
+    "Tools/AI 工具.md",
+    "Tools/Untitled.md",
+    "Tools/句法小幫手.md",
+    "Tools/AI Skills/Untitled.md",
+    "Tools/AI Chart.canvas",
+    "Tools/一手聖經一手報紙.md",
+    "Tools/_index.md",
+    "Tools/Biblography.md",
+    "Untitled.base",
+    "Syntax/_index.md",
+    "40-Matthew/_index.md",
+    "Living Greek Resources.md",
+    "Tools/UNICODE.md",
     "48-Galatians/Gal.1.6-10.md",
     "48-Galatians/Untitled 1.md",
     "48-Galatians/Untitled.md",
@@ -263,18 +261,6 @@
     "60-1Peter/Untitled 1.md",
     "template/HW.md",
     "template/Book-Notes.md",
-    "60-1Peter/_index.md",
-    "Tools/UNICODE.md",
-    "48-Galatians/Gal.4.8-20.md",
-    "48-Galatians/Gal.1.11-24.md",
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Galatians-Clause.md",
-    "48-Galatians/Galatians-AllinOne.md",
-    "48-Galatians/Gal.3.21-4.7.md",
-    "51-Colossians/Col.1.9-20.md",
-    "51-Colossians/Col.1.3-8.md",
-    "48-Galatians/Gal.4.21-5.1.md",
     "_includes/head-custom.html",
     "_includes/head.html",
     "_includes",
@@ -286,7 +272,6 @@
     "public/48-galatians/Galatians-Notes.md/index.xml",
     "public/48-galatians/Galatians-Notes.md/index.html",
     "public/48-galatians/galatians-notes/index.xml",
-    "public/48-galatians/Galatia/index.xml",
     "content/GDNTG/GDNTG1.png",
     "static/images/語言金字塔.png",
     "static/images/Pasted image 20260106152338.png",
