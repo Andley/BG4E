@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"97e18c031e0ce2fc","type":"file","file":"Tools/句法小幫手.md","x":-255,"y":-420,"width":460,"height":188},
-		{"id":"350e599e4b61fd5a","x":-185,"y":-120,"width":320,"height":120,"type":"file","file":"Tools/一手聖經一手報紙.md"}
+		{"id":"350e599e4b61fd5a","type":"file","file":"Tools/一手聖經一手報紙.md","x":-185,"y":-120,"width":320,"height":120},
+		{"id":"75dc08f278d46ebc","x":-600,"y":-420,"width":280,"height":188,"type":"file","file":"Tools/研經小幫手.md"}
 	],
 	"edges":[]
 }

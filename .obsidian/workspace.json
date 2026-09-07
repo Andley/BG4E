@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42fe6b2d0cdbc919",
+        "id": "a4fb1ab98efa8bed",
         "type": "tabs",
         "children": [
           {
-            "id": "a717adb4c0e102ae",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tools/AI Chart.canvas",
-                "viewState": {
-                  "x": -87.5,
-                  "y": -200,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AI Chart"
-            }
-          },
-          {
-            "id": "b610cf35d20a6122",
+            "id": "ffe230ab9960aff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +21,7 @@
               "title": "句法小幫手"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,13 +214,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b610cf35d20a6122",
+  "active": "ffe230ab9960aff9",
   "lastOpenFiles": [
-    "Tools/AI 工具.md",
-    "Tools/Untitled.md",
+    "Tools/研經小幫手.md",
     "Tools/句法小幫手.md",
-    "Tools/AI Skills/Untitled.md",
+    "Tools/AI 工具.md",
     "Tools/AI Chart.canvas",
+    "Tools/Untitled.md",
+    "Tools/AI Skills/Untitled.md",
     "Tools/一手聖經一手報紙.md",
     "Tools/_index.md",
     "Tools/Biblography.md",
@@ -260,7 +243,6 @@
     "template/Untitled.md",
     "60-1Peter/Untitled 1.md",
     "template/HW.md",
-    "template/Book-Notes.md",
     "_includes/head-custom.html",
     "_includes/head.html",
     "_includes",
