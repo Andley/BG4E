@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/句法小幫手.md",
+                "file": "Tools/研經小幫手.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "句法小幫手"
+              "title": "研經小幫手"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "ffe230ab9960aff9",
   "lastOpenFiles": [
-    "Tools/研經小幫手.md",
     "Tools/句法小幫手.md",
+    "Tools/研經小幫手.md",
     "Tools/AI 工具.md",
     "Tools/AI Chart.canvas",
     "Tools/Untitled.md",
