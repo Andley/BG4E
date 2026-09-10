@@ -1,56 +1,83 @@
-/* 每個希臘文字的四層詞彙單位 */
-.w {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end;
+/* ========================================
+   Interlinear 低巢狀樣式
+   同時適用 Live Preview + Reading View
+   ======================================== */
 
-  /* 取代原本 ruby 的 nowrap 行為：一個詞不可從中間折行 */
+/* ---------- 共同容器 ---------- */
+ {
+  display: inline;
   white-space: nowrap;
-
-  /* 讓多個 g-word 能在同一段文字中並列 */
-  vertical-align: bottom;
-
-  /* 字間距與下方預留空間 */
-  margin: 0 0.45em 0.8em 0;
-
-  /* 對應原 ruby 的字體 */
-  font-family: AndleyFont, serif;
-  font-size: 1em;
-  line-height: 1.15;
 }
 
-/* 第一層：形態標籤，如 N-NSM、PRT-N */
-.w .m {
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
-  font-size: 0.72em;
-  line-height: 1.1;
-  color: var(--text-muted);
+/* ---------- Live Preview ---------- */
+.markdown-source-view.mod-cm6.is-live-preview  {
+  display: inline;
+  white-space: nowrap;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview  ruby {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  vertical-align: top;
+  margin-right: 1.2em;
   text-align: center;
+  line-height: 1.35;
 }
 
-/* 第二層：詞典詞形／lemma；通常為可點擊的 FHL 連結 */
-.w .l {
-  font-family: AndleyFont, serif;
+.markdown-source-view.mod-cm6.is-live-preview  rt {
+  display: block !important;
+  font-size: 0.78em;
+  line-height: 1.25;
+  white-space: nowrap !important;
+  margin-top: 0.15em;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview  .morph {
+  color: #8ab4f8;
   font-size: 0.9em;
-  line-height: 1.15;
-  text-align: center;
 }
 
-/* 第三層：中文與英文 gloss，如「保羅 Paul」 */
-.w .g {
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
-  font-size: 0.85em;
-  line-height: 1.15;
-  text-align: center;
-  color: var(--text-normal);
+.markdown-source-view.mod-cm6.is-live-preview  a {
+  color: #7aa2f7;
+  text-decoration: underline;
+  font-size: 0.95em;
 }
 
-/* 第四層：經文中實際出現的希臘字形，如 Παῦλος */
-.w .t {
-  font-family: AndleyFont, serif;
-  font-size: 1.45em;
-  line-height: 1.2;
+/* ---------- Reading View (View mode) ---------- */
+.markdown-preview-view ,
+.markdown-reading-view  {
+  display: inline;
+  white-space: nowrap;
+}
+
+.markdown-preview-view  ruby,
+.markdown-reading-view  ruby {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  vertical-align: top;
+  margin-right: 1.2em;
   text-align: center;
-  color: var(--text-normal);
+  line-height: 1.35;
+}
+
+.markdown-preview-view  rt,
+.markdown-reading-view  rt {
+  display: block !important;
+  font-size: 0.78em;
+  line-height: 1.25;
+  white-space: nowrap !important;
+  margin-top: 0.15em;
+}
+
+.markdown-preview-view  .morph,
+.markdown-reading-view  .morph {
+  color: #8ab4f8;
+  font-size: 0.9em;
+}
+
+.markdown-preview-view  a,
+.markdown-reading-view  a {
+  color: #7aa2f7;
+  text-decoration: underline;
+  font-size: 0.95em;
 }

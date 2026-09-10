@@ -23,12 +23,6 @@
       "count": 1
     },
     {
-      "text": "°",
-      "lastUsedAt": 1787291510358,
-      "createdAt": 1786428466440,
-      "count": 3
-    },
-    {
       "text": "指著",
       "lastUsedAt": 1787310471556,
       "createdAt": 1787310381266,
@@ -69,6 +63,12 @@
       "lastUsedAt": 1787882893823,
       "createdAt": 1787882893823,
       "count": 1
+    },
+    {
+      "text": "°",
+      "lastUsedAt": 1789005537584,
+      "createdAt": 1786428466440,
+      "count": 4
     }
   ]
 }

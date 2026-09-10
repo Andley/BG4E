@@ -49,6 +49,7 @@ rt {
   word-break: keep-all;
 }
 
+/* 改用 <span class=" */
 .ref {
   display: inline-block;
   vertical-align: baseline;
@@ -56,7 +57,7 @@ rt {
   top: -0.8em;
 }
 
-/* 每個希臘文字的四層詞彙單位 */
+/* 改用 <span class=" 每個希臘文字的四層詞彙單位 */
 .w {
   display: inline-flex;
   flex-direction: column;
