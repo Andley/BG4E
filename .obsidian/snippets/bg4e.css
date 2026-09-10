@@ -27,13 +27,76 @@ ruby {
   font-size: 1em ; 
   ruby-align:start;
   font-family:  AndleyFont,  serif;;
-  line-height:5em;
+  line-height:2em;
+  white-space: nowrap;         /* 關鍵：禁止內部換行 */
+  display: ruby;
 }
 
 rt {
   font-size: 0.85em ; 
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif; ;
+  white-space: nowrap;         /* 同樣禁止 rt 內部換行 */
+  line-height: 1.1;
 } 
+
+/* 專門針對 Live Preview 加強 */
+.markdown-source-view.mod-cm6.is-live-preview ruby,
+.markdown-source-view.mod-cm6.is-live-preview rt {
+  white-space: nowrap;
+}
+.markdown-source-view.mod-cm6.is-live-preview .cm-line {
+  /* 可選：整行也不強制斷詞 */
+  word-break: keep-all;
+}
+
+.ref {
+  display: inline-block;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.8em;
+}
+
+/* 每個希臘文字的四層詞彙單位 */
+.w {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+  vertical-align:bottom;
+  /* 上下留白，可用來增加行與行之間的間距 */
+  margin-bottom: 1em;
+}
+
+/* 第一層：形態標籤，如 N-NSM、PRT-N */
+.w .m {
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
+  font-size: 0.85em;
+  line-height: 1em;
+  color: var(--text-muted);
+}
+
+/* 第二層：詞典詞形／lemma；通常為可點擊的 FHL 連結 */
+.w .l {
+  font-family: AndleyFont, serif;
+  font-size: 0.85em;
+  line-height: 1;
+}
+
+/* 第三層：中文與英文 gloss，如「保羅 Paul」 */
+.w .g {
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
+  font-size: 0.85em;
+  line-height: 1;
+  color: var(--text-normal);
+}
+
+/* 第四層：經文中實際出現的希臘字形，如 Παῦλος */
+.w .t {
+  font-family: AndleyFont, serif;
+  font-size: 1em;
+  line-height: 1.2;
+  color: var(--text-normal);
+}
 
 li ruby {
   line-height: 4.2em;
