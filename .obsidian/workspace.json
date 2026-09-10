@@ -269,12 +269,12 @@
         "y": 783,
         "width": 1027,
         "height": 731,
-        "maximize": true,
+        "maximize": false,
         "zoom": 1.5
       }
     ]
   },
-  "active": "4855e874ca87fcd4",
+  "active": "4bb53e9071547067",
   "lastOpenFiles": [
     "Tools/Phrasing-Signs.md",
     "48-Galatians/Gal.1.6-10.md",
