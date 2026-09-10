@@ -6,11 +6,11 @@
   "showUnicodeWhitespace": false,
   "outlineListMarkers": true,
   "showAllCodeblockWhitespace": true,
-  "showAllWhitespace": false,
+  "showAllWhitespace": true,
   "showCodeblockWhitespace": true,
   "showFrontmatterWhitespace": true,
   "showTableWhitespace": true,
-  "showSourceOnlyWhitespace": false,
+  "showSourceOnlyWhitespace": true,
   "version": {
     "major": 0,
     "minor": 2,

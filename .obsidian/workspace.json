@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/Gal.1.11-24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.11-24"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/Gal.1.11-24.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.1.11-24"
             }
           }
         ]
@@ -276,10 +276,11 @@
   },
   "active": "ffe230ab9960aff9",
   "lastOpenFiles": [
-    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Gal.1.6-10.md",
-    "48-Galatians/Untitled 4.md",
+    "48-Galatians/Gal.1.11-24.md",
     "Tools/Phrasing-Signs.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Untitled 4.md",
     "48-Galatians/Untitled 3.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
@@ -303,7 +304,6 @@
     "48-Galatians/Untitled.md",
     "60-1Peter/1Pe.1.3-12.md",
     "60-1Peter/1Pe.1.1-2.md",
-    "60-1Peter/1Peter-Notes.md",
     "_includes/head-custom.html",
     "_includes/head.html",
     "_includes",
