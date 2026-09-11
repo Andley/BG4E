@@ -139,19 +139,19 @@ number headings: auto, first-level 1, start-at 8
 - 腓1:18   <RUBY><ruby><ruby>καὶ<rt>就 And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>為 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τούτῳ<rt>此 this</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03778&m='>οὗτος</a></rt></ruby><rt>D-DSN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>χαίρω</span><rt>我歡喜 I rejoice</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05463&m='>χαίρω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY> .   <RUBY><ruby><ruby>ἀλλὰ<rt>而且 Yes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>還 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>**χαρήσομαι**</span><rt>**要歡喜 I will rejoice**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05463&m='>χαίρω</a></rt></ruby><rt>V-FMI-1S</rt></RUBY>
 - 帖後3:4  <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἃ<rt>所 the things that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-APN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>παραγγέλλομεν</span><rt>我們吩咐 we command</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03853&m='>παραγγέλλω</a></rt></ruby><rt>V-PAI-1P</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>- both</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ποιεῖτε</span><rt>你們正在遵行 you are doing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04160&m='>ποιέω</a></rt></ruby><rt>V-PAI-2P</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>也 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>**ποιήσετε**</span><rt>**將繼續遵行 you will do**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04160&m='>ποιέω</a></rt></ruby><rt>V-FAI-2P</rt></RUBY>
 
-## 8.6 SUMMARY
+## 8.6 總結一覽表 SUMMARY
   
   
 
-## 8.7 PRACTICE EXERCISES
+## 8.7 應用練習 PRACTICE EXERCISES
 
   
 
-## 8.8 VOCABULARY
+## 8.8 單字 VOCABULARY
 
   
 
-## 8.9 READING THE NEW TESTAMENT
+## 8.9 閱讀新約聖經 READING THE NEW TESTAMENT
 
 
 

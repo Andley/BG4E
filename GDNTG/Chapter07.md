@@ -35,16 +35,16 @@ number headings: auto, first-level 1, start-at 7
 
 #### 7.3.3.4 結論 Conclusion
 
-## 7.4 SUMMARY
+## 7.4 總結一覽表 SUMMARY
   
   
 
-## 7.5 PRACTICE EXERCISES
+## 7.5 應用練習 PRACTICE EXERCISES
 
   
 
-## 7.6 VOCABULARY
+## 7.6 單字 VOCABULARY
 
   
 
-## 7.7 READING THE NEW TESTAMENT
+## 7.7 閱讀新約聖經 READING THE NEW TESTAMENT

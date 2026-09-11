@@ -142,17 +142,17 @@ number headings: auto, first-level 1, start-at 6
 - 徒15:29  <RUBY><ruby><ruby>ἐξ<rt>遠離 From</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ὧν<rt>它們 these</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-GPN</rt></RUBY>  <RUBY><ruby><ruby><span class='ptc'>διατηροῦντες</span><rt>若保守 keeping</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01301&m='>διατηρέω</a></rt></ruby><rt>V-PAP-NPM</rt></RUBY>  <RUBY><ruby><ruby>ἑαυτοὺς<rt>自己 yourselves</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01438&m='>ἑαυτοῦ</a></rt></ruby><rt>F-2APM</rt></RUBY>  <RUBY><ruby><ruby>εὖ<rt>好 well</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02095&m='>εὖ</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>πράξετε</span><rt>你們做 you will do</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04238&m='>πράσσω</a></rt></ruby><rt>V-FAI-2P</rt></RUBY> .   <RUBY><ruby><ruby><span class='verb'>**Ἔρρωσθε**</span><rt>**祝你們安康 Farewell**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04517&m='>ῥώννυμι</a></rt></ruby><rt>V-RMM-2P</rt></RUBY>
 ## 6.7 時態與觀點 TENSE & ASPECT
 
-## 6.8 SUMMARY
+## 6.8 總結一覽表 SUMMARY
 
   
   
 
-## 6.9 PRACTICE EXERCISES
+## 6.9 應用練習 PRACTICE EXERCISES
 
   
 
-## 6.10 VOCABULARY
+## 6.10 單字 VOCABULARY
 
   
 
-## 6.11 READING THE NEW TESTAMENT
+## 6.11 閱讀新約聖經 READING THE NEW TESTAMENT

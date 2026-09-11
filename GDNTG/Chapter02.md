@@ -123,11 +123,11 @@ number headings: auto, first-level 1, start-at 2
 - 徒2:37 <RUBY><ruby><ruby><span class='ptc'>Ἀκούσαντες</span><rt>聽見 Having heard</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAP-NPM</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>- then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>κατενύγησαν</span><rt>他們覺得扎 they were pierced</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02660&m='>κατανύσσω</a></rt></ruby><rt>V-API-3P</rt></RUBY>  <RUBY><ruby><ruby>**τὴν**<rt>**- to the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>**καρδίαν**<rt>**心 heart**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02588&m='>καρδία</a></rt></ruby><rt>N-ASF</rt></RUBY>  
 - 帖前2:4   <RUBY><ruby><ruby>ἀλλὰ<rt>但是 but</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>καθὼς<rt>既然 just as</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02531&m='>καθώς</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>δεδοκιμάσμεθα</span><rt>我們經得起考驗 we have been approved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01381&m='>δοκιμάζω</a></rt></ruby><rt>V-RPI-1P</rt></RUBY>  <RUBY><ruby><ruby>ὑπὸ<rt>被 by</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05259&m='>ὑπό</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'>πιστευθῆναι</span><rt>受託付 to be entrusted with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-APN</rt></RUBY>  <RUBY><ruby><ruby>**τὸ**<rt>**- the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby>**εὐαγγέλιον**<rt>**福音 gospel**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></rt></ruby><rt>N-ASN</rt></RUBY> 
 
-## 2.7 SUMMARY
+## 2.7 總結一覽表 SUMMARY
 
-## 2.8 PRACTICE EXERCISES
+## 2.8 應用練習 PRACTICE EXERCISES
 
-## 2.9 VOCABULARY
+## 2.9 單字 VOCABULARY
 
-## 2.10 READING THE NEW TESTAMENT
+## 2.10 閱讀新約聖經 READING THE NEW TESTAMENT
 

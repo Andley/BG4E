@@ -187,17 +187,17 @@ number headings: auto, first-level 1, start-at 5
 
 
 
-## 5.6 SUMMARY
+## 5.6 總結一覽表 SUMMARY
 
   
   
 
-## 5.7 PRACTICE EXERCISES
+## 5.7 應用練習 PRACTICE EXERCISES
 
   
 
-## 5.8 VOCABULARY
+## 5.8 單字 VOCABULARY
 
   
 
-## 5.9 READING THE NEW TESTAMENT
+## 5.9 閱讀新約聖經 READING THE NEW TESTAMENT

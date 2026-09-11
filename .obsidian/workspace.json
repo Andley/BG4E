@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter13.md",
+                "file": "GDNTG/Chapter02.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter13"
+              "title": "Chapter02"
             }
           }
         ]
@@ -237,8 +237,6 @@
   },
   "active": "d14d870962facbdd",
   "lastOpenFiles": [
-    "GDNTG/Untitled.md",
-    "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter05.md",
@@ -252,6 +250,8 @@
     "GDNTG/Chapter13.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/§14.md",
+    "GDNTG/Untitled.md",
+    "GDNTG/Chapter02.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Untitled 5.md",
     "48-Galatians/Gal.1.6-10.md",

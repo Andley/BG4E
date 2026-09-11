@@ -97,16 +97,16 @@ number headings: auto, first-level 1, start-at 11
 - 徒23:26 <RUBY><ruby><ruby>Κλαύδιος<rt>克勞第 Claudius</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02804&m='>Κλαύδιος</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>Λυσίας<rt>呂西亞 Lysias</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03079&m='>Λυσίας</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>Τῷ<rt>- To the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>κρατίστῳ<rt>大人 most excellent</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02903&m='>κράτιστος</a></rt></ruby><rt>A-DSM</rt></RUBY>  <RUBY><ruby><ruby>ἡγεμόνι<rt>總督 governor</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02232&m='>ἡγεμών</a></rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>Φήλικι<rt>腓力斯 Felix</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05344&m='>Φῆλιξ</a></rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'>**Χαίρειν**</span><rt>**問候 Greetings**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05463&m='>χαίρω</a></rt></ruby><rt>V-PAN</rt></RUBY>
 - 雅1:1 <RUBY><ruby><ruby>Ἰάκωβος<rt>雅各 James</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02385&m='>Ἰάκωβος</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Κυρίου<rt>主 of [the] Lord</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02962&m='>κύριος</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌 Jesus</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02424&m='>Ἰησοῦς</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>δοῦλος<rt>僕人 a servant</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01401&m='>δοῦλος</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>Ταῖς<rt>給 To the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPF</rt></RUBY>  <RUBY><ruby><ruby>δώδεκα<rt>十二 twelve</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01427&m='>δώδεκα</a></rt></ruby><rt>A-DPF</rt></RUBY>  <RUBY><ruby><ruby>φυλαῖς<rt>支派 tribes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05443&m='>φυλή</a></rt></ruby><rt>N-DPF</rt></RUBY>  <RUBY><ruby><ruby>ταῖς<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPF</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῇ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSF</rt></RUBY>  <RUBY><ruby><ruby>Διασπορᾷ<rt>散居 Dispersion</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01290&m='>διασπορά</a></rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'>**Χαίρειν**</span><rt>**問候 Greetings**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05463&m='>χαίρω</a></rt></ruby><rt>V-PAN</rt></RUBY>
 
-## 11.7 SUMMARY
+## 11.7 總結一覽表 SUMMARY
   
   
 
-## 11.8 PRACTICE EXERCISES
+## 11.8 應用練習 PRACTICE EXERCISES
 
   
 
-## 11.9 VOCABULARY
+## 11.9 單字 VOCABULARY
 
   
 
-## 11.10 READING THE NEW TESTAMENT
+## 11.10 閱讀新約聖經 READING THE NEW TESTAMENT

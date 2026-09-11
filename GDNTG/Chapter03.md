@@ -143,10 +143,10 @@ number headings: auto, first-level 1, start-at 3
 - 羅6:14 <RUBY><ruby><ruby>ἁμαρτία<rt>罪 Sin</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00266&m='>ἁμαρτία</a></rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>- for</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>**ὑμῶν**<rt>**你們 you**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY>  <RUBY><ruby><ruby>οὐ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'><u>κυριεύσει</u></span><rt><u>將作的主 will rule over</u></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02961&m='>κυριεύω</a></rt></ruby><rt>V-FAI-3S</rt></RUBY>   
 - 林前10:21   <RUBY><ruby><ruby>οὐ<rt>不 Not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>δύνασθε</span><rt>能夠 you are able</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01410&m='>δύναμαι</a></rt></ruby><rt>V-PMI-2P</rt></RUBY>  <RUBY><ruby><ruby>**τραπέζης**<rt>**筵席 of [the] table**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05132&m='>τράπεζα</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>Κυρίου<rt>主 of [the] Lord</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02962&m='>κύριος</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'><u>μετέχειν</u></span><rt><u>吃 to partake</u></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03348&m='>μετέχω</a></rt></ruby><rt>V-PAN</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>又 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>**τραπέζης**<rt>**筵席 of [the] table**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05132&m='>τράπεζα</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>δαιμονίων<rt>鬼魔 of demons</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01140&m='>δαιμόνιον</a></rt></ruby><rt>N-GPN</rt></RUBY>
 
-## 3.8 SUMMARY
+## 3.8 總結一覽表 SUMMARY
 
-## 3.9 PRACTICE EXERCISES
+## 3.9 應用練習 PRACTICE EXERCISES
 
-## 3.10 VOCABULARY
+## 3.10 單字 VOCABULARY
 
-## 3.11 READING THE NEW TESTAMENT
+## 3.11 閱讀新約聖經 READING THE NEW TESTAMENT

@@ -143,16 +143,16 @@ debugInConsole: false # Print debug info in Obsidian console
 - 西1:3 <RUBY><ruby><ruby><span class='verb'><u>Εὐχαριστοῦμεν</u></span><rt><u>我們感謝 We give thanks</u></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02168&m='>εὐχαριστέω</a></rt></ruby><rt>V-PAI-1P</rt></RUBY>  <RUBY><ruby><ruby>**τῷ**<rt>**- to the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSM</rt></RUBY>  <RUBY><ruby><ruby>**Θεῷ**<rt>**上帝 God**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-DSM</rt></RUBY> ...  <RUBY><ruby><ruby>πάντοτε<rt>常常 continually</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03842&m='>πάντοτε</a></rt></ruby><rt>ADV</rt></RUBY> 
 
 
-## 4.8 SUMMARY
+## 4.8 總結一覽表 SUMMARY
   
   
 
-## 4.9 PRACTICE EXERCISES
+## 4.9 應用練習 PRACTICE EXERCISES
 
   
 
-## 4.10 VOCABULARY
+## 4.10 單字 VOCABULARY
 
   
 
-## 4.11 READING THE NEW TESTAMENT
+## 4.11 閱讀新約聖經 READING THE NEW TESTAMENT

@@ -125,16 +125,16 @@ number headings: auto, first-level 1, start-at 9
 - 路11:22   <RUBY><ruby><ruby>τὴν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>πανοπλίαν<rt>盔甲兵器 complete armor</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03833&m='>πανοπλία</a></rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>αὐτοῦ<rt>他 of him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSM</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>αἴρει</span><rt>奪去 he takes away</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00142&m='>αἴρω</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>ἐφ᾽<rt>- in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01909&m='>ἐπί</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ᾗ<rt>所 which</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-DSF</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>**ἐπεποίθει**</span><rt>**他倚靠 he had trusted**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03982&m='>πείθω</a></rt></ruby><rt>V-LAI-3S</rt></RUBY>  
 - 徒1:10  <RUBY><ruby><ruby>ἄνδρες<rt>人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00435&m='>ἀνήρ</a></rt></ruby><rt>N-NPM</rt></RUBY>  <RUBY><ruby><ruby>δύο<rt>兩 two</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01417&m='>δύο</a></rt></ruby><rt>A-NPM</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>**παρειστήκεισαν**</span><rt>**站在旁邊 stood by**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03936&m='>παρίστημι</a></rt></ruby><rt>V-LAI-3P</rt></RUBY>  <RUBY><ruby><ruby>αὐτοῖς<rt>他們 them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-DPM</rt></RUBY> 
 
-## 9.6 SUMMARY
+## 9.6 總結一覽表 SUMMARY
   
   
 
-## 9.7 PRACTICE EXERCISES
+## 9.7 應用練習 PRACTICE EXERCISES
 
   
 
-## 9.8 VOCABULARY
+## 9.8 單字 VOCABULARY
 
   
 
-## 9.9 READING THE NEW TESTAMENT
+## 9.9 閱讀新約聖經 READING THE NEW TESTAMENT

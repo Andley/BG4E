@@ -255,16 +255,16 @@ number headings: auto, first-level 1, start-at 12
 - 太15:28   <RUBY><ruby><ruby>**Ὦ**<rt>**- O**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05599&m='>ὦ</a></rt></ruby><rt>INJ</rt></RUBY>  <RUBY><ruby><ruby>γύναι<rt>婦人 woman</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01135&m='>γυνή</a></rt></ruby><rt>N-VSF</rt></RUBY>  ,  <RUBY><ruby><ruby>μεγάλη<rt>大 great [is]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03173&m='>μέγας</a></rt></ruby><rt>A-NSF</rt></RUBY>  <RUBY><ruby><ruby>σου<rt>你 of you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY>  <RUBY><ruby><ruby>ἡ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY>  <RUBY><ruby><ruby>πίστις<rt>信心 faith!</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04102&m='>πίστις</a></rt></ruby><rt>N-NSF</rt></RUBY>  
 - 雅5:9   <RUBY><ruby><ruby>**ἰδοὺ**<rt>**看哪 Behold**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02400&m='>ἰδού</a></rt></ruby><rt>INJ</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>κριτὴς<rt>審判者 Judge</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02923&m='>κριτής</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>πρὸ<rt>在前 before</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04253&m='>πρό</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῶν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPF</rt></RUBY>  <RUBY><ruby><ruby>θυρῶν<rt>門 doors</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02374&m='>θύρα</a></rt></ruby><rt>N-GPF</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἕστηκεν</span><rt>他站 is standing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02476&m='>ἵστημι</a></rt></ruby><rt>V-RAI-3S</rt></RUBY>
 
-## 12.8 SUMMARY
+## 12.8 總結一覽表 SUMMARY
   
   
 
-## 12.9 PRACTICE EXERCISES
+## 12.9 應用練習 PRACTICE EXERCISES
 
   
 
-## 12.10 VOCABULARY
+## 12.10 單字 VOCABULARY
 
   
 
-## 12.11 READING THE NEW TESTAMENT
+## 12.11 閱讀新約聖經 READING THE NEW TESTAMENT
