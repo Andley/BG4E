@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.11-24.md",
+                "file": "48-Galatians/Gal.2.1-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "Gal.2.1-10"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -240,46 +239,46 @@
     "type": "floating",
     "children": [
       {
-        "id": "74c2fbcf1b93d52c",
+        "id": "e0234db431523ee7",
         "type": "window",
         "children": [
           {
-            "id": "2ec1f75241e838d8",
+            "id": "2be99caf52ab4bed",
             "type": "tabs",
             "children": [
               {
-                "id": "4855e874ca87fcd4",
+                "id": "7230417da9b4c0cd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tools/Phrasing-Signs.md",
-                    "mode": "source",
+                    "file": "48-Galatians/Gal.1.6-10.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Phrasing-Signs"
+                  "title": "Gal.1.6-10"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 81,
-        "y": 783,
-        "width": 1027,
+        "x": 102,
+        "y": 0,
+        "width": 1026,
         "height": 731,
-        "maximize": true,
+        "maximize": false,
         "zoom": 1.5
       }
     ]
   },
   "active": "ffe230ab9960aff9",
   "lastOpenFiles": [
-    "Tools/Phrasing-Signs.md",
     "48-Galatians/Gal.1.11-24.md",
-    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Gal.1.6-10.md",
+    "Tools/Phrasing-Signs.md",
+    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Untitled 4.md",
     "48-Galatians/Untitled 3.md",
     "46-1Corinthians/1Co.11.2-16.md",

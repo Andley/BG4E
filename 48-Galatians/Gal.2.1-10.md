@@ -1,6 +1,3 @@
----
-title: "Gal 2:1-10"
----
 ### Paul Accepted by the Other Apostles (Gal 2:1-10)
 
 #### 句法圖析 (Syntactic Diagram)
@@ -42,10 +39,4 @@ title: "Gal 2:1-10"
 	- ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:10a°⁵ <RUBY><ruby><ruby>μόνον<rt>只是 Only [they asked]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03441&m='>μόνος</a></rt></ruby><rt>A-ASN</rt></RUBY> )A <RUBY><ruby><ruby>τῶν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>πτωχῶν<rt>窮人 poor</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04434&m='>πτωχός</a></rt></ruby><rt>A-GPM</rt></RUBY> )C <RUBY><ruby><ruby>ἵνα<rt>是要 that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02443&m='>ἵνα</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>μνημονεύωμεν</span><rt>我們記念 we should remember</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03421&m='>μνημονεύω</a></rt></ruby><rt>V-PAS-1P</rt></RUBY> )P <span class='punctuation'>,</span> 
 	- 2:10b <RUBY><ruby><ruby>ὃ<rt>就是 that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-ASN</rt></RUBY>⮥°⁵) <RUBY><ruby><ruby>καὶ<rt>也 also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> )A <RUBY><ruby><ruby><span class='verb'>ἐσπούδασα</span><rt>我一向熱心 I was eager</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04704&m='>σπουδάζω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY> )P [<RUBY><ruby><ruby>αὐτὸ<rt>它 the same</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>這 thing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03778&m='>οὗτος</a></rt></ruby><rt>D-ASN</rt></RUBY> ›c <RUBY><ruby><ruby><span class='inf'>ποιῆσαι</span><rt>做 to do</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04160&m='>ποιέω</a></rt></ruby><rt>V-AAN</rt></RUBY> ›p]C <span class='punctuation'>.</span><span class='paragraph'></span>
-
-#### 句法筆記 (Syntax Notes)
-
-
-#### 語意圖析 (Semantic Diagram)
-
 
