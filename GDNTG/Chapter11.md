@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 11
 
 # 11 不定詞 INFINITIVES
 
-## 11.1 GOING DEEPER
+## 11.1 進深 GOING DEEPE
 
-## 11.2 CHAPTER OBJECTIVES
+## 11.2 本課目標 CHAPTER OBJECTIVES
 
 ## 11.3 INTRODUCTION
 

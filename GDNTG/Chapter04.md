@@ -15,9 +15,9 @@ debugInConsole: false # Print debug info in Obsidian console
 
 # 4 間接受格 DATIVE CASE
 
-## 4.1 GOING DEEPER
+## 4.1 進深 GOING DEEPER
 
-## 4.2 CHAPTER OBJECTIVES
+## 4.2 本課目標 CHAPTER OBJECTIVES
 
 ## 4.3 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
 

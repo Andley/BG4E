@@ -7,9 +7,9 @@ number headings: auto, first-level 1, start-at 2
 
 # 2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES
 
-## 2.1 GOING DEEPER
+## 2.1 進深 GOING DEEPER
 
-## 2.2 CHAPTER OBJECTIVES
+## 2.2 本課目標 CHAPTER OBJECTIVES
 
 
 ## 2.3 希臘文的格系統 THE GREEK CASE SYSTEM

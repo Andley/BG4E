@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 7
 
 # 7 時態與動詞觀點 TENSE & VERBAL ASPECT
 
-## 7.1 GOING DEEPER
+## 7.1 進深 GOING DEEPER
 
-## 7.2 CHAPTER OBJECTIVES
+## 7.2 本課目標 CHAPTER OBJECTIVES
 
 ## 7.3 希臘文動詞 THE GREEK VERB
 

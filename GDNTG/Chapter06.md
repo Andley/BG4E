@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 6
 
 # 6 動詞：概論、語態 & 語氣 VERBS: OVERVIEW, VOICE & MOOD
 
-## 6.1 GOING DEEPER
+## 6.1 進深 GOING DEEPER
 
-## 6.2 CHAPTER OBJECTIVES
+## 6.2 本課目標 CHAPTER OBJECTIVES
 
 
 ## 6.3 介紹 INTRODUCTION

@@ -8,5 +8,6 @@
   "obsidian-tidy-footnotes",
   "obsidian-footnotes",
   "replace-commands",
-  "ascii-tree-generator"
+  "ascii-tree-generator",
+  "global-search-and-replace"
 ]

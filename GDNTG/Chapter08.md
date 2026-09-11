@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 8
 
 # 8 現在式、不完成式、未來式之直說語氣PRESENT, IMPERFECT & FUTURE INDICATIVES
 
-## 8.1 GOING DEEPER
+## 8.1 進深 GOING DEEPE
 
-## 8.2 CHAPTER OBJECTIVES
+## 8.2 本課目標 CHAPTER OBJECTIVES
 
 ## 8.3 現在式直說語氣 PRESENT INDICATIVE
 

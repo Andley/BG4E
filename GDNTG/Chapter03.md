@@ -6,9 +6,9 @@ number headings: auto, first-level 1, start-at 3
 ```
 # 3 所有格 GENITIVE CASE
 
-## 3.1 GOING DEEPER
+## 3.1 進深 GOING DEEPER
 
-## 3.2 CHAPTER OBJECTIVES
+## 3.2 本課目標 CHAPTER OBJECTIVES
 
 
 ## 3.3 介紹所有格 INTRODUCTION TO THE GENITIVE CASE

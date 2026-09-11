@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 9
 
 # 9 不定過去式、現在完成式、過去成式之直說語氣AORIST, PERFECT & PLUPERFECT INDICATIVES
 
-## 9.1 GOING DEEPER
+## 9.1 進深 GOING DEEPE
 
-## 9.2 CHAPTER OBJECTIVES
+## 9.2 本課目標 CHAPTER OBJECTIVES
 
 ## 9.3 不定過去式直說語氣 AORIST INDICATIVE
 

@@ -9,9 +9,9 @@ number headings: auto, first-level 1, start-at 5
 
 # 5 冠詞與形容詞 THE ARTICLE & ADJECTIVE
 
-## 5.1 GOING DEEPER
+## 5.1 進深 GOING DEEPER
 
-## 5.2 CHAPTER OBJECTIVES
+## 5.2 本課目標 CHAPTER OBJECTIVES
 
 ## 5.3 冠詞 THE ARTICLE
 

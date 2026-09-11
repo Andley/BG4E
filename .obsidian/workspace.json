@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a4fb1ab98efa8bed",
-        "type": "tabs",
-        "dimension": 40.75738125802311,
-        "children": [
-          {
-            "id": "ffe230ab9960aff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.2.1-10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.2.1-10"
-            }
-          },
-          {
-            "id": "5c33f009c095e1b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Untitled 5.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 5"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "d0b7c260db4cee95",
         "type": "tabs",
-        "dimension": 59.24261874197689,
         "children": [
           {
             "id": "d14d870962facbdd",
@@ -50,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Untitled 5.md",
+                "file": "GDNTG/Chapter13.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter13"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c217683e1d0ad350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1ba6faf64e57e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter13.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 5"
+              "title": "Chapter13"
             }
           }
         ]
@@ -107,8 +90,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"span",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -252,8 +235,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c33f009c095e1b8",
+  "active": "d14d870962facbdd",
   "lastOpenFiles": [
+    "GDNTG/Untitled.md",
+    "GDNTG/Chapter02.md",
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter04.md",
+    "GDNTG/Chapter05.md",
+    "GDNTG/Chapter06.md",
+    "GDNTG/Chapter07.md",
+    "GDNTG/Chapter08.md",
+    "GDNTG/Chapter09.md",
+    "GDNTG/Chapter10.md",
+    "GDNTG/Chapter11.md",
+    "GDNTG/Chapter12.md",
+    "GDNTG/Chapter13.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/§14.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Untitled 5.md",
     "48-Galatians/Gal.1.6-10.md",
@@ -265,23 +263,8 @@
     "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Untitled 2.md",
-    "48-Galatians/Galatians-Notes.md",
-    "Tools/句法小幫手.md",
-    "Tools/研經小幫手.md",
-    "Tools/AI 工具.md",
     "Tools/AI Chart.canvas",
-    "Tools/Untitled.md",
-    "Tools/AI Skills/Untitled.md",
-    "Tools/一手聖經一手報紙.md",
-    "Tools/_index.md",
-    "Tools/Biblography.md",
     "Untitled.base",
-    "Syntax/_index.md",
-    "40-Matthew/_index.md",
-    "Living Greek Resources.md",
-    "Tools/UNICODE.md",
-    "48-Galatians/Untitled 1.md",
-    "48-Galatians/Untitled.md",
     "_includes/head-custom.html",
     "_includes/head.html",
     "_includes",

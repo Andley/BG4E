@@ -8,9 +8,9 @@ number headings: auto, first-level 1, start-at 10
 
 # 10 分詞 PARTICIPLES
 
-## 10.1 GOING DEEPER
+## 10.1 進深 GOING DEEPER
 
-## 10.2 CHAPTER OBJECTIVES
+## 10.2 本課目標 CHAPTER OBJECTIVES
 
 ## 10.3 分詞的動詞性質 VERBAL QUALITIES OF PARTICIPLES
 
