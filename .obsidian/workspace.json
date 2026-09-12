@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c217683e1d0ad350",
+        "id": "29f0eecd8a0a3cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1ba6faf64e57e3",
+            "id": "3aad836ab6950170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter13.md",
+                "file": "48-Galatians/Gal.1.6-10.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.1.6-10"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8987f10a2eb3411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a218beb9f8410af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.1.6-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter13"
+              "title": "Gal.1.6-10"
             }
           }
         ]
@@ -215,8 +235,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd1ba6faf64e57e3",
+  "active": "3aad836ab6950170",
   "lastOpenFiles": [
+    "48-Galatians/old-Gal.1.6-9.md",
+    "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/old-Gal.1.1-5.md",
+    "48-Galatians/Untitled.md",
+    "GDNTG/Chapter13.md",
     "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter04.md",
@@ -228,21 +254,15 @@
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter11.md",
     "GDNTG/Chapter12.md",
-    "GDNTG/Chapter13.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/§14.md",
     "GDNTG/Untitled.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Untitled 5.md",
-    "48-Galatians/Gal.1.6-10.md",
     "48-Galatians/Gal.1.11-24.md",
     "Tools/Phrasing-Signs.md",
-    "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/Untitled 4.md",
     "48-Galatians/Untitled 3.md",
-    "46-1Corinthians/1Co.11.2-16.md",
-    "48-Galatians/Galatians-Interlinear-4lines.md",
-    "48-Galatians/Untitled 2.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",

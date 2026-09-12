@@ -8,8 +8,8 @@
 		- 1:7a (<RUBY><ruby><ruby>ὃ<rt>那 which</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-NSN</rt></RUBY>⮥°¹)S <RUBY><ruby><ruby>οὐκ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἔστιν</span><rt>是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄλλο<rt>別 another</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00243&m='>ἄλλος</a></rt></ruby><rt>A-NSN</rt></RUBY>)C <span class='punctuation'>,</span> 
 			- 1:7b <RUBY><ruby><ruby>εἰ<rt>不過 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01487&m='>εἰ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μή<rt>- not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>τινές<rt>某些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05100&m='>τις</a></rt></ruby><rt>X-NPM</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>εἰσιν</span><rt>有 there are</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>οἱ<rt>- who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NPM</rt></RUBY> ⁅‹<RUBY><ruby><ruby><span class='ptc'>ταράσσοντες</span><rt>騷擾 are troubling</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05015&m='>ταράσσω</a></rt></ruby><rt>V-PAP-NPM</rt></RUBY>›p ‹<RUBY><ruby><ruby>ὑμᾶς<rt>你們 you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2AP</rt></RUBY>›c⁆ <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> ⁅‹<RUBY><ruby><ruby><span class='ptc'>θέλοντες</span><rt>想要 are desiring</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02309&m='>θέλω</a></rt></ruby><rt>V-PAP-NPM</rt></RUBY>›p ⟦«<RUBY><ruby><ruby><span class='inf'>μεταστρέψαι</span><rt>歪曲 to pervert</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03344&m='>μεταστρέφω</a></rt></ruby><rt>V-AAN</rt></RUBY>»<sub>p</sub> «<RUBY><ruby><ruby>τὸ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>福音 gospel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></rt></ruby><rt>N-ASN</rt></RUBY> ⸢<RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督 of Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY>⸣»<sub>c</sub>⟧c⁆])C <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯
-- 1:8a <RUBY><ruby><ruby>Ἀλλὰ<rt>但是 But</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>就算 even</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>)A
-	- 1:8b <RUBY><ruby><ruby>ἐὰν<rt>若 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01437&m='>ἐάν</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡμεῖς<rt>我們 we</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1NP</rt></RUBY>)S 
+- 1:8a <RUBY><ruby><ruby>Ἀλλὰ<rt>但是 But</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY> 
+	- 1:8b (<RUBY><ruby><ruby>καὶ<rt>就算 even</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby>ἐὰν<rt>若 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01437&m='>ἐάν</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡμεῖς<rt>我們 we</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1NP</rt></RUBY>)S 
 	- 1:8c <RUBY><ruby><ruby>ἢ<rt>或 or</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02228&m='>ἤ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἄγγελος<rt>使者 an angel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00032&m='>ἄγγελος</a></rt></ruby><rt>N-NSM</rt></RUBY> ⸢<RUBY><ruby><ruby>ἐξ<rt>從..來 out of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>天上 heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-GSM</rt></RUBY>⸣)S (<RUBY><ruby><ruby><span class='verb'>εὐαγγελίζηται</span><rt>傳福音 should preach a gospel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02097&m='>εὐαγγελίζομαι</a></rt></ruby><rt>V-PMS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>給你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C (<RUBY><ruby><ruby>παρ᾽<rt>不同 contrary to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03844&m='>παρά</a></rt></ruby><rt>PREP</rt></RUBY> ⁅‹<RUBY><ruby><ruby>ὃ<rt>所 what</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-ASN</rt></RUBY> ›c ‹<RUBY><ruby><ruby><span class='verb'>εὐηγγελισάμεθα</span><rt>我們傳 we proclaimed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02097&m='>εὐαγγελίζομαι</a></rt></ruby><rt>V-AMI-1P</rt></RUBY>›p ‹<RUBY><ruby><ruby>ὑμῖν<rt>給你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>›c⁆)A <span class='punctuation'>,</span> 
 - 1:8d (<RUBY><ruby><ruby>ἀνάθεμα<rt>詛咒 accursed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00331&m='>ἀνάθεμα</a></rt></ruby><rt>N-NSN</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>ἔστω</span><rt>他該受 let him be!</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAM-3S</rt></RUBY>)P <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯
@@ -27,35 +27,36 @@
 
 #### 句法筆記 (Syntax Notes)
 
-1:6  <sup>6</sup> <span class='verb'>Θαυμάζω</span> ὅτι οὕτως ταχέως <span class='verb'>μετατίθεσθε</span> ἀπὸ τοῦ <span class='ptc'>καλέσαντος</span> ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον, <sup>7</sup>  ὃ οὐκ <span class='verb'>ἔστιν</span> ἄλλο, εἰ μή τινές <span class='verb'>εἰσιν</span> οἱ <span class='ptc'>ταράσσοντες</span> ὑμᾶς καὶ <span class='ptc'>θέλοντες</span> <span class='inf'>μεταστρέψαι</span> τὸ εὐαγγέλιον τοῦ Χριστοῦ.
-- 1:6-7 是一個完整的句子，1:6a 是主要子句「我驚奇」，接著用從屬連接詞 ὅτι，帶出1:6b-1:7b 的間接敘述 (indirect discourse)，表達說話 (speaking) 或感知 (perception [<span class='verb'>Θαυμάζω</span>]) 動詞的內容 (進深，256, 623)。
+
+- 1:6-7 是一個完整的句子，1:6a 是主要子句「我驚奇」，接著用從屬連接詞 ὅτι，帶出1:6b-1:7b 的間接敘述 (indirect discourse)，表達說話 (speaking) 或感知 (perception [Θαυμάζω]) 動詞的內容 (進深，256, 623)。
+- 1:6a Θαυμάζω [V-PAI-1S]：現在式時態形式，表達動作內部 (internal)、持續進展 (in-progress) 的觀點 (Idioms, 29)；第一人稱、單數，表示書信作者是保羅一個人。
 - 1:6b 是一個子句，其中：
-	- οὕτως 從文法上看，固然可以修飾主要動詞 (<span class='verb'>μετατίθεσθε</span>)，但意思就會變成「你們『這麼樣地』離開」——從上下文判斷，比較好的理解是修飾後面的副詞 (ταχέως)，保羅驚訝的是「你們『這麼快地』離開」
-	-  ἀπὸ τοῦ ...  是用 ἀπὸ 加上「冠詞(T)—分詞內嵌子句(PE)」實名詞用法的分詞 (進深，485-7) 當作介係詞片語，修飾主要動詞 (<span class='verb'>μετατίθεσθε</span>)。
-	- ἕτερον εὐαγγέλιον 的 ἕτερον 意思是「內在外在皆有異於前者」(BAGD)，保羅刻意用來與 1:7a 的 ἄλλο 相對比。
+	- οὕτως 從文法上看，固然可以修飾主要動詞 (μετατίθεσθε)，但意思就會變成「你們『這麼樣地』離開」——從上下文判斷，比較好的理解是修飾後面的副詞 (ταχέως)，保羅驚訝的是「你們『這麼快地』離開」
+	-  ἀπὸ τοῦ ...  是用 ἀπὸ 加上「冠詞(T)—分詞內嵌子句(PE)」實名詞用法的分詞 (進深，485-7) 當作介係詞片語，修飾主要動詞 (μετατίθεσθε)。
+	- ἕτερον εὐαγγέλιον：ἕτερος 的字義，雖然有時會跟 ἄλλος 重疊，但因為 1:6d ἕτερον 跟 1:7a οὐκ ἄλλο 前後對比，所以 ἕτερον 在此有「無論內在外在皆有異於前者」的意思 (BAGD)。。
 - 1:7a :關係代名詞 (進深，590-1) ὃ 的性數 [SN] 指向 1:6b 同樣是 [SN] 的先行詞 (εὐαγγέλιον)，而格 [N] 則表達在 1:7a 子句中的功用。
 	- ἄλλο 意思是「別的」(BAGD)，通常指同類之中的另外一個；性數是 [SN]，與主語 ὃ ㄏ呼應，都在「福音」。
 - 1:7b  εἰ μή (BAGD 己、八)，延續 1:7a 意思是「不是別的 ... 而是 ...」。
 	- τινές 不定代名詞，但在這裡應該是指向特定的某些人 (BAGD 一、A、2)
-	-  οἱ <span class='ptc'>ταράσσοντες</span> ...  Χριστοῦ 是「冠詞—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
-
- 1:8  ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ <span class='verb'>εὐαγγελίζηται</span>[ὑμῖν] παρ᾽ ὃ <span class='verb'>εὐηγγελισάμεθα</span> ὑμῖν, ἀνάθεμα <span class='verb'>ἔστω</span>.
+	-  οἱ ταράσσοντες ...  Χριστοῦ 是「冠詞(οἱ)—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
+	- 分詞內嵌子句#1：ταράσσοντες ὑμᾶς
+	- 分詞內嵌子句#2：θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ，不定詞內嵌子句 (μεταστρέψαι ... Χριστοῦ) 當作意欲動詞 (θέλοντες) 的補語——雖然 GDNTG/GGBB 認為是副詞用法 (進深，541)，但比較好的還是應該當作名詞用法的不定詞 (進深，553)。
+- ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
  - 1:8 是完整的第三類條件句 (進深，665-7)，：
 	 - Ἀλλὰ 從上下文判斷不是在對比，而是轉變到新的話題 (BAGD 三)
-	 - καὶ 在這裡比較像副詞，有「甚至」的意思
-	 - 條件子句 1:8b ἐὰν ἡμεῖς，接著主語轉折到 1:8c 的 ἄγγελος  <span class='verb'>εὐαγγελίζηται</span> ...
-		 - 1:8c 的 παρ ὃ <span class='verb'>εὐηγγελισάμεθα</span> ὑμῖν 是「介係詞＋關係內嵌子句」形成介係詞片語，修飾主要動詞 <span class='verb'>εὐαγγελίζηται</span>；
-		 - 而關係代名詞 (進深，590-1) ὃ 的性數 [SN] 遙遙指向 1:6b 同樣是 [SN] 的先行詞 (εὐαγγέλιον)，格 [A] 則表達在內嵌子句中當作 <span class='verb'>εὐηγγελισάμεθα</span> 的補語。
-	 - 結果子句 1:8d ἀνάθεμα  <span class='verb'>ἔστω</span>
-
-1:9  ὡς <span class='verb'>προειρήκαμεν</span> καὶ ἄρτι πάλιν <span class='verb'>λέγω</span>· εἴ τις ὑμᾶς <span class='verb'>εὐαγγελίζεται</span> παρ᾽ ὃ <span class='verb'>παρελάβετε</span>, ἀνάθεμα <span class='verb'>ἔστω</span>.
+	 - 1:8b καὶ ἐὰν 的結構新約只有一次 (Gal 1:8; LXX 有 4 次：Ecc 11:8; Hos 9:12, 16; Amo 5:22)，意思與 Gal 6:1 的 ἐὰν καὶ (即使) 相當 (BAGD s.v. "ἐάν" 甲、三、A)，καὶ 在這裡比較像副詞，有「甚至」的意思。
+	 - 條件子句 1:8b ἐὰν ἡμεῖς，接著主語轉折到 1:8c 的 ἄγγελος  εὐαγγελίζηται ...
+		 - 1:8b 的 ἡμεῖς 前後沒有人稱、數與之一致的動詞，算是文法上的懸掛主格 (進深，91-3)，雖然文法上有破綻，但從語意上可以說得通：保羅情急之下，ἡμεῖς 可能指保羅自己，也或許包括第一次宣教之旅的同工巴拿巴在內。
+		 - 1:8c 的 παρ ὃ εὐηγγελισάμεθα ὑμῖν 是「介係詞＋關係內嵌子句」形成介係詞片語，修飾主要動詞 εὐαγγελίζηται；
+		 - 而關係代名詞 (進深，590-1) ὃ 的性數 [SN] 遙遙指向 1:6b 同樣是 [SN] 的先行詞 (εὐαγγέλιον)，格 [A] 則表達在內嵌子句中當作 εὐηγγελισάμεθα 的補語。
+	 - 結果子句 1:8d ἀνάθεμα ἔστω，ἀνάθεμα 擺在句首，表示強調；ἔστω 命令語氣，表達強烈的意圖 (進深，313)，在此甚至有「他必須、我命令他是」被咒詛的含意。
+- ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 1:9 則是把 1:8 第三類條件句 "somewhat more hypothetically"(GDNTG)、「更大程度上假定的情況」(進深，666) 推進一步，用第一類條件句 "presents the protasis as true" (GDNTG)、「將條件子句表現為屬實的情況」(進深，666)，發出同樣的咒詛。
-	- 1:9a 從屬連接詞 ὡς 帶出從屬子句，修飾 1:9b 的主要動詞 <span class='verb'>λέγω</span>
-	- 1:9c 是條件子句，παρ᾽ ὃ <span class='verb'>παρελάβετε</span> 與 1:8c 的結構相同
-	- 1:9d 是結果子句  ἀνάθεμα  <span class='verb'>ἔστω</span>
-
- 1:10  Ἄρτι γὰρ ἀνθρώπους <span class='verb'>πείθω</span> ἢ τὸν θεόν; ἢ <span class='verb'>ζητῶ</span> ἀνθρώποις <span class='inf'>ἀρέσκειν</span>; εἰ ἔτι ἀνθρώποις <span class='verb'>ἤρεσκον</span>, Χριστοῦ δοῦλος οὐκ ἂν <span class='verb'>ἤμην</span>. 
- - 1:10ab 的  <span class='verb'>πείθω</span> 意思應該是「取悅」(BAGD 一、C)，跟 1:10c 的 ἀνθρώποις <span class='inf'>ἀρέσκειν</span>「討人喜歡」相當。
+	- 1:9a 從屬連接詞 ὡς 帶出從屬子句，修飾 1:9b 的主要動詞 λέγω
+	- 1:9c 是條件子句，παρ᾽ ὃ παρελάβετε 與 1:8c 的結構相同
+	- 1:9d 是結果子句  ἀνάθεμα  ἔστω
+- ──────────────────────────
+ - 1:10ab 的  πείθω 意思應該是「取悅」(BAGD 一、C)，跟 1:10c 的 ἀνθρώποις ἀρέσκειν「討人喜歡」相當。
  - 1:10de 是「與事實相反」的第二類條件句 (進深，666)：
-	 - 條件子句 1:10d εἰ 加上 [V-IAI]不完式直說語氣的動詞 <span class='verb'>ἤρεσκον</span>
-	 - 結果子句 1:10e 用 οὐκ ἂν 加上 [V-IAI]不完式直說語氣的動詞 <span class='verb'>ἤμην</span>；Χριστοῦ 放最前面，代表強調——意思是「如果我還討人喜歡，我就真不是『基督的」奴僕了！」
+	 - 條件子句 1:10d εἰ 加上 [V-IAI]不完式直說語氣的動詞 ἤρεσκον
+	 - 結果子句 1:10e 用 οὐκ ἂν 加上 [V-IAI]不完式直說語氣的動詞 ἤμην；Χριστοῦ 放最前面，代表強調——意思是「如果我還討人喜歡，我就真不是『基督的」奴僕了！」

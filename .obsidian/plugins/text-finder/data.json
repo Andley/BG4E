@@ -11,24 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "⟦",
-      "lastUsedAt": 1786067013782,
-      "createdAt": 1786058518716,
-      "count": 2
-    },
-    {
-      "text": "ἆρα",
-      "lastUsedAt": 1786099861030,
-      "createdAt": 1786099861030,
-      "count": 1
-    },
-    {
-      "text": "指著",
-      "lastUsedAt": 1787310471556,
-      "createdAt": 1787310381266,
-      "count": 1
-    },
-    {
       "text": ")",
       "lastUsedAt": 1787560759529,
       "createdAt": 1787560685592,
@@ -69,6 +51,24 @@
       "lastUsedAt": 1789005537584,
       "createdAt": 1786428466440,
       "count": 4
+    },
+    {
+      "text": "<span class='ptc'",
+      "lastUsedAt": 1789196978417,
+      "createdAt": 1789196975304,
+      "count": 1
+    },
+    {
+      "text": "<span class='verb'>",
+      "lastUsedAt": 1789198621618,
+      "createdAt": 1789198618447,
+      "count": 1
+    },
+    {
+      "text": "</span>",
+      "lastUsedAt": 1789198656458,
+      "createdAt": 1789197013638,
+      "count": 2
     }
   ]
 }
