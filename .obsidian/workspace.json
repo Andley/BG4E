@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b7c260db4cee95",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d14d870962facbdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter02.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter02"
-            }
-          }
-        ]
-      },
-      {
         "id": "c217683e1d0ad350",
         "type": "tabs",
         "children": [
@@ -235,8 +215,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d14d870962facbdd",
+  "active": "dd1ba6faf64e57e3",
   "lastOpenFiles": [
+    "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter05.md",
@@ -251,7 +232,6 @@
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/§14.md",
     "GDNTG/Untitled.md",
-    "GDNTG/Chapter02.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Untitled 5.md",
     "48-Galatians/Gal.1.6-10.md",
