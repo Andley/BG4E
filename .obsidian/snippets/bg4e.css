@@ -27,27 +27,17 @@ ruby {
   font-size: 1em ; 
   ruby-align:start;
   font-family:  AndleyFont,  serif;;
-  line-height:2em;
-  white-space: nowrap;         /* 關鍵：禁止內部換行 */
+  line-height:5em;
   display: ruby;
 }
 
 rt {
   font-size: 0.85em ; 
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif; ;
-  white-space: nowrap;         /* 同樣禁止 rt 內部換行 */
   line-height: 1.1;
 } 
 
-/* 專門針對 Live Preview 加強 */
-.markdown-source-view.mod-cm6.is-live-preview ruby,
-.markdown-source-view.mod-cm6.is-live-preview rt {
-  white-space: nowrap;
-}
-.markdown-source-view.mod-cm6.is-live-preview .cm-line {
-  /* 可選：整行也不強制斷詞 */
-  word-break: keep-all;
-}
+
 
 /* 改用 <span class=" */
 .ref {

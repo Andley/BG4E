@@ -6,6 +6,7 @@
       {
         "id": "29f0eecd8a0a3cfa",
         "type": "tabs",
+        "dimension": 45.571245186136075,
         "children": [
           {
             "id": "3aad836ab6950170",
@@ -15,6 +16,27 @@
               "state": {
                 "file": "48-Galatians/ἐὰν μὴ.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ἐὰν μὴ"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e7031291bd3675f2",
+        "type": "tabs",
+        "dimension": 54.42875481386393,
+        "children": [
+          {
+            "id": "07e58d13dbc82bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/ἐὰν μὴ.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -98,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
