@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/ἐὰν μὴ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8987f10a2eb3411",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a218beb9f8410af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "ἐὰν μὴ"
             }
           }
         ]
@@ -118,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -237,8 +216,8 @@
   },
   "active": "3aad836ab6950170",
   "lastOpenFiles": [
-    "48-Galatians/old-Gal.1.6-9.md",
     "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/old-Gal.1.6-9.md",
     "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/old-Gal.1.1-5.md",
     "48-Galatians/Untitled.md",
@@ -258,7 +237,7 @@
     "GDNTG/§14.md",
     "GDNTG/Untitled.md",
     "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Untitled 5.md",
+    "48-Galatians/ἐὰν μὴ.md",
     "48-Galatians/Gal.1.11-24.md",
     "Tools/Phrasing-Signs.md",
     "48-Galatians/Untitled 4.md",
