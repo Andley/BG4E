@@ -25,9 +25,8 @@
 - 1:19a (<RUBY><ruby><ruby>ἕτερον<rt>別 Other</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02087&m='>ἕτερος</a></rt></ruby><rt>A-ASM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>至於 however</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>τῶν<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ἀποστόλων<rt>使徒 apostles</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-GPM</rt></RUBY>)C <RUBY><ruby><ruby>οὐκ<rt>沒 none</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>εἶδον</span><rt>我見過 I saw</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03708&m='>ὁράω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY>)P 
 	- 1:19b <RUBY><ruby><ruby>εἰ<rt>除了 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01487&m='>εἰ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>- not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>Ἰάκωβον<rt>雅各 James</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02385&m='>Ἰάκωβος</a></rt></ruby><rt>N-ASM</rt></RUBY>)C (<RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>弟弟 brother</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00080&m='>ἀδελφός</a></rt></ruby><rt>N-ASM</rt></RUBY> ⸢<RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>主 Lord</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02962&m='>κύριος</a></rt></ruby><rt>N-GSM</rt></RUBY> ⸣)=C <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯
-- 1:20a (<RUBY><ruby><ruby>ἃ<rt>所 In what</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-APN</rt></RUBY>)C <RUBY><ruby><ruby>δὲ<rt>現在 now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>γράφω</span><rt>我寫 I write</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01125&m='>γράφω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>給你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C <span class='punctuation'>,</span> 
-- 1:20b (<RUBY><ruby><ruby>ἰδοὺ<rt>看哪 behold</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02400&m='>ἰδού</a></rt></ruby><rt>INJ</rt></RUBY>)V (<RUBY><ruby><ruby>ἐνώπιον<rt>在面前 before</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01799&m='>ἐνώπιον</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>)A 
-	- 1:20c <RUBY><ruby><ruby>ὅτι<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ψεύδομαι</span><rt>我說謊 I lie</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05574&m='>ψεύδομαι</a></rt></ruby><rt>V-PMI-1S</rt></RUBY>)P <span class='punctuation'>.</span> 
+- 1:20a ⁅‹<RUBY><ruby><ruby>ἃ<rt>所 In what</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-APN</rt></RUBY>›c⁆⦇ <RUBY><ruby><ruby>δὲ<rt>現在 now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈⁅‹<RUBY><ruby><ruby><span class='verb'>γράφω</span><rt>我寫 I write</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01125&m='>γράφω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>›p ‹<RUBY><ruby><ruby>ὑμῖν<rt>給你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>›c⁆S⁞C <span class='punctuation'>,</span> (<RUBY><ruby><ruby>ἰδοὺ<rt>看哪 behold</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02400&m='>ἰδού</a></rt></ruby><rt>INJ</rt></RUBY>)V (<RUBY><ruby><ruby>ἐνώπιον<rt>在面前 before</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01799&m='>ἐνώπιον</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>)A 
+	- 1:20b <RUBY><ruby><ruby>ὅτι<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ψεύδομαι</span><rt>我說謊 I lie</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05574&m='>ψεύδομαι</a></rt></ruby><rt>V-PMI-1S</rt></RUBY>)P <span class='punctuation'>.</span> 
 - ──────────────────────────
 - 1:21 (<RUBY><ruby><ruby>Ἔπειτα<rt>然後 Then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01899&m='>ἔπειτα</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἦλθον</span><rt>我來 I went</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>到 into</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> ⸢<RUBY><ruby><ruby>τὰ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>κλίματα<rt>一帶 regions</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02824&m='>κλίμα</a></rt></ruby><rt>N-APN</rt></RUBY> ⸤<RUBY><ruby><ruby>τῆς<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Συρίας<rt>敘利亞 of Syria</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04947&m='>Συρία</a></rt></ruby><rt>N-GSF</rt></RUBY>⸥ <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> ⸤<RUBY><ruby><ruby>τῆς<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Κιλικίας<rt>基利家 Cilicia</rt></ruby><rt>Κιλικία, <a href='https://bible.fhl.net/new/s.php?N=0&k=02791&m='>Κιλικία</a></rt></ruby><rt>N-GSF</rt></RUBY>⸥⸣)A <span class='punctuation'>·</span> 
 - 1:22 (<RUBY><ruby><ruby><span class='verb'>ἤμην</span><rt>我是 I was</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-IMI-1S</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>那時 then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby><span class='ptc'>ἀγνοούμενος</span><rt>沒見過 unknown</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00050&m='>ἀγνοέω</a></rt></ruby><rt>V-PPP-NSM</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>προσώπῳ<rt>面 by face</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04383&m='>πρόσωπον</a></rt></ruby><rt>N-DSN</rt></RUBY>)A (⸢<RUBY><ruby><ruby>ταῖς<rt>- to the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ἐκκλησίαις<rt>各教會 churches</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01577&m='>ἐκκλησία</a></rt></ruby><rt>N-DPF</rt></RUBY> ⸤<RUBY><ruby><ruby>τῆς<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Ἰουδαίας<rt>猶太 of Judea</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02449&m='>Ἰουδαία</a></rt></ruby><rt>N-GSF</rt></RUBY>⸥⸣ ⸢<RUBY><ruby><ruby>ταῖς<rt>- that [are]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPF</rt></RUBY> ⸤<RUBY><ruby><ruby>ἐν<rt>在裡 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-DSM</rt></RUBY>⸥⸣)A <span class='punctuation'>.</span> 
@@ -46,14 +45,25 @@
 - 1:11b ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον
 	- κατὰ ἄνθρωπον：κατὰ＋直接受格，意思是「遵照，與…一致，根據」(BAGD 乙、五)。
 - 1:12a οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτὸ
+	- οὐδὲ ... οὐδὲ ...：慣用語，neither (既不是 ) ... nor (也不是) ... 。
 	- ἐγὼ 前置，表達強調； παρὰ＋所有格 (ἀνθρώπου) 代表「來源」(BAGD 甲、三)。
+	- αὐτό：單數中性，指向 1:11a 的 τὸ εὐαγγέλιον。
+- 1:12b οὔτε ἐδιδάχθην
+	- ἐδιδάχθην：被動語態，但卻沒有指出保羅是「被誰教的」——從 1:12a παρὰ ἀνθρώπου 推敲，很可能是省略了 ὑπ᾽ ἀνθρώπου (被人教的)。
 - 1:12c ἀλλὰ δι᾽ ἀποκαλύψεως Ἰησοῦ Χριστοῦ
-	- 省略主要動詞——從上下文判斷，可能省略掉的是 1:12a 的 παρέλαβον 或者 1:12b 的 ἐδιδάχθην。
-	- ἀποκαλύψεως 是「表達動作並能『轉換』為動詞 (1:15 ἀποκαλύπτω) 的主要名詞」(進深，143)，因此後面的 Ἰησοῦ Χριστοῦ 就有可能是主詞所有格「耶穌基督給保羅的啟示」，也可能是受詞所有格「被啟示出來的耶穌基督」 (進深，144-6)——兩者意思都說得通，但因為 1:15b 提到「神樂意啟示祂兒子在保羅心裡」，所以 1:12c 這裡很可能是「受詞所有格」(被啟示出來的耶穌基督)。
+	- ἀλλὰ 與 1:12ab 的 οὐδὲ ... οὐδὲ ... 對比，省略主要動詞——從上下文判斷，可能省略掉的是 1:12a 的 παρέλαβον 或者 1:12b 的 ἐδιδάχθην。
+	- ἀποκαλύψεως 是「表達動作並能『轉換』為動詞 (1:15 ἀποκαλύπτω) 的主要名詞」(進深，143)，因此後面的 Ἰησοῦ Χριστοῦ 就有可能是：
+		- (a) 主詞所有格 (進深，144-5)，意思是「藉著『耶穌基督所啟示』的內容」；
+		- (b) 來源所有格  (進深，1438-40) 意思是「藉著『來自於耶穌基督』的啟示」；
+		- (c) 受詞所有格  (進深，145-6) 意思是「藉著『被啟示出來的耶穌基督』」；
+		- 從上文 (1:1-11) 來看，(a) 和 (b) 比較通順，都在強調「人 vs. 耶穌基督」的對比；(c) 也有可能，但需要從下文 1:15b「神樂意啟示祂兒子在保羅心裡」反推才行。
 - ──────────────────────────
 - 1:13a Ἠκούσατε γὰρ τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ
-	- τὴν ἐμὴν ἀναστροφήν 是「T(τὴν)—A(ἐμὴν)—N(ἀναστροφήν)」形容用法的第一位置 (進深，246)； ποτε ἐν τῷ Ἰουδαϊσμῷ 從文法上來說可以修飾主要動詞 Ἠκούσατε，但這樣一來意思就變成「你們從前在猶太教中聽過 ...」，與上下文不符，所以只能改成修飾前面的 ἀναστροφήν，把介係詞片語當成形容詞使用 (進深，597)。
+	- τὴν ἐμὴν ἀναστροφήν 是「T(τὴν)—A(ἐμὴν)—N(ἀναστροφήν)」形容用法的第一位置 (進深，246)； 
+	- ποτε ἐν τῷ Ἰουδαϊσμῷ 從文法上來說可以修飾主要動詞 Ἠκούσατε，但這樣一來意思就變成「你們從前在猶太教中聽過 ...」，與上下文不符，所以只能改成修飾前面的 ἀναστροφήν，把介係詞片語當成形容詞使用 (進深，597)。
+	- ποτε ἐν τῷ Ἰουδαϊσμῷ：整個片語當作形容詞用，擺在第二敘述位置 (進深，245)，用來說明前面的名詞 τὴν ἐμὴν ἀναστροφήν。
 - 1:13b ὅτι καθ᾽ ὑπερβολὴν ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ καὶ ἐπόρθουν αὐτήν
+	- 1:13b ἐδίωκον ... 1:13c ἐπόρθουν ... 1:14 προέκοπτον：連續三個不完成式時態形式，表達動作進展 (in-progress) 的觀點，配合上下文，雖然發生在過去，但動作好像正在眼前發生。
 	- καθ᾽＋直接受格 (ὑπερβολὴν)，意思是「遵照，與…一致，根據」(BAGD 乙、五)。
 - 1:14 καὶ προέκοπτον ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου, περισσοτέρως ζηλωτὴς ὑπάρχων τῶν πατρικῶν μου παραδόσεων
 	- ἐν τῷ γένει μο 從文法上來說，介係詞片語可以當副詞修飾主要動詞 προέκοπτον，也可以當形容詞修飾前面的名詞 συνηλικιώτας——從上下文判斷，兩種可能都說得通，但因為距離 συνηλικιώτας 比較近，所以採取後者。
@@ -64,8 +74,10 @@
 - 1:15b Ὅτε ... εὐδόκησεν [ὁ θεὸς] ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ 1:16a  ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί 是一個完整子句：
 	- 從屬連接詞 Ὅτε 帶出時間從屬子句 (進深，623)，主要動詞是 εὐδόκησεν。
 	- 主詞 [ὁ θεὸς] ὁ ἀφορίσας...  αὐτοῦ 是「T(ὁ)—N(θεὸς)—T(ὁ)—分詞內嵌子句(ἀφορίσας...  αὐτοῦ)」的結構，形容用法的分詞內嵌子句 (進深，484-5) 擺在第二修飾位置 (進深，251)
-		- 其中 ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ 是「冠詞—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
+		- 其中 ὁ ἀφορίσας ㄡ... καὶ καλέσας ... 是「冠詞—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
 	- 不定詞內嵌子句 (ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί) 是主要動詞 εὐδόκησεν 的補語 (進深，541-2)——雖然有些文法書 (GGBB/GDNTG) 歸類在副詞用法之下 (進深，541)，但放在名詞用法之下 (進深，555-6) 應該還是比較恰當。
+- 1:16b ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν
+	- ἵνα：從屬於 1:15b，表示上帝樂意啟示所帶出來的「目的」(BAGD)。
 - 1:16c εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι
 	- σαρκὶ καὶ αἵματι 是修辭上的「提喻 synecdoche」，用「部分(血肉)」代表「全體(人)」。
 - 1:17a οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους
@@ -75,19 +87,28 @@
 	- 不定詞內嵌子句 (ἱστορῆσαι Κηφᾶν) 是副詞用法，表達目的 (進深，542-4)。
 - 1:18b καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε
 	- ἡμέρας δεκαπέντε 是直接受格的副詞用法 (進深，104-5)，表達時間長度。
-- 1:19a ἕτερον 在此的意思比較偏「另一個」(BAGD 一、B)，與 1:6b、1:7a 對比的上下文不同。
-- 1:19b εἰ μὴ 意思是「除非，除了 ... 之外」(BAGD 己、八)；主要動詞省略，從上下文判斷，應該是 1:19a 的 εἶδον。
+- 1:19a ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον
+	- ἕτερον 在此的意思比較偏「另一個」(BAGD 一、B)，與 1:6b、1:7a 對比的上下文不同。
+- 1:19b εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ Κυρίου
+	- εἰ μὴ 意思是「除非，除了 ... 之外」(BAGD 己、八)
+	- τὸν ἀδελφὸν τοῦ Κυρίου 同位，補充說明是哪一位雅各。
+	- 主要動詞省略，從上下文判斷，應該是 1:19a 的 εἶδον
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 1:20 的理解方式有兩種，句法和語意上都說得通：
-	- 理解#1：1:20ab 合成一個子句
-		- ⁅我所寫給你們的⁆C—(看哪)V—(省略 BE 動詞)P—(在神面前)A
-	- 理解#2：1:20a、1:20b 是兩個子句，1:20a 話沒說完
-		-  ⁅我所寫給你們的⁆C
-		- (看哪)V—(省略 γράφω)P—(在神面前)A
-	- 不論哪種理解，ἃ ... γράφω ὑμῖν 都是沒有先行詞的關係子句 (進深，591)
+- 1:20a ἃ δὲ γράφω ὑμῖν ἰδοὺ ἐνώπιον τοῦ Θεοῦ
+	- 省略主要動詞，可能省略：
+		- 「是」： ⁅我所寫給你們的⁆S—(看哪)V—(是)P—(在神面前)A；
+		- 「我寫、我說」：⁅我所寫給你們的⁆C—(看哪)V—(我寫、我說)P—(在神面前)A
+	- 不論哪種理解，ἃ ... γράφω ὑμῖν 都是沒有先行詞的關係子句 (進深，591)，指向整個上文。
 - ──────────────────────────
-- 1:22 ἤμην ... ἀγνοούμενος 是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
-- 1:23a μόνον 中性的時候常當作副詞使用 (BAGD 二)；ἀκούοντες ἦσαν 也是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
-- 1:23b ὁ διώκων ἡμᾶς ποτε 是「T—分詞內嵌子句」當作實名詞使用 (進深，485-7)，其中：
+- 1:22 ἤμην δὲ ἀγνοούμενος τῷ προσώπῳ ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ
+	- ἤμην ... ἀγνοούμενος 是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
+	- ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ 是「T(ταῖς)—N(ἐκκλησίαις τῆς Ἰουδαίας)—T(ταῖς)—A(ἐν Χριστῷ)」的結構。
+- 1:23a μόνον δὲ ἀκούοντες ἦσαν
+	- μόνον 中性的時候常當作副詞使用 (BAGD 二)
+	- ἀκούοντες ἦσαν 也是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
+- 1:23b ὅτι ὁ διώκων ἡμᾶς ποτε νῦν εὐαγγελίζεται τὴν πίστιν
+	- 是 ὁ διώκων ἡμᾶς ποτε「T—分詞內嵌子句」當作實名詞使用 (進深，485-7)
 	- ποτε 在文法上可以修飾後面的主要動詞 (εὐαγγελίζεται)，但如此一來，意思就跟後面的 νῦν 打架——所以比較可能是修飾前面的分詞 (διώκων)。
-- 1:24 ἐν ἐμοὶ 的意思範圍很廣 (BAGD)，只能從上下文去推敲最合適的——在此很可能是表達「因果或憑藉」(BAGD 丙)。
+	- πίστιν 在此的意思是「所信的事，信仰的內涵，信仰的教義」(BAGD 三)
+- 1:24 καὶ ἐδόξαζον ἐν ἐμοὶ τὸν Θεόν
+	- ἐν ἐμοὶ的意思範圍很廣 (BAGD)，只能從上下文去推敲最合適的——在此很可能是表達「因果或憑藉」(BAGD 丙)。

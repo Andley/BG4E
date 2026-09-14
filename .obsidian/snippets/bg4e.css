@@ -37,15 +37,14 @@ rt {
   line-height: 1.1;
 } 
 
-
-
-/* 改用 <span class=" */
+/* ══════════════════════════ 改用 <span class=" */
 .ref {
   display: inline-block;
   vertical-align: baseline;
   position: relative;
-  top: -0.8em;
+  top: -2.2em;
 }
+
 
 /* 改用 <span class=" 每個希臘文字的四層詞彙單位 */
 .w {

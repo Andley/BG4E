@@ -38,6 +38,21 @@
         }
       ],
       "testText": "1Pe 1:3  <RUBY><ruby><ruby>Εὐλογητὸς<rt>願頌讃歸於 Blessed [be]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02128&m='>εὐλογητός</a></rt></ruby><rt>A-NSM</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>Θεὸς<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Πατὴρ<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  "
+    },
+    {
+      "id": "replace-action-1789355315500",
+      "name": "SPAN",
+      "showInContextMenu": true,
+      "showTestBench": true,
+      "rules": [
+        {
+          "search": "<RUBY><ruby><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>  ",
+          "replace": "<span class=\"w\"><span class=\"m\">$4</span><span class=\"l\">$3</span><span class=\"g\">$2</span><span class=\"t\">$1</span></span>",
+          "useRegex": true,
+          "regexFlags": "g"
+        }
+      ],
+      "testText": "<RUBY><ruby><ruby><span class='verb'>Θαυμάζω</span><rt>我驚奇 I am astonished</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02296&m='>θαυμάζω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οὕτως<rt>這麼 so</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03779&m='>οὕτω, οὕτως</a></rt></ruby><rt>ADV</rt></RUBY>"
     }
   ]
 }

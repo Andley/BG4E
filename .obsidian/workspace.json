@@ -6,7 +6,6 @@
       {
         "id": "29f0eecd8a0a3cfa",
         "type": "tabs",
-        "dimension": 45.571245186136075,
         "children": [
           {
             "id": "3aad836ab6950170",
@@ -14,33 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/ἐὰν μὴ.md",
+                "file": "48-Galatians/Untitled 4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ἐὰν μὴ"
+              "title": "Untitled 4"
             }
           }
         ]
       },
       {
-        "id": "e7031291bd3675f2",
+        "id": "6cefe00a8e18bdfe",
         "type": "tabs",
-        "dimension": 54.42875481386393,
         "children": [
           {
-            "id": "07e58d13dbc82bd9",
+            "id": "b4c6e0d7ce71c912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/ἐὰν μὴ.md",
+                "file": "48-Galatians/Untitled 4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ἐὰν μὴ"
+              "title": "Untitled 4"
             }
           }
         ]
@@ -92,11 +90,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "span",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -120,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -237,13 +234,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "3aad836ab6950170",
+  "active": "b4c6e0d7ce71c912",
   "lastOpenFiles": [
+    "48-Galatians/Gal.1.11-24.md",
+    "48-Galatians/Untitled 4.md",
+    "48-Galatians/Untitled 2.md",
+    "48-Galatians/Untitled 1.md",
+    "48-Galatians/Untitled.md",
+    "48-Galatians/old-Gal.1.18-24.md",
+    "48-Galatians/old-Gal.1.13-17.md",
+    "48-Galatians/old-Gal.1.11-12.md",
     "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/old-Gal.1.10.md",
     "48-Galatians/old-Gal.1.6-9.md",
+    "BBG4E/§9.md",
+    "48-Galatians/ἐὰν μὴ.md",
     "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/old-Gal.1.1-5.md",
-    "48-Galatians/Untitled.md",
     "GDNTG/Chapter13.md",
     "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
@@ -255,16 +262,6 @@
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter11.md",
-    "GDNTG/Chapter12.md",
-    "GDNTG/GDNTG-TOC.md",
-    "GDNTG/§14.md",
-    "GDNTG/Untitled.md",
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/ἐὰν μὴ.md",
-    "48-Galatians/Gal.1.11-24.md",
-    "Tools/Phrasing-Signs.md",
-    "48-Galatians/Untitled 4.md",
-    "48-Galatians/Untitled 3.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
