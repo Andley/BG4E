@@ -38,49 +38,39 @@ rt {
 } 
 
 /* ══════════════════════════ 改用 <span class=" */
-.ref {
-  display: inline-block;
-  vertical-align: baseline;
-  position: relative;
-  top: -2.2em;
-}
-
-
-/* 改用 <span class=" 每個希臘文字的四層詞彙單位 */
 .w {
   display: inline-flex;
-  flex-direction: column;
+  flex-direction: column-reverse; /* 顛倒排版方向：DOM 第一個元素會被排在視覺的最下方 */
   align-items: center;
   white-space: nowrap;
-  vertical-align:bottom;
-  /* 上下留白，可用來增加行與行之間的間距 */
+  vertical-align: baseline;       /* 以第一個子元素 (.t) 的 baseline 作為整塊對齊基準 */
   margin-bottom: 1em;
 }
 
-/* 第一層：形態標籤，如 N-NSM、PRT-N */
+/* 第一層：形態標籤（視覺上在最上方） */
 .w .m {
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
-  font-size: 0.85em;
+  font-size: 0.8em;
   line-height: 1em;
-  color: var(--text-muted);
+  color: var(--text-normal);
 }
 
-/* 第二層：詞典詞形／lemma；通常為可點擊的 FHL 連結 */
+/* 第二層：詞典詞形／lemma */
 .w .l {
   font-family: AndleyFont, serif;
-  font-size: 0.85em;
-  line-height: 1;
+  font-size: 0.9em;
+  line-height: 1.1;
 }
 
-/* 第三層：中文與英文 gloss，如「保羅 Paul」 */
+/* 第三層：中文與英文 gloss */
 .w .g {
   font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
-  font-size: 0.85em;
+  font-size: 0.8em;
   line-height: 1;
   color: var(--text-normal);
 }
 
-/* 第四層：經文中實際出現的希臘字形，如 Παῦλος */
+/* 第四層：經文實際字形（DOM 第一個元素，視覺上在最下方，並與文字基線對齊） */
 .w .t {
   font-family: AndleyFont, serif;
   font-size: 1em;
@@ -88,13 +78,8 @@ rt {
   color: var(--text-normal);
 }
 
-li ruby {
-  line-height: 4.2em;
-}
+/* ══════════════════════════ */
 
-li {
-  line-height: 1.5em;
-}
 
 a {text-decoration: none; color: var(--text-link); }
 /* --------- table -----------------------------------   */
@@ -144,9 +129,9 @@ span.cm-hmd-frontmatter.cm-string {
   --text-muted: #E6E6E6;
   --text-normal:white;
   --background-secondary: rgb(52, 52, 52);
-  --color1:#ea4335;
-  --color2:#4285f4;
-  --color3:#34a853;
+  --color1:#FF0055;
+  --color2:#00F0FF;
+  --color3:#00FF41;
   --color4:#ff8a00;
   --color-strong: greenyellow;
   --color-em:gold;
@@ -182,11 +167,3 @@ span.cm-hmd-frontmatter.cm-string {
   --font-text: AndleyFont, "Noto Sans", "Noto Sans TC";
 }
 
-body:not(.swcm6-nix-plugin-styles) {
-  --swcm6-space-bg-image:
-    radial-gradient(
-      circle at 50% 55%,
-      var(--swcm6-whitespace-color) 0 15%,
-      transparent 5%
-    );
-}

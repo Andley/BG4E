@@ -47,12 +47,6 @@
       "count": 1
     },
     {
-      "text": "°",
-      "lastUsedAt": 1789005537584,
-      "createdAt": 1786428466440,
-      "count": 4
-    },
-    {
       "text": "<span class='ptc'",
       "lastUsedAt": 1789196978417,
       "createdAt": 1789196975304,
@@ -69,6 +63,12 @@
       "lastUsedAt": 1789198656458,
       "createdAt": 1789197013638,
       "count": 2
+    },
+    {
+      "text": "°",
+      "lastUsedAt": 1789374821533,
+      "createdAt": 1786428466440,
+      "count": 5
     }
   ]
 }

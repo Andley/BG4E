@@ -46,13 +46,52 @@
       "showTestBench": true,
       "rules": [
         {
-          "search": "<RUBY><ruby><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>  ",
-          "replace": "<span class=\"w\"><span class=\"m\">$4</span><span class=\"l\">$3</span><span class=\"g\">$2</span><span class=\"t\">$1</span></span>",
+          "search": "<RUBY><ruby><ruby>(.*?)<rt>(.*?)</rt></ruby><rt>(.*?)</rt></ruby><rt>(.*?)</rt></RUBY>",
+          "replace": "<span class=\"w\"><span class=\"m\">$4</span><span class=\"l\">$3</span><span class=\"g\">$2</span><span class=\"t\">$1</span></span> ",
           "useRegex": true,
           "regexFlags": "g"
         }
       ],
       "testText": "<RUBY><ruby><ruby><span class='verb'>Θαυμάζω</span><rt>我驚奇 I am astonished</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02296&m='>θαυμάζω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>οὕτως<rt>這麼 so</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03779&m='>οὕτω, οὕτως</a></rt></ruby><rt>ADV</rt></RUBY>"
+    },
+    {
+      "id": "replace-action-1789358990759",
+      "name": "1-line",
+      "showInContextMenu": true,
+      "showTestBench": true,
+      "rules": [
+        {
+          "search": "<span class=\"w\"><span class=\"m\">.*?</span><span class=\"l\">.*?</span><span class=\"g\">.*?</span><span class=\"t\">(.*?)</span></span>",
+          "replace": "$1",
+          "useRegex": true,
+          "regexFlags": "g"
+        },
+        {
+          "search": "([\\(\\)SPCA⁅⁆‹⟦«⸢⸣⸤⸥⦇⦈⸉⸊])|([›»⟧][spca⮥⮧])|(°[¹²³⁴⁵⁶⁷⁸⁹])|[⮥⮧]|\\t",
+          "replace": "",
+          "useRegex": true,
+          "regexFlags": "g"
+        },
+        {
+          "search": "»<sub>[spca]<\\/sub>",
+          "replace": "",
+          "useRegex": true,
+          "regexFlags": ""
+        },
+        {
+          "search": " {2,}",
+          "replace": " ",
+          "useRegex": true,
+          "regexFlags": "g"
+        },
+        {
+          "search": "<span class=(?:'punctuation'|'paragraph')>(.*?)</span>",
+          "replace": "$1",
+          "useRegex": true,
+          "regexFlags": ""
+        }
+      ],
+      "testText": "1:4b⮥°¹ ὅπως  <span class='verb'>ἐξέληται</span>  ἡμᾶς  ἐκ  τοῦ  αἰῶνος  τοῦ  <span class='ptc'>ἐνεστῶτος</span>  πονηροῦ  κατὰ  τὸ  θέλημα  τοῦ  Θεοῦ  καὶ  Πατρὸς  ἡμῶν °² <span class='punctuation'>,</span> \n\t\t- 1:5 ᾧ ⮥°² ἡ  δόξα  εἰς  τοὺς  αἰῶνας  τῶν  αἰώνων   <span class='punctuation'>,</span> ἀμήν  <span class='punctuation'>.</span><span class='paragraph'></span>"
     }
   ]
 }
