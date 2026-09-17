@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter10.md",
+                "file": "48-Galatians/Gal.1.1-5.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter10"
+              "title": "Gal.1.1-5"
             }
           }
         ]
@@ -238,10 +238,11 @@
   },
   "active": "06c01c4c484ac766",
   "lastOpenFiles": [
-    "GDNTG/Chapter13.md",
     "48-Galatians/Gal.1.6-10.md",
-    "48-Galatians/Gal.1.11-24.md",
     "48-Galatians/Gal.1.1-5.md",
+    "GDNTG/Chapter10.md",
+    "GDNTG/Chapter13.md",
+    "48-Galatians/Gal.1.11-24.md",
     "48-Galatians/Untitled.md",
     "48-Galatians/Untitled 1.md",
     "48-Galatians/Gal.2.1-10.md",
@@ -263,7 +264,6 @@
     "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter04.md",
-    "GDNTG/Chapter05.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",

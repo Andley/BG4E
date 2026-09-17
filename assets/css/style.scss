@@ -119,7 +119,27 @@ body.one-line-mode :not(ruby) > ruby {
 body.one-line-mode ruby rt {
   display: none !important; /* 點擊後隱藏所有解釋行 */
 }
+/* ==================== 切換狀態：一行模式 (one-line) - span.w 控制 ==================== */
 
+/* 1. 一行模式時，將 .w 轉為一般 inline 元素，並顯示問號游標 */
+body.one-line-mode .w {
+  display: inline !important;
+  margin-bottom: 0 !important;
+  cursor: help !important;
+}
+
+/* 2. 一行模式時，隱藏形態(.m)、原形(.l)、字義(.g)，僅保留經文文字(.t) */
+body.one-line-mode .w .m,
+body.one-line-mode .w .l,
+body.one-line-mode .w .g {
+  display: none !important;
+}
+
+/* 3. 確保經文文字(.t) 以 inline 方式正常呈現 */
+body.one-line-mode .w .t {
+  display: inline !important;
+  line-height: inherit !important;
+}
 
 /* --------------------------------------------   */
 .verb { color: red; }
