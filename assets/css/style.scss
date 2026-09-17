@@ -62,6 +62,48 @@ li ruby {
   line-height: 4.2em;
 }
 
+
+/* ══════════════════════════ 改用 <span class=" */
+.w {
+  display: inline-flex;
+  flex-direction: column-reverse; /* 顛倒排版方向：DOM 第一個元素會被排在視覺的最下方 */
+  align-items: center;
+  white-space: nowrap;
+  vertical-align: baseline;       /* 以第一個子元素 (.t) 的 baseline 作為整塊對齊基準 */
+  margin-bottom: 1em;
+}
+
+/* 第一層：形態標籤（視覺上在最上方） */
+.w .m {
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
+  font-size: 0.8em;
+  line-height: 1em;
+  color: var(--text-normal);
+}
+
+/* 第二層：詞典詞形／lemma */
+.w .l {
+  font-family: AndleyFont, serif;
+  font-size: 0.9em;
+  line-height: 1.1;
+}
+
+/* 第三層：中文與英文 gloss */
+.w .g {
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif;
+  font-size: 0.8em;
+  line-height: 1;
+  color: var(--text-normal);
+}
+
+/* 第四層：經文實際字形（DOM 第一個元素，視覺上在最下方，並與文字基線對齊） */
+.w .t {
+  font-family: AndleyFont, serif;
+  font-size: 1em;
+  line-height: 1.2;
+  color: var(--text-normal);
+}
+
 /* ==================== 切換狀態：一行模式 (one-line) ==================== */
 body.one-line-mode :not(ruby) > ruby,
 body.one-line-mode ruby {
