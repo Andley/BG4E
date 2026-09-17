@@ -6,7 +6,7 @@
       {
         "id": "660cea14325254bf",
         "type": "tabs",
-        "dimension": 50.38510911424904,
+        "dimension": 50.38510911424905,
         "children": [
           {
             "id": "06c01c4c484ac766",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.1-5.md",
-                "mode": "source",
+                "file": "40-Matthew/SM-Notes.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.1-5"
+              "title": "SM-Notes"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "cdc902d78e6cb0db",
         "type": "tabs",
-        "dimension": 49.61489088575096,
+        "dimension": 49.61489088575095,
         "children": [
           {
             "id": "ebeee49d98fa4aaa",
@@ -238,8 +238,14 @@
   },
   "active": "06c01c4c484ac766",
   "lastOpenFiles": [
-    "48-Galatians/Gal.1.6-10.md",
+    "40-Matthew/_index.md",
+    "40-Matthew/SM-Notes.md",
+    "README.md",
+    "Semantics/synonyms.md",
+    "Tools/Interlinear-Sandbox.md",
+    "Tools/Phrasing-Signs.md",
     "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Gal.1.6-10.md",
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter13.md",
     "48-Galatians/Gal.1.11-24.md",
@@ -258,12 +264,6 @@
     "48-Galatians/old-Gal.1.11-12.md",
     "48-Galatians/old-Gal.1.10.md",
     "48-Galatians/old-Gal.1.6-9.md",
-    "BBG4E/§9.md",
-    "48-Galatians/ἐὰν μὴ.md",
-    "48-Galatians/old-Gal.1.1-5.md",
-    "GDNTG/Chapter02.md",
-    "GDNTG/Chapter03.md",
-    "GDNTG/Chapter04.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",

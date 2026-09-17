@@ -1,21 +1,13 @@
----
-layout: default
-title: 首頁
-permalink: /
----
-
-
 # 全民希臘文 Biblical Greek for Everyone
 
-- [全民希臘文（BG4E）新約句法分析 AI 機器人 (2026-07-21)
-](https://udify.app/chat/6z5JUsLZJh8JYHM9) ⇐ 2026-07 更新！
+- [全民希臘文(BG4E)：句法小幫手](https://udify.app/chat/AU4eIe6yts5O9jXa)) ⇐ 2026-09 更新！
 
 - [Apostles' Creed](Memorize/Apostles-Creed.md) 
 - [Lord's Prayer](Memorize/Lords-Prayer.md) 
 - [慣用語](Semantics/Idioms.md)
-- [圖析符號說明](Tools/Phrasing-Signs.md) 
+- [圖析符號說明](Tools/Phrasing-Signs.md)  ⇐ 2026-09 更新！
 - [同義字 Synonyms](Semantics/synonyms.md)
-- [Interlinear-Sandbox](Tools/Interlinear-Sandbox.md)
+
 
 ## 全民希臘文：初階
 - [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
