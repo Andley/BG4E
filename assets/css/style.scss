@@ -153,7 +153,30 @@ body.one-line-mode .w .t {
 
 
 /* ══════════════════════════ */
+  /* page layout */
+  header {
+    padding: 20px 20px 5px 20px;
+  }
 
+  section {
+    margin-top: 100px;
+    padding-top:20px;
+  }
+
+  section.footnotes {
+    width: 90%;
+    margin-top: 30px;
+  }
+
+    /* offset anchor tag link */
+  
+:target {
+    padding-top: 115px;
+    margin-top: -115px;
+}
+
+
+/* ══════════════════════════ */
   /* table */
   table {
     margin-left: auto;
@@ -171,15 +194,9 @@ body.one-line-mode .w .t {
       background-color: rgb(230, 232, 227);
 }
 
-  /* offset anchor tag link */
-  
-:target {
-    padding-top: 115px;
-    margin-top: -115px;
-}
 
 
-
+/* ══════════════════════════ */
 /* BULLET POINT RELATIONSHIP LINES */
 ul ul { position: relative; }
 ul ul::before {
@@ -189,3 +206,13 @@ ul ul::before {
 }
 ul ul::before { left: -7px; top: 0; bottom: 0; 
 } 
+
+  ul li::marker {
+    content: '• ';
+  }
+
+  nav {
+    ul li::marker {
+      content: none;
+    }
+  }
