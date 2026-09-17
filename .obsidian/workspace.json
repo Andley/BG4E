@@ -6,7 +6,6 @@
       {
         "id": "660cea14325254bf",
         "type": "tabs",
-        "dimension": 50.38510911424905,
         "children": [
           {
             "id": "06c01c4c484ac766",
@@ -28,37 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Untitled 2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cdc902d78e6cb0db",
-        "type": "tabs",
-        "dimension": 49.61489088575095,
-        "children": [
-          {
-            "id": "ebeee49d98fa4aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.1.1-5.md",
+                "file": "48-Galatians/Gal.1.11-24.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.1-5"
+              "title": "Gal.1.11-24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +231,11 @@
   },
   "active": "4b6956dbd293970f",
   "lastOpenFiles": [
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Untitled 2.md",
-    "48-Galatians/Gal.1.1-5.md",
-    "48-Galatians/Gal.1.11-24.md",
     "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "48-Galatians/Untitled 2.md",
+    "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.1.11-24.md",
     "GDNTG/Chapter10.md",
     "40-Matthew/SM-Notes.md",
     "40-Matthew/_index.md",
