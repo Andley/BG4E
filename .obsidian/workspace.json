@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "660cea14325254bf",
+        "id": "1988878ad47e6cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "06c01c4c484ac766",
+            "id": "03f7f764a872917e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.2.1-10.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gal.2.1-10"
-            }
-          },
-          {
-            "id": "4b6956dbd293970f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48-Galatians/Gal.1.11-24.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gal.1.11-24"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "span",
+                "query": "copular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,34 +210,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b6956dbd293970f",
+  "active": "03f7f764a872917e",
   "lastOpenFiles": [
-    "48-Galatians/Gal.1.6-10.md",
-    "48-Galatians/Gal.1.1-5.md",
-    "48-Galatians/Untitled 2.md",
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Gal.1.11-24.md",
     "GDNTG/Chapter10.md",
-    "40-Matthew/SM-Notes.md",
-    "40-Matthew/_index.md",
-    "README.md",
-    "Semantics/synonyms.md",
-    "Tools/Interlinear-Sandbox.md",
-    "Tools/Phrasing-Signs.md",
-    "GDNTG/Chapter13.md",
-    "48-Galatians/Untitled.md",
-    "48-Galatians/Untitled 1.md",
-    "48-Galatians/Gal.3.21-4.7.md",
-    "48-Galatians/Gal.3.15-20.md",
-    "48-Galatians/Gal.3.1-14.md",
-    "48-Galatians/Gal.2.15-21.md",
-    "48-Galatians/Gal.2.11-14.md",
-    "48-Galatians/Untitled 4.md",
-    "48-Galatians/old-Gal.1.18-24.md",
-    "48-Galatians/old-Gal.1.13-17.md",
-    "48-Galatians/old-Gal.1.11-12.md",
-    "48-Galatians/old-Gal.1.10.md",
-    "48-Galatians/old-Gal.1.6-9.md",
+    "48-Galatians/Gal.2.1-10.md",
+    "Syntax/Apposition.md",
+    "Syntax/Copular Verb.md",
+    "Tools/句法小幫手.md",
+    "62-1John/123John-Style.md",
+    "62-1John/1Jo.1.5-10.md",
+    "Syntax/Aspect.md",
+    "Syntax/AGG-Outline.md",
+    "Syntax/Accusative Subject of Infinitive.md",
+    "Syntax/語氣 Mood.md",
+    "Syntax/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
+    "Syntax/神的愛.md",
+    "Syntax/否定.md",
+    "Syntax/31.4.md",
+    "Syntax/#3 類條件句.md",
+    "Syntax/§620.md",
+    "Syntax/§610.md",
+    "Syntax/§562.md",
+    "Syntax/§561.md",
+    "Syntax/§538.md",
+    "Syntax/§535.md",
+    "Syntax/§530.md",
+    "Syntax/§523.md",
+    "Syntax/§522.md",
+    "Syntax/§521.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
