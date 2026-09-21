@@ -44,7 +44,7 @@ rt {
   align-items: center;
   white-space: nowrap;
   vertical-align: baseline;       /* 以第一個子元素 (.t) 的 baseline 作為整塊對齊基準 */
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 /* 第一層：形態標籤（視覺上在最上方） */
