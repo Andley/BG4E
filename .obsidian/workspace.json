@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "48-Galatians/Gal.2.1-10.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Gal.2.1-10"
@@ -35,7 +35,7 @@
               "state": {
                 "file": "48-Galatians/Gal.2.1-10.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Gal.2.1-10"
@@ -255,7 +255,7 @@
                   "state": {
                     "file": "48-Galatians/old-Gal.2.1-5.md",
                     "mode": "preview",
-                    "source": true
+                    "source": false
                   },
                   "icon": "lucide-file",
                   "title": "old-Gal.2.1-5"

@@ -40,12 +40,15 @@
 
 
 - 2:1 Ἔπειτα  διὰ  δεκατεσσάρων  ἐτῶν  πάλιν <span class='verb'>ἀνέβην</span> εἰς  Ἱεροσόλυμα  μετὰ  Βαρνάβα <span class='ptc'>συμπαραλαβὼν</span> καὶ Τίτον <span class='punctuation'>·</span> 
-	- <span class='ptc'>συμπαραλαβὼν</span> καὶ Τίτον：分詞 <span class='ptc'>συμπαραλαβὼν</span> 的格性數是 [NSM]，要勾到內含在主要動詞 <span class='verb'>ἀνέβην</span> 裡面同樣是主格單數的 [1S]，因此整個分詞內嵌子句是副詞用法 (進深，487-8)。從上下文判斷，應該是表達「方式」(進深，492-3)。
-- 2:2c ὃ <span class='verb'>κηρύσσω</span>  ἐν  τοῖς  ἔθνεσιν：關係代名詞 (進深，590-1) 的性數 [SN] 指向 2:2b 同樣是 [SN] 的 εὐαγγέλιον，形成關係從屬子句。
+	- <span class='ptc'>συμπαραλαβὼν</span> καὶ Τίτον：副詞用法的分詞內嵌子句 (進深，487-8)，分詞 <span class='ptc'>συμπαραλαβὼν</span> 前面沒有冠詞，又是主格 [N]，性數 [SM] 與內含在主要動詞 <span class='verb'>ἀνέβην</span> 內的 [1S] 一致。從上下文判斷，應該是表達「方式」(進深，492-3)。
+- 2:2c ὃ <span class='verb'>κηρύσσω</span>  ἐν  τοῖς  ἔθνεσιν：關係代名詞 (進深，590-1) ὃ 的性數 [SN] 指向 2:2b 同樣是 [SN] 的 εὐαγγέλιον，形成關係從屬子句。
 - 2:2d  κατ᾽  ἰδίαν  δὲ  τοῖς  <span class='ptc'>δοκοῦσιν</span>
 	- 2:2d 省略了主要動詞，從上下文判斷，應該是延續 2:2b 的 <span class='verb'>ἀνεθέμην</span>。
 	- 分詞 <span class='ptc'>δοκοῦσιν</span> 前面有冠詞、後面沒有其他名詞，所以是形容詞用法分詞 (進深，484) 裡面的實詞用法 (進深，485-6)。
-- 2:2e μή  πως  εἰς  κενὸν  <span class='verb'>τρέχω</span>：動詞是假設語氣，表達「indefinite but probable 不確定、但有可能發生」的動作 (課本翻譯「但卻相當可能發生的」似乎過度翻譯)
+- 2:2e μή  πως  εἰς  κενὸν  <span class='verb'>τρέχω</span>
+	- μή  πως 也可以寫成 μήπως，表示疑慮的負面看法的標示，大多譯作，「惟恐、免得」(BDAG s.v. πώς, 2)。
+惟恐、兔稽。
+	- 動詞是假設語氣，表達「indefinite but probable 不確定、但有可能發生」的動作 (課本翻譯「但卻相當可能發生的」似乎過度翻譯)
 - 2:2f ἢ  <span class='verb'>ἔδραμον</span> <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:3 ἀλλ᾽  οὐδὲ  Τίτος  ὁ  σὺν  ἐμοί= <span class='punctuation'>,</span> Ἕλλην  <span class='ptc'>ὤν</span>  <span class='punctuation'>,</span>  <span class='verb'>ἠναγκάσθη</span>  <span class='inf'>περιτμηθῆναι</span> <span class='punctuation'>·</span> 
