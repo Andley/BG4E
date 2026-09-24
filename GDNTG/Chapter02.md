@@ -20,7 +20,27 @@ number headings: auto, first-level 1, start-at 2
 
 ## 2.3 希臘文的格系統 THE GREEK CASE SYSTEM
 
+
+|五格系統(形式)<br>FIVE-CASE SYSTEM (FORM)|八格系統(功能)<br>EIGHT-CASE SYSTEM (FUNCTION)|
+|:---:|:---:|
+|1. 主格(指稱)<br>Nominative (Designation)|1. 主格(指稱)<br>Nominative (Designation)|
+|2. 所有格(描述／分離)<br>Genitive (Description/Separation)|2. 所有格(描述)<br>Genitive (Description)|
+|^|3. 所有格(分離)<br>Ablative (Separation)|
+|3. 間接受格(利益／位置／方式)<br>Dative (Interest/Location/Means)|4. 間接受格(利益)<br>Dative (Interest)|
+|^|5. 間接受格(位置)<br>Locative (Location)|
+|^|6. 方式)<br>Instrumental (Means)|
+|4. 直接受格(範圍)<br>Accusative (Extension)|7. 直接受格(範圍)<br>Accusative (Extension)|
+|5. 呼格(稱呼)<br>Vocative (Address)|8. 呼格(稱呼)<br>Vocative (Address)|
 ## 2.4 主格 NOMINATIVE
+|主格的用法|類別名稱|
+|:---:|---|
+|主要用法<br>MAJOR USES|主語的 Subject|
+|^|述語主格的 Predicate Nominative|
+|^|同位語的 Apposition|
+|其他用法<br>OTHER USES|稱呼的 Address|
+|^|稱謂、稱號的 Appellation|
+|^|獨立的 Absolute|
+|^|懸掛主格 Hanging Nominative|
 
 ### 2.4.1 主要用法 Major Uses
 

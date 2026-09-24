@@ -22,6 +22,24 @@ Luk 2:14 <RUBY><ruby><ruby>Δόξα<rt>榮耀 Glory</rt></ruby><rt><a href='http
 		- <RUBY><ruby><ruby>ὅς<rt>他 who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-NSM</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐστιν</span><rt>就是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>εἰκὼν<rt>形像 [the] image</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01504&m='>εἰκών</a></rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY> <span class='punctuation'>.</span> 
 
 
+|所有格的用法|  類別名稱 |
+|:---:|---|
+|形容用法<br>ADJECTIVAL USESE|描述的 Description|
+|^|表達屬性的 Attributive|
+|^|擁有的 Possession|
+|^|關係的 Relationship|
+|^|來源的 Source|
+|^|材料或內容的 Material or Content|
+|^|部分的 Partitive|
+|動詞用法<br>VERBAL USES|主詞的 Subjective|
+|^|受詞的 Objective|
+|副詞用法<br>ADVERBIAL USES|時間或地方的 Time or Place|
+|^|隔開的 Separation|
+|^|途徑或動作者的 Means or Agency|
+|^|比較的 Comparison|
+|^|價錢的 Price|
+|其他用法<br>OTHER USES|同位句型的 Apposition|
+|^|作直接受詞的 Direct Object|
 
 ## 3.4 形容詞用法 ADJECTIVAL USE
 

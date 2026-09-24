@@ -6,5 +6,6 @@
   "text-finder",
   "show-whitespace-cm6",
   "replace-commands",
-  "ascii-tree-generator"
+  "ascii-tree-generator",
+  "sheets"
 ]
