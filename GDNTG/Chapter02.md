@@ -31,7 +31,30 @@ number headings: auto, first-level 1, start-at 2
 |^|6. 方式)<br>Instrumental (Means)|
 |4. 直接受格(範圍)<br>Accusative (Extension)|7. 直接受格(範圍)<br>Accusative (Extension)|
 |5. 呼格(稱呼)<br>Vocative (Address)|8. 呼格(稱呼)<br>Vocative (Address)|
+
+
 ## 2.4 主格 NOMINATIVE
+
+<table>
+	<thead> 
+		<tr> 
+			<th colspan="2">水平合併（跨兩欄）</th> 
+			<th>標題 C</th> 
+		</tr> 
+	</thead> 
+	<tbody> 
+		<tr> 
+			<td rowspan="2">垂直合併<br>（跨兩列）</td> 
+			<td>一般內容 B1</td> 
+			<td>一般內容 C1</td> 
+		</tr> 
+		<tr> 
+			<td>一般內容 B2</td> 
+			<td>一般內容 C2</td> 
+		</tr> 
+	</tbody> 
+</table>
+
 |主格的用法|類別名稱|
 |:---:|---|
 |主要用法<br>MAJOR USES|主語的 Subject|
