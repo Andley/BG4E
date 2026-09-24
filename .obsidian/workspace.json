@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "641e0d60d0162176",
+        "id": "b9131c258b0a12af",
         "type": "tabs",
         "children": [
           {
-            "id": "ef88afef8b4b2076",
+            "id": "2d6de1bab891f19e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -211,8 +210,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef88afef8b4b2076",
+  "active": "2d6de1bab891f19e",
   "lastOpenFiles": [
+    "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
     "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.2.1-10.md",
@@ -238,7 +238,6 @@
     "Syntax/§610.md",
     "Syntax/§562.md",
     "Syntax/§561.md",
-    "Syntax/§538.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
