@@ -11,30 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": ")",
-      "lastUsedAt": 1787560759529,
-      "createdAt": 1787560685592,
-      "count": 3
-    },
-    {
-      "text": "(",
-      "lastUsedAt": 1787560792251,
-      "createdAt": 1787560659694,
-      "count": 2
-    },
-    {
-      "text": "[",
-      "lastUsedAt": 1787569060917,
-      "createdAt": 1786056060123,
-      "count": 2
-    },
-    {
-      "text": "]",
-      "lastUsedAt": 1787569080541,
-      "createdAt": 1787569066695,
-      "count": 1
-    },
-    {
       "text": "1Pe 1:",
       "lastUsedAt": 1787790571867,
       "createdAt": 1787787539708,
@@ -69,6 +45,30 @@
       "lastUsedAt": 1789374821533,
       "createdAt": 1786428466440,
       "count": 5
+    },
+    {
+      "text": "<td>",
+      "lastUsedAt": 1790250250051,
+      "createdAt": 1790250249700,
+      "count": 1
+    },
+    {
+      "text": "</td>",
+      "lastUsedAt": 1790250255685,
+      "createdAt": 1790250255685,
+      "count": 1
+    },
+    {
+      "text": "</tr>",
+      "lastUsedAt": 1790250263051,
+      "createdAt": 1790250263051,
+      "count": 1
+    },
+    {
+      "text": "<tr>",
+      "lastUsedAt": 1790250267669,
+      "createdAt": 1790250267669,
+      "count": 1
     }
   ]
 }
