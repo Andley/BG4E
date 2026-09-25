@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter02.md",
+                "file": "GDNTG/Chapter03.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter02"
+              "title": "Chapter03"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter02.md",
+                "file": "GDNTG/Chapter03.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter02"
+              "title": "Chapter03"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Chapter02.md",
+                "file": "GDNTG/Chapter03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,10 +235,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a7710d800d5af93",
+  "active": "b4c75298bded420e",
   "lastOpenFiles": [
-    "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
+    "GDNTG/Chapter03.md",
     "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.1.1-5.md",
