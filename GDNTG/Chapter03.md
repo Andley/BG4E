@@ -21,25 +21,30 @@ Luk 2:14 <RUBY><ruby><ruby>Δόξα<rt>榮耀 Glory</rt></ruby><rt><a href='http
 	- (<RUBY><ruby><ruby>εἰς<rt>使 so as for</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY>  ⁅<RUBY><ruby><ruby>μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY>  ‹<RUBY><ruby><ruby><span class='inf'>αὐγάσαι</span><rt>看見 to beam forth</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00826&m='>αὐγάζω</a></rt></ruby><rt>V-AAN</rt></RUBY>›p  ‹<RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY>  <RUBY><ruby><ruby>φωτισμὸν<rt>光 illumination</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05462&m='>φωτισμός</a></rt></ruby><rt>N-ASM</rt></RUBY>  ⸢<RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSN</rt></RUBY>  <RUBY><ruby><ruby>εὐαγγελίου<rt>福音 gospel</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></rt></ruby><rt>N-GSN</rt></RUBY>⸣  ⸢<RUBY><ruby><ruby>τῆς<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>δόξης<rt>榮耀 glory</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></rt></ruby><rt>N-GSF</rt></RUBY>⸣  ⸢<RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>基督 of Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY>⸣›c⁆)A  <span class='punctuation'>,</span>  
 		- <RUBY><ruby><ruby>ὅς<rt>他 who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-NSM</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐστιν</span><rt>就是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>  <RUBY><ruby><ruby>εἰκὼν<rt>形像 [the] image</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01504&m='>εἰκών</a></rt></ruby><rt>N-NSF</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY> <span class='punctuation'>.</span> 
 
+<table>
+	<thead>
+		<tr><th>所有格的用法</th><th>類別名稱</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="center" rowspan=7>形容用法<br>ADJECTIVAL USESE</td><td>描述的 Description</td></tr>
+		<tr><td>表達屬性的 Attributive</td></tr>
+		<tr><td>擁有的 Possession</td></tr>
+		<tr><td>關係的 Relationship</td></tr>
+		<tr><td>來源的 Source</td></tr>
+		<tr><td>材料或內容的 Material or Content</td></tr>
+		<tr><td>部分的 Partitive</td></tr>
+		<tr><td align="center" rowspan=2>動詞用法<br>VERBAL USES</td><td>主詞的 Subjective</td></tr>
+		<tr><td>受詞的 Objective</td></tr>
+		<tr><td align="center" rowspan=5>副詞用法<br>ADVERBIAL USES</td><td>時間或地方的 Time or Place</td></tr>
+		<tr><td>隔開的 Separation</td></tr>
+		<tr><td>途徑或動作者的 Means or Agency</td></tr>
+		<tr><td>比較的 Comparison</td></tr>
+		<tr><td>價錢的 Price</td></tr>
+		<tr><td align="center" rowspan=2>其他用法<br>OTHER USES</td><td>同位句型的 Apposition</td></tr>
+		<tr><td>作直接受詞的 Direct Object</td></tr>
+	</tbody>
+</table>
 
-|所有格的用法|  類別名稱 |
-|:---:|---|
-|形容用法<br>ADJECTIVAL USESE|描述的 Description|
-|^|表達屬性的 Attributive|
-|^|擁有的 Possession|
-|^|關係的 Relationship|
-|^|來源的 Source|
-|^|材料或內容的 Material or Content|
-|^|部分的 Partitive|
-|動詞用法<br>VERBAL USES|主詞的 Subjective|
-|^|受詞的 Objective|
-|副詞用法<br>ADVERBIAL USES|時間或地方的 Time or Place|
-|^|隔開的 Separation|
-|^|途徑或動作者的 Means or Agency|
-|^|比較的 Comparison|
-|^|價錢的 Price|
-|其他用法<br>OTHER USES|同位句型的 Apposition|
-|^|作直接受詞的 Direct Object|
 
 ## 3.4 形容詞用法 ADJECTIVAL USE
 

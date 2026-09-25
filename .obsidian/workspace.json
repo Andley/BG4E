@@ -4,43 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b9131c258b0a12af",
+        "id": "df8b257307d4de5c",
         "type": "tabs",
-        "dimension": 47.9606188466948,
         "children": [
           {
-            "id": "2d6de1bab891f19e",
+            "id": "3a7710d800d5af93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "GDNTG/Chapter02.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter03"
+              "title": "Chapter02"
             }
           }
         ]
       },
       {
-        "id": "63394c44dd813f30",
+        "id": "851e9b38c75d4f97",
         "type": "tabs",
-        "dimension": 52.0393811533052,
         "children": [
           {
-            "id": "4f31a573ec473fea",
+            "id": "0bfd511224b21951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "GDNTG/Chapter02.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter03"
+              "title": "Chapter02"
             }
           }
         ]
@@ -77,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "GDNTG/Chapter02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -116,7 +114,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,10 +235,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f31a573ec473fea",
+  "active": "3a7710d800d5af93",
   "lastOpenFiles": [
-    "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
+    "GDNTG/Chapter02.md",
     "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.1.1-5.md",

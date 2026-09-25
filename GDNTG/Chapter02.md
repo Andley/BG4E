@@ -20,32 +20,29 @@ number headings: auto, first-level 1, start-at 2
 
 ## 2.3 希臘文的格系統 THE GREEK CASE SYSTEM
 
+|五格系統(形式)  <br>FIVE-CASE SYSTEM (FORM)|八格系統(功能)  <br>EIGHT-CASE SYSTEM (FUNCTION)|
+|---|---|
+|1. 主格(指稱)  <br>Nominative (Designation)|1. 主格(指稱)  <br>Nominative (Designation)|
+|2. 所有格(描述／分離)  <br>Genitive (Description/Separation)|2. 所有格(描述)  <br>Genitive (Description)|
+|^|3. 所有格(分離)  <br>Ablative (Separation)|
+|3. 間接受格(利益／位置／方式)  <br>Dative (Interest/Location/Means)|4. 間接受格(利益)  <br>Dative (Interest)|
+|^|5. 間接受格(位置)  <br>Locative (Location)|
+|^|6. 方式)  <br>Instrumental (Means)|
+|4. 直接受格(範圍)  <br>Accusative (Extension)|7. 直接受格(範圍)  <br>Accusative (Extension)|
+|5. 呼格(稱呼)  <br>Vocative (Address)|8. 呼格(稱呼)  <br>Vocative (Address)|
 
-|五格系統(形式)<br>FIVE-CASE SYSTEM (FORM)|八格系統(功能)<br>EIGHT-CASE SYSTEM (FUNCTION)|
-|:---:|:---:|
-|1. 主格(指稱)<br>Nominative (Designation)|1. 主格(指稱)<br>Nominative (Designation)|
-|2. 所有格(描述／分離)<br>Genitive (Description/Separation)|2. 所有格(描述)<br>Genitive (Description)|
-|^|3. 所有格(分離)<br>Ablative (Separation)|
-|3. 間接受格(利益／位置／方式)<br>Dative (Interest/Location/Means)|4. 間接受格(利益)<br>Dative (Interest)|
-|^|5. 間接受格(位置)<br>Locative (Location)|
-|^|6. 方式)<br>Instrumental (Means)|
-|4. 直接受格(範圍)<br>Accusative (Extension)|7. 直接受格(範圍)<br>Accusative (Extension)|
-|5. 呼格(稱呼)<br>Vocative (Address)|8. 呼格(稱呼)<br>Vocative (Address)|
 
 ## 2.4 主格 NOMINATIVE
 
-
 |主格的用法|類別名稱|
-|:---:|---|
-| 主要用法<br>MAJOR USES|主語的 Subject|
-|^|述語主格的 Predicate Nominative|
-|^|主語的 Subject|
-|其他用法<br>OTHER USES| 稱呼的 Address|
-|^|稱謂／稱號的 Appellation|
-|^|獨立的 Absolute|
+|---|---|
+|主要用法  <br>MAJOR USES|主語 Subject|
+|^|述語主格 Predicate Nominative|
+|^|同位語 Appositions|
+|其他用法  <br>OTHER USES|稱呼 Address|
+|^|稱謂／稱號 Appellation|
+|^|獨立 Absolute|
 |^|懸掛主格 Hanging Nominative|
-
-
 
 ### 2.4.1 主要用法 Major Uses
 
@@ -103,19 +100,21 @@ number headings: auto, first-level 1, start-at 2
 - 約11:43  <RUBY><ruby><ruby>**Λάζαρε**<rt>**拉撒路 Lazarus**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02976&m='>Λάζαρος</a></rt></ruby><rt>N-VSM</rt></RUBY>    <RUBY><ruby><ruby>δεῦρο<rt>來 come</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01204&m='>δεῦρο</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>ἔξω<rt>出 forth</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01854&m='>ἔξω</a></rt></ruby><rt>ADV</rt></RUBY>
 - 徒10:13  <RUBY><ruby><ruby><span class='ptc'>Ἀναστάς</span><rt>起來 Having risen up</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00450&m='>ἀνίστημι</a></rt></ruby><rt>V-AAP-NSM</rt></RUBY>    <RUBY><ruby><ruby>**Πέτρε**<rt>**彼得 Peter**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04074&m='>Πέτρος</a></rt></ruby><rt>N-VSM</rt></RUBY> ,   <RUBY><ruby><ruby><span class='verb'>θῦσον</span><rt>宰了 kill</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02380&m='>θύω</a></rt></ruby><rt>V-AAM-2S</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>φάγε</span><rt>吃 eat!</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05315&m='>φαγεῖν</a></rt></ruby><rt>V-AAM-2S</rt></RUBY>
 - 提前6:11  <RUBY><ruby><ruby>Σὺ<rt>你 You</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2NS</rt></RUBY>  <RUBY><ruby><ruby>δέ<rt>但 however</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  ,  <RUBY><ruby><ruby>**ὦ**<rt>**這 O**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05599&m='>ὦ</a></rt></ruby><rt>INJ</rt></RUBY>  <RUBY><ruby><ruby>**ἄνθρωπε**<rt>**人哪 man**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-VSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>屬上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>  ,  <RUBY><ruby><ruby>ταῦτα<rt>這些事 these things</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03778&m='>οὗτος</a></rt></ruby><rt>D-APN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>φεῦγε</span><rt>要逃避 flee</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05343&m='>φεύγω</a></rt></ruby><rt>V-PAM-2S</rt></RUBY>  
+
+
 ## 2.6 直接受格 ACCUSATIVE
 
-| 直接受格的用法  |  類別名稱 |
-|:---:|---|
-|名詞用法<br>SUBSTANTIVAL USES|直接受詞 Direct Object|
+
+|直接受格的用法|類別名稱|
+|---|---|
+|名詞用法  <br>SUBSTANTIVAL USES|直接受詞 Direct Object|
 |^|同源直接受格 Cognate Accusative|
 |^|雙重直接受格 Double Accusative|
 |^|不定詞的主詞 Subject of Infinitive|
 |^|同位句型 Apposition|
-|副詞用法<br>ADVERBIAL USES|度量 Measure|
+|副詞用法  <br>ADVERBIAL USES|度量 Measure|
 |^|方式 Manner|
 |^|關注 Respect|
-
 
 ### 2.6.1 直接受格的名詞用法 Substantival Uses of the Accusative
 
@@ -170,6 +169,7 @@ number headings: auto, first-level 1, start-at 2
 - 帖前2:4   <RUBY><ruby><ruby>ἀλλὰ<rt>但是 but</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>καθὼς<rt>既然 just as</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02531&m='>καθώς</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>δεδοκιμάσμεθα</span><rt>我們經得起考驗 we have been approved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01381&m='>δοκιμάζω</a></rt></ruby><rt>V-RPI-1P</rt></RUBY>  <RUBY><ruby><ruby>ὑπὸ<rt>被 by</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05259&m='>ὑπό</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'>πιστευθῆναι</span><rt>受託付 to be entrusted with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-APN</rt></RUBY>  <RUBY><ruby><ruby>**τὸ**<rt>**- the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby>**εὐαγγέλιον**<rt>**福音 gospel**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></rt></ruby><rt>N-ASN</rt></RUBY> 
 
 ## 2.7 總結一覽表 SUMMARY
+
 
 ## 2.8 應用練習 PRACTICE EXERCISES
 
