@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "df8b257307d4de5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a7710d800d5af93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter03.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter03"
-            }
-          }
-        ]
-      },
-      {
         "id": "851e9b38c75d4f97",
         "type": "tabs",
         "children": [
@@ -33,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "48-Galatians/Gal.2.11-14.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.2.11-14"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d21aa10f1e71eede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1adb3141cfa7d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.2.11-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter03"
+              "title": "Gal.2.11-14"
             }
           }
         ]
@@ -114,12 +114,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -235,12 +235,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4c75298bded420e",
+  "active": "0bfd511224b21951",
   "lastOpenFiles": [
-    "GDNTG/Chapter02.md",
-    "GDNTG/Chapter03.md",
-    "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.2.11-14.md",
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter02.md",
     "48-Galatians/Gal.1.1-5.md",
     "48-Galatians/old-Gal.2.1-5.md",
     "48-Galatians/Gal.1.11-24.md",
