@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.11-14.md",
+                "file": "48-Galatians/Gal.2.15-21.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.11-14"
+              "title": "Gal.2.15-21"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.11-14.md",
+                "file": "48-Galatians/Gal.2.15-21.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.11-14"
+              "title": "Gal.2.15-21"
             }
           }
         ]
@@ -237,8 +237,9 @@
   },
   "active": "0bfd511224b21951",
   "lastOpenFiles": [
-    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.2.11-14.md",
+    "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Gal.2.1-10.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
     "48-Galatians/Gal.1.1-5.md",
@@ -262,7 +263,6 @@
     "Syntax/§620.md",
     "Syntax/§610.md",
     "Syntax/§562.md",
-    "Syntax/§561.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",

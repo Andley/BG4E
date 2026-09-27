@@ -20,29 +20,19 @@
 - 2:14d  (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>εἶπον</a></span><span class="g">說 I said</span><span class="t"><span class='verb'>λέγω</span></span></span>)P  (<span class="w"><span class="m">T-DSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">對 -</span><span class="t">τῷ</span></span>  <span class="w"><span class="m">N-DSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02786&m='>Κηφᾶς</a></span><span class="g">磯法 to Peter</span><span class="t">Κηφᾷ</span></span>)C  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01715&m='>ἔμπροσθεν</a></span><span class="g">在面前 before</span><span class="t">ἔμπροσθεν</span></span>  <span class="w"><span class="m">A-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></span><span class="g">眾人 all</span><span class="t">πάντων</span></span>)A <span class='punctuation'>·</span> 
 	- 2:14e  
 		- <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01487&m='>εἰ</a></span><span class="g">既然 If</span><span class="t">Εἰ</span></span>  (<span class="w"><span class="m">P-2NS</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></span><span class="g">你 you</span><span class="t">σὺ</span></span>)S ⁅‹<span class="w"><span class="m">A-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02453&m='>Ἰουδαῖος</a></span><span class="g">猶太人 a Jew</span><span class="t">Ἰουδαῖος</span></span>›c  ‹<span class="w"><span class="m">V-PAP-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05225&m='>ὑπάρχω</a></span><span class="g">是 being</span><span class="t"><span class='ptc'>ὑπάρχων</span></span></span>›p⁆A (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01483&m='>ἐθνικῶς</a></span><span class="g">按照外邦人 like a Gentile</span><span class="t">ἐθνικῶς</span></span>)A  <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></span><span class="g">- and</span><span class="t">καὶ</span></span>  <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02452&m='>Ἰουδαϊκῶς</a></span><span class="g">按照猶太人 like a Jew</span><span class="t">Ἰουδαϊκῶς</span></span>)A  (<span class="w"><span class="m">V-PAI-2S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02198&m='>ζάω</a></span><span class="g">生活 live</span><span class="t"><span class='verb'>ζῇς</span></span></span>)P <span class='punctuation'>,</span> 
-	- 2:14f  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></span><span class="g">怎麼 why</span><span class="t">πῶς</span></span>)A ⁅‹<span class="w"><span class="m">T-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὰ</span></span>  <span class="w"><span class="m">N-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01484&m='>ἔθνος</a></span><span class="g">外邦人 Gentiles</span><span class="t">ἔθνη</span></span>›s⁆⦇ (<span class="w"><span class="m">V-PAI-2S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00315&m='>ἀναγκάζω</a></span><span class="g">勉強 do you compel</span><span class="t"><span class='verb'>ἀναγκάζεις</span></span></span>)P ⦈⁅‹<span class="w"><span class="m">V-PAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02450&m='>Ἰουδαΐζω</a></span><span class="g">按照猶太人 to Judaize?</span><span class="t"><span class='inf'>ἰουδαΐζειν</span></span></span>›p⁆C <span class='punctuation'>;</span> 』
+	- 2:14f  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></span><span class="g">怎麼 why</span><span class="t">πῶς</span></span>)A ⁅‹<span class="w"><span class="m">T-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὰ</span></span>  <span class="w"><span class="m">N-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01484&m='>ἔθνος</a></span><span class="g">外邦人 Gentiles</span><span class="t">ἔθνη</span></span>›s⁆⦇ (<span class="w"><span class="m">V-PAI-2S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00315&m='>ἀναγκάζω</a></span><span class="g">勉強 do you compel</span><span class="t"><span class='verb'>ἀναγκάζεις</span></span></span>)P ⦈⁅‹<span class="w"><span class="m">V-PAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02450&m='>Ἰουδαΐζω</a></span><span class="g">按照猶太人 to Judaize?</span><span class="t"><span class='inf'>ἰουδαΐζειν</span></span></span>›p⁆C <span class='punctuation'>;</span> 
 
 
 #### 句法筆記 (Syntax Notes)
 
-
-- 2:11a δὲ 
-- ὅτε <span class='verb'>ἦλθεν</span> Κηφᾶς εἰς Ἀντιόχειαν , 
-- 2:11b κατὰ πρόσωπον αὐτῷ <span class='verb'>ἀντέστην</span> , 
 - 2:11c ὅτι <span class='ptc'>κατεγνωσμένος</span> <span class='verb'>ἦν</span> . 
+	-  <span class='ptc'>κατεγνωσμένος</span> <span class='verb'>ἦν</span> 迂說的分詞 (進深，510)，不完成式 εἰμί ＋ 現在完成式分詞＝過去完成式 (進深，511, 513)。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 2:12a πρὸ τοῦ γὰρ [<span class='inf'>ἐλθεῖν</span> τινας ἀπὸ Ἰακώβου ] μετὰ τῶν ἐθνῶν <span class='verb'>συνήσθιεν</span> · 
-- 2:12b δὲ 
-- ὅτε <span class='verb'>ἦλθον</span> , 
-- 2:12c <span class='verb'>ὑπέστελλεν</span> 
-- 2:12d καὶ <span class='verb'>ἀφώριζεν</span> ἑαυτόν [<span class='ptc'>φοβούμενος</span> ⟨τοὺς ἐκ περιτομῆς ⟩c] . 
-- 2:13a καὶ <span class='verb'>συνυπεκρίθησαν</span> αὐτῷ καὶ οἱ λοιποὶ Ἰουδαῖοι , 
-- 2:13b ὥστε καὶ Βαρνάβας <span class='verb'>συναπήχθη</span> αὐτῶν τῇ ὑποκρίσει . 
-- 2:14a Ἀλλ᾽ 
-- 2:14b ὅτε <span class='verb'>εἶδον</span> 
-- 2:14c ὅτι οὐκ <span class='verb'>ὀρθοποδοῦσιν</span> πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου , 
-- 2:14d <span class='verb'>λέγω</span> τῷ Κηφᾷ ἔμπροσθεν πάντων · 
-- 『
-- 2:14e Εἰ σὺ [Ἰουδαῖος <span class='ptc'>ὑπάρχων</span> ] ἐθνικῶς καὶ οὐκ Ἰουδαϊκῶς <span class='verb'>ζῇς</span> , 
-- 2:14f πῶς [τὰ ἔθνη ]<span class='verb'>ἀναγκάζεις</span> [<span class='inf'>ἰουδαΐζειν</span> ] ; 』
-
+- 2:12a πρὸ τοῦ γὰρ <span class='inf'>ἐλθεῖν</span> τινας ἀπὸ Ἰακώβου 
+	- 介係詞 πρό ＋實名詞 = 介係詞片語的結構，表達「時間」(進深，608-9)，其中實名詞是不定詞內嵌子句 (進深，550)。
+- 2:12d <span class='ptc'>φοβούμενος</span> τοὺς ἐκ περιτομῆς . 
+	- 分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法 (進深，487-8)，從上下文判斷，應該是表達「原因」(進深, 493-4)。
+- 2:14e Ἰουδαῖος <span class='ptc'>ὑπάρχων</span>
+	- 分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法 (進深，487-8)，從上下文判斷，應該是表達「方式」(進深, 4932-3)。
+- 2:14f τὰ ἔθνη ... <span class='inf'>ἰουδαΐζειν</span>
+	- 不定詞內嵌子句，中間被主要動詞 ἀναγκάζεις 切成兩半，形成「倒置 hyperbaton」。
