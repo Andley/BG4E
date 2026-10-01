@@ -56,7 +56,7 @@
 - 2:3 ἀλλ᾽  οὐδὲ  Τίτος  ὁ  σὺν  ἐμοί <span class='punctuation'>,</span> Ἕλλην  <span class='ptc'>ὤν</span>  <span class='punctuation'>,</span>  <span class='verb'>ἠναγκάσθη</span>  <span class='inf'>περιτμηθῆναι</span> <span class='punctuation'>·</span> 
 	- οὐδὲ 在此意思是 "not even"，從上下文判斷，修飾後面的 Τίτος 最恰當
 	-  ὁ  σὺν  ἐμοί：介係詞片語當作形容詞用 (進深，597)，前面加上冠詞相當於實名詞，補充說明 Τίτος
-	- Ἕλλην  <span class='ptc'>ὤν</span> ：分詞內嵌子句， <span class='ptc'>ὤν</span> 是主格前面沒有冠詞，所以又是副詞用法的分詞內嵌子句 (進深，487-8)，修飾主要動詞 ἠναγκάσθη
+	- Ἕλλην  <span class='ptc'>ὤν</span> ：分詞內嵌子句， <span class='ptc'>ὤν</span> 是主格前面沒有冠詞，所以又是副詞用法的分詞內嵌子句 (進深，487-8)，修飾主要動詞 ἠναγκάσθη。從上下文判斷，可能表達「讓步」(進深，496-7; 497 n.37)，也可能表達「原因」(進深，493-4)。
 - 2:4a  διὰ  δὲ  τοὺς  παρεισάκτους  ψευδαδέλφους  <span class='punctuation'>,</span> 
 	- 沒有 S/P/C，就文法來說算是不合文法的「破格」(anacoluthon)，在傳統文法中被視為錯誤，但在實際口語或文學修辭中，常用來表現說話者的激動、猶豫或思緒轉折。
 - 2:4b  οἵτινες  <span class='verb'>παρεισῆλθον</span> <span class='inf'>κατασκοπῆσαι</span> τὴν  ἐλευθερίαν  ἡμῶν 
