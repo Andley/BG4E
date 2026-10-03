@@ -1,26 +1,37 @@
 ---
-number headings: auto, first-level 1, max 6, start-at 4, 1.1
+number headings: auto, first-level 1, start-at 4
 ---
+
 ```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
 ```
 
 # 4 間接受格 DATIVE CASE
 
 ## 4.1 進深 GOING DEEPER
+- 彼後1:3  <RUBY><ruby><ruby>Ὡς<rt>- Accordingly</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05613&m='>ὡς</a></rt></ruby><rt>CONJ</rt></RUBY>  ⁅‹<RUBY><ruby><ruby>πάντα<rt>一切 all things</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></rt></ruby><rt>A-APN</rt></RUBY>›⦇  ‹<RUBY><ruby><ruby>ἡμῖν<rt>給我們 to us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1DP</rt></RUBY>›c  ‹<RUBY><ruby><ruby>τῆς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>θείας<rt>神性 divine</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02304&m='>θεῖος</a></rt></ruby><rt>A-GSF</rt></RUBY>  <RUBY><ruby><ruby>δυνάμεως<rt>能力 power</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01411&m='>δύναμις</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>αὐτοῦ<rt>他 of Him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSM</rt></RUBY>›s  ⦈‹<RUBY><ruby><ruby>τὰ<rt>事 -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APN</rt></RUBY>  <RUBY><ruby><ruby>πρὸς<rt>關乎 toward</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04314&m='>πρός</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ζωὴν<rt>生命 life</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02222&m='>ζωή</a></rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>εὐσέβειαν<rt>虔敬 godliness</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02150&m='>εὐσέβεια</a></rt></ruby><rt>N-ASF</rt></RUBY>›c  ‹<RUBY><ruby><ruby><span class='ptc'>δεδωρημένης</span><rt>已經賜 has given</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01433&m='>δωρέω</a></rt></ruby><rt>V-RMP-GSF</rt></RUBY>›p°¹⁆  
+	- ‹<RUBY><ruby><ruby>διὰ<rt>因 through</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>ἐπιγνώσεως<rt>認識 knowledge</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01922&m='>ἐπίγνωσις</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>那 of the [One]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  ⟦«<RUBY><ruby><ruby><span class='ptc'>καλέσαντος</span><rt>呼召 having called</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02564&m='>καλέω</a></rt></ruby><rt>V-AAP-GSM</rt></RUBY>»<sub>p</sub>  «<RUBY><ruby><ruby>ἡμᾶς<rt>我們 us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1AP</rt></RUBY>»<sub>c</sub>  «<RUBY><ruby><ruby>ἰδίᾳ<rt>用自己 [by His] own</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02398&m='>ἴδιος</a></rt></ruby><rt>A-DSF</rt></RUBY>  <RUBY><ruby><ruby>δόξῃ<rt>榮耀 glory</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἀρετῇ<rt>美德 excellence</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00703&m='>ἀρετή</a></rt></ruby><rt>N-DSF</rt></RUBY>»<sub>a</sub>⟧›a⮥°¹ 
 
 ## 4.2 本課目標 CHAPTER OBJECTIVES
 
 ## 4.3 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
 
+|所有格的用法|類別名稱|
+|---|---|
+|單純間接受格<br>PURE DATIVE|作間接受詞的 Indirect Object|
+|^|個人利益的 Personal Interest|
+|^|指涉或關注的 Reference or Respect|
+|^|擁有的 Possession|
+|位置間接受格<br>LOCATIVE DATIVE|地方的 Place|
+|^|範圍的 Sphere|
+|^|時間的 Time|
+|憑藉間接受格<br>INSTRUMENTAL DATIVE|途徑的 Means|
+|^|方式的 Manner|
+|^|動作者的 Agency|
+|^|關聯的 Association|
+|其他用法<br>OTHER USES|原因的 Cause|
+|^|同源的 Cognate Dative|
+|^|同位句型的 Apposition|
+|^|作直接受詞的 Direct Object|
 
 ## 4.4 單純間接受格 PURE DATIVE
 

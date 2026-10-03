@@ -1,5 +1,5 @@
 {
-  "livePreview": true,
+  "livePreview": false,
   "showInlineTitle": false,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
