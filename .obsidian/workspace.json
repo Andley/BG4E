@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "286cf3f5dce29167",
+        "id": "ff27512f7cc63f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "32427ba1af3a143a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter04.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter04"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2c8dfae4bdad6f5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f8e0740270ebafd8",
+            "id": "2d67270ccf328e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -234,7 +215,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32427ba1af3a143a",
+  "active": "2d67270ccf328e75",
   "lastOpenFiles": [
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter04.md",
