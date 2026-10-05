@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "46-1Corinthians/1Co.11.2-16.md",
+                "file": "48-Galatians/Gal.2.15-21.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Co.11.2-16"
+              "title": "Gal.2.15-21"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "46-1Corinthians/1Co.11.2-16.md",
+                "file": "48-Galatians/Gal.2.15-21.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Co.11.2-16"
+              "title": "Gal.2.15-21"
             }
           }
         ]
@@ -237,9 +237,9 @@
   },
   "active": "2d67270ccf328e75",
   "lastOpenFiles": [
-    "48-Galatians/ἐὰν μὴ.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/ἐὰν μὴ.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
