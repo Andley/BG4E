@@ -85,7 +85,7 @@
           "regexFlags": "g"
         },
         {
-          "search": "<span class=(?:'punctuation'|'paragraph')>(.*?)</span>",
+          "search": "<span class=(?:'punctuation'|'paragraph'|'verb'|'ptc'|'inf')>(.*?)</span>",
           "replace": "$1",
           "useRegex": true,
           "regexFlags": ""

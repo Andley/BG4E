@@ -6,7 +6,7 @@
       {
         "id": "ff27512f7cc63f8d",
         "type": "tabs",
-        "dimension": 46.9191270860077,
+        "dimension": 44.97326203208556,
         "children": [
           {
             "id": "2d67270ccf328e75",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "48-Galatians/Gal.3.1-14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
+              "title": "Gal.3.1-14"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "3f88bd2e1325418d",
         "type": "tabs",
-        "dimension": 53.080872913992295,
+        "dimension": 55.02673796791444,
         "children": [
           {
             "id": "9ea81526ab87a99b",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.15-21.md",
+                "file": "48-Galatians/Gal.3.1-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.15-21"
+              "title": "Gal.3.1-14"
             }
           }
         ]
@@ -239,8 +239,9 @@
   },
   "active": "2d67270ccf328e75",
   "lastOpenFiles": [
-    "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Gal.3.1-14.md",
+    "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/ἐὰν μὴ.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
@@ -264,7 +265,6 @@
     "Syntax/間接受格（Dative）：狀語（Adjunct）vs. 補語（Complement）判準.md",
     "Syntax/神的愛.md",
     "Syntax/否定.md",
-    "Syntax/31.4.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
