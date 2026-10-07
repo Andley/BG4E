@@ -4,7 +4,7 @@
 
 - 2:11a  ⸉<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">不過 however</span><span class="t">δὲ</span></span>⸊
 	- 2:11b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03753&m='>ὅτε</a></span><span class="g">當 When</span><span class="t">ὅτε</span></span>  ⸉⸊  (<span class="w"><span class="m">V-AAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></span><span class="g">來 came</span><span class="t"><span class='verb'>ἦλθεν</span></span></span>)P  (<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02786&m='>Κηφᾶς</a></span><span class="g">磯法 Peter</span><span class="t">Κηφᾶς</span></span>)S  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></span><span class="g">到 to</span><span class="t">εἰς</span></span>  <span class="w"><span class="m">N-ASF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00490&m='>Ἀντιόχεια</a></span><span class="g">安提阿 Antioch</span><span class="t">Ἀντιόχειαν</span></span>)A <span class='punctuation'>,</span> 
-- 2:11c  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></span><span class="g">當 to</span><span class="t">κατὰ</span></span>  <span class="w"><span class="m">N-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04383&m='>πρόσωπον</a></span><span class="g">面 face</span><span class="t">πρόσωπον</span></span>)A  (<span class="w"><span class="m">P-DSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></span><span class="g">他 his</span><span class="t">αὐτῷ</span></span>)C  (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00436&m='>ἀνθίστημι</a></span><span class="g">我反對 I opposed [him]</span><span class="t"><span class='verb'>ἀντέστην</span></span></span>)P <span class='punctuation'>,</span> 
+- 2:11c  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></span><span class="g">當 to</span><span class="t">κατὰ</span></span>  <span class="w"><span class="m">N-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04383&m='>πρόσωπον</a></span><span class="g">面 face</span><span class="t">πρόσωπον</span></span>)A  (<span class="w"><span class="m">P-DSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></span><span class="g">他 <s>his</s> him</span><span class="t">αὐτῷ</span></span>)C  (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00436&m='>ἀνθίστημι</a></span><span class="g">我反對 I opposed [him]</span><span class="t"><span class='verb'>ἀντέστην</span></span></span>)P <span class='punctuation'>,</span> 
 	- 2:11d <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></span><span class="g">因為 because</span><span class="t">ὅτι</span></span>  (<span class="w"><span class="m">V-RPP-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02607&m='>καταγινώσκω</a></span><span class="g">責備 condemned</span><span class="t"><span class='ptc'>κατεγνωσμένος</span></span></span>  <span class="w"><span class="m">V-IAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">他有 he stood</span><span class="t"><span class='verb'>ἦν</span></span></span>)P <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:12a  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04253&m='>πρό</a></span><span class="g">在之前 Before</span><span class="t">πρὸ</span></span>  <span class="w"><span class="m">T-GSN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">τοῦ</span></span>)⦇  <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></span><span class="g">原來 for</span><span class="t">γὰρ</span></span>  ⦈(⁅‹<span class="w"><span class="m">V-AAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></span><span class="g">來到 came</span><span class="t"><span class='inf'>ἐλθεῖν</span></span></span>›p  ‹<span class="w"><span class="m">X-APM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05100&m='>τις</a></span><span class="g">一些人 certain ones</span><span class="t">τινας</span></span>›s  ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></span><span class="g">從..那裡 from</span><span class="t">ἀπὸ</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02385&m='>Ἰάκωβος</a></span><span class="g">雅各 James</span><span class="t">Ἰακώβου</span></span>›a⁆)A  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></span><span class="g">和 with</span><span class="t">μετὰ</span></span>  <span class="w"><span class="m">T-GPN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τῶν</span></span>  <span class="w"><span class="m">N-GPN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01484&m='>ἔθνος</a></span><span class="g">外邦人 Gentiles</span><span class="t">ἐθνῶν</span></span>)A  (<span class="w"><span class="m">V-IAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04906&m='>συνεσθίω</a></span><span class="g">他一同吃飯 he was eating</span><span class="t"><span class='verb'>συνήσθιεν</span></span></span>)P <span class='punctuation'>·</span> 
@@ -25,8 +25,7 @@
 
 #### 句法筆記 (Syntax Notes)
 
-- 2:12a πρὸ τοῦ γὰρ <span class='inf'>ἐλθεῖν</span> τινας ἀπὸ Ἰακώβου 
-	- 介係詞 πρό ＋實名詞 = 介係詞片語，表達「時間」(進深，608-9)，其中實名詞是不定詞內嵌子句 (進深，550)。
+
 - 2:12e <span class='ptc'>φοβούμενος</span> τοὺς ἐκ περιτομῆς . 
 	- 分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法 (進深，487-8)，從上下文判斷，應該是表達「原因」(進深, 493-4)。
 - 2:14e Ἰουδαῖος <span class='ptc'>ὑπάρχων</span>
@@ -39,14 +38,17 @@
 	- ὅτε：表達時間的連接詞，帶出從屬子句
 - 2:11c κατὰ πρόσωπον αὐτῷ ἀντέστην ,
 	- κατὰ πρόσωπον：意思是「朝著臉、對著臉、當面」(BAGD)。
-	- αὐτῷ：因為主要動詞 **ἀντέστην** 帶間接受格表達所要抵擋的人 or 事物 (BAGD)，所以這裡的 αὐτῷ 要當作 C。同樣道理，interlinear 的 gloss 也該改成 him。
+	- αὐτῷ：因為主要動詞 ἀντέστην 帶間接受格表達所要抵擋的人 or 事物 (BAGD)，所以這裡的 αὐτῷ 要當作 C。同樣道理，interlinear 的 gloss 也該改成 him。
 - 2:11d ὅτι κατεγνωσμένος ἦν . 
 	- κατεγνωσμένος ἦν：迂說的分詞 (進深，510)，不完成式 εἰμί ＋ 現在完成式分詞＝過去完成式 (進深，511, 513)。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:12a πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ Ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν · 
-- 2:12b δὲ 
+	- 介係詞 πρό ＋實名詞 = 介係詞片語，表達「時間」(進深，608-9)，其中實名詞是不定詞內嵌子句 (進深，550)。
+- 2:12b δὲ：後置的對等連接詞，帶出 2:12d 的主要子句
 - 2:12c ὅτε ἦλθον , 
+	- ὅτε：表達時間的連接詞，帶出從屬子句
 - 2:12d ὑπέστελλεν 
+	- 
 - 2:12e καὶ ἀφώριζεν ἑαυτόν φοβούμενος τοὺς ἐκ περιτομῆς . 
 - 2:13a καὶ συνυπεκρίθησαν αὐτῷ καὶ οἱ λοιποὶ Ἰουδαῖοι , 
 - 2:13b ὥστε καὶ Βαρνάβας συναπήχθη αὐτῶν τῇ ὑποκρίσει . 
