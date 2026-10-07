@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "48-Galatians/Gal.2.1-10.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -240,25 +240,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "de030ae1bb32ef23",
+        "id": "71b23f82c70bc4f7",
         "type": "window",
         "children": [
           {
-            "id": "454f1cf5593657d1",
+            "id": "7e15a448baa3e729",
             "type": "tabs",
             "children": [
               {
-                "id": "897c28cffd02e760",
+                "id": "d05e128a624b20ea",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "48-Galatians/old-Gal.2.1-5.md",
+                    "file": "48-Galatians/old-Gal.2.6-10.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "old-Gal.2.1-5"
+                  "title": "old-Gal.2.6-10"
                 }
               }
             ]
@@ -269,13 +269,15 @@
         "y": 0,
         "width": 1026,
         "height": 731,
-        "maximize": false,
+        "maximize": true,
         "zoom": 1.5
       }
     ]
   },
   "active": "5338c4cac0644232",
   "lastOpenFiles": [
+    "48-Galatians/old-Gal.2.6-10.md",
+    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/old-Gal.2.1-5.md",
     "48-Galatians/Pasted image 20260811160939.png",
     "48-Galatians/Untitled.md",
@@ -293,7 +295,6 @@
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
-    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.1.11-24.md",
     "48-Galatians/Gal.1.1-5.md",
