@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "48-Galatians/Gal.2.11-14.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.1-10.md",
+                "file": "48-Galatians/Gal.2.11-14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.1-10"
+              "title": "Gal.2.11-14"
             }
           }
         ]
@@ -234,11 +234,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac6fa5647e5023ac",
+  "active": "5338c4cac0644232",
   "lastOpenFiles": [
+    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.4.21-5.1.md",
-    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/old-Gal.2.11-14.md",
     "48-Galatians/old-Gal.2.6-10.md",
     "48-Galatians/old-Gal.2.1-5.md",
