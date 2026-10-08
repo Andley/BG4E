@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.11-14.md",
+                "file": "48-Galatians/Gal.2.1-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.11-14"
+              "title": "Gal.2.1-10"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.2.11-14.md",
+                "file": "GDNTG/Chapter07.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.2.11-14"
+              "title": "Chapter07"
             }
           }
         ]
@@ -236,8 +236,10 @@
   },
   "active": "5338c4cac0644232",
   "lastOpenFiles": [
-    "48-Galatians/Gal.2.1-10.md",
+    "GDNTG/Chapter07.md",
+    "48-Galatians/Gal.2.15-21.md",
     "48-Galatians/Gal.2.11-14.md",
+    "48-Galatians/Gal.2.1-10.md",
     "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/old-Gal.2.11-14.md",
     "48-Galatians/old-Gal.2.6-10.md",
@@ -252,7 +254,6 @@
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Gal.1.6-10.md",
     "48-Galatians/Gal.3.1-14.md",
-    "48-Galatians/Gal.2.15-21.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "48-Galatians/ἐὰν μὴ.md",
     "GDNTG/Chapter04.md",
@@ -262,7 +263,6 @@
     "48-Galatians/Gal.1.1-5.md",
     "GDNTG/Chapter10.md",
     "Syntax/Apposition.md",
-    "Syntax/Copular Verb.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
