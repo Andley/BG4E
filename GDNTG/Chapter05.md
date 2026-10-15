@@ -11,11 +11,37 @@ number headings: auto, first-level 1, start-at 5
 
 ## 5.1 進深 GOING DEEPER
 
+- 多2:13  <RUBY><ruby><ruby><span class='ptc'>προσδεχόμενοι</span><rt>等待 awaiting</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04327&m='>προσδέχομαι</a></rt></ruby><rt>V-PMP-NPM</rt></RUBY>  
+	- <RUBY><ruby><ruby>τὴν<rt>那 the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASF</rt></RUBY>  <RUBY><ruby><ruby>μακαρίαν<rt>有福 blessed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03107&m='>μακάριος</a></rt></ruby><rt>A-ASF</rt></RUBY>  <RUBY><ruby><ruby>ἐλπίδα<rt>盼望 hope</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01680&m='>ἐλπίς</a></rt></ruby><rt>N-ASF</rt></RUBY>  
+	- <RUBY><ruby><ruby>καὶ<rt>並且 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ἐπιφάνειαν<rt>顯現 [the] appearing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02015&m='>ἐπιφάνεια</a></rt></ruby><rt>N-ASF</rt></RUBY>  <RUBY><ruby><ruby>τῆς<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY>  <RUBY><ruby><ruby>δόξης<rt>榮耀 glory</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></rt></ruby><rt>N-GSF</rt></RUBY>  
+		- <RUBY><ruby><ruby>τοῦ<rt>那 of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>μεγάλου<rt>偉大 great</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03173&m='>μέγας</a></rt></ruby><rt>A-GSM</rt></RUBY>  <RUBY><ruby><ruby>Θεοῦ<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Σωτῆρος<rt>救主 Savior</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04990&m='>σωτήρ</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>ἡμῶν<rt>我們 of us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GP</rt></RUBY>  <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌 Jesus</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02424&m='>Ἰησοῦς</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>Χριστοῦ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY> <span class='punctuation'>,</span> 
+
 ## 5.2 本課目標 CHAPTER OBJECTIVES
 
 ## 5.3 冠詞 THE ARTICLE
 
 ### 5.3.1 介紹冠詞 Introduction to the Article
+
+|冠詞的用法|類別名稱|<|
+|---|---|---|
+|帶實名詞<br>WITH SUBSTANTIVES|特殊的<br>Particular|指認 Identification|
+|^|^|出類拔萃 Par Excellence|
+|^|^|獨一 Monadic|
+|^|^|帶抽象名詞 With Abstract Nouns|
+|^|^|前指 Previous Reference|
+|^|通類的 Generic|<|
+|作代名詞<br>AS A PRONOUN|作人稱代名詞 As Personal Pronoun|<|
+|^|作關係代名詞As Relative Pronoun|<|
+|^|作所有代名詞As Possessive Pronoun|<|
+|^|作指示代名詞As Demonstrative Pronoun|<|
+|^|作選擇性的代名詞As Alternate Pronoun|<|
+|無冠詞<br>ABSENCE OF ARTICLE|非特殊的<br>Non-particular|非特定的 Indefinite|
+|^|^|定性的 Qualitative|
+|^|特定的 Definite|<|
+|特殊規則<br>SPECIAL RULES|夏普規則 Granville Sharp Rule|<|
+|^|柯威爾規則 Colwell’s Rule|<|
+|^|亞波羅規則 Apollonius’s Canon|<|
+
 
 ### 5.3.2 冠詞帶實名詞 The Article with Substantives
 
@@ -43,11 +69,11 @@ number headings: auto, first-level 1, start-at 5
 2. 關係代名詞 Relative pronouns：<br><br>
 	- 太5:16 <RUBY><ruby><ruby><span class='verb'>δοξάσωσιν</span><rt>榮耀 they should glorify</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01392&m='>δοξάζω</a></rt></ruby><rt>V-AAS-3P</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>πατέρα<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們 of you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>**τὸν**<rt>**- -**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在上 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς<rt>天 heavens</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-DPM</rt></RUBY> 
 3. 所有代名詞 Possessive pronouns：<br><br>
-	- 路15:12 <RUBY><ruby><ruby>ὁ<rt>他 -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>就 And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>διεῖλεν</span><rt>分 he divided</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01244&m='>διαιρέω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς<rt>給他們 between them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>**τὸν**<rt**>- the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>βίον<rt>財產 property</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00979&m='>βίος</a></rt></ruby><rt>N-ASM</rt></RUBY> <span class='punctuation'>.</span>
+	- 路15:12 <RUBY><ruby><ruby>ὁ<rt>他 -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>就 And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>διεῖλεν</span><rt>分 he divided</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01244&m='>διαιρέω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>αὐτοῖς<rt>給他們 between them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-DPM</rt></RUBY> <RUBY><ruby><ruby>**τὸν**<rt>**- the**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>βίον<rt>財產 property</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00979&m='>βίος</a></rt></ruby><rt>N-ASM</rt></RUBY> <span class='punctuation'>.</span>
 4. 指示代名詞 Demonstrative pronouns：<br><br>
 	- 太14:33 <RUBY><ruby><ruby>**οἱ**<rt>**那些 Those**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在上 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>πλοίῳ<rt>船 boat</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04143&m='>πλοῖον</a></rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>προσεκύνησαν</span><rt>拜 worshiped</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04352&m='>προσκυνέω</a></rt></ruby><rt>V-AAI-3P</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>他 Him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-DSM</rt></RUBY> 
 5. 選擇性代名詞 Alternate pronouns：<br><br>
-	- 弗4:11 <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐτὸς<rt>他 He</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>ἔδωκεν</span><rt>賜 gave</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01325&m='>δίδωμι</a></rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>有些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>- indeed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03303&m='>μέν</a></rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἀποστόλους<rt>使徒 [to be] apostles</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>τοὺς<rt>有些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>προφήτας<rt>先知 prophets</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04396&m='>προφήτης</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>τοὺς<rt>有些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελιστάς<rt>傳福音者 evangelists</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02099&m='>εὐαγγελιστής</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>τοὺς<rt>有些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ποιμένας<rt>牧師 shepherds</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04166&m='>ποιμήν</a></rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διδασκάλους<rt>教師 teachers</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01320&m='>διδάσκαλος</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span>
+	- 弗4:11 <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐτὸς<rt>他 He</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby><span class='verb'>ἔδωκεν</span><rt>賜 gave</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01325&m='>δίδωμι</a></rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>有些人 some</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>μὲν<rt>- indeed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03303&m='>μέν</a></rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ἀποστόλους<rt>使徒 [to be] apostles</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>**τοὺς**<rt>**有些人 some**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>προφήτας<rt>先知 prophets</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04396&m='>προφήτης</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>**τοὺς**<rt>**有些人 some**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εὐαγγελιστάς<rt>傳福音者 evangelists</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02099&m='>εὐαγγελιστής</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span> <RUBY><ruby><ruby>**τοὺς**<rt>**有些人 some**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ποιμένας<rt>牧師 shepherds</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04166&m='>ποιμήν</a></rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διδασκάλους<rt>教師 teachers</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01320&m='>διδάσκαλος</a></rt></ruby><rt>N-APM</rt></RUBY> <span class='punctuation'>,</span>
 
 ### 5.3.4 無冠詞 The Absence of the Article
 1. 人名：<br><br>
@@ -86,7 +112,27 @@ number headings: auto, first-level 1, start-at 5
 
 ### 5.4.1 介紹形容詞 Introduction to the Adjective
 
+太26:27  <RUBY><ruby><ruby><span class='verb'>Πίετε</span><rt>你們喝 Drink</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04095&m='>πίνω</a></rt></ruby><rt>V-AAM-2P</rt></RUBY>  <RUBY><ruby><ruby>ἐξ<rt>- of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>αὐτοῦ<rt>它 it</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSN</rt></RUBY>  <RUBY><ruby><ruby>**πάντες**<rt>**每一個 all of you**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></rt></ruby><rt>A-NPM</rt></RUBY> <span class='punctuation'>,</span> 
+
+
 ### 5.4.2 形容詞的一般用法 General Use of the Adjective
+
+
+|有冠詞的形容詞句型<br>ARTICULAR ADJECTIVAL CONSTRUCTIONS|<|<|<|
+|---|---|---|---|
+||第一位置<br>1ST POSITION|第二位置<br>2ND POSITION|第三位置<br>3RD POSITION|
+|敘述用法<br>PREDICATE|A—T—N<br>Adjective-Article-Noun (ἀγαθὸς ὁ ἄνθρωπος = “the man is good”)|T—N—A<br>Article-Noun-Adjective (ὁ ἄνθρωπος ἀγαθός = “the man is good”)|無<br>None|
+|形容用法<br>ATTRIBUTIVE|T—A—N<br>rticle-Adjective-Noun (ὁ ἀγαθὸς ἄνθρωπος = “the good man”)|T—N—T—A<br>Article-Noun-Article-Adjective (ὁ ἄνθρωπος ὁ ἀγαθός = “the good man”)|N—T—A<br>Noun-Article-Adjective (ἄνθρωπος ὁ ἀγαθός = “the good man”)|
+
+|無冠詞的形容詞句型<br>ANARTHROUS ADJECTIVAL CONSTRUCTIONS|<|<|<|
+|---|---|---|---|
+||第一位置<br>1ST POSITION|第二位置<br>2ND POSITION|第四位置<br>4TH POSITION<sup>a</sup>|
+|敘述用法<br>PREDICATE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος =“a man is good”)|N—A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a man is good”)|無<br>None|
+|形容用法<br>ATTRIBUTIVE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος = “a good man”)|無<br>None|N——A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a good man”)|
+|<sup>a</sup>The reason “fourth position” is used is that there is no article at all in the construction, whereas the first through third attributive positions all have the article.|<|<|<|
+
+When it comes to distinguishing the attributive from the predicate use, the following rule applies: when the adjective is immediat
+
 
 ### 5.4.3 敘述用法 Predicate Use
 
