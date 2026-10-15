@@ -128,10 +128,9 @@ number headings: auto, first-level 1, start-at 5
 |---|---|---|---|
 ||第一位置<br>1ST POSITION|第二位置<br>2ND POSITION|第四位置<br>4TH POSITION<sup>a</sup>|
 |敘述用法<br>PREDICATE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος =“a man is good”)|N—A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a man is good”)|無<br>None|
-|形容用法<br>ATTRIBUTIVE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος = “a good man”)|無<br>None|N——A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a good man”)|
+|形容用法<br>ATTRIBUTIVE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος = “a good man”)|無<br>None|N—A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a good man”)|
 |<sup>a</sup>The reason “fourth position” is used is that there is no article at all in the construction, whereas the first through third attributive positions all have the article.|<|<|<|
 
-When it comes to distinguishing the attributive from the predicate use, the following rule applies: when the adjective is immediat
 
 
 ### 5.4.3 敘述用法 Predicate Use

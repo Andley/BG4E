@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "GDNTG/Chapter06.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "Chapter06"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "GDNTG/Chapter06.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "Chapter06"
             }
           }
         ]
@@ -237,8 +237,11 @@
   },
   "active": "7a054edaae616e95",
   "lastOpenFiles": [
-    "GDNTG/Chapter04.md",
     "GDNTG/Chapter05.md",
+    "GDNTG/Chapter06.md",
+    "GDNTG/Chapter04.md",
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter02.md",
     "48-Galatians/Gal.3.1-14.md",
     "48-Galatians/old-Gal.4.21-5.1.md",
     "48-Galatians/ὅτι 帶出內嵌主語子句.md",
@@ -261,9 +264,6 @@
     "48-Galatians/Galatians-Interlinear-3lines.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Gal.1.6-10.md",
-    "46-1Corinthians/1Co.11.2-16.md",
-    "GDNTG/Chapter03.md",
-    "GDNTG/Chapter02.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",

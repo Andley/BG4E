@@ -9,6 +9,13 @@ number headings: auto, first-level 1, start-at 6
 # 6 動詞：概論、語態 & 語氣 VERBS: OVERVIEW, VOICE & MOOD
 
 ## 6.1 進深 GOING DEEPER
+- 羅10:14  <RUBY><ruby><ruby>Πῶς<rt>怎麼 How</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>οὖν<rt>既然這樣 then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03767&m='>οὖν</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐπικαλέσωνται</span><rt>他們能求告 shall they call</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01941&m='>ἐπικαλέω</a></rt></ruby><rt>V-AMS-3P</rt></RUBY>  <RUBY><ruby><ruby>εἰς<rt>- on [Him]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>ὃν<rt>他 whom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-ASM</rt></RUBY>  <RUBY><ruby><ruby>οὐκ<rt>未曾 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐπίστευσαν</span><rt>相信 they believed?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-AAI-3P</rt></RUBY> <span class='punctuation'>;</span>  
+- <RUBY><ruby><ruby>πῶς<rt>怎麼 How</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>πιστεύσωσιν</span><rt>能相信 shall they believe on [Him]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-AAS-3P</rt></RUBY>  <RUBY><ruby><ruby>οὗ<rt>他 of whom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-GSM</rt></RUBY>  <RUBY><ruby><ruby>οὐκ<rt>未曾 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἤκουσαν</span><rt>聽見 they have heard?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAI-3P</rt></RUBY> <span class='punctuation'>;</span>  
+- 羅10:15<RUBY><ruby><ruby>πῶς<rt>怎麼 How</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἀκούσωσιν</span><rt>能聽見 shall they hear</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></rt></ruby><rt>V-AAS-3P</rt></RUBY>  <RUBY><ruby><ruby>χωρὶς<rt>沒有 apart from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05565&m='>χωρίς</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby><span class='ptc'>κηρύσσοντος</span><rt>他們傳道 preaching?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02784&m='>κηρύσσω</a></rt></ruby><rt>V-PAP-GSM</rt></RUBY> <span class='punctuation'>;</span> 
+- <RUBY><ruby><ruby>πῶς<rt>怎麼 How</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></rt></ruby><rt>ADV</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>κηρύξωσιν</span><rt>能傳道 shall they preach</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02784&m='>κηρύσσω</a></rt></ruby><rt>V-AAS-3P</rt></RUBY>  <RUBY><ruby><ruby>ἐὰν<rt>若 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01437&m='>ἐάν</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>沒有 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἀποσταλῶσιν</span><rt>奉差遣 they are sent?</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00649&m='>ἀποστέλλω</a></rt></ruby><rt>V-APS-3P</rt></RUBY> <span class='punctuation'>;</span>  
+
+
+
 
 ## 6.2 本課目標 CHAPTER OBJECTIVES
 
@@ -16,6 +23,17 @@ number headings: auto, first-level 1, start-at 6
 ## 6.3 介紹 INTRODUCTION
 
 ## 6.4 人稱與數 PERSON & NUMBER
+
+||單數 SINGULAR|複數 PLURAL|
+|---|---|--|
+|第一人稱 FIRST|我 I|我們 we|
+|第二人稱 SECOND|你 you (sg)|你們 you (pl)|
+|第三人稱 THIRD|他 he, 她she, 它 it|他們 they|
+
+- gal 2:18
+- rom 1:5
+- 1cor 3:9
+- act1:18
 
 ## 6.5 語態 VOICE
 
