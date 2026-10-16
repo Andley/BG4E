@@ -11,12 +11,6 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "1Pe 1:",
-      "lastUsedAt": 1787790571867,
-      "createdAt": 1787787539708,
-      "count": 2
-    },
-    {
       "text": "1Pe",
       "lastUsedAt": 1787882893823,
       "createdAt": 1787882893823,
@@ -68,6 +62,12 @@
       "text": "<tr>",
       "lastUsedAt": 1790250267669,
       "createdAt": 1790250267669,
+      "count": 1
+    },
+    {
+      "text": "<span class='punctuation'>,</span>\\n",
+      "lastUsedAt": 1792116655362,
+      "createdAt": 1792116655362,
       "count": 1
     }
   ]
