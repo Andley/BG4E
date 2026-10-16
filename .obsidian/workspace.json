@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f65eaa9ffe896ecc",
+        "id": "1221e24f822128a3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a054edaae616e95",
+            "id": "269ac4c6c0a768e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter06.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter06"
-            }
-          }
-        ]
-      },
-      {
-        "id": "85360116e1e5139a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b2d593ef341d5212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter06.md",
+                "file": "GDNTG/Chapter05.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter06"
+              "title": "Chapter05"
             }
           }
         ]
@@ -75,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Chapter06.md",
+                "file": "GDNTG/Chapter05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -114,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,10 +215,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a054edaae616e95",
+  "active": "269ac4c6c0a768e9",
   "lastOpenFiles": [
-    "GDNTG/Chapter05.md",
     "GDNTG/Chapter06.md",
+    "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",

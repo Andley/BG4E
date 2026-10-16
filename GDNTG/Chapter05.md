@@ -22,6 +22,13 @@ number headings: auto, first-level 1, start-at 5
 
 ### 5.3.1 介紹冠詞 Introduction to the Article
 
+|實名詞<br>SUBSTANTIVE|用法 1<br>USE 1|用法 2<br>USE 2|
+|:---:|:---:|:---:|
+|帶冠詞的<br>ARTICULAR|(a) 特殊的<br>Particular|(c) 通類的<br>Generic|
+|不帶冠詞的<br>ANARTHROUS|(b) 非特殊的<br>Non-particular|(d) 特定的<br>Definite|
+
+
+
 |冠詞的用法|類別名稱|<|
 |---|---|---|
 |帶實名詞<br>WITH SUBSTANTIVES|特殊的<br>Particular|指認 Identification|
