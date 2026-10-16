@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Chapter03.md",
+                "file": "GDNTG/Chapter06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -114,11 +114,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
