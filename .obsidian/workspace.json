@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7da3ebb44099a5aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63c9f33a978d8253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "47-2Corinthians/2Co.3.7-18.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2Co.3.7-18"
-            }
-          }
-        ]
-      },
-      {
         "id": "77ec6aaa701f9631",
         "type": "tabs",
         "children": [
@@ -118,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -234,7 +215,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "63c9f33a978d8253",
+  "active": "e52065600719a66d",
   "lastOpenFiles": [
     "47-2Corinthians/2Co.2.12-13.md",
     "GDNTG/Chapter05.md",

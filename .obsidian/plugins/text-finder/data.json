@@ -11,64 +11,96 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "1Pe",
-      "lastUsedAt": 1787882893823,
-      "createdAt": 1787882893823,
-      "count": 1
-    },
-    {
-      "text": "<span class='ptc'",
-      "lastUsedAt": 1789196978417,
-      "createdAt": 1789196975304,
-      "count": 1
-    },
-    {
-      "text": "<span class='verb'>",
-      "lastUsedAt": 1789198621618,
-      "createdAt": 1789198618447,
-      "count": 1
-    },
-    {
-      "text": "</span>",
-      "lastUsedAt": 1789198656458,
-      "createdAt": 1789197013638,
-      "count": 2
-    },
-    {
-      "text": "°",
-      "lastUsedAt": 1789374821533,
-      "createdAt": 1786428466440,
-      "count": 5
-    },
-    {
-      "text": "<td>",
-      "lastUsedAt": 1790250250051,
-      "createdAt": 1790250249700,
-      "count": 1
-    },
-    {
-      "text": "</td>",
-      "lastUsedAt": 1790250255685,
-      "createdAt": 1790250255685,
-      "count": 1
-    },
-    {
-      "text": "</tr>",
-      "lastUsedAt": 1790250263051,
-      "createdAt": 1790250263051,
+      "text": "<span class='punctuation'>,</span>\\n",
+      "createdAt": 1792116655362,
+      "lastUsedAt": 1792116655362,
       "count": 1
     },
     {
       "text": "<tr>",
-      "lastUsedAt": 1790250267669,
       "createdAt": 1790250267669,
+      "lastUsedAt": 1790250267669,
       "count": 1
     },
     {
-      "text": "<span class='punctuation'>,</span>\\n",
-      "lastUsedAt": 1792116655362,
-      "createdAt": 1792116655362,
+      "text": "</tr>",
+      "createdAt": 1790250263051,
+      "lastUsedAt": 1790250263051,
       "count": 1
+    },
+    {
+      "text": "</td>",
+      "createdAt": 1790250255685,
+      "lastUsedAt": 1790250255685,
+      "count": 1
+    },
+    {
+      "text": "<td>",
+      "createdAt": 1790250249700,
+      "lastUsedAt": 1790250250051,
+      "count": 1
+    },
+    {
+      "text": "°",
+      "createdAt": 1786428466440,
+      "lastUsedAt": 1789374821533,
+      "count": 5
+    },
+    {
+      "text": "</span>",
+      "createdAt": 1789197013638,
+      "lastUsedAt": 1789198656458,
+      "count": 2
+    },
+    {
+      "text": "<span class='verb'>",
+      "createdAt": 1789198618447,
+      "lastUsedAt": 1789198621618,
+      "count": 1
+    },
+    {
+      "text": "<span class='ptc'",
+      "createdAt": 1789196975304,
+      "lastUsedAt": 1789196978417,
+      "count": 1
+    },
+    {
+      "text": "1Pe",
+      "createdAt": 1787882893823,
+      "lastUsedAt": 1787882893823,
+      "count": 1
+    }
+  ],
+  "searchToolbar": [
+    {
+      "id": "regex",
+      "placement": "inline"
+    },
+    {
+      "id": "case",
+      "placement": "inline"
+    },
+    {
+      "id": "previous",
+      "placement": "inline"
+    },
+    {
+      "id": "next",
+      "placement": "inline"
+    },
+    {
+      "id": "history",
+      "placement": "hidden"
+    }
+  ],
+  "replaceToolbar": [
+    {
+      "id": "replace",
+      "placement": "inline"
+    },
+    {
+      "id": "replaceAll",
+      "placement": "inline"
     }
   ]
 }

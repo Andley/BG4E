@@ -78,10 +78,10 @@ var require_dist = __commonJS({
           return 7;
         } }).a != 7;
       });
-      var document2 = _global.document;
-      var is = _isObject(document2) && _isObject(document2.createElement);
+      var document = _global.document;
+      var is = _isObject(document) && _isObject(document.createElement);
       var _domCreate = function(it) {
-        return is ? document2.createElement(it) : {};
+        return is ? document.createElement(it) : {};
       };
       var _ie8DomDefine = !_descriptors && !_fails(function() {
         return Object.defineProperty(_domCreate("div"), "a", { get: function() {
@@ -1432,304 +1432,87 @@ var SheetSettingsTab = class extends import_obsidian.PluginSettingTab {
     super(app, plugin);
     this.plugin = plugin;
   }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Native table post processing").setDesc(
-      "Apply Sheets Extended features (cell merging, vertical headers, custom CSS) to ordinary Markdown tables in both reading mode and Live Preview."
-    ).addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.nativeProcessing).onChange(async (value) => {
-        this.plugin.settings.nativeProcessing = value;
-        await this.plugin.saveSettings();
-        this.refreshViews();
-      })
-    );
+  getSettingDefinitions() {
+    return [{
+      name: "Native table post processing",
+      desc: "Apply cell merging, vertical headers and custom CSS to ordinary Markdown tables in reading mode and live preview.",
+      control: { type: "toggle", key: "nativeProcessing", defaultValue: true }
+    }];
+  }
+  getControlValue(key) {
+    return key === "nativeProcessing" ? this.plugin.settings.nativeProcessing : void 0;
+  }
+  async setControlValue(key, value) {
+    if (key !== "nativeProcessing" || typeof value !== "boolean")
+      return;
+    this.plugin.settings.nativeProcessing = value;
+    await this.plugin.saveSettings();
+    this.refreshViews();
   }
   /** Re-render open Markdown views so a setting change takes effect immediately. */
   refreshViews() {
     this.app.workspace.updateOptions();
     this.app.workspace.getLeavesOfType("markdown").forEach((leaf) => {
-      var _a, _b, _c;
+      var _a, _b;
       const view = leaf.view;
       if (!(view instanceof import_obsidian.MarkdownView))
         return;
       (_a = view.previewMode) == null ? void 0 : _a.rerender(true);
-      const cm = (_b = view.editor) == null ? void 0 : _b.cm;
-      (_c = cm == null ? void 0 : cm.dispatch) == null ? void 0 : _c.call(cm, {});
+      const cm = view.editor.cm;
+      (_b = cm == null ? void 0 : cm.dispatch) == null ? void 0 : _b.call(cm, {});
     });
   }
 };
 
 // src/sheetElement.ts
 var import_obsidian2 = require("obsidian");
-var JSON5 = __toESM(require_dist());
-var MERGE_UP_SIGNIFIER = "^";
-var MERGE_LEFT_SIGNIFIER = "<";
-var HEADER_DELIMETER = "-";
-var META_DELIMETER = "---";
-var SheetElement = class extends import_obsidian2.MarkdownRenderChild {
-  constructor(el, source, ctx, app, plugin) {
-    super(el);
-    this.el = el;
-    this.source = source;
-    this.ctx = ctx;
-    this.app = app;
-    this.plugin = plugin;
-    this.globalStyle = {};
-    this.cellMaxLength = 0;
-    this.rowMaxLength = 0;
-    this.rowStyles = [];
-    this.colStyles = [];
-    this.domGrid = [];
-  }
-  async onload() {
-    this.metaRE = new RegExp(String.raw`^${META_DELIMETER}\s*?(?:~(.*?))?\s*?\n+`, "mg");
-    this.newLineRE = new RegExp(String.raw`\n`);
-    this.cellBorderRE = new RegExp(String.raw`(?<!\\)\|`);
-    this.headerRE = new RegExp(String.raw`^\s*?(:)?(?:${HEADER_DELIMETER})+?(:)?\s*?(?:(?<!\\)~(.*?))?$`);
-    this.parseInputToGrid();
-    this.validateInput();
-    this.normalizeGrid();
-    this.table = this.el;
-    this.table.id = "obsidian-sheets-parsed";
-    this.tableHead = this.table.createEl("thead");
-    this.tableBody = this.table.createEl("tbody");
-    this.getHeaderBoundaries();
-    this.getHeaderStyles();
-    this.buildDomTable();
-  }
-  onunload() {
-  }
-  displayError(error) {
-    this.el.createDiv({
-      text: `
-Error: \`${error}\`
-
-`,
-      cls: "obs-sheets_error"
-    });
-    this.unload();
-  }
-  parseInputToGrid() {
-    var _a;
-    if (!this.metaRE.test(this.source))
-      return this.contentGrid = this.source.split(this.newLineRE).filter((row) => this.cellBorderRE.test(row)).map((row) => row.split(this.cellBorderRE).map((cell) => cell.trim()));
-    const [meta, unparsedStyle, source] = this.source.split(this.metaRE);
-    this.parseMetadata(meta);
-    if (unparsedStyle) {
-      let cellStyle = {};
-      const cls = unparsedStyle.match(/\.\S+/g) || [];
-      cls.forEach((cssClass) => {
-        var _a2;
-        cellStyle = { ...cellStyle, ...((_a2 = this.styles) == null ? void 0 : _a2[cssClass.slice(1)]) || {} };
-      });
-      const inlineStyle = ((_a = unparsedStyle.match(/\{.*\}/)) == null ? void 0 : _a[0]) || "{}";
-      try {
-        cellStyle = { ...cellStyle, ...JSON5.parse(inlineStyle) };
-      } catch (e) {
-        console.error(`Invalid cell style \`${inlineStyle}\``);
-      }
-      this.globalStyle = cellStyle;
-    }
-    return this.contentGrid = source.split(this.newLineRE).map((row) => row.split(this.cellBorderRE).map((cell) => cell.trim()));
-  }
-  parseMetadata(meta) {
-    let metadata;
-    try {
-      metadata = JSON5.parse(meta);
-    } catch (error) {
-      return this.displayError("Metadata is not proper JSON");
-    }
-    this.metadata = metadata;
-    if (metadata.classes) {
-      this.styles = metadata.classes;
-    }
-  }
-  validateInput() {
-    if (!this.contentGrid.every(
-      (row) => {
-        var _a, _b;
-        return !((_a = row.pop()) == null ? void 0 : _a.trim()) && !((_b = row.shift()) == null ? void 0 : _b.trim());
-      }
-    ))
-      return this.displayError("Malformed table");
-  }
-  normalizeGrid() {
-    for (let rowIndex = 0; rowIndex < this.contentGrid.length; rowIndex++) {
-      const row = this.contentGrid[rowIndex];
-      if (this.rowMaxLength < row.length)
-        this.rowMaxLength = row.length;
-      for (let colIndex = 0; colIndex < row.length; colIndex++)
-        if (this.cellMaxLength < row[colIndex].trim().length)
-          this.cellMaxLength = row[colIndex].trim().length;
-    }
-    this.contentGrid = this.contentGrid.map(
-      (line) => Array.from(
-        { ...line, length: this.rowMaxLength },
-        (cell) => cell || ""
-      )
-    );
-  }
-  getHeaderBoundaries() {
-    this.headerRow = this.contentGrid.findIndex(
-      (headerRow) => headerRow.every((headerCol) => this.headerRE.test(headerCol))
-    );
-    this.headerCol = this.contentGrid[0].map(
-      (_, i) => this.contentGrid.map((row) => row[i])
-    ).findIndex(
-      (headerCol) => headerCol.every((headerCol2) => this.headerRE.test(headerCol2))
-    );
-  }
-  getHeaderStyles() {
-    if (this.headerRow !== -1)
-      this.colStyles = this.contentGrid[this.headerRow].map((rowHead) => {
-        var _a, _b;
-        let styles = {};
-        const alignment = rowHead.match(this.headerRE);
-        if (!alignment)
-          return { classes: [], styles };
-        else if (alignment[1] && alignment[2])
-          styles["textAlign"] = "center";
-        else if (alignment[1])
-          styles["textAlign"] = "left";
-        else if (alignment[2])
-          styles["textAlign"] = "right";
-        const classes = ((_b = (_a = alignment[3]) == null ? void 0 : _a.match(/(?<=\.)\S+/g)) == null ? void 0 : _b.map(String)) || [];
-        classes.forEach(
-          (cssClass) => {
-            var _a2;
-            return styles = {
-              ...styles,
-              ...((_a2 = this.styles) == null ? void 0 : _a2[cssClass]) || {}
-            };
-          }
-        );
-        return { classes, styles };
-      });
-    if (this.headerCol !== -1)
-      this.rowStyles = this.contentGrid[0].map(
-        (_, i) => this.contentGrid.map((row) => row[i])
-      )[this.headerCol].map((rowHead) => {
-        var _a, _b;
-        let styles = {};
-        const alignment = rowHead.match(this.headerRE);
-        if (!alignment)
-          return { classes: [], styles };
-        else if (alignment[1] && alignment[2])
-          styles["textAlign"] = "center";
-        else if (alignment[1])
-          styles["textAlign"] = "left";
-        else if (alignment[2])
-          styles["textAlign"] = "right";
-        const classes = ((_b = (_a = alignment[3]) == null ? void 0 : _a.match(/(?<=\.)\S+/g)) == null ? void 0 : _b.map(String)) || [];
-        classes.forEach(
-          (cssClass) => {
-            var _a2;
-            return styles = {
-              ...styles,
-              ...((_a2 = this.styles) == null ? void 0 : _a2[cssClass]) || {}
-            };
-          }
-        );
-        return { classes, styles };
-      });
-  }
-  buildDomTable() {
-    for (let rowIndex = 0; rowIndex < this.contentGrid.length; rowIndex++)
-      this.buildDomRow(rowIndex);
-  }
-  buildDomRow(rowIndex) {
-    const rowContents = this.contentGrid[rowIndex];
-    let rowNode = this.tableBody.createEl("tr");
-    if (rowIndex < this.headerRow)
-      rowNode = this.tableHead.createEl("tr");
-    else if (rowIndex === this.headerRow)
-      return;
-    this.domGrid[rowIndex] = [];
-    for (let columnIndex = 0; columnIndex < rowContents.length; columnIndex++)
-      this.buildDomCell(rowIndex, columnIndex, rowNode);
-  }
-  async buildDomCell(rowIndex, columnIndex, rowNode) {
-    var _a, _b, _c, _d, _e, _f, _g, _h, _i;
-    const [
-      cellContent,
-      cellStyles
-    ] = this.contentGrid[rowIndex][columnIndex].split(/(?<![\\~])~(?!~)/);
-    let cls = [];
-    let cellStyle = this.globalStyle;
-    if (this.rowStyles[rowIndex]) {
-      cellStyle = { ...cellStyle, ...this.rowStyles[rowIndex].styles };
-      cls.push(...this.rowStyles[rowIndex].classes);
-    }
-    if (this.colStyles[columnIndex]) {
-      cellStyle = { ...cellStyle, ...this.colStyles[columnIndex].styles };
-      cls.push(...this.colStyles[columnIndex].classes);
-    }
-    if (cellStyles) {
-      cls = cellStyles.match(/(?<=\.)\S+/g) || [];
-      cls.forEach((cssClass) => {
-        var _a2;
-        cellStyle = { ...cellStyle, ...((_a2 = this.styles) == null ? void 0 : _a2[cssClass]) || {} };
-      });
-      const inlineStyle = ((_a = cellStyles.match(/\{.*\}/)) == null ? void 0 : _a[0]) || "{}";
-      try {
-        cellStyle = { ...cellStyle, ...JSON5.parse(inlineStyle) };
-      } catch (e) {
-        console.error(`Invalid cell style \`${inlineStyle}\``);
-      }
-    }
-    let cellTag = "td";
-    let cell;
-    if (columnIndex === this.headerCol || rowIndex === this.headerRow)
-      return;
-    else if (columnIndex < this.headerCol || rowIndex < this.headerRow)
-      cellTag = "th";
-    if (cellContent == MERGE_LEFT_SIGNIFIER && ((_c = (_b = this.domGrid) == null ? void 0 : _b[rowIndex]) == null ? void 0 : _c[columnIndex - 1])) {
-      cell = this.domGrid[rowIndex][columnIndex - 1];
-      (cell == null ? void 0 : cell.colSpan) || Object.assign(cell, { colSpan: 1 });
-      cell.colSpan = columnIndex - parseInt(cell.getAttribute("col-index") || columnIndex.toString()) + 1;
-    } else if (cellContent == MERGE_UP_SIGNIFIER && ((_e = (_d = this.domGrid) == null ? void 0 : _d[rowIndex - 1]) == null ? void 0 : _e[columnIndex])) {
-      cell = this.domGrid[rowIndex - 1][columnIndex];
-      (cell == null ? void 0 : cell.rowSpan) || Object.assign(cell, { rowSpan: 1 });
-      cell.rowSpan = rowIndex - parseInt(cell.getAttribute("row-index") || "0") + 1;
-    } else if (((_g = (_f = this.domGrid) == null ? void 0 : _f[rowIndex - 1]) == null ? void 0 : _g[columnIndex]) && ((_i = (_h = this.domGrid) == null ? void 0 : _h[rowIndex]) == null ? void 0 : _i[columnIndex - 1]) && this.domGrid[rowIndex][columnIndex - 1] === this.domGrid[rowIndex - 1][columnIndex])
-      cell = this.domGrid[rowIndex][columnIndex - 1];
-    else {
-      cell = rowNode.createEl(cellTag, { cls });
-      cell.setAttribute("row-index", rowIndex.toString());
-      cell.setAttribute("col-index", columnIndex.toString());
-      cell.setAttribute("dir", "auto");
-      import_obsidian2.MarkdownRenderer.render(
-        this.app,
-        "\u200B " + (cellContent || "\u200B"),
-        // Make sure markdown that requires to be at the start of a line is not rendered
-        cell,
-        "",
-        this
-      ).then(() => {
-        cell.innerHTML = cell.children[0].innerHTML.replace(/^\u200B /g, "");
-      });
-      Object.assign(cell.style, cellStyle);
-    }
-    return this.domGrid[rowIndex][columnIndex] = cell;
-  }
-};
+var JSON52 = __toESM(require_dist());
 
 // src/tableModel.ts
-var JSON52 = __toESM(require_dist());
+var JSON5 = __toESM(require_dist());
 var MERGE_LEFT = "<";
 var MERGE_UP = "^";
-var CELL_STYLE_SEPARATOR = /(?<![\\~])~(?!~)/;
+function isSheetDisabled(frontmatter) {
+  return !!frontmatter && typeof frontmatter === "object" && frontmatter["disable-sheet"] === true;
+}
+var CELL_STYLE_SEPARATOR = /~(?=\s*[.{])/;
+function findStyleSeparator(text) {
+  let codeTicks = 0;
+  for (let i = 0; i < text.length; i++) {
+    if (text[i] === "\\") {
+      i++;
+      continue;
+    }
+    if (text[i] === "`") {
+      let ticks = 1;
+      while (text[i + ticks] === "`")
+        ticks++;
+      if (codeTicks === ticks)
+        codeTicks = 0;
+      else if (!codeTicks && text.indexOf("`".repeat(ticks), i + ticks) >= 0)
+        codeTicks = ticks;
+      i += ticks - 1;
+      continue;
+    }
+    if (!codeTicks && text[i] === "~" && !/[~=]/.test(text[i - 1] || "") && text.slice(i).search(CELL_STYLE_SEPARATOR) === 0) {
+      return i;
+    }
+  }
+  return -1;
+}
 var DASH_ONLY = /^\s*:?-+:?\s*$/;
 function parseStyleDirective(directive) {
   const inlineMatch = directive.match(/\{[\s\S]*\}/);
   const inline = inlineMatch == null ? void 0 : inlineMatch[0];
   const classPart = inlineMatch ? directive.replace(inlineMatch[0], "") : directive;
-  const classes = (classPart.match(/(?<=\.)\S+/g) || []).map(String);
+  const classes = Array.from(classPart.matchAll(/\.([^\s.{}]+)/g), (match) => match[1]);
   let style = {};
   if (inline) {
     try {
-      style = JSON52.parse(inline);
+      const value = JSON5.parse(inline);
+      if (value && typeof value === "object" && !Array.isArray(value)) {
+        style = Object.fromEntries(Object.entries(value).filter(([, v]) => typeof v === "string" || typeof v === "number"));
+      }
     } catch (e) {
       console.error(`[Sheets] Invalid cell style \`${inline}\``);
     }
@@ -1738,10 +1521,10 @@ function parseStyleDirective(directive) {
 }
 function parseCell(raw) {
   const trimmed = raw.trim();
-  const parts = raw.split(CELL_STYLE_SEPARATOR);
-  const hasStyle = parts.length > 1;
-  const visible = parts[0];
-  const directive = hasStyle ? parts.slice(1).join("~") : "";
+  const separator = findStyleSeparator(raw);
+  const hasStyle = separator >= 0;
+  const visible = hasStyle ? raw.slice(0, separator) : raw;
+  const directive = hasStyle ? raw.slice(separator + 1) : "";
   const { classes, style } = hasStyle ? parseStyleDirective(directive) : { classes: [], style: {} };
   const dashCandidate = visible.trim();
   let align;
@@ -1759,8 +1542,8 @@ function parseCell(raw) {
     raw,
     trimmed,
     visible,
-    mergeLeft: trimmed === MERGE_LEFT,
-    mergeUp: trimmed === MERGE_UP,
+    mergeLeft: visible.trim() === MERGE_LEFT,
+    mergeUp: visible.trim() === MERGE_UP,
     dashOnly: DASH_ONLY.test(visible.trim()),
     hasStyle,
     classes,
@@ -1769,8 +1552,22 @@ function parseCell(raw) {
   };
 }
 function splitTableSource(source) {
-  return source.split("\n").filter((line) => /(?<!\\)\|/.test(line)).map((line) => {
-    const cells = line.split(/(?<!\\)\|/).map((c) => c.trim());
+  return source.split("\n").map((line) => {
+    const cells = [];
+    let start = 0;
+    for (let i = 0; i < line.length; i++) {
+      if (line[i] === "\\") {
+        i++;
+        continue;
+      }
+      if (line[i] === "|") {
+        cells.push(line.slice(start, i).trim());
+        start = i + 1;
+      }
+    }
+    if (!cells.length)
+      return [];
+    cells.push(line.slice(start).trim());
     if (cells.length && cells[0] === "")
       cells.shift();
     if (cells.length && cells[cells.length - 1] === "")
@@ -1779,21 +1576,23 @@ function splitTableSource(source) {
   }).filter((row) => row.length > 0);
 }
 function findDelimiterRow(grid) {
-  return grid.findIndex((row) => row.length > 0 && row.every((cell) => DASH_ONLY.test(cell)));
+  return grid.findIndex((row) => row.length > 0 && row.every((cell) => parseCell(cell).dashOnly));
 }
 function findHeaderColumn(gridWithoutDelimiter) {
   if (!gridWithoutDelimiter.length)
     return -1;
   const width = Math.max(...gridWithoutDelimiter.map((r) => r.length));
   for (let col = 0; col < width; col++) {
-    let sawCell = false;
+    let sawDash = false;
     const allDash = gridWithoutDelimiter.every((row) => {
       if (col >= row.length)
         return true;
-      sawCell = true;
-      return DASH_ONLY.test(row[col]);
+      const parsed = parseCell(row[col]);
+      if (parsed.dashOnly)
+        sawDash = true;
+      return parsed.dashOnly || col > 0 && parsed.mergeLeft;
     });
-    if (sawCell && allDash)
+    if (sawDash && allDash)
       return col;
   }
   return -1;
@@ -1804,14 +1603,41 @@ var SHEETS_HIDDEN_CLASS = "sheets-hidden-cell";
 var SHEETS_ROW_HEADER_CLASS = "sheets-row-header";
 var SHEETS_MERGED_CLASS = "sheets-merged-anchor";
 var ORIGIN = /* @__PURE__ */ new WeakMap();
-function revertTable(tableEl) {
-  tableEl.querySelectorAll("." + SHEETS_HIDDEN_CLASS).forEach((el) => el.classList.remove(SHEETS_HIDDEN_CLASS));
-  tableEl.querySelectorAll("." + SHEETS_ROW_HEADER_CLASS).forEach((el) => el.classList.remove(SHEETS_ROW_HEADER_CLASS));
-  tableEl.querySelectorAll("." + SHEETS_MERGED_CLASS).forEach((el) => {
+var CHANGES = /* @__PURE__ */ new WeakMap();
+function revertCell(el) {
+  var _a;
+  el.classList.remove(SHEETS_HIDDEN_CLASS, SHEETS_ROW_HEADER_CLASS);
+  if (el.classList.contains(SHEETS_MERGED_CLASS)) {
     el.classList.remove(SHEETS_MERGED_CLASS);
     el.colSpan = 1;
     el.rowSpan = 1;
-  });
+  }
+  const changes = CHANGES.get(el);
+  if (!changes)
+    return;
+  el.classList.remove(...changes.classes);
+  for (const [name, style] of changes.styles) {
+    if (el.style.getPropertyValue(name) !== style.applied)
+      continue;
+    if (style.value)
+      el.style.setProperty(name, style.value, style.priority);
+    else
+      el.style.removeProperty(name);
+  }
+  const content = changes.content;
+  if (content && content.root.innerHTML === content.stripped) {
+    for (const [node, children] of content.children)
+      (_a = node.replaceChildren) == null ? void 0 : _a.call(node, ...children);
+    for (const [node, text] of content.text)
+      node.data = text;
+  }
+  CHANGES.delete(el);
+}
+function revertTable(tableEl) {
+  for (const row of Array.from(tableEl.rows)) {
+    for (const cell of Array.from(row.cells))
+      revertCell(cell);
+  }
 }
 function hide(cell) {
   cell.el.classList.add(SHEETS_HIDDEN_CLASS);
@@ -1819,45 +1645,93 @@ function hide(cell) {
 function contentRoot(cell) {
   return cell.contentEl || cell.el;
 }
-function stripTrailingStyleDirective(root) {
-  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+function stripTrailingStyleDirective(root, changes) {
+  var _a;
+  const doc = root.ownerDocument;
+  const walker = doc.createTreeWalker(
+    root,
+    4
+    /* SHOW_TEXT */
+  );
   let node;
   let target = null;
   while (node = walker.nextNode()) {
-    if (CELL_STYLE_SEPARATOR.test(node.data))
+    if (!((_a = node.parentElement) == null ? void 0 : _a.closest("code, pre")) && findStyleSeparator(node.data) >= 0) {
       target = node;
+    }
   }
   if (!target)
     return;
-  const idx = target.data.search(CELL_STYLE_SEPARATOR);
+  const idx = findStyleSeparator(target.data);
   if (idx < 0)
     return;
-  const range = document.createRange();
+  const children = /* @__PURE__ */ new Map();
+  const text = /* @__PURE__ */ new Map();
+  const save = (node2) => {
+    if (node2.nodeType === 3)
+      text.set(node2, node2.data);
+    else {
+      children.set(node2, Array.from(node2.childNodes));
+      for (const child of Array.from(node2.childNodes))
+        save(child);
+    }
+  };
+  save(root);
+  const range = doc.createRange();
   range.setStart(target, idx);
   range.setEnd(root, root.childNodes.length);
   range.deleteContents();
   const last = root.lastChild;
-  if (last && last.nodeType === Node.TEXT_NODE) {
+  if (last && last.nodeType === 3) {
     last.data = last.data.replace(/\s+$/, "");
   }
+  changes.content = { root, children, text, stripped: root.innerHTML };
 }
-function applyCellStyle(cell, parsed) {
-  if (!parsed.hasStyle)
-    return;
-  if (parsed.classes.length)
-    cell.el.classList.add(...parsed.classes);
-  Object.assign(cell.el.style, parsed.style);
-  stripTrailingStyleDirective(contentRoot(cell));
+function applyCellStyle(cell, parsed, groups, options) {
+  var _a, _b;
+  const changes = { classes: [], styles: /* @__PURE__ */ new Map() };
+  for (const group of [...groups, parsed]) {
+    const styles = [];
+    const alignment = group.align;
+    if (alignment)
+      styles.push({ textAlign: alignment });
+    for (const name of group.classes) {
+      if (!cell.el.classList.contains(name)) {
+        cell.el.classList.add(name);
+        changes.classes.push(name);
+      }
+      if ((_a = options.classes) == null ? void 0 : _a[name])
+        styles.push(options.classes[name]);
+    }
+    styles.push(group.style);
+    for (const style of styles) {
+      for (const [key, value] of Object.entries(style)) {
+        if (typeof value !== "string" && typeof value !== "number")
+          continue;
+        const name = key.startsWith("--") ? key : key.replace(/[A-Z]/g, (char) => "-" + char.toLowerCase());
+        const previous = (_b = changes.styles.get(name)) != null ? _b : {
+          value: cell.el.style.getPropertyValue(name),
+          priority: cell.el.style.getPropertyPriority(name),
+          applied: ""
+        };
+        cell.el.style.setProperty(name, String(value));
+        previous.applied = cell.el.style.getPropertyValue(name);
+        changes.styles.set(name, previous);
+      }
+    }
+  }
+  if (parsed.hasStyle)
+    stripTrailingStyleDirective(contentRoot(cell), changes);
+  if (changes.classes.length || changes.styles.size || changes.content)
+    CHANGES.set(cell.el, changes);
 }
-function augmentGrid(grid) {
+function augmentGrid(grid, options = {}) {
+  var _a, _b, _c, _d;
   if (!grid.length)
     return;
   for (const row of grid) {
     for (const cell of row) {
-      cell.el.colSpan = 1;
-      cell.el.rowSpan = 1;
-      cell.el.classList.remove(SHEETS_HIDDEN_CLASS, SHEETS_ROW_HEADER_CLASS, SHEETS_MERGED_CLASS);
-      cell.el.style.removeProperty("display");
+      revertCell(cell.el);
     }
   }
   const parsed = grid.map((row) => row.map((cell) => parseCell(cell.text)));
@@ -1869,17 +1743,21 @@ function augmentGrid(grid) {
       const p = parsed[r][c];
       if (headerCol >= 0 && c === headerCol) {
         hide(cell);
+        anchor[r][c] = c > 0 ? anchor[r][c - 1] : null;
         continue;
       }
       let cellAnchor = null;
+      const above = r > 0 ? anchor[r - 1][c] : null;
+      const rowGroup = (_a = cell.el.parentElement) == null ? void 0 : _a.parentElement;
+      const canMergeUp = above && (rowGroup == null ? void 0 : rowGroup.tagName) === "TBODY" && ((_b = above.el.parentElement) == null ? void 0 : _b.parentElement) === rowGroup && above.el.tagName !== "TH";
       if (p.mergeLeft && c > 0 && anchor[r][c - 1]) {
         cellAnchor = anchor[r][c - 1];
         hide(cell);
-      } else if (p.mergeUp && r > 0 && anchor[r - 1][c]) {
-        cellAnchor = anchor[r - 1][c];
+      } else if (p.mergeUp && canMergeUp) {
+        cellAnchor = above;
         hide(cell);
-      } else if (r > 0 && c > 0 && anchor[r - 1][c] && anchor[r][c - 1] && anchor[r - 1][c] === anchor[r][c - 1]) {
-        cellAnchor = anchor[r - 1][c];
+      } else if (canMergeUp && c > 0 && anchor[r][c - 1] && above === anchor[r][c - 1]) {
+        cellAnchor = above;
         hide(cell);
       } else {
         cellAnchor = cell;
@@ -1890,38 +1768,155 @@ function augmentGrid(grid) {
         const origin = ORIGIN.get(cellAnchor.el);
         if (origin) {
           cellAnchor.el.classList.add(SHEETS_MERGED_CLASS);
-          cellAnchor.el.colSpan = Math.max(cellAnchor.el.colSpan || 1, c - origin.col + 1);
+          const crossesDash = headerCol > origin.col && headerCol < c;
+          cellAnchor.el.colSpan = Math.max(
+            cellAnchor.el.colSpan || 1,
+            c - origin.col + 1 - (crossesDash ? 1 : 0)
+          );
           cellAnchor.el.rowSpan = Math.max(cellAnchor.el.rowSpan || 1, r - origin.row + 1);
         }
       } else {
         if (headerCol > 0 && c < headerCol)
           cell.el.classList.add(SHEETS_ROW_HEADER_CLASS);
-        applyCellStyle(cell, p);
+        const groups = [options.tableStyle, (_c = options.rows) == null ? void 0 : _c[r], (_d = options.columns) == null ? void 0 : _d[c]].filter((group) => !!group);
+        applyCellStyle(cell, p, groups, options);
       }
     }
   }
 }
 
+// src/sheetElement.ts
+var SheetElement = class extends import_obsidian2.MarkdownRenderChild {
+  constructor(el, source, ctx, app) {
+    super(el);
+    this.el = el;
+    this.source = source;
+    this.ctx = ctx;
+    this.app = app;
+    this.disposed = false;
+  }
+  onload() {
+    this.disposed = false;
+    void this.renderTable().catch((error) => {
+      if (this.disposed)
+        return;
+      this.el.replaceChildren();
+      const message = this.el.createDiv();
+      message.className = "obs-sheets_error";
+      message.textContent = `Sheets Extended: ${error instanceof Error ? error.message : String(error)}`;
+    });
+  }
+  onunload() {
+    this.disposed = true;
+  }
+  async renderTable() {
+    var _a;
+    const lines = this.source.split("\n");
+    const separator = lines.findIndex((line) => /^---(?:\s*~.*)?\s*$/.test(line));
+    let metadata = {};
+    let tableStyle;
+    let source = this.source;
+    if (separator >= 0) {
+      const metaSource = lines.slice(0, separator).join("\n").trim();
+      const parsed = metaSource ? JSON52.parse(metaSource) : {};
+      if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+        throw new Error("Metadata must be a JSON object");
+      }
+      metadata = parsed;
+      const styleSource = (_a = lines[separator].match(/^---\s*~(.*)$/)) == null ? void 0 : _a[1];
+      if (styleSource)
+        tableStyle = parseStyleDirective(styleSource);
+      source = lines.slice(separator + 1).join("\n");
+    }
+    const sourceGrid = splitTableSource(source);
+    if (!sourceGrid.length)
+      throw new Error("No table rows found");
+    const width = Math.max(...sourceGrid.map((row) => row.length));
+    const normalized = sourceGrid.map((row) => Array.from({ length: width }, (_, col) => {
+      var _a2;
+      return (_a2 = row[col]) != null ? _a2 : "";
+    }));
+    const delimiter = findDelimiterRow(normalized);
+    const visual = normalized.filter((_, row) => row !== delimiter);
+    const headerColumn = findHeaderColumn(visual);
+    const options = {
+      classes: metadata.classes,
+      tableStyle,
+      columns: delimiter >= 0 ? normalized[delimiter].map(parseCell) : void 0,
+      rows: headerColumn >= 0 ? visual.map((row) => parseCell(row[headerColumn])) : void 0
+    };
+    const doc = this.el.ownerDocument;
+    this.el.replaceChildren();
+    const scroll = this.el.createDiv();
+    scroll.className = "sheets-table-scroll";
+    scroll.tabIndex = 0;
+    scroll.setAttribute("role", "region");
+    scroll.setAttribute("aria-label", "Sheet table");
+    const table = scroll.createEl("table");
+    table.className = "obsidian-sheets-parsed";
+    table.dataset.sheetsProcessed = "true";
+    if (tableStyle == null ? void 0 : tableStyle.classes.length)
+      table.classList.add(...tableStyle.classes);
+    const head = table.createTHead();
+    const body = table.createTBody();
+    const grid = [];
+    const rendering = [];
+    for (let row = 0; row < visual.length; row++) {
+      const isHeader = delimiter >= 0 && row < delimiter;
+      const tr = (isHeader ? head : body).insertRow();
+      const cells = [];
+      for (const text of visual[row]) {
+        const cell = tr.createEl(isHeader ? "th" : "td");
+        cell.dir = "auto";
+        cells.push({ text, el: cell });
+        rendering.push(import_obsidian2.MarkdownRenderer.render(
+          this.app,
+          "\u200B " + text,
+          cell,
+          this.ctx.sourcePath,
+          this
+        ).then(() => {
+          const paragraph = cell.firstElementChild;
+          if ((paragraph == null ? void 0 : paragraph.tagName) === "P")
+            paragraph.replaceWith(...Array.from(paragraph.childNodes));
+          const walker = doc.createTreeWalker(
+            cell,
+            4
+            /* SHOW_TEXT */
+          );
+          const first = walker.nextNode();
+          if (first)
+            first.data = first.data.replace(/^\u200B /, "");
+        }));
+      }
+      grid.push(cells);
+    }
+    await Promise.all(rendering);
+    if (!this.disposed && this.el.contains(table))
+      augmentGrid(grid, options);
+  }
+};
+
 // src/livePreview.ts
 var import_view = require("@codemirror/view");
 var import_obsidian3 = require("obsidian");
-function getTableWidgets(view) {
-  var _a;
-  const docView = view.docView;
-  const children = docView == null ? void 0 : docView.children;
-  if (!Array.isArray(children))
-    return [];
+
+// src/tableWidgets.ts
+function getTableWidgets(editorDOM) {
+  var _a, _b, _c, _d;
   const widgets = [];
-  for (const child of children) {
-    const dom = child == null ? void 0 : child.dom;
-    if (!((_a = dom == null ? void 0 : dom.classList) == null ? void 0 : _a.contains("cm-table-widget")))
+  for (const dom of Array.from(editorDOM.querySelectorAll(".cm-table-widget"))) {
+    if (dom.closest(".cm-editor") !== editorDOM)
       continue;
-    const widget = child.widget;
-    if (widget == null ? void 0 : widget.rows)
+    const widget = (_c = (_a = dom.cmTile) == null ? void 0 : _a.widget) != null ? _c : (_b = dom.cmView) == null ? void 0 : _b.widget;
+    if (Array.isArray(widget == null ? void 0 : widget.rows) && ((_d = widget == null ? void 0 : widget.tableEl) == null ? void 0 : _d.tagName) === "TABLE") {
       widgets.push(widget);
+    }
   }
   return widgets;
 }
+
+// src/livePreview.ts
 function isTableActive(widget, view) {
   var _a, _b, _c;
   const start = (_a = widget.start) != null ? _a : -1;
@@ -1939,13 +1934,13 @@ function isTableActive(widget, view) {
   return false;
 }
 function augmentEditor(view, host) {
-  var _a, _b, _c;
-  const widgets = getTableWidgets(view);
+  var _a, _b;
+  const widgets = getTableWidgets(view.dom);
   if (!widgets.length)
     return;
   const file = (_a = view.state.field(import_obsidian3.editorInfoField, false)) == null ? void 0 : _a.file;
-  const frontmatterDisabled = !!file && ((_c = (_b = host.app.metadataCache.getFileCache(file)) == null ? void 0 : _b.frontmatter) == null ? void 0 : _c["disable-sheet"]) === true;
-  const enabled = host.isEnabled() && !frontmatterDisabled;
+  const frontmatterDisabled = !!file && isSheetDisabled((_b = host.app.metadataCache.getFileCache(file)) == null ? void 0 : _b.frontmatter);
+  const enabled = host.isEnabled() && !frontmatterDisabled && view.state.field(import_obsidian3.editorLivePreviewField, false) !== false;
   for (const widget of widgets) {
     if (!enabled || isTableActive(widget, view)) {
       if (widget.tableEl)
@@ -1981,7 +1976,7 @@ function sheetsLivePreviewExtension(host) {
           var _a;
           const target = event.target;
           if (target) {
-            for (const widget of getTableWidgets(this.view)) {
+            for (const widget of getTableWidgets(this.view.dom)) {
               if ((_a = widget.tableEl) == null ? void 0 : _a.contains(target)) {
                 revertTable(widget.tableEl);
                 break;
@@ -1991,6 +1986,7 @@ function sheetsLivePreviewExtension(host) {
           this.schedule();
         };
         this.onInteract = () => this.schedule();
+        this.view.dom.addEventListener("pointerdown", this.onMouseDown, true);
         this.view.dom.addEventListener("mousedown", this.onMouseDown, true);
         this.view.dom.addEventListener("focusin", this.onInteract);
         this.view.dom.addEventListener("focusout", this.onInteract);
@@ -2001,9 +1997,12 @@ function sheetsLivePreviewExtension(host) {
         this.schedule();
       }
       schedule() {
+        const win = this.view.dom.ownerDocument.defaultView;
+        if (!win)
+          return;
         if (this.frame)
-          cancelAnimationFrame(this.frame);
-        this.frame = requestAnimationFrame(() => {
+          win.cancelAnimationFrame(this.frame);
+        this.frame = win.requestAnimationFrame(() => {
           this.frame = 0;
           try {
             augmentEditor(this.view, host);
@@ -2013,8 +2012,14 @@ function sheetsLivePreviewExtension(host) {
         });
       }
       destroy() {
+        const win = this.view.dom.ownerDocument.defaultView;
         if (this.frame)
-          cancelAnimationFrame(this.frame);
+          win == null ? void 0 : win.cancelAnimationFrame(this.frame);
+        for (const widget of getTableWidgets(this.view.dom)) {
+          if (widget.tableEl)
+            revertTable(widget.tableEl);
+        }
+        this.view.dom.removeEventListener("pointerdown", this.onMouseDown, true);
         this.view.dom.removeEventListener("mousedown", this.onMouseDown, true);
         this.view.dom.removeEventListener("focusin", this.onInteract);
         this.view.dom.removeEventListener("focusout", this.onInteract);
@@ -2030,19 +2035,22 @@ var DEFAULT_SETTINGS = {
 };
 var PROCESSED_FLAG = "obsidian-sheets-parsed";
 var ObsidianSpreadsheet = class extends import_obsidian4.Plugin {
+  constructor() {
+    super(...arguments);
+    this.readingTables = /* @__PURE__ */ new Set();
+  }
   async onload() {
     await this.loadSettings();
     this.registerMarkdownCodeBlockProcessor(
       "sheet",
-      async (source, el, ctx) => {
-        ctx.addChild(new SheetElement(el, source.trim(), ctx, this.app, this));
+      (source, el, ctx) => {
+        ctx.addChild(new SheetElement(el, source.trim(), ctx, this.app));
       }
     );
     this.registerMarkdownPostProcessor((el, ctx) => {
-      var _a;
       if (!this.settings.nativeProcessing)
         return;
-      if (((_a = ctx.frontmatter) == null ? void 0 : _a["disable-sheet"]) === true)
+      if (isSheetDisabled(ctx.frontmatter))
         return;
       for (const tableEl of Array.from(el.querySelectorAll("table"))) {
         this.processReadingTable(tableEl, ctx);
@@ -2068,11 +2076,20 @@ var ObsidianSpreadsheet = class extends import_obsidian4.Plugin {
     const grid = buildGridFromRenderedTable(tableEl, source);
     if (!grid)
       return;
-    tableEl.dataset.sheetsProcessed = "true";
-    tableEl.classList.add(PROCESSED_FLAG);
     try {
       augmentGrid(grid);
+      tableEl.dataset.sheetsProcessed = "true";
+      tableEl.classList.add(PROCESSED_FLAG);
+      this.readingTables.add(tableEl);
+      const tables = this.readingTables;
+      ctx.addChild(new class extends import_obsidian4.MarkdownRenderChild {
+        onunload() {
+          revertReadingTable(tableEl);
+          tables.delete(tableEl);
+        }
+      }(tableEl));
     } catch (e) {
+      revertReadingTable(tableEl);
       console.error("[Sheets] reading mode augmentation failed", e);
     }
   }
@@ -2086,13 +2103,16 @@ var ObsidianSpreadsheet = class extends import_obsidian4.Plugin {
     return md || null;
   }
   onunload() {
+    for (const table of this.readingTables)
+      revertReadingTable(table);
+    this.readingTables.clear();
   }
   async loadSettings() {
-    this.settings = Object.assign(
-      {},
-      DEFAULT_SETTINGS,
-      await this.loadData()
-    );
+    const data = await this.loadData();
+    const value = data && typeof data === "object" ? data.nativeProcessing : void 0;
+    this.settings = {
+      nativeProcessing: typeof value === "boolean" ? value : DEFAULT_SETTINGS.nativeProcessing
+    };
   }
   async saveSettings() {
     await this.saveData(this.settings);
@@ -2128,5 +2148,10 @@ function buildGridFromRenderedTable(tableEl, source) {
   return grid;
 }
 var main_default = ObsidianSpreadsheet;
+function revertReadingTable(table) {
+  revertTable(table);
+  delete table.dataset.sheetsProcessed;
+  table.classList.remove(PROCESSED_FLAG);
+}
 
 /* nosourcemap */
