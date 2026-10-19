@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "1221e24f822128a3",
+        "id": "7da3ebb44099a5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "269ac4c6c0a768e9",
+            "id": "63c9f33a978d8253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "47-2Corinthians/2Co.3.7-18.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2Co.3.7-18"
+            }
+          }
+        ]
+      },
+      {
+        "id": "77ec6aaa701f9631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e52065600719a66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "47-2Corinthians/2Co.3.7-18.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "2Co.3.7-18"
             }
           }
         ]
@@ -98,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -215,10 +234,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "269ac4c6c0a768e9",
+  "active": "63c9f33a978d8253",
   "lastOpenFiles": [
-    "GDNTG/Chapter06.md",
+    "47-2Corinthians/2Co.2.12-13.md",
     "GDNTG/Chapter05.md",
+    "GDNTG/Chapter06.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
@@ -243,7 +263,6 @@
     "48-Galatians/Untitled 3.md",
     "48-Galatians/Galatians-Interlinear-3lines.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
-    "48-Galatians/Gal.1.6-10.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
