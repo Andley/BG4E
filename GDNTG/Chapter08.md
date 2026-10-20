@@ -6,11 +6,34 @@ number headings: auto, first-level 1, start-at 8
 ```table-of-contents
 ```
 
+<div style='page-break-before: always;'></div>
+
 # 8 現在式、不完成式、未來式之直說語氣PRESENT, IMPERFECT & FUTURE INDICATIVES
 
 ## 8.1 進深 GOING DEEPE
 
 ## 8.2 本課目標 CHAPTER OBJECTIVES
+
+|直說語氣時態|類別名稱|
+|---|---|
+|現在式直說語氣<br>PRESENT INDICATIVE|進行的 Progressive|
+|^|持續的 Durative|
+|^|重複的 Iterative|
+|^|格言的 Gnomic|
+|^|即時的 Instantaneous|
+|^|歷史的 Historical|
+|^|意向的 Tendential|
+|^|未來的 Futuristic|
+|^|完成的的 Perfective|
+|不完成式直說語氣<br>IMPERFECT INDICATIVE|進行的 Progressive|
+|^|開端的 Inceptive|
+|^|重複的 Iterative|
+|^|意向的 Tendential|
+|未來式直說語氣<br>FUTURE INDICATIVE|預測的 Predictive|
+|^|命令的 Imperatival|
+|^|考慮的 Deliberative|
+|^|格言的 Gnomic|
+|^|進行的 Progressive|
 
 ## 8.3 現在式直說語氣 PRESENT INDICATIVE
 

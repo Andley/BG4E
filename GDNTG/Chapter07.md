@@ -6,6 +6,8 @@ number headings: auto, first-level 1, start-at 7
 ```table-of-contents
 ```
 
+<div style='page-break-before: always;'></div> 
+
 # 7 時態與動詞觀點 TENSE & VERBAL ASPECT
 
 ## 7.1 進深 GOING DEEPER
@@ -28,12 +30,12 @@ number headings: auto, first-level 1, start-at 7
 
 #### 7.3.1.2 新約聖經希臘文的觀點 Aspects in NT Greek
 
-|VERBAL ASPECT| <  | <  |
+|動詞觀點 VERBAL ASPECT| <  | <  |
 |---|---|---|
-|ASPECT|DEFINITION|TENSE-FORM|
-|Imperfective|Action viewed as in process, ongoing|Present/Imperfect|
-|Perfective|Action viewed as complete, as a whole|Aorista|
-|Stative|State of affairs resulting from a previous action or state|Perfect/Pluperfect|
+|觀點<br>ASPECT|定義<br>DEFINITION|時態字形<br>TENSE-FORM|
+|未完成的<br>Imperfective |被視為正在過程中、正繼續的動作<br>Action viewed as in process, ongoing |現在式、不完成式<br>Present/Imperfect|
+|完成的<br>Perfective |被視為完整的、一個整體的動作<br>Action viewed as complete, as a whole |不定過去式<br>Aorist|
+|狀態的<br>Stative |由之前動作或狀態所導致的事態<br>State of affairs resulting from a previous action or state|現在完成式、過去完成式<br>Perfect/Pluperfect|
 
 - 路7:33  <RUBY><ruby><ruby><span class='verb'>Ἐλήλυθεν</span><rt>已來 Has come</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></rt></ruby><rt>V-RAI-3S</rt></RUBY>  <RUBY><ruby><ruby>γὰρ<rt>因為 for</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>Ἰωάννης<rt>約翰 John</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02491&m='>Ἰωάννης</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>Βαπτιστὴς<rt>施洗者 Baptist</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00910&m='>Βαπτιστής</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>不 neither</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='ptc'>ἐσθίων</span><rt>吃 eating</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02068&m='>ἐσθίω</a></rt></ruby><rt>V-PAP-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἄρτον<rt>餅 bread</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00740&m='>ἄρτος</a></rt></ruby><rt>N-ASM</rt></RUBY>  <RUBY><ruby><ruby>μήτε<rt>也不 nor</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03383&m='>μήτε</a></rt></ruby><rt>CONJ-N</rt></RUBY>  <RUBY><ruby><ruby><span class='ptc'>πίνων</span><rt>喝 drinking</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04095&m='>πίνω</a></rt></ruby><rt>V-PAP-NSM</rt></RUBY>  <RUBY><ruby><ruby>οἶνον<rt>酒 wine</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03631&m='>οἶνος</a></rt></ruby><rt>N-ASM</rt></RUBY> <span class='punctuation'>,</span>  
 - <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>λέγετε</span><rt>你們說 you say</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>λέγω</a></rt></ruby><rt>V-PAI-2P</rt></RUBY> <span class='punctuation'>·</span>  
