@@ -6,11 +6,36 @@ number headings: auto, first-level 1, start-at 9
 ```table-of-contents
 ```
 
+<div style='pagebreak-before: always;'></div>
+
 # 9 不定過去式、現在完成式、過去成式之直說語氣AORIST, PERFECT & PLUPERFECT INDICATIVES
 
-## 9.1 進深 GOING DEEPE
+## 9.1 進深 GOING DEEPER
+
+- 約16:33  <RUBY><ruby><ruby>ἐγὼ<rt>我 I</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1NS</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>νενίκηκα</span><rt>已經勝過 have overcome</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03528&m='>νικάω</a></rt></ruby><rt>V-RAI-1S</rt></RUBY>  <RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY>  <RUBY><ruby><ruby>κόσμον<rt>世界 world</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02889&m='>κόσμος</a></rt></ruby><rt>N-ASM</rt></RUBY> <span class='punctuation'>.</span><span class='paragraph'></span> 
+- 林前15:4   <RUBY><ruby><ruby><span class='verb'>ἐγήγερται</span><rt>復活了 He was raised</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01453&m='>ἐγείρω</a></rt></ruby><rt>V-RPI-3S</rt></RUBY>  <RUBY><ruby><ruby>τῇ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSF</rt></RUBY>  <RUBY><ruby><ruby>ἡμέρᾳ<rt>日 day</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02250&m='>ἡμέρα</a></rt></ruby><rt>N-DSF</rt></RUBY>  <RUBY><ruby><ruby>τῇ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSF</rt></RUBY>  <RUBY><ruby><ruby>τρίτῃ<rt>第三 third</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05154&m='>τρίτος</a></rt></ruby><rt>A-DSF</rt></RUBY>  <RUBY><ruby><ruby>κατὰ<rt>按照 according to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τὰς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APF</rt></RUBY>  <RUBY><ruby><ruby>γραφάς<rt>聖經 Scriptures</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01124&m='>γραφή</a></rt></ruby><rt>N-APF</rt></RUBY> 
+
 
 ## 9.2 本課目標 CHAPTER OBJECTIVES
+
+|直說語氣時態|類別名稱|
+|---|---|
+|不定過去式直說語氣<br>AORIST INDICATIVE|Constative|
+|^|Inceptive|
+|^|Culminative|
+|^|Gnomic|
+|^|Epistolary|
+|^|Futuristic|
+|^|Dramatic|
+|現在完成式直說語氣<br>PERFECT INDICATIVE|Intensive|
+|^|Consummative|
+|^|Dramatic|
+|^|Present State|
+|^|Gnomic|
+|^|Iterative|
+|過去完成式直說語氣<br>PLUPERFECT INDICATIVE|Intensive|
+|^|Consummative|
+|^|Past State|
 
 ## 9.3 不定過去式直說語氣 AORIST INDICATIVE
 
