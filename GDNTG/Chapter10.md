@@ -5,6 +5,7 @@ number headings: auto, first-level 1, start-at 10
 ```table-of-contents
 ```
 
+<div style='page-break-before: always;'></div>
 
 # 10 分詞 PARTICIPLES
 
@@ -25,6 +26,31 @@ number headings: auto, first-level 1, start-at 10
 ### 10.3.1 觀點 Aspect
 
 ### 10.3.2 時間 Time
+
+|分詞的用法|類別名稱|<|
+|---|---|---|
+|形容詞用法的分詞<br>ADJECTIVAL PARTICIPLES|形容用法 Attributive|<|
+|^|實名詞用法 Substantival|<|
+|動詞用法的分詞<br>VERBAL PARTICIPLES|副詞用法<br>Adverbial|時間 Temporal|
+|^|^|時間 Means|
+|^|^|時間 Manner|
+|^|^|時間 Cause|
+|^|^|時間 Condition|
+|^|^|時間 Concession|
+|^|^|時間 Purpose|
+|^|^|時間 Result|
+|^|其他動詞用法<br>Other Verbal|Attendant Circumstance|
+|^|^|Genitive Absolute|
+|^|^|Imperatival|
+|^|^|Pleonastic|
+|^|^|Complementary|
+|^|^|Indirect Discourse|
+|^|迂說用法<br>Periphrastic|Present|
+|^|^|Imperfect|
+|^|^|Future|
+|^|^|Perfect|
+|^|^|Pluperfect|
+|^|^|Future Perfect|
 
 ## 10.4 形容詞用法的分詞 ADJECTIVAL PARTICIPLES
 

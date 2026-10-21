@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter09.md",
+                "file": "GDNTG/Chapter10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter09"
+              "title": "Chapter10"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter09.md",
+                "file": "GDNTG/Chapter10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter09"
+              "title": "Chapter10"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -237,13 +236,14 @@
   },
   "active": "e52065600719a66d",
   "lastOpenFiles": [
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter06.md",
     "GDNTG/Chapter08.md",
+    "GDNTG/Chapter10.md",
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter07.md",
-    "GDNTG/Chapter06.md",
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter04.md",
-    "GDNTG/Chapter03.md",
     "GDNTG/Chapter02.md",
     "GDNTG/Untitled 1.md",
     "48-Galatians/Gal.3.21-4.7.md",
@@ -262,7 +262,6 @@
     "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/old-Gal.2.11-14.md",
     "48-Galatians/old-Gal.2.6-10.md",
-    "48-Galatians/old-Gal.2.1-5.md",
     "48-Galatians/Pasted image 20260811160939.png",
     "Tools/AI Chart.canvas",
     "Untitled.base",
