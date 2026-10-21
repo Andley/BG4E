@@ -6,7 +6,6 @@
       {
         "id": "77ec6aaa701f9631",
         "type": "tabs",
-        "dimension": 44.094993581514764,
         "children": [
           {
             "id": "e52065600719a66d",
@@ -20,27 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Chapter08"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d2ac677e35f05db6",
-        "type": "tabs",
-        "dimension": 55.905006418485236,
-        "children": [
-          {
-            "id": "b844ab4affedc3f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Chapter06.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapter06"
             }
           }
         ]
@@ -120,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -238,8 +217,9 @@
   },
   "active": "e52065600719a66d",
   "lastOpenFiles": [
-    "GDNTG/Chapter09.md",
+    "GDNTG/Untitled 1.md",
     "GDNTG/Chapter08.md",
+    "GDNTG/Chapter09.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter05.md",
@@ -264,7 +244,6 @@
     "48-Galatians/old-Gal.2.6-10.md",
     "48-Galatians/old-Gal.2.1-5.md",
     "48-Galatians/Pasted image 20260811160939.png",
-    "48-Galatians/Untitled 1.md",
     "Tools/AI Chart.canvas",
     "Untitled.base",
     "_includes/head-custom.html",
