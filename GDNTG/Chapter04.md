@@ -5,6 +5,8 @@ number headings: auto, first-level 1, start-at 4
 ```table-of-contents
 ```
 
+<div style='page-break-before: always;'></div>
+
 # 4 間接受格 DATIVE CASE
 
 ## 4.1 進深 GOING DEEPER
@@ -15,6 +17,7 @@ number headings: auto, first-level 1, start-at 4
 ## 4.2 本課目標 CHAPTER OBJECTIVES
 
 ## 4.3 介紹間接受格 INTRODUCTION TO THE DATIVE CASE
+- 太5:40   <RUBY><ruby><ruby><span class='verb'>ἄφες</span><rt>由 yield</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00863&m='>ἀφίημι</a></rt></ruby><rt>V-AAM-2S</rt></RUBY>  <RUBY><ruby><ruby>αὐτῷ<rt>他 to him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-DSM</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>連也 also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>τὸ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY>  <RUBY><ruby><ruby>ἱμάτιον<rt>外衣 cloak</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02440&m='>ἱμάτιον</a></rt></ruby><rt>N-ASN</rt></RUBY> <span class='punctuation'>·</span> 
 
 |所有格的用法|類別名稱|
 |---|---|

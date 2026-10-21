@@ -6,13 +6,32 @@ number headings: auto, first-level 1, start-at 11
 ```table-of-contents
 ```
 
+<div style='page-break-before: always;'></div>
+
 # 11 不定詞 INFINITIVES
 
 ## 11.1 進深 GOING DEEPE
+- 林前 7:1  <RUBY><ruby><ruby>Περὶ<rt>關於 Concerning</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04012&m='>περί</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>δὲ<rt>- now</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby>ὧν<rt>所的事 the things about which</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-GPN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐγράψατε</span><rt>你們寫 you wrote</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01125&m='>γράφω</a></rt></ruby><rt>V-AAI-2P</rt></RUBY> <span class='punctuation'>,</span>  <RUBY><ruby><ruby>καλὸν<rt>好 [It is] good</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02570&m='>καλός</a></rt></ruby><rt>A-NSN</rt></RUBY>  <RUBY><ruby><ruby>ἀνθρώπῳ<rt>男人 for a man</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-DSM</rt></RUBY>  <RUBY><ruby><ruby>γυναικὸς<rt>女人 a woman</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01135&m='>γυνή</a></rt></ruby><rt>N-GSF</rt></RUBY>  <RUBY><ruby><ruby>μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY>  <RUBY><ruby><ruby><span class='inf'>ἅπτεσθαι</span><rt>碰 to touch</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00681&m='>ἅπτω</a></rt></ruby><rt>V-PMN</rt></RUBY> <span class='punctuation'>·</span> 
 
 ## 11.2 本課目標 CHAPTER OBJECTIVES
 
 ## 11.3 INTRODUCTION
+|不定詞的用法|類別名稱|<|
+|---|---|---|
+|副詞用法的不定詞<br>ADVERBIAL INFINITIVES|補語 Complementary|<|
+|^|目的 Purpose|<|
+|^|結果 Result|<|
+|^|時間<br>Temporal|之前的時間 Previous Time|
+|^|^|同時的時間 Contemporaneous Time|
+|^|^|之後的時間 Subsequent Time|
+|^|原因 Cause|<|
+|^|途徑 Means|<|
+|名詞用法的不定詞<br>SUBSTANTIVAL INFINITIVES|主詞 Subject|<|
+|^|主詞 Direct Object|<|
+|^|主詞 Indirect Discourse|<|
+|^|主詞 Explanatory|<|
+|INDEPENDENT IMPERATIVES|Imperatival|<|
+|^|Absolute|<|
 
 ## 11.4 副詞用法的不定詞 ADVERBIAL INFINITIVES
 
