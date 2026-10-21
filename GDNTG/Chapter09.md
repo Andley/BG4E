@@ -20,24 +20,27 @@ number headings: auto, first-level 1, start-at 9
 
 |直說語氣時態|類別名稱|
 |---|---|
-|不定過去式直說語氣<br>AORIST INDICATIVE|Constative|
-|^|Inceptive|
-|^|Culminative|
-|^|Gnomic|
-|^|Epistolary|
-|^|Futuristic|
-|^|Dramatic|
-|現在完成式直說語氣<br>PERFECT INDICATIVE|Intensive|
-|^|Consummative|
-|^|Dramatic|
-|^|Present State|
-|^|Gnomic|
-|^|Iterative|
-|過去完成式直說語氣<br>PLUPERFECT INDICATIVE|Intensive|
-|^|Consummative|
-|^|Past State|
+|不定過去式直說語氣<br>AORIST INDICATIVE|敘事的 Constative|
+|^|開端的 Inceptive|
+|^|終結的 Culminative|
+|^|格言的 Gnomic|
+|^|書信的 Epistolary|
+|^|未來的 Futuristic|
+|^|生動的 Dramatic|
+|現在完成式直說語氣<br>PERFECT INDICATIVE|加強的 Intensive|
+|^|完成的 Consummative|
+|^|生動的 Dramatic|
+|^|現在狀態 Present State|
+|^|格言的 Gnomic|
+|^重複的 Iterative|
+|過去完成式直說語氣<br>PLUPERFECT INDICATIVE|加強的 Intensive|
+|^|完成的 Consummative|
+|^|過去狀態 Past State|
 
 ## 9.3 不定過去式直說語氣 AORIST INDICATIVE
+
+- 羅5:14  <RUBY><ruby><ruby>ἀλλὰ<rt>然而 Nevertheless</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐβασίλευσεν</span><rt>掌權了 reigned</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00936&m='>βασιλεύω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>θάνατος<rt>死 death</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02288&m='>θάνατος</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἀπὸ<rt>從 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>Ἀδὰμ<rt>亞當 Adam</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00076&m='>Ἀδάμ</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>μέχρι<rt>到 until</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03360&m='>μέχρι</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>Μωϋσέως<rt>摩西 Moses</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03475&m='>Μωϋσῆς, Μωσῆς</a></rt></ruby><rt>N-GSM</rt></RUBY>
+- 啟20:4   <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐβασίλευσαν</span><rt>作王 reigned</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00936&m='>βασιλεύω</a></rt></ruby><rt>V-AAI-3P</rt></RUBY>  <RUBY><ruby><ruby>μετὰ<rt>與一同 with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY>  <RUBY><ruby><ruby>χριστοῦ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY>  <RUBY><ruby><ruby>χίλια<rt>一千 a thousand</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05507&m='>χίλιοι</a></rt></ruby><rt>A-APN</rt></RUBY>  <RUBY><ruby><ruby>ἔτη<rt>年 years</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02094&m='>ἔτος</a></rt></ruby><rt>N-APN</rt></RUBY> <span class='punctuation'>.</span> 
 
 ### 9.3.1 敘事的不定過去式 Constative Aorist
 - 約4:20 <RUBY><ruby><ruby>οἱ<rt>- The</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NPM</rt></RUBY>  <RUBY><ruby><ruby>πατέρες<rt>祖先 fathers</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-NPM</rt></RUBY>  <RUBY><ruby><ruby>ἡμῶν<rt>我們 of us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GP</rt></RUBY>  <RUBY><ruby><ruby>ἐν<rt>在上 on</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>τῷ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DSN</rt></RUBY>  <RUBY><ruby><ruby>ὄρει<rt>山 mountain</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03735&m='>ὄρος</a></rt></ruby><rt>N-DSN</rt></RUBY>  <RUBY><ruby><ruby>τούτῳ<rt>這 this</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03778&m='>οὗτος</a></rt></ruby><rt>D-DSN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>**προσεκύνησαν**</span><rt>**敬拜 worshiped**</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04352&m='>προσκυνέω</a></rt></ruby><rt>V-AAI-3P</rt></RUBY>  
