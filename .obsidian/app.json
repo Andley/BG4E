@@ -2,7 +2,7 @@
   "livePreview": false,
   "showInlineTitle": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",

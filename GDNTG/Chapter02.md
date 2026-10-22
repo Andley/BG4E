@@ -5,6 +5,9 @@ number headings: auto, first-level 1, start-at 2
 ```table-of-contents
 ```
 
+---
+
+
 # 2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES
 
 ## 2.1 進深 GOING DEEPER

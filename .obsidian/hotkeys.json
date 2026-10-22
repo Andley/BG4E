@@ -124,5 +124,14 @@
       ],
       "key": "M"
     }
+  ],
+  "workspace:close": [],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }

@@ -4,44 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "77ec6aaa701f9631",
+        "id": "280f4a0ce7c58534",
         "type": "tabs",
         "children": [
           {
-            "id": "e52065600719a66d",
+            "id": "3ce1634324fb303f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter11.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter11"
-            },
-            "group": "2394ad648d62a15a"
-          }
-        ]
-      },
-      {
-        "id": "5de34ac114ba3f9d",
-        "type": "tabs",
-        "children": [
+              "title": "GDNTG-TOC"
+            }
+          },
           {
-            "id": "44e5582b0271079f",
+            "id": "a8c53e90a8dc0ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter11.md",
-                "mode": "preview",
+                "file": "GDNTG/Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter11"
-            },
-            "group": "2394ad648d62a15a"
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a5ce64424577563e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958de1903c063a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter02.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter02"
+            }
           }
         ]
       }
@@ -77,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "GDNTG/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -236,19 +249,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "e52065600719a66d",
+  "active": "a8c53e90a8dc0ccc",
   "lastOpenFiles": [
-    "GDNTG/Chapter10.md",
-    "GDNTG/Chapter11.md",
-    "GDNTG/Chapter04.md",
+    "GDNTG/Chapter02.md",
     "GDNTG/Chapter03.md",
+    "GDNTG/Untitled.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Untitled 1.md",
+    "GDNTG/Untitled 2.md",
+    "GDNTG/§14.md",
+    "GDNTG/_index.md",
+    "GDNTG/Chapter12.md",
+    "GDNTG/Chapter11.md",
+    "GDNTG/Chapter10.md",
+    "GDNTG/Chapter04.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter08.md",
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter05.md",
-    "GDNTG/Chapter02.md",
-    "GDNTG/Untitled 1.md",
     "48-Galatians/Gal.3.21-4.7.md",
     "48-Galatians/Adverbial Complement.md",
     "48-Galatians/Gal.3.15-20.md",
@@ -258,12 +277,6 @@
     "47-2Corinthians/2Co.2.12-13.md",
     "48-Galatians/old-Gal.4.21-5.1.md",
     "48-Galatians/ὅτι 帶出內嵌主語子句.md",
-    "48-Galatians/ἐὰν μὴ.md",
-    "48-Galatians/Untitled.md",
-    "48-Galatians/Gal.2.1-10.md",
-    "48-Galatians/Gal.2.11-14.md",
-    "48-Galatians/Gal.4.21-5.1.md",
-    "48-Galatians/old-Gal.2.11-14.md",
     "48-Galatians/Pasted image 20260811160939.png",
     "Tools/AI Chart.canvas",
     "Untitled.base",
