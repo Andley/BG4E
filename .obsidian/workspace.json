@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter12.md",
+                "file": "GDNTG/Chapter13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter12"
-            }
+              "title": "Chapter13"
+            },
+            "group": "bf61400791c07a05"
           }
         ]
       },
@@ -33,13 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter12.md",
+                "file": "GDNTG/Chapter13.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter12"
-            }
+              "title": "Chapter13"
+            },
+            "group": "bf61400791c07a05"
           }
         ]
       }
@@ -237,8 +239,8 @@
   },
   "active": "df47bd3004070f71",
   "lastOpenFiles": [
-    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter12.md",
+    "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter11.md",
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter09.md",
