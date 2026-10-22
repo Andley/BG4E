@@ -2,7 +2,6 @@
 number headings: auto, first-level 1, start-at 11
 ---
 
-
 ```table-of-contents
 ```
 

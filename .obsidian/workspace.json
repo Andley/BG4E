@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "GDNTG/Chapter12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-TOC"
+              "title": "Chapter12"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "GDNTG/Chapter12.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDNTG-TOC"
+              "title": "Chapter12"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
+                "file": "GDNTG/Chapter12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -234,25 +235,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "b72ab87118d9b372",
+  "active": "df47bd3004070f71",
   "lastOpenFiles": [
-    "GDNTG/Chapter09.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter12.md",
+    "GDNTG/Chapter11.md",
+    "GDNTG/Chapter10.md",
+    "GDNTG/Chapter09.md",
     "GDNTG/Chapter08.md",
+    "GDNTG/Chapter02.md",
     "GDNTG/Chapter05.md",
     "GDNTG/Chapter03.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
-    "GDNTG/Chapter12.md",
     "GDNTG/Untitled 1.md",
     "GDNTG/Untitled 2.md",
     "GDNTG/Chapter13.md",
-    "GDNTG/Chapter11.md",
-    "GDNTG/Chapter10.md",
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter04.md",
-    "GDNTG/Chapter02.md",
     "GDNTG/Untitled.md",
     "GDNTG/§14.md",
     "GDNTG/_index.md",
