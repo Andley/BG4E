@@ -4,6 +4,9 @@ number headings: auto, first-level 1, start-at 3
 
 ```table-of-contents
 ```
+
+<div style='page-break-before: always;'></div>
+
 # 3 所有格 GENITIVE CASE
 
 ## 3.1 進深 GOING DEEPER

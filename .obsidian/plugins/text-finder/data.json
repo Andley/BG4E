@@ -11,6 +11,18 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
+      "text": "Chapter08#",
+      "createdAt": 1792632171045,
+      "lastUsedAt": 1792632178483,
+      "count": 1
+    },
+    {
+      "text": "單字 VOCABULAR",
+      "createdAt": 1792632047101,
+      "lastUsedAt": 1792632063356,
+      "count": 1
+    },
+    {
       "text": "<br>",
       "createdAt": 1792480089296,
       "lastUsedAt": 1792480089296,
@@ -57,18 +69,6 @@
       "createdAt": 1789197013638,
       "lastUsedAt": 1789198656458,
       "count": 2
-    },
-    {
-      "text": "<span class='verb'>",
-      "createdAt": 1789198618447,
-      "lastUsedAt": 1789198621618,
-      "count": 1
-    },
-    {
-      "text": "<span class='ptc'",
-      "createdAt": 1789196975304,
-      "lastUsedAt": 1789196978417,
-      "count": 1
     }
   ],
   "searchToolbar": [
