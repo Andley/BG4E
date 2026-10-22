@@ -4,59 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "280f4a0ce7c58534",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ce1634324fb303f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/GDNTG-TOC.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDNTG-TOC"
-            }
-          },
-          {
-            "id": "a8c53e90a8dc0ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "a5ce64424577563e",
         "type": "tabs",
         "children": [
           {
-            "id": "958de1903c063a6d",
+            "id": "df47bd3004070f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter02.md",
+                "file": "GDNTG/Chapter03.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter02"
+              "title": "Chapter03"
+            }
+          },
+          {
+            "id": "eb0703f96f43dfaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Chapter03.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDNTG/Untitled.md",
+                "file": "GDNTG/Chapter03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,14 +229,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a8c53e90a8dc0ccc",
+  "active": "eb0703f96f43dfaa",
   "lastOpenFiles": [
-    "GDNTG/Chapter02.md",
-    "GDNTG/Chapter03.md",
-    "GDNTG/Untitled.md",
-    "GDNTG/GDNTG-TOC.md",
-    "GDNTG/Untitled 1.md",
     "GDNTG/Untitled 2.md",
+    "GDNTG/Chapter03.md",
+    "GDNTG/Chapter02.md",
+    "GDNTG/Untitled 1.md",
+    "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Untitled.md",
     "GDNTG/§14.md",
     "GDNTG/_index.md",
     "GDNTG/Chapter12.md",
