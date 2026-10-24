@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter13.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter13"
+              "title": "GDNTG-TOC"
             },
             "group": "bf61400791c07a05"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter13.md",
+                "file": "GDNTG/GDNTG-TOC.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter13"
+              "title": "GDNTG-TOC"
             },
             "group": "bf61400791c07a05"
           }
@@ -239,8 +239,10 @@
   },
   "active": "df47bd3004070f71",
   "lastOpenFiles": [
-    "GDNTG/Chapter12.md",
+    "GDNTG/Chapter07.md",
     "GDNTG/GDNTG-TOC.md",
+    "GDNTG/Chapter13.md",
+    "GDNTG/Chapter12.md",
     "GDNTG/Chapter11.md",
     "GDNTG/Chapter10.md",
     "GDNTG/Chapter09.md",
@@ -252,8 +254,6 @@
     "GDNTG/GDNTG1.png",
     "GDNTG/Untitled 1.md",
     "GDNTG/Untitled 2.md",
-    "GDNTG/Chapter13.md",
-    "GDNTG/Chapter07.md",
     "GDNTG/Chapter06.md",
     "GDNTG/Chapter04.md",
     "GDNTG/Untitled.md",

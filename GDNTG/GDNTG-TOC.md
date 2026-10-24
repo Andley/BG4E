@@ -14,7 +14,7 @@
 	- 1.6 應用練習 PRACTICE EXERCISES
 	- 1.7 單字 VOCABULARY
 	- 1.8 閱讀新約聖經 READING THE NEW TESTAMENT
-- [Chapter02](Chapter02.md)
+- [2 主格、呼格、直接受格 NOMINATIVE, VOCATIVE & ACCUSATIVE CASES](Chapter02.md#2%20主格、呼格、直接受格%20NOMINATIVE,%20VOCATIVE%20&%20ACCUSATIVE%20CASES)
 	- [2.1 進深 GOING DEEPER](Chapter02#2.1%20GOING%20DEEPER)
 	- [2.2 本課目標 CHAPTER OBJECTIVES](Chapter02#2.2%20CHAPTER%20OBJECTIVES)
 	- [2.3 希臘文的格系統 THE GREEK CASE SYSTEM](Chapter02#%E2%81%A03%20%E2%81%A0%E5%B8%8C%E8%87%98%E6%96%87%E7%9A%84%E6%A0%BC%E7%B3%BB%E7%B5%B1%20THE%20GREEK%20CASE%20SYSTEM)
@@ -253,8 +253,8 @@
 		- [8.5.1 預測的未來式 Predictive Future](Chapter08#8.5.1%20%E9%A0%90%E6%B8%AC%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Predictive%20Future)
 		- [8.5.2 命令的未來式 Imperatival Future](Chapter08#8.5.2%20%E5%91%BD%E4%BB%A4%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Imperatival%20Future)
 		- [8.5.3 考慮的未來式 Deliberative Future](Chapter08#8.5.3%20%E8%80%83%E6%85%AE%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Deliberative%20Future)
-			- [8.5.3.1 真正的問句 Real Questions](app://obsidian.md/index.html#8.5.3.1%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%95%8F%E5%8F%A5%20Real%20Questions)
-			- [8.5.3.2 修辭疑問句 Rhetorical Questions](app://obsidian.md/index.html#8.5.3.2%20%E4%BF%AE%E8%BE%AD%E7%96%91%E5%95%8F%E5%8F%A5%20Rhetorical%20Questions)
+			- [8.5.3.1 真正的問句 Real Questions](Chapter08.md#8.5.3.1%20真正的問句%20Real%20Questions)
+			- [8.5.3.2 修辭疑問句 Rhetorical Questions](Chapter08.md#8.5.3.2%20修辭疑問句%20Rhetorical%20Questions)
 		- [8.5.4 格言的未來式 Gnomic Future](Chapter08#8.5.4%20%E6%A0%BC%E8%A8%80%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Gnomic%20Future)
 		- [8.5.5 進行的未來式 Progressive Future](Chapter08#8.5.5%20%E9%80%B2%E8%A1%8C%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F%20Progressive%20Future)
 	- [8.6 總結一覽表 SUMMARY](Chapter08#8.6%20SUMMARY)
