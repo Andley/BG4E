@@ -11,6 +11,12 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
+      "text": "-",
+      "createdAt": 1792912077214,
+      "lastUsedAt": 1792912077214,
+      "count": 1
+    },
+    {
       "text": "Chapter08#",
       "createdAt": 1792632171045,
       "lastUsedAt": 1792632178483,
@@ -63,12 +69,6 @@
       "createdAt": 1786428466440,
       "lastUsedAt": 1789374821533,
       "count": 5
-    },
-    {
-      "text": "</span>",
-      "createdAt": 1789197013638,
-      "lastUsedAt": 1789198656458,
-      "count": 2
     }
   ],
   "searchToolbar": [

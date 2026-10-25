@@ -1,4 +1,4 @@
----
+——--
 number headings: auto, first-level 1, start-at 5
 ---
 
@@ -129,14 +129,14 @@ number headings: auto, first-level 1, start-at 5
 |有冠詞的形容詞句型<br>ARTICULAR ADJECTIVAL CONSTRUCTIONS|<|<|<|
 |---|---|---|---|
 ||第一位置<br>1ST POSITION|第二位置<br>2ND POSITION|第三位置<br>3RD POSITION|
-|敘述用法<br>PREDICATE|A—T—N<br>Adjective-Article-Noun (ἀγαθὸς ὁ ἄνθρωπος = “the man is good”)|T—N—A<br>Article-Noun-Adjective (ὁ ἄνθρωπος ἀγαθός = “the man is good”)|無<br>None|
-|形容用法<br>ATTRIBUTIVE|T—A—N<br>rticle-Adjective-Noun (ὁ ἀγαθὸς ἄνθρωπος = “the good man”)|T—N—T—A<br>Article-Noun-Article-Adjective (ὁ ἄνθρωπος ὁ ἀγαθός = “the good man”)|N—T—A<br>Noun-Article-Adjective (ἄνθρωπος ὁ ἀγαθός = “the good man”)|
+|敘述用法<br>PREDICATE|A—T—N<br>Adjective-Article-Noun<br>(ἀγαθὸς ὁ ἄνθρωπος<br>= “the man is good”)|T—N—A<br>Article-Noun-Adjective<br>(ὁ ἄνθρωπος ἀγαθός<br>= “the man is good”)|無<br>None|
+|形容用法<br>ATTRIBUTIVE|T—A—N<br>Article-Adjective-Noun<br>(ὁ ἀγαθὸς ἄνθρωπος<br>= “the good man”)|T—N—T—A<br>Article-Noun-Article-Adjective<br>(ὁ ἄνθρωπος ὁ ἀγαθός<br>= “the good man”)|N—T—A<br>Noun-Article-Adjective (ἄνθρωπος ὁ ἀγαθός<br>= “the good man”)|
 
 |無冠詞的形容詞句型<br>ANARTHROUS ADJECTIVAL CONSTRUCTIONS|<|<|<|
 |---|---|---|---|
 ||第一位置<br>1ST POSITION|第二位置<br>2ND POSITION|第四位置<br>4TH POSITION<sup>a</sup>|
-|敘述用法<br>PREDICATE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος =“a man is good”)|N—A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a man is good”)|無<br>None|
-|形容用法<br>ATTRIBUTIVE|A—N<br>Adjective-Noun (ἀγαθὸς ἄνθρωπος = “a good man”)|無<br>None|N—A<br>Noun-Adjective (ἄνθρωπος ἀγαθός = “a good man”)|
+|敘述用法<br>PREDICATE|A—N<br>Adjective-Noun<br>(ἀγαθὸς ἄνθρωπος<br>=“a man is good”)|N—A<br>Noun-Adjective<br>(ἄνθρωπος ἀγαθός<br>= “a man is good”)|無<br>None|
+|形容用法<br>ATTRIBUTIVE|A—N<br>Adjective-Noun<br>(ἀγαθὸς ἄνθρωπος<br>= “a good man”)|無<br>None|N—A<br>Noun-Adjective<br>(ἄνθρωπος ἀγαθός<br>= “a good man”)|
 |<sup>a</sup>The reason “fourth position” is used is that there is no article at all in the construction, whereas the first through third attributive positions all have the article.|<|<|<|
 
 
