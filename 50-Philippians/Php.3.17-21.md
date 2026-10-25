@@ -3,7 +3,7 @@ title: "Php.3.17-21"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 3:17-21)
+#### 圖析（Php 3:17-21）
 
 - 3:17a (<RUBY><ruby><ruby>Συμμιμηταί<rt>συμμιμητής</rt></ruby><rt>Imitators together</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>γίνεσθε ! ,</mark><rt>γίνομαι</rt></ruby><rt>be</rt></ruby><rt>V-PNM-2P</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί ,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 
 - 3:17b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>σκοπεῖτε !</mark><rt>σκοπέω</rt></ruby><rt>observe</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P {3:17c}C {3:17d}A
@@ -25,7 +25,7 @@ draft: false
 		- ··········· 理解乙：把 σύμμορφον 當作 μετασχηματίσει 的 狀語 
 		- 3:21a (<RUBY><ruby><ruby>ὃς°⁸⮥<rt>ὅς, ἥ</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY>)S <RUBY><ruby><ruby><mark><mark class='verb'>μετασχηματίσει°⁹</mark></mark><rt>μετασχηματίζω</rt></ruby><rt>will transform</rt></ruby><rt>V-FAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>σῶμα<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-ASN</rt></RUBY> ‹<RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ταπεινώσεως<rt>ταπείνωσις</rt></ruby><rt>of humiliation</rt></ruby><rt>N-GSF</rt></RUBY> › <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)C 
 			- (<RUBY><ruby><ruby>σύμμορφον<rt>σύμμορφος</rt></ruby><rt>conformed</rt></ruby><rt>A-ASN</rt></RUBY> «<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>σώματι<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-DSN</rt></RUBY> ‹<RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-GSF</rt></RUBY> › <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Himself</rt></ruby><rt>P-GSM</rt></RUBY> » )A°⁹⮥
-			- ·········· 理解A：3:21b 補充說明 (epexegetical) τὴν ἐνέργειαν 
+			- ·········· 理解A：3:21b 補充說明（epexegetical）τὴν ἐνέργειαν 
 			- (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> «<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐνέργειαν<rt>ἐνέργεια</rt></ruby><rt>working</rt></ruby><rt>N-ASF</rt></RUBY>» +3:21b» )A°⁹⮥
 			- ·········· 理解B：3:21b 來源所有格，修飾 τὴν ἐνέργειαν 
 			- (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> «<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐνέργειαν<rt>ἐνέργεια</rt></ruby><rt>working</rt></ruby><rt>N-ASF</rt></RUBY>» 3:21b» )A°⁹⮥

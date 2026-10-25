@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 5:7-12)
+#### 圖析（Gal 5:7-12）
 
 - 5:7a (<RUBY><ruby><ruby><mark class='verb'>Ἐτρέχετε</mark><rt>τρέχω</rt></ruby><rt>You were running</rt></ruby><rt>V-IAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>καλῶς·<rt>καλῶς</rt></ruby><rt>well</rt></ruby><rt>ADV</rt></RUBY>)A 
 - 5:7b (<RUBY><ruby><ruby>τίς<rt>τίς</rt></ruby><rt>Who</rt></ruby><rt>I-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)C <RUBY><ruby><ruby><mark><mark class='verb'>ἐνέκοψεν°¹</mark></mark><rt>ἐγκόπτω</rt></ruby><rt>cut into</rt></ruby><rt>V-AAI-3S</rt></RUBY> 

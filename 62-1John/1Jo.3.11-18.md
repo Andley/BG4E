@@ -3,7 +3,7 @@ title: "1Jo.3.11-18"
 date: 2026-07-04
 draft: false
 ---
-### 圖析 (1Jo 3:11-18)
+### 圖析（1Jo 3:11-18）
 
 - 3:11a <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>For</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὕτη<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐστὶν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<mark><RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>ἀγγελία</rt></ruby><rt>message</rt></ruby><rt>N-NSF</rt></RUBY>°¹</mark>)C
 	- 3:11b (<RUBY><ruby><ruby>ἣν°¹⮥<rt>ὅς, ἥ</rt></ruby><rt>that</rt></ruby><rt>R-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἠκούσατε</mark><rt>ἀκούω</rt></ruby><rt>you have heard</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀρχῆς<rt>ἀρχή</rt></ruby><rt>[the] beginning,</rt></ruby><rt>N-GSF</rt></RUBY> )A
@@ -41,6 +41,6 @@ draft: false
 - 3:18a <RUBY><ruby><ruby>Τεκνία<rt>τεκνίον</rt></ruby><rt>Little children,</rt></ruby><rt>N-VPN</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἀγαπῶμεν</mark><rt>ἀγαπάω</rt></ruby><rt>we may love</rt></ruby><rt>V-PAS-1P</rt></RUBY>)P (<RUBY><ruby><ruby>λόγῳ<rt>λόγος</rt></ruby><rt>in word,</rt></ruby><rt>N-DSM</rt></RUBY>)A1 <RUBY><ruby><ruby>μηδὲ<rt>μηδέ</rt></ruby><rt>nor</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>γλώσσῃ<rt>γλῶσσα</rt></ruby><rt>in tongue,</rt></ruby><rt>N-DSF</rt></RUBY>)A2
 - 3:18b <RUBY><ruby><ruby>ἀλλ᾽<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἔργῳ<rt>ἔργον</rt></ruby><rt>action</rt></ruby><rt>N-DSN</rt></RUBY><RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ.<rt>ἀλήθεια</rt></ruby><rt>in truth.</rt></ruby><rt>N-DSF</rt></RUBY>)A
 
-[^1]: ὁ κόσμος.：NA28 標點符號用句號，表示 3:13b 整個子句是 3:13a **θαυμάζετε** 的內容，所以要當作 3:13a 的補語。但對照約15:18 類似的結構 (Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ... 世人若恨你們、你們知道 ...) 來看，也可以把 3:13b 當作 3:14a 的條件子句 (如果世人恨你們，我們知道 ...)——倘若如此，標點符號就該改成逗號 ὁ κόσμο, 。
-[^2]: ζωὴν αἰώνιον ἐν αὐτῷ _μένουσαν_：名詞後面接了格數性 (ASF) 相同的形容詞 (αἰώνιον) 和分詞內嵌子句 (ἐν αὐτῷ _μένουσαν_)，文法上有兩種解讀的可能：(1) 當作修飾用法，意思是「永遠的、住在他裡面的生命」; (2) 當做敘述用法，意思是「生命，which is 永遠的，which is 住在他裡面的」。兩種解讀意思差不多。
-[^3]: Ὃς ...：關係子句當作暗示的條件子句使用 (GGBB, 688)，所以要退後一排。
+[^1]: ὁ κόσμος.：NA28 標點符號用句號，表示 3:13b 整個子句是 3:13a **θαυμάζετε** 的內容，所以要當作 3:13a 的補語。但對照約15:18 類似的結構（Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ... 世人若恨你們、你們知道 ...）來看，也可以把 3:13b 當作 3:14a 的條件子句（如果世人恨你們，我們知道 ...）——倘若如此，標點符號就該改成逗號 ὁ κόσμο, 。
+[^2]: ζωὴν αἰώνιον ἐν αὐτῷ _μένουσαν_：名詞後面接了格數性（ASF）相同的形容詞（αἰώνιον）和分詞內嵌子句（ἐν αὐτῷ _μένουσαν_)，文法上有兩種解讀的可能：(1）當作修飾用法，意思是「永遠的、住在他裡面的生命」; (2) 當做敘述用法，意思是「生命，which is 永遠的，which is 住在他裡面的」。兩種解讀意思差不多。
+[^3]: Ὃς ...：關係子句當作暗示的條件子句使用（GGBB, 688），所以要退後一排。

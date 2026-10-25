@@ -3,7 +3,7 @@ title: "Jas.3.13-18"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 3:13-18)
+## 圖析（Jas 3:13-18）
 
 - 3:13a (<RUBY><ruby><ruby>Τίς<rt>τίς</rt></ruby><rt>誰</rt></ruby><rt>I-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>σοφὸς<rt>σοφός</rt></ruby><rt>有智慧</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπιστήμων<rt>ἐπιστήμων</rt></ruby><rt>有見識的</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>中間</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>給你們</rt></ruby><rt>P-2DP</rt></RUBY>)A <mark class='punctuation'>;</mark> 
 - 3:13b (<RUBY><ruby><ruby><mark class='verb'>δειξάτω</mark><rt>δεικνύω</rt></ruby><rt>表現</rt></ruby><rt>V-AAM-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>用</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>καλῆς<rt>καλός</rt></ruby><rt>美好</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀναστροφῆς<rt>ἀναστροφή</rt></ruby><rt>品行</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>τὰ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἔργα<rt>ἔργον</rt></ruby><rt>行為</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>他</rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>中間</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πραΰτητι<rt>πραΰτης</rt></ruby><rt>溫柔</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>σοφίας<rt>σοφία</rt></ruby><rt>智慧</rt></ruby><rt>N-GSF</rt></RUBY>)A <mark class='punctuation'>.</mark>

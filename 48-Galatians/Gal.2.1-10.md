@@ -1,6 +1,6 @@
 ### Paul Accepted by the Other Apostles (Gal 2:1-10)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 - 2:1 (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01899&m='>ἔπειτα</a></span><span class="g">然後 Then</span><span class="t">Ἔπειτα</span></span>)A  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></span><span class="g">過了 after</span><span class="t">διὰ</span></span>  <span class="w"><span class="m">A-GPN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01180&m='>δεκατέσσαρες</a></span><span class="g">十四 fourteen</span><span class="t">δεκατεσσάρων</span></span>  <span class="w"><span class="m">N-GPN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02094&m='>ἔτος</a></span><span class="g">年 years</span><span class="t">ἐτῶν</span></span>)A  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03825&m='>πάλιν</a></span><span class="g">再 again</span><span class="t">πάλιν</span></span>)A (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00305&m='>ἀναβαίνω</a></span><span class="g">我上去 I went up</span><span class="t"><span class='verb'>ἀνέβην</span></span></span>)P (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></span><span class="g">到 to</span><span class="t">εἰς</span></span>  <span class="w"><span class="m">N-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02414&m='>Ἱεροσόλυμα</a></span><span class="g">耶路撒冷 Jerusalem</span><span class="t">Ἱεροσόλυμα</span></span>)A  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></span><span class="g">同 with</span><span class="t">μετὰ</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00921&m='>Βαρνάβας</a></span><span class="g">巴拿巴 Barnabas</span><span class="t">Βαρνάβα</span></span>)A ⁅‹<span class="w"><span class="m">V-AAP-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04838&m='>συμπαραλαμβάνω</a></span><span class="g">帶著一起去 having taken with [me]</span><span class="t"><span class='ptc'>συμπαραλαβὼν</span></span></span>›p ‹<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></span><span class="g">也 also</span><span class="t">καὶ</span></span>›a ‹<span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05103&m='>Τίτος</a></span><span class="g">提多 Titus</span><span class="t">Τίτον</span></span>›c⁆A <span class='punctuation'>·</span> 
 - 2:2a (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00305&m='>ἀναβαίνω</a></span><span class="g">我上去 I went up</span><span class="t"><span class='verb'>ἀνέβην</span></span></span>)P  <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">- now</span><span class="t">δὲ</span></span>  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></span><span class="g">照著 according to</span><span class="t">κατὰ</span></span>  <span class="w"><span class="m">N-ASF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00602&m='>ἀποκάλυψις</a></span><span class="g">啟示 a revelation</span><span class="t">ἀποκάλυψιν</span></span>)A  <span class='punctuation'>·</span> 
 - 2:2b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></span><span class="g">- and</span><span class="t">καὶ</span></span>  (<span class="w"><span class="m">V-AMI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00394&m='>ἀνατίθημι</a></span><span class="g">我說明 set before</span><span class="t"><span class='verb'>ἀνεθέμην</span></span></span>)P  (<span class="w"><span class="m">P-DPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></span><span class="g">對他們 them</span><span class="t">αὐτοῖς</span></span>)C  (<span class="w"><span class="m">T-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὸ</span></span>  <span class="w"><span class="m">N-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></span><span class="g">福音 gospel</span><span class="t">εὐαγγέλιον</span></span>°¹)C 
@@ -36,7 +36,7 @@
 
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
 - 2:1 συμπαραλαβὼν καὶ Τίτον · 
@@ -68,7 +68,7 @@
 	- ἵνα 在文法上可以從屬於 2:4b 或 2:4c，但從上下文判斷，從屬於 2:4b 比較通順，表達假弟兄混進來的目的
 - 2:5a οἷς οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ , 
 	- οἷς 關係代名詞，數性 [PM] 指向 2:4a 的假弟兄
-	- τῇ ὑποταγῇ：主要動詞 εἴξαμεν 如果有補語 受詞，會用間接受格 (BAGD)，代表容讓的對象 人。所以這裡的見接受格要當狀語 (副詞) 使用，意思是「藉著順服的方式去容讓那些假弟兄」。
+	- τῇ ὑποταγῇ：主要動詞 εἴξαμεν 如果有補語 受詞，會用間接受格（BAGD)，代表容讓的對象 人。所以這裡的見接受格要當狀語 (副詞）使用，意思是「藉著順服的方式去容讓那些假弟兄」。
 - 2:5b ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς . 
 	- 同樣，從上下文判斷，ἵνα 從屬於 2:5a 比較通順。
 - ──────────────────────────
@@ -78,24 +78,24 @@
 - 2:6b —— ὁποῖοί ποτε ἦσαν 
 	- 從上下文判斷，2:6b 是保羅思路中斷、插入的子句，所以用現代標點符號來標示
 - 2:6c οὐδέν μοι διαφέρει · 
-	- διαφέρει 在此是不及物動詞 (BAGD 二)，所以 οὐδέν 和 μοι 不能當作補語，只能當作狀語 。
+	- διαφέρει 在此是不及物動詞（BAGD 二），所以 οὐδέν 和 μοι 不能當作補語，只能當作狀語 。
 - 2:6d πρόσωπον ὁ Θεὸς ἀνθρώπου οὐ λαμβάνει ——
 	- πρόσωπον ... ἀνθρώπου 被切成兩半的現象在希臘文很常見，文法上稱之為「倒置 hyperbaton」 (ATR, 424-25; CCGG, §292c)
 - 2:6e ἐμοὶ γὰρ οἱ δοκοῦντες οὐδὲν προσανέθεντο , 
-	- προσανέθεντο 是及物動詞 (BAGD 一)，所以 ἐμοὶ(人)、οὐδὲν(事物) 都是 C。
+	- προσανέθεντο 是及物動詞（BAGD 一)，所以 ἐμοὶ(人)、οὐδὲν(事物）都是 C。
 - 2:7a-2:9e 是一個完整的句子，結構是：<br> ——2:7b-2:8 副詞用法的分詞內嵌子句#1 ἰδόντες ...，修飾 2:9c 的主要動詞 ἔδωκαν <br> ——2:9a 副詞用法的分詞內嵌子句#2 γνόντες ...，修飾 2:9c 的主要動詞 ἔδωκαν <br> 2:9c 主要子句 Ἰάκωβος ... <br> ——2:9de ἵνα 帶出的兩個從屬子句
 - 2:7a ἀλλὰ τοὐναντίον
-	- τοὐναντίον：是 ἐναντίον 前面加上冠詞 τοὐ 之後所形成的複合字 (BAGD)，意思是「在另一方面」。
+	- τοὐναντίον：是 ἐναντίον 前面加上冠詞 τοὐ 之後所形成的複合字（BAGD），意思是「在另一方面」。
 - 2:7b ἰδόντες 
 	- 2:7c-2:8 都是 ὅτι 帶出的從屬子句當實名詞用，當作 ἰδόντες 的補語
 - 2:7c ὅτι πεπίστευμαι τὸ εὐαγγέλιον τῆς ἀκροβυστίας 
 	- τὸ εὐαγγέλιον τῆς ἀκροβυστίας：因為 εὐαγγέλιον 是「一個表達動作並能『轉換』為動詞的主要名詞」進深，143，所以後面的所有格 τῆς ἀκροβυστίας 是動詞用法。從上下文判斷，應該是「受詞所有格」進深，145-6 比較恰當，意思是「傳福音給未受割禮的人」。
-	- 「未受割禮之人的福音」是 **πεπίστευμαι** (我被託付) 的內容，所以應該是 C (補語)。轉換成主動語態的話，就會是：神、基督 (S)—託付 (主動語態; P)—我 (間接受格; C)—未受割禮之人的福音 (直接受格; C)。
+	- 「未受割禮之人的福音」是 **πεπίστευμαι** (我被託付) 的內容，所以應該是 C (補語)。轉換成主動語態的話，就會是：神、基督（S）—託付（主動語態; P）—我（間接受格; C）—未受割禮之人的福音（直接受格; C）。
 - 2:7d καθὼς Πέτρος τῆς περιτομῆς , 
 	- 結構與 2:7c 相同，只是省略了 πεπίστευμαι τὸ εὐαγγέλιον 
 - 2:8 ὁ γὰρ ἐνεργήσας Πέτρῳ εἰς ἀποστολὴν τῆς περιτομῆς ἐνήργησεν καὶ ἐμοὶ εἰς τὰ ἔθνη , 
 	- ὁ ἐνεργήσας ...：冠詞＋分詞內嵌子句＝實名詞的結構 進深，485-6
-	- ἐνεργήσας 在此是不及物動詞 (BAGD 一、A)，所以 Πέτρῳ 是狀語 。
+	- ἐνεργήσας 在此是不及物動詞（BAGD 一、A），所以 Πέτρῳ 是狀語 。
 - 2:9a καὶ γνόντες τὴν χάριν τὴν δοθεῖσάν μοι , 
 	- τὴν χάριν τὴν δοθεῖσάν μοι ：T—N—T—分詞內嵌子句，是形容用法的分詞 進深，484-5 擺在形容用法的第二位置 進深，246。
 - 2:9c Ἰάκωβος καὶ Κηφᾶς καὶ Ἰωάννης , οἱ δοκοῦντες στῦλοι εἶναι , δεξιὰς ἔδωκαν ἐμοὶ καὶ Βαρνάβα κοινωνίας , 

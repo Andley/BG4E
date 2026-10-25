@@ -1,7 +1,7 @@
 ### The Law and the Promise (Gal 3:15-20)
 
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 
 - 3:15a (<span class="w"><span class="m">N-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00080&m='>ἀδελφός</a></span><span class="g">弟兄們 Brothers</span><span class="t">Ἀδελφοί</span></span> )V <span class='punctuation'>,</span> 
@@ -28,41 +28,42 @@
 - 3:19b (⸢<span class="w"><span class="m">T-GPF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">τῶν</span></span>  <span class="w"><span class="m">N-GPF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03847&m='>παράβασις</a></span><span class="g">過犯 Transgressions</span><span class="t">παραβάσεων</span></span> ⸣ <span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05484&m='>χάριν</a></span><span class="g">為了的緣故 on account of</span><span class="t">χάριν</span></span> )A (<span class="w"><span class="m">V-API-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04369&m='>προστίθημι</a></span><span class="g">被加上 it was added</span><span class="t"><span class='verb'>προσετέθη</span></span></span> )P°² <span class='punctuation'>,</span> 
 	- 3:19c (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00891&m='>ἄχρι</a></span><span class="g">直到 until</span><span class="t">ἄχρις</span></span>  <span class="w"><span class="m">R-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></span><span class="g">那位 that</span><span class="t">οὗ</span></span> )A (<span class="w"><span class="m">V-AAS-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></span><span class="g">來到 should have come</span><span class="t"><span class='verb'>ἔλθῃ</span></span></span> )P (<span class="w"><span class="m">T-NSN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὸ</span></span>  <span class="w"><span class="m">N-NSN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04690&m='>σπέρμα</a></span><span class="g">子孫 seed</span><span class="t">σπέρμα</span></span> °³)S 
 		- 3:19d (<span class="w"><span class="m">R-DSN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></span><span class="g">- to whom</span><span class="t">ᾧ</span></span> ⮥°³)C (<span class="w"><span class="m">V-RMI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01861&m='>ἐπαγγέλλω</a></span><span class="g">蒙應許 promise has been made</span><span class="t"><span class='verb'>ἐπήγγελται</span></span></span> )P <span class='punctuation'>,</span> 
-	- ⁅‹<span class="w"><span class="m">V-APP-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01299&m='>διατάσσω</a></span><span class="g">所設立 having been ordained</span><span class="t"><span class='ptc'>διαταγεὶς</span></span></span> ›p ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></span><span class="g">藉著 through</span><span class="t">δι᾽</span></span>  <span class="w"><span class="m">N-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00032&m='>ἄγγελος</a></span><span class="g">天使 angels</span><span class="t">ἀγγέλων</span></span> ›a ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></span><span class="g">經 in</span><span class="t">ἐν</span></span>  <span class="w"><span class="m">N-DSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05495&m='>χείρ</a></span><span class="g">手 [the] hand</span><span class="t">χειρὶ</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03316&m='>μεσίτης</a></span><span class="g">中保 of a mediator</span><span class="t">μεσίτου</span></span> ›a⁆A⮥°³ <span class='punctuation'>.</span> 
+	- 3:19e ⁅‹<span class="w"><span class="m">V-APP-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01299&m='>διατάσσω</a></span><span class="g">所設立 having been ordained</span><span class="t"><span class='ptc'>διαταγεὶς</span></span></span> ›p ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01223&m='>διά</a></span><span class="g">藉著 through</span><span class="t">δι᾽</span></span>  <span class="w"><span class="m">N-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00032&m='>ἄγγελος</a></span><span class="g">天使 angels</span><span class="t">ἀγγέλων</span></span> ›a ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></span><span class="g">經 in</span><span class="t">ἐν</span></span>  <span class="w"><span class="m">N-DSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05495&m='>χείρ</a></span><span class="g">手 [the] hand</span><span class="t">χειρὶ</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03316&m='>μεσίτης</a></span><span class="g">中保 of a mediator</span><span class="t">μεσίτου</span></span> ›a⁆A⮥°² <span class='punctuation'>.</span> 
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 3:20a (<span class="w"><span class="m">T-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">ὁ</span></span> )⦇<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">但 However</span><span class="t">δὲ</span></span> ⦈(<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03316&m='>μεσίτης</a></span><span class="g">中保 a mediator</span><span class="t">μεσίτης</span></span> )S (<span class="w"><span class="m">A-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01520&m='>εἷς</a></span><span class="g">為單 of one [person]</span><span class="t">ἑνὸς</span></span> )C <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">V-PAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 is</span><span class="t"><span class='verb'>ἔστιν</span></span></span> )P <span class='punctuation'>,</span> 
+- 【3:20a (<span class="w"><span class="m">T-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">ὁ</span></span> )⦇<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">但 However</span><span class="t">δὲ</span></span> ⦈(<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03316&m='>μεσίτης</a></span><span class="g">中保 a mediator</span><span class="t">μεσίτης</span></span>  <span class="w"><span class="m">A-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01520&m='>εἷς</a></span><span class="g">為單 of one [person]</span><span class="t">ἑνὸς</span></span> )S <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">V-PAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 is</span><span class="t"><span class='verb'>ἔστιν</span></span></span> )P <span class='punctuation'>,</span> 】
 - 3:20b (<span class="w"><span class="m">T-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">ὁ</span></span> )⦇<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">卻 but</span><span class="t">δὲ</span></span> ⦈(<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></span><span class="g">上帝 God</span><span class="t">Θεὸς</span></span> )S (<span class="w"><span class="m">A-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01520&m='>εἷς</a></span><span class="g">一位 one</span><span class="t">εἷς</span></span> )C (<span class="w"><span class="m">V-PAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 is</span><span class="t"><span class='verb'>ἐστιν</span></span></span> )P <span class='punctuation'>.</span>
 
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes`)
 
 
-- 3:15a Ἀδελφοί , 
-- 3:15b κατὰ ἄνθρωπον λέγω · 
 - 3:15c ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ 
-- 3:15d ἢ ἐπιδιατάσσεται . 
-- 3:16a τῷ δὲ Ἀβραὰμ ἐρρέθησαν αἱ ἐπαγγελίαι καὶ τῷ σπέρματι αὐτοῦ . 
-- 3:16b οὐ λέγει · 
+	- 3:15b 說話內容，所以河岸退後一排
+	- ὅμως：在此的意思可能是「然而」，也或者是「相似地、同樣地」(BAGD)。
+	- ἀνθρώπου κεκυρωμένην διαθήκην：分詞 κεκυρωμένην 當形容詞用，修飾 διαθήκην；ἀνθρώπου 修飾 διαθήκην，刻意挪到前面，表達強調。
 - 3:16c Καὶ τοῖς σπέρμασιν , 
-- 3:16d ὡς ἐπὶ πολλῶν 
-- 3:16e ἀλλ᾽ 
-- 3:16f ὡς ἐφ᾽ ἑνός · 
-- 3:16g Καὶ τῷ σπέρματί σου , 
-- 3:16h ὅς ἐστιν Χριστός . 
+	- 說話內容，所以河岸退後一排
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 3:17a Τοῦτο δὲ λέγω · 
 - 3:17b διαθήκην προκεκυρωμένην ὑπὸ τοῦ Θεοῦ ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν . 
-- 3:18a γὰρ 
+	- προκεκυρωμένην ὑπὸ τοῦ Θεοῦ：分詞內嵌子句，前面沒有冠詞——但因為格數性是 [ASF]，所以只能勾（修飾）到前面的 διαθήκην，形成「N—分詞內嵌子句」的結構（進深，247）——從上下文判斷，形容用法、敘述用法都說得通。
+		- προκεκυρωμένην：現在完成式時態形式，表達狀態的觀點；被動語態，後面接 ὑπὸ τοῦ Θεοῦ，表達動作的「終極執行者」(進深，295-6)。
+	- ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος：冠詞＋分詞內嵌子句＝實名詞。
+	- εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν：介係詞（εἰς）＋冠詞（τὸ）＋不定詞內嵌子句＝介係詞片語，表達結果（進深，545）。
+- 3:18a γὰρ：後置詞，為了圖析清楚而挪到前面。
 - 3:18b εἰ ἐκ νόμου ἡ κληρονομία , 
-- 3:18c οὐκέτι ἐξ ἐπαγγελίας · 
-- 3:18d τῷ δὲ Ἀβραὰμ δι᾽ ἐπαγγελίας κεχάρισται ὁ Θεός . 
+	- 第一類條件句，省略主要動詞。
 - ──────────────────────────
-- 3:19a Τί οὖν ὁ νόμος ; 
 - 3:19b τῶν παραβάσεων χάριν προσετέθη , 
+	- χάριν：「因為，為了…的緣故」，與所有格連用，幾乎都接在所支配的字後面（BAGD）。
 - 3:19c ἄχρις οὗ ἔλθῃ τὸ σπέρμα 
+	- ἄχρις οὗ：慣用語，相當於連接詞，表達時間（BAGD）。
 - 3:19d ᾧ ἐπήγγελται , 
-- διαταγεὶς δι᾽ ἀγγέλων ἐν χειρὶ μεσίτου . 
+	- ᾧ：關係代名詞，性數 [SN] 指向 2:19d 的先行詞 σπέρμα。
+- 3:19e διαταγεὶς δι᾽ ἀγγέλων ἐν χειρὶ μεσίτου . 
+	- 分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法（進深，487），修飾主要動詞。從句法上看，可以修飾 a) 3:19d ἐπήγγελται，但 ἐπήγγελται 內含的主詞 [3S] 從上下文判斷應該是「亞伯拉罕」；或者 b) 3:19c 的 ἔλθῃ，但 ἔλθῃ 內含的主詞 [3S] 卻是「子孫」——兩者都跟 3:19e的意思不吻合——比較可能的是修飾 3:19b προσετέθη，內含的主詞 [3S] 是「律法」，雖然距離 3:19e 稍遠，但語意上最為連貫。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 3:20a ὁ δὲ μεσίτης ἑνὸς οὐκ ἔστιν , 
-- 3:20b ὁ δὲ Θεὸς εἷς ἐστιν .
+	- ἑνὸς：雖然不是主格，但從上下文判斷是在表達中保的屬性，所以當作 C。
+	- 另一種可能是把所有格 ἑνὸς 修飾前面的 μεσίτης，圖析就會變成：S(一個人的中保)—A(不)—P(存在)。

@@ -3,7 +3,7 @@ title: "Jas.1.19-27"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 1:19-27)
+## 圖析（Jas 1:19-27）
 
 - 1:19a (<RUBY><ruby><ruby><mark class='verb'>Ἴστε</mark><rt>εἴδω</rt></ruby><rt>知道</rt></ruby><rt>V-RAM-2P</rt></RUBY>)P <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>親愛的</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>·</mark> 
 	- 1:19b (<RUBY><ruby><ruby><mark class='verb'>ἔστω</mark><rt>εἰμί</rt></ruby><rt>是/在/有</rt></ruby><rt>V-PAM-3S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>每個</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>人</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ταχὺς<rt>ταχύς</rt></ruby><rt>敏</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>於</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><mark class='inf'>ἀκοῦσαι</mark><rt>ἀκούω</rt></ruby><rt>聽</rt></ruby><rt>V-AAN</rt></RUBY>)A <mark class='punctuation'>,</mark> 

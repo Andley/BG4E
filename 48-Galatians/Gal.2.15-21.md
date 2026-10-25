@@ -1,7 +1,7 @@
 ### Jews, like Gentiles, are Saved by Faith (Gal 2:15-21)
 
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 
 - 2:15a  (<span class="w"><span class="m">P-1NP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></span><span class="g">我們 We</span><span class="t">Ἡμεῖς</span></span> )S  (<span class="w"><span class="m">N-DSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05449&m='>φύσις</a></span><span class="g">生來 by birth</span><span class="t">φύσει</span></span> )A  (<span class="w"><span class="m">A-NPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02453&m='>Ἰουδαῖος</a></span><span class="g">猶太人 Jews</span><span class="t">Ἰουδαῖοι</span></span> )C 
@@ -38,7 +38,7 @@
 - 2:21d  <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00686&m='>ἄρα</a></span><span class="g">那麼 then</span><span class="t">ἄρα</span></span>   (<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></span><span class="g">基督 Christ</span><span class="t">Χριστὸς</span></span> )S  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01432&m='>δωρεάν</a></span><span class="g">白白地 for naught</span><span class="t">δωρεὰν</span></span> )A  (<span class="w"><span class="m">V-AAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00599&m='>ἀποθνήσκω</a></span><span class="g">死了 died</span><span class="t"><span class='verb'>ἀπέθανεν</span></span></span> )P  <span class='punctuation'>.</span><span class='paragraph'></span>
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
 - 2:15a Ἡμεῖς φύσει Ἰουδαῖοι 
@@ -46,20 +46,20 @@
 - 2:15b καὶ οὐκ ἐξ ἐθνῶν Ἁμαρτωλοί · 
 	- 無動詞子句，很可能省略了聯繫動詞。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 2:16 是一個完整的句子，後置詞 δὲ 是對等連接詞，帶出 2:16e 的主要子句；2:16bcd 是分詞內嵌子句，主格、前面沒有冠詞，是分詞的副詞用法 (進深，487)，修飾  2:16e 的主要動詞  <span class='verb'>ἐπιστεύσαμεν</span>，從上下文判斷可能表達原因(進深，493-4)。
+- 2:16 是一個完整的句子，後置詞 δὲ 是對等連接詞，帶出 2:16e 的主要子句；2:16bcd 是分詞內嵌子句，主格、前面沒有冠詞，是分詞的副詞用法（進深，487），修飾  2:16e 的主要動詞  <span class='verb'>ἐπιστεύσαμεν</span>，從上下文判斷可能表達原因（進深，493-4）。
 - 2:16e καὶ：從上下文判斷，在此近似於副詞，意思是：「也、甚至」(BAGD 乙)。
 - 2:16f 從屬連接詞 ἵνα 帶出從屬子句，說明 2:16e「我們也信了基督耶穌」的目的。
 - 2:16g 從屬連接詞 ὅτι 帶出從屬子句，就句法來說，可以從屬於 2:16e、或者 2:16f。從上下文判斷，兩種都說得通——為了簡化句法層級，所以擺在河岸第二排。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 2:17 是一個完整的句子，後置詞 δὲ 是對等連接詞，帶出 2:17bc 的第一類條件句 (進深，666)，2:17b 是條件子句，2:17c 是用 ἆρα 提出假設性問題的結果子句，最後用 2:17d 自己回答。
-- 2:17b  <span class='ptc'>ζητοῦντες</span> <span class='inf'>δικαιωθῆναι</span> ἐν Χριστῷ <span> 是兩層的內嵌子句：外層是 <span class='ptc'>ζητοῦντες</span> 帶頭的分詞內嵌子句，主格、前面沒有冠詞，是分詞的副詞用法 (進深，487)，修飾主要動詞 εὑρέθημεν；內層是 δικαιωθῆναι 帶出的不定詞內嵌子句——雖然課本 (進深，541) 當作是副詞用法，但還是應該放在名詞用法下面，當作 ζητοῦντες 的補語比較恰當。
+- 2:17 是一個完整的句子，後置詞 δὲ 是對等連接詞，帶出 2:17bc 的第一類條件句（進深，666），2:17b 是條件子句，2:17c 是用 ἆρα 提出假設性問題的結果子句，最後用 2:17d 自己回答。
+- 2:17b  <span class='ptc'>ζητοῦντες</span> <span class='inf'>δικαιωθῆναι</span> ἐν Χριστῷ <span> 是兩層的內嵌子句：外層是 <span class='ptc'>ζητοῦντες</span> 帶頭的分詞內嵌子句，主格、前面沒有冠詞，是分詞的副詞用法（進深，487)，修飾主要動詞 εὑρέθημεν；內層是 δικαιωθῆναι 帶出的不定詞內嵌子句——雖然課本 (進深，541）當作是副詞用法，但還是應該放在名詞用法下面，當作 ζητοῦντες 的補語比較恰當。
 - 2:17c 無動詞子句，很可能省略了聯繫動詞。
 - 2:17d μὴ <span class='verb'>γένοιτο</span> 表達「憎惡、厭惡」(進深，311)。
-- 2:18 是一個完整的句子，後置詞 γὰρ 是對等連接詞，帶出 2:18bc 的第一類條件句 (進深，666)。
-- 2:18b  ἃ <span class='verb'>κατέλυσα</span> 是關係內嵌子句，關係代名詞 ἃ 沒有先行詞，只能從上下文推敲——可能是「靠律法稱義」；ταῦτα 是復指代名詞 (resumptive pronoun)，
+- 2:18 是一個完整的句子，後置詞 γὰρ 是對等連接詞，帶出 2:18bc 的第一類條件句（進深，666）。
+- 2:18b  ἃ <span class='verb'>κατέλυσα</span> 是關係內嵌子句，關係代名詞 ἃ 沒有先行詞，只能從上下文推敲——可能是「靠律法稱義」；ταῦτα 是復指代名詞（resumptive pronoun），
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:20c 後置詞 δὲ 是對等連接詞，帶出 2:20e 的主要子句
-- 2:20d 關係代名詞 ὃ 帶出的關係從屬子句，因為主要動詞 ζῶ 是不及物動詞，所以 ὃ [ASN] 只能當作直接受格的副詞用法 (進深，104)，修飾主要動詞 ζῶ；從上下文判斷，ὃ 單數中性，指向下文 2:20e 的整個生活模式，是句法上的後行詞 (postcedent [進深，590])。
-- 2:20e  τῇ 有三方面作用：<br>a) 把後面 T(τοῦ)—N(Υἱοῦ)—T(τοῦ)—分詞內嵌子句(<span class='ptc'>ἀγαπήσαντός</span> με καὶ <span class='ptc'>παραδόντος</span> ἑαυτὸν ὑπὲρ ἐμοῦ) 的結構變成實名詞<br>b) 用單數陰性 [SF]] 延續放在子句前面表達強調的 πίστει，發揮 resumptive pronoun (類似 2:18b ταῦτα) 的效果<br>c) 用憑藉間接受格 (進深，195) 表達生活的方式 (進深，197)。
+- 2:20d 關係代名詞 ὃ 帶出的關係從屬子句，因為主要動詞 ζῶ 是不及物動詞，所以 ὃ [ASN] 只能當作直接受格的副詞用法（進深，104），修飾主要動詞 ζῶ；從上下文判斷，ὃ 單數中性，指向下文 2:20e 的整個生活模式，是句法上的後行詞（postcedent [進深，590]）。
+- 2:20e  τῇ 有三方面作用：<br>a) 把後面 T(τοῦ)—N(Υἱοῦ)—T(τοῦ)—分詞內嵌子句（<span class='ptc'>ἀγαπήσαντός</span> με καὶ <span class='ptc'>παραδόντος</span> ἑαυτὸν ὑπὲρ ἐμοῦ） 的結構變成實名詞<br>b) 用單數陰性 [SF]] 延續放在子句前面表達強調的 πίστει，發揮 resumptive pronoun (類似 2:18b ταῦτα) 的效果<br>c) 用憑藉間接受格（進深，195）表達生活的方式（進深，197）。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 2:21cd 條件句——雖然結果子句 2:21d 表面上沒有 ἄν，但從上下文 (尤其是 ἄρα 也有強調效果 [BAGD 三]) 判斷，語意上應該是第二類 (與事實相反的) 條件句 (進深，666)。
+- 2:21cd 條件句——雖然結果子句 2:21d 表面上沒有 ἄν，但從上下文（尤其是 ἄρα 也有強調效果 [BAGD 三]）判斷，語意上應該是第二類（與事實相反的）條件句（進深，666）。

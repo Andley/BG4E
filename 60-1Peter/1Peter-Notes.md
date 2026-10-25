@@ -4,7 +4,7 @@
 
 #### 經文閱讀
 
-經文(重音、大小寫、標點符號、排版) 出自 OGNTa Project([@GitHub](https://github.com/Andley/OGNTa))；分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/1PE.1/)
+經文（重音、大小寫、標點符號、排版） 出自 OGNTa Project([@GitHub](https://github.com/Andley/OGNTa))；分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/1PE.1/)
 
 - [彼得前書 Interlinear (中文) ](1Peter-Interlinear.md)
 - [彼得前書 Interlinear (中文) PDF](1Peter-Interlinear.pdf)
@@ -49,9 +49,9 @@
  簡寫 | 出處
  :-:| -- 
 W  | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. 
-華  | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+華  | 華勒斯（Daniel B. Wallace）。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
  P  | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.  |
-波  | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 
+波  | 斯丹利‧波特（Stanley E. Porter）。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 
 Forbes | Forbes, Greg W. _1 Peter_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2014.
 Dubis | Dubis, Mark. _1 Peter: A Handbook on the Greek Text_. BHGNT. Baylor University Press, 2010.
 Jobes | Jobes, Karen H. _1 Peter_. Baker Exegetical Commentary on the New Testament. Baker Academic, 2005.

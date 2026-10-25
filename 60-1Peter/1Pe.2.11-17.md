@@ -3,7 +3,7 @@ title: "1Pe.2.11-17"
 date: 2026-07-04
 draft: false
 ---
-  #### 圖析 (1Pe 2:11-12)
+  #### 圖析（1Pe 2:11-12）
  
 - 2:11a <RUBY><ruby><ruby>Ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>亲爱的</rt></ruby><rt>A-VPM</rt></RUBY> <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby><mark class='verb'>παρακαλῶ</mark><rt>παρακαλέω</rt></ruby><rt>劝</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P 
 	- 2:11b (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>就象</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>παροίκους<rt>πάροικος</rt></ruby><rt>客旅</rt></ruby><rt>A-APM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>和</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>παρεπιδήμους<rt>παρεπίδημος</rt></ruby><rt>寄居的</rt></ruby><rt>A-APM</rt></RUBY>)a (<RUBY><ruby><ruby><em>ἀπέχεσθαι</em><rt>ἀπέχω</rt></ruby><rt>禁戒</rt></ruby><rt>V-PMN</rt></RUBY>)p°¹ (<RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>那</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>σαρκικῶν<rt>σαρκικός</rt></ruby><rt>肉体</rt></ruby><rt>A-GPF</rt></RUBY> <RUBY><ruby><ruby>ἐπιθυμιῶν<rt>ἐπιθυμία</rt></ruby><rt>私欲</rt></ruby><rt>N-GPF</rt></RUBY>°²)c <mark class='punctuation'>,</mark> 
@@ -16,7 +16,7 @@ draft: false
 
 
 
-### 圖析 (1Pe 2:13-17)
+### 圖析（1Pe 2:13-17）
 
 - 2:13a (<RUBY><ruby><ruby><mark class='verb'>Ὑποτάγητε</mark><rt>ὑποτάσσω</rt></ruby><rt>顺服</rt></ruby><rt>V-2APM-2P</rt></RUBY>)P°¹ (<RUBY><ruby><ruby>πάσῃ<rt>πᾶς</rt></ruby><rt>一切</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>ἀνθρωπίνῃ<rt>ἀνθρώπινος</rt></ruby><rt>人</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>κτίσει<rt>κτίσις</rt></ruby><rt>制度</rt></ruby><rt>N-DSF</rt></RUBY>)C (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>为...的缘故</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κύριον<rt>κύριος</rt></ruby><rt>主</rt></ruby><rt>N-ASM</rt></RUBY>)A <mark class='punctuation'>·</mark>
 	- 2:13b <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>或是</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>βασιλεῖ<rt>βασιλεύς</rt></ruby><rt>君王</rt></ruby><rt>N-DSM</rt></RUBY>)C (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>（为）</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ὑπερέχοντι</em><rt>ὑπερέχω</rt></ruby><rt>在上</rt></ruby><rt>V-PAP-DSM</rt></RUBY>)A°¹⮥ <mark class='punctuation'>,</mark> 

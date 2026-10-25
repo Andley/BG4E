@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 4:12-20)
+#### 圖析（Gal 4:12-20）
 
 - 4:12a (<RUBY><ruby><ruby><mark class='verb'>Γίνεσθε !</mark><rt>γίνομαι</rt></ruby><rt>Become</rt></ruby><rt>V-PNM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐγώ,<rt>ἐγώ</rt></ruby><rt>I [am]</rt></ruby><rt>P-1NS</rt></RUBY>)C[^1]
 	- 4:12b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>κἀγὼ<rt>κἀγώ</rt></ruby><rt>I also [have become]</rt></ruby><rt>P-1NS-K</rt></RUBY>[^2])S (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμεῖς,<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)C[^3]
@@ -39,15 +39,15 @@ draft: true
 - 4:20a (<RUBY><ruby><ruby><mark class='verb'>ἤθελον</mark><rt>θέλω</rt></ruby><rt>I was wishing</rt></ruby><rt>V-IAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>indeed</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>παρεῖναι</mark><rt>πάρειμι</rt></ruby><rt>to be present</rt></ruby><rt>V-PAN</rt></RUBY> ‹<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>›a ‹<RUBY><ruby><ruby>ἄρτι<rt>ἄρτι</rt></ruby><rt>presently</rt></ruby><rt>ADV</rt></RUBY>›a )C <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='inf'>ἀλλάξαι</mark><rt>ἀλλάσσω</rt></ruby><rt>to change</rt></ruby><rt>V-AAN</rt></RUBY> ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>φωνήν<rt>φωνή</rt></ruby><rt>tone</rt></ruby><rt>P-ASF</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>›c )C
 	- 4:20b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἀποροῦμαι</mark><rt>ἀπορέω</rt></ruby><rt>I am perplexed</rt></ruby><rt>V-PMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>as to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν.¶<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2DP</rt></RUBY>)A
 
-[^1]: ὡς ἐγώ：ὡς 及其他的字連用，可作子句的主詞或受詞 (BAGD)。
-[^2]: κἀγὼ：複合代名詞，由καὶ ἐγω合成 (BAGD)。
-[^3]: ὡς ὑμεῖς：ὡς 及其他的字連用，可作子句的主詞或受詞 (BAGD)。
+[^1]: ὡς ἐγώ：ὡς 及其他的字連用，可作子句的主詞或受詞（BAGD）。
+[^2]: κἀγὼ：複合代名詞，由καὶ ἐγω合成（BAGD）。
+[^3]: ὡς ὑμεῖς：ὡς 及其他的字連用，可作子句的主詞或受詞（BAGD）。
 [^4]: οὐδέν με **ἠδικήσατε**：動詞 ἀδικέω 後面可以有兩個直接受格，一個代表「人」、一個代表「事」 (BAGD)。
-[^5]: ὡς ἄγγελον Θεοῦ：ὡς 及其他的字連用，可作子句的主詞或受詞 (BAGD)，在此則是作受詞 με 的 object-complement (受詞補語；GGBB, 182-189)。
-[^6]: ὡς Χριστὸν Ἰησοῦν：ὡς 及其他的字連用，可作子句的主詞或受詞 (BAGD)，在此則是作受詞 με 的 object-complement (受詞補語；GGBB, 182-189)。
+[^5]: ὡς ἄγγελον Θεοῦ：ὡς 及其他的字連用，可作子句的主詞或受詞（BAGD），在此則是作受詞 με 的 object-complement (受詞補語；GGBB, 182-189)。
+[^6]: ὡς Χριστὸν Ἰησοῦν：ὡς 及其他的字連用，可作子句的主詞或受詞（BAGD），在此則是作受詞 με 的 object-complement (受詞補語；GGBB, 182-189)。
 [^7]: ὑμῖν：不是 to you 對你們做見證，而是 for you 為你們做見證，所以是當副詞使用。
-[^8]: **ἐδώκατέ**：動詞 δίδωμι 常接兩個受詞：一個是物 (直接受格)，一個是人 (間接受格)。
-[^9]: ὥστε：結構層面是帶出獨立的子句 (BAGD)，但語意層面卻是總結上文 (4:12-15) 過往的情誼，進而推論「所以，難道就因為說真話，以至於我成了你們的仇敵？」
-[^10]: **Ζηλοῦσιν**：帶直接受格 (人)，表達「深切地關心某人求得某人的利益」(BAGD)，或者 "be deeply interested in someone, court someone’s favor, make much of, with implication of desiring the other to be on one’s own side" (BDAG)。
-[^11]: οὓς：**ὠδίνω** 與直接受格連用，表示痛苦生產出來的對象 (BAGD)。
-[^12]: μέχρις οὗ：相當於連接詞的用法，後面接假設語氣 (BAGD)，表達時間。
+[^8]: **ἐδώκατέ**：動詞 δίδωμι 常接兩個受詞：一個是物（直接受格），一個是人（間接受格）。
+[^9]: ὥστε：結構層面是帶出獨立的子句（BAGD)，但語意層面卻是總結上文 (4:12-15）過往的情誼，進而推論「所以，難道就因為說真話，以至於我成了你們的仇敵？」
+[^10]: **Ζηλοῦσιν**：帶直接受格（人），表達「深切地關心某人求得某人的利益」(BAGD)，或者 "be deeply interested in someone, court someone’s favor, make much of, with implication of desiring the other to be on one’s own side" (BDAG)。
+[^11]: οὓς：**ὠδίνω** 與直接受格連用，表示痛苦生產出來的對象（BAGD）。
+[^12]: μέχρις οὗ：相當於連接詞的用法，後面接假設語氣（BAGD），表達時間。

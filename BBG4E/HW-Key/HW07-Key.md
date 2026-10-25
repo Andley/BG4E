@@ -26,20 +26,20 @@ draft: false
 	- 3:18c <RUBY><ruby><ruby>ὅτι<rt>因為 because</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>πεπίστευκεν</span><rt>他相信 he has believed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>於 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>名字 name</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03686&m='>ὄνομα</a></rt></ruby><rt>N-ASN</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>μονογενοῦς<rt>獨生的獨特 only begotten</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03439&m='>μονογενής</a></rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>Υἱοῦ<rt>兒子 Son</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05207&m='>υἱός</a></rt></ruby><rt>N-GSM</rt></RUBY>› ‹<RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>上帝 of God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-GSM</rt></RUBY>› )A <span class='punctuation'>.</span>
 
 
-[^1]: καθὼς：從屬連接詞，河岸要退後一排；後面常接 οὕτως ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=02531&m=)) 形成前後呼應 (3:14c, 16a)。
+[^1]: καθὼς：從屬連接詞，河岸要退後一排；後面常接 οὕτως ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=02531&m=)) 形成前後呼應（3:14c, 16a）。
 
 [^2]: οὕτως：與 3:14b 的 καθὼς 前後呼應，意思是「摩西怎樣在曠野舉蛇，人子也照樣要被舉起來」。
 
-[^3]: δεῖ：非人稱動詞，主語不是「人 or 物」，而是由直接受格和不定詞 ([BAGD 六]()https://bible.fhl.net/new/s.php?N=0&k=01163&m=) ὑψωθῆναι ... τὸν Υἱὸν τοῦ ἀνθρώπου 所形成的「不定詞內嵌子句」當作主語。
+[^3]: δεῖ：非人稱動詞，主語不是「人 or 物」，而是由直接受格和不定詞（[BAGD 六]()https://bible.fhl.net/new/s.php?N=0&k=01163&m=）ὑψωθῆναι ... τὸν Υἱὸν τοῦ ἀνθρώπου 所形成的「不定詞內嵌子句」當作主語。
 
-[^4]: ὑψωθῆναι ...  τὸν Υἱὸν τοῦ ἀνθρώπου：不定詞內嵌子句，不定詞 (ὑψωθῆναι) 是小p，直接受格  (τὸν Υἱὸν) 是不定詞的小s，整個不定詞內嵌子句被  δεῖ  切成前後兩半，這個現象文法上稱之文「倒置」(Hyperbaton)，目的是為了強調——前後兩半用 ⦇、⦈ 符號表示。
+[^4]: ὑψωθῆναι ...  τὸν Υἱὸν τοῦ ἀνθρώπου：不定詞內嵌子句，不定詞（ὑψωθῆναι）是小p，直接受格  (τὸν Υἱὸν) 是不定詞的小s，整個不定詞內嵌子句被  δεῖ  切成前後兩半，這個現象文法上稱之文「倒置」(Hyperbaton)，目的是為了強調——前後兩半用 ⦇、⦈ 符號表示。
 
 [^5]: ἐν αὐτῷ：介系詞片語，文法上可以修飾前面的分詞 πιστεύων，也可以修飾後面的動詞 ἔχῃ——對照 3:16c, 18a, 18b 類似的結構來看，分詞 πιστεύων 帶有對象的時候都會用 εἰς αὐτὸν，因此這裡的 ἐν αὐτῷ 很可能是修飾後面的主要動詞 ἔχῃ，表達「藉著他有永生」的意思，所以和合本括號註腳翻譯成「叫一切信的人『在他裡面』得永生」。
 
-[^6]: οὕτως：後面不是形容詞、副詞，所以在此並非表達「程度」([BAGD 三.](https://bible.fhl.net/new/s.php?N=0&k=03779&m=))，意思不是「上帝這麼樣大程度地愛世人」，而是與 3:14b 的 καθὼς 呼應 ([BAGD 一.](https://bible.fhl.net/new/s.php?N=0&k=03779&m=))，表達「這種方式」，意思是「上帝用這種方式 (照著摩西在曠野舉蛇的方式) 愛世人」。
+[^6]: οὕτως：後面不是形容詞、副詞，所以在此並非表達「程度」([BAGD 三.](https://bible.fhl.net/new/s.php?N=0&k=03779&m=))，意思不是「上帝這麼樣大程度地愛世人」，而是與 3:14b 的 καθὼς 呼應（[BAGD 一.](https://bible.fhl.net/new/s.php?N=0&k=03779&m=))，表達「這種方式」，意思是「上帝用這種方式 (照著摩西在曠野舉蛇的方式）愛世人」。
 
-[^7]: ὥστε：從屬連接詞，帶出附屬子句 ([BAGD 二.](https://bible.fhl.net/new/s.php?N=0&k=05620&m=))。
+[^7]: ὥστε：從屬連接詞，帶出附屬子句（[BAGD 二.](https://bible.fhl.net/new/s.php?N=0&k=05620&m=）)。
 
-[^8]: ἀλλ᾽：與上文 3:16c 的否定詞 μὴ 前後呼應 ([BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00235&m=))
+[^8]: ἀλλ᾽：與上文 3:16c 的否定詞 μὴ 前後呼應（[BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00235&m=）)
 
-[^9]: ἀλλ᾽：與上文 3:17a 的否定詞 οὐ 前後呼應 ([BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00235&m=))
+[^9]: ἀλλ᾽：與上文 3:17a 的否定詞 οὐ 前後呼應（[BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00235&m=）)

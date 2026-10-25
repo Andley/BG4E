@@ -1,6 +1,6 @@
 ### How Paul Became an Apostle (Gal 1:11-24)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 - 1:11a (<span class="w"><span class="m">V-PAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01107&m='>γνωρίζω</a></span><span class="g">我使知道 I make known</span><span class="t"><span class='verb'>γνωρίζω</span></span></span> )P <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></span><span class="g">- for</span><span class="t">γὰρ</span></span>  (<span class="w"><span class="m">P-2DP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></span><span class="g">你們 to you</span><span class="t">ὑμῖν</span></span> )C (<span class='punctuation'>,</span> <span class="w"><span class="m">N-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00080&m='>ἀδελφός</a></span><span class="g">弟兄們 brothers</span><span class="t">ἀδελφοί</span></span> )V <span class='punctuation'>,</span> (<span class="w"><span class="m">T-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὸ</span></span>  <span class="w"><span class="m">N-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></span><span class="g">福音 gospel</span><span class="t">εὐαγγέλιον</span></span>  <span class="w"><span class="m">T-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">τὸ</span></span>  ⁅‹<span class="w"><span class="m">V-APP-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02097&m='>εὐαγγελίζομαι</a></span><span class="g">所傳 having been preached</span><span class="t"><span class='ptc'>εὐαγγελισθὲν</span></span></span> ›p ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05259&m='>ὑπό</a></span><span class="g">- by</span><span class="t">ὑπ᾽</span></span>  <span class="w"><span class="m">P-1GS</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></span><span class="g">我 me</span><span class="t">ἐμοῦ</span></span> ›a⁆)C 
 	- 1:11b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></span><span class="g">- that</span><span class="t">ὅτι</span></span>  <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">V-PAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 it is</span><span class="t"><span class='verb'>ἔστιν</span></span></span> )P (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02596&m='>κατά</a></span><span class="g">按照 according to</span><span class="t">κατὰ</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></span><span class="g">人 man</span><span class="t">ἄνθρωπον</span></span> )C <span class='punctuation'>·</span> 
 - 1:12a <span class="w"><span class="m">CONJ-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03761&m='>οὐδέ</a></span><span class="g">既不 Neither</span><span class="t">οὐδὲ</span></span>  <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></span><span class="g">因為 for</span><span class="t">γὰρ</span></span>  (<span class="w"><span class="m">P-1NS</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></span><span class="g">我 I</span><span class="t">ἐγὼ</span></span> )S (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03844&m='>παρά</a></span><span class="g">從 from</span><span class="t">παρὰ</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></span><span class="g">人 man</span><span class="t">ἀνθρώπου</span></span> )A (<span class="w"><span class="m">V-AAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03880&m='>παραλαμβάνω</a></span><span class="g">領受 received</span><span class="t"><span class='verb'>παρέλαβον</span></span></span> )P (<span class="w"><span class="m">P-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></span><span class="g">它 it</span><span class="t">αὐτό</span></span> )C 
@@ -36,32 +36,32 @@
 - 1:24 <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></span><span class="g">就 And</span><span class="t">καὶ</span></span>  (<span class="w"><span class="m">V-IAI-3P</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01392&m='>δοξάζω</a></span><span class="g">他們榮耀 they were glorifying</span><span class="t"><span class='verb'>ἐδόξαζον</span></span></span> )P (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></span><span class="g">為 in</span><span class="t">ἐν</span></span>  <span class="w"><span class="m">P-1DS</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></span><span class="g">我 me</span><span class="t">ἐμοὶ</span></span> )A (<span class="w"><span class="m">T-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- -</span><span class="t">τὸν</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></span><span class="g">上帝 God</span><span class="t">Θεόν</span></span> )C <span class='punctuation'>.</span>
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 - 1:11a <span class='verb'>γνωρίζω</span> γὰρ ὑμῖν , ἀδελφοί V , τὸ εὐαγγέλιον τὸ <span class='ptc'>εὐαγγελισθὲν</span> ὑπ᾽ ἐμοῦ 
-	- τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ᾽ ἐμοῦ：「T(τὸ)—N(εὐαγγέλιον)—T(τὸ)—分詞內嵌子句(εὐαγγελισθὲν ὑπ᾽ ἐμοῦ)」的結構，形容用法的分詞內嵌子句 (進深，484-5)，擺在第二修飾位置 (進深，251)。
+	- τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ᾽ ἐμοῦ：「T(τὸ)—N(εὐαγγέλιον)—T(τὸ)—分詞內嵌子句（εὐαγγελισθὲν ὑπ᾽ ἐμοῦ）」的結構，形容用法的分詞內嵌子句（進深，484-5），擺在第二修飾位置（進深，251）。
 - 1:11b ὅτι οὐκ <span class='verb'>ἔστιν</span> κατὰ ἄνθρωπον · 
 	- κατὰ＋直接受格，意思是「遵照，與…一致，根據」(BAGD 乙、五)。
 - 1:12a οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου <span class='verb'>παρέλαβον</span> αὐτό 
 	- οὐδὲ ... οὐδὲ ...：慣用語，neither (既不是 ) ... nor (也不是) ... 。
-	- ἐγὼ 前置，表達強調； παρὰ＋所有格 (ἀνθρώπου) 代表「來源」(BAGD 甲、三)。
+	- ἐγὼ 前置，表達強調； παρὰ＋所有格（ἀνθρώπου）代表「來源」(BAGD 甲、三)。
 	- αὐτό：單數中性，指向 1:11a 的 τὸ εὐαγγέλιον。
 - 1:12b οὔτε <span class='verb'>ἐδιδάχθην</span> , 
 	- ἐδιδάχθην：被動語態，但卻沒有指出保羅是「被誰教的」——從 1:12a παρὰ ἀνθρώπου 推敲，很可能是省略了 ὑπ᾽ ἀνθρώπου (被人教的)。
 - 1:12c ἀλλὰ δι᾽ ἀποκαλύψεως Ἰησοῦ Χριστοῦ .
 	- ἀλλὰ 與 1:12ab 的 οὐδὲ ... οὐδὲ ... 對比，省略主要動詞——從上下文判斷，可能省略掉的是 1:12a 的 παρέλαβον 或者 1:12b 的 ἐδιδάχθην。
-	- ἀποκαλύψεως 是「表達動作並能『轉換』為動詞 (1:15 ἀποκαλύπτω) 的主要名詞」(進深，143)，因此後面的 Ἰησοῦ Χριστοῦ 就有可能是：
-		- (a) 主詞所有格 (進深，144-5)，意思是「藉著『耶穌基督所啟示』的內容」；
+	- ἀποκαλύψεως 是「表達動作並能『轉換』為動詞（1:15 ἀποκαλύπτω）的主要名詞」(進深，143)，因此後面的 Ἰησοῦ Χριστοῦ 就有可能是：
+		- (a) 主詞所有格（進深，144-5），意思是「藉著『耶穌基督所啟示』的內容」；
 		- (b) 來源所有格  (進深，1438-40) 意思是「藉著『來自於耶穌基督』的啟示」；
 		- (c) 受詞所有格  (進深，145-6) 意思是「藉著『被啟示出來的耶穌基督』」；
-		- 從上文 (1:1-11) 來看，(a) 和 (b) 比較通順，都在強調「人 vs. 耶穌基督」的對比；(c) 也有可能，但需要從下文 1:15b「神樂意啟示祂兒子在保羅心裡」反推才行。
+		- 從上文（1:1-11）來看，(a) 和（b）比較通順，都在強調「人 vs. 耶穌基督」的對比；(c) 也有可能，但需要從下文 1:15b「神樂意啟示祂兒子在保羅心裡」反推才行。
 - ──────────────────────────
 - 1:13a  <span class='verb'>Ἠκούσατε</span> γὰρ τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ ,
-	- τὴν ἐμὴν ἀναστροφήν 是「T(τὴν)—A(ἐμὴν)—N(ἀναστροφήν)」形容用法的第一位置 (進深，246)； 
-	- ποτε ἐν τῷ Ἰουδαϊσμῷ 從文法上來說可以修飾主要動詞 Ἠκούσατε，但這樣一來意思就變成「你們從前在猶太教中聽過 ...」，與上下文不符，所以只能把介係詞片語當成形容詞使用 (進深，597)，擺在第二敘述位置 (進深，245)，用來說明前面的名詞 τὴν ἐμὴν ἀναστροφήν。
+	- τὴν ἐμὴν ἀναστροφήν 是「T(τὴν)—A(ἐμὴν)—N(ἀναστροφήν)」形容用法的第一位置（進深，246）； 
+	- ποτε ἐν τῷ Ἰουδαϊσμῷ 從文法上來說可以修飾主要動詞 Ἠκούσατε，但這樣一來意思就變成「你們從前在猶太教中聽過 ...」，與上下文不符，所以只能把介係詞片語當成形容詞使用（進深，597），擺在第二敘述位置（進深，245），用來說明前面的名詞 τὴν ἐμὴν ἀναστροφήν。
 - 1:13b ὅτι καθ᾽ ὑπερβολὴν <span class='verb'>ἐδίωκον</span> τὴν ἐκκλησίαν τοῦ Θεοῦ 
-	- 1:13b ἐδίωκον ... 1:13c ἐπόρθουν ... 1:14 προέκοπτον：連續三個不完成式時態形式，表達動作進展 (in-progress) 的觀點，配合上下文，雖然發生在過去，但動作好像正在眼前發生。
-	- καθ᾽＋直接受格 (ὑπερβολὴν)，意思是「遵照，與…一致，根據」(BAGD 乙、五)。
+	- 1:13b ἐδίωκον ... 1:13c ἐπόρθουν ... 1:14 προέκοπτον：連續三個不完成式時態形式，表達動作進展（in-progress）的觀點，配合上下文，雖然發生在過去，但動作好像正在眼前發生。
+	- καθ᾽＋直接受格（ὑπερβολὴν），意思是「遵照，與…一致，根據」(BAGD 乙、五)。
 - 1:13c καὶ <span class='verb'>ἐπόρθουν</span> αὐτήν , 
 	- αὐτήν 指向 1:13b 的 ἐκκλησίαν，因此性數 [SF] 要與之相符。
 - 1:14 καὶ <span class='verb'>προέκοπτον</span> ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου , περισσοτέρως ζηλωτὴς › <span class='ptc'>ὑπάρχων</span> τῶν πατρικῶν μου παραδόσεων . 
@@ -71,23 +71,23 @@
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 1:15a δὲ 是後置詞，不能擺在句首——但就句法來說，是連接前一個主要子句 1:13a、帶出下一個主要子句 1:16c 的連接詞。
 - 1:15b Ὅτε <span class='verb'>εὐδόκησεν</span> ὁ θεὸς ὁ <span class='ptc'>ἀφορίσας</span> με ἐκ κοιλίας μητρός μου καὶ <span class='ptc'>καλέσας</span> διὰ τῆς χάριτος αὐτοῦ 1:16a <span class='inf'>ἀποκαλύψαι</span> τὸν Υἱὸν αὐτοῦ ἐν ἐμοὶ ,  是一個完整子句：
-	- 從屬連接詞 Ὅτε 帶出時間從屬子句 (進深，623)，主要動詞是 εὐδόκησεν。
-	- 主詞 [ὁ θεὸς] ὁ ἀφορίσας...  αὐτοῦ 是「T(ὁ)—N(θεὸς)—T(ὁ)—分詞內嵌子句(ἀφορίσας...  αὐτοῦ)」的結構，形容用法的分詞內嵌子句 (進深，484-5) 擺在第二修飾位置 (進深，251)
-		- 其中 ὁ ἀφορίσας ㄡ... καὶ καλέσας ... 是「冠詞—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
-	- 不定詞內嵌子句 (ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί) 是主要動詞 εὐδόκησεν 的補語 (進深，541-2)——雖然有些文法書 (GGBB/GDNTG) 歸類在副詞用法之下 (進深，541)，但放在名詞用法之下 (進深，555-6) 應該還是比較恰當。
+	- 從屬連接詞 Ὅτε 帶出時間從屬子句（進深，623），主要動詞是 εὐδόκησεν。
+	- 主詞 [ὁ θεὸς] ὁ ἀφορίσας...  αὐτοῦ 是「T(ὁ)—N(θεὸς)—T(ὁ)—分詞內嵌子句（ἀφορίσας...  αὐτοῦ）」的結構，形容用法的分詞內嵌子句（進深，484-5）擺在第二修飾位置（進深，251）
+		- 其中 ὁ ἀφορίσας ㄡ... καὶ καλέσας ... 是「冠詞—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則（進深，239-41），但也代表兩者之間緊密相關（GGBB, 278-86）。
+	- 不定詞內嵌子句（ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί）是主要動詞 εὐδόκησεν 的補語（進深，541-2)——雖然有些文法書（GGBB/GDNTG）歸類在副詞用法之下（進深，541），但放在名詞用法之下 (進深，555-6）應該還是比較恰當。
 - 1:16b ἵνα <span class='verb'>εὐαγγελίζωμαι</span> αὐτὸν ἐν τοῖς ἔθνεσιν , 
 	- ἵνα：從屬於 1:15b，表示上帝樂意啟示所帶出來的「目的」(BAGD)。
 - 1:16c εὐθέως οὐ <span class='verb'>προσανεθέμην</span> σαρκὶ καὶ αἵματι 
-	- σαρκὶ καὶ αἵματι 是修辭上的「提喻 synecdoche」，用「部分(血肉)」代表「全體(人)」。
+	- σαρκὶ καὶ αἵματι 是修辭上的「提喻 synecdoche」，用「部分（血肉）」代表「全體（人）」。
 - 1:17a οὐδὲ <span class='verb'>ἀνῆλθον</span> εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους , 
-	- πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους 是「介係詞(πρὸς)—T(τοὺς)—A(πρὸ ἐμοῦ)—N(ἀποστόλους)」的結構，其中 πρὸ ἐμοῦ 介係詞片語當形容詞用，擺在形容用法的第一位置 (進深，246)。
+	- πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους 是「介係詞（πρὸς）—T(τοὺς)—A(πρὸ ἐμοῦ)—N(ἀποστόλους)」的結構，其中 πρὸ ἐμοῦ 介係詞片語當形容詞用，擺在形容用法的第一位置（進深，246）。
 - 1:17b ἀλλὰ <span class='verb'>ἀπῆλθον</span> εἰς Ἀραβίαν 
 - 1:17c καὶ πάλιν <span class='verb'>ὑπέστρεψα</span> εἰς Δαμασκόν .
 - ──────────────────────────
 - 1:18a Ἔπειτα μετὰ ἔτη τρία <span class='verb'>ἀνῆλθον</span> εἰς Ἱεροσόλυμα <span class='inf'>ἱστορῆσαι</span> Κηφᾶν 
-	- 不定詞內嵌子句 (ἱστορῆσαι Κηφᾶν) 是副詞用法，表達目的 (進深，542-4)。
+	- 不定詞內嵌子句（ἱστορῆσαι Κηφᾶν）是副詞用法，表達目的（進深，542-4）。
 - 1:18b καὶ <span class='verb'>ἐπέμεινα</span> πρὸς αὐτὸν ἡμέρας δεκαπέντε , 
-	- ἡμέρας δεκαπέντε 是直接受格的副詞用法 (進深，104-5)，表達時間長度。
+	- ἡμέρας δεκαπέντε 是直接受格的副詞用法（進深，104-5），表達時間長度。
 - 1:19a ἕτερον δὲ τῶν ἀποστόλων οὐκ <span class='verb'>εἶδον</span> 
 	- ἕτερον 在此的意思比較偏「另一個」(BAGD 一、B)，與 1:6b、1:7a 對比的上下文不同。
 - 1:19b εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ Κυρίου = . 
@@ -99,20 +99,20 @@
 	- 省略主要動詞，可能省略：
 		- 「是」： ⁅我所寫給你們的⁆S—(看哪)V—(是)P—(在神面前)A；
 		- 「我寫、我說」：⁅我所寫給你們的⁆C—(看哪)V—(我寫、我說)P—(在神面前)A
-	- 不論哪種理解，ἃ ... γράφω ὑμῖν 都是沒有先行詞的關係子句 (進深，591)，指向整個上文。
+	- 不論哪種理解，ἃ ... γράφω ὑμῖν 都是沒有先行詞的關係子句（進深，591），指向整個上文。
 - 1:20b ὅτι οὐ <span class='verb'>ψεύδομαι</span> . 
 - ──────────────────────────
 - 1:21 Ἔπειτα <span class='verb'>ἦλθον</span> εἰς τὰ κλίματα τῆς Συρίας καὶ τῆς Κιλικίας · 
 - 1:22 <span class='verb'>ἤμην</span> δὲ <span class='ptc'>ἀγνοούμενος</span> τῷ προσώπῳ ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ . 
-	- ἤμην ... ἀγνοούμενος 是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
+	- ἤμην ... ἀγνοούμενος 是「不完成式動詞（ἤμην）＋現在式分詞（ἀγνοούμενος）」的迂說用法，相當於過去完成式所代表的「狀態」觀點（進深，510-1）。
 	- ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ 是「T(ταῖς)—N(ἐκκλησίαις τῆς Ἰουδαίας)—T(ταῖς)—A(ἐν Χριστῷ)」的結構。
 - 1:23a μόνον δὲ <span class='ptc'>ἀκούοντες</span> <span class='verb'>ἦσαν</span> 
-	- μόνον 中性的時候常當作副詞使用 (BAGD 二)
-	- ἀκούοντες ἦσαν 也是「不完成式動詞(ἤμην)＋現在式分詞(ἀγνοούμενος)」的迂說用法，相當於過去完成式所代表的「狀態」觀點 (進深，510-1)。
+	- μόνον 中性的時候常當作副詞使用（BAGD 二）
+	- ἀκούοντες ἦσαν 也是「不完成式動詞（ἤμην）＋現在式分詞（ἀγνοούμενος）」的迂說用法，相當於過去完成式所代表的「狀態」觀點（進深，510-1）。
 - 1:23b ὅτι Ὁ <span class='ptc'>διώκων</span> ἡμᾶς ποτε νῦν <span class='verb'>εὐαγγελίζεται</span> τὴν πίστιν 
-	- 是 ὁ διώκων ἡμᾶς ποτε「T—分詞內嵌子句」當作實名詞使用 (進深，485-7)
-	- ποτε 在文法上可以修飾後面的主要動詞 (εὐαγγελίζεται)，但如此一來，意思就跟後面的 νῦν 打架——所以比較可能是修飾前面的分詞 (διώκων)。
+	- 是 ὁ διώκων ἡμᾶς ποτε「T—分詞內嵌子句」當作實名詞使用（進深，485-7）
+	- ποτε 在文法上可以修飾後面的主要動詞（εὐαγγελίζεται），但如此一來，意思就跟後面的 νῦν 打架——所以比較可能是修飾前面的分詞（διώκων）。
 	- πίστιν 在此的意思是「所信的事，信仰的內涵，信仰的教義」(BAGD 三)
 - 1:23c ἥν ποτε <span class='verb'>ἐπόρθει</span> , 
 - 1:24 καὶ <span class='verb'>ἐδόξαζον</span> ἐν ἐμοὶ τὸν Θεόν .
-	- ἐν ἐμοὶ的意思範圍很廣 (BAGD)，只能從上下文去推敲最合適的——在此很可能是表達「因果或憑藉」(BAGD 丙)。
+	- ἐν ἐμοὶ的意思範圍很廣（BAGD），只能從上下文去推敲最合適的——在此很可能是表達「因果或憑藉」(BAGD 丙)。

@@ -24,16 +24,16 @@ draft: false
 - 5:37a (<RUBY><ruby><ruby><span class='verb'>ἔστω</span><rt>應當是 be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02077&m='>εἰμί</a></rt></ruby><rt>V-PAM-3S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>但 but</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>話 statement</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03056&m='>λόγος</a></rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby>ναὶ<rt>是 yes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03483&m='>ναί</a></rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>ναί<rt>是 yes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03483&m='>ναί</a></rt></ruby><rt>PRT</rt></RUBY> , <RUBY><ruby><ruby>οὒ<rt>不是 no</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὔ</a></rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>οὔ<rt>不是 no</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὔ</a></rt></ruby><rt>PRT-N</rt></RUBY>)C · 
 - 5:37b (<RUBY><ruby><ruby>τὸ<rt>話 anything</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSN</rt></RUBY>)<RUBY><ruby><ruby>δὲ<rt>再 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>περισσὸν<rt>多 more</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04053&m='>περισσός</a></rt></ruby><rt>A-NSN</rt></RUBY> <RUBY><ruby><ruby>τούτων<rt>比這些 this</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05130&m='>οὗτος</a></rt></ruby><rt>D-GPM</rt></RUBY>[^7])S (<RUBY><ruby><ruby>ἐκ<rt>出於 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>那 the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>πονηροῦ<rt>惡者 evil</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04190&m='>πονηρός</a></rt></ruby><rt>A-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἐστιν</span><rt>是 is</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02076&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P . 
 
-[^1]: μὴ ὀμόσαι ὅλως：不定詞內嵌子句，當作間接敘述 (進深，556 §11.5.3)。主要動詞 (λέγω) 有兩個補語：人 (ὑμῖν 間接受格)、內容 (不定詞內嵌子句)。
+[^1]: μὴ ὀμόσαι ὅλως：不定詞內嵌子句，當作間接敘述（進深，556 §11.5.3)。主要動詞（λέγω）有兩個補語：人 (ὑμῖν 間接受格）、內容（不定詞內嵌子句）。
 
-[^2]: θρόνος ... τοῦ θεοῦ：片語被切成前後兩半 (用 ⦇、⦈ 符號表式) 的修辭手法，文法學家稱之為「倒置 hyperbaton」，目的是為了「強調」。
+[^2]: θρόνος ... τοῦ θεοῦ：片語被切成前後兩半（用 ⦇、⦈ 符號表式）的修辭手法，文法學家稱之為「倒置 hyperbaton」，目的是為了「強調」。
 
-[^3]: 根據上下文判斷，ἐστὶν 在此是聯繫動詞，主詞內含在動詞 (3S) 裡面，指向上文 5:34c 的「天」。
+[^3]: 根據上下文判斷，ἐστὶν 在此是聯繫動詞，主詞內含在動詞（3S）裡面，指向上文 5:34c 的「天」。
 
-[^4]: 對照 5:34b-35d 來看，μὴ＋不定詞內嵌子句的用法，效果與 μήτε＋假設語氣表達禁令 (進深，309 §6.4.2.2.4) 相當。
+[^4]: 對照 5:34b-35d 來看，μὴ＋不定詞內嵌子句的用法，效果與 μήτε＋假設語氣表達禁令（進深，309 §6.4.2.2.4）相當。
 
-[^5]: 不定詞 (ποιῆσα) 帶雙重直接受格 (進深，100 §2.4.1.3)，λευκὴν、μέλαιναν 是述詞補語 (predicate complement)。
+[^5]: 不定詞（ποιῆσα）帶雙重直接受格（進深，100 §2.4.1.3），λευκὴν、μέλαιναν 是述詞補語（predicate complement）。
 
-[^6]: 不定詞內嵌子句當作主要動詞 (δύνασαι) 的補語 (進深，541 §11.4.1)——《進深》把補語不定詞歸類在副詞用法，但從句法來看，放在名詞用法下面比較恰當。
+[^6]: 不定詞內嵌子句當作主要動詞（δύνασαι）的補語（進深，541 §11.4.1）——《進深》把補語不定詞歸類在副詞用法，但從句法來看，放在名詞用法下面比較恰當。
 
-[^7]: τούτων：所有格的比較用法 (進深，150 §3.4.4)。
+[^7]: τούτων：所有格的比較用法（進深，150 §3.4.4）。

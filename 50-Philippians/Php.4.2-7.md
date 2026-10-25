@@ -3,7 +3,7 @@ title: "Php.4.2-7"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 4:2-7)
+#### 圖析（Php 4:2-7）
 
 - 4:2a (<RUBY><ruby><ruby>Εὐοδίαν<rt>Εὐοδία</rt></ruby><rt>Euodia</rt></ruby><rt>N-ASF-P</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>παρακαλῶ</mark><rt>παρακαλέω</rt></ruby><rt>I exhort</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P 
 - 4:2b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Συντύχην<rt>Συντύχη</rt></ruby><rt>Syntyche</rt></ruby><rt>N-ASF-P</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>παρακαλῶ</mark><rt>παρακαλέω</rt></ruby><rt>I exhort</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P {4:2c}C

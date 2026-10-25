@@ -3,9 +3,9 @@ title: "SM-2.5lines"
 date: 2026-07-04
 draft: false
 ---
-# 登山寶訓 (2.5行 Interlinear)
+# 登山寶訓（2.5行 Interlinear）
 
-Interlinear 經文 (包括大小寫、標點符號) 出自 [Macula Greek SBLGNT](https://github.com/Clear-Bible/macula-greek)；經文分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/MAT.5/)。
+Interlinear 經文（包括大小寫、標點符號）出自 [Macula Greek SBLGNT](https://github.com/Clear-Bible/macula-greek)；經文分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/MAT.5/)。
 
 ## The Sermon on the Mount (Mat 5:1-2)
 5:1 <RUBY><ruby><span class='ptc'>Ἰδὼν</span><rt>看見 saw</rt></ruby><rt>V-2AAP-NSM</rt></RUBY>  <RUBY><ruby>δὲ<rt>就 now</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>τοὺς<rt>這 the</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>ὄχλους<rt>許多人 crowds</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='verb'>ἀνέβη</span><rt>走 went up</rt></ruby><rt>V-2AAI-3S</rt></RUBY>  <RUBY><ruby>εἰς<rt>到 on</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>τὸ<rt>the</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>ὄρος<rt>山 mountain</rt></ruby><rt>  </rt></RUBY> ·  <RUBY><ruby>καὶ<rt>既 and</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='ptc'>καθίσαντος</span><rt>坐下 sat down</rt></ruby><rt>V-AAP-GSM</rt></RUBY>  <RUBY><ruby>αὐτοῦ<rt>他 he</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='verb'>προσῆλθαν</span><rt>到~跟前來 came</rt></ruby><rt>V-2AAI-3P</rt></RUBY>  <RUBY><ruby>αὐτῷ<rt>他 him</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>οἱ<rt>the</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>μαθηταὶ<rt>門徒 disciples</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>αὐτοῦ<rt>他 his</rt></ruby><rt>  </rt></RUBY> · 5:2  <RUBY><ruby>καὶ<rt>就 then</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='ptc'>ἀνοίξας</span><rt>開 opened</rt></ruby><rt>V-AAP-NSM</rt></RUBY>  <RUBY><ruby>τὸ<rt>the</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>στόμα<rt>口 mouth</rt></ruby><rt>  </rt></RUBY>  <RUBY><ruby>αὐτοῦ<rt>他 his</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='verb'>ἐδίδασκεν</span><rt>教導 teach</rt></ruby><rt>V-IAI-3S</rt></RUBY>  <RUBY><ruby>αὐτοὺς<rt>他們 them</rt></ruby><rt>  </rt></RUBY> <RUBY><ruby><span class='ptc'>λέγων</span><rt>說 saying</rt></ruby><rt>V-PAP-NSM</rt></RUBY> · 

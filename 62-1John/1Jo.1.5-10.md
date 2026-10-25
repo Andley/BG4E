@@ -3,7 +3,7 @@ title: "1Jo.1.5-10"
 date: 2026-07-04
 draft: false
 ---
-### 圖析 (1Jo 1:5-10)
+### 圖析（1Jo 1:5-10）
 
 
 - 1:5a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἔστιν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>[^1])P (<RUBY><ruby><ruby>αὕτη<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-NSF</rt></RUBY>[^2])S (<mark><RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγγελία<rt>ἀγγελία</rt></ruby><rt>message</rt></ruby><rt>N-NSF</rt></RUBY>°¹</mark>) 
@@ -40,25 +40,25 @@ draft: false
 - 1:10d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>λόγος</rt></ruby><rt>word</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἔστιν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν.¶<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1DP</rt></RUBY>)A
 
 
-[^1]: **ἔστιν**：等同 (聯繫 copular) 動詞 εἰμί 的前後是代名詞 (αὕτη)、帶冠詞的名詞 (ἡ ἀγγελία) 時，代名詞有優先權 (GGBB, 44-45)，是子句的主語 (S)。
-[^2]: αὕτη：從上下文推敲，αὕτη 應該指向下面 (cataphoric) 1:5de ὅτι 帶出的兩個子句，這時候  ὅτι 子句當實名詞的同位用法 (apposition; GGBB, 458-59)，補充說明 αὕτη 的內容。
-[^3]: ἣν：關係代名詞，指向 15a 數性同樣是 SF 的先行詞 (ἡ ἀγγελία)。
+[^1]: **ἔστιν**：等同（聯繫 copular）動詞 εἰμί 的前後是代名詞（αὕτη)、帶冠詞的名詞（ἡ ἀγγελία）時，代名詞有優先權 (GGBB, 44-45），是子句的主語（S）。
+[^2]: αὕτη：從上下文推敲，αὕτη 應該指向下面（cataphoric）1:5de ὅτι 帶出的兩個子句，這時候  ὅτι 子句當實名詞的同位用法（apposition; GGBB, 458-59），補充說明 αὕτη 的內容。
+[^3]: ἣν：關係代名詞，指向 15a 數性同樣是 SF 的先行詞（ἡ ἀγγελία）。
 [^4]: 1:5d：因為 ὅτι 子句是補充說明 1:5a 的 αὕτη，不是 1:5c **ἀναγγέλλομεν** 的補語，所以不需要再退後一排。
 [^5]: σκοτία ... οὐδεμία：同樣格數性，是一組片語，只不過中間被一串字分隔開來，這種現象在文法上稱之為「倒置 hyperbaton」(ATR, 424-25; AGG, §292c; GoingDeeper, 470-71; Whitacre, 353; Cambridge Grammar of Classical Greek, §60.18-19)。
-[^6]: **ἔστιν**：等同 (聯繫 copular) 動詞 εἰμί  [前後只有一個實名詞的時候，主語內含在 ἐιμί 裡面](123John-Style#(4)%20%E1%BC%90%CE%B9%CE%BC%CE%AF%20%E5%89%8D%E5%BE%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%E5%AF%A6%E5%90%8D%E8%A9%9E%E7%9A%84%E6%99%82%E5%80%99%EF%BC%8C%E4%B8%BB%E8%AA%9E%E5%85%A7%E5%90%AB%E5%9C%A8%20%E1%BC%90%CE%B9%CE%BC%CE%AF%20%E8%A3%A1%E9%9D%A2.md)，所以 σκοτία ... οὐδεμία 是補語 (C)。
+[^6]: **ἔστιν**：等同（聯繫 copular）動詞 εἰμί  [前後只有一個實名詞的時候，主語內含在 ἐιμί 裡面](123John-Style#(4)%20%E1%BC%90%CE%B9%CE%BC%CE%AF%20%E5%89%8D%E5%BE%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%E5%AF%A6%E5%90%8D%E8%A9%9E%E7%9A%84%E6%99%82%E5%80%99%EF%BC%8C%E4%B8%BB%E8%AA%9E%E5%85%A7%E5%90%AB%E5%9C%A8%20%E1%BC%90%CE%B9%CE%BC%CE%AF%20%E8%A3%A1%E9%9D%A2.md)，所以 σκοτία ... οὐδεμία 是補語（C）。
 [^7]: 連續五組 ἐάν 條件句，呈現：一反一正、一反一正的結構，最後用一反總結，帶出下一段落的主題「不要犯罪」(1Jo 2:1)。
-[^8]: Ἐὰν：從屬連接詞 ἐάν 後面接假設語氣動詞，是第三類條件句 (GGBB, 689) 的結構。就語意來說，作者只是要表達條件 (如果我們說)「有可能發生」(GGBB, 696)——但並沒有要表達條件成立的可能性高低，是四種條件句中最沒有標記性的 (unmarked; AGG, §280c)。
-[^9]: ὅτι：ὅτι 帶出實名詞子句，當作 1:6a 感知動詞 **εἴπωμεν** 的補語，屬於直接引述 (direct discourse; GGBB, 454-55) 的用法。
-[^10]: **ψευδόμεθα**：關身語態，表達主詞 (我們) 親身參與在動作 (說謊) 之中。
+[^8]: Ἐὰν：從屬連接詞 ἐάν 後面接假設語氣動詞，是第三類條件句（GGBB, 689）的結構。就語意來說，作者只是要表達條件（如果我們說）「有可能發生」(GGBB, 696)——但並沒有要表達條件成立的可能性高低，是四種條件句中最沒有標記性的（unmarked; AGG, §280c）。
+[^9]: ὅτι：ὅτι 帶出實名詞子句，當作 1:6a 感知動詞 **εἴπωμεν** 的補語，屬於直接引述（direct discourse; GGBB, 454-55）的用法。
+[^10]: **ψευδόμεθα**：關身語態，表達主詞（我們）親身參與在動作（說謊）之中。
 [^11]: ἐὰν：同 1:6a。
 [^12]: ὡς：從屬連接詞，帶出從屬子句修飾 1:7a 的動詞 **περιπατῶμεν**。
-[^13]: τοῦ Υἱοῦ αὐτοῦ：單純同位 (genitive in simple apposition; GGBB, 94) 於前面的 Ἰησοῦ。
+[^13]: τοῦ Υἱοῦ αὐτοῦ：單純同位（genitive in simple apposition; GGBB, 94）於前面的 Ἰησοῦ。
 [^14]: πάσης：πᾶς 與不加冠詞的單數名詞一起使用時，是要「強調該名詞中所屬的各項目」(BAGD)，所以這裡應該翻譯成 every sin (每一個罪)。
 [^15]: ἐὰν：同 1:6a。
 [^16]: ὅτι：同 1:6b。
 [^17]: ἐὰν：同 1:6a。
 [^18]: **ἐστιν**：同 1:5e。
-[^19]: ἵνα：從屬連接詞，後面要接假設語氣動詞 (GGBB, 471)，根據上下文判斷，這裡帶出的 1:9cd 應該是結果子句 (GGBB, 473)。
+[^19]: ἵνα：從屬連接詞，後面要接假設語氣動詞（GGBB, 471），根據上下文判斷，這裡帶出的 1:9cd 應該是結果子句（GGBB, 473）。
 [^20]: ἐὰν：同 1:6a。
 [^21]: ὅτι：同 1:6b。
-[^22]: **ποιοῦμεν**：動詞 ποιέω 後面可以接兩個直接受格 (BAGD 甲.一.B.9)。αὐτὸν 是代名詞有優先權 (GGBB, 184)，所以是受詞 (object)，而 ψεύστην 則是受詞補語 (object-complement; GGBB, 182-89)。
+[^22]: **ποιοῦμεν**：動詞 ποιέω 後面可以接兩個直接受格（BAGD 甲.一.B.9）。αὐτὸν 是代名詞有優先權（GGBB, 184），所以是受詞（object），而 ψεύστην 則是受詞補語（object-complement; GGBB, 182-89）。

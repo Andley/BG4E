@@ -3,7 +3,7 @@ title: "1Pe.1.13-25"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Pe 1:13-16)
+#### 圖析（1Pe 1:13-16）
 
 - 1:13a <RUBY><ruby><ruby>Διὸ<rt>διό</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY>°¹⮧ 
 	- 1:13b {(<RUBY><ruby><ruby><mark class='ptc'>ἀναζωσάμενοι</mark><rt>ἀναζώννυμι</rt></ruby><rt>约束</rt></ruby><rt>V-AMP-NPM</rt></RUBY>)p (<RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ὀσφύας<rt>ὀσφῦς</rt></ruby><rt>腰</rt></ruby><rt>N-APF</rt></RUBY> ‹<RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>διανοίας<rt>διάνοια</rt></ruby><rt>心</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>你们的</rt></ruby><rt>P-2GP</rt></RUBY>›)c}A°¹⮧ <mark class='punctuation'>,</mark> 
@@ -19,7 +19,7 @@ draft: false
 			- 1:16c <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>因为</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>我</rt></ruby><rt>P-1NS</rt></RUBY>)S (<RUBY><ruby><ruby>ἅγιος<rt>ἅγιος</rt></ruby><rt>圣洁</rt></ruby><rt>A-NSM</rt></RUBY>)C <mark class='punctuation'>.</mark> 
 
 
-### 圖析 (1Pe 1:17-21)
+### 圖析（1Pe 1:17-21）
 
 - 1:17a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>并</rt></ruby><rt>CONJ</rt></RUBY>°¹⮧ 
 	- 1:17b <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>既然...就</rt></ruby><rt>COND</rt></RUBY> (<RUBY><ruby><ruby>πατέρα<rt>πατήρ</rt></ruby><rt>父</rt></ruby><rt>N-ASM</rt></RUBY>)+C (<RUBY><ruby><ruby><mark class='verb'>ἐπικαλεῖσθε</mark><rt>ἐπικαλέω</rt></ruby><rt>称...为</rt></ruby><rt>V-PMI-2P</rt></RUBY>)P {<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>那</rt></ruby><rt>T-ASM</rt></RUBY> [(<RUBY><ruby><ruby>ἀπροσωπολήμπτως<rt>ἀπροσωπολήμπτως</rt></ruby><rt>不偏待人</rt></ruby><rt>ADV</rt></RUBY>)a (<RUBY><ruby><ruby><mark class='ptc'>κρίνοντα</mark><rt>κρίνω</rt></ruby><rt>审判</rt></ruby><rt>V-PAP-ASM</rt></RUBY>)p (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>按</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ἑκάστου<rt>ἕκαστος</rt></ruby><rt>各人</rt></ruby><rt>A-GSM</rt></RUBY> <RUBY><ruby><ruby>ἔργον<rt>ἔργον</rt></ruby><rt>行为</rt></ruby><rt>N-ASN</rt></RUBY>)a] }C <mark class='punctuation'>,</mark> 
@@ -34,7 +34,7 @@ draft: false
 						- 1:20e <RUBY><ruby><ruby>ὥστε<rt>ὥστε</rt></ruby><rt>因此</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>信心</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>你们的</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>和</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐλπίδα<rt>ἐλπίς</rt></ruby><rt>盼望</rt></ruby><rt>N-ASF</rt></RUBY>)s (<RUBY><ruby><ruby><em>εἶναι</em><rt>εἰμί</rt></ruby><rt>钉住</rt></ruby><rt>V-PAN</rt></RUBY>)p (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>在...上</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θεόν<rt>θεός</rt></ruby><rt>神</rt></ruby><rt>N-ASM</rt></RUBY>)a <mark class='punctuation'>.</mark> 
 
 
-### 圖析 (1Pe 1:22-25)
+### 圖析（1Pe 1:22-25）
 
 - ⋯⋯⋯⋯⋯⋯⋯
 	- 1:22a { (<RUBY><ruby><ruby>Τὰς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ψυχὰς<rt>ψυχή</rt></ruby><rt>心灵</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>你们</rt></ruby><rt>P-2GP</rt></RUBY>)c (<RUBY><ruby><ruby><mark class='ptc'>ἡγνικότες</mark><rt>ἁγνίζω</rt></ruby><rt>洁净</rt></ruby><rt>V-RAP-NPM</rt></RUBY>)p (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>因</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑπακοῇ<rt>ὑπακοή</rt></ruby><rt>顺从</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀληθείας<rt>ἀλήθεια</rt></ruby><rt>真理</rt></ruby><rt>N-GSF</rt></RUBY>)a (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>以致</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φιλαδελφίαν<rt>φιλαδελφία</rt></ruby><rt>爱弟兄</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀνυπόκριτον<rt>ἀνυπόκριτος</rt></ruby><rt>真诚</rt></ruby><rt>A-ASF</rt></RUBY>)a }°¹⮧

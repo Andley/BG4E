@@ -3,7 +3,7 @@ title: "Php.1.3-11"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 1:3-11)
+#### 圖析（Php 1:3-11）
 - 1:3a <RUBY><ruby><ruby><mark><mark class='verb'>Εὐχαριστῶ°¹</mark></mark><rt>εὐχαριστέω</rt></ruby><rt>I thank</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>Θεῷ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>)C 
 	- 1:3b (<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσῃ<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>μνείᾳ<rt>μνεία</rt></ruby><rt>remembrance</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>of you</rt></ruby><rt>P-2GP</rt></RUBY>)A°¹⮥
 	- ···· 解讀 A ····
@@ -60,6 +60,6 @@ draft: false
 [Philippians-Notes↵](Philippians-Notes.md)
 
 
-[^a]: καρπὸν (δικαιοσύνης) 與 (τὸν διὰ Ἰησοῦ Ἰησοῦ) 的關係不是同位 (apposition)，而是修飾 (attributive)，是第三修飾位置 N—T—A (介系詞片語)。「同位 apposition」是 *renaming*，是換個方式來說同樣的東西，因此可以用來取代前面的 head-noun (中心詞)。「修飾 attribution」是 *describing*，是用來形容、描寫 head-noun，不能取代掉中心詞。
-[^x]: 解讀 b 不成立。因為如果 1:10b 的假設語氣動詞 **ἦτε** 要平行 (接續) 1:9a 主要動詞 **προσεύχομαι** 的話，那麼 1:10b 的 ἵνα 就顯得多餘。
+[^a]: καρπὸν (δικαιοσύνης) 與（τὸν διὰ Ἰησοῦ Ἰησοῦ）的關係不是同位（apposition），而是修飾（attributive），是第三修飾位置 N—T—A (介系詞片語)。「同位 apposition」是 *renaming*，是換個方式來說同樣的東西，因此可以用來取代前面的 head-noun (中心詞)。「修飾 attribution」是 *describing*，是用來形容、描寫 head-noun，不能取代掉中心詞。
+[^x]: 解讀 b 不成立。因為如果 1:10b 的假設語氣動詞 **ἦτε** 要平行（接續）1:9a 主要動詞 **προσεύχομαι** 的話，那麼 1:10b 的 ἵνα 就顯得多餘。
 

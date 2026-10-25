@@ -1,6 +1,6 @@
 ### The Allegory of Hagar and Sarah (Gal 4:21-5:1)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
-#### 語意圖析 (Semantic Diagram)
+#### 語意圖析（Semantic Diagram）

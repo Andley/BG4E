@@ -48,9 +48,9 @@ draft: false
 	- 6:15b <RUBY><ruby><ruby>ἐὰν<rt>如果 if</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01437&m='>ἐάν</a></rt></ruby><rt>COND</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἀφῆτε</span><rt>饒恕 forgive</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00863&m='>ἀφίημι</a></rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τοῖς<rt>饒恕</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἀνθρώποις<rt>別人 men</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></rt></ruby><rt>N-DPM</rt></RUBY>)C , 
 - 6:15c <RUBY><ruby><ruby>οὐδὲ<rt>也~不 neither</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03761&m='>οὐδέ</a></rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πατὴρ<rt>天父 father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>ἀφήσει</span><rt>饒恕 forgive</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00863&m='>ἀφίημι</a></rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>παραπτώματα<rt>過犯 trespasses</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03900&m='>παράπτωμα</a></rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY>)C . 
 
-[^1]: ὡς οἱ ὑποκριταί：根據 [BAGD 乙.三](https://bible.fhl.net/new/s.php?N=0&k=05613&m=)，這裡是受到閃族語系的影響，ὡς 與實名詞連用時，取代了實名詞或形容詞——因為主要動詞是 ἔσεσθε (聯繫動詞)，所以把 ὡς οἱ ὑποκριταί 當作是「實名詞或形容詞」，在子句中扮演補語 (C) 的角色。
+[^1]: ὡς οἱ ὑποκριταί：根據 [BAGD 乙.三](https://bible.fhl.net/new/s.php?N=0&k=05613&m=)，這裡是受到閃族語系的影響，ὡς 與實名詞連用時，取代了實名詞或形容詞——因為主要動詞是 ἔσεσθε (聯繫動詞)，所以把 ὡς οἱ ὑποκριταί 當作是「實名詞或形容詞」，在子句中扮演補語（C）的角色。
 
-[^2]: ὅπως：根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=03704&m=)，後面接假設語氣動詞 φανῶσιν，所以這裡當作連接詞 (CONJ) 比較恰當。
+[^2]: ὅπως：根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=03704&m=)，後面接假設語氣動詞 φανῶσιν，所以這裡當作連接詞（CONJ）比較恰當。
 
 [^3]: ὥσπερ：根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=05618&m=)，這裡扮演連接詞的角色。
 
@@ -58,8 +58,8 @@ draft: false
 
 [^5]: ὁμοιωθῆτε：根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=03666&m=)，動詞 ὁμοιόω 可以接見接受格表示「人」。
 
-[^6]: ὧν χρείαν ἔχετε：關係內嵌子句，當作主要動詞 οἶδεν 的補語 (C)——比較特別的是，關係代名詞 ὧν 是所有格，修飾 χρείαν；而且在此並沒有先行詞 (進深，591)。
+[^6]: ὧν χρείαν ἔχετε：關係內嵌子句，當作主要動詞 οἶδεν 的補語（C）——比較特別的是，關係代名詞 ὧν 是所有格，修飾 χρείαν；而且在此並沒有先行詞（進深，591）。
 
-[^7]: πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν∴介系詞片語，結構是：介系詞 πρὸ ＋ 冠詞 τοῦ ＋ 不定詞內嵌子句。不定詞內嵌子句之中有兩個直接受格 (ὑμᾶς、αὐτόν)，必須根據上下文判斷哪一個是小s，哪一個是小c (進深，538 §11.3)。
+[^7]: πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν∴介系詞片語，結構是：介系詞 πρὸ ＋ 冠詞 τοῦ ＋ 不定詞內嵌子句。不定詞內嵌子句之中有兩個直接受格（ὑμᾶς、αὐτόν），必須根據上下文判斷哪一個是小s，哪一個是小c (進深，538 §11.3)。
 
-[^8]: ὁ ἐν τοῖς οὐρανοῖς：冠詞＋介系詞片語 = 實名詞的結構 (進深，232-3 §5.1.2)。主格的實名詞也可以表達稱呼 (進深，88)，同位於前面的呼格。
+[^8]: ὁ ἐν τοῖς οὐρανοῖς：冠詞＋介系詞片語 = 實名詞的結構（進深，232-3 §5.1.2）。主格的實名詞也可以表達稱呼（進深，88），同位於前面的呼格。

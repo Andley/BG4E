@@ -26,20 +26,20 @@ draft: false
 - 1:18a (<RUBY><ruby><ruby>Θεὸν<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-ASM</rt></RUBY>)C (<RUBY><ruby><ruby>οὐδεὶς<rt>沒有人 no one</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03762&m='>οὐδείς</a></rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>ἑώρακεν</span><rt>見過 has seen</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03708&m='>ὁράω</a></rt></ruby><rt>V-RAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>πώποτε<rt>從來 ever yet</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04455&m='>πώποτε</a></rt></ruby><rt>ADV</rt></RUBY>)A <span class='punctuation'>·</span>
 - 1:18b {<RUBY><ruby><ruby>μονογενὴς<rt>獨生的獨特 [the] only begotten</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03439&m='>μονογενής</a></rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>}S {<RUBY><ruby><ruby>ὁ<rt>- the [One]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> [(<RUBY><ruby><ruby><span class='ptc'>ὢν</span><rt>是 being</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>εἰς<rt>靠近 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόλπον<rt>懷抱 bosom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02859&m='>κόλπος</a></rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>- of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-GSM</rt></RUBY>)a] <RUBY><ruby><ruby>ἐκεῖνος<rt>那位 He</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01565&m='>ἐκεῖνος</a></rt></ruby><rt>D-NSM</rt></RUBY>}=S[^9] {<RUBY><ruby><ruby><span class='verb'>ἐξηγήσατο</span><rt>表明出來 has made [Him] known</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01834&m='>ἐξηγέομαι</a></rt></ruby><rt>V-AMI-3S</rt></RUBY>}P <span class='punctuation'>.</span>
 
-[^1]: ἐγένετο：聯繫動詞，主語、補語都是主格——根據文法規則，帶冠詞的 (ὁ Λόγος) 是主語。
-[^2]: δόξαν ὡς μονογενοῦς παρὰ Πατρός：介系詞片語 (παρὰ Πατρός) 修飾前面的 μονογενοῦς；所有格 μονογενοῦς 前面加上 ὡς (這裡不是連接詞，而是質詞，意思是「如同，好像」[BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=05613&m=)) 修飾前面的 δόξαν；δόξαν 格數性與前面的補語 (τὴν δόξαν αὐτοῦ) 一致，所以標示成同位。
+[^1]: ἐγένετο：聯繫動詞，主語、補語都是主格——根據文法規則，帶冠詞的（ὁ Λόγος）是主語。
+[^2]: δόξαν ὡς μονογενοῦς παρὰ Πατρός：介系詞片語（παρὰ Πατρός）修飾前面的 μονογενοῦς；所有格 μονογενοῦς 前面加上 ὡς (這裡不是連接詞，而是質詞，意思是「如同，好像」[BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=05613&m=)) 修飾前面的 δόξαν；δόξαν 格數性與前面的補語（τὴν δόξαν αὐτοῦ）一致，所以標示成同位。
 
 [^3]: ...(ὁ Λόγος)S... ...(ἐστὶν)P...：根據上下文判斷，補上省略掉的 S、P。
 
-[^4]: ἦν：聯繫動詞，主語、補語都是主格——根據文法規則，代名詞 (Οὗτος) 有優先權，要當作主語。
+[^4]: ἦν：聯繫動詞，主語、補語都是主格——根據文法規則，代名詞（Οὗτος）有優先權，要當作主語。
 
 [^5]: ὃν εἶπον：關係內嵌子句，當作主要子句的補語。
 
-[^6]: ἦν：單看 1:15e 會以為只有一個元素 (πρῶτός μου)——但根據上下文判斷，主語延續 1:15d，內嵌在 ἦν 的 [3S] 裡面，所以 ἦν 還是聯繫動詞，內嵌的主語有優先權，所以 πρῶτός μου 要當作補語。
+[^6]: ἦν：單看 1:15e 會以為只有一個元素（πρῶτός μου）——但根據上下文判斷，主語延續 1:15d，內嵌在 ἦν 的 [3S] 裡面，所以 ἦν 還是聯繫動詞，內嵌的主語有優先權，所以 πρῶτός μου 要當作補語。
 
 [^7]: 1:15e, 16a 連續出現兩個子句都用 ὅτι 開始——文法上不是不可以，只是比較少見。根據上下文判斷，1:16a 的動詞主語是 [1P]，所以很可能是接續上文 1:14c 的主語也是 [1P]。
 
-[^8]: ἐγένετο：動詞的人稱、數是 [3S]，但主語卻是兩個抽象概念的集合體 (ἡ χάρις καὶ ἡ ἀλήθεια)
+[^8]: ἐγένετο：動詞的人稱、數是 [3S]，但主語卻是兩個抽象概念的集合體（ἡ χάρις καὶ ἡ ἀλήθεια）
 
-[^9]: ὁ ὢν εἰς τὸν ... ἐκεῖνος：分詞內嵌子句，同位於前面的主語 (μονογενὴς Θεὸς)。
+[^9]: ὁ ὢν εἰς τὸν ... ἐκεῖνος：分詞內嵌子句，同位於前面的主語（μονογενὴς Θεὸς）。
 

@@ -60,11 +60,11 @@ AGG §258c 提出的四大主要類型與經文實例：
 
 3. 學派分類與術語對照總結（Comparative Summary）
 
-|語法學派 / 著作 (Grammatical School / Work)|對「強制性副詞成分」之術語標註 (Terminology)|句法歸類 (Syntactic Category)|核心理論依據 (Theoretical Basis)|
+|語法學派 / 著作（Grammatical School / Work）|對「強制性副詞成分」之術語標註（Terminology）|句法歸類（Syntactic Category）|核心理論依據（Theoretical Basis）|
 |---|---|---|---|
-|**當代語法與現代語言學**<br>(_AGG_, _CCGG_, Givón)|**副詞性補語 / 狀語補語**<br>(Adverbial Complement, `AdvlC` / `LocC` / `ManC`)|**補語 (Complement, C)**|**動詞價位理論 (Verb Valency)**：強制性成分即為 Complement。|
-|**傳統新約希臘文語法**<br>(_GGBB_, _ATR_, _BDF_, _IGG_)|**副詞性修飾語 / 謂語位置副詞**<br>(Adverbial Modifier / Predicative Adverb)|**副詞性修飾語 (Adverbial Modifier)**|**形態與語意三分法**：凡副詞/介詞短語皆屬 Adverbial 範疇。|
-|**系統功能語言學**<br>(OpenText.org, Porter)|**狀語 / 附加語**<br>(Adjunct, `A` / `IntA` / `LocA`)|**狀語 (Adjunct, A)**|**及物性系統 (Transitivity)**：情境環境 (Circumstance) 一律歸為 A。|
+|**當代語法與現代語言學**<br>(_AGG_, _CCGG_, Givón)|**副詞性補語 / 狀語補語**<br>(Adverbial Complement, `AdvlC` / `LocC` / `ManC`)|**補語（Complement, C）**|**動詞價位理論（Verb Valency）**：強制性成分即為 Complement。|
+|**傳統新約希臘文語法**<br>(_GGBB_, _ATR_, _BDF_, _IGG_)|**副詞性修飾語 / 謂語位置副詞**<br>(Adverbial Modifier / Predicative Adverb)|**副詞性修飾語（Adverbial Modifier）**|**形態與語意三分法**：凡副詞/介詞短語皆屬 Adverbial 範疇。|
+|**系統功能語言學**<br>(OpenText.org, Porter)|**狀語 / 附加語**<br>(Adjunct, `A` / `IntA` / `LocA`)|**狀語（Adjunct, A)**|**及物性系統（Transitivity）**：情境環境 (Circumstance）一律歸為 A。|
 
 - **代表學者與參考來源**：Siebenthal, _AGG_, §127e, §258c; van Emde Boas et al., _CCGG_, 26.4; Wallace, _GGBB_, 183–184; OpenText.org Annotation Model, Clause Level §1–2。
 

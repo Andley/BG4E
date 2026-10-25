@@ -3,7 +3,7 @@ title: "Heb.4.14-5.10"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Heb 4:14-5:10) 
+## 圖析（Heb 4:14-5:10）
 
 - 4:14a ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>那麼</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 4:14b {(<RUBY><ruby><ruby><mark class='ptc'>Ἔχοντες</mark><rt>ἔχω</rt></ruby><rt>有</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p ⸉...⸊ (<RUBY><ruby><ruby>ἀρχιερέα<rt>ἀρχιερεύς</rt></ruby><rt>大祭司</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>μέγαν<rt>μέγας</rt></ruby><rt>偉大</rt></ruby><rt>A-ASM</rt></RUBY>)c (<RUBY><ruby><ruby><mark class='ptc'>διεληλυθότα</mark><rt>διέρχομαι</rt></ruby><rt>經過</rt></ruby><rt>V-RAP-ASM</rt></RUBY> <RUBY><ruby><ruby>τοὺς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>οὐρανούς<rt>οὐρανός</rt></ruby><rt>天</rt></ruby><rt>N-APM</rt></RUBY>)+c <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>耶穌</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Υἱὸν<rt>υἱός</rt></ruby><rt>兒子</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>神</rt></ruby><rt>N-GSM</rt></RUBY>)=c}A°¹⮧ <mark class='punctuation'>,</mark> 

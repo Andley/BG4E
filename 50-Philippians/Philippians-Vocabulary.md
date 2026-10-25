@@ -3,11 +3,11 @@ title: "Philippians-Vocabulary"
 date: 2026-07-04
 draft: false
 ---
-# 腓立比書 (Philippians) 詞彙綜覽
+# 腓立比書（Philippians）詞彙綜覽
 
-### 詞彙頻率 (≧ 5x)
+### 詞彙頻率（≧ 5x）
  
- #### 功能詞 (Function Words)
+ #### 功能詞（Function Words）
 
 | 連接詞                             | 介系詞                                                                                        |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -23,11 +23,11 @@ draft: false
 | εἰ, if (13x)                    |                                                                                            |
 | ὡς, as, that, how, about (7x)   |                                                                                            |
 | εἴτε, if, whether (6x)          |                                                                                            |
-| Ø 無連接詞 (39x) (Moore 2019, 45)   |                                                                                            |
+| Ø 無連接詞（39x）(Moore 2019, 45)   |                                                                                            |
 
 
 
- #### 內容詞 (Content Words)
+ #### 內容詞（Content Words）
 
 | 名詞                                                            | 動詞 |
 |---------------------------------------------------------------|-------------------------------------------------------|
@@ -45,8 +45,8 @@ draft: false
 | σάρξ, σαρκός, ἡ, flesh (5x)                                    | |
 
 Note: 
-- 在動詞當中，喜樂 (χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω) 相對突出。
-- <mark class='verb'>σύν</mark> 的複合字特別多 (20x)：同心、一起 (togetherness) 的概念相對突出
+- 在動詞當中，喜樂（χαίρω)、認知動詞 (φρονέω/ἡγέομαι/οἶδα/πείθω）相對突出。
+- <mark class='verb'>σύν</mark> 的複合字特別多（20x)：同心、一起 (togetherness）的概念相對突出
 	- συγκοινωνέω, to have fellowship with, participate, share (1x)
 	- συγκοινωνός, -οῦ, ὁ, partaker, participant, partner (1x)
 	- συγχαίρω, to rejoice with (2x)
@@ -65,7 +65,7 @@ Note:
 
 ### Hapax legomenon (罕見字、生僻字、孤寡字)
 
-- 扣除人名 (Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon) 總共 36 個。
+- 扣除人名（Εὐοδία、Κλήμης、Συντύχη)，在新約當中只出現過一次的字 (Hapax legomenon）總共 36 個。
 	- ἁγνῶς	(ἅγος)	sincerely, purely
 	- αἴσθησις	(αἰσθάνομαι)	(f) judgment, perception, knowledge
 	- ἀκαιρέομαι	(α, καιρός)	to lack opportunity

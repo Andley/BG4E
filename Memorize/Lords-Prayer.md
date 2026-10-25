@@ -3,7 +3,7 @@ title: "Lords-Prayer"
 date: 2026-07-04
 draft: false
 ---
-# 主禱文 (Lord's Prayer)
+# 主禱文（Lord's Prayer）
 
 - <RUBY><ruby><ruby>Πάτερ<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>我們 of us</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>- who [is]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在上 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς<rt>天 heavens</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-DPM</rt></RUBY> <mark class='punctuation'>·</mark> 
 - <RUBY><ruby><ruby><mark class='verb'>Ἁγιασθήτω</mark><rt>願被尊為聖 hallowed be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00037&m='>ἁγιάζω</a></rt></ruby><rt>V-APM-3S</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὄνομά<rt>名字 name</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03686&m='>ὄνομα</a></rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου<rt>你 of You</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY> <mark class='punctuation'>·</mark> 

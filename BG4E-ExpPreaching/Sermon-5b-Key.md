@@ -5,7 +5,7 @@ draft: false
 ---
 ## Sermon-5b (約1:1-18) 參考解答
 
-### 句法圖析 (Syntax Diagram)
+### 句法圖析（Syntax Diagram）
 
 - 1:1a (<RUBY><ruby><ruby>Ἐν<rt>In [the]</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀρχῇ<rt>beginning</rt></ruby><rt>ἀρχή</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἦν</mark><rt>was</rt></ruby><rt>εἰμί</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Λόγος<rt>Word</rt></ruby><rt>λόγος</rt></ruby><rt>N-NSM</rt></RUBY>)S <mark class='punctuation'>,</mark>
 - 1:1b <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ὁ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Λόγος<rt>Word</rt></ruby><rt>λόγος</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἦν</mark><rt>was</rt></ruby><rt>εἰμί</rt></ruby><rt>V-IAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>πρὸς<rt>with</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεόν<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-ASM</rt></RUBY>)A <mark class='punctuation'>,</mark>
@@ -64,11 +64,11 @@ draft: false
 - 1:18b (<RUBY><ruby><ruby>μονογενὴς<rt>[the] only begotten</rt></ruby><rt>μονογενής</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S {<RUBY><ruby><ruby>ὁ<rt>the [One]</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> [(<RUBY><ruby><ruby><mark class='ptc'>ὢν</mark><rt>being</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>εἰς<rt>in</rt></ruby><rt>εἰς</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόλπον<rt>bosom</rt></ruby><rt>κόλπος</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>of the</rt></ruby><rt>ὁ</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρὸς<rt>Father</rt></ruby><rt>πατήρ</rt></ruby><rt>N-GSM</rt></RUBY>)a]}=S 
 - 1:18c (<RUBY><ruby><ruby>ἐκεῖνος<rt>He</rt></ruby><rt>ἐκεῖνος</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐξηγήσατο</mark><rt>has made [Him] known</rt></ruby><rt>ἐξηγέομαι</rt></ruby><rt>V-AMI-3S</rt></RUBY>)P <mark class='punctuation'>.</mark> 
 
-[^1]: αὐτῷ：表示擁有的間接受格 (GGBB, 151 = 華, 156-7)。
-[^2]: 雖然專有名詞 (Ἰωάννης) 似乎有優先權 (GGBB, 43 = 華, 42)，但遇到名字 (ὄνομα) 時卻是例外 (GGBB, 註腳 21)。
+[^1]: αὐτῷ：表示擁有的間接受格（GGBB, 151 = 華, 156-7）。
+[^2]: 雖然專有名詞（Ἰωάννης）似乎有優先權（GGBB, 43 = 華, 42)，但遇到名字（ὄνομα）時卻是例外 (GGBB, 註腳 21）。
 [^3]: ἐρχόμενον εἰς τὸν κόσμον：因為 ἐρχόμενον 的詞形代碼有兩種可能，所以這個分詞內嵌子句有兩種可能：(a) 修飾 ἄνθρωπον (ASM)；(b) 修飾 ὃ (NSN)——根據上下文判斷，(b) 比較通順，所以這裡要當作 A。
 
 
-### 語意圖析 (Semantic Diagram)
+### 語意圖析（Semantic Diagram）
 
 ![[../images/Pasted image 20231211062635.png]]

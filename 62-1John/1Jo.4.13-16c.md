@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-#### 圖析 (1Jo 4:13-16c)
+#### 圖析（1Jo 4:13-16c）
 
 
 - 4:13a (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>By</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-DSN</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>γινώσκομεν</mark><rt>γινώσκω</rt></ruby><rt>we know</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
@@ -25,4 +25,4 @@ draft: false
 - 4:16b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>πεπιστεύκαμεν</mark><rt>πιστεύω</rt></ruby><rt>have come to believe</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P (<mark><RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀγάπην<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-ASF</rt></RUBY>°¹</mark>)C 
 	- 4:16c (<RUBY><ruby><ruby>ἣν°¹⮥<rt>ὅς, ἥ</rt></ruby><rt>that</rt></ruby><rt>R-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἔχει</mark><rt>ἔχω</rt></ruby><rt>has</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>as to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν.<rt>ἐγώ</rt></ruby><rt>us.</rt></ruby><rt>P-1DP</rt></RUBY>)A 
 
-[^1]: **ἀπέσταλκεν**：ἀποστέλλω 後面可以接兩個直接受詞，形成 object-complement 的結構 (GGBB, 186)。
+[^1]: **ἀπέσταλκεν**：ἀποστέλλω 後面可以接兩個直接受詞，形成 object-complement 的結構（GGBB, 186）。

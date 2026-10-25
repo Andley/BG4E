@@ -23,17 +23,17 @@ draft: false
 - 5:16b (<RUBY><ruby><ruby>ὅπως<rt>讓 so that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03704&m='>ὅπως</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἴδωσιν</span><rt>看見 see</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03708&m='>ὁράω</a></rt></ruby><rt>V-2AAS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῶν<rt>你們的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>καλὰ<rt>好 good</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02570&m='>καλός</a></rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby>ἔργα<rt>行為 works</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02041&m='>ἔργον</a></rt></ruby><rt>N-APN</rt></RUBY>)C 
 - 5:16c <RUBY><ruby><ruby>καὶ<rt>便 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>δοξάσωσιν</span><rt>榮耀歸給 glorify</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01392&m='>δοξάζω</a></rt></ruby><rt>V-AAS-3P</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>πατέρα<rt>父 father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῖς<rt>天上 heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-DPM</rt></RUBY>)C . 
 
-[^1]: Ὑμεῖς：聯繫動詞 (ἐστε) 子句 (進深，671 §13.3.2.4) 有兩個主格的時候，代名詞 (Ὑμεῖς) 有優先權 (進深，85 §2.2.1.2) 要當作主詞 (S)。
+[^1]: Ὑμεῖς：聯繫動詞（ἐστε）子句（進深，671 §13.3.2.4）有兩個主格的時候，代名詞（Ὑμεῖς）有優先權（進深，85 §2.2.1.2）要當作主詞（S）。
 
-[^2]: ἐὰν...：第三類條件子句 (進深，666-7 §13.3.1.3.3)。
+[^2]: ἐὰν...：第三類條件子句（進深，666-7 §13.3.1.3.3）。
 
 [^3]: εἰ：與後面的 μὴ 連用，是希臘文的慣用語，表達「若不是 if not、除非 except」的意思。
 
-[^4]: βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων：根據上下文判斷，分詞內嵌子句 (βληθὲν ἔξω) 當作小a，修飾不定詞 (καταπατεῖσθαι) 小p。
+[^4]: βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων：根據上下文判斷，分詞內嵌子句（βληθὲν ἔξω）當作小a，修飾不定詞（καταπατεῖσθαι）小p。
 
-[^5]: ἰσχύει：[BAGD](https://bible.fhl.net/new/s.php?N=0&k=02480&m=) 通常後面會帶不定詞內嵌子句 (βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων) 當補語 (C)。
+[^5]: ἰσχύει：[BAGD](https://bible.fhl.net/new/s.php?N=0&k=02480&m=) 通常後面會帶不定詞內嵌子句（βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων）當補語（C）。
 
-[^6]: κρυβῆναι：主要動詞 δύναται (能) 後面接不定詞當作補語使用 (進深，541 §11.4.1)——雖然《進深》歸類在副詞用法下面，但大多數文法學家認為應該放在名詞用法下面。
+[^6]: κρυβῆναι：主要動詞 δύναται (能) 後面接不定詞當作補語使用（進深，541 §11.4.1）——雖然《進深》歸類在副詞用法下面，但大多數文法學家認為應該放在名詞用法下面。
 
-[^7]: ἐπάνω ὄρους κειμένη：分詞內嵌子句，分詞是主格，前面又沒有冠詞，格數性 [NSM] 要勾到所修飾的主詞 (πόλις) 以及主要動詞 (πόλις) [V-PNI-3S] 內含的 3S 身上，相當於副詞用法 (進深，487 §10.5.1)。根據上下文判斷，這裡很可能是表達方式 (進深，492 §10.5.1.5) or 原因 (進深，493 §10.5.1.6)。
+[^7]: ἐπάνω ὄρους κειμένη：分詞內嵌子句，分詞是主格，前面又沒有冠詞，格數性 [NSM] 要勾到所修飾的主詞（πόλις）以及主要動詞（πόλις）[V-PNI-3S] 內含的 3S 身上，相當於副詞用法（進深，487 §10.5.1)。根據上下文判斷，這裡很可能是表達方式（進深，492 §10.5.1.5）or 原因 (進深，493 §10.5.1.6）。
 

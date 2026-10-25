@@ -1,7 +1,7 @@
 
 ### There is No Other Gospel (Gal 1:6-10)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 - 1:6a (<span class="w"><span class="m">V-PAI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02296&m='>θαυμάζω</a></span><span class="g">我驚奇 I am astonished</span><span class="t"><span class='verb'>Θαυμάζω</span></span></span> )P 
 	- 1:6b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></span><span class="g">- that</span><span class="t">ὅτι</span></span>  (<span class="w"><span class="m">ADV</span><span class="l">οὕτω, <a href='https://bible.fhl.net/new/s.php?N=0&k=03779&m='>οὕτως</a></span><span class="g">這麼 so</span><span class="t">οὕτως</span></span>  <span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05030&m='>ταχέως</a></span><span class="g">輕易地 quickly</span><span class="t">ταχέως</span></span> )A (<span class="w"><span class="m">V-PEI-2P</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03346&m='>μετατίθημι</a></span><span class="g">你們離開 you are deserting</span><span class="t"><span class='verb'>μετατίθεσθε</span></span></span> )P (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></span><span class="g">從 from</span><span class="t">ἀπὸ</span></span>  ⸢<span class="w"><span class="m">T-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">那位 the [One]</span><span class="t">τοῦ</span></span>  ⁅‹<span class="w"><span class="m">V-AAP-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02564&m='>καλέω</a></span><span class="g">呼召 having called</span><span class="t"><span class='ptc'>καλέσαντος</span></span></span> ›p ‹<span class="w"><span class="m">P-2AP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></span><span class="g">你們 you</span><span class="t">ὑμᾶς</span></span> ›c ‹<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></span><span class="g">憑著 in</span><span class="t">ἐν</span></span>  <span class="w"><span class="m">N-DSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05485&m='>χάρις</a></span><span class="g">恩典 [the] grace</span><span class="t">χάριτι</span></span>  <span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></span><span class="g">基督 of Christ</span><span class="t">Χριστοῦ</span></span> ›a⁆⸣)A (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></span><span class="g">向 to</span><span class="t">εἰς</span></span>  ⸢<span class="w"><span class="m">A-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02087&m='>ἕτερος</a></span><span class="g">別 a different</span><span class="t">ἕτερον</span></span>  <span class="w"><span class="m">N-ASN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02098&m='>εὐαγγέλιον</a></span><span class="g">福音 gospel</span><span class="t">εὐαγγέλιον</span></span> ⸣°¹)A <span class='punctuation'>,</span> 
@@ -25,37 +25,37 @@
 - 1:10e (<span class="w"><span class="m">N-GSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></span><span class="g">基督 of Christ</span><span class="t">Χριστοῦ</span></span>  <span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01401&m='>δοῦλος</a></span><span class="g">僕人 a servant</span><span class="t">δοῦλος</span></span> )C <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">PRT</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00302&m='>ἄν</a></span><span class="g">就 -</span><span class="t">ἂν</span></span> )A (<span class="w"><span class="m">V-IMI-1S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">我是 I would be</span><span class="t"><span class='verb'>ἤμην</span></span></span> )P <span class='punctuation'>.</span>
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
-- 1:6-7 是一個完整的句子，1:6a 是主要子句「我驚奇」，接著用從屬連接詞 ὅτι，帶出1:6b-1:7b 的間接敘述 (indirect discourse)，表達說話 (speaking) 或感知 (perception [Θαυμάζω]) 動詞的內容 (進深，256, 623)。
+- 1:6-7 是一個完整的句子，1:6a 是主要子句「我驚奇」，接著用從屬連接詞 ὅτι，帶出1:6b-1:7b 的間接敘述（indirect discourse)，表達說話（speaking）或感知（perception [Θαυμάζω]）動詞的內容 (進深，256, 623）。
 - 1:6a <span class='verb'>Θαυμάζω</span> 
-	- Θαυμάζω [V-PAI-1S]：現在式時態形式，表達動作內部 (internal)、持續進展 (in-progress) 的觀點 (Idioms, 29)；第一人稱、單數，表示書信作者是保羅一個人。
+	- Θαυμάζω [V-PAI-1S]：現在式時態形式，表達動作內部（internal)、持續進展（in-progress）的觀點 (Idioms, 29）；第一人稱、單數，表示書信作者是保羅一個人。
 - 1:6b ὅτι οὕτως ταχέως <span class='verb'>μετατίθεσθε</span> ἀπὸ τοῦ <span class='ptc'>καλέσαντος</span> ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον , 
-	- οὕτως 從文法上看，固然可以修飾主要動詞 (μετατίθεσθε)，但意思就會變成「你們『這麼樣地』離開」——從上下文判斷，比較好的理解是修飾後面的副詞 (ταχέως)，保羅驚訝的是「你們『這麼快地』離開」
-	-  ἀπὸ τοῦ ...  是用 ἀπὸ 加上「冠詞(T)—分詞內嵌子句(PE)」實名詞用法的分詞 (進深，485-7) 當作介係詞片語，修飾主要動詞 (μετατίθεσθε)。
-	- ἕτερον εὐαγγέλιον：ἕτερος 的字義，雖然有時會跟 ἄλλος 重疊，但因為 1:6d ἕτερον 跟 1:7a οὐκ ἄλλο 前後對比，所以 ἕτερον 在此有「無論內在外在皆有異於前者」的意思 (BAGD)。。
+	- οὕτως 從文法上看，固然可以修飾主要動詞（μετατίθεσθε），但意思就會變成「你們『這麼樣地』離開」——從上下文判斷，比較好的理解是修飾後面的副詞（ταχέως），保羅驚訝的是「你們『這麼快地』離開」
+	-  ἀπὸ τοῦ ...  是用 ἀπὸ 加上「冠詞（T）—分詞內嵌子句（PE）」實名詞用法的分詞（進深，485-7）當作介係詞片語，修飾主要動詞（μετατίθεσθε）。
+	- ἕτερον εὐαγγέλιον：ἕτερος 的字義，雖然有時會跟 ἄλλος 重疊，但因為 1:6d ἕτερον 跟 1:7a οὐκ ἄλλο 前後對比，所以 ἕτερον 在此有「無論內在外在皆有異於前者」的意思（BAGD）。。
 - 1:7a  1:7a ὃ οὐκ <span class='verb'>ἔστιν</span> ἄλλο , 
-	- 關係代名詞 (進深，590-1) ὃ 的性數 [SN] 指向 1:6b 同樣是 [SN] 的先行詞 (εὐαγγέλιον)，而格 [N] 則表達在 1:7a 子句中的功用。
+	- 關係代名詞（進深，590-1）ὃ 的性數 [SN] 指向 1:6b 同樣是 [SN] 的先行詞（εὐαγγέλιον），而格 [N] 則表達在 1:7a 子句中的功用。
 	- ἄλλο 意思是「別的」(BAGD)，通常指同類之中的另外一個；性數是 [SN]，與主語 ὃ ㄏ呼應，都在「福音」。
 - 1:7b εἰ μή τινές <span class='verb'>εἰσιν</span> οἱ <span class='ptc'>ταράσσοντες</span> ὑμᾶς καὶ <span class='ptc'>θέλοντες</span> <span class='inf'>μεταστρέψαι</span> τὸ εὐαγγέλιον τοῦ Χριστοῦ . 
 	- εἰ μή (BAGD 己、八)，延續 1:7a 意思是「不是別的 ... 而是 ...」。
-	- τινές 不定代名詞，但在這裡應該是指向特定的某些人 (BAGD 一、A、2)
-	-  οἱ ταράσσοντες ...  Χριστοῦ 是「冠詞(οἱ)—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則 (進深，239-41)，但也代表兩者之間緊密相關 (GGBB, 278-86)。
+	- τινές 不定代名詞，但在這裡應該是指向特定的某些人（BAGD 一、A、2）
+	-  οἱ ταράσσοντες ...  Χριστοῦ 是「冠詞（οἱ）—分詞內嵌子句#1—καὶ—分詞內嵌子句#2」(兩個分詞內嵌子句共用同一個冠詞) 的結構，雖然並不符合必須單數名詞的夏普規則（進深，239-41），但也代表兩者之間緊密相關（GGBB, 278-86）。
 		- 分詞內嵌子句#1：ταράσσοντες ὑμᾶς
-		- 分詞內嵌子句#2：θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ，不定詞內嵌子句 (μεταστρέψαι ... Χριστοῦ) 當作意欲動詞 (θέλοντες) 的補語——雖然 GDNTG/GGBB 認為是副詞用法 (進深，541)，但比較好的還是應該當作名詞用法的不定詞 (進深，553)。
+		- 分詞內嵌子句#2：θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ，不定詞內嵌子句（μεταστρέψαι ... Χριστοῦ）當作意欲動詞（θέλοντες）的補語——雖然 GDNTG/GGBB 認為是副詞用法（進深，541），但比較好的還是應該當作名詞用法的不定詞（進深，553）。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 1:8abcd 是完整的第三類條件句 (進深，665-7)，：
-- 1:8a Ἀλλὰ：從上下文判斷不是在對比，而是轉變到新的話題 (BAGD 三)
+- 1:8abcd 是完整的第三類條件句（進深，665-7），：
+- 1:8a Ἀλλὰ：從上下文判斷不是在對比，而是轉變到新的話題（BAGD 三）
 - 1:8b καὶ ἐὰν ἡμεῖς 
-	 - καὶ ἐὰν 的結構新約只有一次 (Gal 1:8; LXX 有 4 次：Ecc 11:8; Hos 9:12, 16; Amo 5:22)，意思與 Gal 6:1 的 ἐὰν καὶ (即使) 相當 (BAGD s.v. "ἐάν" 甲、三、A)，καὶ 在這裡比較像副詞，有「甚至」的意思。
+	 - καὶ ἐὰν 的結構新約只有一次（Gal 1:8; LXX 有 4 次：Ecc 11:8; Hos 9:12, 16; Amo 5:22)，意思與 Gal 6:1 的 ἐὰν καὶ (即使）相當（BAGD s.v. "ἐάν" 甲、三、A），καὶ 在這裡比較像副詞，有「甚至」的意思。
 	 - 條件子句 1:8b ἐὰν ἡμεῖς，接著主語轉折到 1:8c 的 ἄγγελος  εὐαγγελίζηται ...
-	 - 1:8b 的 ἡμεῖς 前後沒有人稱、數與之一致的動詞，算是文法上的懸掛主格 (進深，91-3)，雖然文法上有破綻，但從語意上可以說得通：保羅情急之下，ἡμεῖς 可能指保羅自己，也或許包括第一次宣教之旅的同工巴拿巴在內。
+	 - 1:8b 的 ἡμεῖς 前後沒有人稱、數與之一致的動詞，算是文法上的懸掛主格（進深，91-3），雖然文法上有破綻，但從語意上可以說得通：保羅情急之下，ἡμεῖς 可能指保羅自己，也或許包括第一次宣教之旅的同工巴拿巴在內。
 - 1:8c ἢ ἄγγελος ἐξ οὐρανοῦ <span class='verb'>εὐαγγελίζηται</span> ὑμῖν παρ᾽ ὃ <span class='verb'>εὐηγγελισάμεθα</span> ὑμῖν , 
 	 -  παρ ὃ εὐηγγελισάμεθα ὑμῖν 是「介係詞＋關係內嵌子句」形成介係詞片語，修飾主要動詞 εὐαγγελίζηται；
-	 - 關係代名詞 (進深，590-1) ὃ 的性數 [SN] 遙遙指向 1:6b 同樣是 [SN] 的先行詞 (εὐαγγέλιον)，格 [A] 則表達在內嵌子句中當作 εὐηγγελισάμεθα 的補語。
+	 - 關係代名詞（進深，590-1）ὃ 的性數 [SN] 遙遙指向 1:6b 同樣是 [SN] 的先行詞（εὐαγγέλιον），格 [A] 則表達在內嵌子句中當作 εὐηγγελισάμεθα 的補語。
 - 1:8d ἀνάθεμα <span class='verb'>ἔστω</span> .  
 	 - 結果子句，ἀνάθεμα 擺在句首，表示強調；
-	 - ἔστω 命令語氣，表達強烈的意圖 (進深，313)，在此甚至有「他必須、我命令他是」被咒詛的含意。
+	 - ἔστω 命令語氣，表達強烈的意圖（進深，313），在此甚至有「他必須、我命令他是」被咒詛的含意。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 1:9 則是把 1:8 第三類條件句 "somewhat more hypothetically"(GDNTG)、「更大程度上假定的情況」(進深，666) 推進一步，用第一類條件句 "presents the protasis as true" (GDNTG)、「將條件子句表現為屬實的情況」(進深，666)，發出同樣的咒詛。
 - 1:9a ὡς <span class='verb'>προειρήκαμεν</span>  從屬連接詞 ὡς 帶出從屬子句，修飾 1:9b 的主要動詞 λέγω
@@ -67,8 +67,8 @@
 	-  πείθω 意思應該是「取悅」(BAGD 一、C)，跟 1:10c 的 ἀνθρώποις ἀρέσκειν「討人喜歡」相當。
 - 1:10b ἢ τὸν Θεόν ;  
 - 1:10c ἢ <span class='verb'>ζητῶ</span> ἀνθρώποις <span class='inf'>ἀρέσκειν</span> ;  
-	- ἀνθρώποις ἀρέσκειν 是不定詞內嵌子句 (μεταστρέψαι ... Χριστοῦ) 當作意欲動詞 (ζητῶ) 的補語——雖然 GDNTG/GGBB 認為是副詞用法 (進深，541)，但比較好的還是應該當作名詞用法的不定詞 (進深，553)。
-- 1:10d εἰ ἔτι ἀνθρώποις <span class='verb'>ἤρεσκον</span> ,  條件子句，εἰ 加上 [V-IAI]不完式直說語氣的動詞，是「與事實相反」的第二類條件句 (進深，666)
+	- ἀνθρώποις ἀρέσκειν 是不定詞內嵌子句（μεταστρέψαι ... Χριστοῦ）當作意欲動詞（ζητῶ）的補語——雖然 GDNTG/GGBB 認為是副詞用法（進深，541），但比較好的還是應該當作名詞用法的不定詞（進深，553）。
+- 1:10d εἰ ἔτι ἀνθρώποις <span class='verb'>ἤρεσκον</span> ,  條件子句，εἰ 加上 [V-IAI]不完式直說語氣的動詞，是「與事實相反」的第二類條件句（進深，666）
 - 1:10e Χριστοῦ δοῦλος οὐκ ἂν <span class='verb'>ἤμην</span> .
 	- 結果子句，用 οὐκ ἂν 加上 [V-IAI]不完式直說語氣的動詞 ἤμην；
 	- Χριστοῦ 放最前面，代表強調——意思是「如果我還討人喜歡，我就真不是『基督的」奴僕了！」

@@ -3,7 +3,7 @@ title: "Heb.5.11-6.12"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Heb 5:11-6:12) 
+## 圖析（Heb 5:11-6:12）
 
 -  5:11 <RUBY><ruby><ruby>Περὶ<rt>περί</rt></ruby><rt>論到</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>ὅς</rt></ruby><rt>這</rt></ruby><rt>R-GSM</rt></RUBY> <RUBY><ruby><ruby>πολὺς<rt>πολύς</rt></ruby><rt>很多</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῖν<rt>ἐγώ</rt></ruby><rt>給我們</rt></ruby><rt>P-1DP</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>λόγος<rt>λόγος</rt></ruby><rt>話</rt></ruby><rt>N-NSM</rt></RUBY> 
 - <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δυσερμήνευτος<rt>δυσερμήνευτος</rt></ruby><rt>很難解釋</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby><mark class='inf'>λέγειν</mark><rt>λέγω</rt></ruby><rt>說</rt></ruby><rt>V-PAN</rt></RUBY> <mark class='punctuation'>,</mark> 

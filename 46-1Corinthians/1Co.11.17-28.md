@@ -3,7 +3,7 @@ title: "1Co.11.17-28"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (11:17-22)
+#### 圖析（11:17-22）
 
 - 11:17a ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊
 - 11:17b {(<RUBY><ruby><ruby>Τοῦτο<rt>οὗτος</rt></ruby><rt>In this</rt></ruby><rt>D-ASN</rt></RUBY>)c ⸉⸊ (<RUBY><ruby><ruby><mark class='ptc'>παραγγέλλων</mark><rt>παραγγέλλω</rt></ruby><rt>instructing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p}A <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἐπαινῶ</mark><rt>ἐπαινέω</rt></ruby><rt>I do praise </rt></ruby><rt>V-PAI-1S</rt></RUBY>)P
@@ -35,7 +35,7 @@ draft: false
 - 11:22f (<RUBY><ruby><ruby><mark class='verb'>ἐπαινέσω</mark><rt>ἐπαινέω</rt></ruby><rt>Shall I praise</rt></ruby><rt>V-AAS-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς;<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)C 
 - 11:22g (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>οὗτος</rt></ruby><rt>this?</rt></ruby><rt>D-DSN</rt></RUBY>)A <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἐπαινῶ.</mark><rt>ἐπαινέω</rt></ruby><rt>I praise [you]!</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P
 
-#### 圖析 (11:23-34)
+#### 圖析（11:23-34）
 
 - 11:23a (<RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>παρέλαβον</mark><rt>παραλαμβάνω</rt></ruby><rt>received</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου,<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)A (11:23b)C
 	- 11:23b { (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that which</rt></ruby><rt>R-ASN</rt></RUBY>)C1 (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>παρέδωκα</mark><rt>παραδίδωμι</rt></ruby><rt>I delivered</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 }

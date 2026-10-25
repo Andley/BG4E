@@ -28,12 +28,12 @@ draft: false
 	- 5:30f <RUBY><ruby><ruby>ἵνα<rt>that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02443&m='>ἵνα</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἀπόληται</span><rt>失去 lose</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00622&m='>ἀπόλλυμι</a></rt></ruby><rt>V-2AMS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἓν<rt>一 one</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01520&m='>εἷς</a></rt></ruby><rt>A-NSN</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>μελῶν<rt>肢體 members</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03196&m='>μέλος</a></rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>σου<rt>你 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04675&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY>)S 
 	- 5:30g <RUBY><ruby><ruby>καὶ<rt>還 than</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>不 than</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ὅλον<rt>整個 whole</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03650&m='>ὅλος</a></rt></ruby><rt>A-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σῶμά<rt>身體 body</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04983&m='>σῶμα</a></rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>σου<rt>你 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04675&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>往 into</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γέενναν<rt>地獄 hell</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01067&m='>γέεννα</a></rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἀπέλθῃ</span><rt>去 go</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00565&m='>ἀπέρχομαι</a></rt></ruby><rt>V-2AAS-3S</rt></RUBY>)P . 
 
-[^1]: 命令的未來式 (進深，405 §8.5.2)。
+[^1]: 命令的未來式（進深，405 §8.5.2）。
 
 [^2]: 外層結構 { }：{ πᾶς ὁ [分詞內嵌子句 βλέπων γυναῖκα ...] }
 中層結構 ]：(βλέπων)p (γυναῖκα)c (πρὸς τὸ «不定詞內嵌子句 ἐπιθυμῆσαι ...»)a ]
 內層結構 »：‹ἐπιθυμῆσαι›<sub>p</sub> ‹αὐτὴν›<sub>c</sub> »
 
-[^3]: 陳述 (進深，623 §12.5.2.7)
+[^3]: 陳述（進深，623 §12.5.2.7）
 
-[^4]: 第一類條件子句 (進深，666 §13.3.1.3.3)。
+[^4]: 第一類條件子句（進深，666 §13.3.1.3.3）。

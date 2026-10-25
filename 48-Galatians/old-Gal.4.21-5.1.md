@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 4:21-5:1)
+#### 圖析（Gal 4:21-5:1）
 
 - 4:21a (<RUBY><ruby><ruby><mark class='verb'>Λέγετέ</mark><rt>λέγω</rt></ruby><rt>Tell</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>μοι,<rt>ἐγώ</rt></ruby><rt>me</rt></ruby><rt>P-1DS</rt></RUBY>)C (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-VPM</rt></RUBY> ‹<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νόμον<rt>νόμος</rt></ruby><rt>[the] Law</rt></ruby><rt>N-ASM</rt></RUBY>›<RUBY><ruby><ruby><em>θέλοντες</em><rt>θέλω</rt></ruby><rt>wishing</rt></ruby><rt>V-PAP-VPM</rt></RUBY>[^1] ⦈‹<RUBY><ruby><ruby><em>εἶναι,</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY>›c )S  
 	- 4:21b (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>νόμον<rt>νόμος</rt></ruby><rt>Law</rt></ruby><rt>N-ASM</rt></RUBY>)C <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἀκούετε;</mark><rt>ἀκούω</rt></ruby><rt>you do listen to?</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P
@@ -52,7 +52,7 @@ draft: true
 
 
 
-[^1]: _θέλοντες_：動詞 θέλω 後面常接不定詞內嵌子句當作補語 (BAGD)。
+[^1]: _θέλοντες_：動詞 θέλω 後面常接不定詞內嵌子句當作補語（BAGD）。
 [^2]: ἅτινά：關係代名詞，中性複數，指的是上文 4:22b-23b 經上所記的內容。
 [^3]: **ἐστιν**：動詞是 3S，因為主詞是中性複數。
 [^4]: _ἀλληγορούμενα_：格數性是 NPN，與動詞的 3S 不一致，所以不能當作 periphrastic (迂說) 用法，只能把單獨一個分詞當作名詞使用。

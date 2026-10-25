@@ -1,5 +1,5 @@
 ---
-title: "條件句 (sentence) 複習"
+title: "條件句（sentence）複習"
 date: 2026-07-04
 draft: false
 ---

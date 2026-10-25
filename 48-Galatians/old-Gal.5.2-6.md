@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 5:2-6)
+#### 圖析（Gal 5:2-6）
 
 
 - 5:2a <RUBY><ruby><ruby>Ἴδε<rt>ἴδε</rt></ruby><rt>Behold</rt></ruby><rt>INJ</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY> =<RUBY><ruby><ruby>Παῦλος<rt>Παῦλος</rt></ruby><rt>Paul</rt></ruby><rt>N-NSM-P</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>λέγω</mark><rt>λέγω</rt></ruby><rt>say</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
@@ -22,6 +22,6 @@ draft: true
 
 
 
-[^1]: οὐδὲν：主要動詞 **ὠφελήσει** 可以接人、事兩個直接受格 (BAGD)。
-[^2]: 主要動詞 **μαρτύρομαι** 帶間接受格表示見證的對象 (BAGD)。
+[^1]: οὐδὲν：主要動詞 **ὠφελήσει** 可以接人、事兩個直接受格（BAGD）。
+[^2]: 主要動詞 **μαρτύρομαι** 帶間接受格表示見證的對象（BAGD）。
 [^3]: ἰσχύω 是不及物動詞，沒有受詞。

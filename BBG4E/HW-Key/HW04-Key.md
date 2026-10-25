@@ -30,40 +30,40 @@ draft: false
 	- 11:13b <RUBY><ruby><ruby>εἰ<rt>雖然 If</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01487&m='>εἰ</a></rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ {<RUBY><ruby><ruby>ὑμεῖς<rt>你們 you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2NP</rt></RUBY>}S { (<RUBY><ruby><ruby>πονηροὶ<rt>惡 evil</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04190&m='>πονηρός</a></rt></ruby><rt>A-NPM</rt></RUBY>)c (<RUBY><ruby><ruby><span class='ptc'>ὑπάρχοντες</span><rt>作為 being</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05225&m='>ὑπάρχω</a></rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p }A[^15] {<RUBY><ruby><ruby><span class='verb'>οἴδατε</span><rt>知道 know</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=3608&m='>ὁράω</a>a</rt></ruby><rt>V-RAI-2P</rt></RUBY>}P { (<RUBY><ruby><ruby>δόματα<rt>東西 gifts</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01390&m='>δόμα</a></rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>ἀγαθὰ<rt>好 good</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00018&m='>ἀγαθός</a></rt></ruby><rt>A-APN</rt></RUBY>)c (<RUBY><ruby><ruby><span class='inf'>διδόναι</span><rt>給 to give</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01325&m='>δίδωμι</a></rt></ruby><rt>V-PAN</rt></RUBY>)p (<RUBY><ruby><ruby>τοῖς<rt>- to the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPN</rt></RUBY> <RUBY><ruby><ruby>τέκνοις<rt>兒女 children</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05043&m='>τέκνον</a></rt></ruby><rt>N-DPN</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>你們 of you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY>)c }C[^16] <span class='punctuation'>,</span> 
 - 11:13c {<RUBY><ruby><ruby>πόσῳ<rt>多 how much</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04214&m='>πόσος</a></rt></ruby><rt>Q-DSN</rt></RUBY> <RUBY><ruby><ruby>μᾶλλον<rt>更 more</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03123&m='>μᾶλλον</a></rt></ruby><rt>ADV</rt></RUBY>}A[^17] {<RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Πατὴρ<rt>父 Father</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03962&m='>πατήρ</a></rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>- who [is]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> ‹<RUBY><ruby><ruby>ἐξ<rt>- in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὐρανοῦ<rt>天上 heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-GSM</rt></RUBY>› }S[^18] {<RUBY><ruby><ruby><span class='verb'>δώσει</span><rt>會賜給 will give</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01325&m='>δίδωμι</a></rt></ruby><rt>V-FAI-3S</rt></RUBY>}P {<RUBY><ruby><ruby>Πνεῦμα<rt>靈 [the] Spirit</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04151&m='>πνεῦμα</a></rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Ἅγιον<rt>聖 Holy</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00040&m='>ἅγιος</a></rt></ruby><rt>A-ASN</rt></RUBY>}C {<RUBY><ruby><ruby>τοῖς<rt>- to those</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPM</rt></RUBY> (<RUBY><ruby><ruby><span class='ptc'>αἰτοῦσιν</span><rt>求的人 asking</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00154&m='>αἰτέω</a></rt></ruby><rt>V-PAP-DPM</rt></RUBY>)p (<RUBY><ruby><ruby>αὐτόν<rt>他 Him!</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-ASM</rt></RUBY>)c ] }C[^19] <span class='punctuation'>.</span><span class='paragraph'></span>
 
-[^1]:  κἀγώ：由 καὶ 和  ἐγω 組合而成的複合代名詞 ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=02504&m=))，既是連接詞 (καὶ) 又是第一人稱代名詞 (ἐγω)。為了方便起見，在此標示成主語 (S)。
+[^1]:  κἀγώ：由 καὶ 和  ἐγω 組合而成的複合代名詞（[BAGD](https://bible.fhl.net/new/s.php?N=0&k=02504&m=))，既是連接詞（καὶ）又是第一人稱代名詞 (ἐγω）。為了方便起見，在此標示成主語（S）。
 
 [^2]: UBS5 編輯委員認為這裡是「逗點」。換言之，11:9b 不是在引述耶穌說話的內容，因此11:9b 沒有退後一排。
 
-[^3]: ὑμῖν：間接受格，究竟該當 C or A，要由主要動詞 ἀνοιγήσεται 決定——對照 BAGD 以及相關經文 (徒14:27; 約10:3; 林前16:9; 林後2:12) 發現，ἀνοίγω (打開) 可以有兩個補語，一個是人 (間接受格)、一個是物 (直接受格)。
+[^3]: ὑμῖν：間接受格，究竟該當 C or A，要由主要動詞 ἀνοιγήσεται 決定——對照 BAGD 以及相關經文（徒14:27; 約10:3; 林前16:9; 林後2:12）發現，ἀνοίγω (打開) 可以有兩個補語，一個是人（間接受格）、一個是物（直接受格）。
 
-[^4]: γὰρ：對等連接詞，也是後置詞 (不能放在子句的第一個字)——為了圖析美觀起見，調動順序 (用 ⸉⸊ 符號表示)。 
+[^4]: γὰρ：對等連接詞，也是後置詞（不能放在子句的第一個字）——為了圖析美觀起見，調動順序（用 ⸉⸊ 符號表示）。 
 
-[^5]: αἰτῶν：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞 (而且格數性 [NSM] 一致)，把 ὁ 和 αἰτῶν 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
+[^5]: αἰτῶν：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞（而且格數性 [NSM] 一致），把 ὁ 和 αἰτῶν 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
 
-[^6]: ζητῶν：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞 (而且格數性 [NSM] 一致)，把 ὁ 和 ζητῶν 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
+[^6]: ζητῶν：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞（而且格數性 [NSM] 一致），把 ὁ 和 ζητῶν 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
 
-[^7]: κρούοντι：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞 (而且格數性 [DSM] 一致)，把 τῷ 和 κρούοντι 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
+[^7]: κρούοντι：分詞，是半個動詞 & 半個形容詞的結合體，前面有冠詞（而且格數性 [DSM] 一致），把 τῷ 和 κρούοντι 黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。
 
-[^8]: δὲ：對等連接詞，也是後置詞 (不能放在子句的第一個字)——為了圖析美觀起見，調動順序 (用 ⸉⸊ 符號表示)。 
+[^8]: δὲ：對等連接詞，也是後置詞（不能放在子句的第一個字）——為了圖析美觀起見，調動順序（用 ⸉⸊ 符號表示）。 
 
 [^9]: ἐξ ὑμῶν：介系詞片語，大多數情況下當作副詞使用，修飾主要動詞——但也可以發揮類似形容詞的功用，修飾前面的 Τίνα，意思是「which of you 你們中間哪一個人」。
 
-[^10]: τὸν πατέρα：根據上下文判斷，延續、補充說明前面的 Τίνα ἐξ ὑμῶν，跟 Τίνα 同樣都是直接受格，當作主要動詞 αἰτήσει 的補語 (C)，合起來意思是「你們中間哪一個做父親的人」。
+[^10]: τὸν πατέρα：根據上下文判斷，延續、補充說明前面的 Τίνα ἐξ ὑμῶν，跟 Τίνα 同樣都是直接受格，當作主要動詞 αἰτήσει 的補語（C），合起來意思是「你們中間哪一個做父親的人」。
 
 [^11]: αἰτήσει：可以帶雙重直接受格，意思是「向某人要某物」([BAGD](https://bible.fhl.net/new/s.php?N=0&k=00154&m=))。
 
-[^12]: ἐπιδώσει：可以有兩個補語，直接受格 (某物)、建接受格 (給某人) ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=01929&m=))。
+[^12]: ἐπιδώσει：可以有兩個補語，直接受格（某物)、建接受格（給某人）([BAGD](https://bible.fhl.net/new/s.php?N=0&k=01929&m=）)。
 
-[^13]: καὶ：當作對等連接詞的時候，通常放在句首——這裡不是子句的第一個字，根據上下文判斷，是當作副詞使用 ([BAGD 乙](https://bible.fhl.net/new/s.php?N=0&k=02532&m=))，意思是「也，亦，同此」。
+[^13]: καὶ：當作對等連接詞的時候，通常放在句首——這裡不是子句的第一個字，根據上下文判斷，是當作副詞使用（[BAGD 乙](https://bible.fhl.net/new/s.php?N=0&k=02532&m=）)，意思是「也，亦，同此」。
 
-[^14]:  οὖν：對等連接詞，也是後置詞 (不能放在子句的第一個字)——為了圖析美觀起見，調動順序 (用 ⸉⸊ 符號表示)。 
+[^14]:  οὖν：對等連接詞，也是後置詞（不能放在子句的第一個字）——為了圖析美觀起見，調動順序（用 ⸉⸊ 符號表示）。 
 
-[^15]: πονηροὶ ὑπάρχοντες：分詞內嵌子句，分詞 ὑπάρχοντες 是半個動詞，是小p，因為是類似 εἰμί 的聯繫動詞，所以可以帶上也是主格的小c (πονηροὶ)；分詞 ὑπάρχοντες 又是半個形容詞，格數性 [N<strong><font color='red'>P</font></strong>M] 要勾到所修飾的名詞。<br><br>11:13b 中是主格的只有 ὑμεῖς [P-2NP] 和主要動詞 οἴδατε 內含的 [V-RAI-2P]，兩者其實是同樣的概念 (你們 = 2P)——因此，分詞 ὑπάρχοντες 的格數性 [N<strong><font color='red'>P</font></strong>M] 既勾到 ὑμεῖς，也勾到 主要動詞 οἴδατε 內含的 [2P]。<br><br>因為勾到 (修飾到) 主要動詞，所以文法上稱之為『分詞的副詞用法』，要當作整個子句的大A。
+[^15]: πονηροὶ ὑπάρχοντες：分詞內嵌子句，分詞 ὑπάρχοντες 是半個動詞，是小p，因為是類似 εἰμί 的聯繫動詞，所以可以帶上也是主格的小c (πονηροὶ)；分詞 ὑπάρχοντες 又是半個形容詞，格數性 [N<strong><font color='red'>P</font></strong>M] 要勾到所修飾的名詞。<br><br>11:13b 中是主格的只有 ὑμεῖς [P-2NP] 和主要動詞 οἴδατε 內含的 [V-RAI-2P]，兩者其實是同樣的概念（你們 = 2P)——因此，分詞 ὑπάρχοντες 的格數性 [N<strong><font color='red'>P</font></strong>M] 既勾到 ὑμεῖς，也勾到 主要動詞 οἴδατε 內含的 [2P]。<br><br>因為勾到 (修飾到）主要動詞，所以文法上稱之為『分詞的副詞用法』，要當作整個子句的大A。
 
-[^16]: δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν：不定詞內嵌子句，不定詞 διδόναι 是半個動詞，是小p，可以有兩個自己的小c (好東西 & 你們兒女)；不定詞 διδόναι 又是半個名詞，所以可當作主要動詞 οἴδατε 的補語 (大C)。
+[^16]: δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν：不定詞內嵌子句，不定詞 διδόναι 是半個動詞，是小p，可以有兩個自己的小c (好東西 & 你們兒女)；不定詞 διδόναι 又是半個名詞，所以可當作主要動詞 οἴδατε 的補語（大C）。
 
 [^17]: πόσῳ μᾶλλον：希臘文的慣用語，意思是「何況？」（[BAGD](https://bible.fhl.net/new/s.php?N=0&k=04214&m=))。
 
-[^18]: ὁ Πατὴρ ὁ ἐξ οὐρανοῦ：介系詞片語 (ἐξ οὐρανοῦ) 當作形容詞使用，黏在一起形成 T(ὁ)—N(Πατὴρ)—T(ὁ)—A(ἐξ οὐρανοῦ) 的結構。
+[^18]: ὁ Πατὴρ ὁ ἐξ οὐρανοῦ：介系詞片語（ἐξ οὐρανοῦ）當作形容詞使用，黏在一起形成 T(ὁ)—N(Πατὴρ)—T(ὁ)—A(ἐξ οὐρανοῦ) 的結構。
 
 [^19]: τοῖς αἰτοῦσιν αὐτόν：分詞內嵌子句，分詞 αἰτοῦσιν 是半個動詞，是小p，可以有自己的小c (αὐτόν)；分詞 αἰτοῦσιν 又是半個形容詞，格數性 [DPM] 與前面的冠詞 τοῖς [DPM] 一致，黏在一起，形成 T—分 的結構，與形容詞的 T—A 結構相當，當作實名詞使用。

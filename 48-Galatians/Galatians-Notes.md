@@ -2,10 +2,10 @@
 ## ΠΡΟΣ ΓΑΛΑΤΑΣ
 
 ### 經文閱讀
--  [加拉太書 (四行 Interlinear)](Galatians-Interlinear-4lines.md)
-- [加拉太書 (三行 Interlinear)](Galatians-Interlinear-3lines.md)
-- [加拉太書 (兩行半 Interlinear)](Galatians-Interlinear-2.5lines.md)
-- [加拉太書 (兩行 Interlinear)](Galatians-Interlinear-2lines.md)
+-  [加拉太書（四行 Interlinear）](Galatians-Interlinear-4lines.md)
+- [加拉太書（三行 Interlinear）](Galatians-Interlinear-3lines.md)
+- [加拉太書（兩行半 Interlinear）](Galatians-Interlinear-2.5lines.md)
+- [加拉太書（兩行 Interlinear）](Galatians-Interlinear-2lines.md)
 
 ### 原文特色
 - [加拉太書子句結構](Galatians-Clause.md)
@@ -54,11 +54,11 @@
 簡寫 | 出處
 :------:| --- 
 GDNTG | Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. _Going Deeper with New Testament Greek, Revised Edition_. Revised. Nashville, TN.: B&H Academic, 2020.
-進深| 柯斯坦柏格 (Andreas J. Kostenberger)、梅克 (Merkle)、普拉默 (Plummer)著; 汪仁潔譯.。《新約希臘文進深：中級希臘文句法研究》。汪仁潔譯。南加州：美國麥種傳道會，2024。
+進深| 柯斯坦柏格（Andreas J. Kostenberger）、梅克（Merkle）、普拉默（Plummer）著; 汪仁潔譯.。《新約希臘文進深：中級希臘文句法研究》。汪仁潔譯。南加州：美國麥種傳道會，2024。
 GGBB | Wallace, Daniel B. _Greek Grammar beyond the Basics: An Exegetical Syntax of the New Testament_. Grand Rapids, Mich: Zondervan, 1996.
-中級 |華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+中級 |華勒斯（Daniel B. Wallace）。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
 Idioms | Porter, Stanley E. _Idioms of the Greek New Testament_. 2nd ed. Biblical languages Greek 2. Sheffield: Sheffield Academic Press, 1999.
-慣用語 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+慣用語 | 斯丹利‧波特（Stanley E. Porter）。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 AGG | Siebenthal, Heinrich von. _Ancient Greek Grammar for the Study of the New Testament_. Oxford New York: Peter Lang, 2019.
 ATR | Robertson, A. T. _A Grammar of Greek New Testament in the Light of Historical Research_. 3rd ed. Nashville, Tenn.: Broadman Press, 1919.
 BDF | Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Other Early Christian Literature_. Translated by Robert W. Funk. Chicago, Ill.: University of Chicago Press, 1961.

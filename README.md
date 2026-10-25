@@ -1,6 +1,6 @@
 # 全民希臘文 Biblical Greek for Everyone
 
-- [全民希臘文(BG4E)：句法小幫手](https://udify.app/chat/AU4eIe6yts5O9jXa)) ⇐ 2026-09 更新！
+- [全民希臘文（BG4E）：句法小幫手](https://udify.app/chat/AU4eIe6yts5O9jXa)) ⇐ 2026-09 更新！
 
 - [Apostles' Creed](Memorize/Apostles-Creed.md) 
 - [Lord's Prayer](Memorize/Lords-Prayer.md) 
@@ -10,7 +10,7 @@
 
 
 ## 全民希臘文：初階
-- [全民希臘文 (初階) 教材](BBG4E/BBG4E.md)
+- [全民希臘文（初階）教材](BBG4E/BBG4E.md)
 
 ## 全民希臘文：進階句法
 
@@ -19,7 +19,7 @@
 - [全民希臘文句法](Syntax/Syntax.md)
 
 ## 全民希臘文：新約句法筆記
-- [登山寶訓 (馬太福音 5-7 章)](40-Matthew/SM-Notes.md)
+- [登山寶訓（馬太福音 5-7 章）](40-Matthew/SM-Notes.md)
 - [加拉太書](48-Galatians/Galatians-Notes.md) ⇐ 2026-08 更新
 - [以弗所書](49-Ephesians/Ephesians-Notes.md)
 	- [弗1:3-14 (新約第二長的句子)](49-Ephesians/Eph.1.3-14.md)
@@ -36,7 +36,7 @@
 - [猶大書](65-Jude/Jude-Notes.md)
 - [1Th.1.2–10](52-1Thessalonians/1Th.1.2–10.md)
 
-### 舊約書卷 (Septuagint 七十士譯本)
+### 舊約書卷（Septuagint 七十士譯本）
 
 - [路得記](08-Ruth/Ruth-Notes.md)
 - [約拿書](32-Jonah/Jonah-Notes.md)

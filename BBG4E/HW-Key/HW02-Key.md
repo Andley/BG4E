@@ -22,27 +22,27 @@ draft: false
 		- 6:13c ⟦[^15] <RUBY><ruby><ruby>ὅτι<rt>因為 that/since</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>σοῦ<rt>你 you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>ἐστιν</span><rt>是 to be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-3S</rt></RUBY>)P[^16] (<RUBY><ruby><ruby>ἡ<rt>- the/this/who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>βασιλεία<rt>國度 kingdom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00932&m='>βασιλεία</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>- the/this/who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δύναμις<rt>權柄 power</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01411&m='>δύναμις</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>καί<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>- the/this/who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δόξα<rt>榮耀 glory</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>直到 toward</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦς<rt>- the/this/who</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-APM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνας<rt>永遠 an age</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></rt></ruby><rt>N-APM</rt></RUBY>)A 
 	- 6:13d <RUBY><ruby><ruby>ἀμήν<rt>阿們 amen</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00281&m='>ἀμήν</a></rt></ruby><rt>INJ-HEB</rt></RUBY> . ⟧
 
-[^1]: οὖν：對等連接詞，承上啟下，表達：推論，從來不會放在句首 ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=03767&m=))。
+[^1]: οὖν：對等連接詞，承上啟下，表達：推論，從來不會放在句首（[BAGD](https://bible.fhl.net/new/s.php?N=0&k=03767&m=）)。
 
 [^2]: προσεύχεσθε：命令語氣，表達：命令 or 請求——根據上下文判斷，這裡是：請求。
 
-[^3]: Πάτερ：呼格，表達：直接的稱呼，標示出接下來這一段 (6:9c-13) 禱告的對象。
+[^3]: Πάτερ：呼格，表達：直接的稱呼，標示出接下來這一段（6:9c-13）禱告的對象。
 
-[^4]: ὁ ἐν τοῖς οὐρανοῖς：冠詞 (ὁ) 把後面的介系詞片語 (ἐν τοῖς οὐρανοῖς) 轉換成了相當於名詞的「實名詞」。
+[^4]: ὁ ἐν τοῖς οὐρανοῖς：冠詞（ὁ）把後面的介系詞片語（ἐν τοῖς οὐρανοῖς）轉換成了相當於名詞的「實名詞」。
 
-[^5]: Ἁγιασθήτω：命令語氣，根據上下文判斷，這裡是人對神的禱告，所以是在表達：請求。被動語態，意思是：你的名要「被尊為聖」——至於要「被誰」尊為聖？那就是解經 (用上下文去判斷) 的問題了... 😀
+[^5]: Ἁγιασθήτω：命令語氣，根據上下文判斷，這裡是人對神的禱告，所以是在表達：請求。被動語態，意思是：你的名要「被尊為聖」——至於要「被誰」尊為聖？那就是解經（用上下文去判斷）的問題了... 😀
 
-[^6]: Γενηθήτω：關身語態 (291-6)，表達主詞參與 or 涉及在動作所產生的結果當中──至於如何參與、涉及，那就是解經 (用上下文去判斷) 的問題了... 😀
+[^6]: Γενηθήτω：關身語態（291-6)，表達主詞參與 or 涉及在動作所產生的結果當中──至於如何參與、涉及，那就是解經 (用上下文去判斷）的問題了... 😀
 
 [^7]: Ὡς ... καὶ：ὡς A (ἐν οὐρανῷ) καὶ B (ἐπὶ γῆ) 連用，意思是：如同 A 那樣，B 也這樣 [BAGD 乙.一](https://bible.fhl.net/new/s.php?N=0&k=05613&m=_)。
 
 [^8]: καὶ：連接詞，通常放在句首——這裡不是放在句首，所以很可能扮演「副詞」的角色，意思是：也 also [BAGD 乙](https://bible.fhl.net/new/s.php?N=0&k=02532&m=)。
 
-[^9]: Τὸν ἄρτον ... τὸν ἐπιούσιον：四個字的格數性都是 [ASM]，黏在一起，形成「冠詞─名詞─冠詞─形容詞 (T─N─T─A)」的結構，文法學家稱之為「修飾用法的第二位置」，意思就是：the daily bread。整組片語是直接受格，當作主要動詞 (δὸς) 的補語；片語放在句首，有強調的意思。ἡμῶν 塞在中間，修飾前面的名詞 (Τὸν ἄρτον)。
+[^9]: Τὸν ἄρτον ... τὸν ἐπιούσιον：四個字的格數性都是 [ASM]，黏在一起，形成「冠詞─名詞─冠詞─形容詞（T─N─T─A)」的結構，文法學家稱之為「修飾用法的第二位置」，意思就是：the daily bread。整組片語是直接受格，當作主要動詞（δὸς）的補語；片語放在句首，有強調的意思。ἡμῶν 塞在中間，修飾前面的名詞 (Τὸν ἄρτον）。
 
-[^10]: δὸς：這個動詞可以接兩個補語 ([BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=01325&m=))，一個是「物」(直接受格)，一個是「人」(間接受格)。
+[^10]: δὸς：這個動詞可以接兩個補語（[BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=01325&m=）)，一個是「物」(直接受格)，一個是「人」(間接受格)。
 
-[^11]: ἄφες：這個動詞可以接兩個補語 ([BAGD 二](https://bible.fhl.net/new/s.php?N=0&k=00863&m=))：一個是「物」(直接受格)，一個是「人」(間接受格)。
+[^11]: ἄφες：這個動詞可以接兩個補語（[BAGD 二](https://bible.fhl.net/new/s.php?N=0&k=00863&m=）)：一個是「物」(直接受格)，一個是「人」(間接受格)。
 
 [^12]: καὶ：放在句首的時候，通常當連接詞使用——不放在句首的時候，通常當作副詞使用，意思是「也」([BAGD 乙](https://bible.fhl.net/new/s.php?N=0&k=02532&m=))。
 
@@ -52,4 +52,4 @@ draft: false
 
 [^15]: ... ⟧：UBS 認為這段經文出自比較晚期的抄本，所以沒有列入──但在教會歷史傳統中大多都包含在主禱文內。
 
-[^16]: ἐστιν：聯繫動詞 (εἰμί) 前後有兩個主格，帶冠詞的名詞 (ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα) 有優先權，要當作主詞 (S)。
+[^16]: ἐστιν：聯繫動詞（εἰμί）前後有兩個主格，帶冠詞的名詞（ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα）有優先權，要當作主詞（S）。

@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 5:22-26)
+#### 圖析（Gal 5:22-26）
 
 - 5:22a (<RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY>)<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>καρπὸς<rt>καρπός</rt></ruby><rt>the fruit</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματός<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-GSN</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐστιν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀγάπη<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>χαρά<rt>χαρά</rt></ruby><rt>joy</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη,<rt>εἰρήνη</rt></ruby><rt>peace</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>μακροθυμία<rt>μακροθυμία</rt></ruby><rt>patience</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>χρηστότης<rt>χρηστότης</rt></ruby><rt>kindness</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀγαθωσύνη,<rt>ἀγαθωσύνη</rt></ruby><rt>goodness</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>πίστις<rt>πίστις</rt></ruby><rt>faithfulness</rt></ruby><rt>N-NSF</rt></RUBY> 5:23a )C
 	- 5:23a <RUBY><ruby><ruby>πραΰτης<rt>πραΰτης</rt></ruby><rt>gentleness</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐγκράτεια·<rt>ἐγκράτεια</rt></ruby><rt>self-control</rt></ruby><rt>N-NSF</rt></RUBY> 

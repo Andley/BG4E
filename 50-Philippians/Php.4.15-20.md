@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-#### 圖析 (Php 4:15-20)
+#### 圖析（Php 4:15-20）
 
 
 - 4:15a (<RUBY><ruby><ruby><mark class='verb'>οἴδατε</mark><rt>οἶδα</rt></ruby><rt>Know</rt></ruby><rt>V-RAI-2P</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>ὑμεῖς ,<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S <RUBY><ruby><ruby>Φιλιππήσιοι ,<rt>Φιλιππήσιος</rt></ruby><rt>Philippians</rt></ruby><rt>N-VPM-LG</rt></RUBY> 

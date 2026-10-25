@@ -3,7 +3,7 @@ title: "Php.4.10-14"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 4:10-14)
+#### 圖析（Php 4:10-14）
 
 - 4:10a (<RUBY><ruby><ruby><mark class='verb'>Ἐχάρην</mark><rt>χαίρω</rt></ruby><rt>I rejoiced</rt></ruby><rt>V-2AOI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Κυρίῳ<rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby>μεγάλως<rt>μεγάλως</rt></ruby><rt>greatly</rt></ruby><rt>ADV</rt></RUBY>)A
 	- 4:10b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἤδη<rt>ἤδη</rt></ruby><rt>now</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ποτὲ<rt>ποτέ</rt></ruby><rt>at last</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἀνεθάλετε</mark><rt>ἀναθάλλω</rt></ruby><rt>you revived</rt></ruby><rt>V-2AAI-2P</rt></RUBY>)P {4:10c}C

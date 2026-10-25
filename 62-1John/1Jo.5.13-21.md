@@ -3,7 +3,7 @@ title: "1Jo.5.13-21"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Jo 5:13-15)
+#### 圖析（1Jo 5:13-15）
 
 - 5:13a (<RUBY><ruby><ruby>Ταῦτα<rt>οὗτος</rt></ruby><rt>These things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>ἔγραψα</mark><rt>γράφω</rt></ruby><rt>have I written</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 (5:13d)=C2
 	- 5:13b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>εἰδῆτε</mark><rt>οἶδα</rt></ruby><rt>you may know</rt></ruby><rt>V-RAS-2P</rt></RUBY>)P
@@ -23,7 +23,7 @@ draft: false
 	- 5:15e <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἔχομεν</mark><rt>ἔχω</rt></ruby><rt>we have</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<mark><RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>αἰτήματα<rt>αἴτημα</rt></ruby><rt>requests</rt></ruby><rt>N-APN</rt></RUBY>°²</mark>)C 
 		- 5:15f (<RUBY><ruby><ruby>ἃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-APN</rt></RUBY>°²⮥)C (<RUBY><ruby><ruby><mark class='verb'>ᾐτήκαμεν</mark><rt>αἰτέω</rt></ruby><rt>we have asked</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ.¶<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-GSM</rt></RUBY>)A 
 
-#### 圖析 (1Jo 5:16-17)
+#### 圖析（1Jo 5:16-17）
 - 5:16a 
 	- <RUBY><ruby><ruby>Ἐάν<rt>ἐάν</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>anyone</rt></ruby><rt>X-NSM</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἴδῃ</mark><rt>ὁράω</rt></ruby><rt>should see</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P { (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>ἀδελφός</rt></ruby><rt>brother</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of him</rt></ruby><rt>P-GSM</rt></RUBY>)s (<RUBY><ruby><ruby><mark class='ptc'>ἁμαρτάνοντα</mark><rt>ἁμαρτάνω</rt></ruby><rt>sinning</rt></ruby><rt>V-PAP-ASM</rt></RUBY>)p (<RUBY><ruby><ruby>ἁμαρτίαν<rt>ἁμαρτία</rt></ruby><rt>a sin</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>unto</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θάνατον,<rt>θάνατος</rt></ruby><rt>death</rt></ruby><rt>N-ASM</rt></RUBY> ›)c }C 
 - 5:16b (<RUBY><ruby><ruby><mark class='verb'>αἰτήσει</mark><rt>αἰτέω</rt></ruby><rt>he shall ask</rt></ruby><rt>V-FAI-3S</rt></RUBY>)P
@@ -36,7 +36,7 @@ draft: false
 - 5:17a (<RUBY><ruby><ruby>πᾶσα<rt>πᾶς</rt></ruby><rt>All</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>ἀδικία<rt>ἀδικία</rt></ruby><rt>unrighteousness</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἁμαρτία<rt>ἁμαρτία</rt></ruby><rt>sin</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἐστίν,</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 - 5:17b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἔστιν</mark><rt>εἰμί</rt></ruby><rt>there is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἁμαρτία<rt>ἁμαρτία</rt></ruby><rt>sin</rt></ruby><rt>N-NSF</rt></RUBY> ‹<RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>unto</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>θάνατον.<rt>θάνατος</rt></ruby><rt>death</rt></ruby><rt>N-ASM</rt></RUBY> ›)C 
 
-#### 圖析 (1Jo 5:18-21)
+#### 圖析（1Jo 5:18-21）
 
 - 5:18a (<RUBY><ruby><ruby><mark class='verb'>Οἴδαμεν</mark><rt>οἶδα</rt></ruby><rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P
 	- 5:18b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>γεγεννημένος</mark><rt>γεννάω</rt></ruby><rt>having been born</rt></ruby><rt>V-RPP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY>)a ] }S <RUBY><ruby><ruby>οὐχ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἁμαρτάνει,</mark><rt>ἁμαρτάνω</rt></ruby><rt>continues to sin</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P

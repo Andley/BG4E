@@ -3,7 +3,7 @@ title: "1Jo.3.19-24"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Jo 3:19-24)
+#### 圖析（1Jo 3:19-24）
 
 
 - 3:19a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τούτῳ<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-DSN</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>γνωσόμεθα</mark><rt>γινώσκω</rt></ruby><rt>we will know</rt></ruby><rt>V-FDI-1P</rt></RUBY>)P 
@@ -35,5 +35,5 @@ draft: false
 
 
 [^1]: ὅτι：有兩種可能：(1) 理解成 that，帶出內容子句，當作 3:19c **πείσομεν** 的補語；(2) 理解成 because，帶出原因子句，當作 當作 3:19c **πείσομεν** 的狀語。
-[^2]: 根據上下文判斷，3:20b 應該是插入句 (parenthesis)。
+[^2]: 根據上下文判斷，3:20b 應該是插入句（parenthesis）。
 [^3]: ὅτι：延續 3:20a 的 ὅτι，同樣有兩種可能：(1) 理解成 that，帶出內容子句，當作 3:19c **πείσομεν** 的補語；(2) 理解成 because，帶出原因子句，當作 當作 3:19c **πείσομεν** 的狀語。

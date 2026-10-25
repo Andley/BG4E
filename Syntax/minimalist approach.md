@@ -3,9 +3,9 @@ title: "minimalist approach"
 date: 2026-07-04
 draft: false
 ---
-聖經希臘文 (Koine Greek) 不是「聖靈的語言」，而是人類的語言，因為耶穌說的也是當時百姓日常所用的語言。換句話說，耶穌講的，也是人話——只不過耶穌用地上的語言，傳遞出了天上的信息。
+聖經希臘文（Koine Greek）不是「聖靈的語言」，而是人類的語言，因為耶穌說的也是當時百姓日常所用的語言。換句話說，耶穌講的，也是人話——只不過耶穌用地上的語言，傳遞出了天上的信息。
 
-很多人錯解聖經的原因，都是因為誤解了語言是如何發揮功用的 (how does language works)。
+很多人錯解聖經的原因，都是因為誤解了語言是如何發揮功用的（how does language works）。
 
 maximalist approach = exegetical nugget approach
 
@@ -13,11 +13,11 @@ maximalist approach = exegetical nugget approach
 
 <rt>1Co 15:4</rt> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>ἐτάφη</mark><rt>He was buried,</rt></ruby><rt>θάπτω</rt></ruby><rt>V-2API-3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὅτι<rt>that</rt></ruby><rt>ὅτι</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>ἐγήγερται</mark><rt>He was raised</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-RPI-3S</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρᾳ<rt>day</rt></ruby><rt>ἡμέρα</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>τρίτῃ<rt>third</rt></ruby><rt>τρίτος</rt></ruby><rt>A-DSF</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>according to</rt></ruby><rt>κατά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>γραφάς<rt>Scriptures,</rt></ruby><rt>γραφή</rt></ruby><rt>N-APF</rt></RUBY> 
 
-復活 (ἐγήγερται) 固然是「先前發生的動作，效果持續到如今」——但這是從上下文解出來的，不能說是單純從動詞的完成式時態形式 (perfect tense-form) 就得出來的 nugget。
+復活（ἐγήγερται）固然是「先前發生的動作，效果持續到如今」——但這是從上下文解出來的，不能說是單純從動詞的完成式時態形式（perfect tense-form）就得出來的 nugget。
 
-faith of Christ 也同樣，主詞所有格、受詞所有格在形式 (結構) 上沒有區別，因此不能單從形式 (結構) 去斷言是哪一種所有格，而是要從上下文去推敲解釋才能判斷。
+faith of Christ 也同樣，主詞所有格、受詞所有格在形式（結構）上沒有區別，因此不能單從形式（結構）去斷言是哪一種所有格，而是要從上下文去推敲解釋才能判斷。
 
-Choice implies meaning ——主詞所有格、受詞所有格在形式 (結構) 上沒有區別，代表保羅沒有 choice，所以單從 N—Ng 的結構沒辦法推導出額外的 meaning。θεοῦ 
+Choice implies meaning ——主詞所有格、受詞所有格在形式（結構）上沒有區別，代表保羅沒有 choice，所以單從 N—Ng 的結構沒辦法推導出額外的 meaning。θεοῦ 
 
 ---
 
@@ -65,7 +65,7 @@ GGBB 112-119
 
 
 八格 or 五格？
-- 用 synchronic 思維來看，dative/instrument/locative 形式 (form) 沒有分別，但不能根據語意 (semantic) 的差異而區分出不同的格來。
+- 用 synchronic 思維來看，dative/instrument/locative 形式（form）沒有分別，但不能根據語意（semantic）的差異而區分出不同的格來。
 
 格的功能，與介系詞片語有所重疊——但因為介系詞片語比較沒有模稜兩可的空間，所以會逐漸侵蝕古典希臘文裡面單純用格來表達的概念。
 

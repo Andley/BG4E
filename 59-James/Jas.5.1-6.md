@@ -3,7 +3,7 @@ title: "Jas.5.1-6"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 5:1-6)
+## 圖析（Jas 5:1-6）
 
 - 5:1a (<RUBY><ruby><ruby><mark class='verb'>Ἄγε</mark><rt>ἄγω</rt></ruby><rt>嗐</rt></ruby><rt>V-PAM-2S</rt></RUBY>)V (<RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>如今</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-VPM</rt></RUBY> <RUBY><ruby><ruby>πλούσιοι<rt>πλούσιος</rt></ruby><rt>富有</rt></ruby><rt>A-VPM</rt></RUBY>)S <mark class='punctuation'>,</mark> 
 	- 5:1b (<RUBY><ruby><ruby><mark class='verb'>κλαύσατε</mark><rt>κλαίω</rt></ruby><rt>哭泣</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P {(<RUBY><ruby><ruby><mark class='ptc'>ὀλολύζοντες</mark><rt>ὀλολύζω</rt></ruby><rt>哀號</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p (<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>為</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ταλαιπωρίαις<rt>ταλαιπωρία</rt></ruby><rt>災難</rt></ruby><rt>N-DPF</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν<rt>σύ</rt></ruby><rt>你們的</rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>ἐπερχομέναις</mark><rt>ἐπέρχομαι</rt></ruby><rt>臨到</rt></ruby><rt>V-PMP-DPF</rt></RUBY>)a}A <mark class='punctuation'>.</mark>

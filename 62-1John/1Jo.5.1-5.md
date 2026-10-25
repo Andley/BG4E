@@ -3,7 +3,7 @@ title: "1Jo.5.1-5"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Jo 5:1-5)
+#### 圖析（1Jo 5:1-5）
 
 
 - 5:1a {<RUBY><ruby><ruby>Πᾶς<rt>πᾶς</rt></ruby><rt>Everyone</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>who</rt></ruby><rt>T-NSM</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>πιστεύων</mark><rt>πιστεύω</rt></ruby><rt>is believing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (5:1b)c] }S (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>γεγέννηται,</mark><rt>γεννάω</rt></ruby><rt>has been born,</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P 

@@ -18,7 +18,7 @@ draft: false
 	- 21:3d <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτοὶ<rt>他們 they</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>λαοὶ<rt>子民 peoples</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02992&m='>λαός</a></rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>他 of Him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><span class='verb'>ἔσονται</span><rt>要作 will be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-FMI-3P</rt></RUBY>)P[^12] <span class='punctuation'>,</span> 
 	- ⋯⋯⋯⋯⋯⋯⋯理解#1：把 21:3e 當成一個子句
 	- 21:3e <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸς<rt>親自 Himself</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NSM</rt></RUBY>[^13] <RUBY><ruby><ruby>ὁ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>μετ᾽<rt>與同在 with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>他們 them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἔσται</span><rt>- will be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-FMI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῶν<rt>他們 [as] their</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>θεός<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>)C <span class='punctuation'>,</span> 
-	- ⋯⋯⋯⋯⋯⋯⋯理解#2：把 21:3e 當成兩個子句 (和合本翻譯)
+	- ⋯⋯⋯⋯⋯⋯⋯理解#2：把 21:3e 當成兩個子句（和合本翻譯）
 	- 21:3e <RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτὸς<rt>親自 Himself</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>μετ᾽<rt>與同在 with</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03326&m='>μετά</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>他們 them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY>)A 
 	- 21:3f (<RUBY><ruby><ruby><span class='verb'>ἔσται</span><rt>- will be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-FMI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῶν<rt>他們 [as] their</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>θεός<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-NSM</rt></RUBY>)C <span class='punctuation'>,</span> 
 	- 21:4a <RUBY><ruby><ruby>καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἐξαλείψει</span><rt>他要擦去 He will wipe away</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01813&m='>ἐξαλείφω</a></rt></ruby><rt>V-FAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>πᾶν<rt>一切 every</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>δάκρυον<rt>眼淚 tear</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01144&m='>δάκρυ, δάκρυον</a></rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>ἐκ<rt>從 from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>ὀφθαλμῶν<rt>眼睛 eyes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03788&m='>ὀφθαλμός</a></rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>αὐτῶν<rt>他們 of them</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-GPM</rt></RUBY>)A <span class='punctuation'>,</span> 
@@ -38,29 +38,29 @@ draft: false
 
 [^2]: ἡ πρώτη γῆ：T—A—N 的結構，黏在一起，形成名詞片語。
 
-[^3]: ἔστιν：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在 ([BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=))。
+[^3]: ἔστιν：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在（[BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=）)。
 
 [^4]: τὴν πόλιν τὴν ἁγίαν：T—N—T—A 的的結構，黏在一起，形成名詞片語；直接受格，所以當作主要動詞 εἶδον 的補語。
 
-[^5]: Ἰερουσαλὴμ καινὴν：根據上下文判斷，這個片語是用來解釋補充說明前面的補語，所以是同位用法 (用 = 符號表式)。
+[^5]: Ἰερουσαλὴμ καινὴν：根據上下文判斷，這個片語是用來解釋補充說明前面的補語，所以是同位用法（用 = 符號表式）。
 
-[^6]: καταβαίνουσαν ... Θεοῦ：分詞內嵌子句。分詞 καταβαίνουσαν 是半個動詞 小p，根據上下文判斷，後面帶了兩個介系詞片語 (ἐκ τοῦ οὐρανοῦ、ἀπὸ τοῦ Θεοῦ) 當作小a，合起來形成分詞內嵌子句；分詞 καταβαίνουσαν 又是半個形容詞，格數性 [ASF] 只能勾到 21:2a 同樣也是 [ASF] 的補語 (τὴν πόλιν τὴν ἁγία)——因此，整個分詞內嵌子句是 21:2a 補語的補語 (用 +C 符號表示)。
+[^6]: καταβαίνουσαν ... Θεοῦ：分詞內嵌子句。分詞 καταβαίνουσαν 是半個動詞 小p，根據上下文判斷，後面帶了兩個介系詞片語（ἐκ τοῦ οὐρανοῦ、ἀπὸ τοῦ Θεοῦ）當作小a，合起來形成分詞內嵌子句；分詞 καταβαίνουσαν 又是半個形容詞，格數性 [ASF] 只能勾到 21:2a 同樣也是 [ASF] 的補語（τὴν πόλιν τὴν ἁγία）——因此，整個分詞內嵌子句是 21:2a 補語的補語（用 +C 符號表示）。
 
-[^7]: ἡτοιμασμένην ὡς νύμφην ...：分詞內嵌子句。分詞 ἡτοιμασμένην 是半個動詞 小p，根據上下文判斷，後面帶了 21:2d 當作小a，合起來形成分詞內嵌子句；分詞 ἡτοιμασμένην 又是半個形容詞，格數性 [ASF] 只能勾到 21:2a 同樣也是 [ASF] 的補語 (τὴν πόλιν τὴν ἁγία)——因此，整個分詞內嵌子句是 21:2a 補語的補語 (用 +C 符號表示)。
+[^7]: ἡτοιμασμένην ὡς νύμφην ...：分詞內嵌子句。分詞 ἡτοιμασμένην 是半個動詞 小p，根據上下文判斷，後面帶了 21:2d 當作小a，合起來形成分詞內嵌子句；分詞 ἡτοιμασμένην 又是半個形容詞，格數性 [ASF] 只能勾到 21:2a 同樣也是 [ASF] 的補語（τὴν πόλιν τὴν ἁγία）——因此，整個分詞內嵌子句是 21:2a 補語的補語（用 +C 符號表示）。
 
 [^8]: ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς：分詞內嵌子句。分詞 κεκοσμημένην 是半個動詞 小p，根據上下文判斷，前面的 νύμφην 是小s，後面的 τῷ ἀνδρὶ αὐτῆς 是小a，合起來形成分詞內嵌子句；分詞 κεκοσμημένην 又是半個形容詞，格數性之所以會是 [ASF]，是受到小s νύμφην [ASF] 的影響，因為小p 的主詞就是小s，所以格數性要一致。
 
-[^9]: ἤκουσα：動詞 ἀκούω 後面可以帶所有格 (φωνῆς μεγάλης)，表達聽見的事物 ([BAGD 一.C](https://bible.fhl.net/new/s.php?N=0&k=00191&m=))。
+[^9]: ἤκουσα：動詞 ἀκούω 後面可以帶所有格（φωνῆς μεγάλης），表達聽見的事物（[BAGD 一.C](https://bible.fhl.net/new/s.php?N=0&k=00191&m=）)。
 
 [^10]: φωνῆς μεγάλης ἐκ τοῦ θρόνου λεγούσης：分詞內嵌子句。分詞 λεγούσης 是半個動詞 小p，根據上下文判斷，前面的 φωνῆς μεγάλης 是小s，ἐκ τοῦ θρόνου 是小a，合起來形成分詞內嵌子句；分詞 λεγούσης 又是半個形容詞，格數性之所以會是 [GSF] 是受到小s φωνῆς μεγάλης 的影響，因為小p 的主詞就是小s，所以格數性要一致。整個分詞內嵌子句合起來當作主要動詞 ἤκουσα 的補語。
 
 [^11]: Ἰδοὺ：感嘆詞，吸引讀者的注意力。
 
-[^12]: ἔσονται：聯繫動詞，兩個元素都是主格，代名詞 (αὐτοὶ) 有優先權，要當作主語。
+[^12]: ἔσονται：聯繫動詞，兩個元素都是主格，代名詞（αὐτοὶ）有優先權，要當作主語。
 
-[^13]: αὐτὸς：根據上下文判斷，αὐτὸς 在此表達「自己，本身」，用來加強語氣 ([BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00846&m=))。
+[^13]: αὐτὸς：根據上下文判斷，αὐτὸς 在此表達「自己，本身」，用來加強語氣（[BAGD 一.A](https://bible.fhl.net/new/s.php?N=0&k=00846&m=）)。
 
-[^14]: ἔσται：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在 ([BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=))。
+[^14]: ἔσται：前後只有一個元素，所以不是聯繫動詞，而是單純表達存在（[BAGD 甲](https://bible.fhl.net/new/s.php?N=0&k=01510&m=）)。
 
 [^15]: οὔτε ... οὔτε ... οὔτε：希臘文習慣用法，表達「或…或…或…都不」([BAGD](https://bible.fhl.net/new/s.php?N=0&k=03777&m=))。
 
@@ -68,7 +68,7 @@ draft: false
 
 [^17]: τὰ πρῶτα：T—A 的結構，格數性相同，黏在一起形成片語，當作實名詞使用。
 
-[^18]: καθήμενος ἐπὶ τῷ θρόνῳ：分詞內嵌子句，前面加上冠詞 (ὁ)，形成「T—分詞內嵌子句」的結構，當作實名詞使用。
+[^18]: καθήμενος ἐπὶ τῷ θρόνῳ：分詞內嵌子句，前面加上冠詞（ὁ），形成「T—分詞內嵌子句」的結構，當作實名詞使用。
 
-[^19]: ποιῶ：動詞 ποιέω 帶雙直接受格，表達「使某人或某物變為另一種形態」的意思 ([BAGD 甲.一.B.9](https://bible.fhl.net/new/s.php?N=0&k=04160&m=))。
+[^19]: ποιῶ：動詞 ποιέω 帶雙直接受格，表達「使某人或某物變為另一種形態」的意思（[BAGD 甲.一.B.9](https://bible.fhl.net/new/s.php?N=0&k=04160&m=）)。
 

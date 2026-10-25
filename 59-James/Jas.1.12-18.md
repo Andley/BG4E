@@ -3,7 +3,7 @@ title: "Jas.1.12-18"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 1:12-18)
+## 圖析（Jas 1:12-18）
 
 
 - 1:12a (<RUBY><ruby><ruby>Μακάριος<rt>μακάριος</rt></ruby><rt>有福</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ἀνὴρ<rt>ἀνήρ</rt></ruby><rt>人</rt></ruby><rt>N-NSM</rt></RUBY>)S 

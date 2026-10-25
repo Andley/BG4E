@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 3:23-25)
+#### 圖析（Gal 3:23-25）
 
 - 3:23a (<RUBY><ruby><ruby>Πρὸ<rt>πρό</rt></ruby><rt>Before</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY>)<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> ⦈‹<RUBY><ruby><ruby><mark class='inf'>ἐλθεῖν</mark><rt>ἔρχομαι</rt></ruby><rt>came</rt></ruby><rt>V-AAN</rt></RUBY>›p ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>P-ASF</rt></RUBY>›s »)[^1]A (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>under</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νόμον<rt>νόμος</rt></ruby><rt>the Law</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><mark><mark class='verb'>ἐφρουρούμεθα°¹</mark></mark><rt>φρουρέω</rt></ruby><rt>we were held in custody</rt></ruby><rt>V-IPI-1P</rt></RUBY> 
 	- 3:23b {<RUBY><ruby><ruby><mark class='ptc'>συνκλειόμενοι</mark><rt>συγκλείω</rt></ruby><rt>having been locked up</rt></ruby><rt>V-PPP-NPM</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>until</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>μέλλουσαν</mark><rt>μέλλω</rt></ruby><rt>being about</rt></ruby><rt>V-PAP-ASF</rt></RUBY> ›<RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-ASF</rt></RUBY> ⦈‹<RUBY><ruby><ruby><em>ἀποκαλυφθῆναι,</em><rt>ἀποκαλύπτω</rt></ruby><rt>to be revealed</rt></ruby><rt>V-APN</rt></RUBY>›)a[^2]}A°¹⮥
@@ -12,6 +12,6 @@ draft: true
 
 
 
-[^1]: Πρὸ τοῦ _ἐλθεῖν_ τὴν πίστιν：介系詞 πρό＋τοῦ＋不定詞內嵌子句 (GGBB, 596)，形成介系詞片語，當作狀語 (adjunct) 使用，修飾主要動詞 **ἐφρουρούμεθα**。
-[^2]: εἰς τὴν _μέλλουσαν_ πίστιν _ἀποκαλυφθῆναι_：因為冠詞不是 τό，所以不是「介系詞 εἰς＋τό＋不定詞內嵌子句 (GGBB,, 591-593)」的結構，而是「介系詞 εἰς＋T—分詞內嵌子句—N」的結構——其中分詞片語 _μέλλουσαν_ _ἀποκαλυφθῆναι_ 則是 μέλλω＋不定詞 (當補語) 所組成，只不過把 _ἀποκαλυφθῆναι_ 倒置 (hyperbaton) 放在句尾。
-[^3]: _ἐλθούσης_ τῆς πίστεως：獨立所有格 (genitive absolute) 分詞子句 (GGBB, 654-655) 當作狀語 (adjunct) 修飾主要動詞 **ἐσμεν**。
+[^1]: Πρὸ τοῦ _ἐλθεῖν_ τὴν πίστιν：介系詞 πρό＋τοῦ＋不定詞內嵌子句（GGBB, 596)，形成介系詞片語，當作狀語 (adjunct）使用，修飾主要動詞 **ἐφρουρούμεθα**。
+[^2]: εἰς τὴν _μέλλουσαν_ πίστιν _ἀποκαλυφθῆναι_：因為冠詞不是 τό，所以不是「介系詞 εἰς＋τό＋不定詞內嵌子句（GGBB,, 591-593)」的結構，而是「介系詞 εἰς＋T—分詞內嵌子句—N」的結構——其中分詞片語 _μέλλουσαν_ _ἀποκαλυφθῆναι_ 則是 μέλλω＋不定詞 (當補語）所組成，只不過把 _ἀποκαλυφθῆναι_ 倒置（hyperbaton）放在句尾。
+[^3]: _ἐλθούσης_ τῆς πίστεως：獨立所有格（genitive absolute）分詞子句（GGBB, 654-655）當作狀語（adjunct）修飾主要動詞 **ἐσμεν**。

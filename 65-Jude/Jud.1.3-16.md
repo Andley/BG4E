@@ -3,7 +3,7 @@ title: "Jud.1.3-16"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jude 1:3-16)
+## 圖析（Jude 1:3-16）
 
 - 1:3a (<RUBY><ruby><ruby>Ἀγαπητοί<rt>親愛的</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> 
 	- 1:3b {(<RUBY><ruby><ruby>πᾶσαν<rt>很</rt></ruby><rt>πᾶς</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>σπουδὴν<rt>一直很想</rt></ruby><rt>σπουδή</rt></ruby><rt>N-ASF</rt></RUBY>)c (<RUBY><ruby><ruby><mark class='ptc'>ποιούμενος</mark><rt>(要)</rt></ruby><rt>ποιέω</rt></ruby><rt>V-PMP-NSM</rt></RUBY>)p [(<RUBY><ruby><ruby><mark class='inf'>γράφειν</mark><rt>寫信</rt></ruby><rt>γράφω</rt></ruby><rt>V-PAN</rt></RUBY>)<sub>p</sub> (<RUBY><ruby><ruby>ὑμῖν<rt>給你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY>)<sub>c</sub> (<RUBY><ruby><ruby>περὶ<rt>論到</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>κοινῆς<rt>共享</rt></ruby><rt>κοινός</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>我們的</rt></ruby><rt>ἐγώ</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας<rt>救恩</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-GSF</rt></RUBY>)<sub>a</sub>]+c}A°¹⮧

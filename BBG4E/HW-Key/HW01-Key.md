@@ -24,15 +24,15 @@ draft: false
 - 1:6a (<RUBY><ruby><ruby>Ἰεσσαὶ<rt>耶西 Jesse</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02421&m='>Ἰεσσαί</a></rt></ruby><rt>N-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>- then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἐγέννησεν</span><rt>生 begat</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01080&m='>γεννάω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Δαυὶδ<rt>大衛 David</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01138&m='>Δαυίδ</a></rt></ruby><rt>N-ASM</rt></RUBY>)C =(<RUBY><ruby><ruby>τὸν<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>βασιλέα<rt>王 king</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00935&m='>βασιλεύς</a></rt></ruby><rt>N-ASM</rt></RUBY>)C <span class='punctuation'>.</span> 
 - 1:6b (<RUBY><ruby><ruby>Δαυὶδ<rt>大衛 David</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01138&m='>Δαυίδ</a></rt></ruby><rt>N-NSM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>- then</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἐγέννησεν</span><rt>生 begat</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01080&m='>γεννάω</a></rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Σολομῶνα<rt>所羅門 Solomon</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04672&m='>Σολομών, Σαλωμών</a></rt></ruby><rt>N-ASM</rt></RUBY>)C (<RUBY><ruby><ruby>ἐκ<rt>從 out of</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01537&m='>ἐκ</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>- the [wife]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSF</rt></RUBY>[^13] ‹<RUBY><ruby><ruby>τοῦ<rt>- -</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Οὐρίου<rt>烏利亞 of Uriah</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03774&m='>Οὐρίας</a></rt></ruby><rt>N-GSM</rt></RUBY>›[^14] )A <span class='punctuation'>,</span> 
 
-[^1]: Βίβλος：格數性是 [NSF]，[N] 代表所有格，通常用來當作子句的主詞 (S)。
+[^1]: Βίβλος：格數性是 [NSF]，[N] 代表所有格，通常用來當作子句的主詞（S）。
 
-[^2]: γενέσεως：格數性是 [GSF]，[G] 代表所有格，通常用來修飾前面的名詞 (Βίβλος)，意思是：出生(的)書。
+[^2]: γενέσεως：格數性是 [GSF]，[G] 代表所有格，通常用來修飾前面的名詞（Βίβλος），意思是：出生（的）書。
 
-[^3]: Ἰησοῦ：格數性是 [GSM]，[G] 代表所有格，通常用來修飾前面的名詞 (γενέσεως)，意思是：耶穌(的)出生(的)書。
+[^3]: Ἰησοῦ：格數性是 [GSM]，[G] 代表所有格，通常用來修飾前面的名詞（γενέσεως），意思是：耶穌（的）出生（的）書。
 
-[^4]:  Χριστοῦ：格數性是 [GSM]，[G] 代表所有格——但根據上下文判斷，Χριστοῦ 不是在修飾前面的名詞 (否則就變成了：基督的耶穌)，而是在講同一個人——文法上稱之為「同位」(用數學符號 = 表示)，後面的名詞 (Χριστοῦ) 補充說明前面的名詞 (Ἰησοῦ)，意思是「耶穌，也就是基督」。
+[^4]:  Χριστοῦ：格數性是 [GSM]，[G] 代表所有格——但根據上下文判斷，Χριστοῦ 不是在修飾前面的名詞（否則就變成了：基督的耶穌)，而是在講同一個人——文法上稱之為「同位」(用數學符號 = 表示)，後面的名詞（Χριστοῦ）補充說明前面的名詞 (Ἰησοῦ），意思是「耶穌，也就是基督」。
 
-[^5]: υἱοῦ Δαυὶδ：格數性雖然都是 [GSM]，但根據上下文判斷，Δαυὶδ 跟 υἱοῦ 不是同位的關係 (否則就變成了：兒子，也就是大衛)，而是 Δαυὶδ 修飾前面的 υἱοῦ，意思是「大衛的兒子」，呼應了舊約「大衛的子孫」這個神學概念——整個片語 (υἱοῦ Δαυὶδ) 同位於前面的 Χριστοῦ，意思是「耶穌，也就是基督，也就是大衛的子孫」。
+[^5]: υἱοῦ Δαυὶδ：格數性雖然都是 [GSM]，但根據上下文判斷，Δαυὶδ 跟 υἱοῦ 不是同位的關係（否則就變成了：兒子，也就是大衛)，而是 Δαυὶδ 修飾前面的 υἱοῦ，意思是「大衛的兒子」，呼應了舊約「大衛的子孫」這個神學概念——整個片語 (υἱοῦ Δαυὶδ）同位於前面的 Χριστοῦ，意思是「耶穌，也就是基督，也就是大衛的子孫」。
 
 [^6]: υἱοῦ Ἀβραάμ：如同 υἱοῦ Δαυὶδ，這裡要理解成「亞伯拉罕的子孫」，同樣呼應了舊約的神學概念。
 
@@ -40,14 +40,14 @@ draft: false
 
 [^8]: Ἀβραὰμ：主格，當作主詞使用。
 
-[^9]: ἐγέννησεν：動詞，第三人稱、單數，與主詞 Ἀβραὰμ 一致 (concord, agreement)。
+[^9]: ἐγέννησεν：動詞，第三人稱、單數，與主詞 Ἀβραὰμ 一致（concord, agreement）。
 
-[^10]: τὸν Ἰσαάκ：冠詞 (τὸν)、名詞 (Ἰσαάκ) 格數性一致，黏在一起成為片語。因為是直接受格，所以要當作 ἐγέννησεν 的直接受詞 (C) 使用。
+[^10]: τὸν Ἰσαάκ：冠詞（τὸν)、名詞 (Ἰσαάκ）格數性一致，黏在一起成為片語。因為是直接受格，所以要當作 ἐγέννησεν 的直接受詞（C）使用。
 
-[^11]: δὲ：對等連接詞 (377)，因為是後置詞，所以不會放在句首。
+[^11]: δὲ：對等連接詞（377），因為是後置詞，所以不會放在句首。
 
-[^12]: ἐκ τῆς Θάμαρ：τῆς Θάμαρ 格數性一致，成為片語，被前面的介系詞 ἐκ 掌管，黏在一起，形成了介系詞片語，當作副詞 (A) 使用，修飾主要動詞 ἐγέννησεν。
+[^12]: ἐκ τῆς Θάμαρ：τῆς Θάμαρ 格數性一致，成為片語，被前面的介系詞 ἐκ 掌管，黏在一起，形成了介系詞片語，當作副詞（A）使用，修飾主要動詞 ἐγέννησεν。
 
-[^13]: ἐκ τῆς：介系詞片語，當副詞 (A) 使用，修飾主要動詞 ἐγέννησεν──比較特別的是，冠詞 τῆς 單獨一個字也可以當作代名詞使用，因為是 [SF]，通常代表女人。
+[^13]: ἐκ τῆς：介系詞片語，當副詞（A）使用，修飾主要動詞 ἐγέννησεν──比較特別的是，冠詞 τῆς 單獨一個字也可以當作代名詞使用，因為是 [SF]，通常代表女人。
 
-[^14]: τοῦ Οὐρίου：所有格片語，修飾前面的 τῆς，意思是：烏利亞(的)女人——這是希臘文習慣表達某人妻子的方式。
+[^14]: τοῦ Οὐρίου：所有格片語，修飾前面的 τῆς，意思是：烏利亞（的）女人——這是希臘文習慣表達某人妻子的方式。

@@ -11,12 +11,12 @@
 
 ### 句法圖析
 
-- 前言 (Mat 5:1-16)
+- 前言（Mat 5:1-16）
 	- [The Sermon on the Mount (Mat 5:1-2)](Mat.5.1-2.md)
 	- [The Beatitudes (Mat 5:3-12)](Mat.5.3-12.md)
 	- [Salt and Light (Mat 5:13-16)](Mat.5.13-16.md)
 	- [Teaching about the Law (Mat 5:17-20)](Mat.5.17-20.md)
-- 主體 (Mat 5:17-7:12)
+- 主體（Mat 5:17-7:12）
 	- 
 		- [Teaching about Anger (Mat 5:21-26)](Mat.5.21-26.md)
 		- [Teaching about Adultery (Mat 5:27-30)](Mat.5.27-30.md)
@@ -47,9 +47,9 @@
 簡寫 | 出處
 :------:| --- 
 GGBB | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996.
-華 | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+華 | 華勒斯（Daniel B. Wallace）。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
 Idioms | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
-波 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+波 | 斯丹利‧波特（Stanley E. Porter）。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
 Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
 AGG | Siebenthal, Heinrich von. _Ancient Greek Grammar for the Study of the New Testament_. Oxford New York: Peter Lang, 2020. [https://www.peterlang.com/document/1111098](https://www.peterlang.com/document/1111098).
@@ -61,8 +61,8 @@ BDF | Blass, F., and A. DeBrunner. _A Greek Grammar of the New Testament and Oth
 ### 登山寶訓參考書目
 簡寫 | 出處
 :------:| --- 
-Carson | 卡森 (D. A. Carson)。《主耶穌與神的國度：馬太福音第五至七章》。何劉玲譯。加州：麥種傳道會，2003。
-Stott | 史托德 (John R. W. Stott)。《基督教文化的挑戰：登山寶訓精研》。潘蘇齊冰、李秀芳、文逢參譯。三版。香港：宣道，2002。
+Carson | 卡森（D. A. Carson）。《主耶穌與神的國度：馬太福音第五至七章》。何劉玲譯。加州：麥種傳道會，2003。
+Stott | 史托德（John R. W. Stott）。《基督教文化的挑戰：登山寶訓精研》。潘蘇齊冰、李秀芳、文逢參譯。三版。香港：宣道，2002。
 曾 | 曾思瀚。《天國就在我們中間: 馬太福音登山寶訓解經研究》。香港：基道出版社，2007。
 柯 | 柯志明。《愛的倫理：十誡.登山寶訓與基督信仰的倫理精神》。台北巿：台灣基督徒學會，2011。
 

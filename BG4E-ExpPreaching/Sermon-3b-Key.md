@@ -5,7 +5,7 @@ draft: false
 ---
 ## Sermon-3b (太22.1-14) 參考解答
 
-### 句法圖析 (Syntax Diagram)
+### 句法圖析（Syntax Diagram）
 
 
 - 22:1 <RUBY><ruby><ruby>Καὶ<rt>And</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>ἀποκριθεὶς</mark><rt>answering</rt></ruby><rt>ἀποκρίνω</rt></ruby><rt>V-AMP-NSM</rt></RUBY>)A (<RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦς<rt>Jesus</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>πάλιν<rt>again</rt></ruby><rt>πάλιν</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>εἶπεν</mark><rt>spoke</rt></ruby><rt>εἶπον</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>in</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παραβολαῖς<rt>parables</rt></ruby><rt>παραβολή</rt></ruby><rt>N-DPF</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτοῖς<rt>to them</rt></ruby><rt>αὐτός</rt></ruby><rt>P-DPM</rt></RUBY>)C (<RUBY><ruby><ruby><em>λέγων <mark class='punctuation'>·</mark></em><rt>saying</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)A
@@ -54,13 +54,13 @@ draft: false
 	- 22:14b (<RUBY><ruby><ruby>ὀλίγοι<rt>few</rt></ruby><rt>ὀλίγος</rt></ruby><rt>A-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> ...<RUBY><ruby>εἰσιν<rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY>... (<RUBY><ruby><ruby>ἐκλεκτοί <mark class='punctuation'>.</mark><rt>chosen</rt></ruby><rt>ἐκλεκτός</rt></ruby><rt>A-NPM</rt></RUBY>)C
 
 
-### 語意圖析 (Semantic Diagram)
+### 語意圖析（Semantic Diagram）
 https://app.biblearc.com/shared/4dbfac71-fd7f-4eb6-bfa7-7cbee01305b4
 ![../images/Pasted image 20231027085033.png](../images/Pasted%20image%2020231027085033.png)
 
 
 
-### 大綱 (Outline)
+### 大綱（Outline）
 
 - (0) 開場：神永恆的心意是 ...
 	- 太9:13 我來本不是召義人，乃是召罪人。
@@ -76,7 +76,7 @@ https://app.biblearc.com/shared/4dbfac71-fd7f-4eb6-bfa7-7cbee01305b4
 	- 
 		- 太21:33-44 (園戶的比喻)：果子x4 (21:34, 41, 43)
 
-[^1]: **Ὡμοιώθη**：意思是「使 A ... 像 B ...」，後面可以接兩個補語 (BAGD)，直接受格表示 A，間接受格表示 B。
-[^2]: ὅστις：這裡並沒有「無論誰，每一位…的」的意思，應該只是取代簡單的關係代名詞而已 (BAGD)。
+[^1]: **Ὡμοιώθη**：意思是「使 A ... 像 B ...」，後面可以接兩個補語（BAGD），直接受格表示 A，間接受格表示 B。
+[^2]: ὅστις：這裡並沒有「無論誰，每一位…的」的意思，應該只是取代簡單的關係代名詞而已（BAGD）。
 [^3]: _καλέσαι_ ... γάμους：不定詞內嵌子句，修飾主要動詞 **ἀπέστειλεν**，表達「目的」。
-[^4]: _ἐλθεῖν_：單獨一個不定詞，形成不定詞內嵌子句，當作主要動詞 **ἤθελον** 的補語 (BAGD)。
+[^4]: _ἐλθεῖν_：單獨一個不定詞，形成不定詞內嵌子句，當作主要動詞 **ἤθελον** 的補語（BAGD）。

@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 6:1-10)
+#### 圖析（Gal 6:1-10）
 
 - 6:1a <RUBY><ruby><ruby>Ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>Brothers</rt></ruby><rt>N-VPM</rt></RUBY>
 	- 6:1b <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>προλημφθῇ</mark><rt>προλαμβάνω</rt></ruby><rt>should be overcome</rt></ruby><rt>V-APS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>a man</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἔν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τινι<rt>τις</rt></ruby><rt>some</rt></ruby><rt>X-DSN</rt></RUBY> <RUBY><ruby><ruby>παραπτώματι,<rt>παράπτωμα</rt></ruby><rt>trespass</rt></ruby><rt>N-DSN</rt></RUBY>)A 

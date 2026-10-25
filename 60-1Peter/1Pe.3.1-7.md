@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-####  圖析 (1Pe 3:1-6)
+####  圖析（1Pe 3:1-6）
 
 - 3:1a (<RUBY><ruby><ruby>Ὁμοίως<rt>ὁμοίως</rt></ruby><rt>同样</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>γυναῖκες<rt>γυνή</rt></ruby><rt>做妻子的</rt></ruby><rt>N-NPF</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='ptc'>ὑποτασσόμεναι</mark><rt>ὑποτάσσω</rt></ruby><rt>顺服</rt></ruby><rt>V-PPP-NPF</rt></RUBY>)P (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἰδίοις<rt>ἴδιος</rt></ruby><rt>自己的</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>ἀνδράσιν<rt>ἀνήρ</rt></ruby><rt>丈夫</rt></ruby><rt>N-DPM</rt></RUBY>)C <mark class='punctuation'>,</mark>
 	- 3:1b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>这样</rt></ruby><rt>CONJ</rt></RUBY> 
@@ -26,7 +26,7 @@ draft: false
 				- 3:6d {(<RUBY><ruby><ruby><em>ἀγαθοποιοῦσαι</em><rt>ἀγαθοποιέω</rt></ruby><rt>行善</rt></ruby><rt>V-PAP-NPF</rt></RUBY>)p}A°⁵⮥
 				- 3:6e <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>并且</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>φοβούμεναι</mark><rt>φοβέομαι</rt></ruby><rt>怕</rt></ruby><rt>V-PNP-NPF</rt></RUBY>)p (<RUBY><ruby><ruby>μηδεμίαν<rt>μηδείς</rt></ruby><rt>任何</rt></ruby><rt>A-ASF-N</rt></RUBY> <RUBY><ruby><ruby>πτόησιν<rt>πτόησις</rt></ruby><rt>恐吓</rt></ruby><rt>N-ASF</rt></RUBY>)c}A°⁵⮥ <mark class='punctuation'>.</mark> 
 
-### 圖析 (1Pe 3:7)
+### 圖析（1Pe 3:7）
 
 - 3:7a (<RUBY><ruby><ruby>Οἱ<rt>ὁ</rt></ruby><rt></rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>ἄνδρες<rt>ἀνήρ</rt></ruby><rt>做丈夫的</rt></ruby><rt>N-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ὁμοίως<rt>ὁμοίως</rt></ruby><rt>同样</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='ptc'>συνοικοῦντες</mark><rt>συνοικέω</rt></ruby><rt>与...同住</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)P°¹ (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>按</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γνῶσιν<rt>γνῶσις</rt></ruby><rt>情理</rt></ruby><rt>N-ASF</rt></RUBY>)A <mark class='punctuation'>,</mark> 
 	- 3:7b (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt><s>因为</s>当做</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἀσθενεστέρῳ<rt>ἀσθενής</rt></ruby><rt>软弱</rt></ruby><rt>A-DSN-C</rt></RUBY> <RUBY><ruby><ruby>σκεύει<rt>σκεῦος</rt></ruby><rt>器皿</rt></ruby><rt>N-DSN</rt></RUBY>)A°¹⮥

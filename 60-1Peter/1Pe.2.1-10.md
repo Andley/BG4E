@@ -3,9 +3,9 @@ title: "1Pe.2.1-10"
 date: 2026-07-04
 draft: false
 ---
-### 經文 (1Pe 2:1-10)
+### 經文（1Pe 2:1-10）
 
-#### 圖析 (1Pe 2:1-10)
+#### 圖析（1Pe 2:1-10）
 
 - 2:1a ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 2:1b {(<RUBY><ruby><ruby><mark class='ptc'>Ἀποθέμενοι</mark><rt>ἀποτίθημι</rt></ruby><rt>除去</rt></ruby><rt>V-2AMP-NPM</rt></RUBY>)p ⸉...⸊ (<RUBY><ruby><ruby>πᾶσαν<rt>πᾶς</rt></ruby><rt>一切</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>κακίαν<rt>κακία</rt></ruby><rt>恶毒</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>以及</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>一切</rt></ruby><rt>A-ASM</rt></RUBY> <RUBY><ruby><ruby>δόλον<rt>δόλος</rt></ruby><rt>诡诈</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>并</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑποκρίσεις<rt>ὑπόκρισις</rt></ruby><rt>虚伪</rt></ruby><rt>A-APF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>和</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>φθόνους<rt>φθόνος</rt></ruby><rt>嫉妒</rt></ruby><rt>N-APM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>和</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάσας<rt>πᾶς</rt></ruby><rt>一切</rt></ruby><rt>A-APF</rt></RUBY> <RUBY><ruby><ruby>καταλαλιάς<rt>καταλαλιά</rt></ruby><rt>毁谤</rt></ruby><rt>N-APF</rt></RUBY>)c}A°¹⮧ <mark class='punctuation'>,</mark> 

@@ -3,7 +3,7 @@ title: "Heb.3.1-6"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Heb 3:1-6) 
+## 圖析（Heb 3:1-6）
 
 - 3:1a <RUBY><ruby><ruby>Ὅθεν<rt>ὅθεν</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY> <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοὶ<rt>ἀδελφός</rt></ruby><rt>弟兄</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>ἅγιοι<rt>ἅγιος</rt></ruby><rt>聖潔</rt></ruby><rt>A-VPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>κλήσεως<rt>κλῆσις</rt></ruby><rt>召</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ἐπουρανίου<rt>ἐπουράνιος</rt></ruby><rt>天</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>μέτοχοι<rt>μέτοχος</rt></ruby><rt>同蒙</rt></ruby><rt>A-VPM</rt></RUBY>)V <mark class='punctuation'>,</mark> 
 - 3:1b (<RUBY><ruby><ruby><mark class='verb'>κατανοήσατε</mark><rt>κατανοέω</rt></ruby><rt>思想</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Ἀπόστολον<rt>ἀπόστολος</rt></ruby><rt>使者</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Ἀρχιερέα<rt>ἀρχιερεύς</rt></ruby><rt>大祭司</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ὁμολογίας<rt>ὁμολογία</rt></ruby><rt>承認</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>我們的</rt></ruby><rt>P-1GP</rt></RUBY>)C (<RUBY><ruby><ruby>Ἰησοῦν<rt>Ἰησοῦς</rt></ruby><rt>耶穌</rt></ruby><rt>N-ASM</rt></RUBY>)=C <mark class='punctuation'>,</mark> 

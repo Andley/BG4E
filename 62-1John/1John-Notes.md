@@ -15,9 +15,9 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 
 
 ### 原文特色
-- [約翰書信 (123John) 子句結構](123John-Clause.md)
-- [約翰書信 (123John) 風格特色](123John-Style.md)
-- [約翰書信 (123John) 詞彙分析](123John-Vocabulary.md)
+- [約翰書信（123John）子句結構](123John-Clause.md)
+- [約翰書信（123John）風格特色](123John-Style.md)
+- [約翰書信（123John）詞彙分析](123John-Vocabulary.md)
 
 ### 句法圖析
 
@@ -52,9 +52,9 @@ Interlinear 經文出自 OGNTa Project ([@GitHub](https://github.com/Andley/OGNT
 簡寫 | 出處
 :------:| --- 
 GGBB | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996.
-華 | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
+華 | 華勒斯（Daniel B. Wallace）。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。
 Idioms | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994.
-波 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
+波 | 斯丹利‧波特（Stanley E. Porter）。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。
 Mathewson | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016.
 Runge | Runge, Steven E. <em>Discourse Grammar of the Greek New Testament: A Practical Introduction for Teaching and Exegesis</em>. Peabody, MA.: Hendrickson, 2010.
 

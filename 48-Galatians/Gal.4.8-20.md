@@ -1,7 +1,7 @@
 ### Paul’s Concern for the Galatians (Gal 4:8-20)
 
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 
 - 4:8a <RUBY><ruby><ruby>Ἀλλὰ<rt>但 But</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00235&m='>ἀλλά</a></rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τότε<rt>從前 at that time</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05119&m='>τότε</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>μὲν<rt>- indeed</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03303&m='>μέν</a></rt></ruby><rt>PRT</rt></RUBY>)A [<RUBY><ruby><ruby>οὐκ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> ‹<RUBY><ruby><ruby><span class='ptc'>εἰδότες</span><rt>認識 knowing</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=3608&m='>οἶδα</a>a</rt></ruby><rt>V-RAP-NPM</rt></RUBY>›p ‹<RUBY><ruby><ruby>Θεὸν<rt>上帝 God</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-ASM</rt></RUBY>›c]A (<RUBY><ruby><ruby><span class='verb'>ἐδουλεύσατε</span><rt>你們作奴隸 you were enslaved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01398&m='>δουλεύω</a></rt></ruby><rt>V-AAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τοῖς<rt>給那些 to those</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-DPM</rt></RUBY> [‹<RUBY><ruby><ruby>φύσει<rt>本來 by nature</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05449&m='>φύσις</a></rt></ruby><rt>N-DSF</rt></RUBY>› <RUBY><ruby><ruby>μὴ<rt>不 not</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> ‹<RUBY><ruby><ruby><span class='ptc'>οὖσιν</span><rt>是 being</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAP-DPM</rt></RUBY>›p ‹<RUBY><ruby><ruby>θεοῖς<rt>上帝 gods</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02316&m='>θεός</a></rt></ruby><rt>N-DPM</rt></RUBY>›c])C <span class='punctuation'>·</span> 
@@ -47,7 +47,7 @@
 
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
-#### 語意圖析 (Semantic Diagram)
+#### 語意圖析（Semantic Diagram）

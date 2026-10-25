@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-### 圖析 (1Jo 2:26-27)
+### 圖析（1Jo 2:26-27）
 
 - 2:26a (<RUBY><ruby><ruby>Ταῦτα<rt>οὗτος</rt></ruby><rt>These things</rt></ruby><rt>D-APN</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>ἔγραψα</mark><rt>γράφω</rt></ruby><rt>I have written</rt></ruby><rt>V-2AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 {<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-GPM</rt></RUBY> (<RUBY><ruby><ruby><em>πλανώντων</em><rt>πλανάω</rt></ruby><rt>leading astray</rt></ruby><rt>V-PAP-GPM</rt></RUBY>)p (<RUBY><ruby><ruby>ὑμᾶς.<rt>σύ</rt></ruby><rt>you.</rt></ruby><rt>P-2AP</rt></RUBY>)c] }A 
 - ——————————————
@@ -21,4 +21,4 @@ draft: false
 	- 2:27k <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἐδίδαξεν</mark><rt>διδάσκω</rt></ruby><rt>it has taught</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμᾶς,<rt>σύ</rt></ruby><rt>you,</rt></ruby><rt>P-2AP</rt></RUBY>)C
 - 2:27l (<RUBY><ruby><ruby><mark class='verb'>μένετε</mark><rt>μένω</rt></ruby><rt>you abide</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ.<rt>αὐτός</rt></ruby><rt>Him.</rt></ruby><rt>P-DSM</rt></RUBY>)A
 
-[^1]: αὐτοῦ：格數性是 GSM，與前後的 τὸ χρῖσμα [NSN] 不同，所以這裡不能當作等同形容詞 (GGBB, 349) 使用，要翻譯成：他的恩膏。
+[^1]: αὐτοῦ：格數性是 GSM，與前後的 τὸ χρῖσμα [NSN] 不同，所以這裡不能當作等同形容詞（GGBB, 349）使用，要翻譯成：他的恩膏。

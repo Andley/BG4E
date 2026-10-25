@@ -3,7 +3,7 @@ title: "Heb.1.1-4"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (1:1-4) 
+## 圖析（1:1-4）
 
 - 1:1 
 	- <a href="https://bible.fhl.net/new/s.php?N=0&k=04181&m=" title="πολυμερῶς [ADV]&#10;多次 In many portions">Πολυμερῶς</a>  <a href="https://bible.fhl.net/new/s.php?N=0&k=02532&m=" title="καί [CONJ]&#10;- and">καὶ</a>  <a href="https://bible.fhl.net/new/s.php?N=0&k=04187&m=" title="πολυτρόπως [ADV]&#10;多方 in many ways">πολυτρόπως</a> <a href="https://bible.fhl.net/new/s.php?N=0&k=03819&m=" title="πάλαι [ADV]&#10;古時候 long ago">πάλαι</a> 

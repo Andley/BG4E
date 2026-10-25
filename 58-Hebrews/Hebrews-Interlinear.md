@@ -5,7 +5,7 @@ draft: false
 ---
 # Πρὸς Ἑβραίους
 
-經文(重音、大小寫、標點符號、排版) 出自 OGNTa Project([@GitHub](https://github.com/Andley/OGNTa))；分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/HEB.1/)
+經文（重音、大小寫、標點符號、排版） 出自 OGNTa Project([@GitHub](https://github.com/Andley/OGNTa))；分段和標題則是根據 [UBS5](https://www.die-bibel.de/en/bible/UBS5/HEB.1/)
 
 
 ### God Has Spoken by His Son (Heb 1:1-4)

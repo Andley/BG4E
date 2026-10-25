@@ -3,7 +3,7 @@ title: "1Jo.4.7-12"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Jo 4:7-12)
+#### 圖析（1Jo 4:7-12）
 
 
 - 4:7a <RUBY><ruby><ruby>Ἀγαπητοί,<rt>ἀγαπητός</rt></ruby><rt>Beloved,</rt></ruby><rt>A-VPM</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἀγαπῶμεν</mark><rt>ἀγαπάω</rt></ruby><rt>we may love</rt></ruby><rt>V-PAS-1P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλους,<rt>ἀλλήλων</rt></ruby><rt>one another,</rt></ruby><rt>C-APM</rt></RUBY>)C

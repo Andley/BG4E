@@ -3,7 +3,7 @@ title: "1Jo.2.28-3.3"
 date: 2026-07-04
 draft: false
 ---
-### 圖析 (1Jo 2:28-3:3)
+### 圖析（1Jo 2:28-3:3）
 
 
 - 2:28a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>νῦν,<rt>νῦν</rt></ruby><rt>now,</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>τεκνία,<rt>τεκνίον</rt></ruby><rt>little children,</rt></ruby><rt>N-VPN</rt></RUBY> 
@@ -37,4 +37,4 @@ draft: false
 	- 3:3b <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνος<rt>ἐκεῖνος</rt></ruby><rt>He</rt></ruby><rt>D-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἁγνός<rt>ἁγνός</rt></ruby><rt>pure</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἐστιν.¶</mark><rt>εἰμί</rt></ruby><rt>is.</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
 
 [^1]: τί **ἐσόμεθα**：疑問代名詞 τί 帶出的疑問內嵌子句，當作上一層主要子句的主語。τί 是 NSN，表達 what，可以翻譯成：我們將來會成為什麼樣子——答案就在下文 3:2f。
-[^2]: ὅμοιοι：形容詞 ὅμοιος 後面要帶所比較的人或事物的間受格 (BAGD)。
+[^2]: ὅμοιοι：形容詞 ὅμοιος 後面要帶所比較的人或事物的間受格（BAGD）。

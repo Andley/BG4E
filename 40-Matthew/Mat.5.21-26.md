@@ -43,14 +43,14 @@ draft: false
 	- 5:26c <RUBY><ruby><ruby>ἕως<rt>等到 until</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02193&m='>ἕως</a></rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00302&m='>ἄν</a></rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>ἀποδῷς</span><rt>還清 paid</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00591&m='>ἀποδίδωμι</a></rt></ruby><rt>V-2AAS-2S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἔσχατον<rt>最後 last</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02078&m='>ἔσχατος</a></rt></ruby><rt>A-ASM-S</rt></RUBY> <RUBY><ruby><ruby>κοδράντην<rt>一分錢 penny</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02835&m='>κοδράντης</a></rt></ruby><rt>N-ASM</rt></RUBY>)C <span class='punctuation'>.</span>
 
 
-[^1]: φονεύσεις：根據上下文判斷，這裡是命令的未來式 (進深，405 §8.5.2)，前面加上否定 (Οὐ)，逐字引用舊約 οὐ φονεύσεις (出20:15[LXX]/20:13[MT]; 申5:18[LXX]/5:17[MT])。
+[^1]: φονεύσεις：根據上下文判斷，這裡是命令的未來式（進深，405 §8.5.2），前面加上否定（Οὐ），逐字引用舊約 οὐ φονεύσεις (出20:15[LXX]/20:13[MT]; 申5:18[LXX]/5:17[MT])。
 
-[^2]: ἔσται：根據上下文判斷，ἔσται [V-FDI-3S] 內含的主詞 (3S) 是指上文 5:21e 的 ὃς，所以在此還是扮演聯繫動詞 (聯繫 S、C) 的功能，不是表達存在。
+[^2]: ἔσται：根據上下文判斷，ἔσται [V-FDI-3S] 內含的主詞（3S）是指上文 5:21e 的 ὃς，所以在此還是扮演聯繫動詞（聯繫 S、C）的功能，不是表達存在。
 
-[^3]: τῇ κρίσει：間接受格片語，兩種理解方式：(a) 根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=01777&m=)，把 τῇ κρίσει 當作是補充說明 ἔνοχος (5:21f 的補語) 的執法處，所以要標示成 +C (補語的補語)；(b) 對照後續 5:22h εἰς τὴν γέενναν τοῦ πυρός 的平行結構，把 τῇ κρίσει 當作是表達地方 (進深，190 §4.3.1) 的間接受格，修飾主要動詞 ἔσται。
+[^3]: τῇ κρίσει：間接受格片語，兩種理解方式：(a) 根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=01777&m=)，把 τῇ κρίσει 當作是補充說明 ἔνοχος (5:21f 的補語) 的執法處，所以要標示成 +C (補語的補語)；(b) 對照後續 5:22h εἰς τὴν γέενναν τοῦ πυρός 的平行結構，把 τῇ κρίσει 當作是表達地方（進深，190 §4.3.1）的間接受格，修飾主要動詞 ἔσται。
 
 [^4]: ὃς ἂν φονεύσῃ：關係內嵌子句，當作整個子句的 S。
 
-[^5]: ἴσθι εὐνοῶν：限定動詞 (ἴσθι)＋現在式分詞 (εὐνοῶν)＝現在式的迂說分詞 (進深，511 §10.5.3.1)。
+[^5]: ἴσθι εὐνοῶν：限定動詞（ἴσθι）＋現在式分詞（εὐνοῶν）＝現在式的迂說分詞（進深，511 §10.5.3.1）。
 
 [^6]: ἕως ὅτου：根據 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=02193&m=)，ἕως ὅτου 是表達時間的慣用語，根據上下文判斷，在此表達「當……的時候」。

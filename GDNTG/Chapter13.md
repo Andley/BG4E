@@ -146,7 +146,7 @@ number headings: auto, first-level 1, start-at 13
 
 #### 13.3.5.1 線狀圖析 Line Diagramming
 
-#### 13.3.5.2 追溯論點 (弧線法與支線法) Tracing the Argument (Arcing and Bracketing)
+#### 13.3.5.2 追溯論點（弧線法與支線法）Tracing the Argument (Arcing and Bracketing)
 
 #### 13.3.5.3 短語圖析 Phrase Diagrams
 - 彼前1:1 <RUBY><ruby><ruby>Πέτρος<rt>彼得 Peter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04074&m='>Πέτρος</a></rt></ruby><rt>N-NSM</rt></RUBY> 

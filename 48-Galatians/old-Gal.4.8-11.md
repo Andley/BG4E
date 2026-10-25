@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 4:8-11)
+#### 圖析（Gal 4:8-11）
 - 4:8a <RUBY><ruby><ruby>Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 4:8b ‹<RUBY><ruby><ruby>τότε<rt>τότε</rt></ruby><rt>at that time</rt></ruby><rt>ADV</rt></RUBY>›a ‹<RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY>›a <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>εἰδότες</mark><rt>οἶδα</rt></ruby><rt>knowing</rt></ruby><rt>V-RAP-NPM</rt></RUBY> ‹<RUBY><ruby><ruby>Θεὸν<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-ASM</rt></RUBY>›c)A°¹⮧
 - 4:8c <RUBY><ruby><ruby><mark><mark class='verb'>ἐδουλεύσατε°¹</mark></mark><rt>δουλεύω</rt></ruby><rt>you were enslaved</rt></ruby><rt>V-AAI-2P</rt></RUBY> 

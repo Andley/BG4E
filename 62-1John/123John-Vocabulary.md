@@ -3,10 +3,10 @@ title: "123John-Vocabulary"
 date: 2026-07-04
 draft: false
 ---
-# 約翰書信 (123John) 詞彙分析
+# 約翰書信（123John）詞彙分析
 
-## 詞彙頻率 (≧ 5x)
-### 功能詞 (Function Words)
+## 詞彙頻率（≧ 5x）
+### 功能詞（Function Words）
 
 | 連接詞 | 介系詞 |
 |---|---|
@@ -23,7 +23,7 @@ draft: false
 | εἰ, if (8x) | ζωή, -ῆς, ἡ, life (13x) |
 
 
-### 內容詞 (Content Words)
+### 內容詞（Content Words）
 
 | 動詞 | 名詞 |
 |------|------|
@@ -58,7 +58,7 @@ draft: false
 
 ## Hapax legomenon (罕見字、生僻字、孤寡字)
 
-- 除了名字 (丟特腓 Διοτρέφης) 之外，在新約當中只出現過一次的字 (Hapax legomenon) 總共 4 個。
+- 除了名字（丟特腓 Διοτρέφης）之外，在新約當中只出現過一次的字（Hapax legomenon）總共 4 個。
 	- νίκη = victory
 	- φιλοπρωτεύω	(φίλος, πρό) = desire to be first
 	- φλυαρέω	(φλύαρος) = to slander; talk nonsense

@@ -3,7 +3,7 @@ title: "Jas.1.2-8"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 1:2-8)
+## 圖析（Jas 1:2-8）
 
 - 1:2a (<RUBY><ruby><ruby>Πᾶσαν<rt>πᾶς</rt></ruby><rt>大</rt></ruby><rt>A-ASF</rt></RUBY> <RUBY><ruby><ruby>χαρὰν<rt>χαρά</rt></ruby><rt>喜樂</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἡγήσασθε</mark><rt>ἡγέομαι</rt></ruby><rt>認為</rt></ruby><rt>V-AMM-2P</rt></RUBY>)<mark>P°¹</mark> (<mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY>)V <mark class='punctuation'>,</mark> 
 	- 1:2b <RUBY><ruby><ruby>ὅταν<rt>ὅταν</rt></ruby><rt>時候</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πειρασμοῖς<rt>πειρασμός</rt></ruby><rt>試煉</rt></ruby><rt>N-DPM</rt></RUBY>)(<RUBY><ruby><ruby><mark class='verb'>περιπέσητε</mark><rt>περιπίπτω</rt></ruby><rt>遭遇</rt></ruby><rt>V-AAS-2P</rt></RUBY>)P ⦈(<RUBY><ruby><ruby>ποικίλοις<rt>ποικίλος</rt></ruby><rt>各種</rt></ruby><rt>A-DPM</rt></RUBY>)C <mark class='punctuation'>,</mark>
@@ -26,29 +26,29 @@ draft: false
 	- 1:8a (<RUBY><ruby><ruby>ἀνὴρ<rt>ἀνήρ</rt></ruby><rt>人</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>δίψυχος<rt>δίψυχος</rt></ruby><rt>心懷二意的</rt></ruby><rt>A-NSM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀκατάστατος<rt>ἀκατάστατος</rt></ruby><rt>搖擺不定</rt></ruby><rt>A-NSM</rt></RUBY>)=S°⁵⮥ (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>在...上</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πάσαις<rt>πᾶς</rt></ruby><rt>一切</rt></ruby><rt>A-DPF</rt></RUBY> <RUBY><ruby><ruby>ταῖς<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-DPF</rt></RUBY> <RUBY><ruby><ruby>ὁδοῖς<rt>ὁδός</rt></ruby><rt>路</rt></ruby><rt>N-DPF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>他</rt></ruby><rt>P-GSM</rt></RUBY>)A°⁴⮥ <mark class='punctuation'>.</mark> 
 
 
-## 大綱 (按照圖析的結構)
+## 大綱（按照圖析的結構）
 - (I) 要喜樂！(1:2-4)
 	- (A) 時間——落入試驗的時候
 	- (B) 原因——因為知道：
 		- (1) 試驗產生忍耐
 		- (2) 忍耐必定！成功 ⇒ 成全完備、一無所缺
 - (II) 要懇求！(1:5)
-	- (A) 誰該求？——缺乏智慧 (如何勝過試驗之智慧) 的人
+	- (A) 誰該求？——缺乏智慧（如何勝過試驗之智慧）的人
 	- (B) 跟誰求？——厚賜人又不責備人的神
-	- (c) 應許——必得賞賜 (如何勝過試驗之智慧)
+	- (c) 應許——必得賞賜（如何勝過試驗之智慧）
 - (IIII) 要帶著信心求！(1:6-8)
-	- 方法：對神一點都不懷疑 (1:6b)
-	- 原因#1：懷疑的人會被環境左右 (1:6c)
-	- 原因#2：懷疑的人對神有錯誤的期待 (1:7-8)
+	- 方法：對神一點都不懷疑（1:6b）
+	- 原因#1：懷疑的人會被環境左右（1:6c）
+	- 原因#2：懷疑的人對神有錯誤的期待（1:7-8）
 
 ---
-## 圖析 & 大綱 (Thought-Flow Diagram)
+## 圖析 & 大綱（Thought-Flow Diagram）
 source: Richard A. Young, _Intermediate New Testament Greek: A Linguistic and Exegetical Approach_ (Nashville, Tenn: Broadman & Holman, 1994), 272-3.
 ![[../images/Pasted image 20221208210229.png]]
 
 ![[../images/Pasted image 20221208210320.png]]
 
-#### 圖析 & 大綱 (Semantic Structure Analysis)
+#### 圖析 & 大綱（Semantic Structure Analysis）
 source: Richard A. Young, _Intermediate New Testament Greek: A Linguistic and Exegetical Approach_ (Nashville, Tenn: Broadman & Holman, 1994), 277.
 
 ![[../images/Pasted image 20221208211602.png]]

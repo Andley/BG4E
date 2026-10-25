@@ -3,7 +3,7 @@ title: "Jas.2.14-26"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 2:14-26)
+## 圖析（Jas 2:14-26）
 
 - 2:14a (<RUBY><ruby><ruby>Τί<rt>τίς</rt></ruby><rt>什麼</rt></ruby><rt>I-NSN</rt></RUBY>)C (<RUBY><ruby><ruby>τὸ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὄφελος<rt>ὄφελος</rt></ruby><rt>益處</rt></ruby><rt>N-NSN</rt></RUBY>)S (<mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>我的</rt></ruby><rt>P-1GS</rt></RUBY>)V <mark class='punctuation'>,</mark> 
 	- 2:14b <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>若</rt></ruby><rt>CONJ</rt></RUBY> {(<RUBY><ruby><ruby>πίστιν<rt>πίστις</rt></ruby><rt>信心</rt></ruby><rt>N-ASF</rt></RUBY>)c}(<RUBY><ruby><ruby><mark class='verb'>λέγῃ</mark><rt>λέγω</rt></ruby><rt>說</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>有人</rt></ruby><rt>X-NSM</rt></RUBY>)S ⦈{(<RUBY><ruby><ruby><mark class='inf'>ἔχειν</mark><rt>ἔχω</rt></ruby><rt>有</rt></ruby><rt>V-PAN</rt></RUBY>)p}C <mark class='punctuation'>,</mark> 

@@ -2,13 +2,13 @@
 
 ---
 
-一、 除外用法 / 限制性用法 (Exceptive / Restrictive Use)
+一、 除外用法 / 限制性用法（Exceptive / Restrictive Use）
 
 - **學術地位**：① 學界共識3more_horiz。
-- **句法機制**：在希臘文句法中，**除外條件子句 (Exceptive Conditional Clause)** 或 **限制性連接 (Restrictive Connection)** 是指用以引導一個特定例外情況的結構3more_horiz。它通常跟在全盤否定的主句（Apodosis）之後，用來指明唯一的例外情況，在語意上等同於介系詞 $\text{πλήν}$**（除了……之外 / except, unless）**1more_horiz。
+- **句法機制**：在希臘文句法中，**除外條件子句（Exceptive Conditional Clause）** 或 **限制性連接（Restrictive Connection）** 是指用以引導一個特定例外情況的結構3more_horiz。它通常跟在全盤否定的主句（Apodosis）之後，用來指明唯一的例外情況，在語意上等同於介系詞 $\text{πλήν}$**（除了……之外 / except, unless）**1more_horiz。
 - 此用法主要分為兩種結構：
-    1. **無定形動詞結構 (Elliptical Construction / 省略動詞)**：這是最常見的型態，除外子句直接省略了與主句相同的謂語動詞，直接連接介系詞短語或名詞79。
-    2. **帶定形動詞結構 (With Finite Verb)**：在除外子句中保留了定形動詞47。
+    1. **無定形動詞結構（Elliptical Construction / 省略動詞）**：這是最常見的型態，除外子句直接省略了與主句相同的謂語動詞，直接連接介系詞短語或名詞79。
+    2. **帶定形動詞結構（With Finite Verb）**：在除外子句中保留了定形動詞47。
 - **代表學者與文獻標註**：
     - Siebenthal, _AGG_, 543 (§286b)4.
     - Blass, Debrunner, and Funk, _BDF_, 195 (§376)79.
@@ -30,7 +30,7 @@
 
 ---
 
-二、 對立 / 轉折用法 (Adversative / Contrary Use)
+二、 對立 / 轉折用法（Adversative / Contrary Use）
 
 - **學術地位**：① 學界共識6more_horiz。
 - **句法機制**：在特定語境中，$\text{εἰ μή}$（或偶爾的 $\text{ἐὰν μή}$）的語意已經從單純的「例外」轉化為強烈的轉折連詞，相當於 $\text{ἀλλά}$**（而是 / but rather, on the contrary）**6more_horiz。它不再是保留主句全盤否定下的微小例外，而是徹底推翻前述命題，用以後方肯定的成分來取代前者1015。
@@ -52,12 +52,12 @@
 
 ---
 
-三、 條件子句中的否定 (Simple Conditional Negative in Protasis)
+三、 條件子句中的否定（Simple Conditional Negative in Protasis）
 
 - **學術地位**：① 學界共識19more_horiz。
-- **句法機制**：當這兩個複合詞被用在常規的**條件句 (Conditional Sentence)** 的條件從句（Protasis）中，用以引導負面的先決條件，意為「如果沒有 / 如果不（if not）」19more_horiz。
-    - $\text{εἰ μή}$ 搭配**直說語氣 (Indicative Mood)**，多用於「第一類（簡單邏輯）條件句」或「第二類（與事實相反 / Unreal）條件句」9more_horiz。
-    - $\text{ἐὰν μή}$ 搭配**虛擬語氣 (Subjunctive Mood)**，用於「第三類（預期 / Prospective）條件句」或「第五類（一般性 / General）條件句」22more_horiz。
+- **句法機制**：當這兩個複合詞被用在常規的**條件句（Conditional Sentence）** 的條件從句（Protasis）中，用以引導負面的先決條件，意為「如果沒有 / 如果不（if not）」19more_horiz。
+    - $\text{εἰ μή}$ 搭配**直說語氣（Indicative Mood）**，多用於「第一類（簡單邏輯）條件句」或「第二類（與事實相反 / Unreal）條件句」9more_horiz。
+    - $\text{ἐὰν μή}$ 搭配**虛擬語氣（Subjunctive Mood）**，用於「第三類（預期 / Prospective）條件句」或「第五類（一般性 / General）條件句」22more_horiz。
 - **代表學者與文獻標註**：
     - Siebenthal, _AGG_, 538 (§280b)20.
     - Blass, Debrunner, and Funk, _BDF_, 257 (§371f)9more_horiz.
@@ -72,7 +72,7 @@
 
 ---
 
-四、 特殊與固定習慣用法 (Special and Fixed Idiomatic Formulas)
+四、 特殊與固定習慣用法（Special and Fixed Idiomatic Formulas）
 
 1. $\text{εἰ δὲ μή}$ 或 $\text{εἰ δὲ μήγε}$（Otherwise / 否則、不然）
 
@@ -89,7 +89,7 @@
 2. $\text{εἶ μήν}$ 或 $\text{εἰ μήν}$（Surely, certainly / 確實、必定）
 
 - **學術地位**：① 學界共識36more_horiz。
-- **句法機制**：在古希臘語中原本寫作 $\text{ἦ μήν}$，用於莊嚴的起誓37more_horiz。但在希臘化時期（Koine），由於語音上的「等音現象 (Itacism)」，$\text{ἦ}$ 與 $\text{εἰ}$ 發音完全相同，手抄本遂廣泛將其拼寫為 $\text{εἰ μήν}$（或作 $\text{εἶ μήν}$）36more_horiz。它此時是一個**確認小品詞 (Assertive Particle)**，完全不具備「如果」或「不」的條件及否定含意36more_horiz。
+- **句法機制**：在古希臘語中原本寫作 $\text{ἦ μήν}$，用於莊嚴的起誓37more_horiz。但在希臘化時期（Koine），由於語音上的「等音現象（Itacism）」，$\text{ἦ}$ 與 $\text{εἰ}$ 發音完全相同，手抄本遂廣泛將其拼寫為 $\text{εἰ μήν}$（或作 $\text{εἶ μήν}$）36more_horiz。它此時是一個**確認小品詞（Assertive Particle）**，完全不具備「如果」或「不」的條件及否定含意36more_horiz。
 - **代表學者與文獻標註**：
     - Danker et al., _BDAG_, 24738.
     - Blass, Debrunner, and Funk, _BDF_, 24 (§24)40.

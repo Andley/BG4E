@@ -1,6 +1,6 @@
 ### Salutation (Gal 1.1-5)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 - 1:1a (⸢<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03972&m='>Παῦλος</a></span><span class="g">保羅 Paul</span><span class="t">Παῦλος</span></span>  <span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></span><span class="g">使徒 an apostle</span><span class="t">ἀπόστολος</span></span> ⸣ 
 	- 1:1b <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">不是 not</span><span class="t">οὐκ</span></span>  ⸢<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></span><span class="g">由於 from</span><span class="t">ἀπ᾽</span></span>  <span class="w"><span class="m">N-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00444&m='>ἄνθρωπος</a></span><span class="g">人 men</span><span class="t">ἀνθρώπων</span></span> ⸣ 
@@ -13,23 +13,23 @@
 		- 1:5 (<span class="w"><span class="m">R-DSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></span><span class="g">歸給他 to whom [be]</span><span class="t">ᾧ</span></span> ⮥°²)C (<span class="w"><span class="m">T-NSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">ἡ</span></span>  <span class="w"><span class="m">N-NSF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01391&m='>δόξα</a></span><span class="g">榮耀 glory</span><span class="t">δόξα</span></span> )S (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></span><span class="g">直到 to</span><span class="t">εἰς</span></span>  ⸢<span class="w"><span class="m">T-APM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τοὺς</span></span>  <span class="w"><span class="m">N-APM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></span><span class="g">永遠 ages</span><span class="t">αἰῶνας</span></span> ⸣ ⸢<span class="w"><span class="m">T-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- of the</span><span class="t">τῶν</span></span>  <span class="w"><span class="m">N-GPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00165&m='>αἰών</a></span><span class="g">永遠 ages</span><span class="t">αἰώνων</span></span>  ⸣)A <span class='punctuation'>,</span> <span class="w"><span class="m">HEB</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00281&m='>ἀμήν</a></span><span class="g">阿們 Amen</span><span class="t">ἀμήν</span></span>  <span class='punctuation'>.</span><span class='paragraph'></span>
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 - 1:1 Παῦλος ἀπόστολος οὐκ ἀπ᾽ ἀνθρώπων οὐδὲ δι᾽ ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ Θεοῦ Πατρὸς τοῦ <span class='ptc'>ἐγείραντος</span> αὐτὸν ἐκ νεκρῶν , 1:2 καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί Ταῖς ἐκκλησίαις τῆς Γαλατίας , 
-	- 1:1-2 是一個完 整的子句，主語 (寄信人) 是使徒保羅 (Παῦλος ἀπόστολος) 連同眾弟兄 (οἱ σὺν ἐμοὶ πάντες ἀδελφοὶ ταῖς)；補語 (收信人) 是加拉太地區的眾教會 ( ταῖς ἐκκλησίαις τῆς Γαλατίας)；述語則是按照書信慣例省略。
-	- 1:1a Παῦλος ἀπόστολος：主格的 ἀπόστολος 是 Παῦλος 的同位語 (進深，86-7)。
-	- 保羅用了三組介系詞當形容詞用 (進深，597)，藉以澄清他使徒 (ἀπόστολος) 的身分：
-		- 1:1b 不是 (οὐκ) 出於 (ἀπ᾽) 眾人(ἀνθρώπων，複數)
-		- 1:1c 也不是 (οὐδὲ) 透過 (δι᾽) 某個人 (ἀνθρώπου，單數)
-		- 1:!d 而是 (ἀλλὰ，推翻前面兩組片語) 透過 (δι᾽) 耶穌基督與父神
-			-  1:1d θεοῦ πατρὸς τοῦ <span class='ptc'>ἐγείραντος</span> αὐτὸν ἐκ νεκρῶ 是「名詞(θεοῦ πατρὸ)—冠詞(τοῦ)—分詞內嵌子句(ἐγείραντος αὐτὸν ἐκ νεκρῶ)」的結構，屬於分詞形容用法的第三位置 (進深，251)。τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶ 是形容用法的分詞內嵌子句 (進深，484-5)，修飾前面的父神，因此分詞 ἐγείραντος 的格數性 [GSM] 必須與 θεοῦ πατρὸς [GSM] 相同。
-	- 1:2 σὺν ἐμοὶ 是介系詞片語當形容詞用 (進深，597)，使 οἱ σὺν ἐμοὶ ... ἀδελφοί 成為「T(οἱ)—A(σὺν ἐμο)—N(ἀδελφοί)」形容用法的第一位置 (進深，246)。
+	- 1:1-2 是一個完 整的子句，主語（寄信人）是使徒保羅（Παῦλος ἀπόστολος）連同眾弟兄（οἱ σὺν ἐμοὶ πάντες ἀδελφοὶ ταῖς)；補語（收信人）是加拉太地區的眾教會 ( ταῖς ἐκκλησίαις τῆς Γαλατίας）；述語則是按照書信慣例省略。
+	- 1:1a Παῦλος ἀπόστολος：主格的 ἀπόστολος 是 Παῦλος 的同位語（進深，86-7）。
+	- 保羅用了三組介系詞當形容詞用（進深，597)，藉以澄清他使徒 (ἀπόστολος）的身分：
+		- 1:1b 不是（οὐκ）出於（ἀπ᾽）眾人（ἀνθρώπων，複數）
+		- 1:1c 也不是（οὐδὲ）透過（δι᾽）某個人（ἀνθρώπου，單數）
+		- 1:!d 而是（ἀλλὰ，推翻前面兩組片語）透過（δι᾽）耶穌基督與父神
+			-  1:1d θεοῦ πατρὸς τοῦ <span class='ptc'>ἐγείραντος</span> αὐτὸν ἐκ νεκρῶ 是「名詞（θεοῦ πατρὸ）—冠詞（τοῦ）—分詞內嵌子句（ἐγείραντος αὐτὸν ἐκ νεκρῶ）」的結構，屬於分詞形容用法的第三位置（進深，251）。τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶ 是形容用法的分詞內嵌子句（進深，484-5），修飾前面的父神，因此分詞 ἐγείραντος 的格數性 [GSM] 必須與 θεοῦ πατρὸς [GSM] 相同。
+	- 1:2 σὺν ἐμοὶ 是介系詞片語當形容詞用（進深，597），使 οἱ σὺν ἐμοὶ ... ἀδελφοί 成為「T(οἱ)—A(σὺν ἐμο)—N(ἀδελφοί)」形容用法的第一位置（進深，246）。
 		- πᾶς 通常擺在T—N 結構之前、或之後；但在 1:2 οἱ ... πᾶς ἀδελφοί 擺在冠詞與名詞之間，「是指整體而論的名詞，不是單獨個體性的名詞」(BAGD 一、F)，強調整體性。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 1:3 Χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ 1:4a τοῦ <span class='ptc'>δόντος</span> ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν <span class='punctuation'>,</span> 1:4b ὅπως <span class='verb'>ἐξέληται</span> ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ <span class='ptc'>ἐνεστῶτος</span> πονηροῦ κατὰ τὸ θέλημα τοῦ Θεοῦ καὶ Πατρὸς ἡμῶν <span class='punctuation'>,</span> 1:5 ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων <span class='punctuation'>,</span> ἀμήν <span class='punctuation'>.</span><span class='paragraph'></span>- 
-	- 1:3-5 是一個完整的子句，按照新約書信慣例省略了聯繫動詞 (可能是 ἐστιν)，主語 (χάρις ... καὶ εἰρήνη) 被切成兩半的現象在希臘文很常見，文法上稱之為 hyperbaton (ATR, 424-25; AGG, §292c)——只是中間插入的是人稱代名詞補語 (ὑμῖν)，在新約是習慣用法，沒有強調的意思 (AGG, §128b)。
-	- 1:3 ...κυρίου Ἰησοῦ Χριστοῦ 1:4a τοῦ <span class='ptc'>δόντος</span> ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶ 又是「名詞(κυρίου Ἰησοῦ Χριστοῦ)—冠詞(τοῦ)—分詞內嵌子句(PE)」的結構，屬於分詞形容用法的第三位置 (進深, 251)；1:4a  τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶ 也是形容用法的分詞內嵌子句 (進深, 484-5)，修飾前面的主耶穌基督，因此分詞 <span class='ptc'>δόντος</span> 的格數性 [GSM] 必須與 θεοῦ πατρὸς [GSM] 相同。
-	- 1:4b 從屬連接詞 ὅπως 帶出從屬子句，表達目的、結果 (進深, 621)。文法上固然可以接續 1:3 或 1:4a，但從上下文判斷應該是接續 1:4a，表達耶穌基督 ἐξέληται (拯救) 的目的。
-		- 其中  τοῦ θεοῦ καὶ πατρὸς 是「冠詞(T)—實名詞(S)—καὶ(K)—實名詞(S)」的結構，符合夏普規則 (進深，239-41)，指向同一個人。
-	- 1:5 同樣也是省略了動詞，關係代名詞 ᾧ  (進深，590-1) 的性數 [SM] 指向 1:4b 同樣是 [SM] 的先行詞 (τοῦ θεοῦ καὶ πατρὸς)，而格 [D] 則表達在 1:5 子句中的功用。
-		- ἀμήν：希伯來文 אָמֵן，頌讚的結語，表示誠心所願，實在的，阿們 (BAGD)。
+	- 1:3-5 是一個完整的子句，按照新約書信慣例省略了聯繫動詞（可能是 ἐστιν)，主語（χάρις ... καὶ εἰρήνη）被切成兩半的現象在希臘文很常見，文法上稱之為 hyperbaton (ATR, 424-25; AGG, §292c）——只是中間插入的是人稱代名詞補語（ὑμῖν），在新約是習慣用法，沒有強調的意思（AGG, §128b）。
+	- 1:3 ...κυρίου Ἰησοῦ Χριστοῦ 1:4a τοῦ <span class='ptc'>δόντος</span> ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶ 又是「名詞（κυρίου Ἰησοῦ Χριστοῦ）—冠詞（τοῦ）—分詞內嵌子句（PE）」的結構，屬於分詞形容用法的第三位置（進深, 251）；1:4a  τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶ 也是形容用法的分詞內嵌子句（進深, 484-5），修飾前面的主耶穌基督，因此分詞 <span class='ptc'>δόντος</span> 的格數性 [GSM] 必須與 θεοῦ πατρὸς [GSM] 相同。
+	- 1:4b 從屬連接詞 ὅπως 帶出從屬子句，表達目的、結果（進深, 621)。文法上固然可以接續 1:3 或 1:4a，但從上下文判斷應該是接續 1:4a，表達耶穌基督 ἐξέληται (拯救）的目的。
+		- 其中  τοῦ θεοῦ καὶ πατρὸς 是「冠詞（T）—實名詞（S）—καὶ(K)—實名詞（S）」的結構，符合夏普規則（進深，239-41），指向同一個人。
+	- 1:5 同樣也是省略了動詞，關係代名詞 ᾧ  (進深，590-1) 的性數 [SM] 指向 1:4b 同樣是 [SM] 的先行詞（τοῦ θεοῦ καὶ πατρὸς），而格 [D] 則表達在 1:5 子句中的功用。
+		- ἀμήν：希伯來文 אָמֵן，頌讚的結語，表示誠心所願，實在的，阿們（BAGD）。

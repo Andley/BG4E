@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-#### 圖析 (Php 1:1-2)
+#### 圖析（Php 1:1-2）
 - 1:1a (<RUBY><ruby><ruby>Παῦλος<rt>Παῦλος</rt></ruby><rt>Paul</rt></ruby><rt>N-NSM-P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Τιμόθεος<rt>Τιμόθεος</rt></ruby><rt>Timothy</rt></ruby><rt>N-NSM-P</rt></RUBY>)S =(<RUBY><ruby><ruby>δοῦλοι<rt>δοῦλος</rt></ruby><rt>servants</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY>›)S (1:1b)C ={1:1c}C
 	- ············ 理解A： T—N(ἁγίοις)—A(ἐν Χριστῷ Ἰησοῦ)
 	- 1:1b <RUBY><ruby><ruby>Πᾶσιν<rt>πᾶς</rt></ruby><rt>To all</rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>ἁγίοις<rt>ἅγιος</rt></ruby><rt>saints</rt></ruby><rt>A-DPM</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)

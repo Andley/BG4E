@@ -3,7 +3,7 @@ title: "Php.2.12-18"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 2:12-18)
+#### 圖析（Php 2:12-18）
 - 2:12a <RUBY><ruby><ruby>Ὥστε ,<rt>ὥστε</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητοί<rt>ἀγαπητός</rt></ruby><rt>beloved</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μου ,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> 
 - ·······
 	- 2:12b { <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY>  (<RUBY><ruby><ruby>πάντοτε<rt>πάντοτε</rt></ruby><rt>always</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ὑπηκούσατε ,</mark><rt>ὑπακούω</rt></ruby><rt>you have obeyed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P }°¹⮧

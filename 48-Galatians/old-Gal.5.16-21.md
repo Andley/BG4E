@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 5:16-21)
+#### 圖析（Gal 5:16-21）
 
 - 5:16a (<RUBY><ruby><ruby><mark class='verb'>Λέγω</mark><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 5:16b (<RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>by [the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>περιπατεῖτε</mark><rt>περιπατέω</rt></ruby><rt>walk</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P

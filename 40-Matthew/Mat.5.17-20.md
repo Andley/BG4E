@@ -29,24 +29,24 @@ draft: false
 		- 5:20c <RUBY><ruby><ruby>ἐὰν<rt>若 unless</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01437&m='>ἐάν</a></rt></ruby><rt>COND</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>不</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>περισσεύσῃ</span><rt>勝於 exceeds</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04052&m='>περισσεύω</a></rt></ruby><rt>V-AAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῶν<rt>你們的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05216&m='>σύ</a></rt></ruby><rt>P-2GP</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνη<rt>義 righteousness</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01343&m='>δικαιοσύνη</a></rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>πλεῖον<rt>更 beyond [that]</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04119&m='>πολύς</a></rt></ruby><rt>A-ASN-C</rt></RUBY>[^9] ‹<RUBY><ruby><ruby>τῶν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>γραμματέων<rt>文士 scribes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01122&m='>γραμματεύς</a></rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>和 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Φαρισαίων<rt>法利賽人 Pharisees</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05330&m='>Φαρισαῖος</a></rt></ruby><rt>N-GPM</rt></RUBY>›[^10] )A , 
 	- 5:20d <RUBY><ruby><ruby>οὐ<rt>斷不 never</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03361&m='>μή</a></rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><span class='verb'>εἰσέλθητε</span><rt>進 enter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01525&m='>εἰσέρχομαι</a></rt></ruby><rt>V-2AAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>into</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>βασιλείαν<rt>國 kingdom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00932&m='>βασιλεία</a></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>of the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>οὐρανῶν<rt>天 heaven</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03772&m='>οὐρανός</a></rt></ruby><rt>N-GPM</rt></RUBY>)A . 
 
-[^1]: Μὴ：動詞 (νομίσητε) 是非直說語氣，所以否定的語助詞要用 Μὴ (進深，632 §12.7.1)
+[^1]: Μὴ：動詞（νομίσητε）是非直說語氣，所以否定的語助詞要用 Μὴ (進深，632 §12.7.1)
 
-[^2]: ὅτι：從屬連接詞 (進深，620 §12.5.2)，可以表達原因 (進深，622)、陳述 (進深，623)——根據上下文判斷，這裡應該是陳述 (進深，623)。
+[^2]: ὅτι：從屬連接詞（進深，620 §12.5.2），可以表達原因（進深，622）、陳述（進深，623）——根據上下文判斷，這裡應該是陳述（進深，623）。
 
-[^3]: καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας：不定詞內嵌子句，當作副詞使用 (進深，541 §11.4)，修飾主要動詞 (ἦλθον)，表達目的 (進深，542-4 §11.4.2)。
+[^3]: καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας：不定詞內嵌子句，當作副詞使用（進深，541 §11.4），修飾主要動詞（ἦλθον），表達目的（進深，542-4 §11.4.2）。
 
-[^4]: ἕως：雖然 Macula-Clear Bible 給的詞形代碼是 ADV，但查 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=02193&m=) 會看到這個字可以當從屬連接詞 (進深，620 §12.5.2) 表達時間 (進深，623)，也可以當 improper (非固有、不純) 介系詞 (進深，614 §12.4.3)。根據上下文判斷，5:18b ἕως 帶出完整的子句，所以在此當作連接詞比較恰當，要退後一排，修飾 5:18c 的主要動詞 (παρέλθῃ)。
+[^4]: ἕως：雖然 Macula-Clear Bible 給的詞形代碼是 ADV，但查 [BAGD](https://bible.fhl.net/new/s.php?N=0&k=02193&m=) 會看到這個字可以當從屬連接詞（進深，620 §12.5.2）表達時間（進深，623)，也可以當 improper (非固有、不純）介系詞（進深，614 §12.4.3）。根據上下文判斷，5:18b ἕως 帶出完整的子句，所以在此當作連接詞比較恰當，要退後一排，修飾 5:18c 的主要動詞（παρέλθῃ）。
 
-[^5]: παρέλθῃ：單數動詞，但主語卻是複數——但這裡的不一致 (discord) 應該不是為了要強調複合主詞中的一個 (進深，288 §16.2)，而是修辭的重言法 (hendiadys 進深，690 §13.3.5.4.2)，用兩個字來表達一個概念 (進深，728)。
+[^5]: παρέλθῃ：單數動詞，但主語卻是複數——但這裡的不一致（discord）應該不是為了要強調複合主詞中的一個（進深，288 §16.2），而是修辭的重言法（hendiadys 進深，690 §13.3.5.4.2），用兩個字來表達一個概念（進深，728）。
 
-[^6]: οὐ μὴ：強烈否定的假設語氣 (進深，307-9 §6.4.2.2.3)
+[^6]: οὐ μὴ：強烈否定的假設語氣（進深，307-9 §6.4.2.2.3）
 
 [^7]: ἕως：與 5:18b 形成三明治結構。
 
-[^8]: τῶν ἐντολῶν ... τῶν ἐλαχίστων：T—N—T—A 形容用法第二位置 (進深，251 §5.2.4.1.2) 的結構，意思是：最小的律法。
+[^8]: τῶν ἐντολῶν ... τῶν ἐλαχίστων：T—N—T—A 形容用法第二位置（進深，251 §5.2.4.1.2）的結構，意思是：最小的律法。
 
-[^9]: πλεῖον：中性、直接受格，是把形容詞當作副詞使用 (進深，253 §5.2.6)。
+[^9]: πλεῖον：中性、直接受格，是把形容詞當作副詞使用（進深，253 §5.2.6）。
 
-[^10]: τῶν γραμματέων καὶ Φαρισαίων：根據上下文判斷，這是所有格的比較用法 (進深，150 §3.4.4)。整個片語看似合乎 T—S—K—S (夏普結構)，但因為都是複數，所以其實並非夏普規則 (進深，239-41 §5.1.5.1)。
+[^10]: τῶν γραμματέων καὶ Φαρισαίων：根據上下文判斷，這是所有格的比較用法（進深，150 §3.4.4）。整個片語看似合乎 T—S—K—S (夏普結構)，但因為都是複數，所以其實並非夏普規則（進深，239-41 §5.1.5.1）。
 
 

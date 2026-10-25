@@ -3,7 +3,7 @@ title: "Heb.3.7-4.13"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Heb 3:7-4:13) 
+## 圖析（Heb 3:7-4:13）
 
 - 3:7a <RUBY><ruby><ruby>Διό<rt>διό</rt></ruby><rt>所以</rt></ruby><rt>CONJ</rt></RUBY> <mark class='punctuation'>,</mark> 
 	- 3:7b <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>正如</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>λέγει</mark><rt>λέγω</rt></ruby><rt>說</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>πνεῦμα</rt></ruby><rt>靈</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>Ἅγιον<rt>ἅγιος</rt></ruby><rt>聖</rt></ruby><rt>A-NSN</rt></RUBY>)S <mark class='punctuation'>·</mark> 

@@ -3,7 +3,7 @@ title: "Php.2.1-11"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 2:1-11)
+#### 圖析（Php 2:1-11）
 - 2:1a ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 2:1b <RUBY><ruby><ruby>Εἴ<rt>εἰ</rt></ruby><rt>If [there is]</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τις<rt>τις</rt></ruby><rt>any</rt></ruby><rt>X-NSF</rt></RUBY> ⸉...⸊ <RUBY><ruby><ruby>παράκλησις<rt>παράκλησις</rt></ruby><rt>encouragement</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ ,<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY>)A 
 	- 2:1c <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τι<rt>τις</rt></ruby><rt>any</rt></ruby><rt>X-NSN</rt></RUBY> <RUBY><ruby><ruby>παραμύθιον<rt>παραμύθιον</rt></ruby><rt>comfort</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης ,<rt>ἀγάπη</rt></ruby><rt>of love</rt></ruby><rt>N-GSF</rt></RUBY>)S ...ἐν Χριστῷ...

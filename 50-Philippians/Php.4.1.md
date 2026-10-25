@@ -3,7 +3,7 @@ title: "Php.4.1"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 4:1)
+#### 圖析（Php 4:1）
 
 - 4:1a <RUBY><ruby><ruby>Ὥστε ,<rt>ὥστε</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY>)S 
 - 4:1b (<RUBY><ruby><ruby>ἀγαπητοὶ<rt>ἀγαπητός</rt></ruby><rt>beloved</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐπιπόθητοι ,<rt>ἐπιπόθητος</rt></ruby><rt>longed for</rt></ruby><rt>A-VPM</rt></RUBY>)S

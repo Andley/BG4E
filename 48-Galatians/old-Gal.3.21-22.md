@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 3:21-22)
+#### 圖析（Gal 3:21-22）
 
 - 3:21a (<RUBY><ruby><ruby>Ὁ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-NSM</rt></RUBY>)<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>νόμος<rt>νόμος</rt></ruby><rt>Law</rt></ruby><rt>N-NSM</rt></RUBY>)S[^1] (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>[is] contrary to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GPF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελιῶν<rt>ἐπαγγελία</rt></ruby><rt>promises</rt></ruby><rt>N-GPF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ;<rt>θεός</rt></ruby><rt>of God?</rt></ruby><rt>N-GSM</rt></RUBY>)A 
 - 3:21b <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>Never</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>γένοιτο.</mark><rt>γίνομαι</rt></ruby><rt>may it be!</rt></ruby><rt>V-ADO-3S</rt></RUBY>)P[^2]
@@ -14,8 +14,8 @@ draft: true
 	- 3:22b <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελία<rt>ἐπαγγελία</rt></ruby><rt>promise</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>from Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>δοθῇ</mark><rt>δίδωμι</rt></ruby><rt>might be given</rt></ruby><rt>V-APS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>to those</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby><em>πιστεύουσιν.¶</em><rt>πιστεύω</rt></ruby><rt>believing</rt></ruby><rt>V-PAP-DPM</rt></RUBY>)C
 
 
-[^1]: Ὁ νόμος：νόμος 前面有冠詞，代表是指上文 (3:19) 提到過的摩西律法。
-[^2]: μὴ **γένοιτο**：μὴ＋祈願語氣 = 極其反對、極為痛恨的意思 (GGBB, 481-482)。
-[^3]: 第二類條件句，表達條件與作者主觀事實相反 (contray to subjective fact) 的情況 (GGBB, 694-696)。換言之，保羅認為：「能夠帶來生命的律法」這個假設根本不成立。條件子句 (3:21d) = εἰ＋不定過去式時態形式動詞；結果子句 (3:21e) = ἂν＋直說語氣動詞 (GGBB, 696)。
-[^4]: νόμος ὁ _δυνάμενος_ _ζωοποιῆσαι_：名詞＋冠詞＋分詞內嵌子句  N(νόμος)—T—A(分詞內嵌子句) 第三修飾位置 (GGBB, 307-309) 的結構。
+[^1]: Ὁ νόμος：νόμος 前面有冠詞，代表是指上文（3:19）提到過的摩西律法。
+[^2]: μὴ **γένοιτο**：μὴ＋祈願語氣 = 極其反對、極為痛恨的意思（GGBB, 481-482）。
+[^3]: 第二類條件句，表達條件與作者主觀事實相反（contray to subjective fact）的情況（GGBB, 694-696)。換言之，保羅認為：「能夠帶來生命的律法」這個假設根本不成立。條件子句（3:21d）= εἰ＋不定過去式時態形式動詞；結果子句（3:21e）= ἂν＋直說語氣動詞 (GGBB, 696）。
+[^4]: νόμος ὁ _δυνάμενος_ _ζωοποιῆσαι_：名詞＋冠詞＋分詞內嵌子句  N(νόμος)—T—A(分詞內嵌子句) 第三修飾位置（GGBB, 307-309）的結構。
 [^5]: τὰ πάντα：中性複數，代表 all things (萬有、所有受造物)，當然也包括人在內。

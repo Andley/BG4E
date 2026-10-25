@@ -2,7 +2,7 @@
 ###  Salutation (1Pe 1:1-2)
 
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 
 - 1:1 (<RUBY><ruby><ruby>Πέτρος<rt>彼得 Peter</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04074&m='>Πέτρος</a></rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀπόστολος<rt>使徒 an apostle</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00652&m='>ἀπόστολος</a></rt></ruby><rt>N-NSM</rt></RUBY> ⸢ <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌 of Jesus</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02424&m='>Ἰησοῦς</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY> ⸣)=S ( ⸢ <RUBY><ruby><ruby>Ἐκλεκτοῖς<rt>給蒙揀選 To [the] elect</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01588&m='>ἐκλεκτός</a></rt></ruby><rt>A-DPM</rt></RUBY> <RUBY><ruby><ruby>παρεπιδήμοις<rt>寄居的人 sojourners</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03927&m='>παρεπίδημος</a></rt></ruby><rt>A-DPM</rt></RUBY> ⸣°¹)C 
@@ -12,10 +12,10 @@
 	- 1:2c ⸢ <RUBY><ruby><ruby>εἰς<rt>以致 unto</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑπακοὴν<rt>順服 [the] obedience</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05218&m='>ὑπακοή</a></rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>又 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ῥαντισμὸν<rt>灑 sprinkling</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04473&m='>ῥαντισμός</a></rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αἵματος<rt>血 of [the] blood</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00129&m='>αἷμα</a></rt></ruby><rt>N-GSN</rt></RUBY> ⸤ <RUBY><ruby><ruby>Ἰησοῦ<rt>耶穌 of Jesus</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02424&m='>Ἰησοῦς</a></rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>基督 Christ</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05547&m='>Χριστός</a></rt></ruby><rt>N-GSM</rt></RUBY> ⸥ ⸣⮥°¹ <span class='punctuation'>,</span>
 - 1:2d (<RUBY><ruby><ruby>Χάρις<rt>恩典 Grace</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05485&m='>χάρις</a></rt></ruby><rt>N-NSF</rt></RUBY>)⦇ (<RUBY><ruby><ruby>ὑμῖν<rt>給你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY>)C ⦈(<RUBY><ruby><ruby>καὶ<rt>- and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰρήνη<rt>平安 peace</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01515&m='>εἰρήνη</a></rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>πληθυνθείη</span><rt>多多賜給 may be multiplied</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04129&m='>πληθύνω</a></rt></ruby><rt>V-APO-3S</rt></RUBY>)P <span class='punctuation'>.</span>
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
-#### 語意圖析 (Semantic Diagram)
+#### 語意圖析（Semantic Diagram）
 
 
 

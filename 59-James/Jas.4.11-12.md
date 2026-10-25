@@ -3,7 +3,7 @@ title: "Jas.4.11-12"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 4:11-12)
+## 圖析（Jas 4:11-12）
 
 - 4:11a <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>不</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>καταλαλεῖτε</mark><rt>καταλαλέω</rt></ruby><rt>毀謗</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀλλήλων<rt>ἀλλήλων</rt></ruby><rt>彼此</rt></ruby><rt>C-GPM</rt></RUBY>)C <mark class='punctuation'>,</mark> (<RUBY><ruby><ruby>ἀδελφοί<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-VPM</rt></RUBY>)V <mark class='punctuation'>.</mark> 
 - 4:11b {<RUBY><ruby><ruby>ὁ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> [(<RUBY><ruby><ruby><mark class='ptc'>καταλαλῶν</mark><rt>καταλαλέω</rt></ruby><rt>毀謗</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>ἀδελφοῦ<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-GSM</rt></RUBY>)c] <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>或</rt></ruby><rt>CONJ</rt></RUBY> [(<RUBY><ruby><ruby><mark class='ptc'>κρίνων</mark><rt>κρίνω</rt></ruby><rt>評斷</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>τὸν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἀδελφὸν<rt>ἀδελφός</rt></ruby><rt>弟兄們</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>自己</rt></ruby><rt>P-GSM</rt></RUBY>)]}S (<RUBY><ruby><ruby><mark class='verb'>καταλαλεῖ</mark><rt>καταλαλέω</rt></ruby><rt>毀謗</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>νόμου<rt>νόμος</rt></ruby><rt>律法</rt></ruby><rt>N-GSM</rt></RUBY>)C

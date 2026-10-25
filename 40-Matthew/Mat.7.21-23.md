@@ -17,10 +17,10 @@ draft: false
 	- 7:23c (<RUBY><ruby><ruby><span class='verb'>ἀποχωρεῖτε</span><rt>走開 depart</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00672&m='>ἀποχωρέω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπ᾽<rt>from</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00575&m='>ἀπό</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοῦ<rt>我 me</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GS</rt></RUBY>)A 
 	- 7:23d {<RUBY><ruby><ruby>οἱ<rt>這些 the ones</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NPM</rt></RUBY> (<RUBY><ruby><ruby><span class='ptc'>ἐργαζόμενοι</span><rt>行 practice</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02038&m='>ἐργάζομαι</a></rt></ruby><rt>V-PNP-NPM</rt></RUBY>)p (<RUBY><ruby><ruby>τὴν<rt></rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀνομίαν<rt>不法事 lawlessness</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00458&m='>ἀνομία</a></rt></ruby><rt>N-ASF</rt></RUBY>)c ] }V[^4] . 
 
-[^1]: λέγων：根據上下文判斷，這裡不是「描寫某人為某事」的意思 ([BAGD 乙.三](https://bible.fhl.net/new/s.php?N=0&k=03004&m=))，因為後面帶著的不是兩個直接受格——後面的間接受格 (μοι) 應該是「被說某事的對象」([BAGD 甲.三](https://bible.fhl.net/new/s.php?N=0&k=03004&m=))，而接下來的 Κύριε κύριε 則是說話的內容，所以標點符號用冒號。
+[^1]: λέγων：根據上下文判斷，這裡不是「描寫某人為某事」的意思（[BAGD 乙.三](https://bible.fhl.net/new/s.php?N=0&k=03004&m=))，因為後面帶著的不是兩個直接受格——後面的間接受格（μοι）應該是「被說某事的對象」([BAGD 甲.三](https://bible.fhl.net/new/s.php?N=0&k=03004&m=）)，而接下來的 Κύριε κύριε 則是說話的內容，所以標點符號用冒號。
 
-[^2]: τοῦ πατρός ... τοῦ ἐν τοῖς οὐρανοῖς：介系詞片語 (ἐν τοῖς οὐρανοῖς) 當形容詞用，形成 T—N—T—A 的結構。
+[^2]: τοῦ πατρός ... τοῦ ἐν τοῖς οὐρανοῖς：介系詞片語（ἐν τοῖς οὐρανοῖς）當形容詞用，形成 T—N—T—A 的結構。
 
-[^3]: ἐπροφητεύσαμεν：雖然動詞 προφητεύω 後面可以帶間接受格當補語；但根據上下文判斷，這裡的 προφητεύω 應該是獨立用法 ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=04395&m=))，所以要把前面的間接受格 (τῷ σῷ ὀνόματι) 當作狀語，修飾主要動詞。
+[^3]: ἐπροφητεύσαμεν：雖然動詞 προφητεύω 後面可以帶間接受格當補語；但根據上下文判斷，這裡的 προφητεύω 應該是獨立用法（[BAGD](https://bible.fhl.net/new/s.php?N=0&k=04395&m=))，所以要把前面的間接受格 (τῷ σῷ ὀνόματι）當作狀語，修飾主要動詞。
 
-[^4]: οἱ ἐργαζόμενοι τὴν ἀνομίαν：冠詞＋分詞內嵌子句 = 實名詞，根據上下文判斷，這裡是主格當作呼格使用 (進深，88)。
+[^4]: οἱ ἐργαζόμενοι τὴν ἀνομίαν：冠詞＋分詞內嵌子句 = 實名詞，根據上下文判斷，這裡是主格當作呼格使用（進深，88）。

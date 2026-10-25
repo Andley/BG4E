@@ -3,7 +3,7 @@ title: "Jas.4.1-10"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 4:1-10)
+## 圖析（Jas 4:1-10）
 
 - 4:1a (<RUBY><ruby><ruby>Πόθεν<rt>πόθεν</rt></ruby><rt>從哪裡</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>πόλεμοι<rt>πόλεμος</rt></ruby><rt>衝突</rt></ruby><rt>N-NPM</rt></RUBY>)C
 - 4:1b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πόθεν<rt>πόθεν</rt></ruby><rt>從哪裡</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>μάχαι<rt>μάχη</rt></ruby><rt>爭吵</rt></ruby><rt>N-NPF</rt></RUBY>)C (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>中間</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>給你們</rt></ruby><rt>P-2DP</rt></RUBY>)A <mark class='punctuation'>;</mark> 

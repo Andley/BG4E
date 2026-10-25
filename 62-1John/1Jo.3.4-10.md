@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-### 圖析 (1Jo 3:4-10)
+### 圖析（1Jo 3:4-10）
 
 
 - 3:4a {<RUBY><ruby><ruby>Πᾶς<rt>πᾶς</rt></ruby><rt>Everyone</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>who</rt></ruby><rt>T-NSM</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>ποιῶν</mark><rt>ποιέω</rt></ruby><rt>is committing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἁμαρτίαν<rt>ἁμαρτία</rt></ruby><rt>sin,</rt></ruby><rt>N-ASF</rt></RUBY>)c ] }S (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀνομίαν<rt>ἀνομία</rt></ruby><rt>lawlessness</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ποιεῖ,</mark><rt>ποιέω</rt></ruby><rt>commits;</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 

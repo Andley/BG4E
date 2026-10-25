@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-### 圖析 (1Jo 2:12-14)
+### 圖析（1Jo 2:12-14）
 
 
 - 2:12a (<RUBY><ruby><ruby><mark class='verb'>Γράφω</mark><rt>γράφω</rt></ruby><rt>I am writing</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you,</rt></ruby><rt>P-2DP</rt></RUBY>)C <RUBY><ruby><ruby>τεκνία,<rt>τεκνίον</rt></ruby><rt>little children,</rt></ruby><rt>N-VPN</rt></RUBY> 
@@ -25,7 +25,7 @@ draft: false
 
 ---
 
-### 圖析 (1Jo 2:15-17)
+### 圖析（1Jo 2:15-17）
 
 
 - 2:15a <RUBY><ruby><ruby>Μὴ<rt>μή</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἀγαπᾶτε</mark><rt>ἀγαπάω</rt></ruby><rt>do love</rt></ruby><rt>V-PAM-2P</rt></RUBY>[^3])P (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>κόσμον<rt>κόσμος</rt></ruby><rt>world</rt></ruby><rt>N-ASM</rt></RUBY>)C 
@@ -41,8 +41,8 @@ draft: false
 - 2:17c {<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>the [one]</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='ptc'>ποιῶν</mark><rt>ποιέω</rt></ruby><rt>doing</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>θέλημα<rt>θέλημα</rt></ruby><rt>will</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>[the]</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)c ] }S (<RUBY><ruby><ruby><mark class='verb'>μένει</mark><rt>μένω</rt></ruby><rt>abides</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>αἰῶνα.¶<rt>αἰών</rt></ruby><rt>age.</rt></ruby><rt>N-ASM</rt></RUBY>)A
 
 [^1]: ὅτι：根據上下文判斷，理解成「原因 because」(GGBB, 460-61) 或「內容 that」(GGBB, 454-58) 似乎都說得通。
-[^2]: τὸν ἀπ᾽ ἀρχῆς：冠詞＋介系詞片語 (ἀπ᾽ ἀρχῆς) 變成實名詞 (GGBB, 236)，當作整個子句的補語。
-[^3]: **ἀγαπᾶτε**：命令語氣，表達意志 (volition) 和企圖 (intention)，不一定是在發號施令 (GGBB, 485)。
-[^4]: τὰ ἐν τῷ κόσμῳ：冠詞＋介系詞片語 (ἐν τῷ κόσμῳ) 變成實名詞 (GGBB, 236)，當作整個子句的補語。
-[^5]: ἡ ἀγάπη τοῦ πατρὸς：根據上下文判斷，τοῦ πατρὸ 在這裡應該是受詞所有格 (objective genitive; GGBB, 116-18)`,翻譯成「愛父的心」。
-[^6]:πᾶν τὸ ἐν τῷ κόσμῳ：冠詞＋介系詞片語 (ἐν τῷ κόσμῳ) 變成實名詞 (GGBB, 236)，
+[^2]: τὸν ἀπ᾽ ἀρχῆς：冠詞＋介系詞片語（ἀπ᾽ ἀρχῆς）變成實名詞（GGBB, 236），當作整個子句的補語。
+[^3]: **ἀγαπᾶτε**：命令語氣，表達意志（volition）和企圖（intention），不一定是在發號施令（GGBB, 485）。
+[^4]: τὰ ἐν τῷ κόσμῳ：冠詞＋介系詞片語（ἐν τῷ κόσμῳ）變成實名詞（GGBB, 236），當作整個子句的補語。
+[^5]: ἡ ἀγάπη τοῦ πατρὸς：根據上下文判斷，τοῦ πατρὸ 在這裡應該是受詞所有格（objective genitive; GGBB, 116-18）`,翻譯成「愛父的心」。
+[^6]:πᾶν τὸ ἐν τῷ κόσμῳ：冠詞＋介系詞片語（ἐν τῷ κόσμῳ）變成實名詞（GGBB, 236），

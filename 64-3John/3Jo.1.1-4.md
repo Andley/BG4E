@@ -3,7 +3,7 @@ title: "3Jo.1.1-4"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (3Jo 1:1-4)
+#### 圖析（3Jo 1:1-4）
 
 - 1:1a (<RUBY><ruby><ruby>Ὁ<rt>這 the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>πρεσβύτερος<rt>做長老的 elder</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04245&m='>πρεσβύτερος</a></rt></ruby><rt>A-NSM-C</rt></RUBY>)S (<RUBY><ruby><ruby>Γαΐῳ<rt>該猶 Gaius</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01050&m='>Γάϊος</a></rt></ruby><rt>N-DSM</rt></RUBY>°¹ <RUBY><ruby><ruby>τῷ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>ἀγαπητῷ<rt>親愛的 beloved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00027&m='>ἀγαπητός</a></rt></ruby><rt>A-DSM</rt></RUBY>)C , 
 	- 1:1b (<RUBY><ruby><ruby>ὃν<rt>所~的 whom</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03739&m='>ὅς</a></rt></ruby><rt>R-ASM</rt></RUBY>⮥°¹[^1])C (<RUBY><ruby><ruby>ἐγὼ<rt>我 I</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1NS</rt></RUBY>)S (<RUBY><ruby><ruby><span class='verb'>ἀγαπῶ</span><rt>愛 love</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00025&m='>ἀγαπάω</a></rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>在~中 in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀληθείᾳ<rt>真理 truth</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00225&m='>ἀλήθεια</a></rt></ruby><rt>N-DSF</rt></RUBY>)A[^2] .
@@ -19,7 +19,7 @@ draft: false
 
 [^1]: 關係代名詞，性數 [SM] 勾到 1:1a 同樣是 [SM] 的先行詞 Γαΐῳ——雖然 πρεσβύτερος 也是 [SM]，但從上下文就可以知道勾到 Γαΐῳ 比較恰當。
 
-[^2]: ἐν ἀληθείᾳ：介系詞片語，可以表達空間、時間、因果與憑藉 ([BAGD](https://bible.fhl.net/new/s.php?N=0&k=01722&m=))，在此可能表達「因果」(因為真理而愛該猶)、「憑藉」(藉著真理而愛該猶) 比較合乎上下文。
+[^2]: ἐν ἀληθείᾳ：介系詞片語，可以表達空間、時間、因果與憑藉（[BAGD](https://bible.fhl.net/new/s.php?N=0&k=01722&m=))，在此可能表達「因果」(因為真理而愛該猶)、「憑藉」(藉著真理而愛該猶）比較合乎上下文。
 
 [^3]: σε εὐοδοῦσθαι：不定詞內嵌子句，當作主要動詞 εὔχομαί 的補語。
 

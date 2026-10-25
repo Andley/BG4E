@@ -3,7 +3,7 @@ title: "Php.1.15-26"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (Php 1:15-26)
+#### 圖析（Php 1:15-26）
 
 - 1:15a (<RUBY><ruby><ruby>Τινὲς<rt>τις</rt></ruby><rt>Some</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φθόνον<rt>φθόνος</rt></ruby><rt>envy</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔριν ,<rt>ἔρις</rt></ruby><rt>strife</rt></ruby><rt>N-ASF</rt></RUBY>)A 
 - 1:15b (<RUBY><ruby><ruby>τινὲς<rt>τις</rt></ruby><rt>some</rt></ruby><rt>X-NPM</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>εὐδοκίαν<rt>εὐδοκία</rt></ruby><rt>goodwill</rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>κηρύσσουσιν ·</mark><rt>κηρύσσω</rt></ruby><rt>are proclaiming</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P 

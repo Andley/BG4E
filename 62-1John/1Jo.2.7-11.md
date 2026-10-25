@@ -3,7 +3,7 @@ title: "1Jo.2.7-11"
 date: 2026-07-04
 draft: false
 ---
-### 圖析 (1Jo 2:7-11)
+### 圖析（1Jo 2:7-11）
 
 
 - 2:7a <RUBY><ruby><ruby>Ἀγαπητοί,<rt>ἀγαπητός</rt></ruby><rt>Beloved,</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἐντολὴν<rt>ἐντολή</rt></ruby><rt>a commandment</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>καινὴν<rt>καινός</rt></ruby><rt>new</rt></ruby><rt>A-ASF</rt></RUBY>)C1 (<RUBY><ruby><ruby><mark class='verb'>γράφω</mark><rt>γράφω</rt></ruby><rt>I am writing</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you,</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
@@ -30,7 +30,7 @@ draft: false
 
 
 [^1]: ἐντολὴν καινὴν：看似與 2:7a 的說法矛盾，但這是沿用耶穌說的「我賜給你們一條新命令，乃是叫你們彼此相愛；我怎樣愛你們，你們也要怎樣相愛」(Joh 13:34)。
-[^2]: ὅ：關係代名詞，單數中性，找不到同樣性數的先行詞，句法上有兩種解釋：(1) 這是「根據語意的結構 (construction ad sensum)」(GGBB, 337)；(2) 當關係代名詞用來指向「比較長的片語 (extended phrase) 或者是一組字詞」的時候，通常會用中性單數 (Idioms, 249)。因此，根據上下文判斷，ὅ 或者指向 2:8a 單數陰性的 ἐντολὴν καινὴν ad sensum)，或者指向 2:8a 的整個子句，兩種解釋都可以，意思也差不多。
-[^3]: ἕως：ἕως 究竟是連接詞、還是介系詞，取決於後面帶的是子句、還是字詞 (BAGD)。這裡 ἕως 後面接上時間副詞 ἄρτι，形成介系詞片語，所以要當狀語使用，意思是「直到如今」(BAGD, 乙.一.C)。
+[^2]: ὅ：關係代名詞，單數中性，找不到同樣性數的先行詞，句法上有兩種解釋：(1) 這是「根據語意的結構（construction ad sensum)」(GGBB, 337)；(2）當關係代名詞用來指向「比較長的片語（extended phrase）或者是一組字詞」的時候，通常會用中性單數（Idioms, 249）。因此，根據上下文判斷，ὅ 或者指向 2:8a 單數陰性的 ἐντολὴν καινὴν ad sensum)，或者指向 2:8a 的整個子句，兩種解釋都可以，意思也差不多。
+[^3]: ἕως：ἕως 究竟是連接詞、還是介系詞，取決於後面帶的是子句、還是字詞（BAGD）。這裡 ἕως 後面接上時間副詞 ἄρτι，形成介系詞片語，所以要當狀語使用，意思是「直到如今」(BAGD, 乙.一.C)。
 [^4]: ποῦ **ὑπάγει**`：內嵌子句，當作上層主要子句 2:11c 主要動詞 **οἶδεν** 的補語。
 

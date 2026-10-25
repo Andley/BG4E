@@ -3,7 +3,7 @@ title: "Syntax"
 date: 2026-07-04
 draft: false
 ---
-# 全民希臘文句法 (BG4E-Syntax) 
+# 全民希臘文句法（BG4E-Syntax）
 
 
 ## 目錄
@@ -18,9 +18,9 @@ draft: false
 		- 語言金字塔 §2a
 		- 形式與功能 §2b
 		- Choice implies Meaning §2c
-		- 希臘文詞類 (Parts of Speech) §2d
+		- 希臘文詞類（Parts of Speech）§2d
 - ═════════════
-- Part V 字詞與片語 (Word and Phrase §2xx-§5xx)
+- Part V 字詞與片語（Word and Phrase §2xx-§5xx）
 	- 名詞類 §3xx
 		- Noun (名詞) §310
 			- [Nominative (主格) §311](§311.md)
@@ -53,7 +53,7 @@ draft: false
 		- [Infinitive (不定詞) §530](§530.md)
 - ═════════════
 
-- Part VI 子句與句子 (Clause and Sentence) §6xx
+- Part VI 子句與句子（Clause and Sentence）§6xx
 	- [Clauses (子句) §610](§610.md)
 		- [[Word Order]]
 		- [Hyperbaton](Hyperbaton.md)
@@ -66,7 +66,7 @@ draft: false
 			- un-headed
 	- [Sentence (句子) §620](§620.md)
 - ═════════════
-- Part VII 段落與篇章 (Paragraph and Discourse) §7xx
+- Part VII 段落與篇章（Paragraph and Discourse）§7xx
 	- [[discourse is more than]]
 	- [[information strucutre]]
 	- Context and Cotext
@@ -82,9 +82,9 @@ draft: false
 | 縮寫 | 書目 |
 |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | GGBB | Wallace, Daniel B. <em>Greek Grammar Beyond the Basics</em>. Grand Rapids: Zondervan, 1996. |
-| 中希 | 華勒斯(Daniel B. Wallace)。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。 |
+| 中希 | 華勒斯（Daniel B. Wallace）。《中級希臘文文法》。吳存仁譯。台北市：中華福音神學院，2011。 |
 | IGNT | Porter, Stanley E. <em>Idioms of the Greek New Testament</em>. Second edition with corrections. Sheffield, U.K.: Sheffield Academic, 1994. |
-| 慣用 | 斯丹利‧波特(Stanley E. Porter)。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 |
+| 慣用 | 斯丹利‧波特（Stanley E. Porter）。《新約希臘文的慣用語》。葉雅蓮譯。台北市：中華福音神學院，2013。 |
 | DEEP | Köstenberger, Andreas J., Benjamin L. Merkle, and Robert L. Plummer. <em>Going Deeper with New Testament Greek: An Intermediate Study of the Grammar and Syntax of the New Testament</em>. Nashville, TN.: B&H Academic, 2016. |
 | IGG | Mathewson, David L., and Elodie Ballantine Emig. <em>Intermediate Greek Grammar: Syntax for Students of the New Testament</em>. Grand Rapids, MI: Baker Academic, 2016. |
 | Funk | Funk, Robert W. <em>A Beginning-Intermediate Grammar of Hellenistic Greek</em>. 3rd ed. Polebridge Press, 2013. |

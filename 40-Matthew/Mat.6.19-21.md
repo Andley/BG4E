@@ -19,9 +19,9 @@ draft: false
 - 6:21c (<RUBY><ruby><ruby>ἐκεῖ<rt>哪裡 there</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01563&m='>ἐκεῖ</a></rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><span class='verb'>ἔσται</span><rt>在 be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02071&m='>εἰμί</a></rt></ruby><rt>V-FDI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>καὶ<rt>也 also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>ἡ<rt>the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὁ</a></rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>καρδία<rt>心 heart</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02588&m='>καρδία</a></rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>σου<rt>你的 your</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04675&m='>σύ</a></rt></ruby><rt>P-2GS</rt></RUBY>)S . 
 
 
-[^1]: **θησαυρίζετε**：後面接直接受格表達某物，接間接受格表達為了某人 (BAGD)。
-[^2]: ὅπου：可以是連接詞，也可以是從屬關係質詞，表示地方 (BAGD)。根據上下文判斷，指的是 6:19a 的 τῆς γῆς。
+[^1]: **θησαυρίζετε**：後面接直接受格表達某物，接間接受格表達為了某人（BAGD）。
+[^2]: ὅπου：可以是連接詞，也可以是從屬關係質詞，表示地方（BAGD）。根據上下文判斷，指的是 6:19a 的 τῆς γῆς。
 [^3]: σὴς καὶ βρῶσις：複合主詞使用單數動詞，目的是要凸顯第一個主詞 σὴς (GGBB, 401-2 = 華, 421-2)。
 [^4]: οὔτε…οὔτε：意思是「既不…也不」(BAGD)。
-[^5]: ὅπου：可以是連接詞，也可以是關係質詞，表示地方 (BAGD)。根據上下文判斷，指的是 6:21b 的 ἐκεῖ。就句法來說，
-[^6]: **ἔσται**：聯繫動詞，帶冠詞的名詞 (ἡ καρδία σου) 是主語，副詞 ἐκεῖ 是補語，說明主語的屬性 (AGG §285b)。
+[^5]: ὅπου：可以是連接詞，也可以是關係質詞，表示地方（BAGD）。根據上下文判斷，指的是 6:21b 的 ἐκεῖ。就句法來說，
+[^6]: **ἔσται**：聯繫動詞，帶冠詞的名詞（ἡ καρδία σου）是主語，副詞 ἐκεῖ 是補語，說明主語的屬性（AGG §285b）。

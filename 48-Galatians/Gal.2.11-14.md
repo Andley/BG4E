@@ -1,6 +1,6 @@
 ### Paul Rebukes Peter at Antioch (Gal 2:11-14)
 
-#### 句法圖析 (Syntactic Diagram)
+#### 句法圖析（Syntactic Diagram）
 
 - 2:11a  ⸉<span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01161&m='>δέ</a></span><span class="g">不過 however</span><span class="t">δὲ</span></span>⸊
 	- 2:11b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03753&m='>ὅτε</a></span><span class="g">當 When</span><span class="t">ὅτε</span></span>  ⸉⸊  (<span class="w"><span class="m">V-AAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></span><span class="g">來 came</span><span class="t"><span class='verb'>ἦλθεν</span></span></span>)P  (<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02786&m='>Κηφᾶς</a></span><span class="g">磯法 Peter</span><span class="t">Κηφᾶς</span></span>)S  (<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01519&m='>εἰς</a></span><span class="g">到 to</span><span class="t">εἰς</span></span>  <span class="w"><span class="m">N-ASF</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00490&m='>Ἀντιόχεια</a></span><span class="g">安提阿 Antioch</span><span class="t">Ἀντιόχειαν</span></span>)A <span class='punctuation'>,</span> 
@@ -23,7 +23,7 @@
 	- 2:14f  (<span class="w"><span class="m">ADV</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=04459&m='>πως</a></span><span class="g">怎麼 why</span><span class="t">πῶς</span></span>)A ⁅‹<span class="w"><span class="m">T-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὰ</span></span>  <span class="w"><span class="m">N-APN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01484&m='>ἔθνος</a></span><span class="g">外邦人 Gentiles</span><span class="t">ἔθνη</span></span>›s⁆⦇ (<span class="w"><span class="m">V-PAI-2S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00315&m='>ἀναγκάζω</a></span><span class="g">勉強 do you compel</span><span class="t"><span class='verb'>ἀναγκάζεις</span></span></span>)P ⦈⁅‹<span class="w"><span class="m">V-PAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02450&m='>Ἰουδαΐζω</a></span><span class="g">按照猶太人 to Judaize?</span><span class="t"><span class='inf'>ἰουδαΐζειν</span></span></span>›p⁆C <span class='punctuation'>;</span> 
 
 
-#### 句法筆記 (Syntax Notes)
+#### 句法筆記（Syntax Notes）
 
 
 - 2:11a δὲ：後置的對等連接詞，帶出 2:11c 的主要子句
@@ -31,19 +31,19 @@
 	- ὅτε：表達時間的連接詞，帶出從屬子句
 - 2:11c κατὰ πρόσωπον αὐτῷ ἀντέστην ,
 	- κατὰ πρόσωπον：意思是「朝著臉、對著臉、當面」(BAGD)。
-	- αὐτῷ：因為主要動詞 ἀντέστην 帶間接受格表達所要抵擋的人 or 事物 (BAGD)，所以這裡的 αὐτῷ 要當作 C。同樣道理，interlinear 的 gloss 也該改成 him。
+	- αὐτῷ：因為主要動詞 ἀντέστην 帶間接受格表達所要抵擋的人 or 事物（BAGD），所以這裡的 αὐτῷ 要當作 C。同樣道理，interlinear 的 gloss 也該改成 him。
 - 2:11d ὅτι κατεγνωσμένος ἦν . 
-	- κατεγνωσμένος ἦν：迂說的分詞 (進深，510)，不完成式 εἰμί ＋ 現在完成式分詞＝過去完成式 (進深，511, 513)。
+	- κατεγνωσμένος ἦν：迂說的分詞（進深，510），不完成式 εἰμί ＋ 現在完成式分詞＝過去完成式（進深，511, 513）。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 2:12a πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ Ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν · 
-	- 介係詞 πρό ＋實名詞 = 介係詞片語，表達「時間」(進深，608-9)，其中實名詞是不定詞內嵌子句 (進深，550)。
+	- 介係詞 πρό ＋實名詞 = 介係詞片語，表達「時間」(進深，608-9)，其中實名詞是不定詞內嵌子句（進深，550）。
 - 2:12b δὲ：後置的對等連接詞，帶出 2:12d 的主要子句
 - 2:12c ὅτε ἦλθον , 
 	- ὅτε：表達時間的連接詞，帶出從屬子句
 - 2:12d ὑπέστελλεν 
-	- 不完成式 (imperfect tense-form)，表達未完成的觀點 (imperfective aspect)。
+	- 不完成式（imperfect tense-form），表達未完成的觀點（imperfective aspect）。
 - 2:12e καὶ ἀφώριζεν ἑαυτόν φοβούμενος τοὺς ἐκ περιτομῆς . 
-	-  分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法 (進深，487-8)，從上下文判斷，應該是表達「原因」(進深, 493-4)。
+	-  分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法（進深，487-8），從上下文判斷，應該是表達「原因」(進深, 493-4)。
 - 2:13a καὶ συνυπεκρίθησαν αὐτῷ καὶ οἱ λοιποὶ Ἰουδαῖοι , 
 	- 第一個 καὶ 放在句首，是對等連接詞；第二個 καὶ 沒有放在句首，是當作副詞使用，修飾主要動詞 συνυπεκρίθησαν。
 - 2:13b ὥστε καὶ Βαρνάβας συναπήχθη αὐτῶν τῇ ὑποκρίσει . 
@@ -51,8 +51,8 @@
 - 2:14b ὅτε εἶδον 
 	- ὅτε：表達時間的連接詞，帶出從屬子句
 - 2:14c ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου , 
-	- ὅτι 帶出從屬子句，表達看見的內容 (進深，623)。
+	- ὅτι 帶出從屬子句，表達看見的內容（進深，623）。
 - 2:14e Εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ οὐκ Ἰουδαϊκῶς ζῇς , 
-	- Ἰουδαῖος ὑπάρχω：分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法 (進深，487-8)，從上下文判斷，應該是表達「讓步」(進深, 496-7)。
+	- Ἰουδαῖος ὑπάρχω：分詞內嵌子句，主格、前面沒有冠詞，所以是分詞的副詞用法（進深，487-8），從上下文判斷，應該是表達「讓步」(進深, 496-7)。
 - 2:14f πῶς τὰ ἔθνη ἀναγκάζεις ἰουδαΐζειν ; 
 	- τὰ ἔθνη ... ἀναγκάζεις ἰουδαΐζειν：不定詞內嵌子句，被主要動詞 ἀναγκάζεις 切成兩半，形成「倒置 hyperbaton」。

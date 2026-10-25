@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 5:13-15)
+#### 圖析（Gal 5:13-15）
 
 - 5:13a (<RUBY><ruby><ruby>Ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐπ᾽<rt>ἐπί</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐλευθερίᾳ<rt>ἐλευθερία</rt></ruby><rt>freedom</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>ἐκλήθητε,</mark><rt>καλέω</rt></ruby><rt>were called</rt></ruby><rt>V-API-2P</rt></RUBY>)P <RUBY><ruby><ruby>ἀδελφοί·<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 
 - 5:13b (<RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>but</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> ...???[^3]... (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐλευθερίαν<rt>ἐλευθερία</rt></ruby><rt>freedom</rt></ruby><rt>N-ASF</rt></RUBY>)C (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἀφορμὴν<rt>ἀφορμή</rt></ruby><rt>an opportunity</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκί,<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-DSF</rt></RUBY>)A

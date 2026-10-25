@@ -3,7 +3,7 @@ title: "Jas.4.13-17"
 date: 2026-07-04
 draft: false
 ---
-## 圖析 (Jas 4:13-17)
+## 圖析（Jas 4:13-17）
 
 - 4:13a (<RUBY><ruby><ruby><mark class='verb'>Ἄγε</mark><rt>ἄγω</rt></ruby><rt>嗐</rt></ruby><rt>V-PAM-2S</rt></RUBY>)V (<RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>如今</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>οἱ<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-VPM</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>λέγοντες</mark><rt>λέγω</rt></ruby><rt>說</rt></ruby><rt>V-PAP-VPM</rt></RUBY>)S <mark class='punctuation'>·</mark> 
 	- 4:13b (<RUBY><ruby><ruby>Σήμερον<rt>σήμερον</rt></ruby><rt>今天</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>ἢ<rt>ἤ</rt></ruby><rt>或</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὔριον<rt>αὔριον</rt></ruby><rt>明天</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><mark class='verb'>πορευσόμεθα</mark><rt>πορεύω</rt></ruby><rt>去</rt></ruby><rt>V-FMI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>到</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τήνδε<rt>ὅδε, ἥδε</rt></ruby><rt>某某</rt></ruby><rt>D-ASF</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὀ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>πόλιν<rt>πόλις</rt></ruby><rt>城</rt></ruby><rt>N-ASF</rt></RUBY>)A

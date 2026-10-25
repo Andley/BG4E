@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-#### 圖析 (Php 2:25-30)
+#### 圖析（Php 2:25-30）
 
 - 2:25a <RUBY><ruby><ruby>Ἀναγκαῖον<rt>ἀναγκαῖος</rt></ruby><rt>Necessary</rt></ruby><rt>A-ASN</rt></RUBY>＋C <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark class='verb'>ἡγησάμην</mark><rt>ἡγέομαι</rt></ruby><rt>I esteemed [it]</rt></ruby><rt>V-ADI-1S</rt></RUBY>)P {2:25b}C
 	- 2:25b (<RUBY><ruby><ruby>Ἐπαφρόδιτον<rt>Ἐπαφρόδιτος</rt></ruby><rt>Epaphroditus</rt></ruby><rt>N-ASM-P</rt></RUBY> =‹2:25c› =‹2:25d› )c <RUBY><ruby><ruby><em>πέμψαι</em><rt>πέμπω</rt></ruby><rt>to send</rt></ruby><rt>V-AAN</rt></RUBY> (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς ,<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)a

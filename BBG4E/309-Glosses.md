@@ -3,10 +3,10 @@ title: "309-Glosses"
 date: 2026-07-04
 draft: false
 ---
-# 309 個新約常用詞彙 (出現 ≧ 50x) 原型簡義
+# 309 個新約常用詞彙（出現 ≧ 50x）原型簡義
 
 
-### HW01 單字 (10個)
+### HW01 單字（10個）
 - **ὁ, ἡ, τό** (19861) 冠詞
 	- the 視情況翻譯，有時可譯成「這個」、「那個」等
 > 詞型變化 | 陽性 M | 陰性 F | 中性 N
@@ -47,7 +47,7 @@ draft: false
 - **οὐ (οὐκ, οὐχ)** (1624) 否定質詞
 	- not 不
 
-### HW02 單字 (10個)
+### HW02 單字（10個）
 - **ὅς, ἥ, ὅ** (1406) 關係代名詞
 	- who (whom), which 帶出關係子句修飾先行詞
 
@@ -78,7 +78,7 @@ draft: false
 - **ἐκ (ἐξ)** (914) 介系詞
 	- gen: from, out of 後接所有格：意思是「出於、從」
 
-### HW03 單字 (10個) ⇐ 新約出現大約頻率 51%
+### HW03 單字（10個）⇐ 新約出現大約頻率 51%
 
 - **ἐπί** (890) 介系詞
 	- gen: on, over, when 後接所有格：意思是「在...之上、當」 ‖ dat: on the basis of, at 後間接受格：意思是「根據 ... 基礎、在...」‖ acc: on, to, against 後接直接受格：意思是「在...的時候、在...之上、到」
@@ -111,7 +111,7 @@ draft: false
 	- I come; go 我來、去、來臨
 
 
-### HW04 單字 (10個)
+### HW04 單字（10個）
 
 - **ποιέω** (568) 動詞
 	- I do, make 我做、使
@@ -145,7 +145,7 @@ draft: false
 	- 後接所有格時意思是「與....一起」、藉著、帶著
 
 
-### HW05 單字 (10 個)
+### HW05 單字（10 個）
 
 - **ὁράω** (454) 動詞 
 	- I see, notice, experience 我看見
@@ -177,7 +177,7 @@ draft: false
 - **ἀδελφός, –οῦ, ὁ** (343) 名詞
 	- brother 弟兄、兄弟
 
-### HW06 單字 (10 個) ⇐ 新約出現大約頻率 60%
+### HW06 單字（10 個）⇐ 新約出現大約頻率 60%
 
 - **ἤ** (343) 對等連接詞
 	- or, than 或
@@ -210,13 +210,13 @@ draft: false
 	- I take; receive 我接受、拿取
 
 
-### HW07 單字 (10 個)
+### HW07 單字（10 個）
 
 - **γῆ, γῆς, ἡ** (250) 名詞
 	- earth, land, region, humanity 地、土地、區域、人類
 
 - **ἐκεῖνος, –η, –ο** (243) 指示代名詞
-	- singular: that (man/woman/thing) 單數：那個 (男女東西)‖ plural: those (men/women, things) 複數：那些 (男女東西)
+	- singular: that (man/woman/thing) 單數：那個（男女東西)‖ plural: those (men/women, things）複數：那些（男女東西）
 
 - **μέγας, μεγάλη, μέγα** (243) 形容詞
 	- large, great 大的、偉大的
@@ -231,7 +231,7 @@ draft: false
 	- no one, none, nothing 沒有一個、一點也不、無一人
 
 - **ἅγιος, –ία, –ιον** (233) 形容詞
-	- singular: holy 單數：聖潔的(人或物) ‖ plural noun: saints 聖徒
+	- singular: holy 單數：聖潔的（人或物） ‖ plural noun: saints 聖徒
 
 - **ἀποκρίνομαι** (231) 動詞
 	- I answer 我回答、繼續說
@@ -244,7 +244,7 @@ draft: false
 
 
 
-### HW08 單字 (10 個)
+### HW08 單字（10 個）
 
 - **ὑπό (ὑπ᾿, ὑφ᾿)** (220) 介系詞
 	- gen: by 後接所有格：意思是「被...、藉著...」‖ acc: under 後接直接受格：意思是「在...之下」
@@ -259,7 +259,7 @@ draft: false
 	- woman, wife 妻子、女人
 
 - **τε** (215) 質詞
-	- and (so), so 且 (用來強調語氣)
+	- and (so), so 且（用來強調語氣）
 
 - **δύναμαι** (210) 動詞
 	- I am able, am powerful 我能夠、有能力
@@ -277,7 +277,7 @@ draft: false
 	- adjective: Jewish 形容詞：猶太人的 ‖ noun: Jew 名詞：猶太人
 
 
-### HW09 單字 (10 個)
+### HW09 單字（10 個）
 
 - **εἰσέρχομαι** (194) 動詞
 	- I come in(to); go in(to), enter 我來、進入
@@ -309,7 +309,7 @@ draft: false
 - **ἄγγελος, –ου, ὁ** (175) 名詞
 	- angel; messenger 天使、使者
 
-### HW10 單字 (10 個) ⇐ 新約出現大約頻率 66%
+### HW10 單字（10 個）⇐ 新約出現大約頻率 66%
 
 - **ὄχλος, –ου, ὁ** (175) 名詞
 	- crowd, multitude 群眾
@@ -343,7 +343,7 @@ draft: false
 
 
 
-### HW11 單字 (10 個)
+### HW11 單字（10 個）
 - **Παῦλος, –ου, ὁ** (158) 名詞
 	- Paul 保羅
 
@@ -374,7 +374,7 @@ draft: false
 - **καλέω** (148) 動詞
 	- I call, name, invite 我呼叫、取名
 
-### HW12 單字 (10 個) ⇐ 新約出現大約頻率 68%
+### HW12 單字（10 個）⇐ 新約出現大約頻率 68%
 
 - **νῦν** (147) 副詞
 	- now, the present 現在
@@ -383,7 +383,7 @@ draft: false
 	- flesh, body 肉體、有血肉的人
 
 - **ἕως** (146) 質詞
-	- conj: until 連接詞：直到 ‖ prep (gen): as far as 介系詞 (後接所有格)：意思是「直到」
+	- conj: until 連接詞：直到 ‖ prep (gen): as far as 介系詞（後接所有格）：意思是「直到」
 
 - **ἐγείρω** (144) 動詞
 	- I raise up, wake 我使...起來、我喚醒...
@@ -1166,4 +1166,4 @@ draft: false
 
 ---
 
-adapted from: Bibleworks 10; William D. Mounce, _Basics of Biblical Greek Grammar_, 4th ed. (Grand Rapids, Mich.: Zondervan, 2019), 463-474;  [聖經原文單字表 (fhl.net)](https://bible.fhl.net/new/flash.html)
+adapted from: Bibleworks 10; William D. Mounce, _Basics of Biblical Greek Grammar_, 4th ed. (Grand Rapids, Mich.: Zondervan, 2019), 463-474;  [聖經原文單字表（fhl.net）](https://bible.fhl.net/new/flash.html)

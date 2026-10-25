@@ -3,7 +3,7 @@ title: "1Jo.4.1-6"
 date: 2026-07-04
 draft: false
 ---
-#### 圖析 (1Jo 4:1-6)
+#### 圖析（1Jo 4:1-6）
 
 
 - 4:1a <RUBY><ruby><ruby>Ἀγαπητοί,<rt>ἀγαπητός</rt></ruby><rt>Beloved,</rt></ruby><rt>A-VPM</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>παντὶ<rt>πᾶς</rt></ruby><rt>every</rt></ruby><rt>A-DSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματι<rt>πνεῦμα</rt></ruby><rt>spirit</rt></ruby><rt>N-DSN</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>πιστεύετε</mark><rt>πιστεύω</rt></ruby><rt>do believe,</rt></ruby><rt>V-PAM-2P</rt></RUBY>)P 

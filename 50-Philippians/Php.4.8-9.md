@@ -4,7 +4,7 @@ date: 2026-07-04
 draft: false
 ---
 
-#### 圖析 (Php 4:8-9)
+#### 圖析（Php 4:8-9）
 
 - 4:8a (<RUBY><ruby><ruby>Τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>λοιπόν ,<rt>λοιπόν</rt></ruby><rt>Finally</rt></ruby><rt>A-ASN</rt></RUBY>)A <RUBY><ruby><ruby>ἀδελφοί ,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 
 	- 4:8b (<RUBY><ruby><ruby>ὅσα°³⮧<rt>ὅσος</rt></ruby><rt>whatever</rt></ruby><rt>K-PN</rt></RUBY>)S (<RUBY><ruby><ruby><mark class='verb'>ἐστὶν</mark><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀληθῆ ,<rt>ἀληθής</rt></ruby><rt>true</rt></ruby><rt>A-NPN</rt></RUBY>)C 

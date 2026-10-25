@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 3:26-29)
+#### 圖析（Gal 3:26-29）
 
 - 3:26 (<RUBY><ruby><ruby>Πάντες<rt>πᾶς</rt></ruby><rt>All</rt></ruby><rt>A-NPM</rt></RUBY>)S[^1] <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>υἱοὶ<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><mark class='verb'>ἐστε</mark><rt>εἰμί</rt></ruby><rt>you are</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ·<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)A
 - ⋯⋯⋯⋯⋯⋯⋯
@@ -23,7 +23,7 @@ draft: true
 - 3:29d (<RUBY><ruby><ruby>κατ᾽<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίαν<rt>ἐπαγγελία</rt></ruby><rt>[the] promise</rt></ruby><rt>N-ASF</rt></RUBY>)A[^4] (<RUBY><ruby><ruby>κληρονόμοι.¶<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)C ...**ἐστέ**...
 
 
-[^1]: Πάντες：修飾隱含在主要動詞 **ἐστε** 內的主語 (你們 2P)，意思是「你們全部」。對照 3:28f 就把主語 ὑμεῖς 寫出來。
-[^2]: 關係代名詞 ὅσος 帶出隱性的 (implicit) 條件子句 (GGBB, 688)。
+[^1]: Πάντες：修飾隱含在主要動詞 **ἐστε** 內的主語（你們 2P），意思是「你們全部」。對照 3:28f 就把主語 ὑμεῖς 寫出來。
+[^2]: 關係代名詞 ὅσος 帶出隱性的（implicit）條件子句（GGBB, 688）。
 [^3]: τοῦ Ἀβραὰμ：修飾 σπέρμα，擺在前面 = 強調。
 [^4]: 介系詞片語前置，也是為了強調。

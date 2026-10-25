@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-#### 圖析 (Gal 4:1-7)
+#### 圖析（Gal 4:1-7）
 
 - 4:1a (<RUBY><ruby><ruby><mark class='verb'>Λέγω</mark><rt>λέγω</rt></ruby><rt>I say</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 4:1b 
@@ -38,14 +38,14 @@ draft: true
 - 4:7e  ...<mark class='verb'>εἶ</mark>... (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>κληρονόμος<rt>κληρονόμος</rt></ruby><rt>an heir</rt></ruby><rt>N-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.¶<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY>)A
 
 
-[^1]: ὅσον： 關係代名詞 (BAGD)，格數性是 ASM，先行詞是性數相同的 χρόνον——但比較特別的地方在於：先行詞 (χρόνον) 被塞進了關係子句裡面，形成所謂 Internal-Headed Relative Clause (中心詞內置的關係子句; Idioms, 250)。
-[^2]: διαφέρω：不及物動詞 (BAGD)，所以 οὐδὲν 是直接受格當作副詞使用 (GGBB, 199)。
-[^3]: δούλου：比較所有格 (genitive of comparison)，當作狀語 (adjunct) 使用，修飾主要動詞 **διαφέρει** (GGBB, 111)，表達「有別於...的對象」(BAGD)。
-[^4]: κύριος πάντων _ὤν_：分詞內嵌子句，格數性是 NSM，當狀語用，修飾內含在主要動詞 **διαφέρει** 裡面的主語 (3S)，表達「讓步」的意思 (雖然是一切的主人)。
+[^1]: ὅσον： 關係代名詞（BAGD)，格數性是 ASM，先行詞是性數相同的 χρόνον——但比較特別的地方在於：先行詞（χρόνον）被塞進了關係子句裡面，形成所謂 Internal-Headed Relative Clause (中心詞內置的關係子句; Idioms, 250）。
+[^2]: διαφέρω：不及物動詞（BAGD），所以 οὐδὲν 是直接受格當作副詞使用（GGBB, 199）。
+[^3]: δούλου：比較所有格（genitive of comparison)，當作狀語（adjunct）使用，修飾主要動詞 **διαφέρει** (GGBB, 111），表達「有別於...的對象」(BAGD)。
+[^4]: κύριος πάντων _ὤν_：分詞內嵌子句，格數性是 NSM，當狀語用，修飾內含在主要動詞 **διαφέρει** 裡面的主語（3S），表達「讓步」的意思（雖然是一切的主人）。
 [^5]: ἀλλὰ：與 4:1c 對比。
-[^6]: **ἤμεθα** _δεδουλωμένοι_：不完成式動詞 εἰμί＋完成式分詞，形成 periphrastic 結構 (GGBB, 647-648)。
-[^7]: _γενόμενον_ ἐκ γυναικός：分詞內嵌子句，格數性是 ASM，所以從「結構層面」來說，只能連結到 4:4c 主要子句裡面同樣也是 ASM 的 τὸν Υἱὸν。但就「功能層面」來說，卻同時有兩種功能：(1) 當作補語 (C) 使用，修飾 4:4c 的 τὸν Υἱὸν (T—N)，形成 (1a) 第二敘述位置 (T—N—A) 的結構 (GGBB, 617-619)，或者說是 (1b) object-complement (受詞—補語的結構; GGBB, 182-184)，直譯成 "God sent his son, *who* has been born of a woman"；(2) 當作狀語 (A) 使用，修飾 4:4c 的主要動詞 **ἐξαπέστειλεν** 發生的狀況 (circumstance; GGBB, 622-623)，直譯成 "God sent his son, *by means of/so that* (the son) has been born of a woman"。因為分詞既是半個形容詞、又是半個動詞，所以 (1) (2) 兩種功能同時存在。
+[^6]: **ἤμεθα** _δεδουλωμένοι_：不完成式動詞 εἰμί＋完成式分詞，形成 periphrastic 結構（GGBB, 647-648）。
+[^7]: _γενόμενον_ ἐκ γυναικός：分詞內嵌子句，格數性是 ASM，所以從「結構層面」來說，只能連結到 4:4c 主要子句裡面同樣也是 ASM 的 τὸν Υἱὸν。但就「功能層面」來說，卻同時有兩種功能：(1) 當作補語（C）使用，修飾 4:4c 的 τὸν Υἱὸν (T—N)，形成（1a）第二敘述位置（T—N—A）的結構（GGBB, 617-619)，或者說是（1b）object-complement (受詞—補語的結構; GGBB, 182-184），直譯成 "God sent his son, *who* has been born of a woman"；(2) 當作狀語（A）使用，修飾 4:4c 的主要動詞 **ἐξαπέστειλεν** 發生的狀況（circumstance; GGBB, 622-623)，直譯成 "God sent his son, *by means of/so that* (the son）has been born of a woman"。因為分詞既是半個形容詞、又是半個動詞，所以（1）(2) 兩種功能同時存在。
 [^8]: 與 4:4d 相同結構。
-[^9]: τοὺς ὑπὸ νόμον：冠詞＋介系詞片語當名詞用 (GGBB, 236)。
+[^9]: τοὺς ὑπὸ νόμον：冠詞＋介系詞片語當名詞用（GGBB, 236）。
 [^10]: 與 4:4c 前後呼應，4:4c 神差遣他兒子，4:6c 神差遣他兒子的靈。
-[^11]: _κρᾶζον_ Ἀββᾶ ὁ Πατήρ：分詞內嵌子句，格數性是 ASN，所以從「結構層面」來說，只能連接到 4:6c 主要子句裡面同樣也是 ASN 的 τὸ Πνεῦμα。但就「功能層面」來說，卻同時有兩種功能：(1) 當作補語 (C) 使用，修飾 4:6c 的 τὸ Πνεῦμα，形成 (1a) 第二敘述位置 (T—N—A) 的結構 (GGBB, 617-619)，或者說是 (1b) object-complement (受詞—補語的結構; GGBB, 182-184)，直譯成 "God sent the Spirit ..., *who* is crying out ..."；(2) 當作狀語 (A) 使用，修飾  4:6c 的主要動詞 **ἐξαπέστειλεν** 發生的狀況 (circumstance; GGBB, 622-623)，直譯成 "God sent the Spirit ... *so that* (the Spirit) cries out ..."。因為分詞既是半個形容詞、又是半個動詞，所以 (1) (2) 兩種功能同時存在。
+[^11]: _κρᾶζον_ Ἀββᾶ ὁ Πατήρ：分詞內嵌子句，格數性是 ASN，所以從「結構層面」來說，只能連接到 4:6c 主要子句裡面同樣也是 ASN 的 τὸ Πνεῦμα。但就「功能層面」來說，卻同時有兩種功能：(1) 當作補語（C）使用，修飾 4:6c 的 τὸ Πνεῦμα，形成（1a）第二敘述位置（T—N—A）的結構（GGBB, 617-619)，或者說是（1b）object-complement (受詞—補語的結構; GGBB, 182-184），直譯成 "God sent the Spirit ..., *who* is crying out ..."；(2) 當作狀語（A）使用，修飾  4:6c 的主要動詞 **ἐξαπέστειλεν** 發生的狀況（circumstance; GGBB, 622-623)，直譯成 "God sent the Spirit ... *so that* (the Spirit）cries out ..."。因為分詞既是半個形容詞、又是半個動詞，所以（1）(2) 兩種功能同時存在。
