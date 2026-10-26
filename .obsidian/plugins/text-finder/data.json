@@ -11,6 +11,12 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
+      "text": "）",
+      "createdAt": 1793003912722,
+      "lastUsedAt": 1793003912722,
+      "count": 1
+    },
+    {
       "text": "-",
       "createdAt": 1792912077214,
       "lastUsedAt": 1792912077214,
@@ -63,12 +69,6 @@
       "createdAt": 1790250249700,
       "lastUsedAt": 1790250250051,
       "count": 1
-    },
-    {
-      "text": "°",
-      "createdAt": 1786428466440,
-      "lastUsedAt": 1789374821533,
-      "count": 5
     }
   ],
   "searchToolbar": [

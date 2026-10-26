@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter05.md",
+                "file": "48-Galatians/Gal.4.8-20.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gal.4.8-20"
+            }
+          }
+        ]
+      },
+      {
+        "id": "188bb3ba0249d0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab795b5a0945c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Gal.4.8-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "Gal.4.8-20"
             }
           }
         ]
@@ -217,10 +237,21 @@
   },
   "active": "df47bd3004070f71",
   "lastOpenFiles": [
+    "48-Galatians/Galatians-Interlinear-4lines.md",
+    "48-Galatians/Gal.4.8-20.md",
+    "48-Galatians/Galatians-Notes.md",
+    "48-Galatians/Galatians-Interlinear.md",
+    "48-Galatians/Gal.4.21-5.1.md",
     "48-Galatians/Gal.3.21-4.7.md",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Gal.3.1-14.md",
+    "48-Galatians/Gal.2.15-21.md",
+    "48-Galatians/Gal.2.11-14.md",
     "48-Galatians/Gal.2.1-10.md",
+    "48-Galatians/Gal.1.11-24.md",
+    "48-Galatians/Gal.1.6-10.md",
+    "48-Galatians/Gal.1.1-5.md",
+    "GDNTG/Chapter05.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter07.md",
     "GDNTG/Chapter13.md",
@@ -230,21 +261,10 @@
     "GDNTG/Chapter09.md",
     "GDNTG/Chapter08.md",
     "GDNTG/Chapter02.md",
-    "GDNTG/Chapter05.md",
     "GDNTG/Chapter03.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "GDNTG/Untitled 1.md",
-    "GDNTG/Untitled 2.md",
-    "GDNTG/Chapter06.md",
-    "GDNTG/Chapter04.md",
-    "GDNTG/Untitled.md",
-    "GDNTG/§14.md",
-    "GDNTG/_index.md",
-    "48-Galatians/Adverbial Complement.md",
-    "48-Galatians/Gal.2.15-21.md",
-    "47-2Corinthians/2Co.3.7-18.md",
-    "47-2Corinthians/2Co.2.12-13.md",
     "48-Galatians/Pasted image 20260811160939.png",
     "Tools/AI Chart.canvas",
     "Untitled.base",
