@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "3272ccb1d7bd0ca2",
+        "id": "9a9d6aeefa880e26",
         "type": "tabs",
         "children": [
           {
-            "id": "436ef7b11e16f5e6",
+            "id": "d16ff55604ddf1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDNTG/Chapter06.md",
+                "file": "48-Galatians/Adverbial Complement.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Adverbial Complement"
+            }
+          }
+        ]
+      },
+      {
+        "id": "364298631dcd23e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d973342d27a18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "48-Galatians/Adverbial Complement.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter06"
+              "title": "Adverbial Complement"
             }
           }
         ]
@@ -98,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875,
-    "collapsed": true
+    "width": 266.4354248046875
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -187,7 +206,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "content/48-Galatians/Gal 1.1-5.md"
+                "file": "48-Galatians/Adverbial Complement.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -215,15 +234,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "436ef7b11e16f5e6",
+  "active": "a7d973342d27a18c",
   "lastOpenFiles": [
+    "48-Galatians/Gal.3.1-14.md",
+    "48-Galatians/Adverbial Complement.md",
+    "GDNTG/Chapter06.md",
     "46-1Corinthians/1Co.1.4-8.md",
     "46-1Corinthians/1Co.12.2-16.md",
     "48-Galatians/Untitled 1.md",
     "46-1Corinthians/_index.md",
     "46-1Corinthians/1Co.11.2-16.md",
     "GDNTG/Chapter05.md",
-    "48-Galatians/Gal.3.1-14.md",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Gal.2.15-21.md",
     "48-Galatians/Gal.3.21-4.7.md",
@@ -241,8 +262,6 @@
     "48-Galatians/Gal.1.1-5.md",
     "GDNTG/GDNTG-TOC.md",
     "GDNTG/Chapter07.md",
-    "GDNTG/Chapter13.md",
-    "GDNTG/Chapter12.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "48-Galatians/Pasted image 20260811160939.png",

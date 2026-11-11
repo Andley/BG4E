@@ -1,11 +1,11 @@
 1. AGG §258c 之概念解析（Concept Definition in AGG §258c）
 
-**「副詞性補語 / 狀語補語」（Adverbial Complement,** **AdvlC****）** 是西班索爾（Heinrich von Siebenthal）在《古希臘文語法》（_Ancient Greek Grammar_, 簡稱 AGG）中，基於**動詞價位理論（Verb Valency Theory）**所提出/採納的句法成分概念。
+**「副詞性補語 / 狀語補語」（Adverbial Complement, AdvlC）** 是西班索爾（Heinrich von Siebenthal）在《古希臘文語法》（_Ancient Greek Grammar_, 簡稱 AGG）中，基於**動詞價位理論（Verb Valency Theory）**所提出/採納的句法成分概念。
 
 語法理論基礎：
 
 - **動詞價位與強制性（Valency and Obligation）**：傳統文法通常將子句成分劃分為「主語、述語、受語/補語」與「狀語/修飾語」。傳統觀念認為副詞、介詞片語均屬「狀語（Adjuncts, A）」，且均為可有可無的選擇性成分（optional constituents）。
-- **AGG 的突破**：AGG 指出，部分動詞（如 `εἰμί` 表存在/位置、`ἔχω` 搭配副詞表狀態、位移/處所動詞等）的動詞價位**強制要求（obligatory）****接續地點、時間或方式等副詞性成分，句子才算文法完整（well-formed/grammatical）。因此，AGG 將這類受動詞價位引導的強制性副詞成分，命名為****「副詞性補語」（Adverbial Complement,** **AdvlC****）**。
+- **AGG 的突破**：AGG 指出，部分動詞（如 `εἰμί` 表存在/位置、`ἔχω` 搭配副詞表狀態、位移/處所動詞等）的動詞價位**強制要求（obligatory）**接續地點、時間或方式等副詞性成分，句子才算文法完整（well-formed/grammatical）。因此，AGG 將這類受動詞價位引導的強制性副詞成分，命名為**「副詞性補語」（Adverbial Complement, AdvlC）**。
 
 AGG §258c 提出的四大主要類型與經文實例：
 
