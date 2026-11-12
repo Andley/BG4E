@@ -6,6 +6,7 @@
       {
         "id": "9a9d6aeefa880e26",
         "type": "tabs",
+        "dimension": 46.34146341463415,
         "children": [
           {
             "id": "d16ff55604ddf1ca",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Adverbial Complement.md",
+                "file": "48-Galatians/Gal.4.8-20.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adverbial Complement"
+              "title": "Gal.4.8-20"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "364298631dcd23e7",
         "type": "tabs",
+        "dimension": 53.65853658536586,
         "children": [
           {
             "id": "a7d973342d27a18c",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48-Galatians/Gal.1.6-10.md",
+                "file": "48-Galatians/Gal.4.8-20.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gal.1.6-10"
+              "title": "Gal.4.8-20"
             }
           }
         ]
@@ -118,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 266.4354248046875,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -234,8 +237,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d16ff55604ddf1ca",
+  "active": "a7d973342d27a18c",
   "lastOpenFiles": [
+    "48-Galatians/Gal.3.21-4.7.md",
+    "48-Galatians/Gal.4.8-20.md",
     "48-Galatians/Gal.1.6-10.md",
     "48-Galatians/Adverbial Complement.md",
     "48-Galatians/Gal.1.11-24.md",
@@ -251,11 +256,9 @@
     "GDNTG/Chapter05.md",
     "48-Galatians/Gal.3.15-20.md",
     "48-Galatians/Gal.2.15-21.md",
-    "48-Galatians/Gal.3.21-4.7.md",
     "48-Galatians/old-Gal.2.15-21.md",
     "48-Galatians/old-Gal.3.23-25.md",
     "48-Galatians/Gal.4.21-5.1.md",
-    "48-Galatians/Gal.4.8-20.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Galatians-Notes.md",
     "48-Galatians/Galatians-Interlinear.md",
