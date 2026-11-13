@@ -4,8 +4,8 @@
 
 
 - 4:21a (<span class="w"><span class="m">V-PAM-2P</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03004&m='>λέγω</a></span><span class="g">請告訴 Tell</span><span class="t"><span class='verb'>Λέγετέ</span></span></span>)P (<span class="w"><span class="m">P-1DS</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></span><span class="g">我 me</span><span class="t">μοι</span></span>)C <span class='punctuation'>,</span> 
-- 4:21b (<span class="w"><span class="m">T-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">這些 those</span><span class="t">οἱ</span></span>  ⁅ ⟦«<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05259&m='>ὑπό</a></span><span class="g">在之下 under</span><span class="t">ὑπὸ</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03551&m='>νόμος</a></span><span class="g">律法 [the] Law</span><span class="t">νόμον</span></span>»<sub>a</sub>⟧⦇  ‹<span class="w"><span class="m">V-PAP-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02309&m='>θέλω</a></span><span class="g">你們願意 wishing</span><span class="t"><span class='ptc'>θέλοντες</span></span></span>›p  ⦈⟦«<span class="w"><span class="m">V-PAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 to be</span><span class="t"><span class='inf'>εἶναι</span></span></span>»<sub>p</sub>⟧c⁆)V <span class='punctuation'>,</span> 
-- 4:21c (<span class="w"><span class="m">T-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὸν</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03551&m='>νόμος</a></span><span class="g">律法 Law</span><span class="t">νόμον</span></span>)C <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">沒 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">V-PAI-2P</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></span><span class="g">你們聽見 you do listen to?</span><span class="t"><span class='verb'>ἀκούετε</span></span></span>)P <span class='punctuation'>;</span> 
+- 4:21b (<span class="w"><span class="m">T-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">這些 those</span><span class="t">οἱ</span></span>  ⁅<sub>⟦«<span class="w"><span class="m">PREP</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05259&m='>ὑπό</a></span><span class="g">在之下 under</span><span class="t">ὑπὸ</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03551&m='>νόμος</a></span><span class="g">律法 [the] Law</span><span class="t">νόμον</span></span>»a⟧⦇</sub>  ‹<span class="w"><span class="m">V-PAP-VPM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02309&m='>θέλω</a></span><span class="g">你們願意 wishing</span><span class="t"><span class='ptc'>θέλοντες</span></span></span>›p  <sub>⦈⟦«<span class="w"><span class="m">V-PAN</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></span><span class="g">是 to be</span><span class="t"><span class='inf'>εἶναι</span></span></span>»p⟧</sub>c⁆)V <span class='punctuation'>,</span> 
+	- 4:21c (<span class="w"><span class="m">T-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></span><span class="g">- the</span><span class="t">τὸν</span></span>  <span class="w"><span class="m">N-ASM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03551&m='>νόμος</a></span><span class="g">律法 Law</span><span class="t">νόμον</span></span>)C <span class="w"><span class="m">PRT-N</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03756&m='>οὐ</a></span><span class="g">沒 not</span><span class="t">οὐκ</span></span>  (<span class="w"><span class="m">V-PAI-2P</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00191&m='>ἀκούω</a></span><span class="g">你們聽見 you do listen to?</span><span class="t"><span class='verb'>ἀκούετε</span></span></span>)P <span class='punctuation'>;</span> 
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 4:22a (<span class="w"><span class="m">V-RPI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01125&m='>γράφω</a></span><span class="g">它記著 It has been written</span><span class="t"><span class='verb'>γέγραπται</span></span></span>)P <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01063&m='>γάρ</a></span><span class="g">因為 for</span><span class="t">γὰρ</span></span>  
 	- 4:22b <span class="w"><span class="m">CONJ</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></span><span class="g">- that</span><span class="t">ὅτι</span></span>  (<span class="w"><span class="m">N-NSM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=00011&m='>Ἀβραάμ</a></span><span class="g">亞伯拉罕 Abraham</span><span class="t">Ἀβραὰμ</span></span>)S (<span class="w"><span class="m">A-APM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=01417&m='>δύο</a></span><span class="g">兩 two</span><span class="t">δύο</span></span>  <span class="w"><span class="m">N-APM</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=05207&m='>υἱός</a></span><span class="g">兒子 sons</span><span class="t">υἱοὺς</span></span>)C (<span class="w"><span class="m">V-AAI-3S</span><span class="l"><a href='https://bible.fhl.net/new/s.php?N=0&k=02192&m='>ἔχω</a></span><span class="g">有 had</span><span class="t"><span class='verb'>ἔσχεν</span></span></span>)P <span class='punctuation'>,</span> 
@@ -53,22 +53,19 @@
 #### 句法筆記（Syntax Notes）
 
 
-- 4:21a Λέγετέ μοι , 
-- 4:21b οἱ <sub></sub>ὑπὸ νόμον<sub>⟧</sub> θέλοντες <sub></sub>εἶναι<sub>⟧</sub>c , 
-- 4:21c τὸν νόμον οὐκ ἀκούετε ; 
-- ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-- 4:22a γέγραπται γὰρ 
-- 4:22b ὅτι Ἀβραὰμ δύο υἱοὺς ἔσχεν , 
-- 4:22c ἕνα ἐκ τῆς παιδίσκης 
-- 4:22d καὶ ἕνα ἐκ τῆς ἐλευθέρας . 
-- 4:23a ἀλλ᾽ ὁ μὲν ἐκ τῆς παιδίσκης κατὰ σάρκα γεγέννηται , 
-- 4:23b ὁ δὲ ἐκ τῆς ἐλευθέρας δι᾽ ἐπαγγελίας . 
+
+- 4:21b οἱ ὑπὸ νόμον θέλοντες εἶναι , 
+	- 冠詞＋分詞內嵌子句 (θέλοντες ...) ＝實名詞的結構，其中的
+	- 分詞內嵌子句＝θέλοντες (小p)＋不定詞內嵌子句 (小c)，其中的
+	- 不定詞內嵌子句 ὑπὸ νόμον ... εἶναι 被切成兩半。
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 - 4:24a ἅτινά ἐστιν ἀλληγορούμενα ·
 - 4:24b αὗται γάρ εἰσιν δύο διαθῆκαι , 
 - 4:24c μία μὲν ἀπὸ ὄρους Σινᾶ εἰς δουλείαν γεννῶσα , 
 - 4:24d ἥτις ἐστὶν Ἁγάρ . 
 - 4:25a τὸ δὲ Ἁγὰρ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ · 
+	- τὸ Ἁγὰρ：Ἁγὰρ 是陰性專有名詞 (BAGD)，前面用中性單數冠詞 τὸ，表示保羅把 Ἁγὰρ 當作「名字 (概念)」來分析，不是]當作「女性 (人物)」去處理。
+	- ἐν τῇ Ἀραβίᾳ：句法上可以修飾主要動詞 ἐστὶν——但用來修飾 Σινᾶ ὄρος 讀起來比較通通順，大多譯本也都如此理解。
 - 4:25b συστοιχεῖ δὲ τῇ νῦν Ἰερουσαλήμ , 
 - 4:25c δουλεύει γὰρ μετὰ τῶν τέκνων αὐτῆς . 
 - ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯

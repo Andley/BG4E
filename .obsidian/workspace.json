@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.4354248046875
+    "width": 210.85171508789062,
+    "collapsed": true
   },
   "right": {
     "id": "7cf29117bbc50740",
@@ -236,7 +237,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7d973342d27a18c",
+  "active": "d16ff55604ddf1ca",
   "lastOpenFiles": [
     "48-Galatians/Gal.4.8-20.md",
     "48-Galatians/Gal.4.21-5.1.md",

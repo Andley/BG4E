@@ -4,11 +4,11 @@
   "sourceModeWhenSearch": true,
   "moveCursorToMatch": true,
   "useSelectionAsSearch": true,
-  "useObsidianSearchInRead": true,
   "useEscapeCharInReplace": true,
   "enableHistory": true,
   "historyMaxCount": 10,
   "historySortOrder": "lastUsedAt",
+  "historyRetention": "lastUsedAt",
   "searchHistory": [
     {
       "text": "[",
@@ -71,6 +71,7 @@
       "count": 1
     }
   ],
+  "searchPresets": [],
   "searchToolbar": [
     {
       "id": "regex",
@@ -81,12 +82,20 @@
       "placement": "inline"
     },
     {
+      "id": "wholeWord",
+      "placement": "inline"
+    },
+    {
       "id": "previous",
       "placement": "inline"
     },
     {
       "id": "next",
       "placement": "inline"
+    },
+    {
+      "id": "selection",
+      "placement": "more"
     },
     {
       "id": "history",
@@ -102,5 +111,16 @@
       "id": "replaceAll",
       "placement": "inline"
     }
-  ]
+  ],
+  "defaultRegexMode": false,
+  "defaultCaseSensitive": false,
+  "defaultWholeWord": false,
+  "appearanceColors": {},
+  "scopeAppearance": {
+    "border": false,
+    "width": 1
+  },
+  "finderDockSide": "right",
+  "finderAutoDock": false,
+  "showFloatingFinderOnOpen": false
 }
