@@ -215,45 +215,6 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "71ff1cea9b98f6d1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cb228872d9ffbd6a",
-        "type": "window",
-        "children": [
-          {
-            "id": "5dbb2fe8a69b13bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60ea81b73948fb53",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tools/Phrasing-Signs.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Phrasing-Signs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 102,
-        "y": 0,
-        "width": 1026,
-        "height": 731,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "a7d973342d27a18c",
   "lastOpenFiles": [
     "Tools/Phrasing-Signs.md",
