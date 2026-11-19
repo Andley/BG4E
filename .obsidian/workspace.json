@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bdc4b8503dd872",
+        "id": "db73033c11b0e851",
         "type": "tabs",
         "children": [
           {
-            "id": "98b6b3a0338d1758",
+            "id": "6444cc2a14b97a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,7 +215,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "98b6b3a0338d1758",
+  "active": "6444cc2a14b97a43",
   "lastOpenFiles": [
     "47-2Corinthians/2Co.12.7.md",
     "48-Galatians/Gal.3.21-4.7.md",

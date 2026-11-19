@@ -62,6 +62,30 @@ number headings: auto, first-level 1, start-at 7
 
 ### 7.3.2 動作的時間 Time of Action
 
+出處：Rodney J. Decker, _Temporal Deixis of the Greek Verb in the Gospel of Mark with Reference to Verbal Aspect_, vol. 10 of _Studies in Biblical Greek_ (Peter Lang Publishing, 2000).
+- **駁斥#1：「歷史現在式」（Historical Present）：用現在式敘述過去事件**
+	- 馬可福音 1:40（以及馬可福音中超過 150 處類似用法）
+		-  <RUBY><ruby><ruby>Καὶ<rt>- And</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἔρχεται</span><rt>來 comes</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02064&m='>ἔρχομαι</a></rt></ruby><rt>V-PMI-3S</rt></RUBY>  <RUBY><ruby><ruby>πρὸς<rt>到面前 to</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04314&m='>πρός</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>αὐτὸν<rt>他 Him</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00846&m='>αὐτός</a></rt></ruby><rt>P-ASM</rt></RUBY>  <RUBY><ruby><ruby>λεπρὸς<rt>痲瘋病人 a leper</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03015&m='>λεπρός</a></rt></ruby><rt>A-NSM</rt></RUBY>  
+	- **傳統文法解釋**：動詞 ἔρχεται 是「現在式主動直說語氣」，傳統文法因為預設「現在式＝現在時間」，遇到敘述過去故事時感到矛盾，只好發明一個例外規則叫「歷史現在式」（認為是為了讓過去的事件聽起來更生動）。
+	- **Decker 的 Aspect 分析**：
+	    - **時間是由上下文決定的**：整段敘事的開頭與背景（如 1:35 的 πρωῒ ἔννυχα λίαν「次日早晨，天未亮的時候」）已經把整個場景錨定在**過去時間**。
+	    - **動詞只表達觀點（Aspect）**：現在式動詞在這裡完全不表示「現在時間」，它只表達**未完成觀點（Imperfective Aspect）**——作者將鏡頭拉近，把動作呈現在讀者眼前「正在展開」，用來標記敘事中的關鍵轉折或前景（Foregrounding）。
+- **駁斥#2：「預言性過去式 / 未來指涉的過去式」（Proleptic / Futuristic Aorist）：用過去式表達未來事件**
+	- 馬可福音 11:24
+		- <RUBY><ruby><ruby>πάντα<rt>所有 all things</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03956&m='>πᾶς</a></rt></ruby><rt>A-APN</rt></RUBY>  <RUBY><ruby><ruby>ὅσα<rt>凡 whatever</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03745&m='>ὅσος</a></rt></ruby><rt>K-APN</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>προσεύχεσθε</span><rt>你們禱告 praying</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04336&m='>προσεύχομαι</a></rt></ruby><rt>V-PMI-2P</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>- also</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>αἰτεῖσθε</span><rt>祈求 you ask</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00154&m='>αἰτέω</a></rt></ruby><rt>V-PMI-2P</rt></RUBY> <span class='punctuation'>,</span>  <RUBY><ruby><ruby><span class='verb'>πιστεύετε</span><rt>當相信 believe</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04100&m='>πιστεύω</a></rt></ruby><rt>V-PAM-2P</rt></RUBY>  <RUBY><ruby><ruby>ὅτι<rt>- that</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03754&m='>ὅτι</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἐλάβετε</span><rt>你們得著了 you receive</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02983&m='>λαμβάνω</a></rt></ruby><rt>V-AAI-2P</rt></RUBY> <span class='punctuation'>,</span>  <RUBY><ruby><ruby>καὶ<rt>就 and</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02532&m='>καί</a></rt></ruby><rt>CONJ</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>ἔσται</span><rt>將成就 it will be</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-FMI-3S</rt></RUBY>  <RUBY><ruby><ruby>ὑμῖν<rt>為你們 to you</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DP</rt></RUBY> <span class='punctuation'>.</span> 
+	- **傳統文法解釋**：ἐλάβετε 是「不定過去式（Aorist）」，傳統上認為它代表過去時間。但因為禱告的應允明顯是**未來**才會發生的事，傳統解經家常將其解釋為「因信心十足，把未來的事當作過去已經發生一樣確定」。
+	- **Decker 的 Aspect 分析**：
+	    - **時間指示在未來**：前文的「禱告祈求」（προσεύχεσθε καὶ αἰτεῖσθε）以及後文的「就必得著」（ἔσται ὑμῖν，未來式）和上下文語境，都清楚指出應允是在**未來**。
+	    - **不定過去式無關過去時間**：ἐλάβετε 在這裡並不表達「過去已經發生」，而是使用**完成觀點（Perfective Aspect）**——將「得著」這個動作視為一個**完整、不可分割的整體**來陳述，與動作發生在過去或未來無關。
+- **駁斥#3：「往昔號」（Augment）與「過去時間」的關聯**
+	- 馬可福音 1:11 的天上聲音
+		- <RUBY><ruby><ruby>Σὺ<rt>你 You</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2NS</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>εἶ</span><rt>是 are</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01510&m='>εἰμί</a></rt></ruby><rt>V-PAI-2S</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>Υἱός<rt>子 Son</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=05207&m='>υἱός</a></rt></ruby><rt>N-NSM</rt></RUBY>  <RUBY><ruby><ruby>μου<rt>我 of Me</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01473&m='>ἐγώ</a></rt></ruby><rt>P-1GS</rt></RUBY>  <RUBY><ruby><ruby>ὁ<rt>- the</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=03588&m='>ὀ</a></rt></ruby><rt>T-NSM</rt></RUBY>  <RUBY><ruby><ruby>ἀγαπητός<rt>愛 beloved</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=00027&m='>ἀγαπητός</a></rt></ruby><rt>A-NSM</rt></RUBY> <span class='punctuation'>,</span>  <RUBY><ruby><ruby>ἐν<rt>- in</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=01722&m='>ἐν</a></rt></ruby><rt>PREP</rt></RUBY>  <RUBY><ruby><ruby>σοὶ<rt>你 You</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=04771&m='>σύ</a></rt></ruby><rt>P-2DS</rt></RUBY>  <RUBY><ruby><ruby><span class='verb'>εὐδόκησα</span><rt>我喜悅 I am well pleased</rt></ruby><rt><a href='https://bible.fhl.net/new/s.php?N=0&k=02106&m='>εὐδοκέω</a></rt></ruby><rt>V-AAI-1S</rt></RUBY> <span class='punctuation'>.</span> 
+	- **傳統文法解釋**：εὐδόκησα 是帶有往昔號（Augment，字首的 ε-）的不定過去式。傳統文法認為直說語氣中的往昔號是「過去時間的標記」，因此常把這句翻譯成「我**曾經**喜悅你」或「我**一向**喜悅你」，甚至推論出這是指向創世以前的永恆揀選。
+	- **Decker 的 Aspect 分析**：
+	    - **反駁「往昔號＝過去時間」**：Decker 在書中專門統計了馬可福音中所有帶有往昔號的直說語氣動詞，指出雖然它們在敘事中**大多數**出現在過去時間（這是「語用」上的常態，因為福音書本身就是歷史敘事），但往昔號在「語義」上並不絕對鎖定過去時間。
+	    - **純粹的完整陳述**：在馬可福音 1:11 的直接引語中，上下文是當下的宣告（「你是我的愛子」），並沒有過去時間的指示詞。這裡使用 εὐδόκησα 只是用**完成觀點（Perfective Aspect）**表達一個完整、不加時間限制的陳述（「我喜悅你」），不需要硬塞一個「過去」的時間概念進去。
+
+
 ### 7.3.3 動作的種類 Type of Action
 
 #### 7.3.3.1 字彙的因素 Lexical Factors
