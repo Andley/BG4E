@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Chapter07"
             }
+          },
+          {
+            "id": "c0f2584e15bbe164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDNTG/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +230,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "6444cc2a14b97a43",
+  "active": "c0f2584e15bbe164",
   "lastOpenFiles": [
+    "GDNTG/Chapter07.md",
+    "GDNTG/Untitled.md",
     "47-2Corinthians/2Co.12.7.md",
     "48-Galatians/Gal.3.21-4.7.md",
     "Tools/Phrasing-Signs.md",
@@ -241,8 +258,6 @@
     "48-Galatians/old-Gal.3.23-25.md",
     "48-Galatians/Galatians-Interlinear-4lines.md",
     "48-Galatians/Galatians-Notes.md",
-    "48-Galatians/Galatians-Interlinear.md",
-    "48-Galatians/Gal.1.1-5.md",
     "GDNTG/GDNTG2.png",
     "GDNTG/GDNTG1.png",
     "48-Galatians/Pasted image 20260811160939.png",
