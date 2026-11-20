@@ -32,7 +32,7 @@ number headings: auto, first-level 1, start-at 9
 |^|生動的 Dramatic|
 |^|現在狀態 Present State|
 |^|格言的 Gnomic|
-|^重複的 Iterative|
+|^|重複的 Iterative|
 |過去完成式直說語氣<br>PLUPERFECT INDICATIVE|加強的 Intensive|
 |^|完成的 Consummative|
 |^|過去狀態 Past State|
