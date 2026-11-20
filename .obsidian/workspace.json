@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Chapter07"
             }
-          },
-          {
-            "id": "c0f2584e15bbe164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDNTG/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,10 +215,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0f2584e15bbe164",
+  "active": "6444cc2a14b97a43",
   "lastOpenFiles": [
-    "GDNTG/Chapter07.md",
     "GDNTG/Untitled.md",
+    "GDNTG/Chapter07.md",
     "47-2Corinthians/2Co.12.7.md",
     "48-Galatians/Gal.3.21-4.7.md",
     "Tools/Phrasing-Signs.md",
