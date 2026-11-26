@@ -28,7 +28,7 @@ number headings: auto, first-level 1, start-at 11
 |名詞用法的不定詞<br>SUBSTANTIVAL INFINITIVES|主詞 Subject|<|
 |^|直接受詞 Direct Object|<|
 |^|間述句 Indirect Discourse|<|
-|^|說名 Explanatory|<|
+|^|說明 Explanatory|<|
 |獨立用法的不定詞<br>INDEPENDENT IMPERATIVES|命令 Imperatival|<|
 |^|獨立 Absolute|<|
 
